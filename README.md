@@ -9,7 +9,10 @@ Over the decades, learner corpora have covered a variety of languages and profic
 
 ## Data
 
-The corpus data in its raw format consists of 1979 ```xml```-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021). Detailed information on the mark-up can be found in the data README file.
+The data folder contains the following files:
+- The ```xml```-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021).
+- The meta-data including all variables and test scores.
+- The output from the feature extraction (Neumann and Evert, 2021) using the features derived from register theory in Neumann (2014).
 
 ## Code
 
@@ -25,5 +28,6 @@ The output section contains exemplary figure output. Consecutive versions will i
 ### References
 
 - Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
+- Neumann, S. (2014)
 - Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
 - The TEI Consortium. (2021). TEI P5: Guidelines for Electronic Text Encoding and Interchange (Version 4.3.0.). https://tei-c.org/Vault/P5/4.3.0/doc/tei-p5-doc/en/Guidelines.pdf
