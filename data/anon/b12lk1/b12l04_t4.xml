@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l04_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Paula!</salute>
+      </p>
+      <p>
+        <s>What you told me about the possibility of <name type="geo">America</name> becoming independent and cutting itself off from globalization sounds very interesting.</s>
+      </p>
+      <p>
+        <s>Last time you wrote to me you wondered <choice><orig>wheather</orig><reg>whether</reg></choice> <name type="geo">Germany</name> could also take this drastical step.</s>
+        <s>I found and internet article which deals exactly with this topic.</s>
+      </p>
+      <p>
+        <s>The author <ref target="b12lk1_2" type="author">Mark Schieritz</ref> wrote the article <ref target="b12lk1_2" type="title">Verführerische Isolation</ref> which could be translated to temtating isolation for a professional online newspaper.</s>
+      </p>
+      <p>
+        <s>He desribes that theoretical our country could cut itself off.</s>
+      </p>
+      <p>
+        <s>Even though the German industry depends a lot on export and every second job is connected to it, through cancelling outsourcing and start every production in our own country the losses would not be very huge.</s>
+      </p>
+      <p>
+        <s>That is why the author believes there would still be enough jobs and without global competition the divisions of wealth would not be as big as nowadays.</s>
+      </p>
+      <p>
+        <s>But <ref target="b12lk1_2" type="author">Schieritz</ref> also underlines that we are still integrated in global trade and that it would take a long time to leave it and to retrain people to qualify them for fields that we outsourced in the past.</s>
+        <s>Another problem he mentions is, that Germany does not have all the necessary resources that are essential, like for example oil.</s>
+      </p>
+      <p>
+        <s>We would <choice><orig>als</orig><reg>also</reg></choice> <choice><orig>loose</orig><reg>lose</reg></choice> all the diversity that we gained <choice><orig>throug</orig><reg>through</reg></choice> globalization.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk1_2" type="author">Schieritz</ref> expresses his fears that food from <choice><orig>othe</orig><reg>other</reg></choice> countries would have to be planted in <name type="geo">Germany</name> <choice><orig>an</orig><reg>and</reg></choice> cost way more, and that there would be no possibiliy for our country to profit from inventions from other countries.</s>
+        <s>The author believes that a country will not develop without the connection to others.</s>
+        <s>He is also a bit sceptical because no other country has tried to isolate itself before.</s>
+      </p>
+      <p>
+        <s>I hope I was able to help you with the information I found in this article.</s>
+        <s>I believe some aspects might also <choice><orig>referr</orig><reg>refer</reg></choice> to <name type="geo">America</name>.</s>
+      </p>
+      <p>
+        <signed>All the best, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

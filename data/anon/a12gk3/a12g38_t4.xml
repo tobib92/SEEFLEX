@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g38_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+      </p>
+      <p>
+        <s>it is nice to hear that you think about coming to <name type="geo">Germany</name> for one year.</s>
+      </p>
+      <p>
+        <s>In search of how to explain why <name type="geo">Berlin</name> could be attractive to you, I found the article <ref target="a12gk3_2" type="title">Berlin spricht Englisch</ref> which can be translated to <quote>Berlin speaks English</quote>, by <ref target="a12gk3_2" type="author">Marina Kormbaki</ref> published in the local newspaper <name type="misc">Hannoversche Allgemeine Zeitung</name> on <date>15th July 2016</date>.</s>
+        <s>The author states that <name type="geo">Berlin</name> became <choice><orig>similiar</orig><reg>similar</reg></choice> to <choice><orig>citys</orig><reg>cities</reg></choice> like <name type="geo">London</name> and <name type="geo">Sydney</name>, since a lot of people visited the German capital as you plan to do.</s>
+        <s>According to <ref target="a12gk3_2" type="author">Kormbaki</ref> you can walk through <name type="geo">Berlin's</name> central districts without hearing German speech but recognizing English advertisements.</s>
+        <s>However you should know that Turkish and Arab are among the most popular languages there.</s>
+      </p>
+      <p>
+        <s>To illustrate <name type="geo">Berlin</name> 2 people are introduced in the article.</s>
+        <s>The <choice><orig>enterpreneur</orig><reg>entrepreneur</reg></choice> <name type="person">David Walker</name> enjoys his cheap latte in a café.</s>
+        <s>He tells that he <quote>of course</quote> communicates with his multicultural colleagues in English.</s>
+        <s><name type="person">Orla Baumgarten</name> sells books and profits from the vivid cultural life in the booming city and its relatively pricely living area.</s>
+      </p>
+      <p>
+        <s>This aspects make <name type="geo">Berlin</name> attractive for you personally, although you already know my general opinion on the city.</s>
+        <s>I hope I could have helped you and look forward to meet you in Germany.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

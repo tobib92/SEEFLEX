@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g73_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> splits his text in four parts.</s>
+        <s>The first and second part is informative.</s>
+        <s>The author wants to wake the <choice><orig>readers</orig><reg>reader's</reg></choice> interests and introduct the theme of the <choice><orig>articel</orig><reg>article</reg></choice>.</s>
+        <s>In the third part the author writes about his own story, how he learned English, when he immigrate in <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name>.</s>
+      </p>
+      <p>
+        <s>In this part <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> wants to show the reader that this is a real problem and not just on the internet, because he must to make it too.</s>
+        <s>The last part is appealing.</s>
+        <s>Here the author wants to show, that all of the <choice><orig>programmes</orig><reg>programs</reg></choice> for immigrants do not work and it is better to <quote>think about making English compulsory for all citizens</quote> <ref target="c10gk5_1" type="line">(l. 21)</ref>.</s>
+      </p>
+      <p>
+        <s>The author also <choice><orig>use</orig><reg>uses</reg></choice> some stylistic devices to convince the reader of his opinion.</s>
+        <s>For example, he <choice><orig>use</orig><reg>uses</reg></choice> the metaphor <quote>you don't learn to stand on your own two feet</quote> <ref target="c10gk5_1" type="line">(ll. 18-19)</ref>.</s>
+        <s>With this metaphor, he wants to show, that it is hard for immigrants to <choice><orig>life</orig><reg>live</reg></choice> in <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name>, because no one tells them about for example the <choice><orig>cultur</orig><reg>culture</reg></choice>.</s>
+        <s>He also <choice><orig>use</orig><reg>uses</reg></choice> the metaphor <quote>someone is holding you up</quote> <ref target="c10gk5_1" type="line">(l. 19)</ref>, to show that there is help, there are people who helps immigrants.</s>
+        <s>But if we compare this metaphor with the <choice><orig>outher</orig><reg>other</reg></choice>, it becomes clear, that there are not <choice><orig>enought</orig><reg>enough</reg></choice> help.</s>
+        <s>Furthermore he uses the <choice><orig>anapher</orig><reg>anaphora</reg></choice> <quote>My parents ...</quote> <ref target="c10gk5_1" type="line">(cf. ll. 11-12, l. 13, l. 14)</ref> to keep the <choice><orig>readers</orig><reg>reader's</reg></choice> interests.</s>
+        <s>In addition <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref>, wants to show how important his parents and family was and is in <choice><orig>generall</orig><reg>general</reg></choice>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Futhermore</orig><reg>Furthermore</reg></choice> the author uses all over the text words like <quote>we</quote> <ref target="c10gk5_1" type="line">(cf. l. 3, l. 4, l. 18, l. 20)</ref> <choice><orig>an</orig><reg>and</reg></choice> <quote>us</quote> <ref target="c10gk5_1" type="line">(l. 23)</ref> to break the distance between the author and the reader.</s>
+        <s>This <choice><orig>worls</orig><reg>words</reg></choice> include the reader and let them know, that this is a problem, all people have and not just immigrants.</s>
+      </p>
+      <p>
+        <s>To sum up, the author uses the structure, the <choice><orig>stilistic</orig><reg>stylistic</reg></choice> devices and the personal speech to get the <choice><orig>readers</orig><reg>reader's</reg></choice> attention and to convince the reader of his own opinion, that there is not enough help for immigrants and we must do something.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

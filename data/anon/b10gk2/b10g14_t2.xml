@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first part at the <choice><orig>begining</orig><reg>beginning</reg></choice>, <ref target="b10gk2_1" type="character">Chris</ref> entering the school, is in slow motion and a medium shot.</s>
+        <s>Also music is played, the song <name type="misc">Ocean Eyes</name> from <name type="person">Billi E.</name>, she sings: <quote>... watching you for so long ...</quote>.</s>
+        <s>Maybe it is because <ref target="b10gk2_1" type="character">Starr</ref> watching him and <ref target="b10gk2_1" type="character">Chris</ref> her.</s>
+        <s>Also <ref target="b10gk2_1" type="character">Starr</ref> is filmed in slow motion and also with a medium shot, she looks sad and like she is thinking about something.</s>
+        <s>Next you can see <ref target="b10gk2_1" type="character"><choice><orig>Chris's</orig><reg>Chris'</reg></choice></ref> shoes and also in slow motion.</s>
+        <s>This time is a voiceoverfrom <ref target="b10gk2_1" type="character">Starr</ref>, she talks about his <name type="misc">Jordans</name> and that it is her witness.</s>
+        <s>Then you see <ref target="b10gk2_1" type="character">Chris</ref> again, but this time with a long shot.</s>
+        <s>Now it spins to <ref target="b10gk2_1" type="character">Starr</ref> again.</s>
+        <s>While the spin you can see the corridor and the other students.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is now filmed with a close up and the camera is zooming in on her.</s>
+        <s>Next <ref target="b10gk2_1" type="character">Chris</ref> is standing behind <ref target="b10gk2_1" type="character">Starr</ref> and the situation is filmed with a close up.</s>
+        <s>Then <ref target="b10gk2_1" type="character">Starr</ref> turns around and with her the camera <choice><orig>swith</orig><reg>switch</reg></choice> to a medium shot and now <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref> are filmed from the side.</s>
+        <s>While they talking the camera <choice><orig>swithing</orig><reg>switching</reg></choice> between their two faces in close up.</s>
+        <s>When <ref target="b10gk2_1" type="character">Chris</ref> moves and begins to dance he is filmed with a long shot from the front.</s>
+        <s>The camera <choice><orig>swithes</orig><reg>switches</reg></choice> to <ref target="b10gk2_1" type="character">Starr</ref> again in a close up and now the camera is zooming in on her and <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> crossing the camera and then they both are filmed with a medium close up and from the side.</s>
+      </p>
+      <p>
+        <s>The music at the <choice><orig>begining</orig><reg>beginning</reg></choice> is sad and matches how <ref target="b10gk2_1" type="character">Starr</ref> is looking at <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s>When the music stops, she stops thinking about him and is angry at him again.</s>
+        <s>The whole clip are many parts filmed with close up, so you can see really good the facial expressions of them.</s>
+        <s>Also often they used medium close up so you can also see their hands and what they doing.</s>
+        <s>All in all the scene is very focus on <ref target="b10gk2_1" type="character">Chris</ref> and <ref target="b10gk2_1" type="character">Starr</ref>, only at three parts you see the corridor and other students.</s>
+        <s>On the facial expressions, you can see how much they like <choice><orig>eachother</orig><reg>each other</reg></choice> and how hard <ref target="b10gk2_1" type="character">Chris</ref> works for <ref target="b10gk2_1" type="character">Starr</ref>.</s>
+        <s>The director <choice><orig>present</orig><reg>presents</reg></choice> <ref target="b10gk2_1" type="character">Chris</ref> in this sequence very lovely and heartful.</s>
+        <s>He wants the relationship between <ref target="b10gk2_1" type="character">Starr</ref> and him good and shows her that he loves her.</s>
+        <s>Also he is present funny and that he <choice><orig>want</orig><reg>wants</reg></choice> to make <ref target="b10gk2_1" type="character">Starr</ref> happy.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is present <choice><orig>quit</orig><reg>quiet</reg></choice> and also angry at <ref target="b10gk2_1" type="character">Chris</ref>, because what <choice><orig>happends</orig><reg>happens</reg></choice> the day before.</s>
+        <s>But in the end they are both presented very lovely and happy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

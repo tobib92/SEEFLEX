@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g13_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem <ref target="c12gk1_1" type="title">Sonnet 116</ref> was written by <ref target="c12gk1_1" type="author">William Shakespeare</ref>.</s>
+        <s>It's about his love to the dark lady, that many sonnet sof his are about.</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>quadrain</orig><reg>quatrain</reg></choice> the narrator talks about his love to the dark lady.</s>
+        <s>He says they haven't been able to stay together not to get married even though he wanted to cause there were <choice><orig>obstacle</orig><reg>obstacles</reg></choice> in their way.</s>
+        <s>His love for the dark lady is not that kind of love that vanishes or changes even if the circumstances change.</s>
+        <s>He'll always hold on to that love.</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quadrain</orig><reg>quatrain</reg></choice> starts <choice><orig>of</orig><reg>off</reg></choice> by the narrator underlining that his love's going to hold on forever.</s>
+        <s>Even storms couldn't bring his love to struggle.</s>
+        <s>It's as bright as a star witha value that's priceless though his love is measurable.</s>
+      </p>
+      <p>
+        <s>In the third and last <choice><orig>quadrain</orig><reg>quatrain</reg></choice> the narrator imagines the lips and cheeks of the dark lady and wishes <gap reason="illegible" quantity="1" unit="word">lirne</gap> to never pass.</s>
+        <s>But the death is coming for everybody though the love will never vanish nor fade away.</s>
+        <s>It will always stay the same.</s>
+        <s>Even till the edge of doom his love will hold on.</s>
+      </p>
+      <p>
+        <s>In the final couplet the narrator finishes by telling that if he's proven wrong, no man has ever written nor loved.</s>
+        <s>By saying that he's showing that he can't be proven wrong cause his love really is all these things he's described before.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

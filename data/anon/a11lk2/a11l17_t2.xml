@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l17_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given <choice><orig>Scene</orig><reg>scene</reg></choice> <ref target="a11lk2_1" type="character">Amir</ref> is one of the protagonists.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir Kapoor</ref> is a successful, powerful lawyer at <name type="misc">Leibowitz, Bernstein and Harris</name> with an apartment and private life to match.</s>
+      </p>
+      <p>
+        <s>He is forty years old and married to <ref target="a11lk2_1" type="character">Emily Kapoor</ref>.</s>
+        <s>He has been brought into a strict <choice><orig>muslim</orig><reg>Muslim</reg></choice> household, but is an apostate, so he rejects his religion.</s>
+        <s>He changed his last name from <name type="misc">Abdullah</name> to <name type="misc">Kapoor</name>, to avoid discrimination.</s>
+        <s>Furthermore he claims that he comes from <name type="geo">India</name> and not <name type="geo">Pakistan</name>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> works together with <ref target="a11lk2_1" type="character">Jory</ref> at the lawfirm.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> seems disappointed and amazed when he finds out that <ref target="a11lk2_1" type="character">Jory</ref> got the promotion.</s>
+        <s><quote>You have any idea how much of myself I've poured into that place?</quote><ref target="a11lk2_1" type="line">(ll. 22f.)</ref>.</s>
+        <s>The way he reacts proves that he is naive.</s>
+        <s>Thinking that he could get the promotion, although he has changed his name and lied about his roots, makes him naive.</s>
+      </p>
+      <p>
+        <s>He avoids the conversation about the affair and just argues about the promotion, till the guests are gone.</s>
+        <s><quote>I know what I saw</quote>, <quote>You have any idea...</quote><ref target="a11lk2_1" type="line">(p. 72, ll. 21f.)</ref>.</s>
+        <s>On the one hand this highlights that <ref target="a11lk2_1" type="character">Amir</ref> is very well behaved, not talking about private <choice><orig>promblems</orig><reg>problems</reg></choice> in front of friends.</s>
+        <s>On the other hand, it shows how much he values his career and that his job is more important to him than his private life.</s>
+      </p>
+      <p>
+        <s>Besides he is at work before anyone else in the morning and is the last one that leaves the office <ref target="a11lk2_1" type="line">(p. 72, ll. 25ff.)</ref>.</s>
+        <s>One can conclude that he has a lot of stamina and is very ambitious.</s>
+      </p>
+      <p><s>Furthermore he talks to <ref target="a11lk2_1" type="character">Jory</ref> in a <choice><orig>disrespectfull</orig><reg>disrespectful</reg></choice> way.</s><quote><s>You think you're the nigger here?</s><s>I'm the nigger!</s><s>Me!</s></quote><ref target="a11lk2_1" type="line">(p. 72, l. 29)</ref>. <s>This gives evidence, that he <choice><orig>can not</orig><reg>cannot</reg></choice> control his feelings and emotions.</s></p>
+      <p><s>Moreover he hits his wife.</s><quote><s>All at once, <ref target="a11lk2_1" type="character">Amir</ref> hits <ref target="a11lk2_1" type="character">Emily</ref> in the face.</s><s>A vicious blow</s></quote><ref target="a11lk2_1" type="line">(p. 74, l. 5)</ref>. <s>This proves that he is very aggressive.</s></p>
+      <p>
+        <s>However he regrets his action <choice><orig>immediatly</orig><reg>immediately</reg></choice>.</s>
+        <s><quote>Oh my god...</quote><ref target="a11lk2_1" type="line">(p. 74, l. 15)</ref>.</s>
+        <s>This proves that he normally would never hit a <choice><orig>women</orig><reg>woman</reg></choice>.</s>
+      </p>
+      <p>
+        <s>To sum up everything that has been stated <choice><orig>bevor</orig><reg>before</reg></choice> <ref target="a11lk2_1" type="character">Amir</ref> is a round character.</s>
+        <s>In the beginning of the play he seems like a powerful lawyer with a private life to match, a beautiful apartment at the <name type="geo">Upper East Side</name> and a perfect relationship.</s>
+        <s>But in the end he is the complete opposite.</s>
+        <s>His character <choice><orig>devellopped</orig><reg>developed</reg></choice> and he lost everything that he loved.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

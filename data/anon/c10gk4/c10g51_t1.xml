@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g51_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> given at <date>April 7th, 2009</date> in <name type="geo">Istanbul</name>, deals with the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>In the introduction of the speech, <ref target="c10gk4_1" type="speaker">Barack Obama</ref> tells the reason why he came to <name type="geo">Turkey</name>, the relationship between the <name type="geo">USA</name> and <quote>the people of the Muslim world</quote> <ref target="c10gk4_1" type="line">(l. 2)</ref>.</s>
+        <s>In the following sentences he gave an insight of the <choice><orig>american</orig><reg>American</reg></choice> youth and their spirit of activism and responsibility.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>mainpart</orig><reg>main part</reg></choice>, he indirectly speaks to the roundtable, in which he takes a part in the moment, <quote>wherever I travel abroad and speak to groups like this</quote> <ref target="c10gk4_1" type="line">(l. 7)</ref> and he tells them how important and strong a single exchange for the students can be, <quote>it can break down walls</quote> <ref target="c10gk4_1" type="line">(l. 13)</ref>, because people come together and share experience.</s>
+        <s><ref target="c10gk4_1" type="speaker">Barack</ref> also gave the <choice><orig>speach</orig><reg>speech</reg></choice>, because the <name type="geo">USA</name> has not been forever a country which is known as a good place for a student exchange.</s>
+      </p>
+      <p>
+        <s>In the end of the speech <ref target="c10gk4_1" type="line">(l. 18-22)</ref> <ref target="c10gk4_1" type="speaker">Obama</ref> emphasizes the importance of exchanges for the governments, the pursuit of lasting peace, that you will find a partner, a supporter and a friend in the <name type="geo">United States of America</name>.</s>
+        <s>The speech has been very <choice><orig>succesful</orig><reg>successful</reg></choice> because <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> is now one of the most visited <choice><orig>countrys</orig><reg>countries</reg></choice> and most popular ones for student exchanges.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

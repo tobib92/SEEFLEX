@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l20_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12lk2_1" type="title">Sonnet 60</ref> is written by <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+        <s>Now you can read my paraphrase version.</s>
+      </p>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>the waves <choice><orig>moves</orig><reg>move</reg></choice> the stones at</l>
+            <l>the beach like minutes.</l>
+          </s>
+          <s>
+            <l>The stones changing the place</l>
+            <l>and they never go back on the place before, because of that, the stones fight to move forwards.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>Birth is the start of life,</l>
+            <l>from youth to being an adult,</l>
+            <l>the fight against the darkness,</l>
+            <l>the time we have is a gift.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>The time goes by</l>
+            <l>we don't keep the youth forever,</l>
+            <l>we delve in the beauty of human and the rare truth.</l>
+          </s>
+          <s>
+            <l>The death will come.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>I hope you live your life because</l>
+            <l>the death will come.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

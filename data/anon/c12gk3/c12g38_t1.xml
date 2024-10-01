@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g38_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given drama extract from <ref target="c12gk3_1" type="title">Macbeth</ref> by <ref target="c12gk3_1" type="author">Shakespeare</ref>, <ref target="c12gk3_1" type="scene">Act 1, Scene 7</ref>, published in the early <date>17th century</date>, shows an argument between the protagonist <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>As <ref target="c12gk3_1" type="character">Macbeth</ref> told his wife about the prophecy of him becoming king, she starts to plan to murder the present king <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>In their argument, <ref target="c12gk3_1" type="character">Macbeth</ref> tries to stop her from her thoughts of murdering him beacuse he has earned himself a high reputation.</s>
+        <s>She tells him that he is just not brave enough and that he has to do something, like murdering the <choice><orig>king</orig><reg>King</reg></choice>, in order to keep his reputation.</s>
+        <s>At this point, he still does not want to go this far yet, but she convinces him anyways.</s>
+      </p>
+      <p>
+        <s>She insults him and says that he would not be a man if he did not do it.</s>
+        <s>He still is not sure and kind of afraid of failing, so she presents her exact plan of making the servants drunk to unguard <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> is competely convinced in the end and is impressed by her courage.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

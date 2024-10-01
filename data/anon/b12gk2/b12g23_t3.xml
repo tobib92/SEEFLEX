@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g23_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr Johnson</salute>
+      </p>
+      <p>
+        <s><choice><orig>with</orig><reg>With</reg></choice> your statement you were <choice><orig>completly</orig><reg>completely</reg></choice> right.</s>
+        <s>You as humanity got everything you need, to stop climate change, but you get even more: you got greed and the compulsive will to power over everything.</s>
+        <s>Especially you and your club politicians I just want to ask you some questions.</s>
+        <s>How much of your own money did you ever donate to organisations that help preventing climate change in the past?</s>
+        <s>Or did you ever <choice><orig>took</orig><reg>take</reg></choice> a train before a flight, although it takes much longer for the same distance?</s>
+        <s>I think you never did and even when donated like 0.5 percent of your money every month it was to less.</s>
+        <s>And why did you act like that, because of the greed.</s>
+        <s>And nearly everyone in the <choice><orig>western</orig><reg>Western</reg></choice> world acts like that.</s>
+        <s>You and some other politicians tried hard.</s>
+        <s>You made C02 products more expensive for the big employers to produce.</s>
+        <s>And they just increased the price so the poor people <choice><orig>need</orig><reg>needed</reg></choice> to pay more.</s>
+        <s>And why did this <choice><orig>happened</orig><reg>happen</reg></choice>?</s>
+        <s>Simple answer, because of the greed.</s>
+        <s>But a like a wise native American said <quote>one day the white people will discover that they cannot eat gold</quote>.</s>
+        <s>And this is what is happening at this moment.</s>
+        <s>The big factories got destroyed by earthquakes, hurricanes and the <choice><orig>raising</orig><reg>rising</reg></choice> water.</s>
+        <s>Millions of people have no home.</s>
+        <s>The politicians tried to keep the borders and rules active, but they could not.</s>
+        <s>The whole world is like an <choice><orig>anachy</orig><reg>anarchy</reg></choice> and every day you live in the fear of dying whether by <choice><orig>a other</orig><reg>another</reg></choice> human who got less or an earthquake.</s>
+        <s>When you and all the people would have changed their mind and let the money away you could have saved the world, but a humanity that cooperates with every single individuum, <choice><orig>i</orig><reg>I</reg></choice> think this is utopia.</s>
+      </p>
+      <p>
+        <signed>Greetings, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

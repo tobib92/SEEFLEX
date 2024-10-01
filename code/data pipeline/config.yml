@@ -1,0 +1,42 @@
+# Paths and patterns
+paths:
+  directory: "/path/to/different directory"        # Directory Path
+  file_patterns: "*.txt"                           # File Patterns
+
+# Default text cleaning options
+text_cleaning:
+  use_orig: true                                   # Original vs. corrected version of words
+  use_expan: false                                 # Abbreviations vs. expanded version of words (e.g. EU vs. European Union)
+  remove_quotes: false                             # Remove quotes
+  remove_q: false                                  # Remove content in inverted commas
+  remove_names:
+    person: false                                  # Remove names (persons)
+    geo: false                                     # Remove names (places)
+    misc: false                                    # Remove names (miscellaneous)
+  remove_references:
+    author: false                                  # Remove references (authors)
+    title: false                                   # Remove references (titles)
+    line: false                                    # Remove references (lines)
+    scene: false                                   # Remove references (scenes)
+  remove_salutations:
+    salute: false                                  # Remove salutations (salutes)
+    signed: false                                  # Remove salutations (signatures)
+  remove_headers: false                            # Remove headers
+  remove_surplus: false                            # Remove surplus words
+  remove_add: false                                # Remove additions (e.g. in parentheses)
+  remove_gaps: false                               # Remove gaps
+  remove_foreign: false                            # Remove foreign words
+  remove_dates: false                              # Remove dates
+  remove_links: false                              # Remove hyperlinks
+  remove_stage: false                              # Remove stage instructions
+  remove_kinesic: false                            # Remove kinesic elements
+  remove_said: false                               # Remove direct speech in source texts
+  remove_emph: false                               # Remove emphasized content
+
+  #remove_structural_attributes:
+  #  s_tags: false                                  # Remove sentence tags
+  #  p_tags: false                                  # Remove sentence tags
+
+  remove_teiHeader: false                          # Remove the TEI Header in the documents
+
+use_bundle: original

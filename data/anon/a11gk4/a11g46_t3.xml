@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g46_t3</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>thanks for asking me about this topic, <choice><orig>its</orig><reg>it's</reg></choice> true I in fact have this book in class as our main topic right now.</s>
+        <s>Of course <choice><orig>its</orig><reg>it's</reg></choice> understandable that teachers don't want their pupils to use the slang and the vulgar language contained in the book.</s>
+        <s>The book describes the incredibly unjust situations of black <choice><orig>americans</orig><reg>Americans</reg></choice> and even if ti may be <choice><orig>one sided</orig><reg>one-sided</reg></choice> at times it is good for students to know the point of view of black people as well.</s>
+        <s>While segregation in <choice><orig>america</orig><reg>America</reg></choice> may have been abolished since well over 50 years some remnant of that time have remained.</s>
+        <s>If you look at the statistics <choice><orig>african-americans</orig><reg>African Americans</reg></choice> have a higher unemployment rate than white people and have a lower chance to get school qualifications or even go to school.</s>
+        <s>The police controls blacks more often adn more strict than other races.</s>
+        <s>And to me the worst of them all, more than a quarter of <choice><orig>african-americans</orig><reg>African Americans</reg></choice> live in poverty.</s>
+        <s>While statistics can always be taken out of context and we shouldN't rely on them too heavily <choice><orig>its</orig><reg>it's</reg></choice> not hard to see a pattern here and I'm convinced including a book like this in high schools would be a step in the right direction.</s>
+        <s>Especially in schools with a majority of white pupils this novel is a perfect opportunity to bring up topics like discrimination that aren't talked about too much usually.</s>
+      </p>
+      <p>
+        <s>Maybe we should transfer our aspirations internationally and the book should be read <choice><orig>world wide</orig><reg>world-wide</reg></choice>.</s>
+        <s>It would give people who don't know anything about this particular situation in <choice><orig>america</orig><reg>America</reg></choice> a good overview.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

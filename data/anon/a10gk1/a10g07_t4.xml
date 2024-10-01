@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g07_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Mainly the <choice><orig>Interview</orig><reg>interview</reg></choice> deals with <choice><orig>Fast Fashion</orig><reg>fast fashion</reg></choice>, published in <name type="misc">Spiegel Online</name>, <date>21 December, 2017</date>, from <ref target="a10gk1_2" type="author">Jörg Oberwittler</ref>.</s>
+        <s>First of all, in <choice><orig>countris</orig><reg>countries</reg></choice> like <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name> there is not a good place to live, because of the textile industry, there is so much pollution from the industry.</s>
+        <s>People live of the and with the pollution.</s>
+        <s>The low wages of the workers <choice><orig>furthemore</orig><reg>furthermore</reg></choice> contribute to the bad situation of <choice><orig>bangladeshi</orig><reg>Bangladeshi</reg></choice> and other low-wage countries garment workers.</s>
+        <s>The people <choice><orig>their</orig><reg>there</reg></choice> work really hard, to become low wages.</s>
+      </p>
+      <p>
+        <s>They have so long working days.</s>
+        <s>They do not have safe working <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+        <s>good wages or good working conditions.</s>
+      </p>
+      <p>
+        <s>To change this, should the industry change the working conditions.</s>
+        <s>And the <choice><orig>politic</orig><reg>politics</reg></choice> <choice><orig>the</orig><reg>they</reg></choice> should be justice to the workers and their conditions in addition to their wages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

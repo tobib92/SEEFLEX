@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g20_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk2_1" type="title">The Hate U Give</ref>, directed by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> released in <date>2018</date>, is based on a book with the same title, written by <ref target="b10gk2_1" type="author">Angie Thomas</ref>.</s>
+        <s>It deals with the life of a 16 year old girl, named <ref target="b10gk2_1" type="character">Starr</ref>, after her friend <ref target="b10gk2_1" type="character">Khalil</ref> was shot by a racist police officer and how racism affects her life.</s>
+      </p>
+      <p>
+        <s>The given scene shows <ref target="b10gk2_1" type="character">Starr</ref> in her white school.</s>
+        <s>She is at her locker when she sees her boyfriend.</s>
+        <s>She is mad at him because he wanted to take their relationship on a further level without asking.</s>
+        <s>They talk about the situation and <ref target="b10gk2_1" type="character">Starr</ref> ends up forgiving him.</s>
+        <s>The scene ends with them walking to a less public place, smiling at <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

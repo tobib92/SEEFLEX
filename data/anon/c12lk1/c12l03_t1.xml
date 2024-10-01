@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l03_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> by <ref target="c12lk1_1" type="author">William Shakespeare</ref> is one of the sonnets that is written to the Fair Youth, a beautiful young man <choice><orig>whos</orig><reg>whose</reg></choice> identity is unknown until today.</s>
+        <s>But it is not addressing to a <quote>you</quote>, in <ref target="c12lk1_1" type="author"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></ref> language a <quote>thou</quote>, as the other plays that are written to the Fair Youth.</s>
+        <s>The sonnet has four <choice><orig>quartains</orig><reg>quatrains</reg></choice> with four lines and one couplet with two lines.</s>
+        <s>This makes up fouteen lines.</s>
+        <s>It is written in iambic pentrameter.</s>
+        <s>In the <choice><orig>quartains</orig><reg>quatrains</reg></choice> <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> uses a crossrhyme and in the couplet a pairrhyme.</s>
+      </p>
+      <p>
+        <s>The sonnet deals with the issue that nothing can resist time because everything that is existing on earth as a mortal but <choice><orig>their</orig><reg>there</reg></choice> is a <choice><orig>soulution</orig><reg>solution</reg></choice> because the youth can survive in the sonnets.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

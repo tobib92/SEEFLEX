@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l33_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12lk3_1" type="title">The Merchant of Venice</ref>, written by <ref target="a12lk3_1" type="author">William Shakespeare</ref> is a play about a bond between a Christian and a Jew which leaves the Jew losing everything in the end.</s>
+        <s>This play could have some <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> aspects in it.</s>
+        <s>But does it raise awareness for the problem or does it fuel <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes?</s>
+      </p>
+      <p>
+        <s>One argument for the play raising awareness for the problem is that it was <name type="person">Shakespeare's</name> intention to show the problems of the society he lived in, where Jews had to deal with discrimination and violence.</s>
+        <s>But this play could only be seen as a criticism of society if the audience have the right knowledge about the times <name type="person">Shakespeare</name> lived in, the Elizabethan Age.</s>
+      </p>
+      <p>
+        <s>An argument that this play only fuels <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes is taht <name type="person">Shylock</name> has, as said in 2) , mostly negative and stereotypical character traits.</s>
+        <s>He for example loves money more than his daughter, exploits his friends and is depicted as being <choice><orig>inheritantly</orig><reg>inherently</reg></choice> bad.</s>
+        <s>This could lead to the audience thining that all Jews are the way <name type="person">Shylock</name> is.</s>
+        <s>This is onlyunderlined byt he fact that <name type="person">Shylock</name> is often referred to as <quote>the Jew</quote> throughout the whole play, which strongly suggests that all Jews are like him and they all have his bad qualities.</s>
+        <s>By saying <quote>the Jew</quote> the audience thinks that he stands as a symbol for all Jews.</s>
+      </p>
+      <p>
+        <s>Another argument for <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> <choice><orig>raises</orig><reg>raising</reg></choice> awareness for the problem is that if you look at the play from <name type="person">Shylock's</name> perspective it becomes a play about a Jew that has been mistreated his whole life and loses everything in the process but still stays true to his religion.</s>
+        <s>It would become a play that strongly suggests that there needs to be change in the society.</s>
+      </p>
+      <p>
+        <s>But if you hypothetically imagine how an <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> audience would react to this play it would again become a play that fuels <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes.</s>
+        <s>What also underlines this is that <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> was one of <name type="person">Adolf Hitler's</name> favorite plays.</s>
+      </p>
+      <p>
+        <s>All in all one can say that if oyu interpret it the right way it could be raising awareness for the problem but I think it only fuels <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice>stereotypes because of the reasons mentioned above.</s>
+      </p>
+      <p>
+        <s>I think <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> should not be read or played in theatre anymore because its view of the world is <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> and outdated.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

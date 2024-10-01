@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g20_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This excerpt of scene 3 points the American problem of unintentional <choice><orig>Racism</orig><reg>racism</reg></choice> and the fact that you can never get rid of your religion and the prejudices you have.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Amir</ref><choice><orig>become</orig><reg>becomes</reg></choice> so upset during the dinner night, because his wife and also the couple's friends <ref target="b11gk2_1" type="character">Jory</ref> <add>(who's black)</add> and <ref target="b11gk2_1" type="character">Isaac</ref> <add>(who's Jewish)</add> see <choice><orig>themself</orig><reg>themselves</reg></choice> as open-minded, but they behavior shows that even people that think they are well meant and progressive will do and say racist things.</s>
+        <s>That <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> <add>(who's Jewish)</add> face is a <choice><orig>Motif</orig><reg>motif</reg></choice>.</s>
+        <s>As a child his <choice><orig>islamic</orig><reg>Islamic</reg></choice> mother spat in his face because she found out that he had a crush on a Jewish girl.</s>
+        <s>At the next day he spat in the face of the Jewish girl.</s>
+        <s>Despite having had no particular opinions on Jews previous to his mother's intervention, <ref target="b11gk2_1" type="character">Amir</ref> spits in the girl's face, just as his mother spat in his.</s>
+        <s>Through the story, <ref target="b11gk2_1" type="character">Amir</ref> <choice><orig>ilustrates</orig><reg>illustrates</reg></choice> this as reason why he has renounced his Muslim faith.</s>
+      </p>
+      <p>
+        <s>With the fact that <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> face <ref target="b11gk2_1" type="line">(p. 72, l. 40)</ref> <ref target="b11gk2_1" type="author">Akhtar</ref> shows how the antisemitic contempt <ref target="b11gk2_1" type="character">Amir</ref> learned from his mother still lives within him.</s>
+        <s>This makes clear that our <choice><orig>Experiences</orig><reg>experiences</reg></choice> and racist thoughts will never leave our mind.</s>
+        <s>On page 73 in line one this also <choice><orig>become</orig><reg>becomes</reg></choice> clear, because of <ref target="b11gk2_1" type="character"><choice><orig>Isaac</orig><reg>Isaac's</reg></choice></ref> words: <quote>There's a reason they call you people animals</quote>.</s>
+        <s>It shows that even if we are open-minded and try to be not racist most of the time at some point everything we heard about <choice><orig>an</orig><reg>a</reg></choice> person or <choice><orig>an</orig><reg>a</reg></choice> fork will come in our mind and make us hate the person more and more.</s>
+      </p>
+      <p>
+        <s>People often try to hide their racist thoughts but at some point they become so angry that they <choice><orig>can not</orig><reg>cannot</reg></choice> hide it anymore.</s>
+        <s>The fact that <ref target="b11gk2_1" type="character">Amir</ref> hits <ref target="b11gk2_1" type="character">Emily</ref> is a symbol for <ref target="b11gk2_1" type="character">Amir's</ref> hypocrisy, because this embodies the same violence against women <ref target="b11gk2_1" type="character">Amir</ref> earlier abhors.</s>
+        <s>He <choice><orig>look</orig><reg>looks</reg></choice> like the male Muslim stereotype from which he has tried to distance himself.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Amir's</ref> monologue on page 72, line 22-29 shows the American problem of unintentional <choice><orig>Racism</orig><reg>racism</reg></choice> against people which look like they are a part of the Muslim <choice><orig>Religion</orig><reg>religion</reg></choice>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> works harder <choice><orig>then</orig><reg>than</reg></choice> <ref target="b11gk2_1" type="character">Jory</ref> but she <choice><orig>get</orig><reg>gets</reg></choice> the caseload of <ref target="b11gk2_1" type="character">Mort</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> really had to work his way up and even the black <ref target="b11gk2_1" type="character">Jory</ref> starts with better working conditions.</s>
+      </p>
+      <p>
+        <s>To come to an <choice><orig>End</orig><reg>end</reg></choice> this <choice><orig>Expert</orig><reg>excerpt</reg></choice> shows that you can never get rid of your religion and prejudices.</s>
+        <s>The dispute between the four <choice><orig>diffrent</orig><reg>different</reg></choice> people shows this very well.</s>
+        <s>At the latest in an argument, one loses one's principles and idea of not being racist.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

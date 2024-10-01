@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g47_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>blog post</orig><reg>blogpost</reg></choice> <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> was written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> and published on <date>5th February 2014</date> on <choice><orig>Environment</orig><reg>environment</reg></choice>.</s>
+        <s>It is about the <choice><orig>enviromental</orig><reg>environmental</reg></choice> pollution as the result of the human industrialization and technology progress.</s>
+      </p>
+      <p>
+        <s>For many thousands of years the nature has lived with human-being in peace.</s>
+      </p>
+      <p>
+        <s>The earth <choice><orig>itsself</orig><reg>itself</reg></choice> <choice><orig>have</orig><reg>has</reg></choice> the conditions for life, for example air, water, oxygen or carbin dioxide.</s>
+      </p>
+      <p>
+        <s>But since people began to want more through science and technology there are hazardous effects on sea life, <choice><orig>cropss</orig><reg>crops</reg></choice> or the human health.</s>
+      </p>
+      <p>
+        <s>The industries automobiles and other vehicular traffic makes everything dirty so water, air or vegetables are not the same like for over thousand of years it was.</s>
+      </p>
+      <p>
+        <s>Two effects also were the industrial <choice><orig>enviroment</orig><reg>environment</reg></choice> tragedy at <name type="geo">Bhopal</name>, where over 2000 people lost their life because of a <choice><orig>leakag</orig><reg>leakage</reg></choice> or <name type="geo">Hiroshima</name> in <date>1945</date>.</s>
+      </p>
+      <p>
+        <s>She <choice><orig>informes</orig><reg>informs</reg></choice> about the importance of making a change now at the end.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g23_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The first <choice><orig>Act</orig><reg>act</reg></choice> and the 7th scene from the drama <ref target="c12gk2_1" type="title">Macbeth</ref>, written by <ref target="c12gk2_1" type="author">Shakespeare</ref> is about a dialogue between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>They may talk to each other on an evening because they have dinner in the begin of the extract <ref target="c12gk2_1" type="line">(l. 1)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> and <ref target="c12gk2_1" type="character">Macbeth</ref> are talking about <ref target="c12gk2_1" type="character">Macbeth's</ref> future title, to be the future King of <name type="geo">Scotland</name>, but also about <ref target="c12gk2_1" type="character">Macbeth's</ref> relative, <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince her husband of murdering <ref target="c12gk2_1" type="character">King Duncan</ref> to save his title and because more than a real man <ref target="c12gk2_1" type="line">(ll. 25-27)</ref>.</s>
+      </p>
+      <p>
+        <s>In the first part <ref target="c12gk2_1" type="line">(ll. 1-22)</ref> they talk about his current title and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince him to be not okay with that, that he could be more than just <q>Thane of Cawdor</q> but <ref target="c12gk2_1" type="character">Macbeth</ref> does not want to hear it <choice><orig>an</orig><reg>and</reg></choice> is okay with his job <ref target="c12gk2_1" type="line">(ll. 20-22)</ref>.</s>
+      </p>
+      <p>
+        <s>In the second part <ref target="c12gk2_1" type="line">(ll. 23-53)</ref> <ref target="c12gk2_1" type="character">Macbeth</ref> tries further and further to realize his man he could be more if he does more for him and her.</s>
+      </p>
+      <p>
+        <s>If he would bring the same sacrifices like she would bring he could be King of <name type="geo">Scotland</name>.</s>
+      </p>
+      <p>
+        <s>Here <ref target="c12gk2_1" type="character">Macbeth</ref> is becoming unsure and he thinks about his <choice><orig>wifes</orig><reg>wife's</reg></choice> plan.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

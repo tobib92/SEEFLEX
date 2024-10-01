@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l37_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given excerpt from <ref target="a12lk3_1" type="author">William Shakespeare</ref>'s <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> <name type="person">Shylock</name>, a <choice><orig>jewish</orig><reg>Jewish</reg></choice> moneylender, meets <name type="person">Tubal</name>, he is another <choice><orig>jewish</orig><reg>Jewish</reg></choice> friend, they talk about <name type="person">Shylock's</name> daughter <name type="person">Jessica</name> who ran away with a Christian man.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> wants <name type="person">Tubal</name> to find her not matter what it costs.</s>
+      </p>
+      <p>
+        <s><ref target="a12lk3_1" type="title">The Merchant of Venice</ref> is a tragedy and fits into the dramatologic triangle structure.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> who lives in a city where <choice><orig>jewish</orig><reg>Jewish</reg></choice> people don't have much rights or good initial position to live there <gap reason="illegible" quantity="1" unit="word">propedy</gap> and <choice><orig>eventhough</orig><reg>even though</reg></choice>, he <name type="person">Shylock</name> has found himself a good <choice><orig>jewish</orig><reg>Jewish</reg></choice> friend who would search for his daughter <name type="person">Shylock</name> needs to pay attention to whom he gives his trust and who would not turn his back against him.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> has enough money and is ready to spend it for finding his beloved one.</s>
+        <s>Moreover, he is concerned that she just ran away with a Christian.</s>
+        <s>That does not <choice><orig>suits</orig><reg>suit</reg></choice> him well and he just wants his daughter back.</s>
+        <s>When <name type="person">Tubal</name> tells him that the Christian is <name type="person">Antonio</name> he is very angry because <name type="person">Antonio</name> has caused <name type="person">Shylock</name> a lot of problems in the past and they hate each other.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> wants now to find someone who will break the bond between <name type="person">Jessica</name> and <name type="person">Antonio</name> because then he is free to do whatever business he wants to.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

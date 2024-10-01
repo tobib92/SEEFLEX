@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>It is difficult for <choice><orig>White-Americans</orig><reg>white Americans</reg></choice> and Hispanics to live together peacefully in <name type="geo">California</name>.</s>
+      </p>
+      <p>
+        <s>A lot of immigrants from <name type="geo">Mexico</name> come to the <name type="geo">USA</name> in search for a better job or / and life.</s>
+        <s>This is the case because <name type="geo">Mexico</name> has a high crime-rate and a corrupt government, making life there dangerous.</s>
+        <s>However a lot of <choice><orig>White-Americans</orig><reg>white Americans</reg></choice> have the prejudice that because <name type="geo">Mexico</name> is highly dangerous and criminal, most Mexicans they'll meet will be criminals or dangerous.</s>
+        <s>This can be seen in the novel, people are scared of crime and built their <choice><orig>gated-communities</orig><reg>gated communities</reg></choice>.</s>
+        <s>But, of course, a lot of crime has not been done by Hispanics.</s>
+        <s>The <choice><orig>Immigration</orig><reg>immigration</reg></choice> to the <name type="geo">USA</name> is getting increasingly more, crime may not become more oftne, but it is presented in more medias now.</s>
+        <s>Television, online news and social media make it possible for crime to be more prominent in the public.</s>
+        <s>Some politicians, <add>e.g. <name type="person">Trump</name></add> not only in the <name type="geo">USA</name>, use this to make people fear certain groups <add>ethnical, ...</add>.</s>
+        <s>Those politicians will then promise safety, often times using discrimination to <q>ensure</q> that <q>safety</q>.</s>
+      </p>
+      <p>
+        <s>Let's take illegal immigrants as an example.</s>
+        <s>Having the government not make it possible for them to have work or any source of income, sometimes makes them steal money, because how else are they supposed to survive?</s>
+        <s>I believe that, from <choice><orig>todays</orig><reg>today's</reg></choice> view, the <name type="person">Obama</name> government had tried and <choice><orig>partly</orig><reg>partially</reg></choice> succeeded in making it possible for immigrants to ahve a better life.</s>
+        <s>However the <name type="person">Trump</name> government cancelled a lot of those changes and had even stricter laws in place.</s>
+      </p>
+      <p>
+        <s>To come back to <name type="geo">California</name> specifically a lot of immigrants go there because it is near the border to <name type="geo">Mexico</name> and it has a lot of agriculture and other job fields that hire illegal immigrants.</s>
+      </p>
+      <p>
+        <s>To sum the reasons for intolerance in the <name type="geo">USA</name>, I believe that living peacefully together is complicated because of the fear of immigrants that a lot of Americans have and the way it is used by for example politicians.</s>
+      </p>
+      <p>
+        <s>How can one improve such a situation?</s>
+      </p>
+      <p>
+        <s>I do believe that the government can, of course, improve the situation.</s>
+        <s>This can be seen now even, back when the book was written <add><date>1995</date></add> the labour exchange had to be <q>hidden</q> from the migration police and other authorities, however today you can even find it as an online website.</s>
+        <s>People who are not fully educated on the topic illegal immigration might be more faster to discriminate and fear immigrants.</s>
+        <s>This makes me believe that a proper education could maybe achieve more <choice><orig>open-mindness</orig><reg>open-mindedness</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Another improvement could be achieved though getting rid of <choice><orig>gated-communities</orig><reg>gated communities</reg></choice> because they only further split the poor and rich apart.</s>
+        <s>Gated communities make it possible for people with enough money to just seclude themselves from others, meaning it's splittering society apart.</s>
+      </p>
+      <p>
+        <s>To, again, sum it up I think people need to be properly educated on the matter in order to become open-minded and not be fooled and maybe even let go of their fear of immigrants.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

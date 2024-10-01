@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> is in this scene presented as a popular student by greeting many people.</s>
+        <s>The director used a minimal frog perspective and placed <ref target="b10gk2_1" type="character">Chris</ref> in the centre to show that he is the most important character in this moment.</s>
+        <s>When <ref target="b10gk2_1" type="character">Chris</ref> noticed <ref target="b10gk2_1" type="character">Starr</ref> a crane movement was used to show at who or what <ref target="b10gk2_1" type="character">Chris</ref> looks at.</s>
+        <s>A medium close up is used to see his upper body but also the background when going towards <ref target="b10gk2_1" type="character">Starr</ref> but also when he is dancing.</s>
+      </p>
+      <p>
+        <s>In the given scene several stylistic devices were used to bring up dramatic effects: A sad and calm music to show <ref target="b10gk2_1" type="character">Chris'</ref> feelings up to <ref target="b10gk2_1" type="character">Starr</ref> when he is walking in the hallway and when <ref target="b10gk2_1" type="character">Starr</ref> describes him to show his personality.</s>
+        <s>The director also built in a moving camera on <ref target="b10gk2_1" type="character">Chris'</ref> path.</s>
+        <s>The lights are not in a warm and cozy way to show the audience the relationship between <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref> is.</s>
+      </p>
+      <p>
+        <s>Although <ref target="b10gk2_1" type="character">Starr</ref> is still shocked of the incident with <ref target="b10gk2_1" type="character">Khalil</ref> who was a friend of her and got shot by the police she acts normal when with <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="b10gk2_1" type="character">Chris</ref> is presented as one of the most important characters and without knowing that <ref target="b10gk2_1" type="character">Starr</ref> was with <ref target="b10gk2_1" type="character">Khalil</ref> when he died.</s>
+        <s><ref target="b10gk2_1" type="character">Chris'</ref> behaviour is compared to <ref target="b10gk2_1" type="character">Starr's</ref> family normal and not in a sad way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

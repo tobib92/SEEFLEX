@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g07_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this text I will discuss <ref target="c12gk1_1" type="author"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></ref> relevance for young people today.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">William Shakespeare</ref> was ac actor and poet in the 16th century.</s>
+        <s>He changes words like you in <quote>thou</quote> to make them more familiar.</s>
+        <s>Moreover he changes the English language and gives it about 1700 new words and made wordplays like <quote>to be or not to be</quote>.</s>
+        <s>I think he is very important for young people.</s>
+        <s>But I think it is important to know him but I don't know if there is a relevance to <choice><orig>analysis</orig><reg>analyse</reg></choice> his sonnets or read his plays.</s>
+        <s>On the one hand there are many arguments for <ref target="c12gk1_1" type="author">Shakespeare</ref> for example that you can learn a lot about history in his plays or that he changes the English language.</s>
+        <s>He is also or his plays <choice><orig>a</orig><reg>are</reg></choice> the basic story for many films.</s>
+        <s>But on the another hand are there many arguments against him like the fact that his language is hard to understand for children or that the role of the people has changed for example from a <choice><orig>women</orig><reg>woman</reg></choice>.</s>
+        <s>Moreover are his plays made for play and not for read.</s>
+        <s>But in spite of all <choice><orig>this</orig><reg>these</reg></choice> facts against <ref target="c12gk1_1" type="author">Shakespeare</ref> I think <ref target="c12gk1_1" type="author">Shakespeare</ref> has a relevance for young people.</s>
+        <s>His themes are timeless and <choice><orig>talks</orig><reg>talk</reg></choice> about all the problems which we also have today.</s>
+        <s>It can be hard to understand but with a good translation you can understand them.</s>
+        <s>I think in the school we should learn something about <ref target="c12gk1_1" type="author">William Shakespeare</ref> but we should not write an analysis about his sonnets.</s>
+      </p>
+      <p>
+        <s>In the end you can say there is a relevance from <ref target="c12gk1_1" type="author">Shakespeare</ref> but not as big as it was.</s>
+        <s>Children should learn about him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

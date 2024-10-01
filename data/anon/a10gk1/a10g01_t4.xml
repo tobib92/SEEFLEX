@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g01_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In recent years, with more and more people questioning the origins of their clothes, people have been wondering, what to do to improve the conditions in developing countries, especially <name type="geo">Bangladesh</name>.</s>
+      </p>
+      <p>
+        <s>Many people <choice><orig>imediatelly</orig><reg>immediately</reg></choice> began <choice><orig>boycoting</orig><reg>boycotting</reg></choice> <name type="geo">Bangladesh</name> made products.</s>
+        <s>This however will only cause a worsening of living conditions in <name type="geo">Bangladesh</name> since it's gonna take away 80% of the <choice><orig>countrys</orig><reg>countries</reg></choice> <choice><abbr>GdP</abbr><expan>gross domestic product</expan></choice> reusing an economical collapse.</s>
+      </p>
+      <p>
+        <s>There are other option though.</s>
+        <s>The first one being buying fair trade products from <name type="geo">Bangladesh</name>.</s>
+        <s>This, although expensive for the consumer, will improve working and living conditions and minimize ecological damage, like toxic water and air or thousands of tons of waste in the middle of cities.</s>
+      </p>
+      <p>
+        <s>The second option is political <choice><orig>preassure</orig><reg>pressure</reg></choice>.</s>
+        <s>Either on the <name type="geo">Bangladeshi</name> government or on American importers.</s>
+        <s>Either one of them will put pressure on factory owners to improve conditions.</s>
+        <s>The <choice><orig>Third</orig><reg>third</reg></choice> option is donating money to local unions and <choice><abbr>NGOs</abbr><expan>Non-Governmental Organizations</expan></choice> that improve living conditions.</s>
+        <s>In conclusion everyone wants a change in <name type="geo">Bangladesh's</name> textile industry, one way or another.</s>
+        <s>But they have to accept that that will increase textile prices.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

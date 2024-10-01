@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l01_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text the train of thought and the message of <ref target="a12lk1_1" type="title">Sonnet 138</ref> by <ref target="a12lk1_1" type="author">William Shakespeare</ref> are going to be described.</s>
+      </p>
+      <p>
+        <s>When you first read the sonnet some words like young, truth and lies will be stuck in your head because those are words that the reader can connect with loving someone.</s>
+        <s>In this sonnet the author focuses on the aspect of lying in a relationship with the person you love.</s>
+        <s>The sonnet starts with the author telling the reader that his love swears that she always says the truth and he believes her even though he knows that she lies.</s>
+        <s><ref target="a12lk1_1" type="author">Shakespeare</ref> is trying to tell us here that even when someone says they are always telling the truth, there is always something they lie about but he does not care because he loves her.</s>
+      </p>
+      <p>
+        <s>In the next lines the author goes on with talking about things he is scared his loved one lies about.</s>
+        <s>This includes her thinking that he is unexperienced and does not know enough about the world.</s>
+      </p>
+      <p>
+        <s>Here the author shows the side of a relationship where someone is scared about what her partner thinks of him.</s>
+        <s>These are probably some things he feels insecure about and does not want his loved one to think the same thing.</s>
+      </p>
+      <p>
+        <s>In the next part he is thankful that even though she maybe thinks all those things that he is insecure about she does not mention then.</s>
+        <s>Here the author shows a good side in lying which is to protect someone or in this case not make him feel insecure about himself.</s>
+        <s>After the volta in line 9, the lyrical speaker changes his view of perspective.</s>
+        <s>He goes on saying that she maybe is unfair to him and he is not too old.</s>
+        <s>Here the lyrical speaker shows that even though his loved one may think he is too old, does not mean she is right.</s>
+      </p>
+      <p>
+        <s><choice><orig>the</orig><reg>The</reg></choice> line after he states that not important thing between two lovers is trust and a thing they hate which is being told how old they are.</s>
+      </p>
+      <p>
+        <s>In the <gap reason="illegible" quantity="1" unit="word">last</gap> to live the lyrical speaker makes clear that in every relationship someone lies, but that does not change anything about how much you love <choice><orig>eachother</orig><reg>each other</reg></choice> and you <gap reason="illegible" quantity="1" unit="word">sint</gap> have to deal with it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g44_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <name type="person">John</name>,</salute>
+      </p>
+      <p>
+        <s>thanks for your <choice><orig>email</orig><reg>e-mail</reg></choice>.</s>
+        <s>It would be great if you come to <choice><orig>germany</orig><reg>Germany</reg></choice>.</s>
+        <s>Especially <name type="geo">Berlin</name> is great, as this article says.</s>
+        <s>I've found it in the <name type="misc">Hannoversche Allgemeine Zeitung</name> and it was published on the <date>15 July 2016</date> by <ref target="a12gk4_2" type="author">Marina Kormbaki</ref>.</s>
+        <s>The title is <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref> <add><choice><orig>Translation</orig><reg>translation</reg></choice><name type="geo">Berlin</name> speaks English</add>.</s>
+      </p>
+      <p>
+        <s>She starts her article by <choice><orig>saing</orig><reg>saying</reg></choice> that <name type="geo">Berlin</name> is similar to other <choice><orig>metropolis</orig><reg>metropolises</reg></choice>, because of the tourists, but many stay.</s>
+        <s>This is why you don't hear much German in some districts.</s>
+        <s>Even in some restaurants, most of the menus are in English.</s>
+        <s>The author raises the question how this happened.</s>
+        <s>A visitor of a restaurant <choice><orig>answer</orig><reg>answers</reg></choice>, that <name type="geo">Berlin</name> is a bubble <choice><orig>compares</orig><reg>compared</reg></choice> to the rest of <choice><orig>germany</orig><reg>Germany</reg></choice>.</s>
+        <s>Many people come to <name type="geo">Berlin</name> to live there, but they want to live in a big city.</s>
+        <s>And in comparison, <name type="geo">Berlin</name> is cheap, but with the infrastructure of a <choice><orig>Metropolis</orig><reg>metropolis</reg></choice>.</s>
+      </p>
+      <p>
+        <s>So I think <name type="geo">Berlin</name> would be great for you.</s>
+        <s>I mean you don't have to learn that much <choice><orig>german</orig><reg>German</reg></choice>.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

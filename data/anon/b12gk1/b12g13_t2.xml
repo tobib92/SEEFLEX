@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to convince his audience at the summit of the necessity to combat climate change by starting to act now by drawing their attention to the impatient people waiting for <choice><orig>an</orig><reg>a</reg></choice> solution, therefore he uses different <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> introduces his speech with a comparison of the climate crisis and a <name type="person">James Bond</name> action movie.</s>
+        <s>In this way he evokes interest and curiosity of the audience because they wonder why he starts talking about a fictional character.</s>
+        <s>He also uses a metaphor to present his idea by calling <name type="person">James Bond</name> the fictional son of Scotland <ref target="b12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>In this way and also through inclusive language he achieves that the listener pays attention.</s>
+        <s>The use of the pronoun <quote>we</quote> <ref target="b12gk1_1" type="line">(l. 6, 9, 10...)</ref> symbolizes that everyone is in the same situation and they have to find a solution together by comparing the climate change with a doomsday device <ref target="b12gk1_1" type="line">(l. 5)</ref> he illustrates the danger of disaster.</s>
+        <s>He also mentions the clock that is ticking down <ref target="b12gk1_1" type="line">(l. 4f.)</ref> which creates a pressure on the audience to do something before it is <choice><orig>to</orig><reg>too</reg></choice> late.</s>
+        <s>Because <name type="person">James Bond</name> is a detail of common knowledge we can talk of <choice><orig>an</orig><reg>a</reg></choice> allusion right here that puts the events into graphic accounts.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> admits that the governments have made mistakes in the past and didn't get real on their promises made in <name type="geo">Copenhagen</name> or <name type="geo">Paris</name>.</s>
+        <s>He uses colloquial language by repeating the past discussion with <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref> to show the nonsense.</s>
+        <s>This earns him sympathy of the audience and at the same time he makes new promises and gives his listeners hope that this is the point of time when tthings get real <ref target="b12gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>The ellipsis <quote>And we can</quote> <ref target="b12gk1_1" type="line">(l. 16)</ref> in the following paragraph supports the given feeling of hope.</s>
+        <s>To name some concrete examples he <choice><orig>ennumerates</orig><reg>enumerates</reg></choice> area where things should be changed as soon as possible <ref target="b12gk1_1" type="line">(l. 16)</ref>.</s>
+        <s>Then he refers to the comparison from the beginning that accompanies the listener as a leading motive through the <choice><orig>hole</orig><reg>whole</reg></choice> speech and creates a frame and certain structure.</s>
+      </p>
+      <p>
+        <s>Johnson kind of blames the others for the raising temperatures by not including himself when it comes to the creation of the problem <ref target="b12gk1_1" type="line">(l. 19)</ref> and saying that the <name type="geo">UK</name> already has reached its goal and now it is the turn of the rest of the world <ref target="b12gk1_1" type="line">(l. 28)</ref>.</s>
+      </p>
+      <p>
+        <s>But at the same time he claims that all nations have to work together in order to reach the goal.</s>
+        <s>The climax <quote>hundreds of billions</quote> to <quote>hundreds of trillions</quote> <ref target="b12gk1_1" type="line">(l. 23)</ref> show that this is the only way to really see remarkable results.</s>
+      </p>
+      <p>
+        <s>He repeats that humanity has the technologies for this change <ref target="b12gk1_1" type="line">(l. 30/l. 16)</ref> and now it depends on the will.</s>
+        <s>He tries to convince the audience to think about the fact that even if they don't have that long time left on earth there are others that live way longer or are not even born yet.</s>
+        <s>These are the people that expect policies to take action and the <name type="misc">COP26</name> <choice><orig>representives</orig><reg>representatives</reg></choice> have to respect the future generations.</s>
+        <s>With a <choice><orig>methaphor</orig><reg>metaphor</reg></choice> refuring to theater <ref target="b12gk1_1" type="line">(l. 40)</ref> he states that that is the reason why there can not be any empty words and promises anymore.</s>
+      </p>
+      <p>
+        <s>Again he gives his audience hope by talking about <name type="geo">Glasgow</name> as a turning point and failure is an <choice><orig>unexcaptable</orig><reg>unexpectable</reg></choice> outcome of the <name type="misc">COP26</name> summit.</s>
+      </p>
+      <p>
+        <s>He repeat that they have the necessary funds by <choice><orig>ennumerating</orig><reg>enumerating</reg></choice> the <choice><orig>possibilaties</orig><reg>possibilities</reg></choice> they have.</s>
+        <s>He stresses his thesis by the use of an <choice><orig>anapher</orig><reg>anaphora</reg></choice> <ref target="b12gk1_1" type="line">(l. 46-47)</ref>.</s>
+      </p>
+      <p>
+        <s>Finally he comes back to the <name type="person">James Bond</name> comparison and shows the audience that even if now it is hard to imagine that the battle can be won mankind can combat climate change if we work together and see <name type="misc">COP26</name> as a turning point.</s>
+        <s>This gets underlined by the alliteration <quote>to turn the tide</quote> <ref target="b12gk1_1" type="line">(l. 51)</ref>.</s>
+        <s>Especially the last two sentences <choice><orig>encourages</orig><reg>encourage</reg></choice> the audience one last time to take action.</s>
+        <s>Even if it is a great <choice><orig>challange</orig><reg>challenge</reg></choice> we can do it just like <name type="person">James Bond</name> in all his movies.</s>
+      </p>
+      <p>
+        <s>To come to a conclusion we can say that <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> convinces his audience to take action right now and do not lose the hope of winning the battle against climate change.</s>
+        <s>Therefore he uses a comparison throughout his whole speech that illustrates climate change with an action movie.</s>
+        <s>Through this structure and the use of stylistic devices just like inclusive language he gives the audience hope.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

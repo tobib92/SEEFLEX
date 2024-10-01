@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g53_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Bianca</name>, a friend of mine, volunteered in <name type="geo">India</name> to teach children that live in a slum of <name type="geo">Delhi</name> <choice><orig>english</orig><reg>English</reg></choice> grammar at <name type="misc">Education Center</name>.</s>
+        <s>Her day began at 8:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>, she got ready, had breakfast and headed to work around 10 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>.</s>
+        <s>Boys and girls are taught <choice><orig>sepperated</orig><reg>separated</reg></choice> so from 10:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> to 11:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> or 12 o'clock she taught the boys and after the break from 12:14 to 14 o'clock she did the same with the girls till 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>She told me about the kids.</s>
+        <s>They were full of joy and love although their surrounding and conditions were bad, they loved to live.</s>
+        <s><name type="person">Bianca</name> always repeats how lovable they were and how this were the best days in her life.</s>
+        <s>Even if sometimes she was tired and in a bad mood, she still enthuses about her time in <name type="geo">India</name>.</s>
+        <s>These kids brought her real <choice><orig>happines</orig><reg>happiness</reg></choice>, patience, hope and love.</s>
+        <s>She is so thankful for <choice><orig>beeing</orig><reg>being</reg></choice> able to have this experience in her life.</s>
+        <s>And is happy to share it.</s>
+        <s>At only 18 years old.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

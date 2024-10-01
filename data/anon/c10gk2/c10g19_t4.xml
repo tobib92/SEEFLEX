@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g19_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey,</salute>
+      </p>
+      <p>
+        <s>my friend <name type="person">Bianca</name> was for a week in <name type="geo">India</name>.</s>
+        <s>She worked there in an <name type="misc">Education Center</name> for children.</s>
+        <s>She told me a lot of them and her week <choice><orig>ther</orig><reg>there</reg></choice>.</s>
+        <s>I would told you more about it in my following report about her and the things that she have done in <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s>She has mostly make the same thing in all the days.</s>
+        <s>She has a <choice><orig>struktured</orig><reg>structured</reg></choice> day every day.</s>
+        <s>She told me that the best thing are the kids in the <name type="misc">Education Center</name>.</s>
+        <s>She says that they have much love and they accepted everyone.</s>
+        <s>The kids ask her a lot of questions and are very <choice><orig>interesstet</orig><reg>interested</reg></choice> about her life.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> had worked <choice><orig>befor</orig><reg>before</reg></choice> in schools or something like that but she <choice><orig>say</orig><reg>says</reg></choice> that in <name type="geo">India</name> the kids are very different with more love and with much fun.</s>
+      </p>
+      <p>
+        <s>She says that <choice><orig>its</orig><reg>it's</reg></choice> a surprise that the kids childrens are so <choice><orig>lovly</orig><reg>lovely</reg></choice> and funny, because all of them have a difficult and bad past.</s>
+        <s>I think it is so that they are thankful that is gives people like my friend <name type="person">Bianca</name>.</s>
+        <s>People who understand the children and are very lovely to them.</s>
+        <s>I think that is that, <choice><orig>witch</orig><reg>which</reg></choice> is so important.</s>
+        <s>That is the thing that they need.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> says that the <choice><orig>childrens</orig><reg>children</reg></choice> are feld her with love and hope.</s>
+      </p>
+      <p>
+        <s>She says that this week was the best time of her life and it is very different to see <choice><orig>childrens</orig><reg>children</reg></choice> here and <choice><orig>childrens</orig><reg>children</reg></choice> there with a bad past.</s>
+        <s>I think more people should help other people who have a bad past or become fewer love.</s>
+      </p>
+      <p>
+        <s>I hope that I can open your <choice><orig>eays</orig><reg>eyes</reg></choice> with my report and more people help each other.</s>
+      </p>
+      <p>
+        <s>I think everyone have a chance to live a good life.</s>
+      </p>
+      <p>
+        <s>When you have questions or something like that you can send a message to me or directly to <name type="person">Bianca</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

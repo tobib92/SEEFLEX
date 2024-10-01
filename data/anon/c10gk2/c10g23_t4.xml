@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g23_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Bianca L.</name><add>(18 years old)</add> takes part in <choice><orig>a</orig><reg>an</reg></choice> education center in <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> volunteers at the <name type="misc">Education Center</name> in <name type="geo">Delhi, India</name>.</s>
+        <s>Every day in her week she goes by the <choice><orig>Rikscha</orig><reg>rickshaw</reg></choice> to the <name type="misc">Education Center</name> where she <choice><orig>teach</orig><reg>teaches</reg></choice> Indian kids English grammar from 10:30 to 11:30 or to 12:00 she <choice><orig>teachs</orig><reg>teaches</reg></choice> the boys and from 14:00 to 16:00 the girls.</s>
+        <s>She says she likes it to see the kids because they are so interested in learning something and they show so much respect to her.</s>
+        <s>She is so perplexed, she says, that all the kids have very much fun in spite of having bad destiny, so she volunteers and <choice><orig>have</orig><reg>has</reg></choice> a good experience with kids.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

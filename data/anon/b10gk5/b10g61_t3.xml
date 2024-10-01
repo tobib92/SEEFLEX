@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g61_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk5_1" type="title">The Hate U Give</ref> opens my eyes.</s>
+        <s><choice><orig>Bevore</orig><reg>Before</reg></choice> I look this film.</s>
+        <s>I know that there are <choice><orig>alots</orig><reg>a lot</reg></choice> of racist people in the world.</s>
+        <s>I know that <choice><orig>racist</orig><reg>racism</reg></choice> is a large <choice><orig>probleme</orig><reg>problem</reg></choice> in <name type="geo">USA</name>.</s>
+        <s>But first after I watch this movie I know that the problem is so bad.</s>
+        <s>A <choice><orig>lots</orig><reg>lot</reg></choice> of people are killed because <choice><orig>racise</orig><reg>racism</reg></choice>.</s>
+        <s>The film shows like the story just <choice><orig>happends</orig><reg>happens</reg></choice> in front of me.</s>
+        <s>But I can't change it.</s>
+        <s>I ask <choice><orig>my self</orig><reg>myself</reg></choice> and check myself after I watch this movie: Am I racist?</s>
+        <s>Can I do something to solve the <choice><orig>probleme</orig><reg>problem</reg></choice>?</s>
+        <s>I don't think that I'm racist.</s>
+        <s>The things I can do is: never be racist and as I saw <choice><orig>someting</orig><reg>something</reg></choice> racist, I will try to stop it.</s>
+        <s>I can't change the movie, but I can change the things in my life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

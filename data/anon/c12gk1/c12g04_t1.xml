@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g04_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk1_1" type="title">Sonnet number 116</ref> which is written by <ref target="c12gk1_1" type="author">William Shakespeare</ref>, deals with the changes in a relationship.</s>
+        <s>The poet reflects on his love and how time <choice><orig>have</orig><reg>has</reg></choice> changed their relationship.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref> is part of the sonnet sequence from 1 to 126, which also is addressed to a young woman.</s>
+      </p>
+      <p>
+        <s>The sonnet contains the typical Shakespearean sonnet strucuture.</s>
+        <s>In the first of the three quatrains, the author says that he does not want a marriage just out of society standards.</s>
+        <s>It is an obstacle between their love.</s>
+        <s>Furthermore he describes that love isn't meant to change because of alterations in their life <ref target="c12gk1_1" type="line">(cf. l. 2f.)</ref>.</s>
+        <s>In addition to that the author explains that love isn't love when someone <choice><orig>decide</orig><reg>decides</reg></choice> to take another or a new way <ref target="c12gk1_1" type="line">(cf. l. 4)</ref>.</s>
+        <s>In the second quatrain he points out that love should stay forever and it is a sign.</s>
+        <s>He relates his idea of love to ships in the ocean that come into a storm but usually it is never shaken <ref target="c12gk1_1" type="line">(cf. l. 6)</ref>.</s>
+        <s>Love is the <quote>landmark</quote> that shows everyone the right way or to help everyone to find the right direction <ref target="c12gk1_1" type="line">(cf. l. 7)</ref>.</s>
+        <s>The third quatrain deals with the distance between him and his love.</s>
+        <s>He thinks about if it's really worth it and says that the value is unknown <ref target="c12gk1_1" type="line">(cf. l. 8)</ref>.</s>
+        <s>The author puts love in relation to the time and describes that love isn't the <choice><orig>times</orig><reg>time's</reg></choice> fool.</s>
+        <s>The author comes to the decision that their love slowly <choice><orig>come</orig><reg>comes</reg></choice> to an end and that love should not be changed by hours and weeks.</s>
+        <s><choice><orig>Therefor</orig><reg>Therefore</reg></choice> it has to stay forever to the death <ref target="c12gk1_1" type="line">(cf. l. 11f)</ref>.</s>
+      </p>
+      <p>
+        <s>In the final couplet <ref target="c12gk1_1" type="line">(l. 13f.)</ref> the author says that if all of that and his love is a mistake then he has never written and no man ever loved <ref target="c12gk1_1" type="line">(cf. l. 14)</ref>.</s>
+        <s>So, the author explained his idea of love and that changes should not also change the relationship.</s>
+        <s>When love comes <choice><orig>than</orig><reg>then</reg></choice> it should stay forever to death.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

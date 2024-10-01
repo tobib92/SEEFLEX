@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g21_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given article <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> by <ref target="a12gk2_1" type="author">John Worne</ref> published in <name type="misc">The Telegraph</name> on <date>27 January 2015</date>, the author <choice><orig>critizises</orig><reg>criticizes</reg></choice> that not enough students in the <name type="geo">UK</name> are choosing to study a modern foreign language.</s>
+      </p>
+      <p>
+        <s>According to the author less and less students in the <name type="geo">UK</name> want to study foreign languages.</s>
+        <s>Eeven though more primary schools are teaching languages now, it is, in the author's opinion, not enough represented.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> explains, that that is a huge problem, because the learning of languages is important for the <name type="geo">UK</name>, e.g. looking at global trade, national security, diplomacy and in general for businesses.</s>
+        <s>According to <ref target="a12gk2_1" type="author">Worne</ref>, more and more people from the <name type="geo">UK</name>, working in the business industry are using for example translators instead of their skills they could have grown up with.</s>
+        <s>Furthermore the author informs, that more universities are now offering students the opportunity of studying languages alongside another subject, but in his opinion not enough students are choosing to do so.</s>
+        <s><choice><orig>More over</orig><reg>Moreover</reg></choice> the author appeals especially to parents.</s>
+        <s>He wants them to help their children on the way to study a foreign language.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

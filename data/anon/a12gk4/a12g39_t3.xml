@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g39_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will comment on <ref target="a12gk4_1" type="author">John Worne's</ref> claim that <quote>language learning is vital for the <name type="geo">UK</name>'s future prosperity and global standing</quote>.</s>
+      </p>
+      <p>
+        <s>I <choice><orig>definetly</orig><reg>definitely</reg></choice> agree with this claim, because besides the arguments, that <ref target="a12gk4_1" type="author">John Worne</ref> has in his article, there are even more very good arguments, for learning <choice><orig>an</orig><reg>a</reg></choice> foreign language.</s>
+        <s><ref target="a12gk4_1" type="author">John Wornes</ref> has already said, that languages are <choice><orig>a</orig><reg>an</reg></choice> essential for a lot of global standings like trade, prosperity and cultural exports <ref target="a12gk4_1" type="line">(cf.ll. 24-27)</ref>.</s>
+        <s>But also said, that a person with knowledge of foreign languages, gets a job on the tough market more easily <choice><orig>then</orig><reg>than</reg></choice> someone, who only speaks English <ref target="a12gk4_1" type="line">(cf.ll. 40-44)</ref>.</s>
+      </p>
+      <p>
+        <s>Also on the global market it is much easier to find a job, when you have foreign language skills.</s>
+        <s>Moreover it is good to have foreign language skills, because of multiculturalism and the fast globalisation of 		the whole world.</s>
+        <s>Especially because the <name type="geo">UK</name> has a very multicultural <choice><orig>backround</orig><reg>background</reg></choice> it is important to have foreign language skills.</s>
+      </p>
+      <p>
+        <s>Furthermore the <choice><orig>competivity</orig><reg>competitiveness</reg></choice> and the standing on the global market gets better with foreign language skills.</s>
+      </p>
+      <p>
+        <s>But there are also arguments against learning <choice><orig>in</orig><reg>a</reg></choice> foreign language <choice><orig>then</orig><reg>than</reg></choice> English.</s>
+        <s>The first is that, because of the <name type="misc">Brexit</name>, the global standing and future prosperity isn't like it was when they were in the <name type="geo">EU</name> and today they don't have that much contact to other languages, <choice><orig>then</orig><reg>than</reg></choice> in 2015 so why <choice><orig>to</orig><reg>do</reg></choice> they have to learn it, when they speak the lingua franca English, <choice><orig>whitch</orig><reg>which</reg></choice> leads me to the next argument that English is the lingua franca, that means that with English you can communicate all over the world, so why you have to learn another language when you communicate with everyone.</s>
+      </p>
+      <p>
+        <s>When you only look at the <name type="geo">UK</name> I can understand this point, but in real life there are a lot of people that can't speak English and <choice><orig>than</orig><reg>then</reg></choice> you have a problem.</s>
+      </p>
+      <p>
+        <s>To sum it up I would say, that it is very important to have foreign language skills to establish in a global market especially for the future, because <choice><orig>Globalisation</orig><reg>globalisation</reg></choice> and exchanges will get even more.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

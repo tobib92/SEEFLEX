@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g12_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk1_1" type="title">Sonnet 116</ref>, written by <ref target="c12gk1_1" type="author">William Shakespeare</ref> is about his opinion about love.</s>
+        <s>The sonnet is addressed to or concerned a young man.</s>
+      </p>
+      <p>
+        <s>In the first quatrain he talks about love as <choice><orig>a</orig><reg>an</reg></choice> uncontrollable feeling, which you can't change or choose <ref target="c12gk1_1" type="line">(ll. 1-4)</ref>.</s>
+      </p>
+      <p>
+        <s>The second quatrain shows that love is the one thing that is there if you need it and that gives you hope <ref target="c12gk1_1" type="line">(ll. 5-7)</ref>.</s>
+        <s>But which is also really mysterious and indescribably <ref target="c12gk1_1" type="line">(l. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>The next quatrain underlines that love isn't the things you see from outside like rosy lips or cheeks, <choice><orig>its</orig><reg>it's</reg></choice> much more.</s>
+      </p>
+      <p>
+        <s>He describes love also as a never ending process wich will never stop <ref target="c12gk1_1" type="line">(ll. 9-12)</ref>.</s>
+      </p>
+      <p>
+        <s>The last couplet shows that he thinks all the things he said before are right, because if not he never wrote or a man never loved <ref target="c12gk1_1" type="line">(ll. 13-14)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> describes in <ref target="c12gk1_1" type="title">Sonnet 116</ref> how he feels about love.</s>
+        <s>He talks about love very positive, what shows that for him love has a big impact in his life and is not just a small feeling.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

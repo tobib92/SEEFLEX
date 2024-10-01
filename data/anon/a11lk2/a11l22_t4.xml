@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l22_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>my name is Jane and I am in grade 11 at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name>.</s>
+        <s>In my English class we discussed your email to the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> and <choice><orig>where</orig><reg>were</reg></choice> given the assignment to do some research on the subject and to write an answer to you in which we set out our results.</s>
+      </p>
+      <p>
+        <s>I found your question very interesting and found a really interesting article from <name type="misc">Deutsches Schulportal</name> on <choice><orig>wether</orig><reg>whether</reg></choice> oder <choice><orig>wether</orig><reg>whether</reg></choice> not a school can exist where no incidents of racism occur.</s>
+      </p>
+      <p>
+        <s>Sadly the article in only available in German but nevertheless I will try to give you a mediatoin of <choice><orig>it's</orig><reg>its</reg></choice> content.</s>
+      </p>
+      <p>
+        <s>The article already answers your question in the title.</s>
+        <s>It states that there is no school without racism.</s>
+        <s>According to the article inequality is inevitable in any social situation.</s>
+      </p>
+      <p>
+        <s>Racism is reality in the school life of for example <choice><abbr>P.O.C.</abbr><expan>people of colour</expan></choice>, or foreign looking kids in general.</s>
+        <s>That racism can be expressed by teachers who grade the test of a foreign looking child worse than the test of a German child although the produced results are of the same quality.</s>
+      </p>
+      <p>
+        <s>I can also be expressed by the other children who were taught racism by their <choice><orig>enviroment</orig><reg>environment</reg></choice> and <choice><orig>subconciously</orig><reg>subconsciously</reg></choice> apply that racism on e.g. <choice><abbr>P.O.C.</abbr><expan>people of colour</expan></choice> or foreigners.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">school without racism, school with courage</name> is not a label that schools receive who try to sensitize their students on the issue of racism.</s>
+      </p>
+      <p>
+        <s>That sensitation is according to the article the only possible way to minimize racism.</s>
+      </p>
+      <p>
+        <s>That is because only by <choice><orig>subconcious</orig><reg>subconscious</reg></choice> racist structures can be extinct.</s>
+      </p>
+      <p>
+        <s>From my own experience at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> I can say that that discussion of racism is <choice><orig>definetly</orig><reg>definitely</reg></choice> a reality.</s>
+        <s>In almost every subject we have critically talked about racism and the profound consequences both individual and systematic racism can have.</s>
+      </p>
+      <p>
+        <s>Racist remarks are not viewed as a nuisance but as the profound issue that it is.</s>
+      </p>
+      <p>
+        <s>However the students at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> are mostly born in <name type="geo">Germany</name> and almost everybody speaks German fluently.</s>
+        <s>I would wish for some more diversity so that my <choice><orig>enviroment</orig><reg>environment</reg></choice> at school looks a little bit more like my <choice><orig>enviroment</orig><reg>environment</reg></choice> outside of school.</s>
+      </p>
+      <p>
+        <s>I hope I could answer your question and am excited to see you here at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> in the next term.</s>
+      </p>
+      <p>
+        <s>See you soon</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

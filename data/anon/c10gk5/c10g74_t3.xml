@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g74_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am commenting on the statement <quote>The limits of my language are the limits of my world</quote> by <name type="person">Ludwig Wittgenstein</name>, a German linguist philosopher.</s>
+      </p>
+      <p>
+        <s>I think in a way this statement makes sense, because if you can speak all languages from all over the world, which is nearly impossible, but if you could then the limits of your language can be the limits of your world but no human being can speak all languages so I would say the limits of the language are not the limits of your world.</s>
+        <s>If you are <choice><orig>determind</orig><reg>determined</reg></choice> to learn several languages your horizon is constantly widing, so there would be no limit.</s>
+        <s>Today you have to learn at least one foreign language.</s>
+        <s>In our globalizing world you not really have a choice and to speak different languages has many benefits like more options in the world of work, you can make international friendships and widen your horizon in general.</s>
+        <s>Even on vacation everything would be much easier.</s>
+      </p>
+      <p>
+        <s>So in my opinion to think the way like the statement does is wrong.</s>
+        <s>Speaking several languages has more advantages than disadvantages and refusing to <quote>make your world bigger</quote> through learning a couple of languages just makes many things much harder.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

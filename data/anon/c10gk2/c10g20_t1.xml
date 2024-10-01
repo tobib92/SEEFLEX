@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g20_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an extract of a speech, <ref target="c10gk2_1" type="speaker">Obama</ref> gave at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>.</s>
+      </p>
+      <p>
+        <s>It deals with the importance of intercultural understanding and student exchanges.</s>
+        <s>In the following <choice><orig>i'll</orig><reg>I'll</reg></choice> summarise his speech.</s>
+      </p>
+      <p>
+        <s>The speech is divided into three sections.</s>
+      </p>
+      <p>
+        <s>First <ref target="c10gk2_1" type="speaker">Obama</ref> gives reasons why he came to <name type="geo">Turkey</name>.</s>
+        <s>He explains that he wants to found a relationship between the <name type="geo">United States</name> and the other people <ref target="c10gk2_1" type="line">(l. 1-4)</ref>.</s>
+      </p>
+      <p>
+        <s>In the following he mentions a few aspects which underpin his thesis of the importance of intercultural understanding and student exchanges <ref target="c10gk2_1" type="line">(l. 5-12)</ref>.</s>
+      </p>
+      <p>
+        <s>He says, that he'd like to level new ways to connect all around the globe and that experiencing the world beyond your borders is really supportive to get to know new cultures.</s>
+        <s>Furthermore, providing the energy and idealism makes effort possible.</s>
+      </p>
+      <p>
+        <s>In the last paragraph, he summons the readers to explore the different parts of the world and to cross your borders <ref target="c10gk2_1" type="line">(l. 13-21)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

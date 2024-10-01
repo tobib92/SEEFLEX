@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l14_t3</author>
+        <name>monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><kinesic><desc>Hmm</desc></kinesic>, why did <name type="person">Nick</name> invite me without <name type="person">Tom</name>?</s>
+        <s>Did they have a fight?</s>
+        <s>To be honest, it will probably do me good to be away from him for a while.</s>
+        <s>My life with him can be such a burden sometimes.</s>
+        <s>If it weren't for our daughter and his money...</s>
+      </p>
+      <p>
+        <s>Is <name type="person">Nick</name> coming?</s>
+        <s>Good.</s>
+        <s>Smile, <name type="person">Daisy</name>.</s>
+        <s>Smile!</s>
+        <s>He's your cousin.</s>
+        <s>He has no fault.</s>
+        <s>He likes you, you like him.</s>
+      </p>
+      <p>
+        <s>His house is not that big... that's not really all he can afford, is it?</s>
+      </p>
+      <p>
+        <s><kinesic><desc>Hmm</desc></kinesic>?</s>
+        <s>What's funny though?</s>
+        <s>It's just a living room.</s>
+        <s>Is he okay?</s>
+        <s>Someone's knocking... wait... <name type="person">Jay</name>?</s>
+        <s>Stay calm, stay calm.</s>
+        <s>It's been... Gosh, so long!</s>
+        <s>How is he here?</s>
+        <s>Did <name type="person">Nick</name> know him all along?</s>
+        <s>Stay neutral, <name type="person">Daisy</name>.</s>
+        <s>Is he still angry that I married <name type="person">Tom</name>?</s>
+        <s>I didn't wait for him.</s>
+        <s>Does he have a lover now?</s>
+        <s>Where's <name type="person">Nick</name> going?</s>
+        <s>I feel nervous.</s>
+        <s>I'm scared.</s>
+        <s>He... he remembers the exact month when we last met.</s>
+        <s>He must have been waiting, then.</s>
+        <s>I want to ask so many questions... how did he fare?</s>
+        <s>He seems rich now.</s>
+        <s>Is it... too late?</s>
+        <s>I have never really been loved by <name type="person">Tom</name>, so why not just... but how could <name type="person">Jay</name> ever forgive me?</s>
+        <s>Is it too outrageous to be with him again?</s>
+      </p>
+    </body>
+  </text>
+</TEI>

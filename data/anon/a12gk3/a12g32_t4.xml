@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g32_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello my friend,</salute>
+      </p>
+      <p>
+        <s>I've heard that you're thinking about spending one year in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> in <name type="geo">Berlin</name>.</s>
+        <s>I've read an article about <name type="geo">Berlin</name> for tourists, students, etc.</s>
+        <s>The first good aspect of <name type="geo">Berlin</name> is that almost everyone there is speaking English.</s>
+        <s>As well in the cultural aspect there are parts of other cities like <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name> since the <choice><orig>american</orig><reg>American</reg></choice>, <choice><orig>british</orig><reg>British</reg></choice> and <choice><orig>australian</orig><reg>Australian</reg></choice> people are moving to <name type="geo">Berlin</name>.</s>
+        <s>Many students from English speaking countries are staying they are for one year and then they move back but some are staying here.</s>
+        <s>Because there are many different people there you <choice><orig>defenetely</orig><reg>definitely</reg></choice> won't have any issues with communicating with them because as I said earlier: almost everyone is speaking English.</s>
+        <s>In the city itself there are many shops, restaurants, bars and all those stuff which got influenced by other cultures for example a tea shop which turned <choice><orig>british</orig><reg>British</reg></choice> and the most important part is the cheap rent in comparison to other cities.</s>
+      </p>
+      <p>
+        <s>So all in all you don't need much money, you won't have any issues with communication and the city is multicultural, so there would be no reason why you shouldn't move to Berlin for one year.</s>
+        <s>I'm looking forward for your answer.</s>
+      </p>
+      <p>
+        <signed>Your friend Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first few lines <ref target="b12gk2_1" type="line">(ll. 1-9)</ref> the speaker welcomes everybody, especially <name type="geo">Glasgow</name> and <name type="geo">Scotland</name> <ref target="b12gk2_1" type="line">(l. 1)</ref>.</s>
+        <s>He refers to a known artist <name type="person">James Bond</name> <ref target="b12gk2_1" type="line">(l. 2)</ref>and explains his films <ref target="b12gk2_1" type="line">(l. 3)</ref>.</s>
+        <s>While refering to <name type="person">James Bond</name> he uses a metaphorical words: <quote>red digital clock</quote> <ref target="b12gk2_1" type="line">(l. 4)</ref> which end humans life as they know it.</s>
+        <s>It's a <choice><orig>metaphore</orig><reg>metaphor</reg></choice> for the left time we have.</s>
+        <s>If the clock stops ticking our life will end and our world will be completely destroyed.</s>
+        <s>He uses the metaphoric language to create a picture of our <quote>running out of time</quote> situation in the listeners mind and triggers with associations.</s>
+        <s>After explaining the films, he describes the climate change as a tragedy <add>like <name type="person">James Bond</name> movies</add> <ref target="b12gk2_1" type="line">(l. 6)</ref>.</s>
+        <s>The temperature of the planet raises with a speed and <gap reason="illegible" quantity="1" unit="word">apruptned</gap> which is man-made <ref target="b12gk2_1" type="line">(l. 8)</ref>.</s>
+        <s>In this way he explains the tragedy while using a personification which shows the impat of our man-made actions.</s>
+        <s>In the following paragraph <ref target="b12gk2_1" type="line">(ll. 10-15)</ref>, he reviews to the <name type="geo">Copenhagen</name> meeting 11 years ago <ref target="b12gk2_1" type="line">(l. 10)</ref> where the world already had climate change as a problem.</s>
+        <s>Five years later they met again in <name type="geo">Paris</name>, where they talked about the problem <ref target="b12gk2_1" type="line">(ll. 11f)</ref>.</s>
+        <s>He explains the idea of rising the temperature to 1.5 degrees while using the words <quote>blah, blah, blah</quote> a use of phonetic alphabets and alliteration.</s>
+        <s>Those words become more memorable and show exactly the opinion of <ref target="b12gk2_1" type="author">Johnson</ref> that those promises are ridiculous.</s>
+        <s>But in <name type="geo">Glasgow</name> they need to face the problem and not be ridiculous <ref target="b12gk2_1" type="line">(l. 14f)</ref>.</s>
+        <s>He <choice><orig>accumulate</orig><reg>accumulates</reg></choice> the words <quote>coal, cars, cash and trees</quote> <ref target="b12gk2_1" type="line">(l. 16)</ref> while accumulating those words he includes the different <quote>groups</quote> which are <choice><orig>effected</orig><reg>affected</reg></choice> by climate change.</s>
+        <s>While giving dates <quote>200 years</quote> <ref target="b12gk2_1" type="line">(l. 15)</ref>, he explains how long climate change was ignored.</s>
+      </p>
+      <p>
+        <s>He plays with time, after explaining those years he goes back to nowaday <ref target="b12gk2_1" type="line">(l. 20)</ref> in this way the listener can be able to memorize the importance of time, and the importance of changing the situation, now.</s>
+        <s>He explains in <choice><orig>comprahision</orig><reg>comparison</reg></choice> the way they should not do it.</s>
+        <s>He refers to material ways to save the world with money <ref target="b12gk2_1" type="line">(l. 22)</ref> but those material ways mean nothing <ref target="b12gk2_1" type="author">Boris Johnson</ref> uses an antithesis between <quote>money</quote> and <quote>friends</quote> <ref target="b12gk2_1" type="line">(ll. 13f)</ref>, and shows how <choice><orig>importante</orig><reg>important</reg></choice> it is to work together while not using money, but funds we have in development <choice><orig>assitence</orig><reg>assistance</reg></choice> <ref target="b12gk2_1" type="line">(l. 25)</ref>.</s>
+        <s>The working together means more than money.</s>
+        <s>He explains also how they need to do it <ref target="b12gk2_1" type="line">(ll. 25ff)</ref>, which shows his <choice><orig>knownledge</orig><reg>knowledge</reg></choice> and that he does not only make promises, he has an idea and his idea <choice><orig>functionate</orig><reg>functions</reg></choice> as we can see in <name type="geo">Saudi Arabia</name> <ref target="b12gk2_1" type="line">(l. 29)</ref>.</s>
+      </p>
+      <p>
+        <s>The following paragraph <ref target="b12gk2_1" type="line">(l. 30)</ref> begins with inclusive language <quote>we</quote> <ref target="b12gk2_1" type="line">(l. 30)</ref>, the listeners can identify with the speakers idea of stopping climate change.</s>
+      </p>
+      <p>
+        <s>Furthermore he directly adresses to the fellow leaders <ref target="b12gk2_1" type="line">(l. 31)</ref>, in this way the fellow leaders will listen to his following <choice><orig>explantation</orig><reg>explanation</reg></choice> <ref target="b12gk2_1" type="line">(l. 32)</ref>.</s>
+        <s>He climax the <gap reason="illegible" quantity="1" unit="word">anounce</gap> of people <ref target="b12gk2_1" type="line">(ll. 33ff)</ref>, firstly he <choice><orig>referes</orig><reg>refers</reg></choice> to crowds of young people, after this he <choice><orig>describse</orig><reg>describes</reg></choice> the billions of people how are watching them and in the end he refers to half of the population.</s>
+        <s>This climax <choice><orig>point</orig><reg>points</reg></choice> out the importance of changing climate change and how many people actually are <choice><orig>effected</orig><reg>affected</reg></choice> by the problem.</s>
+        <s>He explains his personal feeligns, mindset <ref target="b12gk2_1" type="line">(l. 35)</ref> and fears and his future plans to become 94 years old <ref target="b12gk2_1" type="line">(l. 36)</ref>, and connects his idea iwth the ellipsis: <quote>But you never know</quote> <ref target="b12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s>Which shows the essential issue, that the world can collapse and that we need to do a lot to stop climate change.</s>
+        <s>After expressing his own mindset and feeling he talks about the unborn children <ref target="b12gk2_1" type="line">(l. 37)</ref>.</s>
+        <s>While refering to the unborn children, he becomes emotionally and servers emphasis to the listener.</s>
+        <s>The listener can identify with feelings, in this way the speaker can achieve his goal, because if we won't do something against it, they will not forgive us <ref target="b12gk2_1" type="line">(l. 39)</ref>.</s>
+        <s>He also uses the stylistic devices, hyperbol <ref target="b12gk2_1" type="line">(l. 44)</ref>, which makes clear how many children are <choice><orig>effected</orig><reg>affected</reg></choice> by our acting.</s>
+      </p>
+      <p>
+        <s>At the end of his speech he uses the stylistic device allusion <ref target="b12gk2_1" type="line">(l. 47)</ref>.</s>
+        <s>In this way he looks back to his introduction.</s>
+        <s>While refering to <name type="person">James Bond</name> he can point out similarities and emphasizes the importance.</s>
+        <s>He uses the symbolic <quote>bomb</quote> in this way the listener are confronted with the speed and rapid change.</s>
+        <s>We need to do now something against it, if we do not do something against it, if we do not do something against it the bomb will explode and our planet will be destroyed.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

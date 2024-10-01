@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g15_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech at <name type="misc">COP26</name>, given by <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> on <date>1 November 2021</date> deals with the importance of <name type="misc">COP26</name> the turning of the climate change and the responsibility of this generation to stop the climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson's</ref> idea of the climate crisis is dramatic.</s>
+        <s>He compares the situation with a <name type="person">James Bond</name> film in which he hast to defuse a bomb while the clock is ticking down.</s>
+        <s>But he also points out that there is enough new technology to fight against the climate change.</s>
+        <s>Furthermore he points out the duty of the industrialized countries to take action and help the other countries with their technology to stop climate change.</s>
+        <s>He draws a picture of <name type="person">James Bond</name> to show his view on the climate crisis.</s>
+        <s>Those who participate in <name type="misc">COP26</name> are in the same position as <name type="person">James Bond</name> in his films.</s>
+        <s>They have to work under pressure to stop climate change as the time is ticking.</s>
+        <s>Therefore he describes the role of <name type="misc">COP26</name> for this fight against the imaginary clock.</s>
+        <s><name type="misc">COP26</name> how's the chance to turn around the things in terms of climate crisis but if they fail the following generations will not forgive their generation and judge them very hard.</s>
+        <s>At the end he states that <name type="misc">COP26</name> will not be the end and they have to take action now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

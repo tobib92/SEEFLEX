@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l11_t3</author>
+        <name>letter_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>My Dear Shakespeare,</salute>
+      </p>
+      <p>
+        <s>You are the love of my life and my soul!</s>
+        <s>I <choice><orig>recieved</orig><reg>received</reg></choice> your sonnet you wrote about me and I'm absolutely thrilled but also sad and worried.</s>
+      </p>
+      <p>
+        <s>I have to see that you wrote the poem in such a beautiful way.</s>
+        <s>I know that time is not in our best interest but I am fully convinced that I would love towards each other is stronger than any boundless sea!</s>
+        <s>Time is cruel and it is a curse but my darling, the sun as you wrote me will never die and cannot be destroyed.</s>
+        <s>It is immortalized on paper and time will not change that.</s>
+        <s>I felt your honest emotions <choice><orig>an</orig><reg>and</reg></choice> believed every word.</s>
+        <s>I will always remember you, not only due to our relation but also due to your art of writing.</s>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref>, you are an extraordinary and revolutionary poet, playwright and businessman.</s>
+        <s>The way you can describe what others feel is a talent not everyone has.</s>
+        <s>You really understand the human soul and your themes are timeless.</s>
+        <s>The way you create idioms and words is unbelievable.</s>
+        <s>The audience and readers can relate to every topic you mention in your work.</s>
+        <s>Believe me, you help people understand love and hate and jealousy and greed... We are so influenced by your work!</s>
+        <s>You are timeless.</s>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> is very meaningful to me and describes all of my thoughts.</s>
+        <s>Thank you.</s>
+        <s>And remember, our mortality does not <choice><orig>effect</orig><reg>affect</reg></choice> our love because our love will never die!</s>
+      </p>
+      <p>
+        <signed>With love, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

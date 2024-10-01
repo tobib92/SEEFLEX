@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g70_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I will show you how the author tries to convince the reader of his opinion.</s>
+      </p>
+      <p>
+        <s>At first he structured his paragraph into different types.</s>
+        <s>The first paragraph is argumentative for telling the reader the central conflict and what is wrong there.</s>
+      </p>
+      <p>
+        <s>Then, the second paragraph is there for better knowing the proble and the situation.</s>
+        <s>Furthermore the third paragraph is argumentative.</s>
+        <s>By using himself as an example, the author shows that is possible to get integrate if you really like to but you also have to work hard for it.</s>
+      </p>
+      <p>
+        <s>The last paragraph is an appealing paragraph, because the author makes suggestions how the problem could be solved and also addressed the reader that it also depends on him that this will work out by using <quote>we</quote> or <quote>us</quote> <ref target="c10gk5_1" type="line">(cf. l. 20, l. 23)</ref>.</s>
+      </p>
+      <p>
+        <s><quote>Every year Bangladeshis sit at the bottom of educational achievement</quote><ref target="c10gk5_1" type="line">(l. 7)</ref>.</s>
+        <s>This metaphor shows that the Bangladeshis <choice><orig>does</orig><reg>do</reg></choice> not educate and every year they have the same knowledge than before and so they are on the last place of educational achievement.</s>
+        <s>With the anaphora <quote>My parents...</quote> used three times in the third paragraph <ref target="c10gk5_1" type="line">(cf. ll. 11-14)</ref> the author shows that it was very important for his parents to learn English and letting him grow up in a safe area.</s>
+        <s>It tells us also, that the author is very grateful for that.</s>
+        <s>We can also see that his parents did a good with letting his son learning English, because he uses complex sentences in his article and he could not <choice><orig>uses</orig><reg>use</reg></choice> phrases like in line twelve with complex words.</s>
+      </p>
+      <p>
+        <s><quote>But you don't learn to stand on your own two feet if someone is holding you up</quote><ref target="c10gk5_1" type="line">(ll. 18-19)</ref>.</s>
+      </p>
+      <p>
+        <s>With this metaphor the author will show that the Bangladeshis should want to integrate for e.g. having a better life by themselves and also should get help and it is not helpful to force them to do something because then they isolate themselves more than before.</s>
+      </p>
+      <p>
+        <s>The whole situation with the Bangladeshis remind me in the situation after the second world war when a lot of foreign worker came up to <name type="geo">Germany</name> for working there.</s>
+        <s>They also stayed a lot of times in there quarter with other people form their country and he does not integrate because they were working the whole day and were <choice><orig>to</orig><reg>too</reg></choice> tired doing it after work.</s>
+        <s>The life for them was hard and a lot of Germans were afraid of them, but when they did not come to <name type="geo">Germany</name> we did not have such a huge variation of food like pizza, pasta etc.</s>
+      </p>
+      <p>
+        <s>Maybe the people from <name type="geo">London</name> and the Bangladeshis could exchange their cultures like meeting, eating special food and talking playing for a better understanding like we did here in <name type="geo">Germany</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

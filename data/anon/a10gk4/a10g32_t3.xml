@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g32_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Environment pollution is a big problem in our world, which <choice><orig>effect</orig><reg>affects</reg></choice> us all.</s>
+        <s><choice><orig>More over</orig><reg>Moreover</reg></choice> it was caused by us.</s>
+        <s>I think it is a big problem and we need to do <choice><orig>somethink</orig><reg>something</reg></choice> against it.</s>
+        <s>Environment pollution <choice><orig>effect</orig><reg>affects</reg></choice> all living beings and the nature.</s>
+        <s>We only have <choice><orig>on</orig><reg>one</reg></choice> earth.</s>
+        <s>If this earth is destroyed.</s>
+        <s>We can't find another earth easy.</s>
+        <s>We need to save this.</s>
+        <s><choice><orig>More over</orig><reg>Moreover</reg></choice> we are the causes of it our increasing urbanization and industrialization are the causes.</s>
+        <s>It is our fail, so we should do <choice><orig>somethink</orig><reg>something</reg></choice> about it.</s>
+        <s>The animals and plants are not the causes, but they get <choice><orig>effected</orig><reg>affected</reg></choice> by it.</s>
+        <s>And it is a question, if all <choice><orig>this</orig><reg>these</reg></choice> things we <choice><orig>archived</orig><reg>achieved</reg></choice>, are helpful for us and not bring us down.</s>
+        <s>A lot of people are also demonstrating against <choice><orig>Environment</orig><reg>environment</reg></choice> pollution.</s>
+        <s>When you think, how much species of animals are dead because of <choice><orig>enviroment</orig><reg>environment</reg></choice> <choice><orig>polution</orig><reg>pollution</reg></choice>, it is sad.</s>
+        <s>If it goes on like that, we have no future.</s>
+        <s>We need to do <choice><orig>somethink</orig><reg>something</reg></choice> together, like use more bikes and not cars.</s>
+        <s>Or we separate the trash.</s>
+        <s>It give a lot of ways to do <choice><orig>somethink</orig><reg>something</reg></choice> against it.</s>
+        <s>But I <choice><orig>thing</orig><reg>think</reg></choice> we can only <choice><orig>archive</orig><reg>achieve</reg></choice> <choice><orig>somethink</orig><reg>something</reg></choice> together, together as a world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

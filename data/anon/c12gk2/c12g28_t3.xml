@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g28_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Reading the statement <quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote> by <name type="person">Norman J. Lund</name> and <ref target="c12gk2_1" type="scene">scene number seven, act one</ref> from the <choice><orig>Tragedie</orig><reg>tragedy</reg></choice> of <ref target="c12gk2_1" type="title">Macbeth</ref>, I increasingly asked myself the question if studying <name type="geo">Shakespeare</name> in school is <choice><orig>usefull</orig><reg>useful</reg></choice> or not.</s>
+        <s>Now I would like to <choice><orig>eleborate</orig><reg>elaborate</reg></choice> my point of view related to the question.</s>
+      </p>
+      <p>
+        <s>First it is important to mention that <name type="person">Shakespeare</name> wrote about fundamental experiences of life, for example love, hate, greed, death or jealousy.</s>
+        <s>Surely <name type="person">Shakespeare</name> wrote <choice><orig>this</orig><reg>these</reg></choice> plays to be performed on stage and not to be analysed line by line.</s>
+        <s>A close text analysis contradicts the original purpose and of course the students just worry about rhetorical devices instead of enjoying the plot.</s>
+        <s>But today it is possible that students can access the plays with different media like watching a movie or a stage performance.</s>
+      </p>
+      <p>
+        <s>In addition this makes the work with one of the plays very attractive for the most students.</s>
+        <s>In fact, there will be less students intimidated due to the old plays and the ancient language.</s>
+        <s>It might be true that students prefer topics which they can identify easily with, so that plays from authors which address <choice><orig>todays</orig><reg>today's</reg></choice> problems of racism or inequality might be much more important for <choice><orig>todays</orig><reg>today's</reg></choice> audience.</s>
+        <s>Moreover the moral questions about good and evil or justice and fairness are timeless and offer parallels to more current debates, which can be discussed in class.</s>
+        <s>Furthermore the plays invite to modern interpretations that <choice><orig>reflects</orig><reg>reflect</reg></choice> <choice><orig>students</orig><reg>students'</reg></choice> <date><choice><orig>21th</orig><reg>21st</reg></choice> century</date> reality.</s>
+        <s>One might say now, that there are other actors who have the same classification like <name type="person">Karl May</name>, <name type="person">Jane Austen</name>, <name type="person">Agatha Christie</name> or even newer ones like <name type="person">Joanne K. Rowling</name>.</s>
+        <s>Of course this is true, but the impact of <name type="person">Shakespeare</name> on the culture and language is without competition.</s>
+        <s>Many modern films, songs, poems and so on refer to famous passages of his plays and are part of the general knowledge.</s>
+        <s>Finally it should be said that <name type="person">Shakespeare</name> wrote about his subjects perfectly with clarity and beauty while keeping a balance with irony.</s>
+        <s>He knows the human soul and could show us ourselves, maybe even in <choice><orig>extrem</orig><reg>extreme</reg></choice> situations.</s>
+      </p>
+      <p>
+        <s>To sum up, after considering all the arguments mentioned above, I conclude that in my opinion the statement is true and that <name type="person">Shakespeare</name> should be presented in school.</s>
+        <s>Important for me is that modern ways are used to study his plays, so that most of the students can get access to the writings and not only a few.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

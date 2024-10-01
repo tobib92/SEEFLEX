@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g26_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear friend,</salute>
+      </p>
+      <p>
+        <s>I just read the article <ref target="a12gk3_2" type="title">Berlin spricht Englisch</ref> written by <ref target="a12gk3_2" type="author">Marina Kombaki</ref> and publish in the <name type="misc">Hannoversche Allgemeine Zeitung</name> on the <date>15th of July in 2016</date>.</s>
+        <s>It's about <name type="geo">Berlin</name> as a global city and I thought it might help you to make your decision regarding your gap year.</s>
+        <s>Because the article is written in German I will conclude the main aspect for you.</s>
+        <s><ref target="a12gk3_2" type="author">Kormbaki</ref> writes about the high number of immigrating people, who speak English as a native language.</s>
+        <s>This <choice><orig>lead</orig><reg>leads</reg></choice> to a lot of change.</s>
+        <s>She <choice><orig>mentiones</orig><reg>mentions</reg></choice> that there is barely any spoken German in some parts.</s>
+        <s>These parts are according to the author <name type="geo">Neukölln</name>, <name type="geo">Kreuzberg</name> and <name type="geo">Mitte</name>.</s>
+        <s>I know that you're anxious about not being able to communicate with someone.</s>
+        <s>That's why I thought these parts of <name type="geo">Berlin</name> might be perfect for you.</s>
+        <s>Even most of the menus in restaurants or cafes are written in English.</s>
+        <s>Another advantage that is mentioned in the article is the cheap lifestyle: the coffee, the rents and so on are much more <choice><orig>affortable</orig><reg>affordable</reg></choice> than most of the other big cities.</s>
+      </p>
+      <p>
+        <s>Kormbaki even talked to an app-developer, who has a concern in <name type="geo">Berlin</name>, where people from 21 nations work.</s>
+        <s>They all communicate through English.</s>
+        <s>Maybe you will stay too and find a job there.</s>
+        <s>Anything is possible.</s>
+      </p>
+      <p>
+        <s>In the article an second-hand bookstore for English literature is mentioned.</s>
+        <s>I was really <choice><orig>suprised</orig><reg>surprised</reg></choice> that the English language is that present even in Germany.</s>
+      </p>
+      <p>
+        <s>In general <name type="geo">Berlin</name> has a lot to offer especially when <choice><orig>its</orig><reg>it's</reg></choice> about art, culture or the nightlife according to the article.</s>
+      </p>
+      <p>
+        <s>I think that everything mentioned sounds pretty amazing especially for <choice><orig>English speaking</orig><reg>English-speaking</reg></choice> people like you.</s>
+        <s>For me the presence of the English language in <name type="geo">Berlin</name> was really <choice><orig>suprising</orig><reg>surprising</reg></choice>.</s>
+        <s>I hope this information is <choice><orig>helpfull</orig><reg>helpful</reg></choice> to you.</s>
+        <s>Have you come to a decision yet?</s>
+        <s>If you like I could do some more research in German newspapers.</s>
+      </p>
+      <p>
+        <s>I hope you have a <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> day.</s>
+      </p>
+      <p>
+        <signed>Best wishes, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

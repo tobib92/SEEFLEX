@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g53_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <date>April 7, 2009</date>, <name type="geo"><choice><orig>Americas</orig><reg>America's</reg></choice></name> president <ref target="c10gk4_1" type="speaker">Barack Obama</ref> gave a speech in <name type="geo">Istanbul, Turkey</name> to students at the <name type="misc">Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>.</s>
+        <s>He talks about the importance of cultural exchange, especially between young <choice><orig>Amarecans</orig><reg>Americans</reg></choice> and people all around the world.</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>scentense</orig><reg>sentence</reg></choice> he says, they have to rebuild a relationship between Americans and <choice><orig>muslims</orig><reg>Muslims</reg></choice>.</s>
+        <s>He doesn't specify the country, so the people who live in <name type="geo">America</name> do to <choice><orig>megration</orig><reg>migration</reg></choice> are also a part of his ideas.</s>
+        <s>He then tells them about his own experiences with young activists in <name type="geo">America</name>.</s>
+        <s>That these young people made his career as a president possible and how they participate in volunteer abroad and teach at <choice><orig>american</orig><reg>American</reg></choice> schools.</s>
+        <s>By telling them about the young people, helping him to his political position, he builds trust and a <choice><orig>conection</orig><reg>connection</reg></choice> between him and young people, that is supposed to make the audience feel <choice><orig>includet</orig><reg>included</reg></choice>.</s>
+        <s>He goes on and says that everywhere he goes, he finds young people that connect passionately/are aware of the world around them.</s>
+        <s>With saying this, he gives them a feeling of <choice><orig>worthship</orig><reg>worship</reg></choice>.</s>
+        <s>After a connection is build, he starts informing them about his plans.</s>
+        <s>He wants to connect young Americans to people all around the world <ref target="c10gk4_1" type="line">(ll. 9-10)</ref>.</s>
+        <s>This idea is <choice><orig>suported</orig><reg>supported</reg></choice> by him saying that exchange of culture can <choice><orig>reduse</orig><reg>reduce</reg></choice> the feeling of <choice><orig>beeing</orig><reg>being</reg></choice> different/<choice><orig>sepperated</orig><reg>separated</reg></choice> from one another.</s>
+        <s>He also changes the included <choice><orig>pronounces</orig><reg>pronouns</reg></choice> from <quote>I</quote> to <quote>us</quote>, to strengthen the <quote>we</quote> feeling while talking about the importance of <choice><orig>beeing</orig><reg>being</reg></choice> one big community.</s>
+        <s>Lastly, at the end of his speech, he uses a metaphor and says, they can build bridges or build new walls between each other and makes clear that he wants this to be shared by all people, not just by the wealthy ones.</s>
+      </p>
+      <p>
+        <s>This speech is supposed to motivate them to cross cultural borders between <name type="geo">America</name> and all other <choice><orig>countrys</orig><reg>countries</reg></choice> around the world.</s>
+        <s><ref target="c10gk4_1" type="speaker">Obama</ref> makes his goal clear, he wants a <choice><orig>conected</orig><reg>connected</reg></choice> <choice><orig>comunity</orig><reg>community</reg></choice> shared by everyone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

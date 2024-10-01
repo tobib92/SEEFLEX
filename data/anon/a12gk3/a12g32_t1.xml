@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g32_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given source is an article written by <ref target="a12gk3_1" type="author">John Worne</ref>.</s>
+        <s>The articles name is <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> and is published in <name type="misc">The Telegraph</name> on the <date>27th January 2015</date>.</s>
+        <s>In the following the article is going to be summarized and the <choice><orig>authors</orig><reg>author's</reg></choice> point of view about learning for a language is going to be outlined.</s>
+        <s>In general the text is about the small amount of students in the UK which studies foreign languages and about the importance of learning foreign languages.</s>
+      </p>
+      <p>
+        <s>In the first two lines <ref target="a12gk3_1" type="author">Worne</ref> says that <name type="geo">UK's</name> point of view about learning and speaking foreign languages can be described with the word refuse.</s>
+        <s>After that the author tells the readers that the amount of students which studies foreign language has not changed after the last seven years.</s>
+        <s>He continues with a little positive argument of the progress of teaching languages in primary schools but <ref target="a12gk3_1" type="author">Worne</ref> says as well that this is only the start.</s>
+        <s>In the next paragraph he complains about the shrinking numbers of foreign language exams.</s>
+        <s>Then the author counts some arguments from some people not to worry about not learning for languages and denies them.</s>
+        <s>In the next paragraph <ref target="a12gk3_1" type="author">Worne</ref> says his opinion about learning foreign languages.</s>
+        <s>In his opinion learning foreign languages is very important for <name type="geo">UK's</name> global place in the world and the economic <choice><orig>collaberations</orig><reg>collaborations</reg></choice> with other countries.</s>
+        <s>To support his own point of view he gives a fact about the need of foreign languages in <name type="geo">UK</name> business and the huge amount of hired translators in case of not learned foreign languages.</s>
+        <s>One point the author is glad of is that some universities <choice><orig>gives</orig><reg>give</reg></choice> they are students the chance to study an another language beside their other subject.</s>
+        <s>Just to make his own point clearly he says that for the <name type="geo">UK</name> a Chinese speaking lawyer is more <choice><orig>usefull</orig><reg>useful</reg></choice> than a pure lawyer.</s>
+        <s>In the last two paragraph he clearly addresses to other parents that they should think about convincing their children to learn an another language and give them the opportunity to gain some internation experience and he says how important it is for the <name type="geo">UK</name> that the younger people are be abled to speak different languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

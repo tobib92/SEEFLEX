@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>His speech is a well thought out introduction to the summit and meant to boost motivation amongst the representatives while still pointing out the seriousness and difficulty of the problem at hand.</s>
+      </p>
+      <p>
+        <s>He starts his speech with a friendly welcome and reference to <name type="person">James Bond</name> a famous fictional character of <name type="geo">Scotland</name>, their current location.</s>
+        <s>This friendly happy feeling is created by this allusion is instantly destroyed when it becomes clear that it is a <choice><orig>metaphore</orig><reg>metaphor</reg></choice> for the climate crisis.</s>
+        <s>With this sudden jump to the subject he emphasizes the seriousness of the situation and this meeting and surprises the audience.</s>
+        <s>He then talks about the numerous previous meetings that had the same intentions of doing something against climate change but all lead to nothing.</s>
+        <s>In his eyes these promises the same people that are listening to him right now agreed on are nothing but <quote>blah, blah, blah</quote> <ref target="b12gk2_1" type="line">(l. 13)</ref>.</s>
+        <s>This use of colloquial speech makes it clear that the ridiculousness of those shoudl not be repeated.</s>
+        <s>He refers to the reaction of the world to these empty promises presenting a situation that he doesn't want in reaction to this meeting.</s>
+        <s>With the transition of going from <quote>I</quote> to <quote>you</quote> to <quote>we</quote> <ref target="b12gk2_1" type="line">(l. 10)</ref>, he makes it clear that they, the people in that room have had the same experience and should build off of it.</s>
+        <s>This inclusive language is used by him in the <gap reason="illegible" quantity="1" unit="word">renbirofy</gap> of the rest of the speech emotionally binds his target audience, the leaders, to his words.</s>
+        <s>By directly adressing them he shows that they have the responsibility.</s>
+        <s>He then proceeds to compare <name type="misc">COP26</name> to thse past meetings and emphasizes that they have the possibility to do <choice><orig>whats</orig><reg>what's</reg></choice> right.</s>
+        <s>The alliteration <quote>coals, cars, cash</quote> is used to contrast the following <quote>and trees</quote> <ref target="b12gk2_1" type="line">(l. 16)</ref> showing that they stand on opposites the tres being what needs to be saved.</s>
+        <s><ref target="b12gk2_1" type="speaker">Boris Johnson</ref> also reassures his audience that they have everything they need to do <choice><orig>whats</orig><reg>what's</reg></choice> right.</s>
+        <s>He then speaks of an important subject the private sector money needed to fund the changes and uses the <name type="geo"><choice><orig>UKs</orig><reg>UK's</reg></choice></name> end of dependence on coal as an example of how it can succeed.</s>
+        <s>Building on those existing pieces needed for success in this matter he highlights the important the will of those in that room to commit to this change and important to him is that it is done now and not again empty promises for the future.</s>
+        <s>He describes the age difference between those who will make the decision and those who will suffer the consequences highlighting that this is a issue concerning the following generations and because of it the world leaders should think about it from a different perspective.</s>
+        <s>Also those following generations will be the ones to judge their decision.</s>
+        <s>The repetition of the word <quote>children</quote> <ref target="b12gk2_1" type="line">(l. 37)</ref> enforces the emotional connection to this issue.</s>
+        <s>With the anaphora <ref target="b12gk2_1" type="line">(ll. 38f)</ref> he emphasizes their role in this situation and the importance of a correct decision.</s>
+        <s>The metaphorical language used to describe the negative reaction to failure <ref target="b12gk2_1" type="line">(l. 41)</ref> has a strong and lasting impression on the audience.</s>
+        <s>In contrast to this he then proceeds to say that they would be right strongly emphasizing that failure cannot be excused.</s>
+        <s>In the following enumeration in which there also is <choice><orig>a</orig><reg>an</reg></choice> anaphora of inclusive speech <ref target="b12gk2_1" type="line">(ll. 44-46)</ref> he states that the requirements for correct action are all fulfilled and with it leaves no doubt about the possibility of the solution.</s>
+        <s>In his conclusion he comes back to the allusion of <name type="person">James Bond</name> he used earlier, saying that although the situation <gap reason="illegible" quantity="1" unit="word">sul</gap> feel different to them the needed action is comparable.</s>
+        <s><ref target="b12gk2_1" type="speaker">Boris Johnson</ref> then repeats and stresses that this summit is the moment they <quote>began</quote> <ref target="b12gk2_1" type="line">(ll. 44-50)</ref> to <quote>turn the tide</quote>, an alliteration.</s>
+        <s>With this sentence he emphasizes that this is only the beginning of change of course in the right direction and not at all a complete solution.</s>
+        <s>The last sentence of his speech <ref target="b12gk2_1" type="line">(l. 51)</ref> is a positive reinforcement stating again that it is possible.</s>
+      </p>
+      <p>
+        <s>This speech does a good job at giving the audience hope and encouraging them to take action.</s>
+        <s>Already the comparison to <name type="person">James Bond</name> a hero who always suceeds is a great way of doing so.</s>
+        <s>The speech is motivational and seems very personal while still being serious and professional.</s>
+      </p>
+      <p>
+        <s>In conclusion this speech seems like a perfect introduction to such <choice><orig>a</orig><reg>an</reg></choice> important summit.</s>
+        <s>It does its job at motivating the audience for the discussion that comes after and positively assures them that the correct action is needed and possible.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g14_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech of <ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, given on <date>01.11.21</date> at the <name type="misc">COP26 World Leaders' Summit Opening Ceremony</name> in <name type="geo">Glasgow</name>, is about climate change and the responsibility to do something about it.</s>
+      </p>
+      <p>
+        <s>The British Prime Minister starts welcoming the listeners and talks about agent <name type="person">James Bond</name> as a hero who saved the world in the movies about him.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tells the audience that they have the same task as <name type="person">James Bond</name>.</s>
+        <s>After that <ref target="b12gk1_1" type="speaker">Johnson</ref> says that in the last years nothing happened against climate change and now it is important to act.</s>
+        <s>He makes clear that just the politics cannot stop the development of global warming but with help of the economy it is possible.</s>
+        <s>Then he appeals to the other leaders not to forget about the younger generations and generations coming after them, because they are the ones who have to live with the consequences of global warming and will not be tolerant.</s>
+        <s>At the end <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> makes it clear that they have to begin acting against global warming now and that they are able to make a change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

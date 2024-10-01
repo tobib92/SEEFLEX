@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l33_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk2_1" type="author">Shakespeare's</ref><ref target="c12lk2_1" type="title">Sonnet 60</ref>, which must have been written during the <date>16th century</date><add>The Elizabethan Era</add>, discusses the meaning and effect of time to a human in comparison to nature.</s>
+        <s>While time for a human is finite for nature it is infinite and <choice><orig>natures</orig><reg>nature's</reg></choice> beauty does not fade throughout time in contrast to the beauty of a person, which indeed fades as the years go by.</s>
+      </p>
+      <p>
+        <s>Typical for a <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespearean</reg></choice></ref> sonnet it can be <choice><orig>devided</orig><reg>divided</reg></choice> into three quatrains and a single heroic couplet.</s>
+        <s>The cross rhyme scheme which goes <name type="misc">ABAB, CDCD, EFEF</name> and the paired rhyme in the couplet <name type="misc">GG</name> are also characteristic of a sonnet.</s>
+        <s>Additionally the rhyme metre called iambic <choice><orig>pentametre</orig><reg>pentameter</reg></choice> is used consistently throughout the poem.</s>
+        <s>Since it is <ref target="c12lk2_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> 60th sonnet it is most likely <choice><orig>adressed</orig><reg>addressed</reg></choice> to a young man which he holds very near ad dear to his heart.</s>
+        <s>Though rumours say the man could be the <name type="person">Earl of Southhampton</name>, certainty <choice><orig>can not</orig><reg>cannot</reg></choice> be given.</s>
+      </p>
+      <p>
+        <s>The first quatrain talks about time on earth being limited for us <ref target="c12lk2_1" type="line">(l. 1ff.)</ref>.</s>
+        <s>In line two <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> talks about <quote>our minutes</quote> eventually coming to an end, while <quote>our</quote> refers to humans.</s>
+        <s>Which <choice><orig>mean</orig><reg>means</reg></choice> the author develops the idea of us mortal humans only being able to observe <choice><orig>natures</orig><reg>nature's</reg></choice> beauty for a set amount of time.</s>
+        <s>The same idea as shown in line four.</s>
+        <s><quote>In sequent toil all forwards do contend</quote> The dot at the end of the first quatrain indicates that that same idea will to be continued in the second quatrain.</s>
+      </p>
+      <p>
+        <s>The following four lines also discuss time but in a more cosmic way.</s>
+        <s><ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> metaphorically uses the expressions <quote>nativity</quote> <ref target="c12lk2_1" type="line">(l. 5)</ref> and <quote>maturity</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref> to show a <choice><orig>humans</orig><reg>human's</reg></choice> development throughout time, <quote>nativity</quote> being the state of a human in his youth and <quote>maturity</quote> the state of adolescense.</s>
+        <s>The author metaphorically calls the state of maturing as <quote>being crowned</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref> which shows that he thinks that once a human is grown-up he is at the height of his life.</s>
+        <s>In line seven and eight Shakespeare uses <quote>his</quote> twice <quote>'gainst his glory fight</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref> his being death <q>himself</q> which means <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> talks about a <choice><orig>humans</orig><reg>human's</reg></choice> fight against time/death.</s>
+        <s>In comparison to the first quatrain, were <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> uses a lot of expressions from the <choice><orig>wordfield</orig><reg>word field</reg></choice> of nature, the second quatrain uses a more abstract terminology, for example <quote>crowned</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref>, <quote>eclipses</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref> and <quote>glory</quote> <ref target="c12lk2_1" type="line">(l. 8)</ref>, outlining that the concept of time <choice><orig>can not</orig><reg>cannot</reg></choice> be rationalized and is something abstract for us <add>the microcosm, a hint to the Elizabethan world view</add>.</s>
+        <s>The 8th line shows that the <quote>gift</quote> <add>time</add> which once helped us develop now is the cause for <q>our</q> death.</s>
+      </p>
+      <p>
+        <s>The third quatrain starts with the author talking about beauty, in this case of a person and how old is <choice><orig>subjeted</orig><reg>subjected</reg></choice> to change and <choice><orig>worsen</orig><reg>worsens</reg></choice> throughout time <ref target="c12lk2_1" type="line">(l. 9ff.)</ref>.</s>
+        <s>In line 12 the author writes: <quote>And nothing stands but for his scythe to mow</quote>.</s>
+        <s>While <quote>his</quote> again refers to death and <quote>scythe</quote> is used to symbolize the <q>hooded man</q> carrying a scythe which once again symbolizes death.</s>
+        <s>Which means the death for us is <choice><orig>enevitable</orig><reg>inevitable</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The heroic couplet at the end of the sonnet starts with <quote>and yet</quote> indicating a volta <ref target="c12lk2_1" type="line">(l. 13)</ref>.</s>
+        <s><ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> hopes that <quote>my verse</quote> <ref target="c12lk2_1" type="line">(l. 13)</ref> which is his poem Will stand the test of time so that it can continue to praise his <choice><orig>lovers</orig><reg>lover's</reg></choice> worth.</s>
+        <s>The expression <quote>despite his cruel hand</quote>, where <quote>his</quote> is once again is death himself, means that through his poetry <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> is able to keep praising his loved ones even after death, once again outlining the mortality of a human in comparison to the immortality of poetry.</s>
+      </p>
+      <p>
+        <s>All in all this sonnet discusses the abstract concept of time and death.</s>
+        <s><ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> depicts time both as glorious and cruel for us humans but not for nature, since nature itself is immortal.</s>
+        <s>Just like poetry, which also surpasses the lifespan of his own limited time on this earth.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

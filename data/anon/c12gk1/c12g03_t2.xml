@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speaker's idea of love is that love never <choice><orig>vannishes</orig><reg>vanishes</reg></choice> and never changes.</s>
+        <s>Love will remain eternal and there is nothing that can change that.</s>
+      </p>
+      <p>
+        <s>The first verse refers to the promise, that people give each other to marry <ref target="c12gk1_1" type="line">(cf. v. 1)</ref>.</s>
+        <s>The mentioned promise is about solving problems instead of throwing the bond of love away.</s>
+        <s>This start illustrates the point of the value of love and that is important to keep the bond.</s>
+      </p>
+      <p>
+        <s>The complex character of love is shown with <choice><orig>an</orig><reg>a</reg></choice> contradictory <choice><orig>antithes</orig><reg>antithesis</reg></choice> is in verse 2 <ref target="c12gk1_1" type="line">(cf. v. 2)</ref>, but the following two verses make clear that you can still define love.</s>
+        <s>The not changing character of love is demonstrated by <choice><orig>an</orig><reg>a</reg></choice> personification <ref target="c12gk1_1" type="line">(cf. v. 3)</ref> <quote>love [...] finds</quote> and the use of similar <foreign xml:lang="de">wordgroups</foreign> in verse 3 and 4.</s>
+        <s>By that the message gets emphasized.</s>
+        <s>In addition to that verse 3 and 4 form an enumeration of things love does not represent, which helps to understand the idea of the speaker.</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quartrain</orig><reg>quatrain</reg></choice>, which deals directly with the stability of love starts with an interjection <ref target="c12gk1_1" type="line">(cf. v. 5)</ref>.</s>
+        <s>Therefore the negation of the before listed features, which do not represent love in the idea of the speaker, gets more <choice><orig>effectiv</orig><reg>effective</reg></choice> and the <gap reason="illegible" quantity="1" unit="word">dissafaction</gap> is emphasized.</s>
+        <s>Then love is described in a statement in verse 5 as an <quote>ever-fixed mark</quote>, which highlights the reliability of love, since marks help to find a way to your goal and are always there.</s>
+      </p>
+      <p>
+        <s>Additionally the next verse includes a matching personification <ref target="c12gk1_1" type="line">(cf. v. 6)</ref> <quote>looks</quote>.</s>
+        <s>This illustrates that it does not matter if there are any obstacles, love will always remain.</s>
+      </p>
+      <p>
+        <s>Verse 7 compares love with stars <choice><orig>trough</orig><reg>through</reg></choice> a metaphor.</s>
+        <s>While starts are necessary for ships to find their way through the night, love is necessary for every person to find a ways <choice><orig>trough</orig><reg>through</reg></choice> tough times.</s>
+        <s>Furthermore starts stay at their position which is a resemble to the never <choice><orig>vannishing</orig><reg>vanishing</reg></choice> love.</s>
+      </p>
+      <p>
+        <s>The next verse deals with the value of love.</s>
+        <s>Even though it is known that it is here, the worth of that complex feeling <choice><orig>can not</orig><reg>cannot</reg></choice> get comprehended.</s>
+      </p>
+      <p>
+        <s>The last quartrain, which deals with the relationship of love and time begins with a personification in verse 10.</s>
+        <s>This <choice><orig>personifications</orig><reg>personification</reg></choice> <choice><orig>strenthens</orig><reg>strengthens</reg></choice> the <choice><orig>indepence</orig><reg>independence</reg></choice> of love.</s>
+        <s>While everyting is mortal and <choice><orig>can not</orig><reg>cannot</reg></choice> escape the force of time, love stays eternal.</s>
+        <s>The influence of time on the appearance is illustrated in the second part of verse 9.</s>
+        <s>This shows the contrast of how time infects love and other things.</s>
+      </p>
+      <p>
+        <s>Verse 10 includes the <choice><orig>metapher</orig><reg>metaphor</reg></choice> <quote>sickle's compass</quote> which stands for death that is coming sooner with the time.</s>
+        <s>However Verse 11 shows, that the <quote>sickle's compass</quote> has no impact on love and that it is going to stay the same regardless of the changes that time produces in for example the appearance of their partner.</s>
+        <s>In addition to that Verse 9 and 10 do start with the word <quote>love</quote>.</s>
+        <s>The anaphora emphasized the power of love, because both verses mention the superiority of love over time.</s>
+      </p>
+      <p>
+        <s>The last verse of the third <foreign xml:lang="de">strophe</foreign> includes the <choice><orig>metapher</orig><reg>metaphor</reg></choice> <quote>the edge of doom</quote>.</s>
+        <s>Thus the infinite character of love gets stressed.</s>
+        <s>Love exists out of time and not even death can destroy this feeling.</s>
+      </p>
+      <p>
+        <s>The ending couplet creates a contradictory <foreign xml:lang="de">hyperbel</foreign>.</s>
+        <s>The speaker is so convinced of his statements, that he implies to never getting proved wrong, because the conditions for him being a liar are, that he never wrote, which he obviously did and that no man ever loved which also obviously happened.</s>
+      </p>
+      <p>
+        <s>In conclusion <ref target="c12gk1_1" type="title">Sonnet 116</ref> deals with the definition of love.</s>
+        <s>The lyrical voice defines love through many negations.</s>
+        <s>Therefore he describes love, by telling what love not is.</s>
+      </p>
+      <p>
+        <s>Love is a complex feeling and hard to describe, but the speaker's idea of love is that love always overcomes problems and never changes.</s>
+        <s>Moreover love is the guide of our <choice><orig>lifes</orig><reg>lives</reg></choice> and gives us security and safety.</s>
+        <s>And last but not least love is eternal and is the only thing that does not depend on time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

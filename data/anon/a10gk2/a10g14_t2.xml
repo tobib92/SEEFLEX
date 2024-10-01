@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The journalist <ref target="a10gk2_1" type="author">Brian Pollard</ref> explains in his article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> why unions got harmful and unnecessary.</s>
+        <s>In this text I will analyse how the author tries to persuade the reader of his opinion.</s>
+      </p>
+      <p>
+        <s>It's noticeable that the author <choice><orig>do</orig><reg>does</reg></choice> not start his article with an argument against unions.</s>
+        <s>Instead he tells from line 1-4 why unions are great.</s>
+      </p>
+      <p>
+        <s>In live five <ref target="a10gk2_1" type="author">Brian</ref> <choice><orig>say's</orig><reg>says</reg></choice> <quote>I've long supported unions however [...]</quote>.</s>
+      </p>
+      <p>
+        <s>I think he wants to show with that, that he is not an unsocial business man and that he cares about worker rights.</s>
+      </p>
+      <p>
+        <s>In line 18-19 is an <choice><orig>anopher</orig><reg>anaphora</reg></choice>.</s>
+        <s><ref target="a10gk2_1" type="author">Brian</ref> says <quote>[...] worker are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+        <s>He <choice><orig>want's</orig><reg>wants</reg></choice> to underline with that how bad the situation got.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> is a talented writer.</s>
+        <s>He is combining good argument, a nice writing style and the use of stylistic devices.</s>
+        <s>I always like the idea of unions but he turned my opinion to be more critical.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

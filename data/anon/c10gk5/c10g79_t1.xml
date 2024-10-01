@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g79_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref>, from <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref>, is published on <date>17th December 2016</date> in <name type="misc">The Sunday Times</name>.</s>
+        <s>It is about language learning and translating with the example <name type="geo">Britain</name> and <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name> and the <choice><orig>authors'</orig><reg>author's</reg></choice> own experiences.</s>
+        <s>In the first paragraph he writes, that there is much money spended on translation in the past year, but the message they send to immigrant communities is that they have to integrate alone.</s>
+        <s>After that <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> describes the situation in <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name>, where he comes from, and that drugs and crime are a big problem there.</s>
+        <s>Also the knowledges you collect at school are not enough.</s>
+        <s>The third part is about his arriving in <name type="geo">Britain</name> and his problem with speaking the new language.</s>
+        <s>Finally <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> appeals to do something and that differences in a country are not good if it stops them to integrate.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

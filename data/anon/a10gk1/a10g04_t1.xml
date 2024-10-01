@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g04_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>news paper</orig><reg>newspaper</reg></choice> article <ref target="a10gk1_1" type="title">Is the usefulness of unions coming to an end? The answer is yes</ref>, written by <ref target="a10gk1_1" type="author">Brian Pollard</ref> and published in <name type="misc">The Gulf News</name> on <date>24 November 2011</date> is about the <choice><orig>evulation</orig><reg>evolution</reg></choice> of unions.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk1_1" type="author">Pollard</ref> starts the text with a short part about the past of unions and how they were <choice><orig>ment</orig><reg>meant</reg></choice> to be.</s>
+        <s>He let the unions stand in a favourable light while explaining how the unions brought essential changes for workers.</s>
+      </p>
+      <p>
+        <s>In the following parts he tells how his opinion about unions has changed over the years, he is giving reasons for that by saying that <choice><orig>todays</orig><reg>today's</reg></choice> unions are no longer about the protection of the workers, no longer required to ensure that workers have good conditions.</s>
+        <s>Instead he reveals that unions are looking for power and not anymore for fairness even though that was the reason why <choice><orig>the</orig><reg>they</reg></choice> were created, to keep fairness.</s>
+        <s>At the end he forces the government to take care and pay attention to that topic, because unions are already useless - <ref target="a10gk1_1" type="author">Brian Pollard</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

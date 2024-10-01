@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g32_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>A statement that is often discussed is written by <name type="person">Norman J. Lund</name> and says <quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote>.</s>
+      </p>
+      <p>
+        <s>Many modern play or theatres are based on ideas of <name type="person">Shakespeare</name>.</s>
+        <s>In addition, facts about <name type="person">Shakespeare</name> are a general knowledge.</s>
+        <s>But for some students, the access to a <name type="person">Shakespeare</name> play could be very difficult, because the language is old and special, because he also uses words from other languages.</s>
+        <s>One important point is, that <name type="person">Shakespeare</name> enriched and influenced the English language.</s>
+        <s>For students, it could interest, because the receive information of the origin of the English language.</s>
+        <s>Some quotes of <name type="person">Shakespeare</name>, e.g. <quote>To be, or not to be</quote> are very famous and often used in the modern time.</s>
+        <s><name type="person">Shakespeare</name> plays often use topics that are timeless and universal.</s>
+        <s>They also describe experiences in life that everybody has, e.g. love, hate.</s>
+        <s>But some facts of his plays are old-fashioned and unrealistic.</s>
+        <s>But here, modern plays find other solutions, that have the same messages as the original play.</s>
+        <s>Through <name type="person">Shakespeare's</name> plays, people get a better understanding of <name type="person">Shakespeare's</name> time and the plays reflect the history and <choice><orig>cultur</orig><reg>culture</reg></choice>.</s>
+        <s>But for people they don't want to study English, information about <name type="person">Shakespeare</name> aren't necessary.</s>
+      </p>
+      <p>
+        <s>To sum up, I am agree with <name type="person">Lund's</name> quote, because <name type="person">Shakespeare</name> is very often used in the mordern times.</s>
+        <s>His language is special, but also fascinating, so some people can become inspired by this language and want to know more about <name type="person">Shakespeare</name> himself and the century, he lived in.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

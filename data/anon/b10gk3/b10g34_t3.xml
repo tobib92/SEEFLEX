@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g34_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion the given scene focuses more on the problem of gangs than in the novel since in the novel <ref target="b10gk3_1" type="character">Maverick</ref> argues with a <q>normal</q> <choice><orig>civillian</orig><reg>civilian</reg></choice> while in the movie he argues with a <ref target="b10gk3_1" type="character">King Lord</ref> which concludes to the fact that the argument between a <ref target="b10gk3_1" type="character">King lord</ref> and <ref target="b10gk3_1" type="character">Maverick</ref> is more dangerous than the argument with a <choice><orig>civillian</orig><reg>civilian</reg></choice>.</s>
+        <s>With this the police is given an excuse for inspecting <ref target="b10gk3_1" type="character">Maverick</ref> and pressing him on the ground because in the novel he talks and in the movie he uses his force.</s>
+        <s>Concluding, the movie doesn't focus much on the racism behind police force but more on the problems concerning gang activities.</s>
+      </p>
+      <p>
+        <s>So in my eyes, the movie doesn't present the idea of the novel to emphasize the racism behind the polcie and their wage of force.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11l03_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <choice><orig>Diary</orig><reg>diary</reg></choice>,</salute>
+      </p>
+      <p>
+        <s>I'm writing this, but I can't even hold the pen, as I'm too angry.</s>
+      </p>
+      <p>
+        <s>As I wrote in my last entry I told you that I was going to visit my uncle today.</s>
+      </p>
+      <p>
+        <s>After the situation in the <choice><orig>coffeshop</orig><reg>coffeeshop</reg></choice> and my latest arrest, <ref target="a11lk1_1" type="character">Emily</ref> forced me to go and ask <ref target="a11lk1_1" type="character">Amir</ref> for advice.</s>
+        <s>So I did.</s>
+        <s>Even though I was scared, as I lost my whole trust in him after he beat up <ref target="a11lk1_1" type="character">Emily</ref>, I went there.</s>
+        <s>But I now know that I should have been smarter.</s>
+        <s>If I hadn't go to him I wouldn't have been so angry.</s>
+      </p>
+      <p>
+        <s>It started off, as I told him the situation.</s>
+        <s>I talked about my immigration status and how it is up for renewal.</s>
+        <s>I also mentioned that I eventually laughed at the officers.</s>
+        <s>Look, I shoudl have known that this would offend him.</s>
+        <s>He told me how I have to change my behaviour in order to fit in society and how otherwise I won't have a future in this country.</s>
+        <s>But what if I don't want to?</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> always seemed perfectly integrated in American society.</s>
+        <s>But now I know, that he always tried to assimilate.</s>
+        <s>He turned his back on everything that's in relation to the Islam.</s>
+        <s>But not only on things, but on humans.</s>
+        <s>I can't describe how hurt I was all those years.</s>
+        <s>But now I know why.</s>
+        <s>He didn't only want to fit in American society but the discomfort of belonging to the Islam goes way deeper.</s>
+        <s>He was ashamed.</s>
+        <s>Ashamed that he, just like all of us, felt this immense pride for our religion.</s>
+        <s>The blush you get when someone talks about terroristic attacks.</s>
+        <s>Attacks where our people stood up for the religion and outlived it.</s>
+        <s>He tried to be an American so hard and forced himself in this position, that his mind probably went crazy.</s>
+        <s>But then I just simply don't understand how he could say that I'm a radical muslim.</s>
+        <s>This just isn't fair.</s>
+        <s>From feeling nothing buth respect for <ref target="a11lk1_1" type="character">Amir</ref>, I'm now feeling shame for the fact that I'm related to him.</s>
+        <s>Call me crazy, but I don't want and need his help.</s>
+        <s>Even if without him or his stupid lawyer friends help, I won't be able to get out of this situation, I won't accept help.</s>
+        <s>I stood up for my country and religion in the best way possible.</s>
+        <s>He should pay me respect, not the other way around.</s>
+        <s>I don't belong here, I never will.</s>
+        <s>I don't need to face racism on a daily base and don't stand up for my self like <ref target="a11lk1_1" type="character">Amir</ref> does, that's just not me.</s>
+      </p>
+      <p>
+        <s>Who knows what the future will hold.</s>
+        <s>I won't let myself be suppressed any longer.</s>
+        <s>I hope <ref target="a11lk1_1" type="character">Amir</ref> will find a way to make up his mind because otherwise he'll never be happy.</s>
+        <s>He already lost his wife and job... I don't have anything to <choice><orig>loose</orig><reg>lose</reg></choice>... So I don't really care.</s>
+      </p>
+      <p>
+        <s>Goodbye diary.</s>
+        <s>I'll meet my friends now and go pray.</s>
+        <s>Show some respect to my religion.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

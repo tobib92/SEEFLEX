@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g10_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt of the political speech by <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> at the <name type="misc">European American Chamber of Commerce</name> was delivered in <name type="geo">New York</name> on <date>10th July in 2018</date>.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">EU</name> commissioner for taking back negotiations of the <name type="geo">UK</name> in the course of <name type="misc">Brexit</name> holding the speech after having greeted the audience and having thanked for the opportunity to speak about his subject.</s>
+      </p>
+      <p>
+        <s>The political speech is about the consequences of <name type="misc">Brexit</name>, as well as the characteristics of a close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s>According to the speaker, <name type="misc">Brexit</name> will have negative consequences <ref target="c11gk2_1" type="line">(ll. 2-3)</ref>.</s>
+      </p>
+      <p>
+        <s>Now, trade will be no longer trouble-free <ref target="c11gk2_1" type="line">(l. 5)</ref>.</s>
+        <s>Subsequently, economic sectors, for example manufacturing, logistics, agricultural and food sectors will become a burden on value chains <ref target="c11gk2_1" type="line">(ll. 6-8)</ref>.</s>
+      </p>
+      <p>
+        <s>A close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name> concerns financial services.</s>
+        <s>The <name type="misc">EU Single Market</name>, as well as the free movement of capital, is open to third countries <ref target="c11gk2_1" type="line">(ll. 16-18)</ref>.</s>
+      </p>
+      <p>
+        <s>Moreover, the <name type="misc">Free Trade Agreement</name> with the <name type="geo">UK</name> includes to establish by <choice><orig>lookin</orig><reg>looking</reg></choice> forward certain <name type="misc">EU</name> rules <ref target="c11gk2_1" type="line">(ll. 20-21)</ref>.</s>
+      </p>
+      <p>
+        <s>A close relationship will be create if <name type="geo">US</name> companies have a leading role in <name type="misc">EU</name> markets <ref target="c11gk2_1" type="line">(ll. 30-31)</ref>.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">EU</name> is the most open market.</s>
+        <s>This system <choice><orig>continue</orig><reg>continues</reg></choice> to exist in the future in cooperation with the <name type="geo">UK</name> financial services <ref target="c11gk2_1" type="line">(ll. 29-32)</ref>.</s>
+      </p>
+      <p>
+        <s>To sum up, <name type="misc">Brexit</name> has a worst impact on the <name type="geo">UK</name> but the <name type="misc">EU</name> will work as its best nevertheless.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g12_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> and published on <date>17th December 2016</date> in <name type="misc">The Sunday Times</name> deals with integration, the author's view of language learning and his story.</s>
+      </p>
+      <p>
+        <s>In the first paragraph <ref target="c10gk1_1" type="author">Zia</ref> tells us that there are many problems about integration because the immigrants integrate alone and no one tells them how important it is to learn English.</s>
+        <s>Because of that over £100<choice><abbr>m</abbr><expan>million</expan></choice> was spent in one year only to communicate with British residents who speaks foreign languages.</s>
+      </p>
+      <p>
+        <s>For example the people who came from <name type="geo">Bangladesh</name>, a country with a low level of education and a lot of crime.</s>
+      </p>
+      <p>
+        <s>The author is <choice><orig>emmigrated</orig><reg>emigrated</reg></choice> from <name type="geo">Bangladesh</name> too, but <ref target="c10gk1_1" type="author">Zia</ref> had learned English very quick because her parents <choice><orig>tells</orig><reg>tell</reg></choice> her to do this.</s>
+      </p>
+      <p>
+        <s>In the mid <date>1970s</date> the teachers ignore the immigrational background which is <choice><orig>completly</orig><reg>completely</reg></choice> different then nowadays.</s>
+      </p>
+      <p>
+        <s>At the end the author appeals to the reader to learn and speak English.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

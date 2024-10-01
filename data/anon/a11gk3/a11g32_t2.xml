@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g32_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr's</ref> state of mind is shown by the usage of point of view and various narrative techniques, such as flashbacks.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> was through the entire book unsure to speak up for <ref target="a11gk3_1" type="character">Khalil</ref>, because her fear of possible consequences, like <ref target="a11gk3_1" type="character">King</ref> coming for her or what others think about her.</s>
+        <s>But at the end of the book she gets her mind clear and knows what she really wants to do.</s>
+        <s>She has a strong will in her mind and is desperate to speak her thoughts out, not afraid of her old conflict of identities and what others think.</s>
+      </p>
+      <p>
+        <s>To show that this change of the state of her mind happens, because of her anger and injustice for <ref target="a11gk3_1" type="character">Khalil</ref>, the author uses a flashback, in <choice><orig>wich</orig><reg>which</reg></choice> <ref target="a11gk3_1" type="character">Starr</ref> sees <ref target="a11gk3_1" type="character">Khalil</ref> getting shot again (<quote>He looks at me for the last time and - </quote> <ref target="a11gk3_1" type="line">ll. 6-7</ref>).</s>
+        <s>This flashback makes the reader understand, that this change in her intentions did not came from nowhere.</s>
+      </p>
+      <p>
+        <s>Another example for this is her interior <choice><orig>monolog</orig><reg>monologue</reg></choice>, where she says to herself in her thoughts, that she is happy while speaking out and letting her anger out (<quote>speaker happy is more my thing</quote> <ref target="a11gk3_1" type="line">ll. 57-58</ref>).</s>
+        <s>This has the effect on the reader that she has a clear mind and is true with herself, with speaking up for <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+      </p>
+      <p>
+        <s>The point of view used in this excerpt, is the first person protagonist narrator.</s>
+        <s>The reader only has a limited vision and knows only what <ref target="a11gk3_1" type="character">Starr</ref> knows.</s>
+        <s>The reader sees through <ref target="a11gk3_1" type="character">Starr's</ref> eyes and <choice><orig>kows</orig><reg>knows</reg></choice> her feelings and thoughts.</s>
+        <s>Using this point of view, makes the reader sympathize with <ref target="a11gk3_1" type="character">Starr</ref> and her actions.</s>
+        <s>Furthermore the reader understands her problems and the process to solve the problems.</s>
+        <s>It gets clear that <choice><orig>its</orig><reg>it's</reg></choice> hard for <ref target="a11gk3_1" type="character">Starr</ref> to speak up for <ref target="a11gk3_1" type="character">Khalil</ref>, but the reader also understands her anger and why she speaks up for <ref target="a11gk3_1" type="character">Khalil</ref> at the end of the excerpt.</s>
+      </p>
+      <p>
+        <s>In <choice><orig>Conclusion</orig><reg>conclusion</reg></choice> you can say that she is happy with the change of the state of her mind and the process to overcome her fear, which is emphasized through various narrative techniques like her inner <choice><orig>monolog</orig><reg>monologue</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

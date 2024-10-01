@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l26_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt from chapter 5 of <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, published in <date>1995</date> by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref> is about the first reunion of <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> after almost five years.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="b11lk2_1" type="character">Daisy</ref> asks <ref target="b11lk2_1" type="character">Nick Carraway</ref>, the narrator, if he was in love with her and why she had to come alone.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> doesn't answer this question directly and says, that it is a secret.</s>
+        <s>After that he makes sure that <ref target="b11lk2_1" type="character">Daisy's</ref> chaffeur won't interrupt.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> go inside, where <ref target="b11lk2_1" type="character">Nick</ref> wants <ref target="b11lk2_1" type="character">Daisy</ref> to meet <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+        <s>Meanwhile <ref target="b11lk2_1" type="character">Gatsby</ref> went outside in the rain, just to knock on the door again.</s>
+      </p>
+      <p>
+        <s>After they went into the living room, there is not much talking.</s>
+        <s>Then, while <ref target="b11lk2_1" type="character">Gatsby</ref> tries to do some smalltalk, he destroys <ref target="b11lk2_1" type="character"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></ref> clock, but repairs it <choice><orig>immediatly</orig><reg>immediately</reg></choice>.</s>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> says, that she and <ref target="b11lk2_1" type="character">Gatsby</ref> have not mer for many years.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> answers, that it will be five years next November.</s>
+      </p>
+      <p>
+        <s>After there is a silent minute again, <ref target="b11lk2_1" type="character">Nick</ref> leaves the house to let both of them enjoy their time together.</s>
+        <s>Before he can leave, <ref target="b11lk2_1" type="character">Gatsby</ref> follows him to talk for a moment.</s>
+        <s>He tells <ref target="b11lk2_1" type="character">Nick</ref>, what a terrible mistake all this is.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> calms him down and goes outside.</s>
+        <s>While waiting, he watches <ref target="b11lk2_1" type="character">Gatsby's</ref> house.</s>
+      </p>
+      <p>
+        <s>After half an hour, when it stopped raining, <ref target="b11lk2_1" type="character">Nick</ref> goes back inside.</s>
+        <s>He tries to get their attention, by making loud noises, but they did not hear them because they were so focused on each other.</s>
+      </p>
+      <p>
+        <s>He tells <ref target="b11lk2_1" type="character">Gatsby</ref>, that it stopped raining, to indicate, that they could go to <ref target="b11lk2_1" type="character">Gatsby's</ref> house now.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> realizes and asks <ref target="b11lk2_1" type="character">Nick</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> to come over.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

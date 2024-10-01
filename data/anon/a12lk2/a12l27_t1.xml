@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l27_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an extract from the play <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> by <ref target="a12lk2_1" type="author">William Shakespeare</ref> which stems from the <name type="misc">Oxford School Shakespeare</name>, new edition published in <date>2008</date>.</s>
+      </p>
+      <p>
+        <s>In this particular scene, <name type="person">Juliet</name> and <name type="person">Romeo</name> are secretly meeting in the <name type="person">Capulet's</name> garden.</s>
+        <s>When <name type="person">Romeo</name> comes out of hiding <name type="person">Juliet</name> expresses her concerns about him being there.</s>
+      </p>
+      <p>
+        <s>Because <name type="person">Romeo</name> is a <name type="person">Montague</name> she fears that he might be found by her family's people and as a consequence killed.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> assures her that he is willing to take this risk because he is in love with her and this love will not stop him from seeing her.</s>
+      </p>
+      <p>
+        <s>Next, <name type="person">Juliet</name> repeats her concerns but <name type="person">Romeo</name> keeps assuring her that he is ready to withstand the threat coming from her relatives.</s>
+      </p>
+      <p>
+        <s>Lastly, <name type="person">Romeo</name> argues that he is well hidden thanks to the dark and stresses again  that he is aware of the risk yet does not want it to stop him from seeing her.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

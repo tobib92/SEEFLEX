@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is another <choice><orig>charakter</orig><reg>character</reg></choice> in the novel <ref target="b11gk1_1" type="title">Gun Love</ref> written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in year <date>2019</date> which deals with the <choice><orig>live</orig><reg>life</reg></choice> of a runaway teenager who lives with her daughter in a <name type="misc">Mercury</name> in a <choice><orig>trailerpark</orig><reg>trailer park</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is an eight year old girl, who lives in a foster home.</s>
+        <s>The same where <ref target="b11gk1_1" type="character">Pearl</ref> is brought to.</s>
+      </p>
+      <p>
+        <s>Even <ref target="b11gk1_1" type="character">Helen</ref> is eight, she is very small and looks like a five year old girl <ref target="b11gk1_1" type="line">(ll. 1-2)</ref>.</s>
+        <s>She smells good after burned marshmallow <ref target="b11gk1_1" type="line">(l. 3)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> had a bad past, nevertheless she is very open and friendly.</s>
+        <s>She smiles and <choice><orig>talk</orig><reg>talks</reg></choice> very much <ref target="b11gk1_1" type="line">(l. 3, l. 5)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is described by the others as the <quote>true-blue foster child</quote> <ref target="b11gk1_1" type="line">(l. 11)</ref> that shows her loyalty.</s>
+        <s>She <choice><orig>speeks</orig><reg>speaks</reg></choice> in the third person, because nobody teached her how to speak correctly <ref target="b11gk1_1" type="line">(l. 16)</ref>.</s>
+        <s>Even she never had a <choice><orig>joyfull</orig><reg>joyful</reg></choice> childhood she doesn't dream of a family or a house.</s>
+        <s>She dreams of white <choice><orig>Chrismas</orig><reg>Christmas</reg></choice> in <name type="geo">Florida</name> <ref target="b11gk1_1" type="line">(ll. 18-19)</ref> that shows that she hasn't high <choice><orig>standarts</orig><reg>standards</reg></choice> and is <choice><orig>gratefull</orig><reg>grateful</reg></choice> for what she has.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> never get teached, that's why she doesn't know how to live a healthy life that's the reason why she often <choice><orig>forget</orig><reg>forgets</reg></choice> to drink.</s>
+        <s>She gets less love in her life and now she <choice><orig>appriciate</orig><reg>appreciates</reg></choice> forehead kisses very much <ref target="b11gk1_1" type="line">(l. 19)</ref>.</s>
+      </p>
+      <p>
+        <s>Althought she had a collection of telephones from each foster home.</s>
+        <s>In the inside <ref target="b11gk1_1" type="character">Helen</ref> is a very strong personality, but also has a problem.</s>
+        <s>Because she was given from foster home to foster home she never feels the feeling of <choice><orig>beeing</orig><reg>being</reg></choice> home.</s>
+        <s>That made her having problems with her identity.</s>
+        <s>She doesn't know where she belongs to and where her house is <ref target="b11gk1_1" type="line">(ll. 7-8)</ref>.</s>
+        <s>She thinks <choice><orig>shes</orig><reg>she's</reg></choice> from <name type="geo">Ethiopia</name> and <name type="geo">Finland</name>.</s>
+        <s>She raised up in homes with different religions.</s>
+        <s>That's why she always has to fit in a new home.</s>
+        <s>The conformity isn't the only problem.</s>
+        <s>She also lived in bad living conditions.</s>
+        <s>In some homes she only gets cereal to eat <ref target="b11gk1_1" type="line">(l. 14)</ref>.</s>
+        <s>When nobody cared for her she <choice><orig>trys</orig><reg>tries</reg></choice> to help herself.</s>
+        <s>For example she <choice><orig>know</orig><reg>knows</reg></choice> how to kill bugs.</s>
+        <s>Because she knows that, she maybe lived in dirty homes <ref target="b11gk1_1" type="line">(l. 21)</ref>.</s>
+        <s>Nevertheless she is an open, loyal and friendly girl.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a friend of <ref target="b11gk1_1" type="character">Leo</ref>.</s>
+        <s>She also has other friends, whos she wants to call with her phones.</s>
+        <s>She <choice><orig>trys</orig><reg>tries</reg></choice> to get the love and attention, which she never get, by making <ref target="b11gk1_1" type="character">Leo</ref> her friend or sitting very close to <ref target="b11gk1_1" type="character">Pearl</ref> and <quote>rubbing her forehead against Pearl's upper arm</quote> <ref target="b11gk1_1" type="line">(l. 41-42)</ref>.</s>
+      </p>
+      <p>
+        <s>Even her hard past, she <choice><orig>trys</orig><reg>tries</reg></choice> to <choice><orig>ignor</orig><reg>ignore</reg></choice> her problem of not knowing who she really is and wants to live normal life.</s>
+        <s>Even <choice><orig>tought</orig><reg>though</reg></choice> sometimes her past <quote>knock her out</quote> that's when she wants to sleep the whole time <ref target="b11gk1_1" type="line">(ll. 19-20)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all we can say <ref target="b11gk1_1" type="character">Helen</ref> is <choice><orig>an</orig><reg>a</reg></choice> very open and a love needing person.</s>
+        <s>Because of her past she has the problem that she doesn't know who she is but now she <choice><orig>trys</orig><reg>tries</reg></choice> to get the love and <choice><orig>attantion</orig><reg>attention</reg></choice> by her friends she never get before.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

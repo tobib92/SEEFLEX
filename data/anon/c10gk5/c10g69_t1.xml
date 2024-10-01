@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g69_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>excert</orig><reg>excerpt</reg></choice> <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> is an informative article from <name type="misc">The Sunday Times</name>.</s>
+        <s>It is written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and published on the <date>17th December 2016</date>.</s>
+        <s>The article is about the problems with integrate immigrants, caused by communication or language differences.</s>
+      </p>
+      <p>
+        <s>The text is <choice><orig>seperatet</orig><reg>separated</reg></choice> in four paragraphs.</s>
+        <s>In the first paragraph the author describes the financial costs of the translation for non English speaking residents, who live in <name type="geo">Britain</name>.</s>
+        <s>After this he explains the problem of language differences and the from this caused integration problems.</s>
+      </p>
+      <p>
+        <s>In the second paragraph the <name type="misc">Brick Lane</name> in the <name type="misc">East End</name> of <name type="geo">London</name> gets described.</s>
+        <s>The author makes clear that Bangladeshis sit at the ground of educational achievement and <surplus>and</surplus> only have the chance to do crimes.</s>
+      </p>
+      <p>
+        <s>In the third paragraph <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> tells about his own experiences, when he went to <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name>.</s>
+        <s>He describes his school a bit and his and his parents will to learn English.</s>
+      </p>
+      <p>
+        <s>In the fourth paragraph he talks about better methods to integrate others and critizises not speaking up.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

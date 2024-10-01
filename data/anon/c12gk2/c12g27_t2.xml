@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <name type="person">Macbeth's</name> and <name type="person">Lady Macbeth's</name> conversation <name type="person">Lady Macbeth</name> seems to be the leader of the conversation, because she got the biggest part of speaking.</s>
+        <s>She has many long talking parts <ref target="c12gk2_1" type="line">(ll. 37-52, 9-19, 23-35)</ref>.</s>
+        <s>The beginning of the extract seems like <choice><orig>a</orig><reg>an</reg></choice> examination by <name type="person">Lady Macbeth</name> <quote><choice><orig>why</orig><reg>Why</reg></choice> have you left the chamber?</quote> <ref target="c12gk2_1" type="line">(l. 1)</ref> <quote>Know you not he has?</quote>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Throug</orig><reg>Through</reg></choice> a metaphor <name type="person">Macbeth</name> tries to explain to <name type="person">Lady Macbeth</name> that <choice><orig>their</orig><reg>they</reg></choice> are in a good situation and the <quote>golden opinions from all sorts of people</quote> <ref target="c12gk2_1" type="line">(l. 6)</ref> should <quote>be worn now in their newest gloss</quote> <ref target="c12gk2_1" type="line">(l. 7)</ref>.</s>
+      </p>
+      <p>
+        <s>Through the <choice><orig>methapor</orig><reg>metaphor</reg></choice> their life right now seems to be very good.</s>
+        <s>The positive aura and feelings he tries to create explain the choice of words he uses.</s>
+        <s><name type="person">Macbeth</name> describes killing <name type="person">Duncan</name> with <quote>cast aside</quote> <ref target="c12gk2_1" type="line">(l. 8)</ref> what he got.</s>
+      </p>
+      <p>
+        <s>The first lines already <choice><orig>shows</orig><reg>show</reg></choice> that <name type="person">Macbeth</name> is not brave as his wife <name type="person">Lady Macbeth</name>.</s>
+        <s><name type="person">Macbeth</name> also is afraid but wants to get the power <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+      </p>
+      <p>
+        <s><name type="person">Lady Macbeth</name> seems in this extract very manipulative.</s>
+        <s>All she does is to try to convince her husband to kill the king <name type="person">Duncan</name>.</s>
+        <s>She uses many rhetorical question, especially in her first long paragraph <ref target="c12gk2_1" type="line">(ll. 9-19)</ref>.</s>
+        <s><quote>Was the hope drunk</quote><ref target="c12gk2_1" type="line">(l. 9)</ref> is a <choice><orig>personificatation</orig><reg>personification</reg></choice> which is used by <name type="person">Lady Macbeth</name> to say to <name type="person">Macbeth</name> that he lied to <choice><orig>here</orig><reg>her</reg></choice> and made it <choice><orig>seems</orig><reg>seem</reg></choice> like he gonna <gap reason="illegible" quantity="1" unit="word">den</gap> what they talk about but he <quote>dressed</quote> himself in the lie <ref target="c12gk2_1" type="line">(ll. 9f)</ref>.</s>
+        <s>She also confronts him in this paragraph with the fact that he is not brave enough to translate his wishes into action <ref target="c12gk2_1" type="line">(ll. 14f)</ref>.</s>
+        <s>Through her tries to convince her husband it seems like <name type="person">Lady Macbeth</name> wants the power more than her husband and that she is more <choice><orig>amboutius</orig><reg>ambitious</reg></choice> and brave.</s>
+        <s>She does explain her thoughts very well and in a way <name type="person">Macbeth</name> has to overthink his decision what he is going to do because she is questioning his decisions <ref target="c12gk2_1" type="line">(ll. 14f, 18)</ref>.</s>
+        <s><name type="person">Lady Macbeth</name> also brings the relationship of the two inside of her arguments.</s>
+        <s>She consider that his action shows how he feels about her and that she does not feel his love that strong, <q>metaphor</q> <ref target="c12gk2_1" type="line">(ll. 10-12)</ref>.</s>
+        <s><name type="person">Macbeth</name> himself <choice><orig>seem</orig><reg>seems</reg></choice> lost in the extract because only wants to stop <name type="person">Lady Macbeth</name> from continuing with talking <ref target="c12gk2_1" type="line">(ll. 20-23)</ref> and asks <quote>if we should fail?</quote> <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s><name type="person">Lady Macbeth</name> also refers to a cat that wants to have a fish without touching water <ref target="c12gk2_1" type="line">(l. 19)</ref> and <choice><orig>refear</orig><reg>refers</reg></choice> to a baby she has <choice><orig>breastfeeded</orig><reg>breastfed</reg></choice> and killed in the next moment so he could make it <ref target="c12gk2_1" type="line">(ll. 31-35)</ref>.</s>
+        <s>Lastly <name type="person">Macbeth</name> manipulates him through how he would <quote>be more than what you were, you would be so much more the man</quote> <ref target="c12gk2_1" type="line">(l. 26f)</ref>.</s>
+        <s>After this paragraph <name type="person">Macbeth</name> seems more open because he asks what happens if they won't make it <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s>This case shows that <name type="person">Macbeth</name> wants to be <choice><orig>recieved</orig><reg>received</reg></choice> as a strong man by his wife.</s>
+        <s>They both need to rely on eachother to get what they want.</s>
+        <s>In this exact extraction the relationship looks like <name type="person">Lady Macbeth</name> wants more than just the love of their.</s>
+        <s>It looks like her true desire is the power and the relationship between them is strong cause they both want the same.</s>
+        <s>They act like a team or one human in which <name type="person">Macbeth</name> is the actor and <name type="person">Lady Macbeth</name> is the brain and controller.</s>
+        <s>After telling <name type="person">Macbeth</name> her plan she convinced him.</s>
+        <s>In the last paragraph <name type="person">Lady Macbeth</name> uses <choice><orig>to</orig><reg>two</reg></choice> alliterations and a metaphor <quote>receipt of reason</quote> <ref target="c12gk2_1" type="line">(l. 44)</ref> <quote>wine <gap reason="illegible" quantity="2" unit="word">en wasseil</gap></quote> <ref target="c12gk2_1" type="line">(l. 42)</ref> and describes the plan in images.</s>
+        <s>So it feels like she already can see how the murder is going to happen.</s>
+      </p>
+      <p>
+        <s>All in all <name type="person">Lady Macbeth</name> seems to be a smart, <choice><orig>manaputitive</orig><reg>manipulative</reg></choice> <choice><orig>women</orig><reg>woman</reg></choice> who uses images to create the effect she wants to bring over.</s>
+        <s><name type="person">Macbeth</name> seems to be more passive and afraid and has a conscience which you can see in his little monologue to himself.</s>
+        <s>Then both tend to be a team which is controlled by <name type="person">Lady Macbeth</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

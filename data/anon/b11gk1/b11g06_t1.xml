@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g06_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> published by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> in <date>2019</date> deals with the social problems of the 14 year old <ref target="b11gk1_1" type="character">Pearl</ref> and her runaway mother who lived in a car.</s>
+      </p>
+      <p>
+        <s>After <ref target="b11gk1_1" type="character"><choice><orig>Pearls</orig><reg>Pearl's</reg></choice></ref> mother <ref target="b11gk1_1" type="character">Margot</ref> has been shot, the <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice>, went to their car to take <ref target="b11gk1_1" type="character">Pearl</ref> into foster care.</s>
+        <s>Now she lives in an old <choice><orig>mans</orig><reg>man's</reg></choice> house with two other <choice><orig>childrens</orig><reg>children</reg></choice> which parents were also shot.</s>
+        <s>They are called <ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref>, an eight year old girl, lives her whole life with foster parents.</s>
+        <s>She has not many information about her parents and her past, therfore she tells everytime a different story about her past.</s>
+        <s>More than seventeen families tried to raise her but some of them never took enough care of her, so she needed to sleep on the floor or be okay with only one toilet paper a day.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> talks endless and in third person, so not many people can follow her.</s>
+        <s>From her foster parents she was given many telephones to stay in contact.</s>
+        <s>Her only friends, <ref target="b11gk1_1" type="character">Lulu</ref>, <ref target="b11gk1_1" type="character">Gina</ref> and <ref target="b11gk1_1" type="character">Romey</ref> live at other houses.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

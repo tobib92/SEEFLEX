@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g44_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In an interview about her novel <ref target="b10gk4_1" type="title">The Hate U Give</ref> <ref target="b10gk4_1" type="author">Angie Thomas</ref> talked about the power of story telling, the impact that books can have on people's lives and perspectives and how they can open the reader's eyes.</s>
+        <s>I agree with <ref target="b10gk4_1" type="author">Angie Thomas</ref>.</s>
+        <s>The film about that book also had an impact on my life and perspective.</s>
+        <s>After I watched the film I watch more carefully about what happens in the world in reference to <choice><orig>racisme</orig><reg>racism</reg></choice>.</s>
+        <s>When I watch <choice><abbr>TV</abbr><expan>television</expan></choice> I often realize that they are less black than white people on the screen.</s>
+        <s>Furthermore, I'm now much more carefully with what I say or other.</s>
+        <s>In my opinion teenage life is a really hard time.</s>
+        <s>I experience it myself, by being confronted with school or family issues.</s>
+        <s>Additionally, I can understand <ref target="b10gk4_1" type="character">Starr</ref> that having problems with your friends is the hardest, and is sometimes a big mood killer.</s>
+        <s>And this film showed me that I'm not the only one who has to cope with those problems.</s>
+      </p>
+      <p>
+        <s>All in all I fully agree with <ref target="b10gk4_1" type="author">Angie Thomas</ref> that movies, especially <ref target="b10gk4_1" type="title">The Hate U Give</ref> have a big impact on <choice><orig>peoples</orig><reg>people's</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

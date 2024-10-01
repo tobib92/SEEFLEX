@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g28_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>A lot of pollution derives from human activity.</s>
+        <s>As a result, it is we humans who will be able to stop pollution.</s>
+      </p>
+      <p>
+        <s><name type="geo">Germany</name> is already a state which makes a lot for the climate change compared to other countries.</s>
+        <s>But that is not enough!</s>
+        <s>I <choice><orig>Personally</orig><reg>personally</reg></choice> think that the new regiment should stop every power <choice><orig>statione</orig><reg>station</reg></choice> which isn't climate friendly.</s>
+        <s>If we switch to wind, sun, and water power stations, there will be less <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> in the air and the pollution is much better.</s>
+        <s>Also <choice><orig>Flights</orig><reg>flights</reg></choice> should be more expensive and inland flights should be forbidden.</s>
+        <s><name type="geo">Germany</name> must go on with <choice><orig>an</orig><reg>a</reg></choice> good example and rush other countries to make more against the climate change.</s>
+        <s>European countries should focus more on their own market and not buy much fast fashion and use developing countries as slaves.</s>
+        <s>But these laws will be hard to make and a lot of problems will be there to face.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>politicer</orig><reg>politician</reg></choice> shouldn't be afraid of big concerns and a lot of money and they have to stop the climate change.</s>
+      </p>
+      <p>
+        <s>All in all you could summand that, if we all help a bit to stop the climate change and the regiment makes feasible laws, which are good for the pollution, and not <choice><orig>to</orig><reg>too</reg></choice> bad for the economy we could save <choice><orig>oure</orig><reg>our</reg></choice> planet.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

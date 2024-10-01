@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g50_t2</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Jane,</salute>
+      </p>
+      <p>
+        <s>how are you?</s>
+      </p>
+      <p>
+        <s>Maybe this <choice><orig>E-Mail</orig><reg>e-mail</reg></choice> is a little bit unexpected but I just couldn't stop thinking about what you said about student exchanges.</s>
+      </p>
+      <p>
+        <s>I'm really convinced that going abroad at our age is very important but also a special experience.</s>
+      </p>
+      <p>
+        <s>I care about you and I hope that I can change your mind so you don't miss out on that.</s>
+      </p>
+      <p>
+        <s>As I just said, a student exchange is everything but <quote>a waste of time</quote> like you said.</s>
+        <s>You don't miss out on anything in school, because you go to school like you would do at home, the only difference being the new language, people and country.</s>
+      </p>
+      <p>
+        <s>You get to know a lot about new cultures and people and get to live a life that is <choice><orig>completly</orig><reg>completely</reg></choice> different from yours for a year or a half.</s>
+      </p>
+      <p>
+        <s>I always thought of you as an open-minded and intelligent person.</s>
+        <s>So I think that an exchange would be just the right thing for you.</s>
+      </p>
+      <p>
+        <s>I think life just gets boring when you do the same things every day, every week 24/7.</s>
+      </p>
+      <p>
+        <s>Some people that went abroad say, that when you come back, you see everything different, but in a good way.</s>
+      </p>
+      <p>
+        <s>All in all I think that student exchanges are the best opportunity to live your life fully at our age.</s>
+      </p>
+      <p>
+        <s>I wish you the best and stay healthy,</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

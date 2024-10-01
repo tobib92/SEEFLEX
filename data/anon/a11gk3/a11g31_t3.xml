@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g31_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <name type="person">John Smith</name>
+        <name type="geo">Cologne</name>
+        <name type="geo">Germany</name>
+        <name type="person">Mr. Rump</name>
+        <name type="geo">Texas</name>
+        <name type="geo">USA</name>
+        <date>8th December 2021</date>
+      </p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I'm <choice><orig>writting</orig><reg>writing</reg></choice> you this letter because I heard about the fact that the novel <name type="misc">The Hate U Give</name> by <ref target="a11gk3_1" type="author">Angie Thomas</ref> was banned from your school libraries and I would like to express my opinion why this book is important to every student worldwide.</s>
+      </p>
+      <p>
+        <s>Overall the book deals with the topic racism in a very good way, because it is easy to understand for students the message it tries to express.</s>
+        <s>But first it is important to state that racism and discrimination is still very present at the current time in every country and this doesn't only <choice><orig>aply</orig><reg>apply</reg></choice> on African-Americans it applies on every culture.</s>
+        <s>As a reason for that students need to know why there is something like racism and how to fight it.</s>
+        <s>For example in the novel the father <name type="person">Maverick</name> tells the main character <name type="person">Starr</name> about the <choice><orig>viceous</orig><reg>vicious</reg></choice> circle they <choice><orig>life</orig><reg>live</reg></choice> in and that the only way to break that circle and to make a <choice><orig>diffrence</orig><reg>difference</reg></choice> in life is to speak out loud and protest against discrimination.</s>
+        <s>This <choice><orig>a</orig><reg>an</reg></choice> important point for everyone in the world.</s>
+        <s>Another aspect which is topic in the novel is the <name type="misc">10 point Black Panther Program</name> which <name type="person">Maverick</name> is teaching is kids, so they know how to act if they get confronted with problems like stop and frisk.</s>
+      </p>
+      <p>
+        <s>With this combination of express our own opinion and be <choice><orig>carefull</orig><reg>careful</reg></choice> with your actions in real life the novel express <choice><orig>efficently</orig><reg>efficiently</reg></choice> the problems and the racism in life.</s>
+      </p>
+      <p>
+        <s>That's why I think everyone should read this novel and know what it is about, because it <choice><orig>themesized</orig><reg>thematized</reg></choice> <choice><orig>import</orig><reg>important</reg></choice> topics for life.</s>
+        <s>I hope this helps you out.</s>
+      </p>
+      <p>
+        <signed><choice><orig>Sincerly</orig><reg>Sincerely</reg></choice>, John Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

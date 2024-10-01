@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g17_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is an excerpt from the drama <ref target="b10gk2_1" type="title">The Hate U Give</ref>, released in <date>2018</date>.</s>
+        <s>In the scene at hand <ref target="b10gk2_1" type="character">Chris</ref> meets <ref target="b10gk2_1" type="character">Starr</ref>, his girlfriend in school.</s>
+      </p>
+      <p>
+        <s>This scene is situated in the beginning of the movie, more precisely: This is the first time we get to see <ref target="b10gk2_1" type="character">Chris</ref> and experience that he is her boyfriend.</s>
+      </p>
+      <p>
+        <s>The given sequence begins with <ref target="b10gk2_1" type="character">Chris</ref> dancing in the hallway.</s>
+        <s>He is smiling and greeting students in the hallway while slowly walking towards <ref target="b10gk2_1" type="character">Starr</ref>.</s>
+        <s>Until <ref target="b10gk2_1" type="character">Chris</ref> reaches <ref target="b10gk2_1" type="character">Starr</ref>, we can hear music, <choice><orig>desribing</orig><reg>describing</reg></choice> how the person singing, can't stop starring at their ocean eyes.</s>
+      </p>
+      <p>
+        <s>Then he sees <ref target="b10gk2_1" type="character">Starr</ref> and walks up to her, while she is turned with her back against him.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is preparing her books for the next lesson and isn't smiling to that time.</s>
+        <s>This changes when <ref target="b10gk2_1" type="character">Chris</ref> puts his earphones on <ref target="b10gk2_1" type="character">Starr</ref> and makes her listen to rap.</s>
+        <s>After listening for a short period of time, she smiles and hands the earphones back to <ref target="b10gk2_1" type="character">Chris</ref>, who takes them back and now, stands next to <ref target="b10gk2_1" type="character">Starr</ref>.</s>
+        <s>They talk about their six months long relationship.</s>
+        <s>Obviously, it isn't going well, since <ref target="b10gk2_1" type="character">Chris</ref> is clueless what he needs to do, to finally get close to her.</s>
+        <s>Throughout their whole conversation neither <ref target="b10gk2_1" type="character">Chris</ref> nor <ref target="b10gk2_1" type="character">Starr</ref> is smiling.</s>
+        <s>This changes when <ref target="b10gk2_1" type="character">Chris</ref> decides ot start dancing in the middle of the hallway, which makes <ref target="b10gk2_1" type="character">Starr</ref> giggle and both of them are smiling again.</s>
+      </p>
+      <p>
+        <s>The given scene ends with <ref target="b10gk2_1" type="character">Starr</ref> going up to <ref target="b10gk2_1" type="character">Chris</ref>, taking his hand and leaving in a room alone with him.</s>
+      </p>
+      <p>
+        <s>This scene shows their <surplus>their</surplus> behaviour and outer appearance being completely different, but still belonging together.</s>
+        <s>This is because they both seem to exactly know, how to make the other person happy, even when they don't feel like smiling.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

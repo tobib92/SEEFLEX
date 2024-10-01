@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l04_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>You may have asked yourselves this before.</s>
+        <s>Why is <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> work even in the school curriculum in <name type="geo">Germany</name> and why is he of such historical meaning here in <name type="geo">Germany</name>?</s>
+        <s>I have asked myself this exact question already quite a while ago but I have never really given it much attention until now.</s>
+        <s>I've stumbled upon an article which was published in the <name type="misc">Thüringer Allgemeine</name> and written by a German journalist called <ref target="a12lk1_2" type="author">Wolfgang Hirsch</ref> and published in <date>2016</date>, a couple of years back.</s>
+        <s>He explains why <name type="person">Shakespeare</name> is of such great <choice><orig>Importance</orig><reg>importance</reg></choice> and his connection to German poetic giants such as <name type="person">Lessing</name> or <name type="person">Goethe</name>.</s>
+        <s>Let me tell you all about it.</s>
+        <s><name type="person">Christoph Martin Wieland</name>, who you have probably already heard of before didn't have the nickname <quote>Founding Father of the German Classic</quote> for nothing.</s>
+        <s>He was the first to translate <choice><orig>Shakespeares</orig><reg>Shakespeare</reg></choice> in <choice><orig>senseable</orig><reg>sensible</reg></choice> and understandable German, preparing them to be published in <name type="geo">Zurich</name> over the years of <date>1762</date> until <date>1766</date>.</s>
+        <s>Before this, not many <choice><orig>individual</orig><reg>individuals</reg></choice> in <name type="geo">Germany</name> know of <name type="person">Shakespeare</name> due to the lack of sufficient translation.</s>
+      </p>
+      <p>
+        <s><name type="person">Lessing</name>, <name type="geo">Goethe</name> and <name type="person">Heider</name>, all famous German poets were one of first to bring <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> structural state among the German people, and they loved it.</s>
+      </p>
+      <p>
+        <s>After <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> plays were played at the Birthday of <quote><name type="person">Großherzogin Sophie</name></quote>, the people were so inspired that they founded the <name type="person">Shakespeare</name> Society in <name type="geo">Weimar</name> in <name type="geo">Germany</name>, making it the centre of German literature.</s>
+      </p>
+      <p>
+        <s>Did you know this?</s>
+        <s>I would love to hear about what <choice><orig>facinated</orig><reg>fascinated</reg></choice> you the most!</s>
+        <s>I myself didn't know that <name type="person">Lessing's</name> work based on <name type="person">Shakespeare</name> until now.</s>
+        <s>Small world huh?</s>
+      </p>
+    </body>
+  </text>
+</TEI>

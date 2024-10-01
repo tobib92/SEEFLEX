@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l09_t3</author>
+        <name>story</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sweat was running down his face as he walked up <name type="misc">Pinon Drive</name>.</s>
+        <s>Why in god's name did it have to be so hot on this damn day?</s>
+        <s>He had been waiting for hours at the labor exchange and when he finally was offered work the sun was standing at the highest point possible.</s>
+        <s>He had a headache, his legs were exhausted from the long walk and worst of all he had nothing to drink.</s>
+        <s>He kept on walking and was crossing one of those huge lawns to insert a flier underneath the door when he heard a sudden call.</s>
+        <s>He stopped walking and looked around to see who it was.</s>
+        <s>He spotted a man walking up the street and wondered whether the man was talking to him or not.</s>
+        <s><ref target="b11lk1_1" type="character">José</ref> just stood there on a rich man's lawn, sweating and waiting for the white man to pass by.</s>
+        <s>The man was suddenly walking faster and then, <choice><orig>eventhough</orig><reg>even though</reg></choice> they looked all the same to him: evil, white and eyes filled with disgust as soon as they saw him, he recognized him.</s>
+        <s>Yes, that was it!</s>
+        <s>It was the man he had seen up in the canyon!</s>
+        <s>The man stopped and said <quote>I said, can I help you?</quote>.</s>
+        <s><choice><orig>Eventhough</orig><reg>Even though</reg></choice><ref target="b11lk1_1" type="character">José</ref> noticed the ringy sounding undertone in the man's voice he chose to ignore it.</s>
+        <s><quote>Help me?</quote> he answered.</s>
+        <s><quote>Sure, sure, hombre, you can help me</quote><ref target="b11lk1_1" type="character">José</ref> snickered and noticed then how red the man was turning and how all the muscles in his face formed an angry looking mask.</s>
+        <s><quote><s>What's happening, man?</s></quote> he asked and the man responded <quote><s>I want to know what you think you're doing here.</s><s>This is private property.</s><s>You don't belong here</s></quote>.</s>
+        <s>Seriously?</s>
+        <s><ref target="b11lk1_1" type="character">José</ref> thought, not again.</s>
+        <s>Why can't these people understand that I will be near them when they hire me?</s>
+        <s>For Christ's sake was it that hard to understand?</s>
+        <s>His annoyed thoughts were interrupted when the man suddenly grabbed his wrist and shouted <quote>I'm talking to you!</quote>.</s>
+        <s>That was enough!</s>
+        <s>He was doing a job he was hired to do and that was it.</s>
+        <s><ref target="b11lk1_1" type="character">José</ref> freed himself and spat between the white man's feet.</s>
+        <s>The man looked as if he would burst any second and threatened <ref target="b11lk1_1" type="character">José</ref> with calling the police.</s>
+        <s>Do I really have to prove everything, he thought.</s>
+        <s>Ragefully taking out these damn fliers and shoving them in the hands of the white man he was able to prove himself falsely accused.</s>
+        <s>He couldn't take these white pigs anymore.</s>
+        <s>Letting him do the dirty work and then accusing them of stealing.</s>
+        <s>Idiots!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

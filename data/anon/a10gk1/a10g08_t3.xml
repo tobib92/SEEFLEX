@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g08_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This statement in <ref target="a10gk1_1" type="author">Brian Pollard's</ref> extract victimizes the employers and demonizes the workers.</s>
+      </p>
+      <p>
+        <s>I would say this couldn't be farther from the truth - especially in developing countries.</s>
+      </p>
+      <p>
+        <s>Conditions and power dynamics in developing countries such as <name type="geo">Bangladesh</name> resemble those of the industrial revolution - unions are needed there.</s>
+      </p>
+      <p>
+        <s>But that is not what the comment is <choice><orig>reffering</orig><reg>referring</reg></choice> to.</s>
+        <s>It is <choice><orig>reffering</orig><reg>referring</reg></choice> western countries - those who have already went through the abysmal conditions of the industrial revolution.</s>
+        <s>And I still think this couldn't be farther from the truth.</s>
+      </p>
+      <p>
+        <s>Take for example <name type="misc">Amazon</name>, <name type="misc">McDonald's</name>, any clothing making company - not only do they have workers abroad - in which case unions would help them, but they are also exploitive here!</s>
+      </p>
+      <p>
+        <s>Paying minimum wage while demanding long hours, overtime and firing if not complied with is very similar to the practises of the past.</s>
+      </p>
+      <p>
+        <s>Unions are still needed globally and here too.</s>
+        <s>Though I agree that ideally legislation and our moral code would suffice - sadly they do not.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

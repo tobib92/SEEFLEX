@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g23_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Drama</orig><reg>drama</reg></choice> <ref target="c11gk3_1" type="title">A Raisin in the Sun</ref>, written by <ref target="c11gk3_1" type="author">Lorraine Hansberry</ref> and published in <date>1958</date> is about the black family <ref target="c11gk3_1" type="character">Younger</ref> back then in the <date>60s</date> to early <date>70s</date>.</s>
+        <s>In the play the head of the family, grandmother <ref target="c11gk3_1" type="character">Mama</ref> is about to receive a <choice><orig>pay check</orig><reg>paycheck</reg></choice> over 10000$ because of the death of her husband.</s>
+        <s>In <choice><orig>generall</orig><reg>general</reg></choice> you can say that each family member, from old to young <choice><orig>have</orig><reg>has</reg></choice> an own personal dream, which could be more realistic with the money of the <choice><orig>pay check</orig><reg>paycheck</reg></choice>.</s>
+        <s>So each of them has to express their dreams in front of <ref target="c11gk3_1" type="character">Mama</ref>, who can decide on what she will spend the money, and tries to <choice><orig>confince</orig><reg>convince</reg></choice> her that their dream is the right one, to spend the money on.</s>
+      </p>
+      <p>
+        <s>In the following text, I will briefly outline our given scene and contextualize it in act 1 of the drama.</s>
+      </p>
+      <p>
+        <s>First you can structure the given extract into three parts of paragraphs.</s>
+        <s>The first from line one to 15 is about that <ref target="c11gk3_1" type="character">Walter Lee</ref> confronts <ref target="c11gk3_1" type="character">Ruth</ref> another time with his dream of opening a liquor store.</s>
+        <s>The following discussion of them is about a friend of <ref target="c11gk3_1" type="character">Walter Lee</ref> <ref target="c11gk3_1" type="character">Willy Harris</ref>, which <ref target="c11gk3_1" type="character">Ruth</ref> called a <quote>good-for-nothing loudmouth</quote> and further that <ref target="c11gk3_1" type="character">Ruth</ref> doesn't really like the friends of her husband.</s>
+      </p>
+      <p>
+        <s>The next paragraph from line 10 to 25 is more about a monologue from <ref target="c11gk3_1" type="character">Walter</ref>, within he tries to <choice><orig>confince</orig><reg>convince</reg></choice> <ref target="c11gk3_1" type="character">Ruth</ref> to have a talk with <ref target="c11gk3_1" type="character">Mama</ref> about his dream spending the money on the liquor store.</s>
+        <s>He says that <ref target="c11gk3_1" type="character">Mama</ref> would listen to <ref target="c11gk3_1" type="character">Ruth</ref> more, than she would listen to him, while explaining things about the liquor store.</s>
+      </p>
+      <p>
+        <s>The last paragraph of our extract of the play, from line 26 to 43, is about <choice><orig>an</orig><reg>a</reg></choice> closer <choice><orig>explenation</orig><reg>explanation</reg></choice> from <ref target="c11gk3_1" type="character">Walter</ref> to his wife about the costs and the deal, he has figured out with his two friends, one named <ref target="c11gk3_1" type="character">Willy</ref> and the <choice><orig>others</orig><reg>other's</reg></choice> name is <ref target="c11gk3_1" type="character">Bobo</ref>.</s>
+        <s>He talks about the thirty thousand dollar deal, so that each of them <choice><orig>have</orig><reg>has</reg></choice> to spend exactly 10000$, which is exactly the amount, the <choice><orig>pay ceck</orig><reg>paycheck</reg></choice> of <ref target="c11gk3_1" type="character">Mama</ref> would have.</s>
+      </p>
+      <p>
+        <s>In the last part of the third paragraph, the conflict between <ref target="c11gk3_1" type="character">Ruth</ref> and <ref target="c11gk3_1" type="character">Walter</ref>, because <ref target="c11gk3_1" type="character">Ruth</ref> has to remember his husband that the money is not from him yet, so he should not hope and plan so passionately his dream come true.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

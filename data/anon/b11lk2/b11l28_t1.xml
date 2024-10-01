@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l28_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Tragedy</orig><reg>tragedy</reg></choice> <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, was written by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref> and published in <date>1925</date>.</s>
+        <s>The book deals with the impossibility of recapturing the past and the difficulty of altering one's future.</s>
+      </p>
+      <p>
+        <s>In the given extract <ref target="b11lk2_1" type="character">Gatsby</ref> leaves <ref target="b11lk2_1" type="character">Nick's</ref> house as soon as <ref target="b11lk2_1" type="character">Daisy</ref> enters but returns right after at the front door.</s>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> still thinks she just meets <ref target="b11lk2_1" type="character">Nick</ref> for tea.</s>
+        <s>As <ref target="b11lk2_1" type="character">Gatsby</ref> enters the living room where <ref target="b11lk2_1" type="character">Daisy</ref> sits to encounter her, both of them are overwhelmed by their meeting.</s>
+        <s>At first they have a quiet closed conversation overshadowed by <choice><orig>embarrasment</orig><reg>embarrassment</reg></choice> on both sides.</s>
+        <s>Furthermore <ref target="b11lk2_1" type="character">Nick</ref> wants to leave his house through the front door and <ref target="b11lk2_1" type="character">Gatsby</ref> follows him to talk.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> explains <ref target="b11lk2_1" type="character">Nick</ref> that their meeting is a mistake, but <ref target="b11lk2_1" type="character">Nick</ref> tells <ref target="b11lk2_1" type="character">Gatsby</ref> to pull himself together and go back to <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>After <ref target="b11lk2_1" type="character">Gatsby</ref> reenters the living room, him and <ref target="b11lk2_1" type="character">Daisy</ref> have a simple conversation again, characterized by deep eye contact and pure <choice><orig>embarassment</orig><reg>embarrassment</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Finally <ref target="b11lk2_1" type="character">Gatsby</ref> invites <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Nick</ref> over to his mansion.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

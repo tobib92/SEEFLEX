@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l07_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>A famous football player on German racism.</s>
+      </p>
+      <p>
+        <s>He doesn't let his daughters go to specific places!</s>
+      </p>
+      <p>
+        <s><name type="person">Jérôme Boateng</name> was a victim on the football pitch, so he explains in his own magazine.</s>
+      </p>
+      <p>
+        <s>There are fans who shout at him like a monkey when he's warming up, even though he is seen as a German legend by many.</s>
+      </p>
+      <p>
+        <s>One of the causes is the refugee crisis.</s>
+        <s>It's still one of the main topics when talking with friends.</s>
+        <s>Should it be?</s>
+      </p>
+      <p>
+        <s>The German people tend to put people from different countries or with ancestors from different countries into different cupboards.</s>
+      </p>
+      <p>
+        <s>Also the news often show aggressive groups, even though the society is so colourful.</s>
+        <s>Imagine the World Cup without people with different origins and cultures.</s>
+        <s>It wouldn't work.</s>
+      </p>
+      <p>
+        <s>So you, yes you the reader, enjoy the variety and complexity of our society!</s>
+      </p>
+      <p>
+        <s>There are so many examples where it's a total win to have so many different cultures in the country.</s>
+      </p>
+      <p>
+        <s>Yet <name type="person">Boateng</name> faced many racist incidents, even as a child.</s>
+        <s>There was a guy, a grown man, who ran to his side of the pitch and just swore at him.</s>
+        <s>I mean what?</s>
+        <s>A child which just wants to play football and doesn't even know about racism has to experience that?</s>
+      </p>
+      <p>
+        <s>But all that stitches can't harm him anymore and if you experienced something like that, I'm sure you can build that shield too.</s>
+      </p>
+      <p>
+        <s>His parents had to tell this young boy that there are people who hate others because of their skin.</s>
+      </p>
+      <p>
+        <s>It's unbelievable what happens in every day life and often you don't notice it because the stories are not told.</s>
+        <s>So if you have a story where you were mistreated because of your skin colour, your <choice><orig>cultur</orig><reg>culture</reg></choice> or whatever, go and tell us.</s>
+        <s>It's a chance to make the world a better place.</s>
+        <s>That's it from my blod today.</s>
+        <s>I'm still in a shock.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

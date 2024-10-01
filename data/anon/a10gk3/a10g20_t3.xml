@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g20_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The environment pollution is the biggest and globalest problem of this century.</s>
+        <s>We all know that it has devastating effects if we will not stop it.</s>
+      </p>
+      <p>
+        <s>In my opinion this is a huge problem that we have to fight with.</s>
+        <s>So here I'll nominate some necessary measures to solve this problem.</s>
+      </p>
+      <p>
+        <s>As I said I'm completely against the environment pollution and to stop it one point should be to stop the energywinning through cole, because it's a massive problem of the pollution.</s>
+        <s>Furthermore it should be working for an electric motor, so that we can use them for cars, airplanes, ships and all the other vehicles.</s>
+        <s>Besides we should support the exploration and production of solutions for this problem.</s>
+      </p>
+      <p>
+        <s>Finally I think this is a big problem and we all can help to solve it.</s>
+        <s>Otherways it'll be impossible to live in peace for the next generation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

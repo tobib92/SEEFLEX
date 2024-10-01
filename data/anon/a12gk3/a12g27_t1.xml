@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g27_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref>, written by <ref target="a12gk3_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on the <date>27th January 2015</date>, deals with the decrease of foreign language speakers in the UK.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> starts <choice><orig>of</orig><reg>off</reg></choice> his headline and states that this describes the view of the UK <choice><orig>citizins</orig><reg>citizens</reg></choice> perfectly.</s>
+        <s>He <choice><orig>than</orig><reg>then</reg></choice> elaborates on his claim from the start and says that there is a smaller amount of students who choose to study <choice><orig>fergein</orig><reg>foreign</reg></choice> languages than in the years before.</s>
+        <s>After that <ref target="a12gk3_1" type="author">John Worne</ref> makes his point of view very clear, as he disagrees with sayings of others in regard of importance of foreign languages and the development of technology as a reason not to learn them.</s>
+        <s>Moreover he talks about globalization and how useful foreign languages are, especially as criteria for a job.</s>
+        <s>He <choice><orig>than</orig><reg>then</reg></choice> gives credits to universities that offer students to learn a language while they study another subject.</s>
+        <s>At the end he concludes that more young people need to learn a foreign language and that the parents play a major role, as they should influence their children to do so.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g07_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The effect of a story on the reader is strongly influenced by the point of view and by different narrative techniques that the author uses.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk1_1" type="author">Angie Thomas</ref> also takes advantage of this, by presenting <name type="person">Starr's</name> state of mind through various narrative tehcniques and perspectives.</s>
+        <s>In this excerpt, the story is told from a first-person narrator.</s>
+        <s>That means that the perspective of one character, in this story from the perspective from the protagonist <name type="person">Starr Carter</name>.</s>
+      </p>
+      <p>
+        <s>Therefore we only know <name type="person">Starr's</name> thoughts, feelings and knowledge.</s>
+      </p>
+      <p>
+        <s>From that it concluded that we can <choice><orig>symphatise</orig><reg>sympathize</reg></choice> easier with <name type="person">Starr</name> <choice><orig>cause</orig><reg>because</reg></choice> we know the most about her.</s>
+        <s>Otherwise the narrative perspective is limited to the reader because we do not know the thoughts and feelings of some other characters.</s>
+        <s>This has the effect that the reader <choice><orig>focusses</orig><reg>focuses</reg></choice> his attention on <name type="person">Starr</name>.</s>
+        <s>So we can understand her state of mind and her development from a girl who is afraid to speak to a confident girl who fights for the rights of her <choice><orig>best-friend</orig><reg>best friend</reg></choice>, better.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk1_1" type="author">Thomas</ref> also presents this with the use of narrative techniques.</s>
+      </p>
+      <p>
+        <s>At the beginning of the excerpt, she uses some flashback for example <quote><name type="person">Khalil</name> drops it into the side of the door</quote> <ref target="a11gk1_1" type="line">(l. 19)</ref> or <quote>He opens the door to ask if I'm okay</quote> <ref target="a11gk1_1" type="line">(l. 21)</ref>.</s>
+        <s>With the use of these flashbacks, she takes the story back in time.</s>
+        <s>This <choice><orig>lead</orig><reg>leads</reg></choice> to an easier identification with <name type="person">Starr's</name> feelings and makes it possible for the reader to understand <choice><orig>we</orig><reg>why</reg></choice> she behaves in certain ways.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk1_1" type="author">Thomas</ref> uses for this excerpt a scenic mode of presentation, in which she explained the situation in great detail.</s>
+        <s>This makes it easier for the reader to get the story clearly.</s>
+      </p>
+      <p>
+        <s>By the use of interior monologue, she creates a situation, that you can easily identify with.</s>
+        <s>All in all, <ref target="a11gk1_1" type="author">Thomas</ref> tries to show the reader the development of <name type="person">Starr's</name> state of mind from a girl who is afraid to speak to a confident girl.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

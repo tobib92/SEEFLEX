@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g16_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier's</ref> assumption that <quote>Brexit is clearly a lose-lose situation for both</quote> is in my opinion right.</s>
+      </p>
+      <p>
+        <s>After the <name type="misc">Brexit</name> the <name type="geo">UK</name> has to fight with big consequences one of them was the worker shortages which became a big problem.</s>
+      </p>
+      <p>
+        <s><name type="misc">EU</name> wanted to establish a personal relationship with <name type="geo">UK</name> because they know the importance of their relationship.</s>
+        <s>The business will have a hard time and lose a lot of win.</s>
+      </p>
+      <p>
+        <s>The protection of the people's jobs in the <name type="geo">UK</name> is not there.</s>
+      </p>
+      <p>
+        <s>I would say there are a lot more consequences for the <name type="geo">UK</name> as <name type="misc">EU</name> because <name type="misc">EU</name> is the most open jurisdiction which also has a bit lose in the situation but they will not have such problems like <name type="geo">UK</name> has it years later.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

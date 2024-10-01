@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author"><choice><orig>William Shakespears</orig><reg>William Shakespeare's</reg></choice></ref><ref target="c12gk1_1" type="title">Sonnet 116</ref> has three quatrains and a closing couplet.</s>
+        <s>The rhyme scheme is <name type="misc">abab cdcd efef gg</name> matching the quatrains and the couplet.</s>
+        <s>Each quatrain and the couplet <choice><orig>have</orig><reg>has</reg></choice> a slightly different focus but the overarching theme is <choice><orig>loves</orig><reg>love's</reg></choice> unwavering nature and the power, which is so great it even outlasts death.</s>
+      </p>
+      <p>
+        <s>Whilst in his first quatrain he defines love and clearly states what isn't love he uses the second to define <choice><orig>it's</orig><reg>its</reg></choice> strength and value and the third to explain verlasting nature before reassuring the reader about his <choice><orig>confidance</orig><reg>confidence</reg></choice> in his ideas in the closing couplet.</s>
+      </p>
+      <p>
+        <s><choice><orig>Througout</orig><reg>Throughout</reg></choice> his sonnet he personifies time <choice><orig>an</orig><reg>and</reg></choice> thereby degrades it.</s>
+        <s>Whilst making love outlast it.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>beginns</orig><reg>begins</reg></choice> the sonnet with a personification: <quote>the marriage of true minds</quote> <ref target="c12gk1_1" type="line">(l. 1)</ref> it helps to explain what love is to him: <choice><orig>its</orig><reg>it's</reg></choice> a depp emotional connection and understanding.</s>
+        <s>He uses the rest of the quatrain to explain what love <choice><orig>isnt</orig><reg>isn't</reg></choice>, but might be mistaken for love.</s>
+        <s>He uses the antithesis <quote>Love is not love</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref> to exentuate the fact love <choice><orig>shoundt</orig><reg>souldn't</reg></choice> be an hindrance.</s>
+        <s>In the following lines he uses another antithesis to point out that their love stays the same even if something changes <ref target="c12gk1_1" type="line">(l. 3)</ref>.</s>
+      </p>
+      <p>
+        <s>He ends the quatrain by saying love is so sturdy you wouldn't be able to remove it even if you <gap reason="illegible" quantity="1" unit="word">hirred</gap> <ref target="c12gk1_1" type="line">(l. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>start</orig><reg>starts</reg></choice> the second quatrain with <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>exclemation</orig><reg>exclamation</reg></choice> to point out that the <choice><orig>statments</orig><reg>statements</reg></choice> in the two lines above are not love <ref target="c12gk1_1" type="line">(l. 5)</ref>.</s>
+        <s>He uses a <choice><orig>Metapore</orig><reg>metaphor</reg></choice> to point out love is unchanging and irremovable <quote>it is an ever fixed mark</quote> <ref target="c12gk1_1" type="line">(l. 5)</ref>.</s>
+        <s>In the following line he <choice><orig>personefies</orig><reg>personifies</reg></choice> love to show that it is able to face great <choice><orig>challengs</orig><reg>challenges</reg></choice> and still remain strong.</s>
+        <s>To do so he lets love <gap reason="illegible" quantity="1" unit="word">fage</gap> of against nature itself: a storm <ref target="c12gk1_1" type="line">(l. 6)</ref>.</s>
+        <s>In line 7 he uses a <choice><orig>metaphore</orig><reg>metaphor</reg></choice> to describe how love can provide guidance for those who are lost, by describing it as a star by which a lost navigates at night.</s>
+      </p>
+      <p>
+        <s>He uses the closing line of the quatrain to point out, that for something with such a great use, it is impossible to define its value <ref target="c12gk1_1" type="line">(l. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last quatrain love, and time and beauty are <choice><orig>personefied</orig><reg>personified</reg></choice>.</s>
+        <s>In the ninth line a personification is used to paint out that beauty will fade with time but love on the other hand <choice><orig>wont</orig><reg>won't</reg></choice> change.</s>
+        <s>Whilst in the first line of the quatrain love and beauty are <choice><orig>personefied</orig><reg>personified</reg></choice> now it is time <choice><orig>witch</orig><reg>which</reg></choice> brings death with it, but love still prevails even with only a few weeks or <choice><orig>houers</orig><reg>hours</reg></choice> left to live <ref target="c12gk1_1" type="line">(l. 10, 11)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last quatrain <choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice> goes even further and uses a personification to state hat love outlasts death itself <quote>but bears it out even the edge of doom</quote>.</s>
+      </p>
+      <p>
+        <s>In his last two lines <ref target="c12gk1_1" type="author">Shakespeare</ref> assures everyone how sure he is about his feelings.</s>
+        <s>He goes as far as to say: if proven wrong <quote>I never writ, nor no man ever loved</quote> <ref target="c12gk1_1" type="line">(l. 14)</ref>.</s>
+        <s>He says a <choice><orig>klimax</orig><reg>climax</reg></choice> which ends in a <choice><orig>egsaturation</orig><reg>exaggeration</reg></choice> to prove how sure he is about his understanding of love <ref target="c12gk1_1" type="line">(l. 13-14)</ref>.</s>
+        <s><ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> expresses a highly <choice><orig>idalised</orig><reg>idealized</reg></choice> version of lovve in the  <ref target="c12gk1_1" type="title">Sonnet 116</ref> and this makes a lot of sense as it is part of the first grouping where he is deeply in love with a <choice><orig>youn</orig><reg>young</reg></choice> man.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

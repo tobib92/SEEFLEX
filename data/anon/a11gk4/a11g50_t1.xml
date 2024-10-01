@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g50_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene in chapter 24 of the novel <ref target="a11gk4_1" type="title">The Hate U Give</ref> which is written by <ref target="a11gk4_1" type="author">Angie Thomas</ref> and published by <name type="misc">Cornelsen</name> in <date>2019</date>, presents <name type="person">Starr</name> speaking against the police at a demonstration.</s>
+        <s>The scene starts with <name type="person">Starr</name>, <name type="person">Seven</name>, <name type="person">Chris</name> and <name type="person">Devante</name> meet a demonstration after leaving the car which ran out of gas.</s>
+        <s>The demonstration is near the place where <name type="person">Khalil</name> died and <name type="person">Starr</name> becomes immediately flashbacks of his death: <quote><s>I stare too hard, the crwod disappears, and I see him lying in the street.</s><s>The whole thing plays out before my eyes like a horror movie on repeat</s></quote> <ref target="a11gk4_1" type="line">(ll. 5-7)</ref>.</s>
+        <s>The flashback <choice><orig>stopps</orig><reg>stops</reg></choice> when she hears what the <choice><orig>demonstraitors</orig><reg>demonstrators</reg></choice> are shouting: <quote>A hairbrush is not a gun!</quote> She is back in reality and sees her attorney standing on top of a police car, holding a bullhorn.</s>
+      </p>
+      <p>
+        <s>After a second flashback <name type="person">Starr</name> starts to scream also <quote>A hairbrush is not a gun</quote>, at this moment <name type="person">Ms. Ofrah</name> her attorney sees her.</s>
+        <s>They start talking about the decision that <name type="person">Khalil's</name> murder do not go to jail.</s>
+        <s><name type="person">Starr</name> says she wants to do something: <quote><s>Please?</s><s>During the other protests, I watched.</s><s>And talked.</s><s>So now I wanna do something.</s></quote> <ref target="a11gk4_1" type="line">(l. 30)</ref>.</s>
+        <s><name type="person">Ms. Ofrah</name> shows her that her voice is her biggest weapon and gives her a bullhorn.</s>
+        <s>After a yelling which comes from a person in the crowd: <quote>Don't be scared</quote> <ref target="a11gk4_1" type="line">(l. 46)</ref>, she feels confident enough to talk; she <choice><orig>admit</orig><reg>admits</reg></choice> that she is the witness of <name type="person"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></name> death and says that the decision is not fair or right.</s>
+        <s>Then she speaks to the police: <quote><s>I turn to the cops.</s><s>'I'm sick of this!</s><s>Just like y'all think all of usare bad becuase of some people, we think the same about y'all.</s><s>Until you give us a reason to think <choice><orig>Otherwise</orig><reg>otherwise</reg></choice>, we'll keep protesting.</s></quote> <ref target="a11gk4_1" type="line">(ll. 55-56)</ref></s>
+        <s>She ends her talk with a statement: <quote><s>You hear me?</s><s><name type="person">Khalil</name> lived</s></quote> <ref target="a11gk4_1" type="line">(ll. 60-61)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

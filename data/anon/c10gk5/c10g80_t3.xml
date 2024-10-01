@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g80_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Ludwig Wittgenstein</name> from <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> was <choice><orig>an</orig><reg>a</reg></choice> philosopher.</s>
+        <s>With <choice><orig>is</orig><reg>his</reg></choice> quotation he wants to tell us our language are the limits of yourself.</s>
+        <s>He means you can only understand it if you speak the language.</s>
+        <s>The language is the key to understand all of this language.</s>
+        <s>In my opinion <choice><orig>i</orig><reg>I</reg></choice> think he was right, because par example if you don't know the word in the sentence you don't understand the complete sentence.</s>
+      </p>
+      <p>
+        <s>At all <choice><orig>i</orig><reg>I</reg></choice> think he was right.</s>
+        <s>He means you <choice><orig>cant</orig><reg>can't</reg></choice> read or speak <choice><orig>France</orig><reg>French</reg></choice> is you don't learn this language.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

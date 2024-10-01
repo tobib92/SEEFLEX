@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g12_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Robert,</salute>
+      </p>
+      <p>
+        <s>you said that you thought about spending a year in <name type="geo">Germany</name> in <name type="geo">Berlin</name>.</s>
+        <s>I found an article about <name type="geo">Berlin</name> as an international city.</s>
+        <s>First of all, I hope you're doing well, how is your family?</s>
+        <s>How is school going?</s>
+        <s>But now back to <name type="geo">Berlin</name>, <name type="geo">Berlin</name> is nice because of the cheap living, compared to other metropoles, the rents are very low, other <choice><orig>german</orig><reg>German</reg></choice> cities are much more expensive, for example <name type="geo">Munich</name> or <name type="geo">Hamburg</name>.</s>
+        <s><name type="geo">Berlin</name> is in a hype, art and culture are very strong there.</s>
+        <s>Also, for you, <name type="geo">Berlin</name> is very international, a businessman said the <name type="geo">Berlin</name> is nothing like the rest of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>, it has more and more similarities to <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name>.</s>
+        <s>Many English people come to <name type="geo">Berlin</name>, some leave again and some stay.</s>
+        <s>In some cities districts you need the <choice><orig>english</orig><reg>English</reg></choice> language more than <choice><orig>german</orig><reg>German</reg></choice>, you can't order food without speaking <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Also, if you want to work in <name type="geo">Germany</name>, especially in <name type="geo">Berlin</name>, businesses are run in <choice><orig>english</orig><reg>English</reg></choice>, not in <choice><orig>german</orig><reg>German</reg></choice>, of course not all of them, but a lot, trust me.</s>
+        <s>But if you want to come to <name type="geo">Germany</name>, don't just look at <name type="geo">Berlin</name>, there are other nice cities too, hope to hear from you soon.</s>
+      </p>
+      <p>
+        <signed>Love Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g07_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> is the connection between <name type="person">Garden Heights Starr</name> and <name type="person">Williamson Starr</name> <choice><orig>trough</orig><reg>through</reg></choice> his behaviour/characters <ref target="b10gk1_1" type="character">Starr</ref> can be she.</s>
+        <s>In the following I will analyse in detail to provide proof for this hypothesis the sequence starts with an extreme long shot, where <ref target="b10gk1_1" type="character">Chris</ref> walks the hallway, to show the surrounding and to have on overview where the scene talkes place.</s>
+        <s>While <ref target="b10gk1_1" type="character">Chris</ref> walks the music in the scene is soft and romantic, to describe <ref target="b10gk1_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> character.</s>
+      </p>
+      <p>
+        <s>He seems to be very popular in school, because a lot of schoolmates clap hands with him.</s>
+        <s>The director decided to film the scene, in <choice><orig>slowmotion</orig><reg>slow motion</reg></choice>, by doing so, he underlines the importance of the details of <ref target="b10gk1_1" type="character">Chris</ref>, his steps, his smile etc.</s>
+        <s>While the <choice><orig>slowmotion</orig><reg>slow motion</reg></choice> scene, <ref target="b10gk1_1" type="character">Starr</ref> describes him and her view looks loving.</s>
+        <s>As <ref target="b10gk1_1" type="character">Starr</ref> describes him, the camera shows <ref target="b10gk1_1" type="character">Chris</ref> in a big close up, this clarifies the details of the description <add>(<ref target="b10gk1_1" type="character">Starr</ref> describes him in a <choice><orig>voiceover</orig><reg>voice-over</reg></choice>)</add>.</s>
+        <s>The walk of <ref target="b10gk1_1" type="character">Chris</ref> is filmed with a tracking shot, it's used to indicate the steady movement through the setting.</s>
+        <s>When <ref target="b10gk1_1" type="character">Chris</ref> reaches <ref target="b10gk1_1" type="character">Starr</ref>, the dialogue is filmed with a shot over shoulder, to see <choice><orig>booth</orig><reg>both</reg></choice> reactions and emotions.</s>
+      </p>
+      <p>
+        <s>In the dialogue <choice><orig>booth</orig><reg>both</reg></choice> are shown in a close-up to see their facial expression and how the mood of <ref target="b10gk1_1" type="character">Starr</ref> changes while <ref target="b10gk1_1" type="character">Chris</ref> tries to explain his feelings.</s>
+        <s>In the sequence sometimes it switches from a medium-long shot to a close-up, so you always have an overview and see the emotions.</s>
+        <s>It is hard that <ref target="b10gk1_1" type="character">Starr</ref> can't decide who she is, when she is with <ref target="b10gk1_1" type="character">Chris</ref>, she is in the middle of <name type="misc">Garden Heights</name> and the school, but <ref target="b10gk1_1" type="character">Chris</ref> always tries to make <ref target="b10gk1_1" type="character">Starr</ref> feel comfortable when he is around.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> his loving, optimistic and understandable character traits, <ref target="b10gk1_1" type="character">Starr</ref> always finds <choice><orig>her-self</orig><reg>herself</reg></choice> back, she doesn't have to decide which <ref target="b10gk1_1" type="character">Starr</ref> she has to be.</s>
+      </p>
+      <p>
+        <s>In the dialogue <ref target="b10gk1_1" type="character">Chris</ref> <choice><orig>whisper</orig><reg>whispers</reg></choice>, so their conversation is private, because of the whisper and the near of the camera it makes you feel uncomfortable.</s>
+      </p>
+      <p>
+        <s>The director chose to have only a few cuts during the sequence, which makes the sequence appear calm.</s>
+        <s>The lighting/colors in the sequence are bright, so it fits to the mood of the sequence and the character traits of <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+        <s><choice><orig>Althought</orig><reg>Although</reg></choice> they are in school, with their school uniforms <add>(so <ref target="b10gk1_1" type="character">Starr</ref> is actually <name type="misc">Williamson-Starr</name>)</add> they have other clothes.</s>
+      </p>
+      <p>
+        <s>The clothes of them don't suit to the conversation and the character traits in this sequence.</s>
+      </p>
+      <p>
+        <s>As a conclusion, I can say that my hypothesis has been proven by my analysis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

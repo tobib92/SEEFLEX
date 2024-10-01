@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g61_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this extract of the report written by an 18-year-old German woman, who volunteered in an <name type="misc">Education Center</name> in a slum of <name type="geo">Delhi</name> in <name type="geo">India</name>, the <choice><orig>german</orig><reg>German</reg></choice> volunteer <name type="person">Bianca L.</name> talks about her daily routine and her experiences in teaching young <choice><orig>indian</orig><reg>Indian</reg></choice> children <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+        <s><name type="person">Bianca L.</name> teaches <choice><orig>english</orig><reg>English</reg></choice> grammar to boys and girls <choice><orig>devide</orig><reg>divide</reg></choice> each once a day.</s>
+        <s>She makes it clear that it is very fulfilling to work with these poor Indian children, since they are supposed to be very kind and curious.</s>
+        <s>It's safe to say that <name type="person">Bianca L.</name> enjoyed this experience greatly.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

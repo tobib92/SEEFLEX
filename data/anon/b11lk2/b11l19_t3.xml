@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l19_t3</author>
+        <name>monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Daisy</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><u who="A"><s>Are you in love with me?</s></u>, <s>I ask my dear cousin as he helps me out of the car.</s><s>I do find it rather <choice><orig>intriging</orig><reg>intriguing</reg></choice> as to why he was so persistant to me coming to tea by myself.</s><s>As he starts up a conversation about my chauffeur, he leads me into his house.</s><p><s>I had never been to his house before, and yet I have to admit it is quite charming.</s><s>Compared to mine and <name type="person">Tom's</name> home it is miniscule, yet something about it makes one feel at home.</s><s><name type="person">Nick</name> leads me straight into the first room, the living, yet he looks confused, surprised even, yet I <choice><orig>can not</orig><reg>cannot</reg></choice> understand what his reasoning for this would be.</s><s>Suddenly there's a knocking on the door.</s><s><name type="person">Nick</name> rushes to the front door in order to let that person in.</s><s>I decide to take a look around the room.</s><s>There is a stiff chair as well as a fireplace, on top of which there are a few flowers.</s><s>I turn my attention to the big clock hanging from the wall as I notice a presence.</s><s>Expecting <name type="person">Nick</name> I turn to face him rather quickly, yet as soon as my eyes land on the person under the door frame all air seems to have vanished.</s></p><p><s><name type="person">Jay Gatsby</name>.</s><s>He moves further into the room as we both struggle to find any words.</s><s>With a choking sound in his voice he greets me and I can't help but let out a laugh.</s><s>An uncomfortable laugh.</s><s>What is he doing here?</s><s>This can't be happening.</s><s>I'm married now.</s><s>I have <name type="person">Tom</name>.</s><s>And yet I can't deny that I am awfully glad to see him.</s><s>And so I say it, before our stuttering turns into silence.</s></p><p><s>I decide to take a seat on the stiff chair as I attempt to calm down.</s><s>It is in this moment, when <name type="person">Nick</name> walks through the door and I feel awfully <choice><orig>relived</orig><reg>relieved</reg></choice>.</s><s>Suddenly the clock hanging on the fall falls dangerously at the pressure of <name type="person">Jay's</name> head and yet I can't even smile because of his clumsiness.</s><s>I'm paralized.</s><s>I haven't seen <name type="person">Jay</name> in years and he comes back into my life now?</s><s>I am not only married, but I also have a daughter.</s><s>A part from that I already made my decision years ago, when I decided to forget about that letter and marry <name type="person">Tom</name> instead.</s><s>I can't go back now.</s><s>I mention how long it has been since we last saw each other.</s><s>Five years next November.</s><s>And for some reason my heart swells.</s><s>He has been counting.</s><s>Counting how long it has been since we last were in <choice><orig>eachothers</orig><reg>each other's</reg></choice> presence.</s><s><name type="person">Nick</name> decides to leave the room and <name type="person">Jay</name> follows right behind him.</s><s>I have so many thoughts going through my head, that I just sit still.</s><s>I sit in this little room, in this little stiff chair and think about what has just occured.</s></p><p><s>Suddenly <name type="person">Jay</name> comes into the room.</s><s>Alone.</s><s>He sits down in front of me and after a lot of trembling and stuttering he masters to say a few words.</s><s>He tells me exactly what I had been hoping to hear from him before meeting <name type="person">Tom</name>.</s><s>How he had prepared all of those parties in the hopes that I would go and for some reason the thought of having had him so very close all of this time makes me well up, as I too confess my feelings to him.</s><s>With me weeping and <name type="person">Jay</name> smiling <name type="person">Nick</name> walks back into the living room.</s><s>He explains to <name type="person">Jay</name> how it has stopped raining and <name type="person">Jay</name> reacts in a most excited and happy way, that ends up making me just as happy.</s><s><name type="person">Jay</name> invites us to take a look at his house and I happily oblige, as I don't believe I have been this full of joy in years.</s></p></body>
+  </text>
+</TEI>

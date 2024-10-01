@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem is divided into three quatrains with one rhyming couplet of the end.</s>
+        <s>It has iambic pentameter lines with alternating ehyme and a paired rhyme in the last two lines.</s>
+        <s>It is thereby structured like a typical Shakespearean sonnet.</s>
+        <s>The author also employs enjambements, resembling the shifting thoughts and emotions of the speaker along with the other rhythmic aspects.</s>
+      </p>
+      <p>
+        <s>The author employs many different stylistic devices thoughout the poem, the most striking ones being metaphores.</s>
+      </p>
+      <p>
+        <s>In the first line he makes use of the initial metaphor while presenting the thesis <quote>she is made of truth</quote>.</s>
+        <s>This leads the reader into having a first wrong image of the beloved, intensifying the devices in the following lines.</s>
+        <s>The antithesis in line 2 illustrates the indecisiveness of the lyrical I, having the reader also bewildered.</s>
+        <s><quote>I do believe her, though I know she lies</quote>.</s>
+        <s>The second quatrain starts with a repetition <quote>...thinking that she winks</quote>, in line 5.</s>
+        <s>This only enhances the complex thoughts of the speaker to describe his beloved's way of thinking.</s>
+      </p>
+      <p>
+        <s>In line 7 the author employs a personification <quote>her false speaking tongue</quote> illustrating the untruthfulness of his lady.</s>
+      </p>
+      <p>
+        <s>The third quatrain builds up a syntactical parallelism along with introducing the volta, essentially enhancing the shifting effect of the sonnet in lines 9 and 10.</s>
+        <s>Being a rhetorical questions at the same time, this is the climax of the poem.</s>
+        <s>It states that even though there is no reason not to be honest, both are not, because that is how love goes.</s>
+        <s>In line 12, an alliteration follows, <quote>age in love loves...</quote> to make clear that untruthfulness in a long relationship is more than common.</s>
+      </p>
+      <p>
+        <s>An ellipsis is employed in line 13 <quote>I lie with her, and she with me</quote>, bringing liveliness to the poem and indicating the acceptance of the lyrical I in the concluding couplet.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a12lk1_1" type="author"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> <ref target="a12lk1_1" type="title">Sonnet 138</ref> is very <gap reason="illegible" quantity="1" unit="word">naciting</gap> to read, as it beautifully expresses a loving relationship over the theme.</s>
+        <s>Although his language is sometimes hard to get used to, he manages to accurately illustrate his ideas by using excellent poetic devices and thereby making the reader understand the emotions captured in his poem.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

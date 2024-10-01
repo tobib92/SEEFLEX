@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l32_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk2_1" type="author">William Shakespeare's</ref><ref target="c12lk2_1" type="title">Sonnet 60</ref> was published around <date>1609</date>, during the Elizabethan age.</s>
+        <s>It deals with time and its impact on nature, living beings and art.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> make steer that art preserves life.</s>
+      </p>
+      <p>
+        <s>The Shakespearean sonnet follows a typical structure.</s>
+        <s>It falls into three quatrains with a rhyming couplet at the end.</s>
+        <s>It has lines in iambic pentameter with alternating rhyme <name type="misc">abab cdcd efef</name>.</s>
+      </p>
+      <p>
+        <s>In the first quatrain the speaker compares nature events with the time.</s>
+        <s>The mentioning sea shows that nature is timeless because it changes but it will never end <ref target="c12lk2_1" type="line">(v. 1)</ref>.</s>
+        <s>Progress comes within time <ref target="c12lk2_1" type="line">(v. 4)</ref>.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> outlines the time changes things.</s>
+      </p>
+      <p>
+        <s>The Second quatrain gives a specific idea of what <ref target="c12lk2_1" type="author">Shakespeare</ref> wanted to express with the sonnet.</s>
+        <s>He draws attention to the beginning of life.</s>
+        <s>Life starts with birth and then we will make progress because small steps can lead to success.</s>
+        <s>In this case <ref target="c12lk2_1" type="author">Shakespeare</ref> makes use of a metaphor.</s>
+        <s>He compares life with a sun.</s>
+        <s><quote>Nativity</quote><ref target="c12lk2_1" type="line">(v. 5)</ref> is the beginning of life and the sun rises.</s>
+        <s>The time during the day, when the sun reaches the highest point, is the period of development <quote>Crawls to maturity, wherewith being crowned</quote> <ref target="c12lk2_1" type="line">(v. 6)</ref>.</s>
+        <s>When the sunset starts other natural <choice><orig>phenomenon</orig><reg>phenomena</reg></choice> are hiding the sun <ref target="c12lk2_1" type="line">(v. 7)</ref>.</s>
+        <s>Time seems to be fantastic.</s>
+        <s>In the second quatrain <ref target="c12lk2_1" type="author">Shakespeare</ref> uses many words of the <choice><orig>wordfield</orig><reg>word field</reg></choice> <q>life cycle</q> to emphasize his metaphor and make his statement more effective.</s>
+      </p>
+      <p>
+        <s>The argument that within time everything will change, so time <choice><orig>let</orig><reg>lets</reg></choice> us make progress and lead to success is now complimented by its antithesis in the third quatrain.</s>
+        <s>It says the time does not only include life and progress.</s>
+        <s>Besides time leads to death <ref target="c12lk2_1" type="line">(v. 9)</ref>.</s>
+        <s>Time is more powerful <ref target="c12lk2_1" type="line">(v. 9)</ref>.</s>
+        <s>It lets beauty feed when people get older.</s>
+        <s>The author <choice><orig>personificates</orig><reg>personifies</reg></choice> time.</s>
+        <s>He describes it as a monster.</s>
+        <s>Time <choice><orig>let</orig><reg>lets</reg></choice> people get older and <choice><orig>let</orig><reg>lets</reg></choice> them die.</s>
+      </p>
+      <p>
+        <s>The sentence <quote>Feeds the rarities of nature's truth</quote> emphasizes that death is part of living cycle.</s>
+        <s>Life is uncertain and from the beginning, which is birth, time will let you see what life brings.</s>
+        <s>Everything is uncertain despite of death <ref target="c12lk2_1" type="line">(v. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>The third quatrain begins with the word <quote>time</quote> <ref target="c12lk2_1" type="line">(v. 9)</ref> which is important to mention because the <choice><orig>auther</orig><reg>author</reg></choice> stresses it to make clear its importance.</s>
+        <s>Inverse 10 there is a <choice><orig>Alliteration</orig><reg>alliteration</reg></choice> <quote>beauty's brow</quote>.</s>
+        <s>It draws the reader to those words to emphasize the meaning of it.</s>
+        <s>The word <quote>And</quote> is used very often in the beginning of a sentence <ref target="c12lk2_1" type="line">(v. 11, 12, 13)</ref>.</s>
+        <s>The <foreign xml:lang="de">anapher</foreign> symbolizes that the speaker wants to add some points.</s>
+        <s>The final couplet marks the end.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> makes clear that art preserves life.</s>
+        <s>This means that this sonnet will exist <choice><orig>overtime</orig><reg>over time</reg></choice>.</s>
+        <s>As proof we are still reading the solid 400+ years later.</s>
+        <s>The value of poetry is not describable <ref target="c12lk2_1" type="line">(v. 14)</ref>.</s>
+        <s>The couplet <choice><orig>consist</orig><reg>consists</reg></choice> of a conclusion drawn from the arguments mentioned before.</s>
+        <s>It expresses that art is very powerful.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare's</ref> sonnet is proof of his familiarity with human conflicts.</s>
+        <s>It was a convention of the Elizabethan age to write sonnet sequences exploring various aspects of the development of time.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> uses different forms of writing and literacy as well as <choice><orig>retorical</orig><reg>rhetorical</reg></choice> devices in his sonnets to get his idea across.</s>
+        <s>In <ref target="c12lk2_1" type="title">Sonnet 60</ref> he simply says that the time of life ends in comparing it with nature.</s>
+        <s>Art preserves life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

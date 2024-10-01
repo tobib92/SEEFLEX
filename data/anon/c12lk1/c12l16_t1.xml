@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l16_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> is a poem written by <ref target="c12lk1_1" type="author">William Shakespeare</ref> and about the question, what real love can stop.</s>
+      </p>
+      <p>
+        <s>The poem has the typical Shakespearean structure with <choice><orig>it's</orig><reg>its</reg></choice> 14 lines and four stances, of which three have four verses.</s>
+        <s>These stances are called <choice><orig>quartrains</orig><reg>quatrains</reg></choice>.</s>
+        <s>The last two lines are the final couplet.</s>
+        <s>The iambic parameter is the metre, with <choice><orig>it's</orig><reg>its</reg></choice> typical heartbeat rhythm.</s>
+        <s>The three <choice><orig>quartrains</orig><reg>quatrains</reg></choice> have a cross rhyme at the end of each vese, while the final couplet has a pair-rhyme.</s>
+        <s>Every line has ten syllables.</s>
+        <s>This turns our well through using <choice><orig>enjambements</orig><reg>enjambments</reg></choice> in the first two and in the fifth and sixth lines.</s>
+      </p>
+      <p>
+        <s>The first <choice><orig>quartrain</orig><reg>quatrain</reg></choice> describes the power of love, which is indestructible, except from the death.</s>
+        <s>But this power is only in mind and does not take action in the real life.</s>
+        <s>The second <choice><orig>quartrain</orig><reg>quatrain</reg></choice> comprises the problem, that the time to take actions is getting less, even if it is an inner fight.</s>
+        <s>In the last two lines of the third <choice><orig>quartrain</orig><reg>quatrain</reg></choice> the lyrical I asked what the <choice><orig>adressee</orig><reg>addressee</reg></choice> even holds back and what he needs to make his mind come true.</s>
+        <s>The answer in the final couplet is, that he writes about his love and hopes that it will come true.</s>
+      </p>
+      <p>
+        <s>After describing the structure and summing up the content, I am going to analyze the sonnet by taking a closer look at the language, the using of Stella sacrifices and the intention of the structure in the following.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l11_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <ref target="c12lk1_1" type="author">William Shakespeare's</ref> <ref target="c12lk1_1" type="title">Sonnet 65</ref>, published <date>1609</date> in his book <name type="misc">Shakespeare's sonnets</name> the speaker talks about the love as well as the beauty that comes along with it and how it is slowly fading away over time.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="author">William Shakespeare's</ref> poem is a sonnet with fourteen lines, typically for a Shakespearean sonnet it is divided in three quatrains and one couplet in the end.</s>
+        <s>The rhyme scheme in the quatrains is a cross rhyme <name type="misc">ABAB CDCD EFEF</name> and the last two lines are a rhyming couplet <name type="misc">GG</name>.</s>
+        <s><ref target="c12lk1_1" type="author">William Shakespeare</ref> uses an iambic parameter throughout the poem.</s>
+      </p>
+      <p>
+        <s>In the first quatrain, line one to four, the author mentions the power that the mortality holds against every force, <choice><orig>wether</orig><reg>whether</reg></choice> it be nature or beauty.</s>
+        <s>The second quatrain from lines five to eight, talked about time that can and will destroy wha comes in its way.</s>
+      </p>
+      <p>
+        <s>The last and third quatrain, from line nine to twelve, the speaker is questioning for something or someone that is able as well as willing to stop <choice><orig>times</orig><reg>time's</reg></choice> curse.</s>
+        <s>The couplet, from lines thirteen to fourteen, explains that it is impossible to <quote>unpower</quote> the time, but that the love he has and feels will be remembered in black ink, which means it will be remembered in poems.</s>
+        <s>The sonnet reveals word themes, for example the theme of nature.</s>
+        <s>The words used are <quote>brass, stone, earth, sea and flower</quote> <ref target="c12lk1_1" type="line">(l. 1-4)</ref>.</s>
+        <s>Another word theme are words, that have beautiful meanings like <quote>bright, beauty, miracle, or summer</quote> <ref target="c12lk1_1" type="line">(l. 3, 5, 13, 14)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

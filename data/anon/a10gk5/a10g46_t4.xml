@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g46_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><salute>Hello Carlos</salute>, how are you?</s>
+      </p>
+      <p>
+        <s>I recently read about three <choice><orig>blogger</orig><reg>bloggers</reg></choice> who went to <name type="geo"><choice><orig>Kambodscha</orig><reg>Cambodia</reg></choice></name> to <choice><orig>expirience</orig><reg>experience</reg></choice> the <choice><orig>live</orig><reg>life</reg></choice> of workers in the <choice><orig>textil</orig><reg>textile</reg></choice> factory.</s>
+        <s>The living conditions there <choice><orig>a</orig><reg>are</reg></choice> shocking.</s>
+        <s>In this sweatshop they sit in the same position for hours and are doing the same thing.</s>
+        <s>The only thing they eat is rice and they sleep in the at the workers <q>house</q> on the same <choice><orig>matrace</orig><reg>mattress</reg></choice> and under bad living conditions.</s>
+      </p>
+      <p>
+        <s>I hope you will think about his.</s>
+      </p>
+      <p>
+        <s>Bye</s>
+      </p>
+    </body>
+  </text>
+</TEI>

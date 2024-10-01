@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyse the argumentative way of <ref target="c11gk2_1" type="speaker">Michel Barnier</ref>, in which he held up his speech and the language structure.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> starts his speech with emphasize the audience and take <choice><orig>there</orig><reg>their</reg></choice> attention with saying <quote>I deeply regret, as a politician and a citizen...</quote> <ref target="c11gk2_1" type="line">(l. 9f.)</ref>.</s>
+        <s>This also helps him to clarify his opinion, on which he set up his argumentation in the speech.</s>
+      </p>
+      <p>
+        <s>In <ref target="c11gk2_1" type="line">l. 8</ref> he brings a <gap reason="illegible" quantity="1" unit="word">shury</gap> of words, which helps him to reinforce his argument about the conflict the consequences that will happen after the <name type="misc">Brexit</name>, and also to keep it in the minds of the audience, because <choice><orig>its</orig><reg>it's</reg></choice> easy to remember.</s>
+        <s>The same device has been using again by <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> as we see <ref target="c11gk2_1" type="line">(l. 12f.)</ref> again in the same <gap reason="illegible" quantity="1" unit="word">ceuse</gap> to make clear what the consequences for the <name type="geo">US</name> companies are.</s>
+      </p>
+      <p>
+        <s>Till line 24 <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> speaks for both sides mostly neutral and has been talking about the consequences for both sides not only for one, but in l. 24 he starts using the pronouns <quote>we</quote> to connect himself with the side of the <name type="misc">EU</name>.</s>
+        <s>He also uses <choice><orig>Allitiration</orig><reg>alliteration</reg></choice> in l. 25 in <choice><orig>wich</orig><reg>which</reg></choice> he described the system of the <name type="misc">EU</name> as well, this also includes to <choice><orig>makes</orig><reg>make</reg></choice> his opinion or his stand clear.</s>
+        <s>Furthermore he <choice><orig>use</orig><reg>uses</reg></choice> <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question in l. 26, he asks why that equivalence system does work in the <name type="misc">EU</name> perfectly but for the <name type="geo">UK</name> not, which helps him can lead to convince the audience.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c11gk2_1" type="speaker">Barnier</ref> lists his arguments very clear and he arguments for both sides and at the end he <choice><orig>clerifis</orig><reg>clarifies</reg></choice> his opinion, which helps the audience to follow him and he convinced the audience through his argumentative way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

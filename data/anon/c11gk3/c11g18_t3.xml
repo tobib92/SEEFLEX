@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g18_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As I have <choice><orig>mentionned</orig><reg>mentioned</reg></choice> before, the play is about the <ref target="c11gk3_1" type="character">Younger family</ref> member's dreams and about how realizing them.</s>
+      </p>
+      <p>
+        <s>From the beginning of the play, money plays a central role.</s>
+      </p>
+      <p>
+        <s>It seems that just through money, their dreams can be realized.</s>
+      </p>
+      <p>
+        <s>Also <ref target="c11gk3_1" type="character">Mama</ref> says that <ref target="c11gk3_1" type="character">Walter</ref> <quote>has almost lost his mind thinking about money all the time</quote>.</s>
+        <s>As analyzed before, <ref target="c11gk3_1" type="character">Walter</ref> is confused and in process to find his identity.</s>
+        <s>This fits to the statement which <ref target="c11gk3_1" type="character">Mama</ref> says, that he has lost his mind.</s>
+      </p>
+      <p>
+        <s>For her, money does not seem that important although she wants better living conditions but she is not as focused on it as <ref target="c11gk3_1" type="character">Walter</ref>.</s>
+      </p>
+      <p>
+        <s>She often asks for that the family stops talking about the money and the check.</s>
+        <s>She is also looking forward to its arriving but when it finally does she is not so happy about it anymore.</s>
+        <s>She explains that in fact if it wasn't for her family she would like to spend it all to church.</s>
+      </p>
+      <p>
+        <s>Though money is essential for the <ref target="c11gk3_1" type="character">Youngers'</ref> family to live, as <ref target="c11gk3_1" type="character">Ruth</ref> says: she needs to go to work because <quote>[they] need the money</quote> <ref target="c11gk3_1" type="line">(Act 1, scene 1)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk3_1" type="character">Mama</ref> is very concerned about it and thinks it is exaggerated how important money has become to the family: <quote>Somebody would of thought my children done all but starved to death the way they talk about money here late</quote> <ref target="c11gk3_1" type="line">(Act 1, scene 1)</ref>.</s>
+        <s>But as you can see, money is important to the family members for realizing their dreams.</s>
+      </p>
+      <p>
+        <s>This stands a little in contrast to the American <choice><orig>dream</orig><reg>Dream</reg></choice> like in the family the American <choice><orig>dream</orig><reg>Dream</reg></choice> is individual for each and every person, so this is perfectly visualized in the play of <ref target="c11gk3_1" type="author">Lorraine Hansberry</ref>.</s>
+      </p>
+      <p>
+        <s>Also the dreams of for example <ref target="c11gk3_1" type="character">Beneatha</ref>: becoming a doctor, or <ref target="c11gk3_1" type="character">Mama</ref> and <ref target="c11gk3_1" type="character">Ruth</ref>: better living conditions, are like you would expect them for an American <choice><orig>dream</orig><reg>Dream</reg></choice> considering the African American history, that the Puritans have sailed with the <name type="misc">Mayflower</name> all the way from <name type="geo">Britain</name> to <name type="geo">America</name> to become <choice><orig>independant</orig><reg>independent</reg></choice> and having a better life there it is pretty much the same with the <ref target="c11gk3_1" type="character">Youngers</ref> family.</s>
+        <s>They are also searching for better living conditions, and especially <ref target="c11gk3_1" type="character">Walter</ref> is fighting for <choice><orig>independance</orig><reg>independence</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But contrary to the American <choice><orig>dream</orig><reg>Dream</reg></choice>, which is often connected with the statement that you have to fight hard and work hard for your dream to come true, the <ref target="c11gk3_1" type="character">Youngers</ref> don't have to work for their dreams.</s>
+      </p>
+      <p>
+        <s>On the one hand they have to because they do not have much money first, but on the other hand they don't because they are getting ten thousand dollars from their father and therefore they do not really have to work for it.</s>
+      </p>
+      <p>
+        <s>Probably <ref target="c11gk3_1" type="character">Beneatha</ref> can be seen as a representative of the American <choice><orig>dream</orig><reg>Dream</reg></choice>, because she is searching for identity but also fights for her dream which is becoming a doctor.</s>
+      </p>
+      <p>
+        <s>She says that the money belongs to <ref target="c11gk3_1" type="character">Mama</ref> and although the family members do not believe in her, she fights for realizing her dream.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk3_1" type="character">Ruth</ref> and <ref target="c11gk3_1" type="character">Mama</ref> cannot be seen as representatives of the American <choice><orig>dream</orig><reg>Dream</reg></choice>, and also <ref target="c11gk3_1" type="character">Travis</ref> but he is too young to really show his interests and actions.</s>
+        <s><choice><orig>Becaus</orig><reg>Because</reg></choice> they are just waiting for the money and do not really have to work for their dream.</s>
+        <s>Maybe they have to convince their family of their dream but I think this is not what is originaly meant with the American <choice><orig>dream</orig><reg>Dream</reg></choice>.</s>
+        <s>And finally there is <ref target="c11gk3_1" type="character">Walter</ref>.</s>
+        <s>He is <choice><orig>definetely</orig><reg>definitely</reg></choice> fighting and working for his dream, as no family member really seems to believe in him, but he does not give up and works for his dream to come true.</s>
+        <s>Additionally it is important to consider that <ref target="c11gk3_1" type="character">Walter</ref> is the only one of the family who really wants to become <choice><orig>independant</orig><reg>independent</reg></choice>, excluding <ref target="c11gk3_1" type="character">Beneatha</ref> but I already explained, that, which is another typical aspect for the American <choice><orig>dream</orig><reg>Dream</reg></choice>, like I said before.</s>
+      </p>
+      <p>
+        <s>The American <choice><orig>dream</orig><reg>Dream</reg></choice> is somehow discussed critically.</s>
+        <s>It is said that there is no dream for everybody even if it is promised.</s>
+        <s>And this is another point you can find in <ref target="c11gk3_1" type="author">Lorraine Hansberry's</ref> play.</s>
+        <s>In the end, when <ref target="c11gk3_1" type="character">Mama</ref> decides to buy a cheap house in a <choice><orig>quater</orig><reg>quarter</reg></choice> where just white ones live, they are confronted with the discrimination.</s>
+      </p>
+      <p>
+        <s>A white man, called <ref target="c11gk3_1" type="character">Mr. Lindner</ref> comes home to the <ref target="c11gk3_1" type="character">Youngers</ref> family and tries to <choice><orig>explains</orig><reg>explain</reg></choice> to them that they are not wanted in the living town they have to move to.</s>
+      </p>
+      <p>
+        <s>He offers more money to the family and this is a big turning point of the play.</s>
+      </p>
+      <p>
+        <s>Because as I explained before, money is really important to the family members, and at this point they aren't rich anymore, as <ref target="c11gk3_1" type="character">Mama</ref> has given the rest of the money to <ref target="c11gk3_1" type="character">Walter</ref> for his liquor store and <ref target="c11gk3_1" type="character">Beneatha's</ref> education but he has lost it since he relied on his friend who has used him.</s>
+      </p>
+      <p>
+        <s>So the only money left was the investment in the house in the white quarter where the <ref target="c11gk3_1" type="character">Youngers</ref> family is not wanted.</s>
+        <s>But <ref target="c11gk3_1" type="character">Walter</ref>, as the leader of the family in this scene, rejects <ref target="c11gk3_1" type="character">Mr. Lindner's</ref> money and they decide to move.</s>
+        <s>There you can see the development <ref target="c11gk3_1" type="character">Walter</ref> and the family have made.</s>
+        <s>And this is another reason why I would consider the play as representative for the American Dream since even if they haven't so much money anymore at this point, and even if they have to face discrimination and <choice><orig>seperation</orig><reg>separation</reg></choice> from the white Americans, they still fight for their dream and finally work together as a family.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

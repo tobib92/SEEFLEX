@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g45_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>It is the first time for <name type="person">Starr</name> to get back there where the incident took place.</s>
+      </p>
+      <p>
+        <s>The whole thing plays out before her eyes.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> sees <name type="person">Khalil</name> looking at ther for the last time.</s>
+        <s>Getting back to this place is difficult for <name type="person">Starr</name>.</s>
+        <s>This part of the novel is written in the first-person narrative.</s>
+        <s>This effects that all readers emphasize in <name type="person">Starr's</name> situation ebcause it is only about her feelings and impressions that she remembers from this place.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> went back there again for <name type="person">Khalil</name> and because his murder is not guilty.</s>
+      </p>
+      <p>
+        <s>The crowd shouts <quote>A hairbrush is not a gun</quote> and the voice snaps <name type="person">Starr</name> from her daze.</s>
+        <s>She cannot believe that protests are for <name type="person">Khalil</name> and that this really happens.</s>
+        <s>When <name type="person">Ms. Ofrah</name> spotted <name type="person">Starr</name> in the crowd she changes her state of mind.</s>
+        <s><name type="person">Starr</name> is not grieving anymore.</s>
+        <s>She will fight for <name type="person">Khalil</name> and his justice.</s>
+        <s>When <name type="person">Starr</name> gets on the top of a cop car with <name type="person">Ms. Ofrah's</name> bullhorn in her hands, she seems to be a bit nervous.</s>
+        <s>But then she starts to say who she is and she was a member of that incident.</s>
+        <s>This is the changing moment where <name type="person">Starr</name> ends up her divided life.</s>
+        <s>Her <name type="geo">Garden Heights</name> life with her black friends and family in a black poor neighbourhood and her rich and mostly white life at the <name type="geo">Williamson Prep School</name>.</s>
+      </p>
+      <p>
+        <s>Everybody should know what <name type="person">Starr</name> had to see and that she is a <choice><orig>taff</orig><reg>tough</reg></choice> and brave young black girl.</s>
+      </p>
+      <p>
+        <s>She is going to be an activist for black power movements like <name type="person">Ms. Ofrah</name>.</s>
+      </p>
+      <p>
+        <s>The little and shy girl has changed to a young and strong woman.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

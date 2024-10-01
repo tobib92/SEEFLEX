@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g29_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given passage of the novel <ref target="a11gk3_1" type="title">The Hate U Give</ref>, written by <ref target="a11gk3_1" type="author">Angie Thomas</ref>, is the beginning of the scene when <ref target="a11gk3_1" type="character">Starr</ref> finally manages to speak openly and in <choice><orig>publicly</orig><reg>public</reg></choice> about <ref target="a11gk3_1" type="character">Khalil's</ref> death.</s>
+      </p>
+      <p>
+        <s>The passage starts with <ref target="a11gk3_1" type="character">Starr</ref>, <ref target="a11gk3_1" type="character">DeVante</ref>, <ref target="a11gk3_1" type="character">Seven</ref> and <ref target="a11gk3_1" type="character">Chris</ref> arriving at the place where <ref target="a11gk3_1" type="character">Khalil</ref> was shot.</s>
+      </p>
+      <p>
+        <s>There is a crowd protesting but <ref target="a11gk3_1" type="character">Starr</ref> just relives the moment when <ref target="a11gk3_1" type="character">Khalil</ref> was shot.</s>
+        <s>They see <ref target="a11gk3_1" type="character">Starr's</ref> attorney who sees and approaches them.</s>
+        <s>They talk about the other protests and that <ref target="a11gk3_1" type="character">Starr</ref> wants to speak up.</s>
+        <s>The scene ends <choice><orig>whith</orig><reg>with</reg></choice> <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> asking <ref target="a11gk3_1" type="character">Starr</ref> whether she wants to fight the system.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

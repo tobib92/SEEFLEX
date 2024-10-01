@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g67_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article is supposed to <choice><orig>gurantee</orig><reg>guarantee</reg></choice> the audience's better understanding of the atmosphere created in this article.</s>
+      </p>
+      <p>
+        <s>By structuring certain sections i.e. informative <ref target="c10gk5_1" type="line">(l. 1-10)</ref>, argumentative <ref target="c10gk5_1" type="line">(l. 11-17)</ref> and appealing <ref target="c10gk5_1" type="line">(l. 18-23)</ref>, the author succeeds in stimulating the reader.</s>
+        <s>This <choice><orig>structur</orig><reg>structure</reg></choice> makes sense, hence the target group, who are the people, who read the <name type="misc">Sunday Times</name>, citizens in <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name>, is interest in reading this article, by put the informative part first and the appealing in the end to convince the reader to do something.</s>
+      </p>
+      <p>
+        <s><choice><orig>Despie</orig><reg>Despite</reg></choice> that, the writer uses stylistic devices like in line <ref target="c10gk5_1" type="line">(11-14)</ref> <quote><s>My parents [...].</s><s>My parents [...].</s><s>My parents [...]</s></quote>.</s>
+        <s>This anaphora he uses is supposed to give the target group emphasis and to convince the reader of his past about this theme/topic.</s>
+      </p>
+      <p>
+        <s>Furthermore, <choice><orig>its</orig><reg>it's</reg></choice> and imagery in this article.</s>
+        <s><quote>[...] stand on your own two feet if someone is holding you up</quote><ref target="c10gk5_1" type="line">(l. 18-19)</ref>, this metaphor, which is there to create a picture in the reader's mind, succeeds <ref target="c10gk5_1" type="author">Zia</ref>, provided he uses this not just for specification.</s>
+      </p>
+      <p>
+        <s>The metaphor deals with learning a language without help, because if someone uses everyday the translator, he <choice><orig>can not</orig><reg>cannot</reg></choice> learn the language by heart.</s>
+      </p>
+      <p>
+        <s>The last stylistic device, I would like to mention is the <choice><orig>repitition</orig><reg>repetition</reg></choice> of a <q>we-feeling</q>, <choice><orig>its</orig><reg>it's</reg></choice> well chosen, in order to include the reader.</s>
+        <s>This is shown e.g. in line <ref target="c10gk5_1" type="line">(18, 23, 20, ...)</ref>.</s>
+        <s>Another point is the use of a convincing figure <quote>more than £100<choice><abbr>m</abbr><expan>million</expan></choice> [...]</quote> <ref target="c10gk5_1" type="line">(l. 1)</ref>, which gives the reader a feeling of a professional work, the author uses here.</s>
+        <s>This shows, that the writer knows exactly how to convince the reader of his opinion.</s>
+      </p>
+      <p>
+        <s>His predominance professional language style gives emphasis and the reader's attention to understand this article.</s>
+      </p>
+      <p>
+        <s>Not to forget the historical context that's given, because of the migrant crisis in <date>2013-2014</date>.</s>
+        <s>That also <choice><orig>illustrate</orig><reg>illustrates</reg></choice> the author's opinion, because many <choice><orig>refugee's</orig><reg>refugees</reg></choice> arrived without a knowledge of the language there and had to learn it quickly to integrate.</s>
+      </p>
+      <p>
+        <s>So this article has a good atmosphere to the audience's better undestand and convincing aspects of <ref target="c10gk5_1" type="author">Zia Haider Rahman's</ref> opinion.</s>
+        <s>In order to come back to my previously presented hypothesis of interpretation, I would like to say that my analysis was able to confirm it.</s>
+      </p>
+      <p>
+        <s>The author uses well chosen stylistic devices and a communicative strategy to <choice><orig>convine</orig><reg>convince</reg></choice> the reader and to the better understanding.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

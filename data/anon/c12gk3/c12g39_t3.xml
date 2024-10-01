@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g39_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>For <choice><orig>gods</orig><reg>God's</reg></choice> sake I do not know what I should do.</s>
+        <s>The plan is good and my wife would be proud but at what costs.</s>
+        <s>Should I kill the man who made me a <ref target="c12gk3_1" type="character">Thane</ref>.</s>
+        <s>I do not think so.</s>
+        <s>But then I would be king.</s>
+        <s>My wife would be proud.</s>
+        <s>And to not forget it, the weird sisters also said that I am going to be king.</s>
+        <s>But this way?</s>
+        <s>If it goes wrong I am going to be dead and my wife probably too.</s>
+        <s>But if I am not doing it my honor is broken and I would break a promise.</s>
+        <s>Do I want to do this?</s>
+        <s>No.</s>
+        <s>But also yes.</s>
+        <s>I do not have much time to think about it.</s>
+        <s>When the <choice><orig>king</orig><reg>King</reg></choice> sleeps and the guards are drunk it is my only chance.</s>
+        <s>I am going to do it.</s>
+        <s>Or am I?</s>
+        <s>Why is it so difficult?</s>
+        <s>What do I want?</s>
+        <s>I want to be king.</s>
+        <s>In order to that I have to kill him.</s>
+        <s>Or I wait until he dies the proper way.</s>
+        <s>But then <ref target="c12gk3_1" type="character">Malcolm</ref> becomes king and if he dies then <ref target="c12gk3_1" type="character">Donald</ref> becomes king.</s>
+        <s>No I cannot wait.</s>
+        <s>I have to do it now.</s>
+        <s>My wife was right.</s>
+        <s>I am going to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

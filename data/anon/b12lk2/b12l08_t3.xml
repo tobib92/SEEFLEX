@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12l08_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion, the speech delivered by <ref target="b12lk2_1" type="speaker">Attenborough</ref> at <name type="misc">COP26</name> should have had an impact on the audience attending it.</s>
+        <s>However the outcome of <name type="misc">COP26</name> leaves the impression that his speech did not highly influenced these politicians.</s>
+        <s>The politicians who have been there to watch <ref target="b12lk2_1" type="speaker">Attenborough</ref> deliver his speech might have had different opinions on what we have to do to stop global warming.</s>
+        <s>Although he delivered a great speech, at the conference itself, politicians set rather low ground rules which will not be enough to reach the 1.5° aim.</s>
+      </p>
+      <p>
+        <s>In the interview with the German politician <ref target="b12lk2_2" type="speaker">Jochen Flasbarth</ref>, who has attented <name type="misc">COP26</name>, you can see that at <name type="misc">COP26</name> they agreed on vague and lose conditions concerning the <choice><orig>abolishion</orig><reg>abolition</reg></choice> of coal power.</s>
+        <s>They have decided to increase pressure on <name type="geo">China</name> and <name type="geo">India</name> to reduce their emissions but they have not decided on measures to decrease their own carbon emissions.</s>
+        <s>This shows that <ref target="b12lk2_1" type="speaker">Attenborough's</ref> speech could not have impacted the politicians at hand because they do not follow his advice.</s>
+        <s>They do not act out of hope, but out of fear.</s>
+        <s>They are afraid that becoming more sustainable as a nation will mean that they will not be able to compete in the global market as well as before and therefore lose status.</s>
+        <s>So they force regulations onto other countries instead of working together with them.</s>
+        <s>At <name type="misc">COP26</name> they also have not agreed on financial compensations for countries which are already affected by the outcome of climate change.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> wants them to fight climate change inequality but the politicians at <name type="misc">COP26</name> have ignored his words.</s>
+      </p>
+      <p>
+        <s>On the other hand, I believe that his speech might have impacted the minds of the broader public because his speech has been very well written.</s>
+        <s>He directly addressed his audience, used inclusive language, appealed to their emotions and responsibility and included other people which strengthened his point.</s>
+      </p>
+      <p>
+        <s>Although powerful politicians have not listened to his wisdom, younger people and generations tend to listen more carefully when it comes to the issue of climate change because it will affect us.</s>
+        <s>And the fact that he delivered the speech at 95 years of age, shows how much he really cares about us because he will not be affected by the consequences of climate change but my generation well.</s>
+      </p>
+      <p>
+        <s>This is why I believe that <ref target="b12lk2_1" type="speaker">Attenborough's</ref> speech has rather impacted the broader public than his acutal audience at <name type="misc">COP26</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

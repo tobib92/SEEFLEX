@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l08_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sonnet 138 written by <ref target="a12lk1_1" type="author">William <choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> engages with the topic of love and <choice><orig>lifes</orig><reg>life's</reg></choice> beauty.</s>
+        <s>The author expresses how to speaker and the lover conquer the ravages of life, aging and lying.</s>
+        <s><ref target="a12lk1_1" type="author">Shakespeare</ref> signifies the importance of trust in a relationship.</s>
+      </p>
+      <p>
+        <s><ref target="a12lk1_1" type="author">Shakespeare</ref> starts his sonnet with a guiding thesis.</s>
+        <s>The thesis outlines what happens when the <choice><orig>speakers</orig><reg>speaker's</reg></choice> lover swears she is made of truth.</s>
+        <s><ref target="a12lk1_1" type="line">(l. 1)</ref> The speaker gives a direct answer by stating he does believe her even though he knows she/he lies.</s>
+        <s>It highlights his strong devotion towards his lover.</s>
+      </p>
+      <p>
+        <s>In the second quatrain <ref target="a12lk1_1" type="line">(l. 5-9)</ref> is an <choice><orig>explination</orig><reg>explanation</reg></choice> <gap reason="illegible" quantity="1" unit="word">deluding</gap> to the thesis why the speaker believes his lover tells the truth.</s>
+        <s>He proclaims, in order to conquer the ravages in a relationship both have o lie or even <choice><orig>relie</orig><reg>rely</reg></choice> on ignoring each other's false claims.</s>
+      </p>
+      <p>
+        <s>Right at the beginning of the third quatrain <ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> invokes two guiding rhetorical questions outlining, wherefore two people ignore each other's flaws.</s>
+      </p>
+      <p>
+        <s>After the speaker deotes, loves best habit is in blind trust, a volta, a change of perspective follows.</s>
+        <s>The volta, after line ten outlines, none of the things mentioned before matter beause nothing changes the way the two beloved people feel for each other.</s>
+        <s>Moreover, it signifies that trust and love goes far beyond their flaws and insecurities.</s>
+      </p>
+      <p>
+        <s>The last two lines, the heroic couplet, <choice><orig>summerizes</orig><reg>summarizes</reg></choice> both lovers <choice><orig>relie</orig><reg>rely</reg></choice> on their lies in order to make them feel confident and <choice><orig>fullfilled</orig><reg>fulfilled</reg></choice>.</s>
+        <s>The couplet refers back to the guiding thesis, giving an <choice><orig>affimation</orig><reg>affirmation</reg></choice> why both ignore their flaws.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

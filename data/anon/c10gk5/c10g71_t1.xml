@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g71_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref>, which was published in the <date>17th December 2016</date> from <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref>, <choice><orig>a</orig><reg>an</reg></choice> author of <name type="misc">The Sunday Times</name> talks about the problems the expensive campaign of <name type="geo">Great Britain</name>, to celebrate differences and support minorities to not learn the <choice><orig>english</orig><reg>English</reg></choice> language or even integrate to the <choice><orig>englisch</orig><reg>English</reg></choice> majority culture.</s>
+        <s>In this article <ref target="c10gk5_1" type="author">Zia</ref> talks about his experiences as a part of the poor Bangladeshi community in <name type="geo">East London</name>.</s>
+        <s>He talks about the crime, the poverty and the low level of education leaves them only two choices: Become a muslim extremist or join one of the many gangs in <name type="geo">London</name>.</s>
+        <s>The author then explains how his fast learning of the language and the help of his parents and the school director helped him to integrate in <name type="geo">Great Britain</name>.</s>
+        <s>At the end he makes a proposition to the government he thinks the people could integrate better if they would stand on their own feet.</s>
+        <s>That means the translation funds of the government have to be cancelled and should be replaced by <choice><orig>english</orig><reg>English</reg></choice> courses or other <choice><orig>projekts</orig><reg>projects</reg></choice> which helps the <choice><orig>Bangladeschi</orig><reg>Bangladeshi</reg></choice> people to integrate.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

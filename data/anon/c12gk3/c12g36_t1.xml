@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g36_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The drama extract of the tragedy <ref target="c12gk3_1" type="title">Macbeth</ref> by <ref target="c12gk3_1" type="author">William Shakespeare</ref> is part of <ref target="c12gk3_1" type="scene">act 1 scene 7</ref> and deals with the topic that <ref target="c12gk3_1" type="character">Macbeth's</ref> conscience has warned him not to go ahead with the plan to kill the present king <ref target="c12gk3_1" type="character">Duncan</ref> while he gets interrupted by his wife, <ref target="c12gk3_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>For <ref target="c12gk3_1" type="character">Macbeth</ref> it is not important to become <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Cawdor</name> because he does not destroy his high reputation from all sorts of people by killing <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>But his wife <choice><orig>pushs</orig><reg>pushes</reg></choice> him not give up the plan that they made.</s>
+        <s>Because when he would become <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Cawdor</name> his high reputation gets higher than before.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> tells him also that he should not give up the thing that he wants because then <ref target="c12gk3_1" type="character">Macbeth</ref> sees himself later on as a coward.</s>
+        <s>His wife is also convinces him that the time and place is perfect at this point and that <ref target="c12gk3_1" type="character">Macbeth</ref> has yet the motivation and energy to act.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> has still feat but <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tells him that he has to be more braver and after that she tells her husband about the plan she makes.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth's</ref> condition is that his wife should bring four men-children and only when this comes true he will kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>To sum up, you can see that the wish of <name type="geo">Cawdor</name> is not anymore as relevant as before for <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>Also you can see that the thoughts of <ref target="c12gk3_1" type="character">Macbeth</ref> are very various because of the fact that he is contented with his reputation he does not want to kill <ref target="c12gk3_1" type="character">Duncan</ref> anymore.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

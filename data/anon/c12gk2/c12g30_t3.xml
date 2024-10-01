@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g30_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Norman J. Lund</name> once says <quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote>.</s>
+        <s>A very controverse quote, but he is not false.</s>
+      </p>
+      <p>
+        <s>He is dead, so his <choice><orig>storys</orig><reg>stories</reg></choice> and situations play in an old time.</s>
+        <s>The most of them are outdated today.</s>
+        <s>But the modern film <choice><orig>industrie</orig><reg>industry</reg></choice> <choice><orig>remake</orig><reg>remakes</reg></choice> some of his theatres to modern versions.</s>
+        <s>That's not that hard, because <name type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></name> <choice><orig>storys</orig><reg>stories</reg></choice> are based on love, racism and other themes we talk about still today.</s>
+        <s>So you can see that even the outdated story of <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> our modern problems <choice><orig>adress</orig><reg>address</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Another problem is, that his language is outdated too.</s>
+        <s>It's very difficult to understand his texts, especially when you learn English as your second language.</s>
+        <s>No wonder that in <choice><orig>german</orig><reg>German</reg></choice> school <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> in the last class a relevant theme is.</s>
+      </p>
+      <p>
+        <s>But to pass the historic texts on you need to do them in school.</s>
+        <s>Also in <choice><orig>an</orig><reg>a</reg></choice> non <choice><orig>english</orig><reg>English</reg></choice> speaking country.</s>
+        <s>Because <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> isn't just a mediator of history.</s>
+        <s>He <choice><orig>influence</orig><reg>influences</reg></choice> also the <choice><orig>hole</orig><reg>whole</reg></choice> following literature.</s>
+        <s>Every literary man and every literary woman gets inspired by <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name>.</s>
+        <s>So he is very important in the history of literature.</s>
+      </p>
+      <p>
+        <s>All in all you can see, that <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is very important and you should know at least a minimum about him and his work.</s>
+        <s>For that the school is a perfect place.</s>
+        <s>Not everyone can go to the theatre.</s>
+        <s>But everyone is in school.</s>
+        <s>It's very difficult for students, but necessary.</s>
+        <s>It should be still get learned in school in future.</s>
+      </p>
+      <p>
+        <s>Personally I don't like the lessons where we talked about him and his work but I understand how important he is so it was not that bad in the end.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

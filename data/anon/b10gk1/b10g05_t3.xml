@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g05_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will comment on the impact that the movie had on me and the impact it can have on other viewers.</s>
+      </p>
+      <p>
+        <s>The movie did not have a big impact on me but I think it can have it on other people.</s>
+      </p>
+      <p>
+        <s>For me the movie was interesting but not eye-opening.</s>
+        <s>I think I'm a well-informed person in regards to social unequality and political topics.</s>
+        <s>This may be the cause why the perspectives shown in the movie weren't that new for me, but still I think the movie is a good visualization of struggles black teenagers have growing up in systems that discriminate them.</s>
+        <s>I think this visualization can have a quite strong impact on people not that well-informed.</s>
+        <s>The film presents a serious and important topic to the viewer but in a Hollywood-like way, so it can be seen and understood by most people.</s>
+        <s>It is made to let the viewer feel with <ref target="b10gk1_1" type="character">Starr</ref> and see her struggles which can be seen by analyzing the movie and although it is a movie for the mainstream it doesn't lose the seriousness the book had.</s>
+        <s>I also want to say something to the publishing year, because I think if I watched the movie in <date>2018</date> it would have had a stronger impact on me.</s>
+        <s>In just three years the <name type="misc">Black lives matter</name> demonstrations grew to a level, which was never reached before so the world was confronted with the topic of systematic racism.</s>
+        <s>That's why I think the movie had a big impact when it was first published.</s>
+      </p>
+      <p>
+        <s>So the movie can, as proven in my comment, have an impact on people and show them other perspectives, but for me it didn't do or have that.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

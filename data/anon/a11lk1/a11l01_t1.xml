@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l01_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>forth</orig><reg>fourth</reg></choice> scene from the play <ref target="a11lk1_1" type="title">Disgraced, Scene 4</ref> written by <ref target="a11lk1_1" type="author">Ayad Akhtar</ref> is about <ref target="a11lk1_1" type="character">Abe</ref> <choice><orig>who's</orig><reg>whose</reg></choice> immigration status is up for renewal and who seeks help by his uncle <ref target="a11lk1_1" type="character">Amir</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> reveals that he laughed, when he was told his immigration status was up for renewal and he fears that the American government is going to pressure him into working for them.</s>
+        <s><ref target="a11lk1_1" type="character">Amir's</ref> first idea to support his nephew is to call the lawyer who <choice><orig>handeled</orig><reg>handled</reg></choice> the case of <ref target="a11lk1_1" type="character">Imam Fareed</ref>.</s>
+        <s>He also tries to give <ref target="a11lk1_1" type="character">Abe</ref> some tips on how to act from now on to avoid more trouble but <ref target="a11lk1_1" type="character">Abe</ref> seems to reject them <choice><orig>immediatly</orig><reg>immediately</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

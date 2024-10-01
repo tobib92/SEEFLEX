@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the speech on the <choice><orig>Amarican</orig><reg>American</reg></choice> Dream at the <date>7th November 2007</date> of <ref target="a11gk2_1" type="speaker">Barack Obama</ref> in <name type="geo">Bettendorf Iowa</name>, he <choice><orig>tell</orig><reg>tells</reg></choice> us how we can fight for the <choice><orig>Amarican</orig><reg>American</reg></choice> Dream.</s>
+      </p>
+      <p>
+        <s>In the first paragraph he wants to make him lovefull because in l. 1-2 he <choice><orig>sas</orig><reg>says</reg></choice> that he <choice><orig>fell</orig><reg>feels</reg></choice> right at home and that he lived in <choice><orig>neibar</orig><reg>neighbour</reg></choice> state a few years ago.</s>
+        <s>And that they more share than the banks of a great river.</s>
+      </p>
+      <p>
+        <s>In the second paragraph he tells that people what one <choice><orig>heare</orig><reg>hears</reg></choice> if he spend time in <name type="geo">Washington</name>.</s>
+        <s>With <choice><orig>this</orig><reg>these</reg></choice> divisions he will be shows the people what not <choice><orig>corret</orig><reg>correct</reg></choice> and <choice><orig>schoud</orig><reg>should</reg></choice> be <choice><orig>change</orig><reg>changed</reg></choice> in this country.</s>
+      </p>
+      <p>
+        <s>In the following paragraph he <choice><orig>tell</orig><reg>tells</reg></choice> that not important when you came from a big town <choice><orig>ore</orig><reg>or</reg></choice> a young town <choice><orig>becaus</orig><reg>because</reg></choice> in his last nine months he saw that all people have the same values and hopes.</s>
+      </p>
+      <p>
+        <s>In the next paragraph he <choice><orig>speek</orig><reg>speaks</reg></choice> about his family and that his grandfather in the <name type="misc"><choice><orig>second world war</orig><reg>Second World War</reg></choice></name> was fighting for <name type="geo">America</name> and he became after this he became a chance to go to college or became a chance to buy a home.</s>
+        <s>He will be tell that this <choice><orig>shoud</orig><reg>showed</reg></choice> the <choice><orig>amarican dream</orig><reg>American Dream</reg></choice> and that everybody should be help each other.</s>
+        <s>But he <choice><orig>sas</orig><reg>says</reg></choice> also that it is not easy for his family <choice><orig>becaus</orig><reg>because</reg></choice> his grandfather worked hard to help his mother to raise him.</s>
+      </p>
+      <p>
+        <s>In the next paragraph he is telling about that his mother would be make <ref target="a11gk2_1" type="speaker">Barack</ref> and his sister clear that they could do everything in <name type="geo"><choice><orig>amarica</orig><reg>America</reg></choice></name> and <choice><orig>thats</orig><reg>that's</reg></choice> not <choice><orig>importent</orig><reg>important</reg></choice> which color you have, <choice><orig>ore</orig><reg>or</reg></choice> <choice><orig>were</orig><reg>where</reg></choice> do you come <choice><orig>frome</orig><reg>from</reg></choice> <choice><orig>ore</orig><reg>or</reg></choice> how much money one <choice><orig>have</orig><reg>has</reg></choice>.</s>
+        <s>He will with <choice><orig>this</orig><reg>these</reg></choice> last two paragraphs to make <choice><orig>cleare</orig><reg>clear</reg></choice> that he is that best example that the <choice><orig>Amican</orig><reg>American</reg></choice> Dream isn't away, <foreign xml:lang="de">sondern</foreign> you must be make your thing good you can do everything.</s>
+      </p>
+      <p>
+        <s>In the last paragraph he <choice><orig>tell</orig><reg>tells</reg></choice> about <name type="geo">Chicago</name> who loved the <choice><orig>amarican dream</orig><reg>American Dream</reg></choice> and he fight for that the <choice><orig>Amarican dream</orig><reg>American Dream</reg></choice> can <gap reason="illegible" quantity="1" unit="word">grt</gap> at <name type="geo">Chicago</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

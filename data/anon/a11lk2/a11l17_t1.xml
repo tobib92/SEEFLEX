@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l17_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt from scene three of the <choice><orig>Play</orig><reg>play</reg></choice> <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>, written by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref>, published <date>2013</date>, is about the revealing of the affair between <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> and <ref target="a11lk2_1" type="character">Emily</ref> and about the fact that <ref target="a11lk2_1" type="character">Jory</ref> got the promotion.</s>
+      </p>
+      <p>
+        <s>First <ref target="a11lk2_1" type="character">Jory</ref> enters and sees the intimacy between <ref target="a11lk2_1" type="character">Emily</ref> and her husband, <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>She directly assumes that they are having an affair, so she asks them <choice><orig>immediatly</orig><reg>immediately</reg></choice>.</s>
+        <s>In the meantime <ref target="a11lk2_1" type="character">Amir</ref> runs into the room and is still furious about the promotion of <ref target="a11lk2_1" type="character">Jory</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> deny the affair and claim that <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> was consoling <ref target="a11lk2_1" type="character">Emily</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> does not trust and <ref target="a11lk2_1" type="character">Amir</ref> is still not worrying about the affair.</s>
+      </p>
+      <p>
+        <s>Next <ref target="a11lk2_1" type="character">Amir</ref> stresses that instead of <ref target="a11lk2_1" type="character">Jory</ref>, he deserves the promotion.</s>
+        <s>He offends <ref target="a11lk2_1" type="character">Jory</ref>, so <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> intervenes.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> does not want her husband to defend her.</s>
+        <s>The situation gets worse and <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> crosses borders.</s>
+      </p>
+      <p>
+        <s>Then <ref target="a11lk2_1" type="character">Amir</ref> screams, that they should get out and while they are leaving <ref target="a11lk2_1" type="character">Jory</ref> points out that <ref target="a11lk2_1" type="character">Mort</ref> is retiring and she is going to get his caseload.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> and <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> left.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> gets <ref target="a11lk2_1" type="character">Amir</ref> a coffee and left him alone.</s>
+        <s>Next <ref target="a11lk2_1" type="character">Amir</ref> starts the conversation, that he avoided.</s>
+        <s>He asks <ref target="a11lk2_1" type="character">Emily</ref>, if she is having an affair with <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> explains what <choice><orig>happend</orig><reg>happened</reg></choice> in <name type="geo">London</name> and <choice><orig>epologizes</orig><reg>apologizes</reg></choice> for her behaviour, but <ref target="a11lk2_1" type="character">Amir</ref> gets angry.</s>
+        <s>Lastly <ref target="a11lk2_1" type="character">Amir</ref> hits <ref target="a11lk2_1" type="character"><choice><orig>Emilys</orig><reg>Emily's</reg></choice></ref> face and he <choice><orig>can not</orig><reg>cannot</reg></choice> control his feelings anymore.</s>
+        <s>In the end he realizes what he has done.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

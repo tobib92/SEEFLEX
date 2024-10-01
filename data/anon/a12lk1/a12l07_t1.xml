@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l07_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given <ref target="a12lk1_1" type="title">Sonnet 138</ref>, written by <ref target="a12lk1_1" type="author">Shakespeare</ref>, was first published in <date>1609</date> and is about the <choice><orig>speakers</orig><reg>speaker's</reg></choice> relationship in which the narrator's love is <choice><orig>lieing</orig><reg>lying</reg></choice> about the speaker.</s>
+      </p>
+      <p>
+        <s>In the first two lines the narrator <choice><orig>point's</orig><reg>points</reg></choice> out that even when his love is trying to convince him about being honest.</s>
+        <s>He <choice><orig>belives</orig><reg>believes</reg></choice> her, also he nkows she is <choice><orig>lieing</orig><reg>lying</reg></choice>.</s>
+        <s>It gets pointed out that the beloved one <choice><orig>migth</orig><reg>might</reg></choice> think that because of his inexpeirenced youth in this world full of wrong niceties.</s>
+        <s>The love one actually knows that the speaker is not the youngest anymore, but only <gap reason="illegible" quantity="1" unit="word">thsu</gap> <choice><orig>seem's</orig><reg>seems</reg></choice> to talk as he would still be in his best days.</s>
+        <s>The <choice><orig>narrator</orig><reg>narrattor</reg></choice> points out, that he is very thankful for her unhonsty.</s>
+        <s>After this brainwave, there <choice><orig>seem's</orig><reg>seems</reg></choice> to be a turning point, because the speakers asks himself, why his beloved one, just won't say the truth.</s>
+        <s>Moreover, he realises that love isn't about telling the truth, but be about trust.</s>
+        <s>And that is why they lie together and they can be happy anyways.</s>
+      </p>
+      <p>
+        <s>All in all, one can say that the speaker has a relationship full of trust and is very <choice><orig>thanful</orig><reg>thankful</reg></choice> for that.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

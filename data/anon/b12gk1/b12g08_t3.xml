@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g08_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Johnson,</salute>
+      </p>
+      <p>
+        <s>My name is Jane Smith and I was born in <date>2030</date>.</s>
+        <s>I'm writing you because of your speech in <date>2021</date> addressed at the <name type="misc">COP26 World Leaders' Summit</name>.</s>
+        <s>I have found your speech in an old newspaper article and it really interested me.</s>
+        <s>Specially because it includes me as one <quote>of the billions more of the unborn</quote>.</s>
+        <s>And I want to thank you for not giving up.</s>
+        <s>I am really sure you helped this process to get climate change under control.</s>
+        <s>Because of you the audience awaked and made it more better for us nowadays.</s>
+        <s>You were the one who made the difference and without you we maybe wouldn't even be alive today.</s>
+        <s>Because of you and your speech we can have a perspective these days.</s>
+        <s>I think you were absolutely right with what you said, but I also think they have done some thing against climate change.</s>
+        <s>Of course I agree with you that it wasn't enough but they tried it.</s>
+        <s>But in fact I am amazed by the way you were convincing the audience to act.</s>
+        <s>Of course today isn't everything perfect but because of you the politics do some thing against climate change.</s>
+        <s>Active.</s>
+        <s>We all have to thank you and have to <choice><orig>appreciate</orig><reg>apprechiate</reg></choice> what you have done.</s>
+        <s>I just wanted to thank you!</s>
+      </p>
+      <p>
+        <signed>Kind regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

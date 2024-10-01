@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g11_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given text <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref>, written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref>, published on <date>17th December 2016</date> in the <name type="misc">Sunday Times</name> the author describes how hard it is to learn a new language for young Bangladeshis.</s>
+        <s>The author says, that young Bangladeshis have to pick extremists or a gang, <choice><orig>wich</orig><reg>which</reg></choice> shows, that it's <choice><orig>truelly</orig><reg>truely</reg></choice> not easy to learn, especially for male young Bangladeshis, because already grown up people want them to fight.</s>
+      </p>
+      <p>
+        <s>In the first paragraph, the author explains that over £100<choice><abbr>m</abbr><expan>million</expan></choice> was spent on translating in the last year.</s>
+        <s><ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> explains that the confusing signals, that are sent to the people, are even more problematic.</s>
+      </p>
+      <p>
+        <s>In the second paragraph tells us how the situation in <name type="geo">Bangladesh</name> is.</s>
+        <s>In <name type="geo">Bangladesh</name> there is a big <choice><orig>Drug</orig><reg>drug</reg></choice> and crime problem.</s>
+      </p>
+      <p>
+        <s>In the third paragraph the author tells us how he came to <name type="geo">Britain</name> and how he managed it to learn English that quick.</s>
+      </p>
+      <p>
+        <s>In the last section the author says how the problem could be solved better than now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

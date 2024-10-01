@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g18_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>Simple exchanges can break down walls between us</quote><choice><orig>thats</orig><reg>that's</reg></choice> a line of his speech.</s>
+        <s>It means that when you talk to someone from another country and exchange information you break down certain barriers that exist.</s>
+      </p>
+      <p>
+        <s>Those include as an example stereotypes, which still influence how we see people.</s>
+        <s>This can show that our <choice><orig>exspections</orig><reg>expections</reg></choice> of people are different <choice><orig>then</orig><reg>than</reg></choice> they really are.</s>
+        <s>As an example a lot of people say that Germans are really upright and boring, but if you do things with a lot of Germans you can see that this is a lot of the time not true.</s>
+      </p>
+      <p>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice> normal that they are always people who <choice><orig>fits</orig><reg>fit</reg></choice> stereotypes, but not everyone is like that.</s>
+        <s>This can defeat racism in a way, because those divisions that we have and misconceptions can be destroyed by simple exchange.</s>
+      </p>
+      <p>
+        <s>But I don't think that every simple exchange can break barriers down, because some people are going to hold grudges against cultures or minorities.</s>
+        <s>This can be because of how they were raised, bad experience or other things.</s>
+      </p>
+      <p>
+        <s>So in general <choice><orig>i</orig><reg>I</reg></choice> agree with <ref target="c10gk2_1" type="speaker">Obama</ref> that exchanges can tear down walls between cultures or countries, but not every exchange is going to have the same effect.</s>
+        <s>But exchange is going to help with destroying barriers, but <choice><orig>its</orig><reg>it's</reg></choice> going to take a long time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g68_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>The limits of my language are the limits of my world</quote>.</s>
+        <s>This is a statement from the German philosopher <name type="person">Ludwig Wittgenstein</name>.</s>
+        <s>I would say that this is the truth.</s>
+        <s>In the following text I give you some arguments for that.</s>
+      </p>
+      <p>
+        <s>My first argument is that languages connect us and when you are in country and can't speak the language which they speak you have probably much problems but the diversity is also important because we all are different and the language isn't there a problem.</s>
+        <s>My next argument is that when you are in another country and can't speak the language which they speak it can happen that you don't accept from the people which lives there.</s>
+        <s>The argument which is <choice><orig>aggainst</orig><reg>against</reg></choice> this is that you can inform yourself before you go to another country if they can speak more than the mother <choice><orig>thounghe</orig><reg>tongue</reg></choice> language.</s>
+      </p>
+      <p>
+        <s>When you are in a country where they can't speak for example English you can get problems because the other don't understand you but English is a world language but not everyone can speak it.</s>
+      </p>
+      <p>
+        <s>All in all I would say languages are the limits of your life in the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

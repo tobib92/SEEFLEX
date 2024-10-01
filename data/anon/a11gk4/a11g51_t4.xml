@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g51_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello Harry,</salute>
+      </p>
+      <p>
+        <s>I read the book <name type="misc">THUG</name> in my English class and I asked myself if the discrimination of <choice><orig>africanamericans</orig><reg>African Americans</reg></choice> is so <choice><orig>rugh</orig><reg>rough</reg></choice> like <choice><orig>showed</orig><reg>shown</reg></choice> in the book.</s>
+        <s>So I did my research and found <choice><orig>a</orig><reg>an</reg></choice> article of the <name type="misc">Zeit</name> it is comparable with an online newspaper.</s>
+        <s>The article was published on <date>25th August in 2014</date> and is about the discrimination of black people in <name type="geo">America</name>.</s>
+        <s>The article starts with the point that again an <choice><orig>africanamerican</orig><reg>African American</reg></choice> was shot by the police in this case it is the <choice><orig>africanamerican</orig><reg>African American</reg></choice><name type="person">Michael Brown</name>.</s>
+        <s>But this is not the main theme of the article.</s>
+        <s>The main theme is that in spite of the <name type="misc">Civil Rights Act</name> by the president <name type="geo">Lyndon B. Johnson</name>, <choice><orig>africanamericans</orig><reg>African Americans</reg></choice> still being discriminated in more than one life sector.</s>
+        <s>For <choice><orig>examble</orig><reg>example</reg></choice> writes <ref target="a11gk4_2" type="author">Alexandra Endres</ref>, the author of the article, that <choice><orig>africanamericans</orig><reg>African Americans</reg></choice>in comparison with white people still do not have a or a good graduation.</s>
+        <s>Is that true?</s>
+        <s>Another point is that <choice><orig>africanamericans</orig><reg>African Americans</reg></choice>who graduated still have a higher possible chance to not get a job.</s>
+        <s>I cannot believe that it is true!</s>
+        <s>Did you know that more than one quarter of <choice><orig>africanamericans</orig><reg>African Americans</reg></choice> live in poverty and among white people there is only about a tenth who live in poverty?</s>
+        <s>I was very surprised when I read this article because I did not know that the discrimination of <choice><orig>africanamericans</orig><reg>African Americans</reg></choice> is still a thing.</s>
+        <s>What about you?</s>
+        <s>Did you got in contact with discrimination against <choice><orig>africanamericans</orig><reg>African Americans</reg></choice>?</s>
+        <s>I would like to know that!</s>
+        <s>Do not be afraid to write me back.</s>
+      </p>
+      <p>
+        <s>See you soon!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

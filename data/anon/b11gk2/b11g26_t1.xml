@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g26_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> written by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref> and published in <date>2018</date> deals with various <choice><orig>religios</orig><reg>religious</reg></choice> conflicts in the post <name type="misc">9/11</name> setting in <name type="geo">New York</name>.</s>
+        <s>In the beginning of the given scene <ref target="b11gk2_1" type="character">Isaac</ref> leans over and <choice><orig>try</orig><reg>tries</reg></choice> to kiss <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>At the moment of kissing <ref target="b11gk2_1" type="character">Jory</ref> enters and sees <ref target="b11gk2_1" type="character">Isaac</ref> kissing <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+      </p>
+      <p>
+        <s>After seeing her husband kissing <ref target="b11gk2_1" type="character">Emily</ref> she calls for <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> enters the room and cannot believe what <ref target="b11gk2_1" type="character">Jory</ref> is telling him.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Jory</ref> now both try to find out if <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> had an affair.</s>
+        <s>Both <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> start to deny that they were kissing but after some confrontation <ref target="b11gk2_1" type="character">Amir</ref> gets even more angrier and <choice><orig>aggressiv</orig><reg>aggressive</reg></choice> towards his guests.</s>
+        <s>All of a sudden he confronts <ref target="b11gk2_1" type="character">Jory</ref> that he is the discriminated person in his company as he <choice><orig>refeares</orig><reg>refers</reg></choice> to <ref target="b11gk2_1" type="character"><choice><orig>Jorys</orig><reg>Jory's</reg></choice></ref> black skin.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> at one point becomes so angry that he is ready to start a fight with <ref target="b11gk2_1" type="character">Isaac</ref> but seconds before the fight could have started, <ref target="b11gk2_1" type="character">Amir</ref> suddenly spits in <ref target="b11gk2_1" type="character"><choice><orig>Isaacs</orig><reg>Isaac's</reg></choice></ref> face.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> orders <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> to get out.</s>
+        <s>Right <choice><orig>befor</orig><reg>before</reg></choice> <ref target="b11gk2_1" type="character">Jory</ref> leaves she tells him how <ref target="b11gk2_1" type="character">Mort</ref> is promoting <ref target="b11gk2_1" type="character">Jory</ref> and not him.</s>
+        <s>After they left, <ref target="b11gk2_1" type="character">Amir</ref> seems somehow lost and doesn't answer any questions from <ref target="b11gk2_1" type="character">Emily</ref> before he asks if <ref target="b11gk2_1" type="character">Emily</ref> had sleeped with <ref target="b11gk2_1" type="character">Isaac</ref>.</s>
+        <s>After she confessed <ref target="b11gk2_1" type="character">Amir</ref> beats her until <ref target="b11gk2_1" type="character">Abe</ref> arrives.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

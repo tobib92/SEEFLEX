@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g30_t2</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi!</salute>
+        <s>My name is <name type="person">Fargi al-Byashan</name>, I'm <choice><orig>fourthyone</orig><reg>forty-one</reg></choice> and I was grown up in <name type="geo">Iraq</name>.</s>
+        <s>I'm <choice><orig>a</orig><reg>an</reg></choice> engineer and I immigrated from <name type="geo">Iraq</name> to <name type="geo">New York</name> in <date>2005</date>.</s>
+        <s>Now I want telling you why I'm immigrated to <name type="geo">New York</name> and how the arrival was.</s>
+        <s>So I was born in <name type="geo">Bagdad</name>.</s>
+        <s>It's the capital city of <name type="geo">Iraq</name>.</s>
+        <s>But in <name type="geo">Iraq</name> there is a very <choice><orig>aweful</orig><reg>awful</reg></choice> and scary civil war.</s>
+        <s>You can't believe it what I saw there.</s>
+        <s>I grow up in this scary world, I married and I got two sons.</s>
+        <s>And one day I saw that our sons <choice><orig>doesn't</orig><reg>don't</reg></choice> have any perspective.</s>
+        <s>It's our task to flee for our kids.</s>
+        <s>So I flew in year <date>2005</date>, my wife and my kids in year <date>2007</date>.</s>
+        <s>Luckily I have <foreign xml:lang="de">Abitur</foreign> so I <choice><orig>speek</orig><reg>speak</reg></choice> a really good English so I could <choice><orig>speek</orig><reg>speak</reg></choice> with the police.</s>
+        <s>But the flight was dangerous.</s>
+        <s>I paid a smuggler who deported me to <name type="geo">Istanbul</name>.</s>
+        <s>There I bought a <choice><orig>tiket</orig><reg>ticket</reg></choice> to <name type="geo">New York</name>.</s>
+        <s>I had enough money, because I was engineer.</s>
+        <s>I arrived in <name type="geo">New York</name> I got the <choice><orig>citizen ship</orig><reg>citizenship</reg></choice> <choice><orig>everthing</orig><reg>everything</reg></choice> was good, but my family was still in <name type="geo">Iraq</name>.</s>
+        <s>So in <date>2007</date> they flewed from <name type="geo">Iraq</name> too.</s>
+        <s>With a smuggler they <gap reason="illegible" quantity="1" unit="word">banleral</gap> the border to <name type="geo"><choice><orig>turkey</orig><reg>Turkey</reg></choice></name>, where I bought them a <choice><orig>tiket</orig><reg>ticket</reg></choice> to <name type="geo">New York</name>.</s>
+        <s>We thought <choice><orig>know</orig><reg>now</reg></choice> <choice><orig>everthing</orig><reg>everything</reg></choice> is perfect, but it wasn't.</s>
+        <s>It was difficult to <choice><orig>intigrate</orig><reg>integrate</reg></choice> here.</s>
+        <s>Many white <choice><orig>americans</orig><reg>Americans</reg></choice> discriminated us.</s>
+        <s>I don't know why.</s>
+        <s>They know nothing.</s>
+        <s>We hope that one day we will accept and we will not discriminated.</s>
+        <s>I hope you can understand we.</s>
+      </p>
+      <p>
+        <s>Thank you</s>
+      </p>
+    </body>
+  </text>
+</TEI>

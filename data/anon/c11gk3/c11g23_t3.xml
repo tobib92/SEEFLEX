@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g23_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this following task, I would like to comment on <ref target="c11gk3_1" type="character">Walter's</ref> and the other <ref target="c11gk3_1" type="character"><choice><orig>Younger's</orig><reg>Youngers'</reg></choice></ref> dreams, also in the context of the American Dream and the African American history.</s>
+      </p>
+      <p>
+        <s>You can say in <choice><orig>generall</orig><reg>general</reg></choice> that the American Dream or the actual idea of this <choice><orig>Dream</orig><reg>dream</reg></choice> was quite <q>woke</q> back then in these <choice><orig>time</orig><reg>times</reg></choice> when the drama takes place.</s>
+        <s>So in the beginning of the book is written as setting of the time <quote>sometime between World War 2 and the present</quote>.</s>
+        <s>At this time back then it was usual that some people from <name type="geo"><choice><orig>europe</orig><reg>Europe</reg></choice></name> come to <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> to <choice><orig>life</orig><reg>live</reg></choice> the dream of freedom.</s>
+        <s><name type="geo">America</name> was labeled as <quote>land with endless opportunities</quote>.</s>
+        <s>Of course it was, but especially for whites.</s>
+        <s>Colored people were used to have segregation, racism and discrimination in their everyday life.</s>
+      </p>
+      <p>
+        <s>Coming back to the context of the play, you can also say that the dream of <ref target="c11gk3_1" type="character">Walter</ref>, opening a liquor store and getting more wealthy, fits perfectly into this American Dream-idea <choice><orig>back-then</orig><reg>back then</reg></choice>.</s>
+        <s>It is like the topic of the dream <q>everyone can <choice><orig>achive</orig><reg>achieve</reg></choice> anything</q> with hard work and a bit luck, here the <q>starting-money</q> out of the paycheck from <ref target="c11gk3_1" type="character">Mama</ref>.</s>
+      </p>
+      <p>
+        <s>Also when you have a look on the dreams from the other family members of the family <ref target="c11gk3_1" type="character">Younger</ref>.</s>
+        <s>For example <ref target="c11gk3_1" type="character">Beneatha</ref>, who wants to become a doctor as a colored woman in the <date>1960s</date> to <date>70s</date>.</s>
+        <s>Here, one more <q><choice><orig>Dream-aspact</orig><reg>dream aspect</reg></choice></q> is that she is a woman and black.</s>
+        <s>So that was really a rare decision in that time, when woman and man was not as <choice><orig>eaquol</orig><reg>equal</reg></choice> as today.</s>
+      </p>
+      <p>
+        <s>To sum up, I can say that these dreams the characters have in the play fit really well into the time zeitgeist back then.</s>
+        <s>Overall the dreams and the ideas for the future are very outcomming and give a great impact, that all people, no matter the color or race, have dreams and get everything to achieve them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

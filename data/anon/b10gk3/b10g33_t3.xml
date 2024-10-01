@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g33_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the novel <ref target="b10gk3_1" type="character">Maverick</ref> has an argument with <ref target="b10gk3_1" type="character">Mr. Lewis</ref> about the <ref target="b10gk3_1" type="character">King Lords</ref>.</s>
+        <s>In the movie one can see <ref target="b10gk3_1" type="character">Mr. Lewis</ref> not a single time.</s>
+        <s>Also <ref target="b10gk3_1" type="character">King</ref> is not presented in the passage in the novel but in the film he is.</s>
+        <s>The main purpose of this sequence is to show the police brutality and the situation black people live in.</s>
+        <s>They have to stand up and fight for equal rights.</s>
+        <s>It was the right thing what <ref target="b10gk3_1" type="character">Starr</ref> did.</s>
+        <s>It was right that she filmed the whole situation to show how brutal the police is.</s>
+      </p>
+      <p>
+        <s>In the novel there is also one white police officer and one black officer.</s>
+        <s>It's an important thing that the black officer pulls <ref target="b10gk3_1" type="character">Maverick</ref> down for no acceptable reason.</s>
+        <s>He should be the one who has to be on the side of the black community.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g18_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech given by <ref target="a11gk2_1" type="speaker">Barack Obama</ref> on <date>7th November 2007</date> at <name type="geo">Bettendorf, Iowa</name>, is about the American Dream and the reasons to fight for it.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="a11gk2_1" type="speaker">Obama</ref> talks about the occasion and how near his homestate is.</s>
+        <s>Then he mentions the <surplus>the</surplus> problem of division according to the people in <name type="geo">Washington</name>.</s>
+      </p>
+      <p>
+        <s>In the following he compares these impressions to his own and points out how equal all people in their values and hopes are.</s>
+        <s>At this point he lists some important values.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> then goes on stating these values by telling how they led his grandfather to a better life.</s>
+      </p>
+      <p>
+        <s>He also illustrates how they helped his mother raising him under good conditions and how she passed on these values to him and his sister.</s>
+      </p>
+      <p>
+        <s>In the end he makes clear that these dreams led him to his life situation and that he knew even with only 12000$ a year that these values and these dreams are worth fighting for.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a11gk2_1" type="speaker">Obama</ref> points out how important the values of the American Dream are and that they are worth fighting for under any conditions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

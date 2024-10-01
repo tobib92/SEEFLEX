@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g43_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Canadian Friend,</salute>
+      </p>
+      <p>
+        <s>In the following I will give you <choice><orig>a</orig><reg>an</reg></choice> overview about the city <name type="geo">Berlin</name> and the advantages she has, in contrast to other <choice><orig>metropoles</orig><reg>metropolises</reg></choice> in <choice><orig>europe</orig><reg>Europe</reg></choice>.</s>
+        <s>My text based on a newspaper article <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref> <foreign xml:lang="de">von</foreign> <ref target="a12gk4_2" type="author">Marina Kormbaki</ref> published on <date>15. July 2016</date>.</s>
+      </p>
+      <p>
+        <s>First of all <name type="geo">Berlin</name> has over five million people there and is one of the biggest <choice><orig>metropols</orig><reg>metropolises</reg></choice> in <choice><orig>europe</orig><reg>Europe</reg></choice>.</s>
+        <s><name type="geo">Berlin</name> is therefore kind of similar with <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name>, also because <name type="geo">Berlin</name> has a lot of tourists and citizens, who <choice><orig>speaks</orig><reg>speak</reg></choice> <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>The culture and also the society based not of the <choice><orig>german</orig><reg>German</reg></choice> language.</s>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice> a coloured mix of languages, cultures and markets.</s>
+        <s>Nearly all restaurants are in	<choice><orig>english</orig><reg>English</reg></choice> and <choice><orig>german</orig><reg>German</reg></choice> and the prices are very <choice><orig>aceptable</orig><reg>acceptable</reg></choice> for students, compared with for example <name type="geo">London</name>.</s>
+        <s>It gives a kind of library, where books in <choice><orig>english</orig><reg>English</reg></choice> are trading and sometimes a person is reading for all.</s>
+        <s><name type="geo">Berlin</name> has also a big hype because of the night life, so many bars, clubs and restaurants with good drinks and meals for a realistic price.</s>
+        <s>So you do not need to learn living in <name type="geo">Berlin</name>, it is like living in every other <choice><orig>metropole</orig><reg>metropolis</reg></choice>.</s>
+        <s>Your possibilities are without ending, because the city lives and it gives enough <choice><orig>universitys</orig><reg>universities</reg></choice> and <choice><orig>peoples</orig><reg>people</reg></choice> for you in a few parts of <name type="geo">Berlin</name> you <choice><orig>listens</orig><reg>hear</reg></choice> only <choice><orig>english</orig><reg>English</reg></choice> or other foreign languages.</s>
+        <s>I swear you, that <choice><orig>english</orig><reg>English</reg></choice> is really enough to have a nice time in <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s>So, if <choice><orig>that</orig><reg>these</reg></choice> <choice><orig>is</orig><reg>are</reg></choice> not enough reasons for you to <choice><orig>went</orig><reg>go to</reg></choice> <name type="geo">Berlin</name>,you can search more <choice><orig>informations</orig><reg>information</reg></choice> in the internet.</s>
+        <s>I hope I see you soon,</s>
+      </p>
+    </body>
+  </text>
+</TEI>

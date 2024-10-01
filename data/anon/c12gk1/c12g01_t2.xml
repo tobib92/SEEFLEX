@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the <ref target="c12gk1_1" type="title">Sonnet 116</ref>, creates he speaker the idea of an unlimited, <choice><orig>stabile</orig><reg>stable</reg></choice>, strong love, which exists till death and is stronger than <quote>every storm</quote>.</s>
+        <s>This idea of love gets supported in different way through the use of structure and language.</s>
+      </p>
+      <p>
+        <s>First of all, the sonnet's structure is based on the Shakespearean form: It is divided into three quatrains, for each four lines, and a closing couplet, two lines only.</s>
+        <s>It follows, that the sonnet, with in total 14 lines, is written in the iambic pentameter and has rhyme-scheme <name type="misc">abab cdcd efef gg</name>.</s>
+      </p>
+      <p>
+        <s>The structure of the sonnet supports the idea of the speaker's love in the way, that it <choice><orig>devides</orig><reg>divides</reg></choice> the sonnet's sections in what love actually is and what it shouldn't be.</s>
+        <s>So the first and the third quatrain deal with the negation (what love isn't) and only the second quatrain deals with the information, what love really is.</s>
+      </p>
+      <p>
+        <s>As well as that, this not only supports and highlights the direct definition of love in the second quatrain <ref target="c12gk1_1" type="line">(cf. vv. 5-8)</ref>, but it also emphasizes the climax in the sonnet.</s>
+        <s>For example is the change of love and the alteration of life - less an abstacle or a problem <choice><orig>then</orig><reg>than</reg></choice> the end of your own life, due to an not changeable happening - death.</s>
+        <s>So these both quatrains also stay in contrast with each other: first of all, (quatrain one) love shouldn't fade away, because of change and <choice><orig>obsticles</orig><reg>obstacles</reg></choice> in life and love, but the only thing love can be stopped by is a not stoppable event (quatrain three).</s>
+      </p>
+      <p>
+        <s>In addition to that, the closing couplet highlights the conclusion of the speaker by the <choice><orig>seperation</orig><reg>separation</reg></choice> of the last two verses.</s>
+        <s>So the speaker's idea gets proved, because every man loved once and he writes poetry (love poems).</s>
+      </p>
+      <p>
+        <s>This shows and emphasizes, that everything he mentioned in the quatrains before gets <choice><orig>varified</orig><reg>verified</reg></choice>, because the speaker himself <choice><orig>nows</orig><reg>knows</reg></choice> the effects of love.</s>
+      </p>
+      <p>
+        <s>Lastly the rhyme <choice><orig>schema</orig><reg>scheme</reg></choice> highlights the <choice><orig>seperation</orig><reg>separation</reg></choice> of the quatrains and the closing couplet.</s>
+        <s>It also shows (again) the importance of the closing couplet by <choice><orig>repeting</orig><reg>repeating</reg></choice> the ending twice <name type="misc">(gg)</name>.</s>
+      </p>
+      <p>
+        <s>But not only the structure of the sonnet, also the word fields underline the idea of love being strong, limitless and <choice><orig>unchangable</orig><reg>inchangeable</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Firstly many words around the topic seafaring get used, <choice><orig>exspecially</orig><reg>especially</reg></choice> in the second quatrain.</s>
+        <s>Therefore love is <choice><orig>a</orig><reg>an</reg></choice> <quote>ever-fixèd mark</quote> <ref target="c12gk1_1" type="line">(v. 5)</ref>, or <quote>wandering bark</quote> <ref target="c12gk1_1" type="line">(v. 7)</ref> and <quote>tempests</quote> <ref target="c12gk1_1" type="line">(v. 6)</ref> get mentioned.</s>
+      </p>
+      <p>
+        <s>Secondly the first quatrain contains words around the word field obstacles and change <quote>alters</quote> <ref target="c12gk1_1" type="line">(v. 3)</ref>, <quote>bends</quote> <ref target="c12gk1_1" type="line">(v. 4)</ref> and <quote>impediments</quote> <ref target="c12gk1_1" type="line">(v. 2)</ref>, which highlights the fact what love shouldn't be.</s>
+      </p>
+      <p>
+        <s>In the last quatrain you can find words around the topic time.</s>
+        <s>For example <quote>time's fool</quote> <ref target="c12gk1_1" type="line">(v. 9)</ref>, <quote>sickle's compass come</quote> <ref target="c12gk1_1" type="line">(v. 10)</ref> and <quote>edge of doom</quote> <ref target="c12gk1_1" type="line">(v. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>These imageries underline the fact, that love shouldn't be bounded on time but you should enjoy the time you have with your loved one.</s>
+      </p>
+      <p>
+        <s>Furthermore, there are many stylistic devices used to support the idea of an guiding and strong love.</s>
+      </p>
+      <p>
+        <s>First of all starts the sonnet with a personification <ref target="c12gk1_1" type="line">(cf. v. 1)</ref> and <choice><orig>an</orig><reg>a</reg></choice> negation.</s>
+        <s>This hightlights the fact, that love isn't a marriage inwhich only compromised are made and every part of the relationship is unhappy.</s>
+      </p>
+      <p>
+        <s>Furthermore, with the use of an antithesis and negation <quote>love is not love</quote> <ref target="c12gk1_1" type="line">(v. 2)</ref> and two anaphoras <ref target="c12gk1_1" type="line">(cf. v. 3f.)</ref>, the speaker underlines that real love is based on unlimited focus on one person and that it isn't real of one partner in the relationship is constantly searching for change and alters his mind.</s>
+        <s>The person, who searches for change, gets presented or stays in focus and somebody, who actively isn't interested in love and is the cause of any problematics.</s>
+        <s>Furthermore isn't it real and deep love he's feeling, because he is searching for alternatives for focussing on the person, <choice><orig>a</orig><reg>an</reg></choice> anaphora gets used as well <ref target="c12gk1_1" type="line">(cf. v. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>The second quatrain starts with an exclamation <ref target="c12gk1_1" type="line">(cf. v. 5)</ref>, to point out the contrast between the second and the first quatrain and that now love as what it is gets described.</s>
+        <s>Wither the use of <choice><orig>an</orig><reg>a</reg></choice> metaphor <quote>ever-fixed mark</quote> <ref target="c12gk1_1" type="line">(v. 5)</ref> gets the idea of love as something shining and therefore positively, strong and solid supported.</s>
+        <s>This gets also <choice><orig>verrified</orig><reg>verified</reg></choice> by another <choice><orig>metapher</orig><reg>metaphor</reg></choice> in verse six: the star guides the lost boats through the night, <choice><orig>savely</orig><reg>safely</reg></choice> because it stays an <gap reason="illegible" quantity="1" unit="word">bir</gap> fixed plays.</s>
+        <s>This means, that love is a feeling or a person who/which gives you trust and security, which/who guides you and helps you through fifferent and heard situations.</s>
+        <s>It follows that the metaphor of the <quote>wondering bark</quote> <ref target="c12gk1_1" type="line">(v. 7)</ref> is also a <choice><orig>symbole</orig><reg>symbol</reg></choice> for the once, who feel lost in life or other situations and <choice><orig>whos</orig><reg>whose</reg></choice> only help are security and love.</s>
+      </p>
+      <p>
+        <s>As well as that gets the landmark/stark, therefore loves, personificated.</s>
+        <s>This personification, <ref target="c12gk1_1" type="line">(cf. v. 6)</ref>, as well as that another metaphor <ref target="c12gk1_1" type="line">(cf. v. 6)</ref>, support, that real love should overcome any discussions and problematics easily.</s>
+        <s>In this case the <quote>tempests</quote> <ref target="c12gk1_1" type="line">(v. 6)</ref> is a metaphor for any discussions and the dact that the landmark <quote>is never shaken</quote> the personification <ref target="c12gk1_1" type="line">(v. 6)</ref>.</s>
+      </p>
+      <p>
+        <s>But, even if love give security, no one knows how to find the night one to partner with, and even if you find your loved one, you can ffel disappointed or sad, because you feel no distanced between you and you love.</s>
+        <s>So that you have the feeling of reaching this person, but can't build up a connection, became you don't know <choice><orig>there</orig><reg>their</reg></choice> value.</s>
+        <s>This idea also <choice><orig>get</orig><reg>gets</reg></choice> supported by different stylistic devices: two alliterations <ref target="c12gk1_1" type="line">(v. 8)</ref>, <choice><orig>an</orig><reg>a</reg></choice> contrast <ref target="c12gk1_1" type="line">(v. 8)</ref> and a metaphor <ref target="c12gk1_1" type="line">(v. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>The metaphor shows the not existing distance based on room between two persons and the alliteration with the antithesis show, that there is a distance, because the lover doesn't know the values.</s>
+      </p>
+      <p>
+        <s>In the last quatrain again, negation supports the idea of love <ref target="c12gk1_1" type="line">(cf. v. 9)</ref>.</s>
+        <s>But this time the negation gets supported by the use of a metaphor and personification - <quote>time's fool</quote> <ref target="c12gk1_1" type="line">(v. 5)</ref>.</s>
+        <s>This shows, that's real love isn't <choice><orig>dependend</orig><reg>dependent</reg></choice> on time and is limitless.</s>
+        <s>Even if following the contrast shows the end of the unlimited love through death this also <choice><orig>get</orig><reg>gets</reg></choice> highlighted through different stylistic devices: an antithesis <ref target="c12gk1_1" type="line">(cf. v. 9)</ref>, a <choice><orig>symbole</orig><reg>symbol</reg></choice> for the death <ref target="c12gk1_1" type="line">(cf. v. 10)</ref> and another metaphor <ref target="c12gk1_1" type="line">(cf. v. 9)</ref>, standing for the life in contrast to the death, meaning, that everything <gap reason="illegible" quantity="1" unit="word">ro</gap> lively needs to die, love doesn't alter.</s>
+      </p>
+      <p>
+        <s>In fact of you really love someone death <choice><orig>connectes</orig><reg>connects</reg></choice> the partner even more, becuas they stay together till the end <ref target="c12gk1_1" type="line">(cf. v. 12)</ref>.</s>
+        <s>The idea of this connection <choice><orig>get</orig><reg>gets</reg></choice> supported by a metaphor, too <ref target="c12gk1_1" type="line">(cf. v. 12)</ref>.</s>
+        <s>But this <choice><orig>methaphor</orig><reg>metaphor</reg></choice> <quote>edge of doom</quote> <ref target="c12gk1_1" type="line">(v. 12)</ref> stays in contrast to the first metaphor, because the meaning of death is more positive and connected with an afterlife.</s>
+      </p>
+      <p>
+        <s>Lastly, the importance of the closing couplet gets highlighted by the use of parallelism <ref target="c12gk1_1" type="line">(v. 14)</ref>.</s>
+        <s>Therefore real love exists, because if it would get proven wrong, this speaker would write love poems or nobody would love.</s>
+      </p>
+      <p>
+        <s>In summary the idea of a story unbreakable and romantic Love gets mainly emphasized by metaphors and symbols, representing love as a star and therefore as a guide, also by negations, to show what love isn't.</s>
+        <s>As well as that the idea gets supported structure to <choice><orig>seperate</orig><reg>separate</reg></choice> the different <choice><orig>defenitions</orig><reg>definitions</reg></choice> of love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

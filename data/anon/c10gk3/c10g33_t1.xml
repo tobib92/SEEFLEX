@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g33_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Reece</name> says that he realises the struggles of his <choice><orig>Grandparents</orig><reg>grandparents</reg></choice>, <choice><orig>beacause</orig><reg>because</reg></choice> he still gets racially profiled and discriminated against often, but he knows it's not as bad as it used to be and he thanks his <choice><orig>Grandparents</orig><reg>grandparents</reg></choice> for that.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>When <ref target="c10gk3_1" type="author">Lee Jasper</ref> says this he means that the slavery background of the <name type="geo">UK</name> is not forgotten and still rests with a large part of the population and it can lead to discrimination even today.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>He says that even though slavery is long gone its legacy remains and legacy in this case is racism and discrimination.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>The leaders and artists are trying to change or forget about their legacy of slavery and instead try to inspire and lift the young generation up with music and other forms of entertainment and communication.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s><choice><orig>Hes</orig><reg>He's</reg></choice> saying that times are changing for the better for black <choice><orig>communitys</orig><reg>communities</reg></choice> now more <choice><orig>then</orig><reg>than</reg></choice> ever, with black people taking these large positions in <choice><orig>socity</orig><reg>society</reg></choice>.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s><choice><orig>Hes</orig><reg>He's</reg></choice> saying that lots of black people have recognized that life is getting better but they know it can get even better and that what they are hoping for.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

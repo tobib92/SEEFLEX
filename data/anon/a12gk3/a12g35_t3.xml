@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g35_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <date>30.11.2021</date>
+      </p>
+      <p>
+        <salute>Dear John Worne,</salute>
+      </p>
+      <p>
+        <s>I read your article in <name type="misc">The Telegraph</name> and I liked it, but I'm not agree with your opinion.</s>
+        <s>To my mind is language learning <choice><orig>superflous</orig><reg>superfluous</reg></choice>, because we have the technological <choice><orig>ressources</orig><reg>resources</reg></choice> today.</s>
+        <s>I don't need foreign languages because I can translate everything with my computer or smartphone.</s>
+        <s>Cultural export is not impossible without linguists, because <choice><orig>translaters</orig><reg>translators</reg></choice> are much better than humans.</s>
+        <s>The Internet is maybe not perfect today, but it will be in many years.</s>
+      </p>
+      <p>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice><choice><orig>superflous</orig><reg>superfluous</reg></choice> to learn foreign language, because in many years nobody in my country makes use of them and to communicate with other people who <choice><orig>speeks</orig><reg>speak</reg></choice> another language, I don't need to <choice><orig>speek</orig><reg>speak</reg></choice> their language.</s>
+      </p>
+      <p>
+        <signed>With nice greetings, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

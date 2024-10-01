@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g19_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello John,</salute>
+      </p>
+      <p>
+        <s><choice><orig>you</orig><reg>You</reg></choice> asked me in your previous email about the article and what <name type="misc">KLS goes green</name> is.</s>
+      </p>
+      <p>
+        <s>As you know, I am a student at the KLS and I actually took part in the project <name type="misc">KLS goes green</name>.</s>
+        <s>So the article is written by <ref target="b12gk2_2" type="author">Joachim Neubauer</ref> and was published on the <date>19th November in 2019</date>, in the <name type="misc">Kölner Stadtanzeiger</name> <add>a newspaper</add>.</s>
+      </p>
+      <p>
+        <s>The article starts with questions concerning sustainability and ways to <choice><orig>life</orig><reg>live</reg></choice> a <choice><orig>green-lifestyle</orig><reg>green lifestyle</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Then the journalist describes that my school thought about possible ways to do something for the environment and life sustainable and that is why we founded the programm <name type="misc">KLS goes green</name>.</s>
+        <s>This is a day where everyone has a free day to take part in workshops which students and teachers concipated and planned concerning certain aspects of sustainability.</s>
+        <s>He describes this day in <date>2019</date> and gives background information how this project came into life.</s>
+      </p>
+      <p>
+        <s>In the last years the teachers noticed that the students were interested in changing their lifestyle and becoming more sustainable, especially through <name type="misc">Fridays for Future</name>.</s>
+      </p>
+      <p>
+        <s>Then he quotes my teacher <name type="person">Mr Clemm</name> who says that many students took part in the movement.</s>
+      </p>
+      <p>
+        <s>Also in our <choice><orig>schoolcouncil</orig><reg>school council</reg></choice>, from the students, was interested in environment and clima protection, that is why they invented this day.</s>
+        <s>To empower our engagement and interest towards this topic.</s>
+        <s>Then the journalist goes over some of the workshops and ideas.</s>
+        <s>For example there were workshops to learn about a sustainable use of water, foodsharing, a <choice><orig>secondhand</orig><reg>second-hand</reg></choice> <choice><orig>flewmarket</orig><reg>flea market</reg></choice> etc.</s>
+        <s>Then we had an interview with two students who ran a fairtrade café, meaning they sold vegan waffles and fairtrade cakes to show taht vegan and sustainable products also taste good.</s>
+      </p>
+      <p>
+        <s>Additionally the author talks about two <choice><orig>poetry-slammers</orig><reg>poetry slammers</reg></choice> who visited our school and a workshop about writing and why your performance is very important.</s>
+        <s>The poetry slammers and the students wrote critical poetry about the laws and climate change.</s>
+        <s>They also wanted to teach the children how the performance influences your position if you have a <choice><orig>debatte</orig><reg>debate</reg></choice> about climate.</s>
+        <s>In the end he summarizes the enthusiasm of the students and that we willl repeat this day.</s>
+      </p>
+      <p>
+        <s>So that was it.</s>
+        <s>I think he explained and described the project pretty good.</s>
+        <s>If you have more questions you can always ask me.</s>
+      </p>
+      <p>
+        <s>Hope I could help you.</s>
+      </p>
+      <p>
+        <signed>Love, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

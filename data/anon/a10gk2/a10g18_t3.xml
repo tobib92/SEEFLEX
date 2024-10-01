@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g18_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> the author <ref target="a10gk2_1" type="author">Brian Pollard</ref> states that <quote>[...] in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+      </p>
+      <p>
+        <s>In my opinion this statement is only partly correct and the author is only right to a certain degree.</s>
+      </p>
+      <p>
+        <s>It may be true that unions are in some cases less benefitial than harmful but in most cases all around the world workers are still mistreated and exploited.</s>
+        <s>Mr. <ref target="a10gk2_1" type="author">Pollard's</ref> <choice><orig>statment</orig><reg>statement</reg></choice> that employers are exploited may be right for workers that work under unions or workers in a country with laws against the mistreatment of workers.</s>
+        <s>But many workers around the world would greatly benefit from working under a union and they need to be helped.</s>
+        <s>Just because a few workers are exploiting the plan in the concept of unions doesn't mean that all other workers aren't dependent on this help.</s>
+        <s>In class we learned that workers in <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name> have to run into buildings that are lit on fire to get labels for their products because without the labels they would sell for much less.</s>
+        <s>And this is a perfect example of why unions aren't exploited but they are needed to prevent such a dangerous accident.</s>
+      </p>
+      <p>
+        <s>All of this summarized means that unions might be exploited and a problem for employers but for employees it is a much bigger problem to work without a union.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g44_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>I don't know if you heard, but two weeks ago an <choice><orig>eight-teen year old</orig><reg>eighteen-year-old</reg></choice> Afro-American man got shot.</s>
+        <s>I wanted to finorm you about it and ask if you could give me a bit of information about how you experienced racism / discrimination against <choice><orig>african-americans</orig><reg>African Americans</reg></choice>.</s>
+        <s>In America you have a significant higher risk to get imprisoned when you are black and also you have a way higher chance to get searched <choice><orig>wether</orig><reg>whether</reg></choice> while driving or while being on the street.</s>
+        <s>The chance that the search is rough is also higher for black people.</s>
+        <s>It is also mentioned in the text I used as a basis for this, that black people get also discriminated in the educational system.</s>
+        <s>For example are there much more white people that make qualifications in school than black people.</s>
+        <s>Black people have <choice><orig>an</orig><reg>a</reg></choice> lesser rate for attending <choice><orig>highschool</orig><reg>high school</reg></choice> or college.</s>
+        <s>And even if they do a bachelor or a higher academical degree is more likely to be achieved by a white person.</s>
+        <s><choice><orig>but</orig><reg>But</reg></choice> the discrimination does not stop in the school system it also transfers to getting a job.</s>
+        <s>A black perosn, that has a good degree is still more likely to be jobless than a white person.</s>
+        <s>More than a quarter of black people are on the poor side of society whilte <choice><orig>its</orig><reg>it's</reg></choice> a rate less than one tenth for white people.</s>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice> sad that even after 50 years passed in <choice><orig>wich</orig><reg>which</reg></choice> the discrimination ended <choice><orig>African-Americans</orig><reg>African Americans</reg></choice> are still discriminated against.</s>
+        <s>I guess that is how society is and they discriminate because it goes only ended on paper, meaning that laws that discriminate black people got removed.</s>
+      </p>
+      <p>
+        <signed>Greetings, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

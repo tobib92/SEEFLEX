@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g31_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is a <choice><orig>Newspaper</orig><reg>newspaper</reg></choice> <choice><orig>Article</orig><reg>article</reg></choice> written by <ref target="a12gk3_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on <date>27th January 2015</date>.</s>
+        <s>It's named <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> and deals with the learning of foreign languages in the UK.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> structures his text in ten paragraphs which have a length from 2-5 lines.</s>
+      </p>
+      <p>
+        <s>In the first paragraph <ref target="a12gk3_1" type="author">Worne</ref> tells the reader that the number of <name type="geo">UK</name> students who choosing study foreign languages at university level sank in the past seven years.</s>
+      </p>
+      <p>
+        <s>In the second paragraph <ref target="a12gk3_1" type="author">John Worne</ref> writes that there is a drop of language <name type="misc">A-level</name> exams and <gap reason="illegible" quantity="1" unit="word">Malern</gap> foreign language <choice><orig>Exams</orig><reg>exams</reg></choice> in comparison to the <choice><orig>End</orig><reg>end</reg></choice> of the 1990s.</s>
+      </p>
+      <p>
+        <s>In the next paragraph, <ref target="a12gk3_1" type="author">John Worne</ref> criticise the people who buy that there is nothing to worry about because everyone in the world is speaking English so the native English speaker from the <name type="geo">UK</name> <choice><orig>don't</orig><reg>doesn't</reg></choice> need other languages.</s>
+      </p>
+      <p>
+        <s>In the following paragraph he <choice><orig>mention</orig><reg>mentions</reg></choice> that language learning is very important for much aspects for example the future prosperity and the global standing from the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>In the sixth paragraph the author underline that the learning of foreign languages is very important for two-thirds of the <name type="geo">UK</name> businesses.</s>
+        <s>Furthermore he <choice><orig>mention</orig><reg>mentions</reg></choice> the problem that many of this businesses often trust more and translators than in the home-grown talent.</s>
+      </p>
+      <p>
+        <s>In the next paragraph <ref target="a12gk3_1" type="author">Worne</ref> says that the only positive point in that topic is that no more universities offered to combine a subject with studying a new language.</s>
+        <s>But <ref target="a12gk3_1" type="author">Worne</ref> also clearly <choice><orig>demand</orig><reg>demands</reg></choice> by the students that they should use this offer.</s>
+      </p>
+      <p>
+        <s>In the eight paragraph <ref target="a12gk3_1" type="author">Worne</ref> wrtites that in many jobs nowadays <choice><orig>its</orig><reg>it's</reg></choice> more in demand when employers have a attractive combination of specialist and linguist knowledge.</s>
+      </p>
+      <p>
+        <s>In the following paragraph <ref target="a12gk3_1" type="author">John Worne</ref> clearly <choice><orig>say</orig><reg>says</reg></choice> that more of the young people in the <name type="geo">UK</name> have to improve their language skills.</s>
+      </p>
+      <p>
+        <s>And in the last paragraph he writes about the duty of every single parent in the <name type="geo">UK</name> to see that their kids develop their language skills.</s>
+        <s>As possible opportunity for that he calls or cultural shift in homes.</s>
+        <s>Besides he clearly <choice><orig>mention</orig><reg>mentions</reg></choice> that the school and education system can't solve this problem completely alone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

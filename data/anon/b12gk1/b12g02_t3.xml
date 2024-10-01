@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g02_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>I read today your opening speech from the <date>1st of November 2021</date> of the <name type="misc">COP26</name> in <name type="geo">Glasgow</name>.</s>
+      </p>
+      <p>
+        <s>And I want you to tell you, that you are an asshole.</s>
+      </p>
+      <p>
+        <s>I <choice><orig>life</orig><reg>live</reg></choice> with my five kids in a small flat in the ghetto in <name type="geo">West Cologne</name>.</s>
+      </p>
+      <p>
+        <s>The the cities in the northern and southern countries are crowded, due to the rising temperatures in the equator are <choice><orig>to</orig><reg>too</reg></choice> high for human living.</s>
+        <s>Do you remember your sentence <quote>And let us think of the billions more of the urban, whose anger will be all the greater if we fail</quote>?</s>
+        <s>YES IT IS.</s>
+      </p>
+      <p>
+        <s>My five kids have to <choice><orig>life</orig><reg>live</reg></choice> with me in this ghetto, their mother died in the <foreign xml:lang="de">flut</foreign> <date>2036</date>, again due to climate change.</s>
+        <s>It was the biggest <foreign xml:lang="de">flut</foreign> the man-kind has even seen.</s>
+        <s>And as an lonely father, who won't make much money, me and my family are poor and have to <choice><orig>life</orig><reg>live</reg></choice> in these ghettos.</s>
+      </p>
+      <p>
+        <s><quote>We cannot let them down</quote> hahaha.</s>
+        <s>You let them down.</s>
+        <s>your words have just <quote>blah blah blah</quote>, the catastrophes it's getting worse, until the point they were <choice><orig>unreversebel</orig><reg>irreversible</reg></choice>.</s>
+      </p>
+      <p>
+        <s>You had no ideas, just wanted to keep your job and the cruel thing is, you did, Mr. Prime Minister.</s>
+        <s><quote>But you never know</quote>, know you know, but you failed.</s>
+      </p>
+      <p>
+        <s>Furthermore, here, in these ghettos, we only have <gap reason="illegible" quantity="1" unit="word">vastables</gap>.</s>
+      </p>
+      <p>
+        <s>The rising clear the rainforest killed 89.9% of the animal diversity.</s>
+        <s>Chronicle that you banned <name type="misc">Greenpeace</name>, do you remember <quote>We have the corporations and the NGOs</quote>?</s>
+      </p>
+      <p>
+        <s>And cows etc. were killed, because their <choice><orig>methan</orig><reg>methane</reg></choice> produced <choice><orig>to</orig><reg>too</reg></choice> much CO2.</s>
+      </p>
+      <p>
+        <s>But I think can you eat meat, you eat something of the 0.1% that is still alive.</s>
+      </p>
+      <p>
+        <s>All of your promises, your plans and strategies <choice><orig>were</orig><reg>where</reg></choice> wrong.</s>
+      </p>
+      <p>
+        <s>And because of what?</s>
+        <s>For money?</s>
+        <s>The world is destroyed?</s>
+        <s>Wake up!</s>
+        <s>But you will die soon, so you don't have to care, congratulations.</s>
+        <s>I hope good times will come back.</s>
+      </p>
+      <p>
+        <signed>With much hate, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

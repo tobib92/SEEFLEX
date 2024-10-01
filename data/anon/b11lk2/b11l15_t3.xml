@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l15_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Five years.</s>
+        <s>In the time of five years an infant is born and can learn to walk, speak and learn a language.</s>
+        <s>Five years are long time in which a person can change drastically, every decision and every acquaintance changing them.</s>
+        <s>Change is good and change is necessary.</s>
+      </p>
+      <p>
+        <s>With <ref target="b11lk2_1" type="character">Daisy</ref> <ref target="b11lk2_1" type="character">Gatsby</ref> aims to revive the past and build the exact the relationship he had five years ago.</s>
+        <s>It is understandable that one misses someone else and wants to live with them again or have a time like they had before, but <ref target="b11lk2_1" type="character">Gatsby</ref> <choice><orig>want</orig><reg>wants</reg></choice> to relive the past, not taking into <choice><orig>acount</orig><reg>account</reg></choice> that <ref target="b11lk2_1" type="character">Daisy</ref> has changed over the years and that she has loved others and even raised a child.</s>
+        <s>What <ref target="b11lk2_1" type="character">Gatsby</ref> all did for <ref target="b11lk2_1" type="character">Daisy</ref> can be seen as a display of love and affection, but it also shows <ref target="b11lk2_1" type="character">Gatsby's</ref> obsession.</s>
+        <s>With every year he worked to afford the mansion, every party he threw and every real book and every detail he put into his house, he gets more wrapped up in his idea of the revival of the past bending everything to perfection.</s>
+        <s>Instead of asking <ref target="b11lk2_1" type="character">Daisy</ref> about her feelings and paying attention to her needs, he overwhelms her and ask her to say, that she had never loved <ref target="b11lk2_1" type="character">Tom</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> is too focused on his aim and pursuing the perfect planned life that he becomes blind to the opportunities and flaws of his relationship with <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>Instead of building a new life, he tries to recreate the old one.</s>
+        <s>Which is impossible because the circumstances and <ref target="b11lk2_1" type="character">Daisy</ref> have changed.</s>
+      </p>
+      <p>
+        <s>It is possible to achieve a good relationship with someone you have not meet in a long time.</s>
+        <s>But due to the change, that time <choice><orig>bring</orig><reg>brings</reg></choice> with it, the relationship will not exactly be the same.</s>
+        <s>It doesn't have to be.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

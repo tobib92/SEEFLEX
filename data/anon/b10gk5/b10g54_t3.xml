@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g54_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk5_1" type="title">The Hate U Give</ref> didn't really impressed me so much, but it was still a good film with a good message.</s>
+        <s>Usually I'm a person who likes action films which are realistic.</s>
+        <s>But <choice><abbr>THUG</abbr><expan><ref target="b10gk5_1" type="title">The Hate U Give</ref></expan></choice> is a film, which supports the <name type="misc">black lives matter</name> movements very much and <choice><orig>show's</orig><reg>shows</reg></choice> how it feels to be in a difficult situation of a black girl.</s>
+        <s>It <choice><orig>show's</orig><reg>shows</reg></choice> how a young girl doesn't give up and does everything to stop racism.</s>
+        <s>I don't really engage in this topic, but I fully support it.</s>
+        <s>That's what I really liked in <choice><abbr>THUG</abbr><expan><ref target="b10gk5_1" type="title">The Hate U Give</ref></expan></choice>.</s>
+        <s>And the title is good chosen too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

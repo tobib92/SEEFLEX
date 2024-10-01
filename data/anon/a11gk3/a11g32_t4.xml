@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g32_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>to:<email>americanfriend@gmx.com</email>
+		from:<email>johnsm@gmx.de</email>
+		<s>RE: racial differences are still so present and cruel in the USA?</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>I am currently reading the novel <name type="misc">The Hate U Give</name> in my <choice><orig>english</orig><reg>English</reg></choice> class at school.</s>
+        <s>So I was searching around the <choice><orig>Internet</orig><reg>internet</reg></choice>, trying to find out, if racism is still a big problem <surplus>problem</surplus> in the <name type="geo">USA</name>, as it is described in the novel.</s>
+        <s>After some time I found this <choice><orig>Article</orig><reg>article</reg></choice> and I really can not belive it.</s>
+      </p>
+      <p>
+        <s>The title of the article is <ref target="a11gk3_2" type="title">Black people in the USA: the racism is measurable</ref>.</s>
+        <s>It's written by <ref target="a11gk3_2" type="author">Alexandra Endres</ref> and was published on <name type="misc">Zeit online</name>, a <choice><orig>german</orig><reg>German</reg></choice> <choice><orig>buisness</orig><reg>business</reg></choice> mainly for news, the <date>25th August 2014</date>.</s>
+      </p>
+      <p>
+        <s>There are still racial differences, because black people stay deprived, even 50 years after the <choice><orig>seperation</orig><reg>separation</reg></choice> of races officially ended, the <choice><orig>titel</orig><reg>title</reg></choice> sentence says.</s>
+      </p>
+      <p>
+        <s>The article starts with telling the reader that <choice><orig>a</orig><reg>an</reg></choice> 18 year old boy, who was Afro-American, got shot by a police officer in <name type="geo">Ferguson</name> two weeks before the article aired.</s>
+        <s>So you can still feel the <choice><orig>seperation</orig><reg>separation</reg></choice> in society, but not only in <name type="geo">Ferguson</name>.</s>
+        <s>The article gives examples for <choice><orig>disadventaged</orig><reg>disadvantaged</reg></choice> black people, in form of statistics from the <name type="geo">USA</name>.</s>
+        <s>The author names the higher rate of black men get in a police control, through stop and frisk, more often.</s>
+        <s>He says that even 50 years after the congress under the president <name type="person"><choice><orig>Lynden B. Jonson</orig><reg>Lyndon B. Johnson</reg></choice></name> did the <name type="misc">Civil Rights <choice><orig>act</orig><reg>Act</reg></choice></name>, <choice><orig>afro americans</orig><reg>Afro-Americans</reg></choice> are generally still in <choice><orig>a</orig><reg>an</reg></choice> economic and social <choice><orig>disadventage</orig><reg>disadvantage</reg></choice>.</s>
+        <s>Examples for this are the missing education, unemployment and poverty.</s>
+        <s>For each of these examples he gives statistics, which speak for themselves.</s>
+      </p>
+      <p>
+        <s>I think this <choice><orig>can not</orig><reg>cannot</reg></choice> stay how it is and wondered if you have any experiences, towards this topic or an opinion.</s>
+        <s>If you do, let me know!</s>
+      </p>
+      <p>
+        <signed>Best wishes, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

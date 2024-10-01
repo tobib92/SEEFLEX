@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g33_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b10gk3_1" type="title">The Hate U Give</ref> is an American drama film which was directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>, based on the novel of the same name by <ref target="b10gk3_1" type="author">Angie Thomas</ref>.</s>
+        <s>It is a story about a black teenager, <ref target="b10gk3_1" type="character">Starr Carter</ref>, who witnesses the shooting of the friend <ref target="b10gk3_1" type="character">Khalil</ref> by a white police officer.</s>
+        <s>The story unfolds after the time of the killing, describing how <ref target="b10gk3_1" type="character">Starr</ref> deals with the situation.</s>
+      </p>
+      <p>
+        <s>The given sequence takes place in the middle of the movie, right after <ref target="b10gk3_1" type="character">Starr</ref> gave her interview on <choice><abbr>TV</abbr><expan>television</expan></choice>.</s>
+        <s><ref target="b10gk3_1" type="character">Starr</ref> and her family have dinner at a restaurant.</s>
+        <s>They start eating and <ref target="b10gk3_1" type="character">Starr</ref> looks outside.</s>
+        <s>She sees <ref target="b10gk3_1" type="character">King</ref> and two other gang members of the <ref target="b10gk3_1" type="character">King Lords</ref> in front of the restaurant.</s>
+        <s><ref target="b10gk3_1" type="character">Maverick</ref>, her father, sees them too and decides to go outside to have a fight with <ref target="b10gk3_1" type="character">King</ref>.</s>
+        <s>When the police arrives, <ref target="b10gk3_1" type="character">King</ref> and the gang members disappear and they ask <ref target="b10gk3_1" type="character">Maverick</ref> if he has a problem.</s>
+        <s>The police officer, who is also black like <ref target="b10gk3_1" type="character">Maverick</ref>, pushes him to the ground for no acceptable reason.</s>
+        <s>Then <ref target="b10gk3_1" type="character">Starr</ref> and other people film the situation and the police officers decide to drive away.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

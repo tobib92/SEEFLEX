@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g51_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyze how the director presents <ref target="b10gk5_1" type="character">Chris</ref> in the sequence while putting special emphasis on the film-stylistic devices that the director used to present <ref target="b10gk5_1" type="character">Chris</ref> and his relationship with <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>The establishing shot of the sequence is <choice><orig>an</orig><reg>a</reg></choice> medium longshot, of <ref target="b10gk5_1" type="character">Chris</ref> walking through the school hallway and <choice><orig>greating</orig><reg>greeting</reg></choice> his friends.</s>
+        <s>This shot was used to introduce <ref target="b10gk5_1" type="character">Chris</ref> to the audience.</s>
+      </p>
+      <p>
+        <s>The director wanted to present <ref target="b10gk5_1" type="character">Chris</ref> as <choice><orig>an</orig><reg>a</reg></choice> very cool, popular guy, who has lots of friends.</s>
+        <s>During this shot the director, also made use of the song <name type="misc">Ocean Eyes</name>.</s>
+        <s>This song is a love song about a girl, who thinks about <choice><orig>boys</orig><reg>boy's</reg></choice> ocean eyes.</s>
+        <s>Because this song is played when <ref target="b10gk5_1" type="character">Starr</ref> looks at <ref target="b10gk5_1" type="character">Chris</ref>, the viewers feel like <ref target="b10gk5_1" type="character">Starr</ref> is thinking the same thing about <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>Not only the song made that clear that she likes him, but also <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> voiceover, talking about all the things she likes about him.</s>
+        <s>After <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>greats</orig><reg>greets</reg></choice> his friends you can see how <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>simle</orig><reg>simple</reg></choice> changes to a serious face when he sees <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>This <choice><orig>sugests</orig><reg>suggests</reg></choice> that <ref target="b10gk5_1" type="character">Starr</ref> is very important to him.</s>
+        <s>The following shots, during <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> and <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> <choice><orig>Argummententation</orig><reg>argument</reg></choice>, are close up of their faces.</s>
+        <s>Therfore the focus of the audience lies on their facial expressions.</s>
+        <s>While they are arguing the viewers get to see how important <ref target="b10gk5_1" type="character">Starr</ref> <choice><orig>forgivness</orig><reg>forgiveness</reg></choice> is to him, because of how serious he looks at her and because the things he tells her.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> looks very mad, which she also lets him know.</s>
+        <s>Throughout their argument the point-of-views changes very fast.</s>
+        <s>Which not also lets the audience think they are watching the movie <choice><orig>throug</orig><reg>through</reg></choice> the eyes of the one who is speaking, but also <choice><orig>givs</orig><reg>gives</reg></choice> mates makes their fight very hectic.</s>
+        <s>After their fight <ref target="b10gk5_1" type="character">Chris</ref> asks how she likes the music that he made for her.</s>
+        <s>This makes <ref target="b10gk5_1" type="character">Starr</ref> smile, which she tries to hide by saying that it is just alright.</s>
+        <s>The next shot is a long medium long shot of <ref target="b10gk5_1" type="character">Chris</ref> turning his music up and dancing to it, while everyone looks at him.</s>
+        <s>The director showed with this scene that <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>an</orig><reg>a</reg></choice> guy who is confident and doesn't care about other <choice><orig>peoples</orig><reg>people's</reg></choice> opinion.</s>
+        <s>After that there is a close up of <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> face, smiling.</s>
+        <s>This shows she has forgiven <ref target="b10gk5_1" type="character">Chris</ref> for what he had done.</s>
+      </p>
+      <p>
+        <s>All in all you can say the director tried to introduce the audience to <ref target="b10gk5_1" type="character">Chris</ref> and his personality by showing them that he is <choice><orig>an</orig><reg>a</reg></choice> cool, popular and <choice><orig>confindent</orig><reg>confident</reg></choice> guy.</s>
+        <s>The director also made sure to inform the audience about how important <ref target="b10gk5_1" type="character">Starr</ref> is to <ref target="b10gk5_1" type="character">Chris</ref> and that they are a couple who share <choice><orig>intrests</orig><reg>interests</reg></choice> and can easily make up after a fight.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince him by <choice><orig>adressing</orig><reg>addressing</reg></choice> his feelings/his mind.</s>
+        <s>She does this first in line 9: <quote>Was the hope drunk (...) Hath it slept since?</quote>.</s>
+        <s>With that, she means if <ref target="c12gk2_1" type="character">Macbeth</ref> was drunk as he had the plan/hope of becoming king and where his thoughts about this have gone.</s>
+        <s>Also, she uses strong choice of words like <quote>green and pale</quote> <ref target="c12gk2_1" type="line">(l. 11)</ref>.</s>
+        <s>She does this to describe his behavior in a very degrading way to make him feel weak.</s>
+        <s>Also, by saying that he has to do it if he loves her <ref target="c12gk2_1" type="line">(l. 13)</ref>: <quote>Such I account thy love</quote>, she is again <choice><orig>adressing</orig><reg>addressing</reg></choice> his feeelings in a very manipulative way, because if he does not follow her commands she could refuse to love him.</s>
+        <s>Then, she convinces him by telling him that he has to do the necessary things to become king twice.</s>
+        <s>First, in line 13-15: <quote>Art thou afread (...) art in desire?</quote>.</s>
+        <s>She means with that, that if he wishes to become king, he should just do it.</s>
+        <s>If he wishes that hard to become the king, he should not be that weak if it comes to the necessary actions.</s>
+        <s>She does this a second time in line 17-18: <quote>Letting I dare not (...) the adage?</quote>.</s>
+        <s>Here, she creates the image of a cat wanting to eat fish but not wanting to get wet in order to catch them.</s>
+        <s>She compares him to the cat, because both know what they and what they have to do, but they do not do it.</s>
+        <s>Again, this is a very manipulative way of argumenting, because she is comparing him to a weak animal like a cat.</s>
+        <s>After he encounters, she continues that as he opened his plan to her, he was strong enough to do it and now he is not anymore <ref target="c12gk2_1" type="line">(l. 24-25)</ref>: <quote>That made you (...), then you were a man</quote>.</s>
+        <s>By saying <quote>then you were a man</quote>, she shows him as non-masculine or not <quote>a real man</quote>, because he is not strong enough to continue.</s>
+        <s>By that, she is again showing him as weak and <choice><orig>adressing</orig><reg>addressing</reg></choice> his feelings.</s>
+        <s>She continues by talking about their baby and how much work she had to put into it but she still loves it and that it is the same with <ref target="c12gk2_1" type="character">Macbeth</ref> <ref target="c12gk2_1" type="line">(l. 30-34)</ref>: <quote>I have given such (...) How tender 'tis love (...) had I sworn as you</quote>.</s>
+        <s>By doing that, she makes him feel like something she has to take care of all the time and now, it is his turn, to give something back by becoming king.</s>
+        <s>Here, again, she tries to <choice><orig>adress</orig><reg>address</reg></choice> his feelings by making him feel weak.</s>
+        <s>After <ref target="c12gk2_1" type="character">Macbeth</ref> asking about the event of failure, she responds that they fail if they fail, but by doing the correct things they will not fail anyway.</s>
+        <s>Here, she uses the image of <choice><orig>an</orig><reg>a</reg></choice> musician that is correcting his instrument to play the perfect tone <ref target="c12gk2_1" type="line">(l. 38)</ref>: <quote>But screw your courage to the sticking-place</quote>.</s>
+        <s>Again, she compares <ref target="c12gk2_1" type="character">Macbeth</ref> to something, in this case to the musician that has to do the right actions to achieve the goal <add>(killing the King = tone of the instrument)</add>.</s>
+        <s>This has the effect of laying all trust in his hands.</s>
+        <s>If he does the right, he will become king.</s>
+        <s>By this she is giving him an important role in their plan.</s>
+        <s>While she describes the plan of murderung the <choice><orig>king</orig><reg>King</reg></choice>, she is using many strong adjectives to specify the actions <ref target="c12gk2_1" type="character">Macbeth</ref> has to perform to give him a more dear vision of what he has to do.</s>
+        <s>This is to calm him down.</s>
+      </p>
+      <p>
+        <s>She uses adjectives like <quote>soundly</quote><add>(has something mysterious)</add> or <quote>swinish</quote> <add>(to show that the King will sleep very deep and will not notice them)</add> or <quote>unguarded</quote> <add>(to, again, show that the King will not be able to defend himself)</add>.</s>
+        <s>She also uses another image in line 34: <quote>warder of the brain</quote> to show <add>(again)</add> to <ref target="c12gk2_1" type="character">Macbeth</ref> how secure their plan is.</s>
+        <s>This works by the image she created, because if the <quote>guard</quote> of the brain from the <choice><orig>kings</orig><reg>King's</reg></choice> guards is knocked out, who could stop them?</s>
+      </p>
+      <p>
+        <s>In conclusion, you can see that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is trying to convince <ref target="c12gk2_1" type="character">Macbeth</ref> in a very manipulative way.</s>
+        <s>She does this by <choice><orig>adressing</orig><reg>addressing</reg></choice> his feelings like his love to her or by describing him as something weak.</s>
+        <s>By this he is trying to be the <quote>strong man</quote> she wants/needs and is doing what she wants.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

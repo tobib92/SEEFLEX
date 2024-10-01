@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g39_t2</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Faraj al-Byarshan</name>, a 41 year-old engineer who immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in <date>2005</date> with his wife and two sons, who came in <date>2007</date> after, tells his journey of coming here and his family situation but also his hopes for the future.</s>
+      </p>
+      <p>
+        <s><name type="person">Faraj</name> immigrated all alone from <name type="geo">Iraq</name> to <name type="geo">New York</name> in <date>2005</date>.</s>
+        <s><name type="geo">Iraq</name> has or had a bunch of wars and very critical times.</s>
+        <s>This is why it was better if they would move to <name type="geo">New York</name>.</s>
+        <s>Even his wife and kids came two years after.</s>
+        <s><name type="person">Faraj</name> would have been dead at that time, depends which exact place he lived.</s>
+        <s>On one hand, it was better to move, on the other hand you would never know how the <name type="geo">US</name> will treat you.</s>
+        <s>The <name type="geo">US</name> itself can be a quite rude and racist place to immigrate in.</s>
+        <s><name type="geo">New York</name> in <date>2005</date> and <date>2007</date> didn't have the new immigration laws, so his family probably needed to go through a lot of insults, teasing and racist comments against them.</s>
+        <s>Finding a job or earn money could have been hard for them too.</s>
+        <s>It is certain that people from <name type="geo">New York</name> would look down on them each second they would be outside at that time.</s>
+        <s>Looking at the pros and cons, I think that after the new immigration law in <date>2015</date> times have gotten better for the family, even if the mother has known as the wife <choice><orig>didnt</orig><reg>didn't</reg></choice> have someone to help her move to <name type="geo">New York</name> with her two sons and lived alone in <name type="geo">Iraq</name> for two years straight.</s>
+      </p>
+      <p>
+        <s>In my opinion I think that it was better for them to move to <name type="geo">New York</name>.</s>
+        <s>Since it would affect their future in a more positive way than it would have ended up in <name type="geo">Iraq</name>.</s>
+        <s>He hopes his family will stay healthy and <choice><orig>wont</orig><reg>won't</reg></choice> be insulted by anyone, his two sons will graduate school and that to anyone who will migrate to the <name type="geo">US</name> or <name type="geo">Britain</name>, they will not go through any racism or discrimination like they probably did.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

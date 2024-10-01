@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g44_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following lines <choice><orig>i</orig><reg>I</reg></choice> will analyse the <choice><orig>Post</orig><reg>post</reg></choice> of <ref target="a10gk5_1" type="author">Ankita Mitra</ref>, which is about the <choice><orig>Globalized</orig><reg>globalized</reg></choice> <choice><orig>Environmental</orig><reg>environmental</reg></choice> <choice><orig>Pollution</orig><reg>pollution</reg></choice> and the causes and <choice><orig>Effects</orig><reg>effects</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk5_1" type="author">Ankita <choice><orig>Mitras</orig><reg>Mitra's</reg></choice></ref><choice><orig>Intention</orig><reg>intention</reg></choice> in this <choice><orig>Post</orig><reg>post</reg></choice> is that she wants to express the hazardous <choice><orig>affects</orig><reg>effects</reg></choice> on our world in a message to the people.</s>
+        <s>She wants to express what we could reach if we regulate our human beings, like the industrial growth and the urbanization.</s>
+        <s>Her target with this post are the human feelings, because she said that if we do nothing today, maybe it's too late tomorrow.</s>
+      </p>
+      <p>
+        <s>In the first three lines she uses signal words, like <quote>hazardous</quote> or <quote>contaminate</quote> so she could flash the reader with one sentence.</s>
+      </p>
+      <p>
+        <s>After her <q>flashing</q> start she uses an <choice><orig>Alliteration</orig><reg>alliteration</reg></choice> to show us that we only have one <choice><orig>Planet</orig><reg>planet</reg></choice> and one chance to change <choice><abbr>sth.</abbr><expan>something</expan></choice>, because there isn't another <choice><orig>Planet</orig><reg>planet</reg></choice> with water and air.</s>
+      </p>
+      <p>
+        <s>In the lines 5 to 7 she uses a climax to dramaticate the pollution on our world.</s>
+      </p>
+      <p>
+        <s>She points out, that we can't live anywhere without water and air.</s>
+      </p>
+      <p>
+        <s>The balance of the biosphere got crashed by the human life, although humans and other forms of existence have flourished the earth for thousands of years.</s>
+      </p>
+      <p>
+        <s>In the following lines she uses a metaphorical language to express the pollution.</s>
+      </p>
+      <p>
+        <s>Although we have an industrial growth and an urbanization, we got many problems with it, because the pollution <choice><orig>effects</orig><reg>affects</reg></choice> on our health.</s>
+        <s><quote>The flora and fauna were found to be threatened with extinction</quote>, is a shocking info for the readers.</s>
+        <s><ref target="a10gk5_1" type="author">Ankita Mitra</ref> uses <choice><orig>this</orig><reg>these</reg></choice> shocking words to dramatize the infos the readers become.</s>
+        <s>And because of the feelings the message will have a big attention.</s>
+        <s>In line 15 to 20 <ref target="a10gk5_1" type="author">Ankita</ref> points out the progress which pollutes the world.</s>
+      </p>
+      <p>
+        <s>The industrial growth, the fumes and the <gap reason="illegible" quantity="1" unit="word">toxigens</gap> are destroying the biosphere and the sea.</s>
+      </p>
+      <p>
+        <s>The fumes of automobiles and nitrogen fertilizers are all things that contaminate our world.</s>
+      </p>
+      <p>
+        <s>And to make her message clear, <ref target="a10gk5_1" type="author">Ankita</ref> uses a <choice><orig>Comparision</orig><reg>comparison</reg></choice> of the industrial environment tragedy occured at <name type="geo">Bhopal</name> on <date>December 3, 1984</date>.</s>
+      </p>
+      <p>
+        <s>It is a result of toxic and poisonous methyl isocyanate <add>(MIC)</add> gas.</s>
+        <s>Officially 19787 <choice><orig>People</orig><reg>people</reg></choice> got killed by the toxic fumes.</s>
+      </p>
+      <p>
+        <s>At this point her message is clear.</s>
+      </p>
+      <p>
+        <s>She said that if we do nothing today, maybe it will be too late tomorrow and the world will end like <name type="geo">Bhopal</name>.</s>
+        <s>All in all she said something about our environment and why it got polluted.</s>
+      </p>
+      <p>
+        <s>And she points out that we have to do something against the pollution.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

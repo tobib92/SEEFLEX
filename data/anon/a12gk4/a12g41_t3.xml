@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g41_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In a more and more globalized <choice><orig>word</orig><reg>world</reg></choice> language skills get more and more important.</s>
+        <s>Since English is the language that the <choice><orig>majoraty</orig><reg>majority</reg></choice> of people in the world speak raises the <choice><orig>qestion</orig><reg>question</reg></choice> if English native speakers have the need to learn foreign languages.</s>
+      </p>
+      <p>
+        <s>In my <choice><orig>orpinion</orig><reg>opinion</reg></choice> this is a very important <choice><orig>pice</orig><reg>piece</reg></choice> of education and not only for the goal to speak the language <choice><orig>fluenly</orig><reg>fluently</reg></choice> <choice><orig>afterwars</orig><reg>afterwards</reg></choice>.</s>
+      </p>
+      <p>
+        <s>My first argument refers to the future prosperity of these <choice><orig>countrys</orig><reg>countries</reg></choice>.</s>
+        <s>As <ref target="a12gk4_1" type="author">Mr. Worn</ref> already <choice><orig>mengend</orig><reg>mentioned</reg></choice> in his <choice><orig>articel</orig><reg>article</reg></choice> the working market is looking more for <choice><orig>bilingul</orig><reg>bilingual</reg></choice> <choice><orig>peopel</orig><reg>people</reg></choice> than ever before.</s>
+        <s>I <choice><orig>totaly</orig><reg>totally</reg></choice> agree with this point but would also add that more and more <choice><orig>companys</orig><reg>companies</reg></choice> <choice><orig>nowerdays</orig><reg>nowadays</reg></choice> not only <choice><orig>focose</orig><reg>focus</reg></choice> on the <choice><orig>surounding</orig><reg>surroundings</reg></choice> of <choice><orig>thir</orig><reg>their</reg></choice> <choice><orig>headqouter</orig><reg>headquarter</reg></choice> but look forward to get a <choice><orig>globel</orig><reg>global</reg></choice> player.</s>
+        <s>So if you are a <choice><orig>peson</orig><reg>person</reg></choice> with skills in different languages the <choice><orig>cance</orig><reg>chance</reg></choice> that you will get <choice><orig>promotet</orig><reg>promoted</reg></choice> is much higher <choice><orig>becaus</orig><reg>because</reg></choice> the higher one gets in the <choice><orig>hirachy</orig><reg>hierarchy</reg></choice> the more important it gets to <choice><orig>comunicate</orig><reg>communicate</reg></choice> with offices around the world that might not be so <choice><orig>fluend</orig><reg>fluent</reg></choice> in <choice><orig>english</orig><reg>English</reg></choice>.</s>
+      </p>
+      <p>
+        <s>My next point <choice><orig>focoses</orig><reg>focuses</reg></choice> on education but also on <choice><orig>charackter</orig><reg>character</reg></choice> building of <choice><orig>one self</orig><reg>oneself</reg></choice>.</s>
+        <s>I think that aside from the goal to learn a language to use it afterwards we should not miss out on the fact that learning a language also <choice><orig>strenghlens</orig><reg>strengthens</reg></choice> ones <choice><orig>cognitiv</orig><reg>cognitive</reg></choice> skills.</s>
+        <s>So if one <choice><orig>lears</orig><reg>learns</reg></choice> a language and never uses it again this person will still have the skill to learn other <choice><orig>knowlege</orig><reg>knowledge</reg></choice> faster or safer than the one without a language skill.</s>
+      </p>
+      <p>
+        <s>The last point I will make is one that can be <choice><orig>discusst</orig><reg>discussed</reg></choice> but is still the most <choice><orig>importent</orig><reg>important</reg></choice> one in my <choice><orig>orpinion</orig><reg>opinion</reg></choice>: I am convinced that it is a <choice><orig>mean</orig><reg>means</reg></choice> of respect from the native English speaker towards all the <choice><orig>peopel</orig><reg>people</reg></choice> <choice><orig>hwo</orig><reg>who</reg></choice> learn English.</s>
+        <s>Peopel <choice><orig>how</orig><reg>who</reg></choice> learn English also learn about English culture and get a bigger cultural <choice><orig>awerness</orig><reg>awareness</reg></choice> <choice><orig>especaly</orig><reg>especially</reg></choice> of the <name type="geo">UK</name> and the <name type="geo">USA</name>.</s>
+        <s>Would it not be fair if English <choice><orig>peopel</orig><reg>people</reg></choice> then at least learn about <choice><orig>oure</orig><reg>our</reg></choice> cultures and learn at least one <choice><orig>langage</orig><reg>language</reg></choice>?</s>
+        <s>It would make both <choice><orig>paties</orig><reg>parties</reg></choice> <add>the native English speakers on one hand and all the other ones on the other</add> feel more on the same level thus <choice><orig>sengthen</orig><reg>strengthen</reg></choice> the feel of togetherness and respect to <choice><orig>one and another</orig><reg>one another</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Overall I am <choice><orig>convincet</orig><reg>convinced</reg></choice> that learning foreign languages is also <choice><orig>nessesery</orig><reg>necessary</reg></choice> for English <choice><orig>peopel</orig><reg>people</reg></choice>.</s>
+        <s>Not only that they have bigger chances in the working market but it also fortifies the <choice><orig>cognitiv</orig><reg>cognitive</reg></choice> skills and gives not English <choice><orig>peopel</orig><reg>people</reg></choice> the respect they <choice><orig>deseve</orig><reg>deserve</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

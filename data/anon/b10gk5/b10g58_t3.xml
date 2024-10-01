@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g58_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to talk about the power of story-telling and their impact on <choice><orig>peoples</orig><reg>people's</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+      </p>
+      <p>
+        <s>First of all <choice><orig>its</orig><reg>it's</reg></choice> important to say that it's about the way of story-telling, you could have a <choice><orig>verry</orig><reg>very</reg></choice> good story and a good message behind it, but if you don't know how to present it and the way you do, there will not be a big impact to the viewers.</s>
+      </p>
+      <p>
+        <s>For example the film <ref target="b10gk5_1" type="title">The Hate U Give</ref> presented the topic of racism and <choice><orig>it's</orig><reg>its</reg></choice> message on a good way.</s>
+      </p>
+      <p>
+        <s>If we talk about the film we need to keep in mind that <ref target="b10gk5_1" type="title">The Hate U Give</ref> is not a documentary, so the film isn't supposed to show the effects on racism.</s>
+      </p>
+      <p>
+        <s>In my point of view the film had a little impact on my perspective because of <choice><orig>it's</orig><reg>its</reg></choice> brutal way of presenting the demonstrations from the black <choice><orig>lifes</orig><reg>lives</reg></choice> matter organisation.</s>
+        <s>The film was still realistic and showed the risks and happenings of racism on a good but brutal way.</s>
+      </p>
+      <p>
+        <s>All in all the film has a good message and deals with the topic of racism very good even though it isn't a documentary.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

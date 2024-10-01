@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g42_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><choice><orig>These</orig><reg>this</reg></choice> topic is really <choice><orig>complycadet</orig><reg>complicated</reg></choice> and <choice><orig>havey</orig><reg>heavy</reg></choice> and we all need to do something against it and we all can.</s>
+        <s>It is our responsibility.</s>
+        <s>Many people say it is not they own fault, but I think it is, because these people are not thinking about <choice><orig>anythink</orig><reg>anything</reg></choice> they could do.</s>
+        <s>But if everybody would do something just a little bit, it would change something.</s>
+        <s><choice><orig>Mabye</orig><reg>Maybe</reg></choice> just keep your phone a year or two longer and try to change clothes with you friends or family and do not always <choice><orig>by</orig><reg>buy</reg></choice> something new so you don't <choice><orig>trow</orig><reg>throw</reg></choice> your old things away and <choice><orig>withoud</orig><reg>without</reg></choice> that <choice><orig>mutch</orig><reg>much</reg></choice> garbage the problem wouldn't be that big anymore.</s>
+        <s>We all can change something.</s>
+        <s>We should just try it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

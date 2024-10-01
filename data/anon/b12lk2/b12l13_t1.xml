@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l13_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the speech delivered at the <name type="misc">COP26</name> opening ceremony on <date>November 1st</date>, <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> as <choice><orig>an</orig><reg>a</reg></choice> people's advocate, addresses the political leaders of the world aiming to convince them to use this opportunity and create a future worth living.</s>
+      </p>
+      <p>
+        <s>The speech is supported with the use of cinematic pictures as well as statements of speakers shown on the screen, which are inserted to <ref target="b12lk2_1" type="speaker">Attenborough's</ref> speech.</s>
+      </p>
+      <p>
+        <s>He starts off by stating that the surplus carbon in the atmosphere is the main problem and that the summit should center around this.</s>
+        <s>Subsequently, he refers to the earth ancient history.</s>
+        <s>He talks about how the earth enables civilization due to predictable and stable weather circumstances.</s>
+      </p>
+      <p>
+        <s>Contrasting this, <ref target="b12lk2_1" type="speaker">Attenborough</ref> now explains how humanity destroys the planet, mainly because of releasing carbon into the atmosphere.</s>
+        <s>He states that everyone will feel or is already feeling this change of climate while quoting human on his screen.</s>
+        <s>After the statement of the speaker <ref target="b12lk2_1" type="speaker">Attenborough</ref> goes on and points out that we are the generation facing the natural disaster caused by climate change but that we are also the ones who can counteract the climate crisis.</s>
+        <s>He also touches upon the benefits resulting in counteracting the climate crisis, namely clean energy, healthy air and enough food.</s>
+      </p>
+      <p>
+        <s>For the second time there is an insertation of statements of speakers.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> answers them by giving hope for the future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

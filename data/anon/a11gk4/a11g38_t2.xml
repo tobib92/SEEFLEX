@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g38_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given book extract from chapter 24 <ref target="a11gk4_1" type="page">(pp. 328-332)</ref> from the novel <ref target="a11gk4_1" type="title">The Hate U Give</ref>, which is written by <ref target="a11gk4_1" type="author">Angie Thomas</ref> and got published by <name type="misc">Cornelsen</name> in <date>2019</date>, is about <name type="person">Starr</name> speaking up against police brutality and <name type="person">Khalil's</name> murder.</s>
+        <s>The state of mind from <name type="person">Starr</name> is going to be analyzed in the following.</s>
+      </p>
+      <p><s>After they arrive the scene where <name type="person">Khalil</name> was shot, <name type="person">Starr</name> has <choice><orig>Flashbacks</orig><reg>flashbacks</reg></choice> of <name type="person">Khalil's</name> murder.</s><quote><s>Knowing this is where <name type="person">Khalil</name>...</s></quote><ref target="a11gk4_1" type="line">(ll. 5-7)</ref>. <s>That has an effect that one knows that <name type="person">Starr</name> is feeling uncomfortable by arriving the scene, because she is playing the scene again in her mind.</s><s>Following that, the crowd screams <quote>A hair brush is not a gun</quote> after <choice><orig>everytime</orig><reg>every time</reg></choice> she thinks about what happened <ref target="a11gk4_1" type="line">(ll. 18-21)</ref>.</s><s>Because of <name type="person">Starr</name> hears the crowd screaming, she thinks more about the accident, and gets more emotional by joining in.</s><s>After thinking of <name type="person">Officer Cruise</name> shooting at <name type="person">Khalil</name>, she <choice><orig>cant</orig><reg>can't</reg></choice> hold her fears back, <quote>I scream as loud as I can, fist high in the air, tears in my eyes</quote> <ref target="a11gk4_1" type="line">(l. 23)</ref>.</s><s>This narrative technique of showing why she is that upset and sad, one knows it really broke her heart that <name type="person">Khalil</name> got killed and that she still thinks about it all the time.</s><s>Later on <name type="person">Ms. Ofrah</name> gives her the bullhorn and places her on the <choice><orig>copcar</orig><reg>cop car</reg></choice> to speak up, she's feeling uncomfortable, <quote><s>the bullhorn is heavy as a gun... I have the hardest time lifting it.</s><s>Shit, I have no idea what to say</s></quote> <ref target="a11gk4_1" type="line">(ll. 43-44)</ref>.</s><s>This narrative technique of <choice><orig>a</orig><reg>an</reg></choice> inner monologue shows, that it is hard for <name type="person">Starr</name> to speak up and that she is shy, because of the amount of people that are listening.</s><s>One konws that she is scared to say something wrong too, because <name type="person">Starr</name> is not able to say more than <quote>My...</quote> <ref target="a11gk4_1" type="line">(l. 45)</ref>.</s><s>But after <choice><orig>a</orig><reg>an</reg></choice> officer tells her to <quote>exit the street immediately</quote> <ref target="a11gk4_1" type="line">(l. 47)</ref> <name type="person">Starr</name> gets upset and thinks <quote><s>You know what?</s><s>Fuck it</s></quote> <ref target="a11gk4_1" type="line">(l. 48)</ref>.</s><s>Her inner monologue shows, how upset she is about the fact <choice><orig>a</orig><reg>an</reg></choice> officer tells her to leave, even <choice><orig>tho</orig><reg>though</reg></choice> the police is the reason she is standing right there.</s><s><name type="person">Starr</name> starts speaking up, and gets a lot of motivation, <quote>Speak</quote> <ref target="a11gk4_1" type="line">(l. 54)</ref>, which makes her feel more comfortable, one knows that because <name type="person">Starr</name> shares her <choice><orig>Impressions</orig><reg>impressions</reg></choice> as a <choice><orig>first person</orig><reg>first-person</reg></choice> narrator, so one gets to know everything that happens around <name type="person">Starr</name> and how she feels about that.</s></p>
+      <p>
+        <s>To sum up, one can say that <name type="person">Starr's</name> narrative techniques and point of views <choice><orig>gives</orig><reg>give</reg></choice> one a good overview about <name type="person">Starr's</name> feelings and her emotions, and one is able to get the point of view from <name type="person">Starr</name> and understands why she is doing what in every situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

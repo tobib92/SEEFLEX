@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g31_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To present the reader his view about the development of learning foreign languages in the <name type="geo">UK</name> the author <ref target="a12gk3_1" type="author">John Worne</ref> <choice><orig>use</orig><reg>uses</reg></choice> a clear structure, persuasive techniques and stylistic devices in his article.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne's</ref> article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> is from a popular paper.</s>
+        <s>This is a parent <choice><orig>throught</orig><reg>through</reg></choice> the mix of facts and own opinion aspects in the article <ref target="a12gk3_1" type="line">(cf. l. 16, 9-10)</ref>.</s>
+        <s>Furthermore the syntax is not that difficult and <ref target="a12gk3_1" type="author">Worne</ref> uses colloquial language.</s>
+        <s>In some sentences he also <choice><orig>use</orig><reg>uses</reg></choice> an emotional style of writing <ref target="a12gk3_1" type="line">(cf. l. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>In the article aren't any quotes from expert's or something like that.</s>
+        <s>The article is <choice><orig>adressed</orig><reg>addressed</reg></choice> to general audience so there isn't any knowledge which must know the reader.</s>
+      </p>
+      <p>
+        <s>In the first paragraphs <ref target="a12gk3_1" type="author">John Worne</ref> introduces the topic and <choice><orig>list</orig><reg>lists</reg></choice> some facts which describe the situation.</s>
+      </p>
+      <p>
+        <s>After that he <choice><orig>criticise</orig><reg>criticises</reg></choice> all the people who don't fight enough for a development of language learning in the <name type="geo">UK</name>.</s>
+        <s>Because his opinion is that people in the <name type="geo">UK</name> I haven't the necessary language skills to keep up with other countries in the world.</s>
+        <s>He thinks that this skills should be improved.</s>
+      </p>
+      <p>
+        <s>Then <ref target="a12gk3_1" type="author">John Worne</ref> underlines his opinion with the argument that language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing and essential for trade, diplomacy, etc. <ref target="a12gk3_1" type="line">(cf. l. 16-18)</ref>.</s>
+        <s>Another argument which <ref target="a12gk3_1" type="author">John Worne</ref> brings in to state his opinion is that two-thirds of <name type="geo">UK-</name>businesses need foreign languages.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>prove</orig><reg>proves</reg></choice> this argument with a survey from <name type="misc">CBI/Pearson for Education and Skills</name>.</s>
+      </p>
+      <p>
+        <s>Another argument which states his opinion is that the combination of specialist and linguist knowledge is very attractive for employers.</s>
+        <s>To describe that <ref target="a12gk3_1" type="author">John Worne</ref> uses an example in line 28-29: <quote>[...] a lawyer with Chinese language skills is more in demand than a pure lawyer or a pure linguist</quote>.</s>
+      </p>
+      <p>
+        <s>In the last paragraphs hesays how important it is that people in the UK, mostly young people, have to improve their language skills <ref target="a12gk3_1" type="line">(cf. l. 30-31)</ref> and what the other people can do.</s>
+        <s>He <choice><orig>remind</orig><reg>reminds</reg></choice> the parents about their duty to see that their kids learn foreign languages.</s>
+      </p>
+      <p>
+        <s>John Worne uses in some lines irony to criticise the opinion and the thinking of some people (cf. l. 6-7, l. 12-15).</s>
+      </p>
+      <p>
+        <s>He also uses <choice><orig>a</orig><reg>an</reg></choice> anaphora in line 16-17 which underlines how important language learning and foreign languages are.</s>
+      </p>
+      <p>
+        <s>he also often uses brackets which has the effect that the symptoms gets more attention by the reader than other.</s>
+        <s>All in all one can say that the author is really worried about the foreign linguistic development of the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>He thinks that young people have to improve their language skills so that the <name type="geo">UK</name> <choice><orig>keep</orig><reg>keeps</reg></choice> up there future prosperity and global standing.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> sees the language learning as a vital and essential for the trade, cultural exports, national security and diplomacy.</s>
+        <s>His opinion he underlines with a clear structure in his article, many arguments which sometimes are support by examples and some stylistic devices mostly the use of irony, anaphoras and the use of brackets.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

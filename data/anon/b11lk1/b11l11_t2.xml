@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The way the text is narrated, it lets the reader jump in the point of view of a racist and in the end it shows how paranoid <ref target="b11lk1_1" type="character">Delaney</ref> must have acted.</s>
+        <s>In the first place there is a switch up between the connotation of the words.</s>
+        <s>Until <ref target="b11lk1_1" type="character">Delaney</ref> realizes that the man at the <ref target="b11lk1_1" type="character">Cherrystones</ref> is a Mexican the narrator stops using neutral descriptions <ref target="b11lk1_1" type="line">(l. 10ff.)</ref> and starts using bad connotated formulations like <quote>a violent jerk</quote> <ref target="b11lk1_1" type="line">(l. 45)</ref> for the move of the Mexican to free himself off the hold of <ref target="b11lk1_1" type="character">Delaney</ref>.</s>
+        <s>Moreover he <add><ref target="b11lk1_1" type="character">(Delaney)</ref></add> is also interpreting things in the actions of the Mexican like he is mocking him or that he has a reason <ref target="b11lk1_1" type="line">(l. 56f.)</ref>.</s>
+        <s>This goes so far, that <ref target="b11lk1_1" type="character">Delaney</ref> is feared for his life like you can see in the climax: <quote>[...] so keyed up he was ready to spring at him, tackle him, fight to the death</quote> <ref target="b11lk1_1" type="line">(l. 56f.)</ref>.</s>
+        <s>Consequently you can see how <ref target="b11lk1_1" type="character">Delaney</ref> is influenced by his <choice><orig>prejudes</orig><reg>prejudices</reg></choice> which are leading him to act racist like in line 39: <quote>You don't belong here</quote>.</s>
+        <s>This <choice><orig>setence</orig><reg>sentence</reg></choice> got a double sided meaning because on the one hand he tells the Mexican that he <choice><orig>isnt</orig><reg>isn't</reg></choice> <choice><orig>alowed</orig><reg>allowed</reg></choice> to be in their gated community or the lawn of the <ref target="b11lk1_1" type="character">Cherrystones</ref> but on the other hand it could also I mean that he doesn't belong to the <name type="geo">USA</name>, which is a very racist statement.</s>
+        <s><ref target="b11lk1_1" type="character"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></ref> racist thinking can also be seen in a climax in line 54: <quote>The man was a thief, a liar, the stinking occupant of a stinking sleeping bag in the state forest, a trespasser, a polluter, a Mexican</quote> which shows that the last named thing, his origin, is the worst for him.</s>
+      </p>
+      <p>
+        <s>After the incident, he reflects his behaviour and realizes, parralel to the reader, how crazy he had acted.</s>
+        <s>The narration lets the reader feel like <ref target="b11lk1_1" type="character">Delaney</ref>, because when he's not driven by his emotions anymore, he feels neutral about him like in the beginning.</s>
+        <s>So it can be said <ref target="b11lk1_1" type="character">Delaney</ref> isn't that outgrown racist like in the end, because he knows that he had been wrong and was led by his <choice><orig>prejudes</orig><reg>prejudices</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the end of the excerpt <ref target="b11lk1_1" type="character">Delaney</ref> recognizes a letter of <ref target="b11lk1_1" type="character">Jack Jardine</ref>, the president of their community, and it says that there will be a meeting on security.</s>
+        <s>This is very ironical because in the text there is a perfect example of the irrational paranoid thinking which had led the community to build a wall around their houses and become a gated community.</s>
+      </p>
+      <p>
+        <s>To come to an end you could say that <ref target="b11lk1_1" type="character">Delaney</ref> comes to terms with his emotional <choice><orig>expieriences</orig><reg>experiences</reg></choice> like the car theft by blaming it on Mexicans and developing <choice><orig>prejudes</orig><reg>prejudices</reg></choice>.</s>
+        <s>In the chapter you can see the middle of his racist character development through the book.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

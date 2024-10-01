@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g25_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>I write to you in thought of the opening speech you delivered at the <name type="misc">COP26 World Leaders Summit</name>.</s>
+        <s>A meeting that you called the historic turning point regarding climate change.</s>
+        <s>This statement stayed in my mind for all of those following years up until this point while watching the results of that summit.</s>
+        <s>I always liked part of the statement while the other part infuriated me.</s>
+        <s>I liked the thought of all that being done for the future generations to not let them down.</s>
+        <s>And also the way you stated that all of the requirements for action were met was good.</s>
+        <s>But your emphasis on the anger of the following generations confused me.</s>
+        <s>Also in earlier parts of the speech.</s>
+        <s>Why is it more important that the following generations aren't angry at you than that they have a healthy world to live in.</s>
+        <s>A chance at a normal life.</s>
+        <s>It made it seem so selfish.</s>
+        <s>I can understand it that was to appeal to your audience who may take that more seriously but that's not a nice message to send to the world.</s>
+        <s>Our world leaders care more about their reputation than the safety of people.</s>
+        <s>You also called them out earlier for alwys wanting postpone things and goals to meet until they are no further responsible for them and might not even suffer the consequences because of their age.</s>
+        <s>This further enforces my opinon on the received message.</s>
+        <s>Today marks the 24th anniversary of that summit.</s>
+        <s>It is the year <date>2050</date> a year you mentioned in your speech regarding how many politicians always say they want to do it in the future and set <choice><orig>ridicoulously</orig><reg>ridiculously</reg></choice> far into the future deadlines.</s>
+        <s>Funny to me how that exactly happened in the summit following your speech.</s>
+        <s>More deadlines were set and more deadlines were never met.</s>
+        <s>Those <quote>billions more of the unborn</quote> you mentioned aren't unborn anymore.</s>
+        <s>Most of them are now part of our society and will soon learn about the historic turning point.</s>
+        <s>Are you still more afraid of the anger they will develop that the consequences they suffer causing that anger?</s>
+      </p>
+      <p>
+        <signed>Best regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

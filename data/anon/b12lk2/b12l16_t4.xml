@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l16_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="misc">COP26</name> in <name type="geo">Glasgow</name>: A step in the right direction?</s>
+        <s>Why the arguments reached in <name type="geo">Glasgow</name> are reason for optimism, muted, but still optimism.</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>First of all, to evaluate the succeeding or failing of the <name type="misc">COP26</name> we, as outsiders, need to adapt our expectations on its outcome.</s>
+        <s>We need to be aware of the fact that a conference like the one in <name type="geo">Glasgow</name> does not have the purpose to solve our problem with global warming but to build a foundation for measures.</s>
+        <s>As <name type="person">António Guterres</name> already states via <name type="misc">Twitter</name>, the actual starts at home in the respective countries.</s>
+      </p>
+      <p>
+        <s>Reason for a heated discourse was the phrasing in the agreement on the abolishing of coal.</s>
+        <s>Due to <name type="geo">India</name> and <name type="geo">China's</name> pressure it has been weakended to a <quote>phase down</quote> of coal production.</s>
+        <s>Critics say, this means it remains uncertain if the two states plan on ever completely abolishing coal or not.</s>
+      </p>
+      <p>
+        <s>However, there are more optimistic voices saying, the agreement is still a success as it is now globally clear that the coal era is over.</s>
+        <s>Additionally, it seems remarkable how this arrangement actually directly interferes with domestic state affairs.</s>
+      </p>
+      <p>
+        <s>As we all know, quick progress is essential when fighting climate change if we want to stay within reasonable limits of the destructive effects of it.</s>
+        <s>It is known that if we want to global warming to stay reversible, we need to reach <quote>Net Zero</quote> until the year <date>2050</date>.</s>
+        <s>Clearly, we are not adapting quickly enough right now.</s>
+        <s>But, the <name type="misc">COP26</name> shows us that we didn't make progress: Before <name type="geo">Paris</name>, we were warned of a heating of five to six degree.</s>
+        <s>Before <name type="geo">Glasgow</name>, this number has sunken to 2.7 degrees.</s>
+        <s>Although this still sounds terrifying, it is a sign that the <name type="misc">COP26</name> in Glasgow indeed was a step forward.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l27_t3</author>
+        <name>monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>We're almost there.</s>
+        <s><name type="person">Ferdie</name> said.</s>
+      </p>
+      <p>
+        <s><kinesic><desc>Oh</desc></kinesic>, <choice><orig>were</orig><reg>we're</reg></choice> almost there.</s>
+        <s>I'm happy I will meet <name type="person">Nick</name> today.</s>
+        <s>He's always been one of my favorites out of my family.</s>
+        <s>I still remember the good old times when aunt <name type="person">Emily</name> and uncle <name type="person">Donald</name> came over with him.</s>
+        <s>These were nice times.</s>
+        <s>No cheating husband, no friends that are nice to you but talk behind, no two-faced people in general.</s>
+        <s>Just our small village in the beautiful <name type="geo">Midwest</name>.</s>
+      </p>
+      <p>
+        <s>I wonder why he told me to come alone though.</s>
+        <s>That is a little weird but he probably does not want <name type="person">Tom</name> to keep interrupting our conversation.</s>
+      </p>
+      <p>
+        <s>When we arrived <ref target="b11lk2_1" type="character">Nick</ref> acted a little weird but <choice><orig>i</orig><reg>I</reg></choice> did not think much of it.</s>
+        <s>I thought maybe his work was a little stressful or something like that.</s>
+        <s>God was I wrong.</s>
+        <s>We entered the house but then someone knocks at the door.</s>
+        <s>And suddenly a man comes in.</s>
+        <s>Standing there completely wet and with a shocked looking face.</s>
+        <s>It was <name type="person">Gatsby</name>.</s>
+        <s>I <choice><orig>immidiatly</orig><reg>immediately</reg></choice> knew who it was cause of his eyes.</s>
+        <s>They still look exactly the same.</s>
+        <s>I do not know what to say neither does he.</s>
+        <s>I finally said something but <choice><orig>i</orig><reg>I</reg></choice> am so embarrassed at all so I started talking to <name type="person">Nick</name>.</s>
+        <s><name type="person">Nick</name> and <name type="person">Gatsby</name> then left and I got really nervous whether I did something wrong.</s>
+        <s>When <name type="person">Gatsby</name> came back without <name type="person">Nick</name> he first started small talking a bit.</s>
+        <s>But then the conversation started to get fluent.</s>
+        <s>We are talking about the old times when we were together.</s>
+        <s>I am happy.</s>
+        <s>I am just happy that <choice><orig>i</orig><reg>I</reg></choice> finally meet this perfect man again.</s>
+        <s>The time flied away and <name type="person">Nick</name> comes in again.</s>
+        <s><choice><orig>Futhermore</orig><reg>Furthermore</reg></choice> the weather cleared up and <name type="person">Gatsby</name> looked so good in the yellowish sun light.</s>
+        <s>He then invited us over and <choice><orig>were</orig><reg>we're</reg></choice> currently going there.</s>
+        <s>I am just so happy to see him again.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

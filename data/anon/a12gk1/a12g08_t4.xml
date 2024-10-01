@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g08_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Kanye,</salute>
+      </p>
+      <p>
+        <s>I know that for your year abroad after school which you're aiming at <name type="geo">Germany</name> you are highly considering to stay in <name type="geo">Berlin</name>.</s>
+        <s>So I found this article by <ref target="a12gk1_2" type="title"><choice><orig>Marina Karimbaki</orig><reg>Marina Kormbaki</reg></choice></ref> <ref target="a12gk1_2" type="title"><name type="geo">Berlin</name> spricht Englisch</ref> which was published in the <name type="misc">Hannoversche Allgemeine Zeitung</name> back in <date>2016</date> so I can list the positives and negatives for you choosing <name type="geo">Berlin</name>:</s>
+      </p>
+      <p>
+        <s>First of all she states that <name type="geo">Berlin</name> because more and more like other English speaking metropoles.</s>
+        <s>In the districts of <name type="geo">Neukölln</name> and <name type="geo">Kreuzberg</name> you may not even hear a German word.</s>
+        <s>That is because many there speak Turkish or Arabic what would be a negative for you as you can't relate to any of that.</s>
+        <s>But in the <name type="geo">Neuköllner Wasserstraßenkiez</name> English speaking is pretty normal.</s>
+        <s>On the other hand <name type="person">David Walker</name> says that <name type="geo">Berlin</name> is a bibble inside of <name type="geo">Germany</name> that has nothing to do with German culture at all but because more international.</s>
+      </p>
+      <p>
+        <s>But again what's your positive is that you could easily get an English-speaking job and <name type="geo">Berlin</name> in comparison to other metropoles is so cheap.</s>
+        <s>Some people from aborad even open their own shops.</s>
+        <s>Also the rent is really affordable even if you live to the action and culture - not German culture though.</s>
+        <s>And here comes my own advice: If you want it really easy, go to <name type="geo">Berlin</name>.</s>
+        <s>It really is the best option for English speakers in <name type="geo">Germany</name>.</s>
+        <s>But if you want to experience real German culture <add>I'm sure <name type="geo">Berlin</name> offers that in some parts too because it still has very impressive architecture</add> you can also go to other big German cities like <name type="geo">Munich</name>, <name type="geo">Hamburg</name> or <name type="geo">Cologne</name> where the rents in particular districts are also affordable and you still get that touch of internationality.</s>
+      </p>
+      <p>
+        <s>But that's it from me.</s>
+        <s>Let me hear about what you think!</s>
+      </p>
+      <p>
+        <signed>Later, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

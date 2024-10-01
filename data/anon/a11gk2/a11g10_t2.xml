@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analysed how <ref target="a11gk2_1" type="speaker">Barack Obama</ref> tries to convince the audience that everybody can <choice><orig>suceed</orig><reg>succeed</reg></choice> and achieve their dreams.</s>
+      </p>
+      <p>
+        <s>In ll. 5f. he uses an enumeration <quote>about how we're becoming more <choice><orig>seperated</orig><reg>separated</reg></choice> by geography and ideology, race and religion, wealth and opportunity</quote>.</s>
+        <s>This underlines the load of problems that many people are talking about.</s>
+        <s>The next stylistic device is in ll. 9f. <quote>In big cities and small towns, among men and women, young and old, black, white, and brown</quote>.</s>
+        <s>This enumeration makes clear that it is irrelevant what <choice><orig>typ</orig><reg>type</reg></choice> of person <choice><orig>your</orig><reg>you</reg></choice> are.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="author">Obama</ref> tries to tell the audience that everybody <choice><orig>share</orig><reg>shares</reg></choice> the same dream.</s>
+      </p>
+      <p>
+        <s>An another stylistic device is the parallelism in l. 12 <quote><s>Common hopes.</s><s>American dreams.</s></quote>.</s>
+        <s>It underlines that everybody has the same hopes and dreams.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a11gk2_1" type="author"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> speech is very motivational and personal.</s>
+        <s>He talks about many <choice><orig>story</orig><reg>stories</reg></choice> about the time before he became president of the <name type="geo">United States of America</name>.</s>
+        <s>Moreover he motivates the <choice><orig>american</orig><reg>American</reg></choice> people to achieve their goals and fight for their dreams like he did as <choice><orig>an</orig><reg>a</reg></choice> community organizer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

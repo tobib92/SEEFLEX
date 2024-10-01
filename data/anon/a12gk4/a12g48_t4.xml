@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g48_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey <name type="person">Christian</name>,</salute>
+      </p>
+      <p>
+        <s>I remembered our talk about a year <choice><orig>abroud</orig><reg>abroad</reg></choice> in <name type="geo">Berlin</name> while I read an article from <ref target="a12gk4_2" type="author">Marina Kormbaki</ref> about <ref target="a12gk4_2" type="title">Berlin speaks English</ref>.</s>
+        <s>She wrote about <name type="geo">Berlin</name> being the place to be for especially <choice><orig>English speaking</orig><reg>English-speaking</reg></choice> people, so I thought you would be interested.</s>
+      </p>
+      <p>
+        <s>First of all in my opinion a year <choice><orig>abroud</orig><reg>abroad</reg></choice> is generally a good idea for getting independent.</s>
+        <s>You'll meet new people and learn how to connect or even find the way to the supermarket on your own.</s>
+      </p>
+      <p>
+        <s>There are many things that could improve your own independence and confidence.</s>
+        <s>Okay, back to topic - <name type="geo">Berlin</name>.</s>
+        <s><name type="geo">Berlin</name> got described as a similar city to <name type="geo">London</name> <name type="geo">Brooklyn</name> or <name type="geo">Sydney</name>.</s>
+        <s><name type="geo">Berlin</name> is a very very big city, so there are places where nobody talks in German.</s>
+        <s>In <name type="geo">Berlin</name> are many <choice><orig>turkish</orig><reg>Turkish</reg></choice>	or <choice><orig>arabic</orig><reg>Arab</reg></choice> people, so it is multicultural there.</s>
+      </p>
+      <p>
+        <s>For example in <name type="geo">Neukölln</name> or <name type="geo">Schillerkriez</name> you really have to know English words, because everywhere are boards with English headlines.</s>
+      </p>
+      <p>
+        <s>In this article got a <choice><orig>british</orig><reg>British</reg></choice> guy quoted by saying that <name type="geo">Berlin</name> is not related to <name type="geo">Germany</name>.</s>
+        <s>He means that <name type="geo">Berlin</name> is a hotspot for <choice><orig>English speaking</orig><reg>English-speaking</reg></choice> people, so there is like a "bubble" of cultural mix.</s>
+        <s>He also said that they're talking English in his job and then <q>what else?</q>, so it's clearly normal to them.</s>
+        <s><name type="geo">Berlin</name> can <choice><orig>beside</orig><reg>besides</reg></choice> that make dreams come true.</s>
+      </p>
+      <p>
+        <s>There is freedom for creativity like art or culture.</s>
+        <s>You can live your dream for a year in <name type="geo">Germany</name> and don't have to worry for your German skills at the same time.</s>
+      </p>
+      <p>
+        <s>Even if <name type="geo">Berlin</name> is one of the biggest city, the living costs aren't <choice><orig>that</orig><reg>as</reg></choice> high as in other big city.</s>
+      </p>
+      <p>
+        <s>I hope you can decide better about the year in <name type="geo">Germany</name>.</s>
+        <s>I would love to see u in <name type="geo">Germany</name>, but do what you'll enjoy and love.</s>
+      </p>
+      <p>
+        <s>Would like to hear from you anyway.</s>
+      </p>
+      <p>
+        <s>See you,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

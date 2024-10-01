@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g06_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref> is written by <ref target="c12gk1_1" type="author">Shakespeare</ref> and stands in the sequence about the young man.</s>
+        <s>The sonnet is about love, which is constant and lasting till the death.</s>
+      </p>
+      <p>
+        <s>The sonnet has three quatrains, four lines each and a closing couplet.</s>
+        <s>The rhyme scheme is <name type="misc">abab cdcd efef gg</name> and is written in iambic pentameter.</s>
+      </p>
+      <p>
+        <s>The first quatrain is about the hindrances in a relationship, with love because people change, so love doesn't always mean love <ref target="c12gk1_1" type="line">(cf. l. 1-4)</ref>.</s>
+        <s>The following quatrain says that love is stable and nothing can throw it off balance.</s>
+        <s>Love is constant and and ever-fixed mark <ref target="c12gk1_1" type="line">(cf. l. 5-8)</ref>.</s>
+        <s>The last quatrain is about the fact that nothing can stop the love, not even the death, love doesn't <choice><orig>alters</orig><reg>alter</reg></choice>, but <gap reason="illegible" quantity="1" unit="word">nacts</gap> on till the death <ref target="c12gk1_1" type="line">(cf. l. 9-12)</ref>.</s>
+        <s>The closing couplet says that if his thesis <choice><orig>aren't</orig><reg>isn't</reg></choice> right, if it's proved that love can be stop, <choice><orig>than</orig><reg>then</reg></choice> he has never written and has nobody ever loved <ref target="c12gk1_1" type="line">(cf. l. 13-14)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

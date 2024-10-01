@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g37_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref>, written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> published by <name type="misc">Blog on Environment</name> on <date>February 5, 2014</date>, the author is talking about our planet and how we <add>(people)</add> destroy it.</s>
+      </p>
+      <p>
+        <s>The people have one chance with one planet, it's the only planet where people can live, because of water, oxygen and other vapor in the air.</s>
+      </p>
+      <p>
+        <s>But humans are destroying the future of this planet and the life.</s>
+      </p>
+      <p>
+        <s>They are a affecting the sea life, because they are thro their trash in the water and the microplastic which can't <foreign xml:lang="de">auflösen/verwesen</foreign> is affecting our health.</s>
+      </p>
+      <p>
+        <s>The experts say that if we don't change now and our ecological balance, life on earth will end.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g57_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> was released in <date>2018</date> and directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref>.</s>
+        <s>It is a film version of the novel <ref target="b10gk5_1" type="title">The Hate U Give</ref> by <ref target="b10gk5_1" type="author">Angie Thomas</ref> and about the ability to speak up.</s>
+      </p>
+      <p>
+        <s>In the given sequence <ref target="b10gk5_1" type="character">Starr</ref> is in school and sees her boyfriend <ref target="b10gk5_1" type="character">Chris</ref>, who walks down the hallway.</s>
+        <s>She turns away from him, but he stops at her locker and shows her his new music tape.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> tells him, that she is still mad at him because of something that happened a few days before.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> argues that he has not met her parents yet and says that he just wanted to find a way to be closer to <ref target="b10gk5_1" type="character">Starr</ref>, because she is very important to him.</s>
+        <s>He also says that he made the mixtape for her and demonstrates his love with dancing to the music in the school hallway.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

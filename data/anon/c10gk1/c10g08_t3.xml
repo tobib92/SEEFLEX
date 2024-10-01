@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g08_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>My name is <name type="person">Jane</name>.</s>
+        <s>I read the article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> and I'm shocked.</s>
+        <s>It <choice><orig>cant</orig><reg>can't</reg></choice> be happening, that immigrated people are helpless and alone with their linguistic problems and nobody cares!</s>
+        <s>Investing £100<choice><abbr>m</abbr><expan>million</expan></choice> for translators every year is completely unnecessary.</s>
+        <s>If the £100<choice><abbr>m</abbr><expan>million</expan></choice> were spend in education <choice><orig>programms</orig><reg>programs</reg></choice>, would've helped better, because all immigrated citizens are learning it all by themselves, which helps to memorize it better and they can recieve help when needed.</s>
+        <s>This option is also much cheaper because you only have to pay some school years.</s>
+        <s>When they finished the school, they won't need any translator.</s>
+        <s>By doing so, many money can be saved and invested into other things.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

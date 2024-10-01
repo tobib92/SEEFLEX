@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g27_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech <ref target="c10gk2_1" type="title">Remarks of president Barack Obama at student roundtable</ref> written by <ref target="c10gk2_1" type="speaker">Barack</ref> himself and published in <name type="geo">Istanbul, Turkey</name> <add>(<date>April 7, 2009</date>)</add> deals with the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> once was in <name type="geo">Turkey</name> to rebuild a relationship between the <name type="geo">United States</name> and the people of the Mulsim world.</s>
+      </p>
+      <p>
+        <s>He speaks about his experiences of how young people from different cultures build new connections and make the differences less different from each other.</s>
+        <s>He wants the teenagers to support opportunities to learn new <choice><orig>lenguages</orig><reg>languages</reg></choice> and serve and study, welcoming students from other countries.</s>
+        <s>Because of that he wants more simple exchanges, which should break down the walls between the different countries and make the world more familiar by sharing experiences and teaching the own culture and traditions.</s>
+        <s>Build new bridges instead of building new walls.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

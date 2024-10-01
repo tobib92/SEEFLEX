@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g38_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> employs various strategies and techniques to convince the reader of the presented opinion.</s>
+      </p>
+      <p>
+        <s>Generally he makes use of a formal register, as is seen for instance in the passage <quote>any prospect of us re-commissioning out collective brains</quote> <ref target="a12gk3_1" type="line">(l. 5)</ref>.</s>
+        <s>As the reader is expected to know what a <name type="misc">GCSE</name> <ref target="a12gk3_1" type="line">(l. 8)</ref> is, it is clear that the article is addressed primarily to well-educated British citizens.</s>
+      </p>
+      <p>
+        <s>Informal register however is employed as wel, e.g. <quote>Cobblers</quote> <ref target="a12gk3_1" type="line">(l. 15)</ref>, in order to connect the issue closer to the readerships everyday life.</s>
+      </p>
+      <p>
+        <s>The author gives examples for his arguments <ref target="a12gk3_1" type="line">(cf. ll. 9-11, 28f.)</ref> and quotes the <name type="misc">CBI/Pearson Education and Skills Survey</name> <ref target="a12gk3_1" type="line">(l. 19)</ref> to back his position up with further evidence.</s>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> repeats the word <quote>languages</quote> <ref target="a12gk3_1" type="line">(ll. 2, 4, 6, 11, 16, 17, 20)</ref> many times to stress the issue.</s>
+      </p>
+      <p>
+        <s>He also combines his line of argument with vivid descriptions such as <quote>you may crash or choke on the roaming data charges</quote> <ref target="a12gk3_1" type="line">(l. 14)</ref> and makes use of the ironic hyperbole <quote>wearable tech will enable intercultural telepathy anyway</quote> in order to attract the <choice><orig>readers</orig><reg>reader's</reg></choice> attention.</s>
+        <s>For the same reason and to create a common identity part of the readership is directly addressed towards the end of the article <quote>so, parents of the <name type="geo">UK</name> (and I am one)</quote> <ref target="a12gk3_1" type="line">(l. 30)</ref>.</s>
+        <s>As he aforementioned repetition enumerations also <choice><orig>empasize</orig><reg>emphasize</reg></choice> certain aspects.</s>
+        <s>In the case of <quote>languages are essential for out trade, prosperity, cultural exports, diplomacy and national security</quote> <ref target="a12gk3_1" type="line">(ll. 17f.)</ref> this is the importance of language learning.</s>
+      </p>
+      <p>
+        <s>To conclude it can be said that <ref target="a12gk3_1" type="author">Worne</ref> presents his view in a <choice><orig>proffessionaly</orig><reg>professionally</reg></choice> and convincing manner, also by <choice><orig>reffering</orig><reg>referring</reg></choice> to his <choice><orig>opponents</orig><reg>opponents'</reg></choice> arguments.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

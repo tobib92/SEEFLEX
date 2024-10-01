@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g02_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> and published in the <name type="misc">Sunday Times</name> on the <date>17th December 2016</date> deals with the topic why it is important to learn foreign languages.</s>
+      </p>
+      <p>
+        <s>In the first two paragraphs the author <choice><orig>give</orig><reg>gives</reg></choice> us information about Bangladeshi and the problems with translating.</s>
+      </p>
+      <p>
+        <s>In the last years more than £100<choice><abbr>m</abbr><expan>million</expan></choice> was spent on translating.</s>
+        <s>The costs are not the biggest problems, but we are sending confused signlas to <choice><orig>immigrates</orig><reg>immigrants</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name>, <choice><orig>everythink</orig><reg>everything</reg></choice> is in Bengali and every year it's the bottom of educational achievement.</s>
+        <s>There are no economic advance.</s>
+        <s>Bangladeshi people have no hope and have to chose between extremists and gang member.</s>
+      </p>
+      <p>
+        <s>The author immigrated with his parents in the <date>1970s</date> in <name type="geo">London</name>.</s>
+        <s>They all learned <choice><orig>englisch</orig><reg>English</reg></choice> fast.</s>
+        <s>The author thinks that the danger is in not speaking and we can <choice><orig>gane</orig><reg>gain</reg></choice> much when we all can speak English.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

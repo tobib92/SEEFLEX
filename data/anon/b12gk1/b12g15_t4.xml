@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g15_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello James,</salute>
+      </p>
+      <p>
+        <s>you asked me to tell you about our project <name type="misc">KLS goes green</name> because you found this article on our school homepage.</s>
+      </p>
+      <p>
+        <s>Firstly <quote>KLS goes green</quote> is a phrase for our <choice><orig>schools</orig><reg>school's</reg></choice> project day for sustainability and climate protection.</s>
+        <s>At this day every student has to do a workshop or project about environmental protection.</s>
+        <s>Teachers and students were together and found over 40 possible workshops because many parents and students collected <choice><orig>there</orig><reg>their</reg></choice> ideas about food sharing, better handling of water and clothes and also food in general.</s>
+        <s>This all was made because the climate was going through our school.</s>
+        <s>You definitely heard about <name type="misc">Fridays for future</name>.</s>
+        <s>Many of the students of our school took part in demonstration and brang the discussion about the climate change to our school so that the representatives of our students and the teachers came to the decision to organise <name type="misc">KLS goes green</name>.</s>
+        <s>The idea was to give everyone a better understanding of the change and especially the effects of.</s>
+        <s>Also there were some workshops to get a better understanding how to do something against the climate change and to handle vegan and vegetarian products.</s>
+        <s>The workshop on <quote>poetry slam</quote> is pointed out in the article.</s>
+        <s>At this workshop the students learned how to pronounce words and how to read out texts better to create a good effect which is very helpful and discussions about topics like that, according to the man who <choice><orig>hostet</orig><reg>hosted</reg></choice> the workshop.</s>
+      </p>
+      <p>
+        <s>The article comes to the conclusion that the workshop of <name type="misc">KLS goes green</name> <choice><orig>were</orig><reg>was</reg></choice> very successful and that the school is willing to repeat this day next year.</s>
+      </p>
+      <p>
+        <signed>Have a nice day buddy, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

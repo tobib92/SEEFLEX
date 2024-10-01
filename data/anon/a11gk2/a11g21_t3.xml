@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g21_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref> said that in <name type="geo">America</name> <quote>there are no barriers to success</quote>.</s>
+        <s>But I would disagree <choice><orig>whit</orig><reg>with</reg></choice> that opinion because it does matter where you from and what color you are.</s>
+        <s>I think the people in <name type="geo">America</name> still being in a small prozentic biased <choice><orig>whit</orig><reg>with</reg></choice> that point of view but I think that this prozentic is getting less.</s>
+        <s>And I don't <choice><orig>believ</orig><reg>believe</reg></choice> that everybody has the same opportunities.</s>
+        <s>Everybody can go to school which is important for success but the social environment is different, the parents and their education <choice><orig>matters</orig><reg>matter</reg></choice> too and how they are get around <choice><orig>whit</orig><reg>with</reg></choice> their child.</s>
+        <s>To put it in a <choice><orig>Nuttshell</orig><reg>nutshell</reg></choice> <ref target="a11gk2_1" type="speaker">Obama's</ref> opinion could become truth in the future because of the getting less prozentic of <choice><orig>rassists</orig><reg>racists</reg></choice> and maybe the social environment could get better <choice><orig>whit</orig><reg>with</reg></choice> facilities.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

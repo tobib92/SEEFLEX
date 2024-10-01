@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The director uses in this scene a lot of close ups to emphasize the mixture of <ref target="b10gk2_1" type="character">Starr's</ref> feelings between <choice><orig>beeing</orig><reg>being</reg></choice> mad at <ref target="b10gk2_1" type="character">Chris</ref> and <choice><orig>beeing</orig><reg>being</reg></choice> full in love with him.</s>
+      </p>
+      <p>
+        <s>The scene opens with a close up of <ref target="b10gk2_1" type="character">Chris</ref> who's doing handshakes with his homies.</s>
+      </p>
+      <p>
+        <s>In the next cut it is shown how he walks through the school highway with a bright smile on his face in a medium shot which informs the viewer that he seems to be a dude everyone likes.</s>
+      </p>
+      <p>
+        <s>The following shot shows <ref target="b10gk2_1" type="character">Starr</ref> in a medium shot.</s>
+        <s>While she looks at <ref target="b10gk2_1" type="character">Chris</ref> the camera zooms in to a close up to <choice><orig>underlines</orig><reg>underline</reg></choice> that she is a bit mad at <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s>In a <choice><abbr>POV</abbr><expan>point of view</expan></choice> cam of <ref target="b10gk2_1" type="character">Starr</ref> the camera <choice><orig>tilt</orig><reg>tilts</reg></choice> up to present how <ref target="b10gk2_1" type="character">Starr</ref> sees <ref target="b10gk2_1" type="character">Chris</ref> in this situation.</s>
+      </p>
+      <p>
+        <s>In the next shot we have a close up of <ref target="b10gk2_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> face to present or emphasize that she is mad at <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s>Behind her we can see <ref target="b10gk2_1" type="character">Chris</ref> in <choice><orig>a</orig><reg>an</reg></choice> over the shoulder shot to give information to the viewer that <ref target="b10gk2_1" type="character">Chris</ref> is standing behind her.</s>
+      </p>
+      <p>
+        <s>In the following shots we get many close ups to express the feelings of the two characters in this situation.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is mad at <ref target="b10gk2_1" type="character">Chris</ref> because of the incident with the condom and <ref target="b10gk2_1" type="character">Chris</ref> seems to be a bit <choice><orig>disapointed</orig><reg>disappointed</reg></choice> or sad about that <ref target="b10gk2_1" type="character">Starr</ref> won't go further in their <choice><orig>relashonship</orig><reg>relationship</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But important to notice is that the camera is always on eye level so it can be say that nobody in this situation is dominating.</s>
+      </p>
+      <p>
+        <s>In the next important shot is another close up with which the director shows the viewer that <ref target="b10gk2_1" type="character">Chris</ref> puts the <choice><orig>kabel</orig><reg>cable</reg></choice> of his headphones out of his phone and everyone hears the music and it is not music just the viewer can hear.</s>
+      </p>
+      <p>
+        <s>In the following cut we have a medium shot to show that <ref target="b10gk2_1" type="character">Chris</ref> is dancing/vibing to his new beat and the <choice><orig>sorounding</orig><reg>surrounding</reg></choice> that some people look at him and like how he is dancing.</s>
+        <s>Important to add here is that this shot was filmed in slow motion to emphasize that <ref target="b10gk2_1" type="character">Starr</ref> likes the moment because the time slowed down.</s>
+        <s>To show that <ref target="b10gk2_1" type="character">Starr</ref> now is happy is shown in a zoomed in close up.</s>
+      </p>
+      <p>
+        <s>The last shot of the scene is a last close up to present the romantic between them and they they are full in love.</s>
+      </p>
+      <p>
+        <s>As already mentioned that the director used a lot of close ups in this scene to underline the mixture of <ref target="b10gk2_1" type="character">Starr's</ref> feelings.</s>
+      </p>
+      <p>
+        <s>As a result it can be said that <ref target="b10gk2_1" type="character">Starr</ref> was in the beginning and very close to the end of this scene mad at <ref target="b10gk2_1" type="character">Chris</ref> but at the end she forgives <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

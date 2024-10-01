@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l10_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text out of the fourth scene of the theatre <ref target="a11lk1_1" type="title">Disgraced, Scene 4</ref> <choice><orig>wich</orig><reg>which</reg></choice> was <choice><orig>writen</orig><reg>written</reg></choice> by <ref target="a11lk1_1" type="author">Ayad Akhtar</ref> is about <ref target="a11lk1_1" type="character"><choice><orig>Abes</orig><reg>Abe's</reg></choice></ref> current situation and his uncle <ref target="a11lk1_1" type="character">Amir</ref> trying to help him out.</s>
+      </p>
+      <p>
+        <s>In the first part <ref target="a11lk1_1" type="line">(l. 1-19)</ref> <ref target="a11lk1_1" type="character">Abe</ref> tells <ref target="a11lk1_1" type="character">Emily</ref> and <ref target="a11lk1_1" type="character">Amir</ref>, that his immigration status has been brought up and that it is up for renewal.</s>
+      </p>
+      <p>
+        <s>In the following <ref target="a11lk1_1" type="line">(l. 16-39)</ref> <ref target="a11lk1_1" type="character">Amir</ref> calls <choice><orig>a</orig><reg>an</reg></choice> attorney who can help <ref target="a11lk1_1" type="character">Abe</ref> in this situation.</s>
+      </p>
+      <p>
+        <s>The third scene-part is about <ref target="a11lk1_1" type="character">Abe</ref> getting deported back to <name type="geo">Pakistan</name> where <ref target="a11lk1_1" type="character">Amir</ref> says the life is worse <ref target="a11lk1_1" type="line">(l. 36-45)</ref>.</s>
+      </p>
+      <p>
+        <s>After that <ref target="a11lk1_1" type="line">(l. 46-54)</ref> <ref target="a11lk1_1" type="character">Amir</ref> wants <ref target="a11lk1_1" type="character">Abe</ref> to play him more respect, but <ref target="a11lk1_1" type="character">Abe</ref> says, that he is just speaking the truth.</s>
+      </p>
+      <p>
+        <s>In the last part <ref target="a11lk1_1" type="line">(l. 60-75)</ref> <ref target="a11lk1_1" type="character">Amir</ref> disrespects <ref target="a11lk1_1" type="character">Abe</ref>, in the following <ref target="a11lk1_1" type="character">Abe</ref> tells <ref target="a11lk1_1" type="character">Amir</ref> that he will handle it himself.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

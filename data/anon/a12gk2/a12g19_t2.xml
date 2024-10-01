@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> written by <ref target="a12gk2_1" type="author">John Worne</ref> deals with the importance of learning foreign languages in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>In the first line the author refers to his headline <ref target="a12gk2_1" type="title">'can't, won't, don't'</ref>, he does that to begin his text with a statement and shows that these words are important because they show the view in the <name type="geo">UK</name> on learning a foreign language at this point.</s>
+      </p>
+      <p>
+        <s>After that the author uses a bad <choice><orig>conotated</orig><reg>connotated</reg></choice> word <quote>sadly</quote><ref target="a12gk2_1" type="line">(l. 4)</ref> with that word he shows that he is not satisfied with the situation in which the <name type="geo">UK</name> is at the <choice><orig>mome</orig><reg>moment</reg></choice> and it also makes clear that he thinks something has to change.</s>
+      </p>
+      <p>
+        <s>In the following he makes use of an antithesis <quote>while there is some progress - languages are now on the menu in more primary schools - there's a long haul ahead</quote><ref target="a12gk2_1" type="line">(ll. 6-7)</ref> for the reader it is clear now that the author is happy about this change but has the opinion that this change is way <choice><orig>to</orig><reg>too</reg></choice> less to really change something and it is not really a big in win in that topic.</s>
+        <s>It is a good thing which is done but <choice><orig>can not</orig><reg>cannot</reg></choice> erase the whole language problem.</s>
+      </p>
+      <p>
+        <s>After that he focuses on statistics about fewer people taking language <name type="misc">A-Levels</name> <quote>More than 10,000 fewer language A-Level exams were taken last year than at the end of the 1990s</quote> he does that to show that the trend is really goign down and that he is not just a crazy man who thinks there is a problem, with this statistic he can prove that there is a problem and something has to be done.</s>
+      </p>
+      <p>
+        <s>He now gives point from the other side which he <gap reason="illegible" quantity="1" unit="word">tiresly</gap> weakens <quote>Everyone speaks English in the world of business <add>(they don't)</add>, your iPhone will now translate road signs for you <add>(but you may crash or choke on the roaming data charges)</add></quote> <ref target="a12gk2_1" type="line">(ll. 12-14)</ref> he does that to show that it is no way to rely on your phone or to think that everybody could speak English because it is clear that not everybody can.</s>
+        <s>The only possible and right way for yourself is to learn the language and then to speak it and to make use of it.</s>
+      </p>
+      <p>
+        <s>Furthermore he is ironical in that sentence <quote>Perfectly intelligent people will tell you</quote><ref target="a12gk2_1" type="line">(l. 12)</ref> it shows that he is not persuaded by their points and views in addition to that he has the opinion that their points and unclever even dumb.</s>
+      </p>
+      <p>
+        <s>Another <choice><orig>stilistic</orig><reg>stylistic</reg></choice> device he usese is to use an informal word <quote>cobblers</quote><ref target="a12gk2_1" type="line">(l. 15)</ref>.</s>
+        <s>It is here he used to lead the <choice><orig>readers</orig><reg>reader's</reg></choice> attention to the said things and to show how false the ideas of the <quote>perfectly intelligent people</quote> are.</s>
+      </p>
+      <p>
+        <s>In the middle of the text he makes a clear statement <quote>Language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote><ref target="a12gk2_1" type="line">(l. 16)</ref>.</s>
+        <s><choice><orig>this</orig><reg>This</reg></choice> is the main statement and is used in the middle of his text to show the importance of learning foreign languages for the <name type="geo">UK</name> itself.</s>
+        <s>He uses the strong verb <quote>vital</quote> this shows that there is no other way than learning foreign languages to help the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>After that the author makes use of a list <quote>trade, prosperity, cultural exports, diplomacy and national security</quote><ref target="a12gk2_1" type="line">(ll. 17-18)</ref> this device makes clear what is connected with learning foreign languages and being able to use them.</s>
+      </p>
+      <p>
+        <s>In the next part of the text the author focuses on the next statistic in this case it is a survey <quote>The most recent <name type="misc">CBI / Pearson Education and skills survey</name> showed almost two-thirds of <name type="geo">UK</name> <choice><orig>business</orig><reg>businesses</reg></choice> need foreign language skills</quote><ref target="a12gk2_1" type="line">(ll. 19-20)</ref> with that he underlines his whole point to learn foreign languages with an officla statistic which creates the opinion from the reader that the author is right.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>know</orig><reg>now</reg></choice> uses <choice><orig>positiv</orig><reg>positively</reg></choice> connotated words <quote>the only really good piece of news is forward-thinking universities are offering students the chance to study a language alongside another degree subject</quote><ref target="a12gk2_1" type="line">(ll. 24-25)</ref>.</s>
+        <s>He wants the reader to understand that this is a good way to go and wants to persuade them with the use of this device.</s>
+      </p>
+      <p>
+        <s>At the end of his text the author appeals to other parents in the <name type="geo">UK</name>.</s>
+        <s><quote><choice><orig>so</orig><reg>So</reg></choice>, parents of the <name type="geo">UK</name><add>and I'm one</add>, what it is going to take is a cultural shift in homes up and down the land.</quote><ref target="a12gk2_1" type="line">(ll. 32-34)</ref> He wants to persuade parents to help their children learning foreign languages and make it easier for them in their later <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+      </p>
+      <p>
+        <s>To conclude the author has the opinion that foreign languages need to be taught everywhere in the <name type="geo">UK</name> because it is not only important for you it is important for the whole country.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

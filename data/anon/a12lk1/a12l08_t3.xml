@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l08_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Ministry of Education,</salute>
+      </p>
+      <p>
+        <s>my name is <name type="person">Jane Smith</name> and I recently heard that you had decided to take <name type="person">Shakespeare's</name> sonnets <choice><orig>of</orig><reg>off</reg></choice> the English school curriculum.</s>
+      </p>
+      <p>
+        <s>In my letter I hope to convince you of the opposite, that <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is worth being part of the English school curriculum.</s>
+        <s>Thank you in <choice><orig>advanced</orig><reg>advance</reg></choice> for reading my letter and hopefully for an <choice><orig>awnser</orig><reg>answer</reg></choice>.</s>
+      </p>
+      <p>
+        <s>To begin with, I can undertand why it could seem like <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is not worth being focused in class anymore because he lived 400 years ago, but one must also consider that <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> engages with timeless themes.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> engages with the topics of love, misery, desire, dedication and the brevity of life.</s>
+        <s>These themes are all timeless and can be discussed anytime.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> can be seen as an inspiration because he inspires people of all age to follow their hearts.</s>
+        <s>He highlights that life is <choice><orig>to</orig><reg>too</reg></choice> breve to not spend time with the beloved person.</s>
+      </p>
+      <p>
+        <s>Besides, the sonnets leaves a lot of room for interpretation.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> has the ability to really <choice><orig>visualizes</orig><reg>visualize</reg></choice> his beliefs in a small amount of words in my opinion this should be <choice><orig>worthshiped</orig><reg>worshipped</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Furthermore<name type="person">Shakespeare</name> has still a foothold in modern times, a lot of artists refer to<name type="person">Shakespeare</name> work.</s>
+        <s>For instance <name type="person">Tupac</name>, his work shows <choice><orig>massiv</orig><reg>massive</reg></choice> similarities to <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> work.</s>
+        <s>He even goes that far and says that he is the <choice><orig>bigest</orig><reg>biggest</reg></choice> poet of <choice><orig>an time</orig><reg>anytime</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Furthermore, <choice><orig>Shakespearse</orig><reg>Shakespeare's</reg></choice> sonnets and plays are translated into one hundred languages.</s>
+        <s>His work is known globally.</s>
+        <s>I believe<name type="person">Shakespeare</name> should be taught in his own motherland.</s>
+        <s>One <choice><orig>cant</orig><reg>can't</reg></choice> deny he is one of the most known artists in England he formed theatre and even performed and owned the <name type="misc"><choice><orig>globe</orig><reg>Globe</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>Additionally, Shakespeare is essential for the <choice><orig>british</orig><reg>British</reg></choice> culture.</s>
+        <s>His plays made England famous even <name type="person">Queen Elizabeth the first</name>, fell in love with his theatre work and poems.</s>
+        <s><name type="geo">Stratford-upon-Avon</name> is the centre for <choice><orig>literatur</orig><reg>literature</reg></choice>.</s>
+        <s>Tourists from all over the world are travelling to the meaningful city.</s>
+      </p>
+      <p>
+        <s>Moreover, <name type="person">Romeo and Juliet</name>, <name type="misc"><choice><orig>Mc beth</orig><reg>Macbeth</reg></choice></name>, <name type="misc">Othello</name> and many other plays already have modern interpretation and are still played in theatres.</s>
+      </p>
+      <p>
+        <s>Shouldn't one know what the original was about how the famous <choice><orig>play-writter</orig><reg>play-wright</reg></choice> got famous?</s>
+      </p>
+      <p>
+        <s>My last point is that<name type="person">Shakespeare</name> at some point didn't resemble the Elizabethan world view, he was <choice><orig>tollerant</orig><reg>tolerant</reg></choice> and illustrated a new picture of humanity.</s>
+      </p>
+      <p>
+        <s>I hope my arguments were able to convince you that <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is too significant, to not be in the <choice><orig>Englisch</orig><reg>English</reg></choice> school curriculum.</s>
+      </p>
+      <p>
+        <signed>With my full respect and yours <choice><orig>sincerly</orig><reg>sincerely</reg></choice>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

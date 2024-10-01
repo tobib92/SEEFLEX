@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g04_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Steven</salute>
+      </p>
+      <p>
+        <s>I how to read your email on the article <ref target="b12gk1_2" type="title">Mehr Bio nicht nur am Freitag</ref> and I want to answer your questions on <name type="misc">KLS goes green</name>.</s>
+      </p>
+      <p>
+        <s><name type="misc">KLS goes green</name> was a day <choice><orig>were</orig><reg>where</reg></choice> the whole school, so teacher, students and also parents concerned themselves with a climate change, and thought about different ways how everyone of us can do his little part in his every day like <choice><orig>aggainst</orig><reg>against</reg></choice> climate change.</s>
+        <s>The day was organized by the students and the teachers, as the students have become more and more political and wanted to contribute theirselve more.</s>
+        <s>Another example of this growing interest and also initiative of students is the <name type="misc">Friday for Future</name> movement.</s>
+        <s>I think you have heard about it, haven't you.</s>
+        <s>So on that day, <choice><orig>the</orig><reg>there</reg></choice> were over 40 workshops in our school and also all over the city, were <gap reason="illegible" quantity="1" unit="word">lere</gap> the students, thought about, how we could improve our everyday life to make it more environmental friendly.</s>
+      </p>
+      <p>
+        <s>For example we thought about food sharing or environmental friendly <gap reason="illegible" quantity="1" unit="word">spedes</gap> in our school kiosk.</s>
+      </p>
+      <p>
+        <s>In my opinion this day was a great idea and it should be repeated, because it's important that everyone contributes hisself with climate change and thinks how he can do his little pod for fighting <choice><orig>aggainst</orig><reg>against</reg></choice> the climate change.</s>
+      </p>
+      <p>
+        <s>I was really surprised, but also happy that you heard about <name type="misc">KLS goes green</name>.</s>
+      </p>
+      <p>
+        <s>If you have any questions left you can ask myself.</s>
+        <s>In hope to hear from you.</s>
+      </p>
+      <p>
+        <signed>Yours <choice><orig>sincelary</orig><reg>sincerely</reg></choice>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

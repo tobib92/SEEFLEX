@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g14_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The question is if the film <ref target="b10gk2_1" type="title">The Hate U Give</ref> opens my eyes and the impact it had on me.</s>
+        <s>I think that a film like this, can <choice><orig>opens</orig><reg>open</reg></choice> your eyes about many themes.</s>
+        <s>For example <choice><orig>rasism</orig><reg>racism</reg></choice> or teenage life.</s>
+        <s>For me it <choice><orig>open</orig><reg>opens</reg></choice> my eyes in how hard she has, because of <choice><orig>he</orig><reg>her</reg></choice> skincolour and where she <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>Also when the police <choice><orig>oficer</orig><reg>officer</reg></choice> killed <ref target="b10gk2_1" type="character">Khalil</ref>, because he thought he had a gun, but it only was a hairbrush.</s>
+        <s>It's hard to see people fighting because of their skincolour and get bullied because of this irrelevant feature.</s>
+        <s>I think when you want to be accepted like you are, with your good sides and <choice><orig>negatives</orig><reg>negative</reg></choice> sides, you <choice><orig>musst</orig><reg>must</reg></choice> accept also all the other people.</s>
+        <s>So all in all I learned some things, or I was <choice><orig>remided</orig><reg>reminded</reg></choice> of some really important points.</s>
+        <s>I think it is a great movie about <choice><orig>rasism</orig><reg>racism</reg></choice> and teenage life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

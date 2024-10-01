@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g09_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> stated that the <name type="misc">Brexit</name> is a lose-lose situation for both.</s>
+        <s>I would agree partly with him because it's way worse for <name type="geo">Britain</name> than for <name type="geo">Europe</name>.</s>
+      </p>
+      <p>
+        <s><name type="geo">Britain</name> suffers from several shortages like truck drivers and even some products, because of new travel restrictions for workers which are caused by the <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s>Moreover companies in the <name type="geo">UK</name> are challenged with new paperwork, which is also caused by the <name type="misc">Brexit</name> while I as a European haven't even noticed any change since <name type="geo">Britain</name> left the <name type="misc">EU</name>.</s>
+        <s>Of course some European companies may also suffer from the new paperwork.</s>
+        <s>But in general the life in the <name type="misc">EU</name> hasn't changed.</s>
+      </p>
+      <p>
+        <s>So in conclusion, I don't think that it's a <choice><orig>reel</orig><reg>real</reg></choice> lose-lose situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

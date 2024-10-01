@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11l01_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <choice><orig>Diary</orig><reg>diary</reg></choice>,</salute>
+      </p>
+      <p>
+        <s>I think I've never been so angry at someone.</s>
+        <s>How could I ever have looked up to him?</s>
+        <s>He is betraying <choice><orig>is</orig><reg>his</reg></choice> own family.</s>
+      </p>
+      <p>
+        <s>By rejecting his culture and <choice><orig>deniing</orig><reg>denying</reg></choice> his origin he also is rejecting me.</s>
+      </p>
+      <p>
+        <s>I am so incredibly disappointed.</s>
+        <s>I loved my uncle and it hurts so much to realize that he is not the person I thought he was.</s>
+      </p>
+      <p>
+        <s>I mean who always said the <name type="misc"><choice><orig>Quaran</orig><reg>Quran</reg></choice></name> is brutal, but then he beats up his own wife...</s>
+      </p>
+      <p>
+        <s>He is not honest with himself.</s>
+        <s>He thinks his life is better in <name type="geo">America</name> but that is not true.</s>
+        <s>He lost his job, he gets discriminated on a daily basis because of his appearance but instead of trying to understand my anger and frustration he denies that these things happen.</s>
+      </p>
+      <p>
+        <s>It's not right that my life is more difficult because I am not from <name type="geo">America</name>.</s>
+        <s>I am going to turn on my own people, no matter how much the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> pressures me.</s>
+        <s>I would rather go back to <name type="geo">Pakistan</name> than <choice><orig>beeing</orig><reg>being</reg></choice> suspected all the time.</s>
+      </p>
+      <p>
+        <s>At least I would be like everyone else there.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> is going to stay here in his self-hatred.</s>
+        <s>He is never going to be happy because he is denying the truth.</s>
+        <s>But he also deserves no better.</s>
+      </p>
+      <p>
+        <signed>Yours Hussein</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

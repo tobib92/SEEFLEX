@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I'm going to analysing the character of <ref target="b11gk1_1" type="character">Helen</ref> in this <choice><orig>Part</orig><reg>part</reg></choice> of the novel.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is even smaller than <ref target="b11gk1_1" type="character">Pearl</ref>, but she is only eight years old and <ref target="b11gk1_1" type="character">Pearl</ref> is fourteen years old <ref target="b11gk1_1" type="line">(l. 1-2)</ref>.</s>
+        <s>She never stayed <choice><orig>realy</orig><reg>really</reg></choice> at one home in her life, <quote>she lived here and there near a beach and near a park</quote> <ref target="b11gk1_1" type="line">(l. 7-8)</ref>.</s>
+        <s>To say it in a detail way, she lived in 17 different foster homes, because she <choice><orig>have</orig><reg>has</reg></choice> a <quote>collection of telephones with 17 different phones and chargers in her collection of phones</quote> <ref target="b11gk1_1" type="line">(l. 26)</ref>.</s>
+        <s>One of every foster home she goes to.</s>
+        <s>Furthermore <ref target="b11gk1_1" type="character">Helen</ref> <choice><orig>have</orig><reg>has</reg></choice> <quote>ten brothers and eleven sisters</quote> <ref target="b11gk1_1" type="line">(l. 7)</ref>, so she had a very big family.</s>
+        <s>In some of her foster homes, she had very bad conditions like <quote>She had to reuse dental floss and tea bags and was given one square of toilet paper [...] [or] she slept on the floor in a hallway</quote> <ref target="b11gk1_1" type="line">(l. 15-16)</ref>.</s>
+        <s>In <ref target="b11gk1_1" type="character">Pearl's</ref> opinion, <ref target="b11gk1_1" type="character">Helen</ref> smelled like <quote>burned marshmallows</quote> and she is person who <choice><orig>talk</orig><reg>talks</reg></choice> nonstop <ref target="b11gk1_1" type="line">(l. 3-5)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> also <choice><orig>have</orig><reg>has</reg></choice> three best friends, who named <ref target="b11gk1_1" type="character">Lulu</ref>, <ref target="b11gk1_1" type="character">Gina</ref> and <ref target="b11gk1_1" type="character">Romey</ref> and she <choice><orig>use</orig><reg>uses</reg></choice> her phone collection to call them.</s>
+        <s>She is also a person who <choice><orig>search</orig><reg>searches</reg></choice> and needs people cuddle with, like in the end of this part of the novel, <quote>she rubbed her forehead against [Margot's] upper arm</quote> <ref target="b11gk1_1" type="line">(l. 41-42)</ref>.</s>
+      </p>
+      <p>
+        <s>To come to a conclusion <ref target="b11gk1_1" type="character">Helen</ref> is a very cute and happy child, which <choice><orig>love</orig><reg>loves</reg></choice> to live although she had many ups and <choice><orig>down's</orig><reg>downs</reg></choice> in her <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

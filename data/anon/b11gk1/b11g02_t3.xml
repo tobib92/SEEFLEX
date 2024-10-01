@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> was written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in <date>2019</date>.</s>
+        <s>The novel deals with a girl <ref target="b11gk1_1" type="character">Pearl</ref> and his mother <ref target="b11gk1_1" type="character">Margot</ref> who live since 14 years in a car in the trailer park near of <name type="geo">Florida</name>.</s>
+      </p>
+      <p>
+        <s>In the following <choice><orig>i'm</orig><reg>I'm</reg></choice> going to write a comment about that the <quote>CPS should have taken Pearl away from Margot and the trailer park, put her into a foster home and help her to get a good education and prepare for a better and independent way of life</quote>.</s>
+      </p>
+      <p>
+        <s>At first I start with the contra arguments.</s>
+      </p>
+      <p>
+        <s>The first contra argument is that she lives <choice><orig>an</orig><reg>a</reg></choice> completely other life.</s>
+        <s>She could lose his mother and his friends what could be a damage for <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+      </p>
+      <p>
+        <s>Another contra argument is that <ref target="b11gk1_1" type="character">Helen</ref> even not became a good education and a better way of life from the house where she stands and also <choice><orig>live</orig><reg>lives</reg></choice> in bad conditions.</s>
+        <s>This it can be see at the fact that she only became cereal to eat and she became one square of toilet paper a day.</s>
+      </p>
+      <p>
+        <s>But ther are also pro arguments.</s>
+        <s>The first pro argument is that she became a better education and can live a normal life how the others what is very important for <choice><orig>childrens</orig><reg>children</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Another pro argument is that she lives in a house and <choice><orig>sleep</orig><reg>sleeps</reg></choice> in a bed what is better than living in a car.</s>
+      </p>
+      <p>
+        <s>The last pro argument is that with a good education she can <choice><orig>tries</orig><reg>try</reg></choice> to not smoke anymore because she <choice><orig>meet</orig><reg>meets</reg></choice> other friends and live a different <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In my opinion it should be better for <ref target="b11gk1_1" type="character">Pearl</ref> when the <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> brings her into a foster home because she actually lives in very bad conditions and because in a foster home she <choice><orig>become</orig><reg>becomes</reg></choice> a good education what it's important for a girl.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g41_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article at hand is going to be analyzed on the intention of the author and how she brings it across through the use of language and stylistic devices.</s>
+        <s>Starting with the language being used in the article, it can be said that it is mainly formal and the vocabulary is rather on a higher level, due to the <choice><orig>complexety</orig><reg>complexity</reg></choice> of the topic.</s>
+        <s><ref target="a10gk5_1" type="author">Ankita Mitra's</ref> article is a harsh <choice><orig>critizm</orig><reg>criticism</reg></choice> on the behaviour against the global environment and <choice><orig>it's</orig><reg>its</reg></choice> devastating effects on our life.</s>
+        <s>So her intention is to make the people aware on the big problem of environmental pollution and she tries to point out the urgent need of a change to secure human life on the earth.</s>
+        <s>She starts by making a general statement <quote>... pollutants contaminate the environment [...] and it has hazardous effect on the natural world</quote> <ref target="a10gk5_1" type="line">(l. 2)</ref> to underline her opinion and intention.</s>
+        <s>This causes the reader to think <choice><orig>immediatly</orig><reg>immediately</reg></choice> about the real dangers of environmental pollution and that has a big impact on the <choice><orig>readers</orig><reg>readers'</reg></choice> behaviour and point of view of the topic.</s>
+        <s>Besides, <ref target="a10gk5_1" type="author">Ankita</ref> gives background information <quote>Without air and water the earth would be like other planets ...</quote> <ref target="a10gk5_1" type="line">(ll. 5)</ref> to point out the importance of the ecological balance on our earth.</s>
+        <s>This makes the reader understand the whole topic in <choice><orig>it's</orig><reg>its</reg></choice> <q>deepness</q> and gives the reader a better overview on what negative effects environmental pollution has on our planet.</s>
+        <s>The author also uses negative connotated vocabulary for example <quote>harmful</quote> <ref target="a10gk5_1" type="line">(l. 1)</ref>, <quote>hazardous</quote> <ref target="a10gk5_1" type="line">(l. 2)</ref>, <quote>destructive</quote> <ref target="a10gk5_1" type="line">(l. 14)</ref> or <quote>contaminated</quote> <ref target="a10gk5_1" type="line">(l. 25)</ref> to evoke the mass of problems of the increasing environmental pollution.</s>
+        <s>Negative <choice><orig>connotade</orig><reg>connotaded</reg></choice> vocabulary creates a specific type of emotions which helps to comprehend the author's point of view and makes the reader think about what we are doing wrong and how we may stop or decrease the environmental pollution.</s>
+        <s>Moreover, <ref target="a10gk5_1" type="author">Ankita Mitra</ref> states and indirect question <quote>All [...] leaves us wondering if all our achievements and industrial civilization [...] helps us or takes us down [...]</quote> <ref target="a10gk5_1" type="line">(ll. 47)</ref> to rethink the behaviour of humanity against the environment through all those years.</s>
+        <s>It creates the effect, that it makes the reader questioning about their lifestyle and points out that environmental pollution is a big global issue.</s>
+      </p>
+      <p>
+        <s>Furthermore she makes use of an enumeration <quote>... caused by nuclear tests, industries, automobiles...</quote> <ref target="a10gk5_1" type="line">(ll. 22)</ref> for the purpose of showing that there are so many causes of environmental pollution.</s>
+        <s>This lefts the reader thinking how he/she can change something to stop the pollution of the environment.</s>
+        <s>The author also uses a hyperbole <quote>all contaminated [...] incurable disease</quote> to underline the destructive effect of the environmental pollution.</s>
+        <s>That makes the article more convincing due to the fact that it creates a pressuring effect and also points out the negative effects as well.</s>
+        <s>Besides, <ref target="a10gk5_1" type="author">Ankita Mitra</ref> describes a specific situation of a tragedy <quote>The worst industrial environment tragedy...</quote> <ref target="a10gk5_1" type="line">(ll. 28)</ref> to evoke the realness of the increasing pollution.</s>
+        <s>That situation creates an emotional connection to the reader and makes him/her feel compassion and sad which leads to a bigger impact on the reader's point of view and makes him/her think about the topic even when finished reading the article.</s>
+      </p>
+      <p>
+        <s>Furthermore, she makes use of a simile <quote>... our world would be uninhabitable like Hiroshima</quote> <ref target="a10gk5_1" type="line">(l. 34)</ref> to <choice><orig>proove</orig><reg>prove</reg></choice> the <q>harmfulness</q> of the increasing pollution.</s>
+        <s>It expresses the dangers of environmental pollution and shows that this global issue needs to be stopped.</s>
+        <s>Lastly, the author states an important statement <quote>If we fail to restore the ecological balance right now, it would be too late tomorrow</quote> <ref target="a10gk5_1" type="line">(l. 36)</ref> for the purpose of underlining the need of a change.</s>
+        <s>This has a big impact on the reader as well and makes him/her think about a solution/change to decrease the global issue of environmental pollution.</s>
+      </p>
+      <p>
+        <s>All in all, it can be said that the article portrays the message of the dangers of environmental pollution and <choice><orig>it's</orig><reg>its</reg></choice> destructive effects with the intention to show that it is time to change something to end this problem to secure our life and those who live on the earth as well for the upcoming future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

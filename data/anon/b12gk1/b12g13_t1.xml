@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g13_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech, given at the summit opening ceremony in <name type="geo">Glasgow</name> on <date>1 November 2021</date>, <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> talks about the necessity to take action in order to combat the climate change.</s>
+        <s>The audience is the <name type="misc">COP26</name> members, so the representatives of many countries that meet for the <choice><abbr>UN</abbr><expan>United Nations</expan></choice> climate conference in <name type="geo">Glasgow</name>.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, the British Prime Minister, presents his idea of the climate crisis as an action film like <name type="person">James Bond</name>.</s>
+        <s>The world is under great pressure to solve a vast problem that effects everyone.</s>
+        <s>He says that the climate change is rapidly moving on an that is why something has to happen now.</s>
+        <s>He refers to summits and conferences in the past where promises have been made but never have been realised.</s>
+        <s>In order to calm the angry and nervous crowd that is watching politics this is the time to get real about the crisis.</s>
+        <s>He states that the necessary funds already exist and now people need the will to act.</s>
+        <s>Therefore everyone has to work together and states need to help each other.</s>
+        <s>Furthermore he goes into the topic of all the young people and unborn individuals that will suffer from the failures of <choice><orig>nowdays</orig><reg>nowadays</reg></choice> generations.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> wants to make a change so that humanity can look back at <name type="misc">COP26</name> and appreciate their <choice><orig>decissions</orig><reg>decisions</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

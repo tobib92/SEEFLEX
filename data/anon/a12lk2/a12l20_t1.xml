@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l20_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text extract from Act II, scene 2 from <ref target="a12lk2_1" type="author"><choice><orig>William Shakespear's</orig><reg>William Shakespeare's</reg></choice></ref> <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> is about <name type="person">Juliet</name> being alone on her balcony at night, secretly talking about her concerns with reference to <name type="person">Romeo</name>, who hides secretly in the dark, listening and then reacting to these concerns.</s>
+      </p>
+      <p>
+        <s>The scene begins with <name type="person">Juliet</name> just thinking out loud the whole situation of <name type="person">Romeo</name> being a <name type="person">Montague</name>.</s>
+        <s><name type="person">Romeo</name> is then showing his presence by talking, but still hidden in the darkness.</s>
+        <s><name type="person">Juliet</name> is surprised how he found her and asks for the reason of his visit, then she worries about her relatives, the <name type="person">Capulets</name>, seeing <name type="person">Romeo</name> here because they would probably murder him.</s>
+        <s><name type="person">Romeo</name> however does not care and tells <name type="person">Juliet</name> that he is not <choice><orig>scarred</orig><reg>scared</reg></choice> to die and that the risk is worth it seeing her.</s>
+        <s>Besides that he says that he is well hidden in the darkness.</s>
+        <s>When <name type="person">Juliet</name> asks <name type="person">Romeo</name> how he found her, he tells her by love.</s>
+        <s><name type="person">Juliet</name> then expresses her feelings for <name type="person">Romeo</name> in a monologue.</s>
+        <s>He reacts with a promise, which is taken with a critical view by <name type="person">Juliet</name>.</s>
+        <s>The scene ends with <name type="person">Romeo</name> and <name type="person">Juliet</name> knowing now about their love for eachother with a more clearer view.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

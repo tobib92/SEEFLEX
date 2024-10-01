@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g57_t2</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>remember when you told me that <quote>student exchanges are a waste of time</quote>?</s>
+      </p>
+      <p>
+        <s>This makes me think <choice><orig>wether</orig><reg>whether</reg></choice> student exchanges are a good idea to spend a semester or as you said a complete <quote>waste of time</quote>.</s>
+      </p>
+      <p>
+        <s>In my opinion, going on a student exchange could be a fun and helpful way to spend one or two semesters going abroad, for several reasons.</s>
+        <s>First, being in another country can help you become a multilingual as there is no better way to learn a language than talking to foreign people.</s>
+        <s>This is especially important at school or university and later in workplace.</s>
+        <s>Therefore, you are able to communicate with more people around the world.</s>
+        <s>Moreover, student exchanges help you crossing personal and cultural boundaries as you get to experience plenty of new things and cultures.</s>
+        <s>This helps you learning about different cultures, too become more cosmopolitan and open minded and forget about the differences of each and every culture.</s>
+        <s>Of course, being in a different country can be scary and terrifying at the beginning, but the foreign people are more than willed to help you to find your way.</s>
+        <s>Simple student exchanges can help make the world a better place by working together and forgetting about our differences.</s>
+        <s>The world is more connected than ever and taking part in student exchanges is incredibly helpful at finding better jobs.</s>
+      </p>
+      <p>
+        <s>All in all, I think that student exchanges are a good way of spending a semester because people come together and learn about their cultures which makes the world a better place.</s>
+      </p>
+      <p>
+        <s>In any case, someday, I want to take part in a student exchange.</s>
+        <s>I hope I was able to maybe change your opinion and overthink what you said.</s>
+      </p>
+      <p>
+        <signed>Yours, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

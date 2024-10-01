@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g62_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The expert from the speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> is given by <ref target="c10gk4_1" type="speaker">Barack Obama</ref> at the <date>7th April 2009</date> during a visit to <name type="geo">Istanbul</name>, where he hosted a students roundtable at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>.</s>
+        <s>The speech is given for young people to support them to get experience with different cultures, languages and lifestyles.</s>
+        <s>But the speech should also inspire young people to do a student exchanges.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk4_1" type="speaker">Barack Obama</ref> is the opinion that intercultural understanding is really important and he would like to create cohesion between the world.</s>
+      </p>
+      <p>
+        <s>One <choice><orig>Argument</orig><reg>argument</reg></choice> is that he's <quote>deeply committed to rebuilding a relationship between the United States and the people of the Muslim world</quote> <ref target="c10gk4_1" type="line">(ll. 1, 2)</ref> but <quote>one that's grounded in mutual interest and mutual respect</quote> <ref target="c10gk4_1" type="line">(ll. 2, 3)</ref>.</s>
+        <s>The speaker likes it to see <quote>a new spirit of activism and responsibility</quote> <ref target="c10gk4_1" type="line">(l. 4)</ref>, his given examples where he <choice><orig>have</orig><reg>has</reg></choice> seen it is in <quote>young Americans who are choosing to teach in our schools or volunteer abroad</quote> <ref target="c10gk4_1" type="line">(l. 5)</ref> but also in his presidential campaign where young people <quote>provided the energy and the idealism that made effort possible</quote> <ref target="c10gk4_1" type="line">(l. 6)</ref>.</s>
+        <s>One more example are <quote>travelling abroad</quote> <ref target="c10gk4_1" type="line">(l. 7)</ref> and the <quote>speaking to groups</quote> <ref target="c10gk4_1" type="line">(l. 7)</ref>.</s>
+        <s>His motivation to give <choice><orig>speechs</orig><reg>speeches</reg></choice> like this is <quote>to find new ways to connect young Americans to young people all around the world</quote> <ref target="c10gk4_1" type="line">(ll. 9/10)</ref> in form of <quote>supporting opportunities to learn new languages</quote> <ref target="c10gk4_1" type="line">(l. 10)</ref> <quote>serve and study</quote> <ref target="c10gk4_1" type="line">(l. 10)</ref> and <quote>welcoming students from other countries</quote> <ref target="c10gk4_1" type="line">(l. 10/11)</ref>.</s>
+        <s>He called it a <quote>critical part of how America engages the world</quote> <ref target="c10gk4_1" type="line">(l. 11/12)</ref>.</s>
+      </p>
+      <p>
+        <s>In his view <quote>simple exchanges can break down walls</quote> <ref target="c10gk4_1" type="line">(l. 13)</ref>, when <quote>people come together</quote> <ref target="c10gk4_1" type="line">(l. 13)</ref> and <quote>speak to one other</quote> <ref target="c10gk4_1" type="line">(l. 13/14)</ref> or <quote>share common experience</quote> <ref target="c10gk4_1" type="line">(l. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>This important to don't forget <quote>common humanity</quote> <ref target="c10gk4_1" type="line">(l. 14)</ref> is really important and <quote>we're joined together by all pursuit of a life that's productive and purposeful</quote> <ref target="c10gk4_1" type="line">(l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>The greatest thing that could happen is when <quote>mistrust begins to fade</quote> <ref target="c10gk4_1" type="line">(l. 16)</ref> and <quote>our smaller differences no longer overshadow the things that we share</quote> <ref target="c10gk4_1" type="line">(ll. 16/17)</ref>.</s>
+      </p>
+      <p>
+        <s>At the end he <choice><orig>invite</orig><reg>invites</reg></choice> the publicum to choose <quote>to build new bridges instead of building new walls</quote> <ref target="c10gk4_1" type="line">(l. 18/19)</ref>, <quote>to put aside longstanding division in pursuit of lasting peace</quote> <ref target="c10gk4_1" type="line">(ll. 19/20)</ref>, and <quote>advance a picspelity that is shared by all people and not just the wealthy few</quote> <ref target="c10gk4_1" type="line">(ll. 20/21)</ref>.</s>
+      </p>
+      <p>
+        <s>He promises that everyone will find in these <quote>endeavors</quote> <ref target="c10gk4_1" type="line">(l. 21)</ref> <quote>a partner and a supporter and a friend in the United States of America</quote> <ref target="c10gk4_1" type="line">(ll. 21/22)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all, you could say <ref target="c10gk4_1" type="speaker">Barack Obama</ref> is <choice><orig>a</orig><reg>an</reg></choice> absolutely supporter of school exchanges and made it to one of his <choice><orig>taks</orig><reg>tasks</reg></choice> as the president to create cohesion and make it to one of his request to help people to get <choice><orig>a</orig><reg>an</reg></choice> intercultural understanding.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

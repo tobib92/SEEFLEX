@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g28_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Mr John Worne,</salute>
+      </p>
+      <p>
+        <s>I enjoyed reading your article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't don't</ref> from <date>27 January 2015</date>.</s>
+        <s>I am a student and I live in Canterbury.</s>
+        <s>I am fascinated of languages and want to learn a foreign language superfluous.</s>
+      </p>
+      <p>
+        <s>You are claiming that not enough children and students would learn foreign languages in the UK which would lead to problems.</s>
+      </p>
+      <p>
+        <s>It is not ideal for the job life to speak only one language and it even can be dangerous for the economy and image of the UK.</s>
+        <s>I agree with you.</s>
+        <s>I think it is very important to learn foreign langauges, at best at early age when it is easier for the human brain to memorize vocabulary and learn complex structures like grammar.</s>
+        <s>The number of fluent languages per person is very low in comparison to many similarly developed countries and this should be changed.</s>
+        <s>I like your suggestion to involve the parents to the assignment.</s>
+        <s>The politics cannot solve it alone but I am sure that the UK can leave the <quote>language poverty</quote> if many people are convinced of this plan.</s>
+      </p>
+      <p>
+        <signed>John Smith, Canterbury</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

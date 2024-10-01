@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g34_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The main function of the scene is to display the problem of police violence in <name type="geo">Garden Heights</name> while also <choice><orig>refering</orig><reg>referring</reg></choice> to the problem of gangs in the neighbourhood.</s>
+        <s>This is shown by creating a calm atmosphere in the <choice><orig>begining</orig><reg>beginning</reg></choice> of the scene with the <ref target="b10gk3_1" type="character">Carters</ref> happily and peacefully eating at a diner after saying their prayers.</s>
+        <s>There is also calming music added in that moment to indicate that the <ref target="b10gk3_1" type="character">Carters</ref> are a happy and normal family.</s>
+        <s>This can be seen as well when noticing the close ups of the faces of the characters to show their smiles and calm expressions.</s>
+        <s>By noticing the family laughing together one can conclude that they are happy and comfortable around each other.</s>
+      </p>
+      <p>
+        <s>As soon as <ref target="b10gk3_1" type="character">Starr</ref> sees <ref target="b10gk3_1" type="character">King</ref> and his men waiting and staring at them outside the diner, the music changes to a more menacing music which drastically changes the mood.</s>
+        <s>At this point the viewer is presented <ref target="b10gk3_1" type="character">Maverick</ref> as a loving and caring father who is eager to protect his family.</s>
+        <s>This is indicated by showing a close up of <ref target="b10gk3_1" type="character">Maverick's</ref> face changing to a serious expression when noticing <ref target="b10gk3_1" type="character">King</ref> <choice><orig>uppon</orig><reg>upon</reg></choice> which he goes outside to fight him.</s>
+      </p>
+      <p>
+        <s>Additionally, the problem of gangs in <name type="geo">Garden Heights</name> is shown by displaying <ref target="b10gk3_1" type="character">King</ref> and his men in a medium long shot slowly moving towards them to create a menacing atmosphere and feeling while also showing the danger coming from them.</s>
+        <s>The viewer also sees <ref target="b10gk3_1" type="character">King</ref> and his men driving away from the perspective of <ref target="b10gk3_1" type="character">Maverick</ref> to create the feeling that the and <ref target="b10gk3_1" type="character">Maverick</ref> can't do anything to prevent them from leaving and fleeing from the police resulting in the conclusion that they are superior than the viewer and <ref target="b10gk3_1" type="character">Maverick</ref>.</s>
+      </p>
+      <p>
+        <s>The problem of police violence is presented by showing a medium long shot of <ref target="b10gk3_1" type="character">Maverick</ref> taking a few steps backwards after showing the viewer a shot of <ref target="b10gk3_1" type="character">Maverick</ref> from behind the officers in an over-the-shoulder shot.</s>
+        <s>This indicates that the viewer is positioned as a character in the moment who supports the police.</s>
+        <s>After one officer asks for <ref target="b10gk3_1" type="character"><choice><orig>Sevens</orig><reg>Seven's</reg></choice></ref> <choice><abbr>ID</abbr><expan>identification</expan></choice>, the other <choice><orig>officers</orig><reg>officer</reg></choice> takes <ref target="b10gk3_1" type="character">Maverick</ref> to ground and pressing him to the ground which is presented many times in a close up of <ref target="b10gk3_1" type="character">Maverick</ref> lying on the ground.</s>
+        <s>Furthermore, a big close up of his face is shown to express his anger towards the police for including <ref target="b10gk3_1" type="character">Seven</ref> in the situation.</s>
+        <s>This functions is also supported by the phrase <quote>consider this a warning</quote> made by one police officer before both of them flee or rather drive away.</s>
+        <s>Another way how it's presented is by focussing on the shocked faces of <ref target="b10gk3_1" type="character">Starr</ref> and <ref target="b10gk3_1" type="character">Sekani</ref> who's seen crying as well with the usage of close ups.</s>
+      </p>
+      <p>
+        <s>The viewer is also presented the people in <name type="geo">Garden Heights</name> as a community supporting each other.</s>
+        <s>A proof for that is the medium long shot of the situation outside of the diner where everyone one in the diner can be seen watching the actions and most of them filming.</s>
+        <s>Because of that one can say that the people in <name type="geo">Garden Heights</name> try to help and support each other as a community.</s>
+      </p>
+      <p>
+        <s>In conclusion, the problem of police violence is displayed by showing the problem of gangs, the shocked faces of <ref target="b10gk3_1" type="character">Starr</ref> and <ref target="b10gk3_1" type="character">Sekani</ref> and the people in <name type="geo">Garden Heights</name> supporting each other against the police.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

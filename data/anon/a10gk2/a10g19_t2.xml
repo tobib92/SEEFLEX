@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> uses a lot of stylistic devices to make the reader agree to his opinion that unions are no longer <choice><orig>usefull</orig><reg>useful</reg></choice>.</s>
+        <s>In the following text I will analyse them.</s>
+      </p>
+      <p>
+        <s>The first stylistic device <choice><orig>a</orig><reg>an</reg></choice> enumeration can be found in line 3 to 4 here the needed changes are lined next to <choice><orig>eachother</orig><reg>each other</reg></choice> <quote>they also needed better working conditions, shorter working days and higher wages</quote>, the author uses the enumeration to show all the good things that the unions did for the workers, he does that to show how much the unions have changed.</s>
+      </p>
+      <p>
+        <s>The author also uses another enumeration in line 7 to 8 <quote>good working conditions, good wages and safe working environment</quote> this enumeration shows that the workers now have the things they needed before.</s>
+      </p>
+      <p>
+        <s>The author uses a language device he often talks about how the union did something positive and then describes how they no longer do that <quote>unions are no longer about the protection of workers</quote> and <quote>unions are no longer required to ensure that workers have good working conditions, good wages and safe working environment</quote>.</s>
+        <s>He does that to show the story contrast between the unions then and the unions now.</s>
+      </p>
+      <p>
+        <s>Another language device can be found in lines 19 to 20 <quote>workers are not being exploited by employers, now employers are being exploited by employees</quote>, here we have a <choice><orig>sentience</orig><reg>sentence</reg></choice> with two <choice><orig>statments</orig><reg>statements</reg></choice> that <choice><orig>contridict</orig><reg>contradict</reg></choice> <choice><orig>eachother</orig><reg>each other</reg></choice>, the author uses that because it shows how much the situation has changed.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> uses all these stylistic devices to persuade the reader of his opinion, that the unions are no longer necessary.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

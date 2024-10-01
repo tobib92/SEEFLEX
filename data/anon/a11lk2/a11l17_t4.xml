@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l17_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+      </p>
+      <p>
+        <s>Thank you for your email.</s>
+        <s>Since you asked if a school without can really exist, I want to help you and try to answer this <choice><orig>intressting</orig><reg>interesting</reg></choice> question.</s>
+        <s>So I found an article about the label <name type="misc">School without racism, school with <choice><orig>courrag</orig><reg>courage</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>More than 3000 schools have that label.</s>
+      </p>
+      <p>
+        <s>That article says, that there is no school without racism.</s>
+        <s>There are just schools, which engange against racism.</s>
+        <s>It has been proved that students of color get worse grades, than the other students.</s>
+        <s>Evidence has been found in the study <name type="misc">Max versus Murat</name>.</s>
+        <s>Although <name type="misc">Max</name> and <name type="misc">Murat</name> made the same mistakes, <name type="misc">Max</name> got a better grade.</s>
+        <s>Furthermore students are way <choice><orig>to</orig><reg>too</reg></choice> less educated in everyday racism.</s>
+      </p>
+      <p>
+        <s>You surely asked yourself how we can fight against all that discrimination.</s>
+      </p>
+      <p>
+        <s>The most important thing is not to deny that racism is a big problem is our <choice><orig>todays</orig><reg>today's</reg></choice> society.</s>
+        <s>Furthermore teachers often do not realize that what they are saying is racist.</s>
+      </p>
+      <p>
+        <s>Where does the racism come from?</s>
+        <s>Mostly from <choice><orig>childrens</orig><reg>children's</reg></choice> books, immigrants are often presented as the big, bad and angry kid.</s>
+        <s>That's why kids have racist ideas.</s>
+      </p>
+      <p>
+        <s>I hope that my answer could help you and that it was <choice><orig>intresting</orig><reg>interesting</reg></choice>.</s>
+        <s>See you soon at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name></s>
+      </p>
+      <p>
+        <s>Take care,</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

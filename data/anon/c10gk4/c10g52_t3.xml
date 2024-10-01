@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g52_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">Bianca L.</name>, Erfahrungsbericht Indien: Education Center in <name type="geo">Delhi</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>The 18-year-old German <choice><orig>volunter</orig><reg>volunteer</reg></choice> <name type="person">Bianca L.</name> worked in an <name type="misc">Education Center</name> for children and was located in a slum of <name type="geo">Delhi</name>.</s>
+        <s>On a regular day she eats breakfast and <choice><orig>teachs</orig><reg>teaches</reg></choice> one and a half hour <choice><orig>englisch</orig><reg>English</reg></choice> <choice><orig>grammatik</orig><reg>grammar</reg></choice> for the boy and two hours for the <choice><orig>gearls</orig><reg>girls</reg></choice>.</s>
+        <s>She loved her day and her tasks but what she loved the most were the kids.</s>
+        <s>She loved their <choice><orig>aktceptence</orig><reg>acceptance</reg></choice> <choice><orig>couriosity</orig><reg>curiosity</reg></choice> about her and the love for life.</s>
+        <s>They loved their life and had fun even when they are in a bad situation.</s>
+        <s>They look over the bad things and focus on the good things.</s>
+        <s>They days with these kids were very unique and valuable.</s>
+        <s>They gave her hope, love and gratitude.</s>
+      </p>
+      <p>
+        <s>She loved helping them and spending her day with these kids.</s>
+        <s>Really beautiful.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

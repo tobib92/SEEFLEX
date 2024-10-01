@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l22_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Shakespeare's</name> works are still topics in school and inspiration to many creative renewals in form of movies or plays.</s>
+        <s>But is his work still relevant today or rather outdated?</s>
+      </p>
+      <p>
+        <s>One could argue taht those problems presented dont occur in modern days.</s>
+        <s>Prearranged marriage is a thing of the past and nowadays women can decide for themselves whom to marry.</s>
+      </p>
+      <p>
+        <s>The counter side might argue that nowadays people struggle with their individual situations and their love more than ever.</s>
+      </p>
+      <p>
+        <s>Nowadays people have more personal goals and are trying to accomplish them by any means in the modern <choice><orig>self-fixiated</orig><reg>self-fixated</reg></choice> world.</s>
+        <s>And to combine personal life with new love can be challenging, as it is also portrayed in the play by <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>On the counter side his work <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> is not so different than other love stories and thus due to the old language outdated.</s>
+        <s>The only difference, one might say, is the language compared to newer romantic dramas and the plot mostly stays the same.</s>
+      </p>
+      <p>
+        <s><choice><orig>Critiques</orig><reg>Critics</reg></choice> may respond that the language is the key aspect, when reading old literature.</s>
+        <s><name type="person">Shakespeare's</name> poetic and lyrical writing style described the storyboard in a way that modern language is not capable of.</s>
+      </p>
+      <p>
+        <s>All in all the stated facts lead me to my opinion, which is that <name type="person">Shakespeare</name> still influences modern literature and can be interpreted on the world today regarding timeless themes such as love being connected to irrationality or boundaries like different families / religion / <choice><orig>hirarchy</orig><reg>hierarchy</reg></choice> being in the way of love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

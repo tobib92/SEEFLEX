@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l26_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this excerpt <ref target="b11lk2_1" type="character">Gatsby</ref> wants to revive a past relationship with <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>I think the chances of this happening are pretty high.</s>
+      </p>
+      <p>
+        <s>I think this because <ref target="b11lk2_1" type="character">Gatsby</ref> is after five long years still attracted to <ref target="b11lk2_1" type="character">Daisy</ref> and will do everything, that is necessary to win her back.</s>
+        <s>He also has <ref target="b11lk2_1" type="character">Nick</ref> as some sort of a wingman, which helps much.</s>
+        <s>That is because <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Nick</ref> are cousins and she likes <ref target="b11lk2_1" type="character">Nick</ref> very much.</s>
+        <s>The major problem here is, that <ref target="b11lk2_1" type="character">Daisy</ref> is married to <ref target="b11lk2_1" type="character">Tom Buchanan</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Tom</ref> has an affair with <ref target="b11lk2_1" type="character">Myrtle Wilson</ref>, who lives in the valley of ashes, and has some other affairs too.</s>
+        <s>Also <ref target="b11lk2_1" type="character">Daisy</ref> is not happy with <ref target="b11lk2_1" type="character">Tom</ref> as her husband because of that and the fact, that she really loves <ref target="b11lk2_1" type="character">Jay Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>Those are the reasons, why I think, that the chances of the revival of <ref target="b11lk2_1" type="character">Daisy's</ref> and <ref target="b11lk2_1" type="character">Gatsby's</ref> relationship are pretty high.</s>
+      </p>
+      <p>
+        <s>This is different in general.</s>
+        <s>In my opinion it always depends on the two persons involved.</s>
+      </p>
+      <p>
+        <s>If the one person hates the other one, the chances of such a relationship are very low.</s>
+        <s>It could also be, that one of the two involved is married and happy with the marriage.</s>
+        <s>In this case the chances are pretty low too.</s>
+      </p>
+      <p>
+        <s>All in all it depends on the two persons involved in the possible relationship.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

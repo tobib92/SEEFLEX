@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g08_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in year <date>2019</date> deals with the story of <ref target="b11gk1_1" type="character">Pearl</ref> and her mother <ref target="b11gk1_1" type="character">Margot</ref> who live in negative conditions in a car at the trailer park.</s>
+        <s>When <ref target="b11gk1_1" type="character">Pearl</ref> came to the foster family after her mother's death she met <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+        <s>In the following text, I will point out <ref target="b11gk1_1" type="character">Helen's</ref> problem by analysing her character as represented by the narrator <add>(<ref target="b11gk1_1" type="character">Pearl</ref>)</add> in this part of the novel.</s>
+      </p>
+      <p>
+        <s>First of all, <ref target="b11gk1_1" type="character">Helen</ref> is eight years old and is very small <ref target="b11gk1_1" type="line">(ll. 1f.)</ref>.</s>
+        <s>Due to the description of <ref target="b11gk1_1" type="character">Pearl</ref> about <ref target="b11gk1_1" type="character">Helen's</ref> height from the window <quote>even smaller standing beside me</quote> <ref target="b11gk1_1" type="line">(l. 1)</ref> shows that she looks from the window small but in reality she is even smaller which also underlines that she is really very small.</s>
+        <s>You can assume that <ref target="b11gk1_1" type="character">Helen</ref> looks about five although she is eight years old because of her small height.</s>
+        <s>The character is described childish as she is still a little child.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> smells also like <quote>burned marshmallows</quote> <ref target="b11gk1_1" type="line">(l. 3)</ref> which <ref target="b11gk1_1" type="character">Pearl</ref> describes as well <ref target="b11gk1_1" type="line">(l. 3)</ref>.</s>
+        <s>So you can conclude that <ref target="b11gk1_1" type="character">Helen</ref> smells well which is also a symbol of being hygienic and the opposite of dirty.</s>
+        <s>The fact that she talks <quote>nonstop</quote> <ref target="b11gk1_1" type="line">(l. 5)</ref> intends to convey the impression that she wants to talk all the time.</s>
+        <s>That could be dependent on her situation as a foster child because she does not have a relationship to her family so she is no one who supports her and listens to <choice><orig>hear</orig><reg>her</reg></choice> when she needed.</s>
+        <s>Due to this behaviour her loneliness and sadness get very obvious.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is afraid that they could leave her too as all her foster families did.</s>
+        <s>The fact that she had too many foster families becomes clear in lines 11f <quote>too many homes, too many people, too many changes</quote>.</s>
+        <s>This is also underlined by the fact that she <quote>had no idea who she was or where she came from</quote> <ref target="b11gk1_1" type="line">(ll. 5f.)</ref> because for a child like <ref target="b11gk1_1" type="character">Helen</ref> it was very hard to change everything many times and get used to it quickly.</s>
+        <s>Because of this she is mistrust.</s>
+        <s>The character finds herself in an inner conflict which gets especially obvious when she says that she has two <choice><orig>mommys</orig><reg>mommies</reg></choice>, 10 brothers and 11 sisters, two twin sisters, a twin brother, lived near a park and near a beach, born in a hospital and at home and that she is many ethnicities <ref target="b11gk1_1" type="line">(ll. 6ff.)</ref>.</s>
+        <s>She is confused and insecure.</s>
+        <s>She does not know what is right and what is wrong.</s>
+        <s>She makes all the people who she met in <choice><orig>heir</orig><reg>her</reg></choice> foster families to her family which shows that she really wants to have a family but she is not able to realize that they are not her family.</s>
+      </p>
+      <p>
+        <s>On the other hand it shows her <choice><orig>loyality</orig><reg>loyalty</reg></choice> <quote>true-blue</quote> <ref target="b11gk1_1" type="line">(l. 11)</ref> and that she never forgets anyone.</s>
+        <s>Due to her description of her life at her foster families you can conclude that she lived in bad and negative conditions there because they gave her only <quote>cereal to eat</quote> <ref target="b11gk1_1" type="line">(l. 14)</ref>, <quote>one square of toilet paper a day</quote> <ref target="b11gk1_1" type="line">(l. 15)</ref>, <quote>slept on the floor</quote> and <quote>had to reuse dental floss and tea bags</quote> <ref target="b11gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>They did not care of her and offered her a terrible life.</s>
+        <s>For that reason she is afraid and has psychological problems which is for example underlined in the way how she speaks.</s>
+        <s>She <choice><orig>speeks</orig><reg>speaks</reg></choice> <quote>to herself in the third person</quote> <ref target="b11gk1_1" type="line">(l. 17)</ref>.</s>
+        <s>She <choice><orig>can not</orig><reg>cannot</reg></choice> realize that she exists and <quote>who she was</quote> <ref target="b11gk1_1" type="line">(l. 6)</ref>.</s>
+        <s>She could not develop an identity.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> also dreams of a <quote>white Christmas</quote> and she <quote>doesn't drink enough water</quote> <ref target="b11gk1_1" type="line">(l. 19)</ref>.</s>
+        <s>From this lifestyle, you can assume that she got used to not care of herself because of her foster families who gave her everytime not much <ref target="b11gk1_1" type="line">(cf. ll. 14ff.)</ref>.</s>
+        <s>Furthermore, <ref target="b11gk1_1" type="character">Helen</ref> <quote>loves forehead kisses</quote> <ref target="b11gk1_1" type="line">(l. 19)</ref> because she loves near and close relationships.</s>
+        <s>She wants to get love which also gets obvious when she sits close to <ref target="b11gk1_1" type="character">Pearl</ref> and rubbs her forehead <choice><orig>agains</orig><reg>against</reg></choice> <ref target="b11gk1_1" type="character">Pearl's</ref> arm <ref target="b11gk1_1" type="line">(ll. 41f.)</ref>.</s>
+        <s>You can also conclude that she wants to get love which she never got.</s>
+        <s>This is also an evident for her sadness and loneliness.</s>
+        <s>In addition to, <ref target="b11gk1_1" type="character">Helen</ref> wants to <quote>sleep forever</quote> <ref target="b11gk1_1" type="line">(l. 20)</ref>.</s>
+        <s>Due to her wish you can assume that her life makes no sense and she is depressive.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is here also described as sad.</s>
+        <s>Because of <ref target="b11gk1_1" type="character">Leo's</ref> description <ref target="b11gk1_1" type="line">(cf. ll. 20ff.)</ref> and his attitude to accept <ref target="b11gk1_1" type="character">Helen's</ref> chatter because <quote>there was no way to follow her</quote> <ref target="b11gk1_1" type="line">(l. 22)</ref> the narrator describes <ref target="b11gk1_1" type="character">Helen</ref> as a confusing and strange character who <quote>lives in her own world</quote>.</s>
+        <s>It is too hard for her to live this kind of life.</s>
+        <s>The fact that she has <quote>seventeen phones</quote> <ref target="b11gk1_1" type="line">(l. 26)</ref> because <quote>every foster home she goes to, they give her a phone and tell to keep in touch</quote> <ref target="b11gk1_1" type="line">(l. 27)</ref> shows that she was at 17 foster families in age of eight.</s>
+        <s>When <ref target="b11gk1_1" type="character">Pearl</ref> asks her for what she will do to the phones <ref target="b11gk1_1" type="line">(cf. l. 31)</ref> she answers that she <choice><orig>call</orig><reg>calls</reg></choice> the people in her family and <quote>of course her friends Lulu, Gina and Romey</quote> <ref target="b11gk1_1" type="line">(ll. 32f.)</ref>.</s>
+        <s>It also highlights the importance of the people in her foster families although they was very unkind to her.</s>
+      </p>
+      <p>
+        <s>That is why <ref target="b11gk1_1" type="character">Helen</ref> is described also as a naive character.</s>
+        <s>She also could be angry with them and do not call them but she does.</s>
+      </p>
+      <p>
+        <s>Calling her friends <choice><orig>emphasize</orig><reg>emphasizes</reg></choice> that she has social contacts and is not very lonely as it gets obvious through her situation but it does not really change of her sadness and loneliness.</s>
+        <s>She <choice><orig>ask</orig><reg>asks</reg></choice> them only questions like <quote>do you like cats?</quote> <ref target="b11gk1_1" type="line">(l. 34)</ref> but not more.</s>
+        <s>So this shows that their relationship is not very close it is rather a relationship in distance.</s>
+        <s>The fact that <ref target="b11gk1_1" type="character">Helen</ref> needs close relationship and love from anyone also gets obvious at the end when she sits close to <ref target="b11gk1_1" type="character">Pearl</ref> and rubbs her forehead <choice><orig>agains</orig><reg>against</reg></choice> her arm <ref target="b11gk1_1" type="line">(cf. ll. 41f.)</ref> and the way how <ref target="b11gk1_1" type="character">Helen</ref> tells <ref target="b11gk1_1" type="character">Pearl</ref> that she smells like <quote>bug-off</quote> <ref target="b11gk1_1" type="line">(l. 42)</ref> is like a children's language.</s>
+        <s>You can assume that she is childish and is still very young.</s>
+        <s>She has not a knowledge as an adult which also underlines that she has a terrible and hard life.</s>
+      </p>
+      <p>
+        <s>To come to a conclusion, <ref target="b11gk1_1" type="character">Helen</ref> is a small and young girl who had not never a <q>real</q> family.</s>
+        <s>She is a very sad, naive, loyal and lonely person who is looking at getting love from anyone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g21_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following report I will tell you something about the experience from my friend <name type="person">Bianca</name>.</s>
+        <s>She worked as a volunteer in <name type="geo">India</name> with children and she told me a lot about her time there.</s>
+      </p>
+      <p>
+        <s>She had every day the same things to do.</s>
+        <s>After the breakfast she had to learn some English with the boys and after the break she had to learn some English with the girls.</s>
+      </p>
+      <p>
+        <s>She told me that the best thing of the volunteer program were the children.</s>
+        <s>From the first <choice><orig>secunde</orig><reg>second</reg></choice>, they were full of so much love and acceptance.</s>
+        <s>They wanted to know everything about her life and they had so much love for <choice><orig>live</orig><reg>life</reg></choice>.</s>
+        <s>She said that you can't compare that with the children in <name type="geo">Germany</name>.</s>
+        <s>Nevertheless that they <choice><orig>oft</orig><reg>often</reg></choice> a not that nice <choice><orig>live</orig><reg>life</reg></choice> before, the children in <name type="geo">India</name> were so happy and <choice><orig>therfore</orig><reg>therefore</reg></choice> my friend was also happy.</s>
+        <s>They had every day so much fun there and they gave my friend so much love, patience, hope and <choice><orig>espacially</orig><reg>especially</reg></choice> gratitude.</s>
+      </p>
+      <p>
+        <s>So I think the volunteer program was a really beautiful experience for my friend.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g41_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Generally speaking of environmental pollution it is a global issue that has hazardous effects on our natural world and many people claim that the humanity is responsible for that increasing pollution - but is that really true?</s>
+      </p>
+      <p>
+        <s>Human beings are mainly responsible for the environmental pollution, because we create a lot <choice><orig>off</orig><reg>of</reg></choice> it by ourselves.</s>
+        <s>For example the electric waste which is increasing rapidly due to the digitalization.</s>
+        <s>Those dumps are often on landfills and destroy the nature and opportunity to live there.</s>
+        <s>Furthermore, due to the industrialization, we create a lot of smoke and dangerous fumes which goes into the atmosphere and decreases the quality of air.</s>
+      </p>
+      <p>
+        <s>Opponents often argue that the pollution comes from wildlife, but that is not true.</s>
+        <s>For example the pollution of our oceans are created by humans as well, because the plastic we are throwing away everyday, goes into our oceans and destroys the environment and sea life there as well.</s>
+      </p>
+      <p>
+        <s>Finally, I have to come to the conclusion that human beings are responsible for the environmental pollution, due to our huge growth and development.</s>
+        <s>What everybody can do to decrease the environmental pollution is to avoid much plastic and to re-use olf stuff like shopping bags.</s>
+        <s>It is also helpful old things that you don't need anymore, so other poeple can use it and the waste of stuff is going to be decreased.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

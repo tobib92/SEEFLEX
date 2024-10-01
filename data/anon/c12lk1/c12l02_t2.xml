@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The first quatrain starts by listing up strong parts of the nature <quote>brass nor stone, not earth, nor boundless sea</quote> <ref target="c12lk1_1" type="line">(v. 1)</ref>.</s>
+        <s>This verse is followed by an <choice><orig>Enjament</orig><reg>enjambment</reg></choice>, which means that his sentence continues in the second verse.</s>
+        <s>Right in the beginning he ses the words <quote>nor</quote> a lot which has <choice><orig>an</orig><reg>a</reg></choice> negative impact on the reader.</s>
+        <s><quote>Sad mortality o'er-sawys their power</quote> means that even a strong stone cannot <choice><orig>survieve</orig><reg>survive</reg></choice> this strong power.</s>
+      </p>
+      <p>
+        <s>With a rhetorical question, <ref target="c12lk1_1" type="author">Shakespeare</ref> questions the strength of beauty because how can beauty last forever when a strong stone and a boundless sea cannot even resist the time.</s>
+        <s><quote>How with this age shall beauty hold a plea, Whose action is not stronger than a flower?</quote><ref target="c12lk1_1" type="line">(v. 3-4)</ref>.</s>
+      </p>
+      <p>
+        <s>Shakespeare <choice><orig>compairs</orig><reg>compares</reg></choice> the beauty with a metapher <quote>no stranger than a flower</quote> <ref target="c12lk1_1" type="line">(v. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>His intention is to symbolize a flower which is in <choice><orig>compassiog</orig><reg>comparison</reg></choice> to a stone really weak.</s>
+        <s>A flower does not <choice><orig>survieve</orig><reg>survive</reg></choice> long compaired to  a stone.</s>
+        <s>In the first stage a flower symbolizes beauty.</s>
+        <s>From the outside but over the time, she starts to shrink and does not look as good as in the beginning.</s>
+      </p>
+      <p>
+        <s>The second quatrain starts wth an metaphor <quote>summer's honey breath</quote> <ref target="c12lk1_1" type="line">(v. 5)</ref>.</s>
+        <s>Summer and honey are two positive words because it symbolizes something beautiful.</s>
+        <s>Summer is the start of something fresh it is the start of beauty where everything looks good where no <choice><orig>worrys</orig><reg>worries</reg></choice> are need.</s>
+      </p>
+      <p>
+        <s>But how can beauty stay <choice><orig>for ever</orig><reg>forever</reg></choice> fighting <choice><orig>bettle</orig><reg>battle</reg></choice> with the time?</s>
+        <s>Beauty <choice><orig>cannot</orig><reg>can not</reg></choice> <choice><orig>restist</orig><reg>resist</reg></choice> <quote>Against the wrackful siege of batt'ring days</quote> <ref target="c12lk1_1" type="line">(v. 6)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> goes on with <choice><orig>an other</orig><reg>another</reg></choice> <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>When rocks impregnable are not so stout, Nor gates of steel so strong, but time decays?</quote> <ref target="c12lk1_1" type="line">(v. 7-8)</ref>.</s>
+        <s>His intention is to point out with an <choice><orig>Alliteration</orig><reg>alliteration</reg></choice> <quote>steel so strong</quote> that not even a strong gate is strong enough to <choice><orig>exists</orig><reg>exist</reg></choice> forever because the <quote>time decays</quote> <ref target="c12lk1_1" type="line">(v. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>compairs</orig><reg>compares</reg></choice> the rocks and the gate with love and beauty.</s>
+        <s>Love is <choice><orig>an</orig><reg>a</reg></choice> strong emotion which <choice><orig>can not</orig><reg>cannot</reg></choice> be broken, unless the time is over and <choice><orig>an</orig><reg>a</reg></choice> human being is dead.</s>
+      </p>
+      <p>
+        <s>The third quatrain starts with three <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> is afraid and scared when the <choice><orig>times</orig><reg>time</reg></choice> comes and takes a way his love.</s>
+        <s><quote>Jewel</quote> is he using as <choice><orig>an</orig><reg>a</reg></choice> symbol for love, because Jewel has a high value as well as love does.</s>
+      </p>
+      <p>
+        <s><quote>Shall time's best jewel from time's chest lie hid?</quote> is the first <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question.</s>
+      </p>
+      <p>
+        <s>What striking, is the next <choice><orig>to</orig><reg>two</reg></choice> lines are structured with the same words which lead to an <foreign xml:lang="de">anapher</foreign>.</s>
+        <s><quote>Or what [...] Or who [...]</quote><ref target="c12lk1_1" type="line">(v. 11-12)</ref>.</s>
+      </p>
+      <p>
+        <s>Both are <gap reason="illegible" quantity="1" unit="word">questend</gap> with a rhetorical question <quote><s>Or what strong hand can hold his swift food back?</s><s>Or who's spoil of beauty can forbid?</s></quote> <ref target="c12lk1_1" type="line">(v. 12-13)</ref>.</s>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> looks for a solution how the beauty can be hold back.</s>
+        <s>He tries to figure out <choice><orig>an</orig><reg>a</reg></choice> way where his love and his beauty can be forever.</s>
+      </p>
+      <p>
+        <s>The couplet gives the final solution.</s>
+        <s>There is <choice><orig>an</orig><reg>a</reg></choice> way how the beauty of his love can be <choice><orig>memoriezed</orig><reg>memorized</reg></choice>.</s>
+        <s>The <gap reason="illegible" quantity="1" unit="word">aumer</gap> is to write a <choice><orig>peom</orig><reg>poem</reg></choice> everyone is still able to read after the time of a human being is over.</s>
+        <s><quote>Unless this miracle have might, that in black ink my love may still stine bright</quote><ref target="c12lk1_1" type="line">(ll. 13-14)</ref>.</s>
+      </p>
+      <p>
+        <s>The sonnet is <choice><orig>addresed</orig><reg>addressed</reg></choice> to the <quote>Youth</quote> a young <choice><orig>men</orig><reg>man</reg></choice>, which <ref target="c12lk1_1" type="author">Shakespeare</ref> describes as love <quote>My love</quote> <ref target="c12lk1_1" type="line">(v. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>To <choice><orig>putt</orig><reg>put</reg></choice> everything in a <choice><orig>nutt shell</orig><reg>nutshell</reg></choice>, the <ref target="c12lk1_1" type="title">Sonnet 65</ref> is <choice><orig>addresed</orig><reg>addressed</reg></choice> to the Youth and talked about ending beauty, because it <choice><orig>can not</orig><reg>cannot</reg></choice> <choice><orig>lest</orig><reg>last</reg></choice> forever.</s>
+        <s>Time goes on very <choice><orig>quitly</orig><reg>quickly</reg></choice> and no one is able to stop it.</s>
+        <s>Unless you write <choice><orig>an</orig><reg>a</reg></choice> poem about your love and the beauty of it at the beauty will ever last on it no matter how fast life will be over.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g19_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref>, written by <ref target="a10gk2_1" type="author">Brian Pollard</ref> and published in <name type="misc">The Gulf News</name> on <date>24 November, 2011</date>, <ref target="a10gk2_1" type="author">Brian Pollard</ref> talks about his opinion of the usefulness of unions.</s>
+      </p>
+      <p>
+        <s>In the first four lines <ref target="a10gk2_1" type="author">Brian Pollard</ref> describes how unions were the best thing that ever <choice><orig>happend</orig><reg>happened</reg></choice> to the labour movement, because the workers needed better working conditions and the unions were needed to improve the situation of the workers.</s>
+        <s>In the next five lines he talks about why his opinion of unions has changed over the years, from supporting at the beginning to wanting their dissolvement now.</s>
+        <s>He wants that because in his opinion unions now only are about greed and power.</s>
+      </p>
+      <p>
+        <s>After that in the following five lines he explains why he thinks that unions are anti-competitiveness.</s>
+        <s>He says that because in his opinion non union-producers and foreign competitors are far better than unions.</s>
+        <s>In the next three lines he talks about why he thinks that union members work less, because the job is protected by your union and its contract with the employer.</s>
+        <s>In the next four lines the author says that: <quote>workers are not being exploited by employers, now employers are being exlpoited by employees</quote>.</s>
+        <s>In the last three lines long paragraph he says that the government should look at the issue of labour relations and will find out that unions are one of the major contributors to the economic mess.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l13_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Mixed feelings about the outcome of <name type="misc">COP26</name> in <name type="geo">Germany</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>Success or failure?</s>
+        <s>This is the question citizen of the whole world ask themselves.</s>
+        <s>In <name type="geo">Germany</name> there is no clear answer to this question.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk2_2" type="speaker">Jochen Flasbarth</ref> one of those who considers the <name type="misc">COP26</name> as a success.</s>
+        <s>He was <name type="geo">Germany's</name> chief negotiator at <name type="misc">COP26</name>.</s>
+        <s>He thinks that we are on the right path and that <name type="misc">COP26</name> helped us to bring us forward.</s>
+        <s>Clear failures like the last minute change of word Bring the abolishing of coal from <quote>phase out</quote> to <quote>phase down</quote> apparently good because it shows that <quote>the era of coal comes to an end</quote>.</s>
+      </p>
+      <p>
+        <s>He also claims that it depends on the perspective.</s>
+        <s>No one drove to <name type="geo">Glasgow</name> calculating that there is a legislation about coal, according to him.</s>
+        <s>Oh really?</s>
+        <s><choice><orig>Than</orig><reg>Then</reg></choice> I may have been the only one.</s>
+        <s>Considering that we should better have stopped using coal in the past and not in the future.</s>
+        <s>He also states that we have to be faster in order to counteract the climate change.</s>
+      </p>
+      <p>
+        <s>My question: why haven't you been faster at <name type="misc">COP26</name> and use this opportunity to create a more equal world.</s>
+      </p>
+      <p>
+        <s>For me, the whole <name type="misc">COP26</name> again feels like empty promises.</s>
+        <s>And I'm asking myself – why is every politician claiming the <name type="misc">COP26</name> be a success?</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g42_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The tragedy <ref target="c12gk3_1" type="title">Macbeth</ref> is created and written by <ref target="c12gk3_1" type="author">Shakespeare</ref>.</s>
+        <s>The drama extract from <ref target="c12gk3_1" type="scene">Act 1, Scene 7</ref>, contains the conversation from <ref target="c12gk3_1" type="character">Macbeth</ref> with his wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref>, over the planned murder from <ref target="c12gk3_1" type="character">King Duncan</ref> and if this action is honourable right or a mistake.</s>
+      </p>
+      <p>
+        <s>In a soliloquy immediately before the extract, <ref target="c12gk3_1" type="character">Macbeth</ref> <choice><orig>doubt</orig><reg>doubts</reg></choice> if he should go ahead with the plan to kill the currently staying <ref target="c12gk3_1" type="character">King Duncan</ref>, in order to <choice><orig>becoume</orig><reg>become</reg></choice> the next King of <name type="geo">Scotland</name>.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="c12gk3_1" type="character">Macbeth</ref> points out, that he already earned a high reputation, which he should enjoy.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> did not want to proceed further over the issue in the room of killing the King.</s>
+        <s>His wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref> counters him, that <ref target="c12gk3_1" type="character">Macbeth</ref> would be cowardly if he did not complete his plan.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> explains that her husband must have been drunk as he made these plans and that he currently has to have a hangover, to think straight and smart.</s>
+        <s>Furthermore <ref target="c12gk3_1" type="character">Lady Macbeth</ref> explains that <ref target="c12gk3_1" type="character">Macbeth</ref> has to take action if he wants to get what he desires.</s>
+        <s>To earn something, like a higher reputation, <ref target="c12gk3_1" type="character">Macbeth</ref> has to work and be a proper man of courage.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref><choice><orig>trys</orig><reg>tries</reg></choice> to silence his wife, in not pushing him <choice><orig>to</orig><reg>too</reg></choice> much in actions he does not want to take.</s>
+        <s>He <choice><orig>insist</orig><reg>insists</reg></choice> on the right behaviour for a man and that he only will act as such and not more.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> explains that <ref target="c12gk3_1" type="character">Macbeth</ref> only will be a proper man if he kills the King.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth's</ref> plan makes him masculine and strong.</s>
+        <s>In a time where itself and the place would be right, <ref target="c12gk3_1" type="character">Macbeth</ref> had said he want to act and kill the King.</s>
+        <s>But now, as the time and place is right, he fears to follow his plan further.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> compares <ref target="c12gk3_1" type="character">Macbeth</ref> with a <choice><orig>Baby</orig><reg>baby</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> would be ashamed to breastfed a baby from <ref target="c12gk3_1" type="character">Macbeth</ref>, if its own father made such a solemn promise of killing <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s>But still, <ref target="c12gk3_1" type="character">Macbeth</ref> fears the consequences.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> pushes further and <choice><orig>create</orig><reg>creates</reg></choice> a plan of how they could kill <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s>As the King would fall asleep, which he had earned because of his long journey to come to <ref target="c12gk3_1" type="character">Macbeth's</ref> castle, <ref target="c12gk3_1" type="character">Lady Macbeth</ref> will get the two chamberlains of <ref target="c12gk3_1" type="character">King Duncan</ref> such drunk, that they <choice><orig>can not</orig><reg>cannot</reg></choice> protect <ref target="c12gk3_1" type="character">King Duncan</ref> anymore.</s>
+        <s>The two guards would be <choice><orig>to</orig><reg>too</reg></choice> drunk to remember anything, so that <ref target="c12gk3_1" type="character">Macbeth</ref> could <choice><orig>easly</orig><reg>easily</reg></choice> snuck into the chambers and kill the King, in order to become king himself.</s>
+        <s>The blame and guilt would take the chamberlains over, so that no one <choice><orig>suspect</orig><reg>suspects</reg></choice> <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref><choice><orig>acept</orig><reg>accepts</reg></choice> the plan of his wife, if she will promise him to give birth of a fearless <choice><orig>childrens</orig><reg>children</reg></choice> with only the sex of males.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l35_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will describe <name type="person">Shylock's</name> situation, <choice><orig>Based</orig><reg>based</reg></choice> on the given text excerpt, from the <choice><orig>Novel</orig><reg>novel</reg></choice> <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> written by <ref target="a12lk3_1" type="author">William Shakespeare</ref>.</s>
+      </p>
+      <p>
+        <s>First of all <name type="person">Shylock</name> finds himself in a difficult situation, because of his daughter <name type="person">Jessica</name>, who ran away with a Christian man.</s>
+        <s>Now he sent a person to find her.</s>
+        <s>The man who has been looking for <name type="person"><choice><orig>Shylock</orig><reg>Shylock's</reg></choice></name>daughter is <name type="person">Tubal</name>, one of his Jewish friends, he <choice><orig>meet</orig><reg>meets</reg></choice> in a street in <name type="geo">Venice</name>.</s>
+        <s><name type="person">Tubal</name> explains <name type="person">Shylock</name> the situations about his daughter, what makes <name type="person">Shylock</name> angry and frustrated.</s>
+        <s>Because of, at the beginning of the conversation with <name type="person">Tubal</name>, <name type="person">Tubal</name> told him that he cannot find her <ref target="a12lk3_1" type="line">(l. 2)</ref>.</s>
+        <s>Now <name type="person">Shylock</name> <choice><orig>describe</orig><reg>describes</reg></choice> his daughter a shame for the family and dor our nation to run away with a Christian <ref target="a12lk3_1" type="line">(l. 4)</ref>.</s>
+        <s><choice><orig>also</orig><reg>Also</reg></choice><name type="person">Tubal</name> cannot find her, he heard that his daughter spent time in <name type="geo">Genoa</name>.</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> not the thing that shocked <name type="person">Shylock</name> the most.</s>
+        <s>What him shocked is taht his daughter spent in one night fourscore ducats, so <name type="person">Shylock</name> worried about his gold that he shall enver see his gold again <ref target="a12lk3_1" type="line">(l. 17-19)</ref>.</s>
+        <s>What <name type="person">Shylock</name> <gap reason="illegible" quantity="1" unit="word">als</gap> make him worry in the beginning, the uncertainty about how much the looking will cost him <ref target="a12lk3_1" type="line">(ll. 7f)</ref>.</s>
+        <s>But there are also things that make him happy for example the <choice><orig>New's</orig><reg>news</reg></choice> that he heard from his daughter <ref target="a12lk3_1" type="line">(ll. 15f)</ref>.</s>
+        <s>Or the fact that <name type="person">Antonio</name> can not pay him because his <gap reason="illegible" quantity="1" unit="word">arqosy</gap> cast away <ref target="a12lk3_1" type="line">(l. 13)</ref> so he is happy that he can <quote>plague</quote> him or torture him <ref target="a12lk3_1" type="line">(l. 22)</ref>.</s>
+      </p>
+      <p>
+        <s>To sum up we can say after looking on the <choice><orig>Excerpt</orig><reg>excerpt</reg></choice> that <name type="person">Shylock</name> finds himself in a difficult situation.</s>
+        <s>He has to find his daughter what also costs money, but for his happiness he can <quote>plague and torture</quote> <name type="person">Antonio</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

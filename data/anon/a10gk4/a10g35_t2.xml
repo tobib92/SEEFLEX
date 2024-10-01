@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g35_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Author</orig><reg>author</reg></choice> <ref target="a10gk4_1" type="author">Ankita Mitra</ref> makes <choice><orig>us</orig><reg>use</reg></choice> of stylistic <choice><orig>divices</orig><reg>devices</reg></choice> in order to means and communicative strategies.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Author</orig><reg>author</reg></choice> <choice><orig>use</orig><reg>uses</reg></choice> many repetition about the importance of the text to clear to us and the <choice><orig>Text</orig><reg>text</reg></choice> is about <quote>Environmental</quote> <ref target="a10gk4_1" type="line">(l. 1, 13, 20, 21)</ref>.</s>
+      </p>
+      <p>
+        <s>At secondly she <choice><orig>use</orig><reg>uses</reg></choice> a list of things when we live without air and water the earth would be like the other planets <ref target="a10gk4_1" type="line">(l. 6)</ref> <quote>(no man, no animals, no plants)</quote>.</s>
+      </p>
+      <p>
+        <s>In addition the author <choice><orig>use</orig><reg>uses</reg></choice> an <choice><orig>Anaphor</orig><reg>anaphora</reg></choice> with the words <quote>the</quote> <ref target="a10gk4_1" type="line">(l. 29, 33)</ref>.</s>
+        <s>Often the author <choice><orig>use</orig><reg>uses</reg></choice> the words <quote>results</quote> l. 25, 29 or <quote>pollution</quote> l. 13, 20.</s>
+        <s>In line 2 and 34 <quote>world</quote> this are all words they important for the subject.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

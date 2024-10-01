@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g79_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> is an argumentative text, but some informal <ref target="c10gk5_1" type="line">(cf. l. 1)</ref> and appealing <ref target="c10gk5_1" type="line">(cf. l. 18-23)</ref> aspects are given.</s>
+        <s>There are four short paragraphs without another <choice><orig>titel</orig><reg>title</reg></choice>.</s>
+        <s>The <choice><orig>authors'</orig><reg>author's</reg></choice> opinion stands in the foreground.</s>
+        <s>He tells us his own experiences and problems in this context.</s>
+        <s>With his formal, but impulsive <choice><orig>speach</orig><reg>speech</reg></choice> he <choice><orig>reach</orig><reg>reaches</reg></choice> all the people how are interested to read his text.</s>
+        <s>His message is to limit the services for translation and help to make English to a global language, everybody can learn <ref target="c10gk5_1" type="line">(cf. l. 20-21)</ref>.</s>
+        <s><ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> gets the <choice><orig>readers</orig><reg>reader's</reg></choice> attention with words like <quote>we</quote> and <quote>us</quote> <ref target="c10gk5_1" type="line">(cf. l. 3, l. 18, l. 23, etc.)</ref> so he includes them.</s>
+        <s><choice><orig>Furthermor</orig><reg>Furthermore</reg></choice> he used a metaphor to underline that the education in <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name> is very bad <ref target="c10gk5_1" type="line">(cf. l. 7)</ref>.</s>
+        <s>There he used the verb <quote>sit</quote> to describe this and that there it is too bad to <quote>stand</quote> at the bottom.</s>
+      </p>
+      <p>
+        <s>In the third part he makes a contrast between the teachers in the past years and today <ref target="c10gk5_1" type="line">(cf. l. 14-16)</ref>.</s>
+        <s>In the past they are not interested in <ref target="c10gk5_1" type="author"><choice><orig>Zias'</orig><reg>Zia's</reg></choice></ref> <quote>racial difference</quote> <ref target="c10gk5_1" type="line">(l. 16)</ref>.</s>
+        <s>But today they want to celebrate it.</s>
+      </p>
+      <p>
+        <s>The author writes in a formal tone, but by including his own opinion and appealing something he gets more impulsive than before <ref target="c10gk5_1" type="line">(cf. l. 18f.)</ref>.</s>
+        <s>This gets also the readers' attention and let him think about it.</s>
+      </p>
+      <p>
+        <s>Finally you can say that the text is argumentative and appealing and with the <choice><orig>stilistic</orig><reg>stylistic</reg></choice> devices and the right tone <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> involved the reader.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

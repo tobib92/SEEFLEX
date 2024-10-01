@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l23_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the second scene of Act II of <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref>, <name type="person">Romeo</name> sneaks into the <name type="person">Capulet's</name> garden to speak to <name type="person">Juliet</name>.</s>
+        <s>As he comes out of hiding, <name type="person">Juliet</name> is quite concerned at first.</s>
+        <s>She tells <name type="person">Romeo</name> how he'll be dead, killed by her family if they happen to see him at their house.</s>
+        <s><name type="person">Romeo</name> on the other hand does not care about being in danger and says that <name type="person">Juliet's</name> kinsmen would not be able to stop him or his love.</s>
+        <s>As <name type="person">Juliet</name> still goes on about <name type="person">Romeo</name> being in danger, he tells her that he'd rather be dead than her not loving her.</s>
+      </p>
+      <p>
+        <s>By the thought of <name type="person">Romeo</name> hearing her monologue <name type="person">Juliet</name> blushes.</s>
+        <s>To reassure that <name type="person">Romeo</name> really loves her she asks him to declare it faithfully, but warns him that if he swears and breaks his promise in the end they will be laughed about.</s>
+        <s>As she also is concerned that <name type="person">Romeo</name> may think she is easy to get and irresponsible, she reassures him of her <choice><orig>truthfullness</orig><reg>truthfulness</reg></choice> by referring back to her love confessing <choice><orig>Monologue</orig><reg>monologue</reg></choice> whom she did not think <name type="person">Romeo</name> was hearing.</s>
+      </p>
+      <p>
+        <s>Wanting to prove his love <name type="person">Romeo</name> starts to swear by the moon but is interrupted by <name type="person">Juliet</name> who tells him not to by the <quote>inconsistent moon</quote> but to either not swear at all or to swear by himself and she would believe him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

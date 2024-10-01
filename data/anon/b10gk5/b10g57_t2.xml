@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g57_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first shot of the sequence <ref target="b10gk5_1" type="character">Chris</ref> is walking down the school hallway.</s>
+        <s>The director of the movie uses a long shot to show <ref target="b10gk5_1" type="character">Chris</ref> and his surroundings.</s>
+        <s>You can see how he greets other people with a smile or a handshake, <choice><orig>wich</orig><reg>which</reg></choice> means that he is probably popular in school.</s>
+        <s>The shot is filmed from <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> perspective and in slow motion with romantic, slow music playing in the background, <choice><orig>wich</orig><reg>which</reg></choice> shows her love and adoration for <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>This gets increased in the second shot.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> is shown in a medium close up, so you can see his facial expressions, in this case a smile.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> also describes the things that she loves about him, like his smell or his lips, <choice><orig>wich</orig><reg>which</reg></choice> are both very intimate things.</s>
+        <s>In the next shot <ref target="b10gk5_1" type="character">Chris</ref> sees <ref target="b10gk5_1" type="character">Starr</ref> standing at her locker and the background music stops.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> turns away from him and a big close up is used, so you can see <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> facial expressions very good.</s>
+        <s>The camera is positioned in her locker.</s>
+        <s>Her facial expressions change from ignorant to a small smile and then back to ignorant when <ref target="b10gk5_1" type="character">Chris</ref> shows her the mixtape, <choice><orig>wich</orig><reg>which</reg></choice> shows that she likes the tape and the gesture but does not want <ref target="b10gk5_1" type="character">Chris</ref> to see it because she is still mad at him.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> probably made the mixtape as some kind of apology to <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>When they start to talk, <ref target="b10gk5_1" type="character">Starr</ref> is shown in a close up and <ref target="b10gk5_1" type="character">Chris</ref> in a medium shot, <choice><orig>wich</orig><reg>which</reg></choice> shows his surroundings and the hallway with students walking by.</s>
+        <s>His body language is shown when <ref target="b10gk5_1" type="character">Chris</ref> starts to explain, that he just wants to be closer to <ref target="b10gk5_1" type="character">Starr</ref> and that she is very important to him, he is no longer shown in a medium shot, but in a medium close up, <choice><orig>wich</orig><reg>which</reg></choice> shows his facial expressions and feelings and that he means everything he says.</s>
+        <s>The last shot shows <ref target="b10gk5_1" type="character">Chris</ref> dancing in the school hallway to his mixtape.</s>
+        <s>When <ref target="b10gk5_1" type="character">Starr</ref> says that he makes her laugh, his dance is shown in a medium shot and also in slow motion so you can see his movements very good.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="b10gk5_1" type="character">Chris</ref> is portrayed as a popular guy, who you can have very much fun with and who does not care what people could think about him, but who can be serious in important situations.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

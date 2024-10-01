@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g46_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <ref target="a12gk4_1" type="author">John Worne's</ref> newspaper article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref>, published in <name type="misc">The Telegraph</name> on <date>27th January in 2015</date>, the author writes about the <name type="geo">UK's</name> students<choice><orig>decreaseing</orig><reg>decreasing</reg></choice> interest in learning foreign languages and outlines the problems he sees with that.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> begins by writing that, during the past couple of years, the numbers of British students learning a foreign language at a high level have gone down and don't look as if they were going to rise in the future.</s>
+      </p>
+      <p>
+        <s>He continues to praise the uptake of <choice><orig>languagelearning</orig><reg>language learning</reg></choice> at a younger age in British primary schools, but also refers to a study showing students starting a new language at grammar school have also decreased.</s>
+      </p>
+      <p>
+        <s>Next <ref target="a12gk4_1" type="author">Worne</ref> disagrees with people seeing no harm in such a <choice><orig>desinterest</orig><reg>disinterest</reg></choice> with foreign languages, stating there are many reasons for foreign languages becoming crucial for the <name type="geo">UK</name> in the future, especially for economic and <choice><orig>diplomatical</orig><reg>diplomatic</reg></choice> reasons.</s>
+      </p>
+      <p>
+        <s>He proceeds to refer to another study which shows that a high percentage of British businesses are looking to employ people <choice><orig>which</orig><reg>who</reg></choice> are capable of speaking multiple languages and that the percentage will increase in the future.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> follows up by saying the <name type="geo">UK</name> is depending on more youngsters to learn a foreign language for the future and finishes off with an appeal to british parents, asking them to get their children into foreign language learning.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a12gk4_1" type="author">John Worne</ref> writes about the <choice><orig>continous</orig><reg>continuous</reg></choice> decrease of young people in the <name type="geo">UK</name> learning languages next to English, explains how he feels language skills are crucial for the future of the <name type="geo">UK</name> and encourages both students and parents all over the <name type="geo">UK</name> to consider foreign language learning as an important part of education.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

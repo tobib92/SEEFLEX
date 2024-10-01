@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough's</ref> salutation in his speech involves altering his current audience, consisting of a room full of powerful politicians from several different countries, putting them on an even higher pedestal than they already are.</s>
+        <s>That way he emphasizes their responsibility of choices they make.</s>
+        <s>And calling this group of people <quote>excellencies</quote> and <quote>delegates</quote> <ref target="b12lk2_1" type="line">(l. 1)</ref> is his way of letting them know to act accordingly and reasonable to this title.</s>
+      </p>
+      <p>
+        <s>In the paragraph from line 7 to line 16 he uses the illusion of a stable climate being the fundamental resource and reason why humanity was able to become a civilization and could evolve to the modernised lifestyle we pursue at this day and age.</s>
+        <s>And now this stability is <quote>breaking</quote> <ref target="b12lk2_1" type="line">(l. 16)</ref> <choice><orig>throug</orig><reg>through</reg></choice> globalisation.</s>
+        <s>His line of argument in this section is comparable to the saying <quote>do not bite the hand that feeds you</quote>, which is also fitting in line 35 to 36 where he personifies nature itself as a <quote>key ally</quote> that <quote>helps us</quote>.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> tries to create a positive mindset of being able to recover the climate through several stylistic devices.</s>
+        <s>In line 28 for example, he uses an alliteration to emphasize that part of the sentence which is <quote>to turn this tragedy into a triumph</quote>.</s>
+        <s>Right after that he makes use of the <foreign xml:lang="de">anapher</foreign> and starting the next five sentences with <quote>We</quote>.</s>
+        <s>With that he is also able to unify the listeners and speaking to them directly, with the intention of them feeling more obligated to act.</s>
+      </p>
+      <p>
+        <s>This use of the word <quote>we</quote> is <choice><orig>continuisly</orig><reg>continuously</reg></choice> used <choice><orig>througout</orig><reg>throughout</reg></choice> the rest of the speech, showing that <ref target="b12lk2_1" type="speaker">Sir Attenborough</ref> cans on the effect of creating a sense of unity amongst people, to get them to take action.</s>
+        <s>In his final sentences of his speech he asks a question revolving around if the numbers of the carbon concentration will drop, because of decisions that I made at the <name type="misc">COP26</name>.</s>
+        <s><choice><orig>Althoug</orig><reg>Although</reg></choice> he states being positive about this, the question is clearly left unanswered, as its result lies in the future.</s>
+        <s>This way he emphasizes on the importance and weight of this confidence and furthermore gives the individual the feeling of actually being able to define the answer to that question.</s>
+      </p>
+      <p>
+        <s>Taking everything into account the hypothesis stated at the beginning of this analysis is proven to be correct.</s>
+      </p>
+      <p>
+        <s>An additional conclusion about the <choice><orig>authors</orig><reg>author's</reg></choice> attempt to convince his audience is that he uses positive <choice><orig>conotated</orig><reg>connotated</reg></choice> phrases and words of affirmation to ensure his audience hope of recovery but simultaneously unifies the audience by <choice><orig>sayin</orig><reg>saying</reg></choice> that <quote>we</quote> are able to make a change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

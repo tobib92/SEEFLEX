@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g38_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to persuade her husband <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>But she does not really try to convince him with arguments but by manipulating him.</s>
+        <s>That is especially seen when you take a look at her choice of language.</s>
+      </p>
+      <p>
+        <s>As <ref target="c12gk3_1" type="character">Macbeth</ref> tries to stop her from her thoughts, she uses a personification in line 8 to 9.</s>
+        <s>She asks him if his hope was drunk when they made plans together.</s>
+        <s>In connection to this, she also uses an anticlimax <ref target="c12gk3_1" type="line">(l. 9 to 11)</ref>.</s>
+        <s>She criticizes that he seemingly lost his ambition to murder the <choice><orig>king</orig><reg>King</reg></choice> and even says she valued his love then.</s>
+        <s>With that she presents the act of murdering the <choice><orig>king</orig><reg>King</reg></choice> as a very simple thing and even manipulates him as she tries to make him emotional by bringing in their love to each other.</s>
+        <s>After that she insults him and tries to convince him that the reason for his doubt was his low self-esteem as she thinks he would see himself as a coward <ref target="c12gk3_1" type="line">(l. 16)</ref> if he did not do it.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> also compares him to a cat, that does not want to get its paws wet, which is a proverb <ref target="c12gk3_1" type="line">(l. 18)</ref>, and wants to make him look lazy or ungreatful.</s>
+        <s>After she still does not want to go that far, she uses an exaggeration/hyperbole <quote>[...] beast [...]</quote> <ref target="c12gk3_1" type="line">(
+		l. 24)</ref> while she is talking about his earlier attitude.</s>
+        <s>A climax follows after that as she says that he was a man when he had that attitude and would be way more of a man if he did murder the <choice><orig>king</orig><reg>King</reg></choice> <ref target="c12gk3_1" type="line">(l. 25 to 28)</ref>.</s>
+        <s>Manipulating him even more, she goes further and compares her love to him to her love to a baby that she breastfed <ref target="c12gk3_1" type="line">(l. 31 to 35)</ref>.</s>
+        <s>That leaves the impression that she tries to convince him to believe that she could love him as much as possible if he was brave enough to do it.</s>
+        <s>Answering <ref target="c12gk3_1" type="character">Macbeth's</ref> question <quote>If we should fail?</quote> <ref target="c12gk3_1" type="line">(l. 38)</ref>, she explains her exact plan to him.</s>
+        <s>She makes it seem like his fear is the only possible reason for failure <ref target="c12gk3_1" type="line">(l. 39 to 41)</ref> and tells him that she would make <ref target="c12gk3_1" type="character">Duncan's</ref> guards drunk while he is asleep <ref target="c12gk3_1" type="line">(l. 41ff.)</ref>.</s>
+        <s>She uses a metaphor in line 48 as she says that their brain should be a limbeck when she makes them drunk.</s>
+        <s>So it seems that she wants to make them drunk really bad.</s>
+        <s>That is also shown by the hyperbole she uses.</s>
+        <s>She says that they would <quote>[...] lie as in a death [...]</quote> <ref target="c12gk3_1" type="line">(l. 49)</ref> which is also a <choice><orig>comparism</orig><reg>comparison</reg></choice>.</s>
+        <s>She clearly exaggerates and wants <ref target="c12gk3_1" type="character">Macbeth</ref> to believe that there could nothing go wrong.</s>
+        <s>This gets also clear in the last lines <ref target="c12gk3_1" type="line">(l. 50 to 53)</ref> because she asks him rhetoric questions.</s>
+        <s>Accepting her plan and thinking it would work like that, there is nothing he can answer on these questions.</s>
+        <s>She simply asks him what they could not do to <ref target="c12gk3_1" type="character"><choice><orig>Duncard</orig><reg>Duncan</reg></choice></ref> in this situation and who would find them guilty if there was nobody to see.</s>
+        <s>That leaves again the impression that killing <ref target="c12gk3_1" type="character">Duncan</ref> is a simple thing to her.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

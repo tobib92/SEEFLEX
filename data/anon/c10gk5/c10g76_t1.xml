@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g76_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The non-fictional text <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> is written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and it was published on a <choice><orig>sunday</orig><reg>Sunday</reg></choice> the <date>17th December 2016</date>.</s>
+      </p>
+      <p>
+        <s>The first paragraph is about the fact that translating for people who don't speak <choice><orig>english</orig><reg>English</reg></choice> is very expensive.</s>
+        <s>It is also about the problem immigrant have and which message we says to them.</s>
+      </p>
+      <p>
+        <s>The second paragraph is about the life of the Bangladeshis and about the choice that they have between a normal life and a criminal life.</s>
+      </p>
+      <p>
+        <s>In the third paragraph the author describes his experiences and his history how he learn <choice><orig>english</orig><reg>English</reg></choice> and when he comes to <name type="geo">Britain</name>.</s>
+        <s>He also tells about his school time and his teachers.</s>
+      </p>
+      <p>
+        <s>In the last paragraph he says what are some problems and he says you don't get independence and responsible for yourself when someone is holding you up.</s>
+        <s>He makes the <choice><orig>these</orig><reg>thesis</reg></choice> that the biggest problem is to not speaking up.</s>
+        <s>He thinks it is important to learn <choice><orig>english</orig><reg>English</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l05_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given poem <ref target="a12lk1_1" type="title">Sonnet 138</ref>, which was written by <ref target="a12lk1_1" type="author">William Shakespeare</ref>, deals with the topic of honesty and love.</s>
+      </p>
+      <p>
+        <s>In the sonnet the speaker begins by stating that even though he/she knows that the addressed person is not truthful, he/she believes them anyways.</s>
+        <s>The speaker goes on to say that the beloved woman sees the speaker as young and <choice><orig>naive</orig><reg>naïve</reg></choice>, because the speaker does not see through the <choice><orig>womans</orig><reg>woman's</reg></choice> lies.</s>
+      </p>
+      <p>
+        <s>The narrator then explains that the woman lies to him/her about him/her still being and looking young, when they both know he/she is not anymore.</s>
+        <s>On the other hand the speaker admits that his/her beloved woman lies, but he/she does not care.</s>
+        <s>From this the speaker concludes, that he/she as well as the woman or not being truthful.</s>
+      </p>
+      <p>
+        <s>After that the narrator stops explaining the relationship and asks him/herself why he/she and the woman will not admit to the faults, which are being old and being unjust.</s>
+      </p>
+      <p>
+        <s>the speaker than <choice><orig>answeres</orig><reg>answers</reg></choice> this question by saying that love can make people believe that there is trust in a relationship, when really there is not.</s>
+        <s>Further, the narrator claims that people do not like to admit that they are getting old and especially not to their loved ones.</s>
+      </p>
+      <p>
+        <s>At the end, the speaker concludes that by lying to each other he/she and the woman feel good about themselves, which is why they both do it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

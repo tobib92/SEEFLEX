@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g44_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene from the movie <ref target="b10gk4_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk4_1" type="director">George Tillmann Jr.</ref> in <date>2018</date> is about the main character girl named <ref target="b10gk4_1" type="character">Starr</ref> and her boyfriend <ref target="b10gk4_1" type="character">Chris</ref> having a little argument.</s>
+        <s>The scene is taking place in the middle of the film which is about <ref target="b10gk4_1" type="character">Starr</ref> being faced by <choice><orig>racisme</orig><reg>racism</reg></choice> in her teenage years.</s>
+      </p>
+      <p>
+        <s>The scene starts with <ref target="b10gk4_1" type="character">Starr</ref> checking out her boyfriend <ref target="b10gk4_1" type="character">Chris</ref> while he passes the school floor.</s>
+        <s>When he comes to her, he puts on his headphones on her head to show <ref target="b10gk4_1" type="character">Starr</ref> his beats.</s>
+        <s>After that she confronts him with what he did the other day.</s>
+        <s>But <ref target="b10gk4_1" type="character">Chris</ref> complains about her not wanting to get closer in their relationship.</s>
+        <s>At the end he starts dancing to his beats to get the <choice><orig>prove</orig><reg>proof</reg></choice> of the other students that the beats are good.</s>
+        <s>Because of that <ref target="b10gk4_1" type="character">Starr</ref> starts laughing at him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

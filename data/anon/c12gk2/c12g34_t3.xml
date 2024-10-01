@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g34_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think saying that <quote><name type="person">Shakespeare</name> never grows old</quote> and that <quote>He continues to inspire each new generation</quote> is not the right way to express it, because of several reasons.</s>
+      </p>
+      <p>
+        <s>When you're discussing about the importance of <name type="person">Shakespeare</name> being taught at school you have to see it from two different perspectives.</s>
+      </p>
+      <p>
+        <s>On the one hand you have the historical knowledge you get if you talk about <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name>.</s>
+        <s>Also you learn mental <choice><orig>tipps</orig><reg>tips</reg></choice> to develop yourself.</s>
+      </p>
+      <p>
+        <s>On the other hand, <name type="person">Shakespeare</name> uses a very old form of the <choice><orig>english</orig><reg>English</reg></choice> language which makes it very difficult, in my opinion, to read and the most important thing, to understand the text.</s>
+      </p>
+      <p>
+        <s>If you're able to understand <name type="person"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></name> texts I think that it can be very interesting and you can get <choice><orig>thought</orig><reg>taught</reg></choice> by the content itself.</s>
+      </p>
+      <p>
+        <s>But you always have to consider that <name type="person">Shakespeare</name> lived a very long time ago so you should prove the things the <choice><orig>storys</orig><reg>stories</reg></choice> teach you are up-to-date.</s>
+      </p>
+      <p>
+        <s>So for non-native speaker I am divided if you should get <choice><orig>thought</orig><reg>taught</reg></choice> <name type="person">Shakespeare</name> at school.</s>
+      </p>
+      <p>
+        <s>Otherwise I think that for native <choice><orig>english</orig><reg>English</reg></choice> speaker <name type="person">Shakespeare</name> should be part of the school, because most of the aspects that are against teaching <name type="person">Shakespeare</name> at school are not counting for native speakers.</s>
+      </p>
+      <p>
+        <s>You could compare it for example to <name type="person">Goethe</name> in <name type="geo">Germany</name>.</s>
+        <s>He used an old language but for native <choice><orig>german</orig><reg>German</reg></choice> speakers it is easier to understand than for non-native speakers.</s>
+      </p>
+      <p>
+        <s><choice><orig>Alltogether</orig><reg>Altogether</reg></choice> I think that it is right to teach <name type="person">Shakespeare</name> at school but it should be in a way that non-native speakers could understand it more easily.</s>
+      </p>
+      <p>
+        <s>Also I think that many students are <choice><orig>loosing</orig><reg>losing</reg></choice> interest in <name type="person">Shakespeare</name>, because it is that difficult and a long time ago, so I wouldn't say that he continues this inspiration if there comes no change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

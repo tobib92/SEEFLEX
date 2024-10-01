@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11l01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Many stage directions like pauses or dramatic dialogue are used to create a certain tension between the characters <ref target="c11lk2_1" type="character">Karl</ref> and <ref target="c11lk2_1" type="character">Russ</ref>.</s>
+      </p>
+      <p>
+        <s>Right from the beginning there is a certain tension when <ref target="c11lk2_1" type="character">Russ</ref> interrupts <ref target="c11lk2_1" type="character">Karl</ref> from his argumentation all the time.</s>
+        <s><quote>Need you to stop now</quote><ref target="c11lk2_1" type="line">(l. 8)</ref> or <quote><s>No.</s><s>No more.</s></quote> <ref target="c11lk2_1" type="line">(l. 23)</ref> are a quick exchange of statements, so the pace and tense of the atmosphere are increasing.</s>
+        <s>When both stop talking for a short period of time, as we can see because of the stage direction <ref target="c11lk2_1" type="line">(cf. l. 39)</ref>, there is a moment of silence intended to prepare for a climax.</s>
+        <s>The same moment of hesistation can be found in l. 14-15, when the church bell begins to ring.</s>
+      </p>
+      <p>
+        <s>Both are trying to be dominant, they tend to assume a superior role by starting their sentences several times with <quote>Well, ...</quote> <ref target="c11lk2_1" type="line">(ll. 42, 44, 51)</ref>.</s>
+        <s>It is called a lengthy contribution.</s>
+      </p>
+      <p>
+        <s>The fact that <ref target="c11lk2_1" type="character">Karl</ref> and <ref target="c11lk2_1" type="character">Russ</ref> are constantly overlapping and interrupting each other, leads to unfinished sentences, which increases the tension between them massively <ref target="c11lk2_1" type="line">(cf. ll. 84ff.)</ref>.</s>
+      </p>
+      <p>
+        <s>Besides all the interruptions, <ref target="c11lk2_1" type="character">Russ</ref> starts to use colloquial language like <quote>what son of a bitch</quote> or <quote>I give a rat's ass</quote> <ref target="c11lk2_1" type="line">(ll. 95-96, 98-99)</ref>, which shows how much his annoyance and anger grows, because he asked <ref target="c11lk2_1" type="character">Karl</ref> already many times to leave the house.</s>
+      </p>
+      <p>
+        <s><ref target="c11lk2_1" type="character">Karl</ref> gets more defensive and indifferent when <ref target="c11lk2_1" type="character">Russ</ref> complains about all the things how the community affects his and his <choice><orig>wife</orig><reg>wife's</reg></choice> lives <ref target="c11lk2_1" type="line">(cf. ll. 101ff.)</ref>.</s>
+        <s><ref target="c11lk2_1" type="character">Karl</ref> seems to be rather quiet during <ref target="c11lk2_1" type="character">Russ's</ref> argumentation, almost inferior.</s>
+        <s>He gets uncomfortable in this role and wants more attention, so he shifts the focus on him and his <quote>wife, who is two weeks from giving birth</quote> <ref target="c11lk2_1" type="line">(ll. 107f.)</ref>.</s>
+      </p>
+      <p>
+        <s>In the end, <ref target="c11lk2_1" type="character">Russ</ref> is so annoyed about <ref target="c11lk2_1" type="character">Karl</ref> and disgusted by the whole community <ref target="c11lk2_1" type="character">Karl</ref> represents that he <quote>removes the letter on yellow legal paper</quote> <ref target="c11lk2_1" type="line">(ll. 155-156)</ref> and starts to <quote>read a little</quote> <ref target="c11lk2_1" type="line">(l. 158)</ref>.</s>
+        <s><ref target="c11lk2_1" type="character">Russ</ref> seems to be a bit calmer and dedicated to make <ref target="c11lk2_1" type="character">Karl</ref> and the whole community feel bad about the loss of his son and the way they are treating non <name type="misc">Clybourne Park</name> members, as well as his family.</s>
+        <s>Now there is <ref target="c11lk2_1" type="character">Bev</ref> who wants to stop <ref target="c11lk2_1" type="character">Russ</ref> from reading the last letter from their son out loud and starts interrupting him <ref target="c11lk2_1" type="line">(cf. l. 160)</ref>.</s>
+        <s>She means to imply strong emotions by almost screaming <quote>Stop it</quote> <ref target="c11lk2_1" type="line">(ll. 162, 165f.)</ref> all the time.</s>
+      </p>
+      <p>
+        <s>These words <add>(Italics)</add> are quite emphasized.</s>
+        <s>The extract ends when <ref target="c11lk2_1" type="character">Russ</ref> is holding an reproach to <ref target="c11lk2_1" type="character">Karl</ref> to reveal the truth.</s>
+        <s>They all end up by <quote>standing in silence, Bev is crying and Russ slowly folds the letter</quote> <ref target="c11lk2_1" type="line">(ll. 203ff.)</ref>.</s>
+        <s>This pause represents the speechlessness, shock and embarrassment everybody except <ref target="c11lk2_1" type="character">Russ</ref> seems to feel.</s>
+        <s>He seems to feel satisfied and content.</s>
+        <s>His intention was all the time that it does not matter who is gonna move in, what only matters for him and his wife is to move out and leave the part behind.</s>
+      </p>
+      <p>
+        <s>There was a vast climax in the extract of Act I, which was created by many italics and pauses.</s>
+        <s>They lead to the final point where <ref target="c11lk2_1" type="character">Russ</ref> turned into the dominant and superior part and stated his view without any interruptions from anybody.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

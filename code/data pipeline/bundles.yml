@@ -1,0 +1,47 @@
+# Bundles of pre-determined selections
+bundles:
+  default: {}                          # Indicates that all defaults are used
+  original:
+    remove_teiHeader: true
+  corrected:
+    use_orig: false
+    use_expan: true
+    remove_teiHeader: true
+  lexical_sophistication: # use corrected versions for lexical sophistication analysis
+    use_orig: false
+    remove_quotes: true
+    remove_names:
+        person: true
+        geo: true
+        misc: true
+    remove_references:
+        author: true
+        title: true
+        line: true
+        scene: true
+    remove_surplus: true
+    remove_dates: true
+    remove_links: true
+  clean_text:
+    use_orig: false
+    use_expan: true
+    remove_quotes: true
+    remove_q: true
+    remove_names:
+        person: true
+        geo: true
+        misc: true
+    remove_references:
+        author: true
+        title: true
+        line: true
+        scene: true
+    remove_surplus: true
+    remove_add: true
+    remove_gaps: true
+    remove_foreign: true
+    remove_links: true
+    remove_stage: true
+    remove_kinesic: true
+    remove_emph: true
+    remove_teiHeader: true

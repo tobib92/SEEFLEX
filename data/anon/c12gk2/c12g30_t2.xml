@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g30_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To convince his audience, he used more than five rhetorical questions <ref target="c12gk2_1" type="line">(line 3, 12, 15, 19, 24)</ref> and other rhetorical devices like an <choice><orig>anapher</orig><reg>anaphora</reg></choice> in line 42 <quote>wine and wassail</quote>.</s>
+        <s>One device he <choice><orig>use</orig><reg>uses</reg></choice> is a dominant role of <ref target="c12gk2_1" type="character">Lady Macbeth</ref> in this <choice><orig>Dialoge</orig><reg>dialogue</reg></choice>.</s>
+        <s>She speaks a lot more <choice><orig>then</orig><reg>than</reg></choice> <ref target="c12gk2_1" type="character">Macbeth</ref> and also wants to convince him about her <choice><orig>Plan</orig><reg>plan</reg></choice>.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> isn't sure about it and brings the <choice><orig>Argument</orig><reg>argument</reg></choice> <quote>If we should fail</quote> <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s>But <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to invalidate it and says that they already fail and this is the only way to fix it.</s>
+        <s>For that she <choice><orig>use</orig><reg>uses</reg></choice> a comparison to a violin player who can fix his fail with tight the string <ref target="c12gk2_1" type="line">(compare to line 38 f.)</ref>.</s>
+        <s>So she wants to get in his consciousness to manipulate him.</s>
+      </p>
+      <p>
+        <s>For that she tries to get him a bad conscience.</s>
+        <s>She says that she <choice><orig>account</orig><reg>accounts</reg></choice> her love to him <ref target="c12gk2_1" type="line">(compare to l. 12 f.)</ref>.</s>
+        <s>She could destroy <choice><orig>theire</orig><reg>their</reg></choice> relationship just to convince him to kill <ref target="c12gk2_1" type="character">King Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>At the end the relationship still works and <ref target="c12gk2_1" type="character">Macbeth</ref> <choice><orig>kill</orig><reg>kills</reg></choice> <ref target="c12gk2_1" type="character">Duncan</ref> to become king.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth's</ref> manipulation had success.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> <choice><orig>use</orig><reg>uses</reg></choice> an old, now <choice><orig>outdatet</orig><reg>outdated</reg></choice>, language with words like <quote>thou</quote> and <quote>thee</quote> for <quote>you</quote> and <quote>thy</quote> and <quote>thine</quote> for your.</s>
+        <s>Also the word <quote>ye</quote> for <quote>you</quote>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> also uses another word ending for verbs after <quote>thou</quote>.</s>
+        <s>They ended now with <quote>-st</quote> or <quote>-th</quote>.</s>
+      </p>
+      <p>
+        <s>But that's a normal language in the <date>16th century</date> so it's not surprising that he <choice><orig>use</orig><reg>uses</reg></choice> it that often.</s>
+      </p>
+      <p>
+        <s>All in all you can see that <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> <choice><orig>write</orig><reg>writes</reg></choice> <choice><orig>an</orig><reg>a</reg></choice> fantastic scene with multiple rhetorical devices.</s>
+        <s>It's perfect to show that you shouldn't be able to get manipulated, what <ref target="c12gk2_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> <choice><orig>intension</orig><reg>intention</reg></choice> was.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

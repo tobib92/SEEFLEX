@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g36_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>From my point of view the scene in the movie is faithful enough to the <choice><orig>novels</orig><reg>novel's</reg></choice> purpose, because you can see how the <ref target="b10gk3_1" type="character">Carters</ref> are under pressure after the interview.</s>
+        <s>In the novel the police men search <ref target="b10gk3_1" type="character">Carter</ref>, because of an argument with a friend and not because of a fight, like in the movie.</s>
+        <s>This puts the attention to the fact, how randomly the police officers search black people and shows the racism more.</s>
+        <s>In the movie <choice><orig>its</orig><reg>it's</reg></choice> more clear that the police officers want to intimidate <ref target="b10gk3_1" type="character">Starr</ref>, because one of them tells <ref target="b10gk3_1" type="character">Starr</ref>, she should take this as a warning.</s>
+        <s>The scene from the movie doesn't show the reaction and randomness of the police that well, the book does, but the movie shows how they are under pressure from two sides.</s>
+        <s><choice><orig>One</orig><reg>On</reg></choice> the one side the police and on the other side the <ref target="b10gk3_1" type="character">King Lords</ref>.</s>
+        <s>All in all I would say that the scene from the movie is <choice><orig>faithfull</orig><reg>faithful</reg></choice> enough to the <choice><orig>novels</orig><reg>novel's</reg></choice> idea.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

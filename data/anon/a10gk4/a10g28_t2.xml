@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the blog post from <ref target="a10gk4_1" type="author">Ankita Mitra</ref>, published on <date>February 5, 2014</date>.</s>
+        <s>She <choice><orig>list</orig><reg>lists</reg></choice> the problems and dangers of the <choice><orig>Industrialisation</orig><reg>industrialisation</reg></choice> and gives <choice><orig>Examples</orig><reg>examples</reg></choice> what the results of the climate change could be and helps her with stylistic devices.</s>
+      </p>
+      <p>
+        <s>She has a very negative setting against the industrialisation and uses in the text words like <quote>killed</quote>, <quote>hazardous</quote>, <quote>victim</quote> and <quote>fail</quote>.</s>
+        <s>With words like that she gives her blog post a very dark mood which scares people for the results of the climate change.</s>
+        <s>In the text are a lot of results and similes what could happen with our planet for example <ref target="a10gk4_1" type="line">(l. 34)</ref>.</s>
+        <s>These <choice><orig>similies</orig><reg>similes</reg></choice> are very cruel and <choice><orig>influences</orig><reg>influence</reg></choice> the reader into thinking that if he <choice><orig>don't</orig><reg>doesn't</reg></choice> protest, and helps to stop the climate change now, everything will be destroyed.</s>
+      </p>
+      <p>
+        <s>The examples at the end of the text are very good <choice><orig>choosen</orig><reg>chosen</reg></choice>, because they weren't too far away and these tragic crashes are burned into the history of industrialisation.</s>
+        <s>And with the help of anaphoras and metaphors she <choice><orig>dramatizises</orig><reg>dramatizes</reg></choice> the problems even more.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk4_1" type="author">Ankita Mitra</ref> is also due to a bit of specialistic words and with quotes from scientists very <choice><orig>credibile</orig><reg>credible</reg></choice>.</s>
+      </p>
+      <p>
+        <s>All in all influences she the reader with her writing style and stylistic devices and tricks him into thinking the world is soon for her end.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

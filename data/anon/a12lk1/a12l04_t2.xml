@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the followin it will be analysed how<ref target="a12lk1_1" type="author">Shakespeare</ref> conveys his message, which was <choice><orig>thoroughly</orig><reg>thouroughly</reg></choice> investigated in the previous text, of hard truhs and favorable lies with the help of numerous stylistic devices and the presence of the special formal structure a Shakespearean sonnet presents.</s>
+      </p>
+      <p>
+        <s>The sonnet consists of three quatrains, each consisting of four verses, and a heroic couplet, consisting of two verses, located in the end of the poem.</s>
+        <s>The rhyme scheme the poem presents is <name type="misc">abab cdcd efef gg</name> making it not only rhythmic but giving the portrayed more melancholic and rather unpleasant message, a harmonic and euphoric flare, contrasting the lies and untruths from the lyrical I's actual perception of the relationship which is depicted.</s>
+        <s>Regarding the metre, the typical iambic pentameter, which is similar to the blank verse in dramas, stretches throughout the whole poem, again having a similar effect.</s>
+        <s>It resembles a heartbeat which should be deemed unfitting in combination with the message before the volta in l. 9.</s>
+        <s>After acknowledging the final quatrain and couplet the reader gets a deeper understanding of the displayed relationship, realizinh that the <choice><orig>speakers</orig><reg>speaker's</reg></choice> heart still beats for her, yet untruthful, love.</s>
+      </p>
+      <p>
+        <s>The sonnet has a large quantity of antitheses, which are spread over the course of the poem.</s>
+        <s><quote>false subtleties</quote> in l. 4 for example explains that the lyrical I's lover does not tell the hard truth but would rather lie than to hurt the speaker.</s>
+        <s>She is <choice><orig>incapeable</orig><reg>incapable</reg></choice> of speaking the truth for once.</s>
+        <s>This device creates deeper meaning and nudges the reader to stop and think about the context, making him remember the thesis of the poem.</s>
+      </p>
+      <p>
+        <s>The personification in l. 8 (<quote>false speaking tongue</quote>) creates an image in the readers, making them visualize the overcomplexified message of the verse, which is just about the speaker being thankful that the lover does not want to destroy their relationship over a couple of hard truths.</s>
+      </p>
+      <p>
+        <s><quote>But wherefore says [...] And wherefore say</quote><ref target="a12lk1_1" type="line">(ll. 9f.)</ref> is a parallelism and anaphora, in form of an interior monologue with rhetorical questions, which the lyrical I asks itself.</s>
+        <s><ref target="a12lk1_1" type="author">Shakespeare</ref> illustrates that it doesn't matter whether the lover is <choice><orig>injust</orig><reg>unjust</reg></choice> for lying and that the persona of the poem would not even mind hearing the hard truth, which the lyrical I already senses anyways.</s>
+        <s>The repetition of the structure simply makes the reader understand the lyrical I's mindset, which the lover could not understand because he keeps this exact truth to himself as well.</s>
+        <s>This interior monologue expresses the exact problem of the whole sonnet, that both parties would rather think to themselves than opening up towards one another.</s>
+      </p>
+      <p>
+        <s>To create more imageric contrasts<ref target="a12lk1_1" type="author">Shakespeare</ref> employs a metaphoric personification in l. 11 (<quote>love's best habit is in seeming trust</quote>) which describes that blind trust is one of <choice><orig>loves</orig><reg>love's</reg></choice> most common traits that is not to be understood but to be just taken for granted.</s>
+        <s>The listener/reader gets a chance to identify with the problem and is invited to think about and recall his past or ongoing relationships.</s>
+      </p>
+      <p>
+        <s>The alliteration <quote>love loves</quote> <ref target="a12lk1_1" type="line">(l. 12)</ref> is not only used for rhythmic purposes but employed to make the verse more expressionate by highlighting the powerful word <quote>love</quote>.</s>
+        <s>This creates not only deeper meaning but stress is the emotional toll the hard truth of old age has on the lyrical I.</s>
+      </p>
+      <p>
+        <s>to illustrate the mutual love both still have and still root for, a mirrored parallelism intertwined with ellipsis was implemented (<quote>I lie with her, and she with me</quote> <ref target="a12lk1_1" type="line">(l. 13)</ref>).</s>
+        <s>It <choice><orig>expesses</orig><reg>expresses</reg></choice> that both parties love <choice><orig>eachother</orig><reg>each other</reg></choice>, despite all their faults.</s>
+        <s>The personification strengthens the meaning of the verse that the feeling is mutual.</s>
+      </p>
+      <p>
+        <s>All in all, this Shakespearean sonnet has the topical formal structure on would expect.</s>
+        <s>Worth mentioning is that the poem consists of a broad number of personifications which are often combined with minor stylistic devices.</s>
+        <s>Furthermore no extended metaphor, which is usually typical for a Shakespearean sonnet, can be found in the poem.</s>
+        <s>No comparison between the lover and another romantic subjective is expressed, making the sonnet seem rather dry.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

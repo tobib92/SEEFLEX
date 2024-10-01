@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g30_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s><choice><orig>Through</orig><reg>through</reg></choice> the news I discovered the fact that <name type="misc">The Hate U Give</name> is banned from school libraries in <name type="geo">Texas</name>.</s>
+        <s>The book is supposed to be vulgar, uses offensive language and contains scenes not appropriate for young people.</s>
+      </p>
+      <p>
+        <s>I think even though it is a book worth reading.</s>
+        <s>It describes scenes very well and you get a closer look on what effect racism has on the people and how they struggle to deal with it.</s>
+        <s>Racism is a major problem in the <name type="geo">USA</name> and that also comes from the lack of education and information about it.</s>
+        <s>Furthermore, the accusations are not wrong but stressed out a little.</s>
+        <s>The language is stronger than formal English, but that is how the characters and the people speak and it makes it more realistic.</s>
+        <s>The point that it depicts drug use is true, but the background of it is different.</s>
+        <s>It does not say that drugs are a good thing.</s>
+        <s>It is a topic but it explains how the drug use is destroying their society in some way.</s>
+        <s>So it does not support taking our selling drugs, it just says what the problem is and where it comes from.</s>
+      </p>
+      <p>
+        <s>The police is not shown as something negative in particular, but they underline the juristic problem and makes the reader think twice and dig deeper when a police officer is not charged for killing people they stop and search.</s>
+        <s>That is why I think it is a good way to bring students the topic of racism closer and can create a view on it, that maybe was not possible before.</s>
+      </p>
+      <p>
+        <s>I would be glad if you would consider reading it in your school too or make it be accessible in your school library.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

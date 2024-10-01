@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analysed how <ref target="a11gk2_1" type="speaker">Obama</ref> tries to convince the audience that <quote>dreams are worth fighting for</quote>.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> starts off by referring to the occasion and telling the audience that he feels home to show his sympathy.</s>
+      </p>
+      <p>
+        <s>He uses a correctio <ref target="a11gk2_1" type="line">(l. 2f)</ref> <quote>But the truth is...</quote> and <choice><orig>poins</orig><reg>points</reg></choice> out that everyone shares more with each other <choice><orig>then</orig><reg>than</reg></choice> just the place they live.</s>
+        <s>This creates a feeling of unity.</s>
+      </p>
+      <p>
+        <s>On the one hand he <choice><orig>mentiones</orig><reg>mentions</reg></choice> the problem of division according to <name type="geo">Washington</name> and makes the audience feel <choice><orig>responsibile</orig><reg>responsible</reg></choice> by using personal pronouns.</s>
+      </p>
+      <p>
+        <s>On the other hand he uses <choice><orig>a</orig><reg>an</reg></choice> anaphora <ref target="a11gk2_1" type="line">(l. 7f)</ref> <quote>... I've travelled... I haven't ... - I've been impressed...</quote> to <choice><orig>conveye</orig><reg>convey</reg></choice> that his impressions are the opposite and that he has been impressed by the values different people share.</s>
+      </p>
+      <p>
+        <s>Additionally he uses a <choice><orig>Parallelism</orig><reg>parallelism</reg></choice> <ref target="a11gk2_1" type="line">(l. 12)</ref> <quote><s>Common hopes.</s><s>American Dreams.</s></quote> to underline that the hopes they share are important.</s>
+        <s>This makes the audience feel worthy also as individuals.</s>
+      </p>
+      <p>
+        <s>Moreover the repetition <ref target="a11gk2_1" type="line">(l. 14)</ref> <quote>... gave him a chance ... gave them a chance</quote> makes clear that these dreams and values are reasons to hold on because <choice><orig>thats</orig><reg>that's</reg></choice> what his <choice><orig>Grandparents</orig><reg>grandparents</reg></choice> did.</s>
+      </p>
+      <p>
+        <s>Furthermore <ref target="a11gk2_1" type="speaker">Obama</ref> uses another parallelism <ref target="a11gk2_1" type="line">(l. 18)</ref> <quote>... she finished her education, she followed her passion...</quote> to illustrate that these dreams <quote>drove</quote> his mother and helped her to raise him and his sister.</s>
+        <s>This makes it more <choice><orig>relyable</orig><reg>reliable</reg></choice> for the audience.</s>
+      </p>
+      <p>
+        <s>The emotive language also creates a connection between <ref target="a11gk2_1" type="speaker">Obama</ref> and the audience.</s>
+      </p>
+      <p>
+        <s>Besides the anaphora <ref target="a11gk2_1" type="line">(l. 13, 17, 21)</ref> points out the <choice><orig>impotence</orig><reg>importance</reg></choice> of the values.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a11gk2_1" type="speaker">Obama</ref> uses many anaphoras and <choice><orig>parallelism</orig><reg>parallelisms</reg></choice> to convince the audience that the dreams are worth fighting for.</s>
+        <s>To do this he also relies to his family background.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l03_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello everyone,</salute>
+      </p>
+      <p>
+        <s>today I'm going to talk about everyday racism that everyone, even the biggest starts of our time have to experience.</s>
+        <s>I'm a volunteer for an international culture exchange organization in the <name type="geo">USA</name>.</s>
+        <s>Because I'm originally from <name type="geo">Germany</name>, I was asked <choice><orig>wheather</orig><reg>whether</reg></choice> I could write this blogpost and analyse how Germans with African heritage feel in <name type="geo">Germany</name> when constantly facing racism to a serious extent.</s>
+      </p>
+      <p>
+        <s>To give you examples, I'm <choice><orig>refering</orig><reg>referring</reg></choice> to an interview with <name type="person">Jerôme Boateng</name> and <name type="misc">Herbert Grönemeyer</name> which deals with the current mood in <name type="geo"><choice><orig>Germanys</orig><reg>Germany's</reg></choice></name> society.</s>
+      </p>
+      <p>
+        <s><name type="person">Boateng</name>, a national football player, who's from African heritage but still a German citizen talks about his experiences with being discriminated in your own country.</s>
+        <s>He gives an inside look in his soccer career and how he has to face racism even when standing on the field.</s>
+        <s>He often notices viewers <choice><orig>immitating</orig><reg>imitating</reg></choice> monkey sounds and directly refering to him when doing so.</s>
+        <s>This treatment he has been facing since being a little kid.</s>
+        <s>He remembers hearing parents from <choice><orig>diffrent</orig><reg>different</reg></choice> teams shouting insults towards him and his black teammates and even spitting on them.</s>
+      </p>
+      <p>
+        <s>Insulting just ten year old boys in a country like <name type="geo">Germany</name> <name type="person">Boateng</name> asks himself how this treatment is fair regarding all the matches he played for our national team.</s>
+        <s>He plays for the Germans, because he is one.</s>
+        <s>But because of the racism he faces on a daily base, people make him feel like an outcast in his own country he grew up in.</s>
+        <s>He underlines the importance of people with <choice><orig>diffrent</orig><reg>different</reg></choice> heritage living in <name type="geo">Germany</name>, as it makes the country diverse and colourful, by giving an example.</s>
+        <s>According to him, winning the World Cup <date>2014</date> wouldn't have been possible without the diverse national team.</s>
+      </p>
+      <p>
+        <s>He also brings up the question how to deal with the immigrant crisis <name type="geo">Germany</name> went through.</s>
+        <s>It's a heavily discussed subject at the moment.</s>
+        <s><name type="person">Boateng</name> thinks that because of the crisis, the generalization and separation between Germans and people from a different heritage became more of a topic again.</s>
+        <s>So again not only the immigrants are taking the position of an outcast in a country, but also those who just don't lool like the <choice><orig>standart</orig><reg>standard</reg></choice> Germans are viewed differently.</s>
+        <s>This makes people feel like they don't belong to their own country.</s>
+      </p>
+      <p>
+        <s>In the end of the interview he states that <choice><orig>nowdays</orig><reg>nowadays</reg></choice> he isn't as offended from racist comments anymore as he was in his childhood days.</s>
+        <s>He grew through his experiences and learned that some people will always have problems with you, your heritage or your looks.</s>
+        <s>His parents didn't talk about his <choice><orig>skincolour</orig><reg>skin colour</reg></choice> for a long time because it simply didn't matter.</s>
+        <s>So why does it need to become a matter?</s>
+      </p>
+      <p>
+        <s><name type="person">Jerôme Boateng</name> is a great example of racism against citizens that make them feel outcasted in their own country even though they have the same rights and lifestyle just as anyone else living there.</s>
+        <s>Furthermore he is a very famous person, who can share his experiences in front of many people to make them come to a realization.</s>
+      </p>
+      <p>
+        <s>I hope that this blogpost helped you seeing this whole topic from a different perspective and also make you see the extent of racism in our society <choice><orig>nowdays</orig><reg>nowadays</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Thanks for reading the blog entry and good bye.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

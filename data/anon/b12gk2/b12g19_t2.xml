@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="b12gk2_1" type="speaker">Johnson</ref> emphasizes strongly that he thinks the <name type="misc">COP26</name> is the turning point to stop global warming and that climate change is a very serious problem.</s>
+        <s>This becomes obvious through his structure of argumentation and his use of rhetorical devices.</s>
+      </p>
+      <p>
+        <s>The speech is very well structured and shows his intention very easily.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> starts by comparing the audience, the world leaders, to <name type="person">James Bond</name>.</s>
+        <s>He uses the glorified image of <name type="person">Bond</name> to underline the importance of the <choice><orig>leaders</orig><reg>leaders'</reg></choice> role and creates a picture in their heads, which says that they could become a <choice><orig>reallife</orig><reg>real life</reg></choice> hero <ref target="b12gk2_1" type="line">(ll. 1-6)</ref>.</s>
+      </p>
+      <p>
+        <s>He also draws a frame by mentioning <name type="person">Bond</name> again in his last sentences.</s>
+        <s>The possibility of becoming a hero pops up in the head of the audience once more and creates a feeling of euphoria and urgency <ref target="b12gk2_1" type="line">(ll. 47f)</ref>.</s>
+      </p>
+      <p>
+        <s>He continues by describing his own experiences from the <name type="geo">Copenhagen</name> and <name type="geo">Paris</name> summits which made promises they did not keep <ref target="b12gk2_1" type="line">(ll. 10-14)</ref>.</s>
+        <s>He uses the image of the <choice><orig>populations</orig><reg>population's</reg></choice> anger to move the leaders to actually change something on the <name type="geo">COP26</name> summit <ref target="b12gk2_1" type="line">(l. 13-15)</ref>.</s>
+      </p>
+      <p>
+        <s>Further he quotes that in the last 200 years the industrialized countries did wrong, in order to motivate the leaders to stop climate change <ref target="b12gk2_1" type="line">(ll. 18-21)</ref> and do the right thing <add>according to <ref target="b12gk2_1" type="speaker">Johnson</ref></add>.</s>
+      </p>
+      <p>
+        <s>Then he emphasizes taht they have to work together to invest private sectors <ref target="b12gk2_1" type="line">(ll. 22-27)</ref>.</s>
+        <s>He underlines the importance of those by giving an example of the <name type="geo">UK</name> <ref target="b12gk2_1" type="line">(ll. 27-30)</ref>.</s>
+      </p>
+      <p>
+        <s>He also builds up a lot of emotional pressure by including the younger generations and their anger if the leaders fail to stop climate change <ref target="b12gk2_1" type="line">(ll. 37-42, 44f)</ref>.</s>
+        <s>This seems promising because <ref target="b12gk2_1" type="speaker">Johnson</ref> stated that all of the leaders present are over 60 <ref target="b12gk2_1" type="line">(l. 33-35)</ref>, meaning they probably already have children and most likely would not want to ruin their future.</s>
+      </p>
+      <p>
+        <s>He milds his pressure by repeating that they would have all the necessary technology, ideas, bankers etc. <ref target="b12gk2_1" type="line">(ll. 16f, 30f, 45f)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> supports his arguments with a lot of rhetorical devices.</s>
+        <s>It starts in the first sentence where he uses an anaphora <ref target="b12gk2_1" type="line">(l. 1)</ref> to connect the greeting with hsi following comparison.</s>
+        <s>The comparison contains many <choice><orig>metaphores</orig><reg>metaphors</reg></choice> <ref target="b12gk2_1" type="line">(ll. 4f)</ref> and alliteration <ref target="b12gk2_1" type="line">(l. 3)</ref> to create a lively image in the heads of the leaders.</s>
+        <s>He then connects the comparison with the reality with an antithesis <ref target="b12gk2_1" type="line">(l. 6f)</ref>.</s>
+        <s>The alliteration <quote>man-made</quote> <ref target="b12gk2_1" type="line">(l. 8)</ref> emphasizes that the humans are fully responsible for global warming.</s>
+      </p>
+      <p>
+        <s>Then he uses an enumeration <ref target="b12gk2_1" type="line">(l. 10-12)</ref> to make it seem like his experiences stand for the circumstances at every conference.</s>
+      </p>
+      <p>
+        <s>The quote <quote>blah, blah, blah</quote> <ref target="b12gk2_1" type="line">(l. 13)</ref> strongly contrasts with his formal speec hand because of that, the quote highlights evenm ore powerful, that the promises are broken very often.</s>
+        <s>At the same time the quote represents the general public because of the urban formulation, and strongly represents their frustration.</s>
+      </p>
+      <p>
+        <s>Generally <ref target="b12gk2_1" type="speaker">Johnson</ref> uses a lot of <choice><orig>metaphores</orig><reg>metaphors</reg></choice> to create images.</s>
+        <s>He uses the images to move to leaders emotionally to urge them into action <ref target="b12gk2_1" type="line">(ll. 13, 37f, 41, 49, 50)</ref>.</s>
+        <s>Additionally he uses many personifications <ref target="b12gk2_1" type="line">(ll. 13, 18, 21, 23, 26, 28, 42)</ref> to empower their intensity and importance.</s>
+        <s>For example <quote>the impatience of the world</quote> <ref target="b12gk2_1" type="line">(l. 13)</ref> makes it seem like the whole world and the plant himself is impatient which creates a feeling of importance and urgency.</s>
+      </p>
+      <p>
+        <s>All in all the speech is very graphic and uses a lot of images.</s>
+      </p>
+      <p>
+        <s>Also <ref target="b12gk2_1" type="speaker">Johnson</ref> repeats a lot of words and uses many alliterations and anaphoras <ref target="b12gk2_1" type="line">(l. 3, 16, 30, 45ff)</ref>.</s>
+        <s>The repetition emphasizes their meanings and empowers their importance.</s>
+        <s>They also stay longer in the <choice><orig>audiences</orig><reg>audience's</reg></choice> <choice><orig>mind</orig><reg>minds</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> uses many climaxes <ref target="b12gk2_1" type="line">(ll. 22, 30, 37, 44)</ref> <choice><orig>aswell</orig><reg>as well</reg></choice> to intensify the meaning of certain phrases, for example <quote>COP26 will not and cannot</quote> <ref target="b12gk2_1" type="line">(l. 42)</ref>.</s>
+      </p>
+      <p>
+        <s>Especially <ref target="b12gk2_1" type="speaker">Johnson</ref> uses a variety of different approaches.</s>
+        <s>He either speaks of himself <ref target="b12gk2_1" type="line">(ll. 10f)</ref> in order to project his feelings on the audience or he approaches the audience or another group to separate him and the audience <ref target="b12gk2_1" type="line">(ll. 18f)</ref>, for example <quote>I was there with many of you</quote> <ref target="b12gk2_1" type="line">(l. 10)</ref> or <quote>they will do judge us</quote> <ref target="b12gk2_1" type="line">(ll. 40f)</ref>.</s>
+      </p>
+      <p>
+        <s>But mainly he uses inclusive language to create a feeling of intimacy and solidarity, like they all work together and belogn together <ref target="b12gk2_1" type="line">(ll. 9, 14, 16, 22, 26, 33)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

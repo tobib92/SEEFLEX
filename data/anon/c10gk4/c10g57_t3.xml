@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g57_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear readers,</salute>
+      </p>
+      <p>
+        <s><link>Teenissues.com</link> has asked me to write a report about my friend's experiences as a volunteer in <name type="geo">India</name>.</s>
+        <s>I thought this would be a nice idea.</s>
+      </p>
+      <p>
+        <s>The following information are from an extract, written by <name type="person">Bianca L.</name>, an 18-year-old German volunteer who worked in an <name type="misc">Education Center</name> for children in <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s>The best thing in her trip were the children there, because they were so lovely, interested and accepting her immediately.</s>
+        <s>The best thing about those children were their love for life, which <name type="person">Bianca</name> hasn't seen in German school or kindergarten before.</s>
+        <s>Considering their situation and experiences, she was surprised how happy they are.</s>
+        <s>She describes her experience with the children as one of the most valuable days in her entire life, even though she was often tired and frustrated.</s>
+        <s>She is unbelievably thankful for the kids' love and hope which has filled her life.</s>
+      </p>
+      <p>
+        <s>I hope you found this report quite interesting and helped you considering doing a <choice><orig>similiar</orig><reg>similar</reg></choice> experience.</s>
+      </p>
+      <p>
+        <s>Report written by <name type="person">John D.</name> on <date>December 16th 2021</date></s>
+      </p>
+    </body>
+  </text>
+</TEI>

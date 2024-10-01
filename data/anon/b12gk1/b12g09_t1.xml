@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g09_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given speech held on the <date>first of <choice><orig>november</orig><reg>November</reg></choice> 2021</date> <ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, describes the current situation in climate change and his approach on solving the problems.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> begins with a short welome to the <choice><orig>atendents</orig><reg>attendants</reg></choice>.</s>
+        <s>After that he defribes the potential of climate change.</s>
+        <s>He follows with a description of the actions that are in the past and how they are not enough.</s>
+        <s>Then <ref target="b12gk1_1" type="speaker">Johnson</ref> presents the main problem which is the financiation of future fight against climate change.</s>
+        <s>These financial resources are in the possession of the market.</s>
+        <s>He requests that all should try to work with the banks and corporations.</s>
+        <s>In the next part he informs the present world leaders about the effects on society with a focus on the youth.</s>
+        <s>In this part <ref target="b12gk1_1" type="speaker">Johnson</ref> argues that not taking any actions or not suffiecient ones will put a life long guilt on them.</s>
+        <s>This guilt is to evade or else future generations will suffer.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> then concludes his speech by describing the foundations on which the politicians have to base their fight against climate change.</s>
+        <s>Furthermore he states that <name type="geo">Glasgow</name> and <name type="misc">COP26</name> can only begin an ongoing fight against climate change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g18_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> hold a speech at the <date>7.04.2009</date> at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>, which is a part of <name type="geo">Istanbul, Turkey</name>.</s>
+        <s>The speech is about how important student exchanges are to tear walls between two nations down.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> mentions that he wants to rebuild the relationship between <name type="geo">Turkey</name> and <name type="geo">America</name> based on fairness and respect.</s>
+        <s>In the following I am going to sum up this extract from the speech.</s>
+      </p>
+      <p>
+        <s>A lot of Americans connect with other cultures/countries, a few of them travel aboard and speak to groups, other people volunteer abroad.</s>
+        <s>There are a lot of different options you can choose from.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> also wants to find new ways to support connecting.</s>
+        <s>He also says that exchanges are necessary to recognize common humanity, this is where progress begins.</s>
+        <s>Exchanges are a step to peace, success shared and new bridges.</s>
+        <s>Also he marks that in <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> you will always find a friend in the <name type="geo">USA</name>.</s>
+      </p>
+      <p>
+        <s>To sum it up exchanges are really important to tear walls between two nations down and instead build bridges.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I will analyse the sonnet of its structure and language and how this supports the speaker's idea of love.</s>
+      </p>
+      <p>
+        <s>The typical Shakespearean sonnet structure includes three quatrains with four lines each and the final couplet with only two lines.</s>
+        <s>His idea of love and his intention becomes clear if we take a closer look on the structure of the sonnet.</s>
+        <s>Firstly, he explains the bad sides of love and that love should not be changed when something else is changing.</s>
+        <s>In this paragraph, the audience <choice><orig>get</orig><reg>gets</reg></choice> to know the speaker's point of view and what he is going through.</s>
+        <s>It also creates a feeling of sympathy to the speaker.</s>
+      </p>
+      <p>
+        <s>Then the speaker realized that love is something that is fixed and <choice><orig>connect</orig><reg>connects</reg></choice> people with  each other.</s>
+        <s>This <choice><orig>have</orig><reg>has</reg></choice> the effect that the audience may think about it and maybe about their relationship.</s>
+        <s>After that he illustrates that time isn't an excuse and that love <choice><orig>hold</orig><reg>holds</reg></choice> on to the death.</s>
+        <s>By this, the audience get the real meaning of love and that they should think about more closely about their relationship with <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+        <s>Then in the final couplet there comes the author's disappointment clear.</s>
+        <s>He emphasizes if all of that is a mistake, then no man <choice><orig>have</orig><reg>has</reg></choice> ever loved.</s>
+        <s>This <choice><orig>have</orig><reg>has</reg></choice> the effect that the audience can understand his idea of love step by step and also his conclusion.</s>
+        <s>So the whole sonnet is structured into a chronological way.</s>
+      </p>
+      <p>
+        <s>The poet employs specific images such as metaphors and similes.</s>
+        <s>The first stylistic device is in line one.</s>
+        <s>The metaphor: <quote>marriage of true minds</quote> <ref target="c12gk1_1" type="line">(cf. l. 1)</ref> means that the author does not want a marriage just because of society standards.</s>
+        <s>The two minds are not connected with each other.</s>
+        <s>This creates an image for the audience and it could also <choice><orig>makes</orig><reg>make</reg></choice> it easier to understand what the author is saying.</s>
+        <s>The alliteration in line 4f <quote><s>or bends [...] oh no!</s><s> [...]</s></quote> grabs the listeners attention and also shows the slyness of the narrator.</s>
+        <s>In addition to that it helps to add rhythm and makes it easier to read.</s>
+        <s>In love five is an exclamation, which <choice><orig>have</orig><reg>has</reg></choice> the effect that it grabs the audience's attention and gives a deeper meaning as well.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> always compares love with something else.</s>
+        <s>For example in line seven the word <quote>star</quote> stands for that what helps the sailors to navigate their ships and <quote>bark</quote> for a ship.</s>
+        <s>So love is characterized as something that is a transmission between two people.</s>
+        <s>It effects that the audience <choice><orig>have</orig><reg>has</reg></choice> another way to think about it but it makes it also difficult to understand.</s>
+        <s>Line eleven to twelve contains a parallelism.</s>
+        <s>The author says that love isn't changing with hours or weeks but it <choice><orig>hold</orig><reg>holds</reg></choice> on to the day of death.</s>
+        <s>It creates two sides of the meaning of love and creates a feeling how important love could be an what effect it has on many people.</s>
+      </p>
+      <p>
+        <s>To come to an end, <ref target="c12gk1_1" type="author">Shakespeare</ref> has written <choice><orig>meaningfull</orig><reg>meaningful</reg></choice> sonnets which have many different effects on the reader.</s>
+        <s>The stylisti devices are hard to understand but give the sonnets the typical power.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

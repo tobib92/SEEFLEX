@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g52_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is taken from the film <ref target="b10gk5_1" type="title">The Hate U Give</ref> by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> and released in <date>2018</date>.</s>
+        <s>It's about <ref target="b10gk5_1" type="character">Starr's</ref> relationship with her boyfriend, who did a big mistake in the past.</s>
+      </p>
+      <p>
+        <s>The scene <choice><orig>beginns</orig><reg>begins</reg></choice> with <ref target="b10gk5_1" type="character">Chris</ref> walking down the hallway of his and <ref target="b10gk5_1" type="character">Starr's</ref> school.</s>
+        <s>He notices <ref target="b10gk5_1" type="character">Starr</ref> and goes directly to her.</s>
+        <s>Afterwards he <choice><orig>present's</orig><reg>presents</reg></choice> his self made beat to <ref target="b10gk5_1" type="character">Starr</ref> with putting his headphones over her ears.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref><choice><orig>react's</orig><reg>reacts</reg></choice> mad because <ref target="b10gk5_1" type="character">Chris</ref> did a big mistake in the past.</s>
+        <s>Additionally <ref target="b10gk5_1" type="character">Chris</ref> doesn't know how to make <ref target="b10gk5_1" type="character">Starr</ref> forgive him so he <choice><orig>start's</orig><reg>starts</reg></choice> speaking about his beat and dances to it, which in the end made her laugh.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

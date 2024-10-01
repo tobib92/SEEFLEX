@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l20_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>On the one hand many people would sa that there is a need of change.</s>
+        <s>There cannot always be the same plays everyone already knows.</s>
+        <s>Space is needed for development and new ideas!</s>
+      </p>
+      <p>
+        <s>On the other hand it is difficult to find such new idas.</s>
+        <s>Many many plays are inspired by <name type="person">Shakespeare</name>, so it is difficult to just forget his work.</s>
+      </p>
+      <p>
+        <s>But to be fair, it cannot be that good for creativity to be reducted like that.</s>
+        <s>There should be a way to do what you want to do what you want without having to think of consequences of what others would say or think about this or that.</s>
+      </p>
+      <p>
+        <s>However, it cannot be that easy to let go of <name type="person">Shakespeare</name> because a lot of people look up to him.</s>
+        <s><name type="person">Shakespeare</name> shaped the world's <choice><orig>litariture</orig><reg>literature</reg></choice>, so he must be still relevant.</s>
+      </p>
+      <p>
+        <s>Another question is if younger people, especially children should really have to be tormented with that old boring language or if it's maybe time for modernization.</s>
+        <s>Otherwise one can say that our children deserve to get to know <name type="person">Shakespeare</name> just like we did.</s>
+      </p>
+      <p>
+        <s>There probably is nobody, who can make this decision alone if <name type="person">Shakespeare's</name> work is still relevant or not.</s>
+        <s>Maybe one day there can be found a way with who everybody is okay with.</s>
+        <s>Both sides are understandable, but there just should be no jump to conclusions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

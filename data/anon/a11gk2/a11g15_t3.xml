@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g15_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>In America there are no barriers to success</quote><ref target="a11gk2_1" type="line">(l. 19)</ref> refers to the American Dream which is based on the <name type="misc">Declaration of Independence</name> signed by the <name type="misc">Founding Fathers</name>.</s>
+        <s>The American Dream is supposed to stand for freedom, equal rights and equal opportunity.</s>
+        <s>It is supposed to give everyone the chance of climbing up to the top through hard work.</s>
+        <s>That everyone is free to do what they want no matter how they look or where they come from.</s>
+        <s>Everyone has the same rights no matter if you are rich or poor or white or black.</s>
+      </p>
+      <p>
+        <s>Although in latest <choice><orig>History</orig><reg>history</reg></choice> the American Dream turned in to the American Nightmare some might argue.</s>
+        <s>Due to the big problems <name type="geo">America</name> is facing like racism, white supremacy, police violence, domestic terrorism and covid-19 <name type="geo">America</name> is not the leading force for good anymore.</s>
+        <s><name type="geo">America</name> is very <choice><orig>seperated</orig><reg>separated</reg></choice> for example due to <name type="person">Joe Biden</name> being voted for president and not <name type="person">Donald Trump</name>.</s>
+      </p>
+      <p>
+        <s>In a nutshell the American Dream is actually supposed to stand for freedom and equal rights but because of recent American <choice><orig>History</orig><reg>history</reg></choice> it is slowly turning <choice><orig>in to</orig><reg>into</reg></choice> the American Nightmare.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

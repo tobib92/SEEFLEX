@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l16_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>Jane Smith</addrLine>
+        <addrLine>Neuenhöfer Allee 104</addrLine>
+        <addrLine>50935 Cologne</addrLine>
+      </address>
+      <address>
+        <addrLine>Ministry of Education</addrLine>
+        <addrLine>Hansestr. 18A</addrLine>
+        <addrLine>30666 Berlin</addrLine>
+      </address>
+      <date>27th September 2021</date>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Ministry of Education,</salute>
+      </p>
+      <p>
+        <s>My name is Jane Smith and I am one of the students at the Friedrich-Wilhelm-Gymnasium.</s>
+        <s>I am writing to you <choice><orig>beause</orig><reg>because</reg></choice> of the <choice><orig>cancelation</orig><reg>cancellation</reg></choice> of <name type="person">Shakespeare's</name> sonnet in the English School Curriculum.</s>
+        <s>In my <choice><orig>opion</orig><reg>opinion</reg></choice>, this decision should be taken back.</s>
+        <s>Why so, I will explain below.</s>
+      </p>
+      <p>
+        <s>I have informed myself about a couple of reasons why this decision was made.</s>
+        <s>One <choice><orig>arguement</orig><reg>argument</reg></choice> I have read is that students claimed <choice><orig>Shakespearerean</orig><reg>Shakespearean</reg></choice> sonnets are over 400 years old and thus <choice><orig>can not</orig><reg>cannot</reg></choice> be relevant in today's time.</s>
+        <s>I do understand this <choice><orig>arguement</orig><reg>argument</reg></choice> very well, yet one must realize that analyzing <name type="person">Shakespeare's</name> language, as well as his use of stylistic and poetic devices means dealing with a problem.</s>
+        <s>This helps students not only in school, but also in their private life to rationally find a way to solve a problem and analysing certain situations from a neutral position.</s>
+      </p>
+      <p>
+        <s>I have also read about the <choice><orig>arguement</orig><reg>argument</reg></choice> that <name type="person">Shakespeare's</name> language is so old, it dows not help students to learn the English language.</s>
+        <s>I also totally disagree with this <choice><orig>arguement</orig><reg>argument</reg></choice>, because there is an <choice><orig>arguement</orig><reg>argument</reg></choice> which includes historical- and <choice><orig>literatural</orig><reg>literary</reg></choice> aspects:<name type="person">Shakespeare</name> has invented over 1000 words in the English langauge.</s>
+        <s>To learn about his sonnets thus means learning about the origins of the English language.</s>
+      </p>
+      <p>
+        <s>The for me most <choice><orig>shoking</orig><reg>shocking</reg></choice> <choice><orig>arguement</orig><reg>argument</reg></choice> against Shakespearean sonnets in the English School Curriculum is that the topics he deals with are not relevant in today's century.</s>
+        <s>With this <choice><orig>arguement</orig><reg>argument</reg></choice> I disagree the mot!</s>
+        <s>His themes cannot be not relevant, because they are timeless.</s>
+        <s>Love, time and freedom are all topics we deal with on an almost everyday basis and thus could not be more relevant.</s>
+        <s>I would like to give an example to stress my point of view even more.</s>
+        <s><name type="person">Shakespeare's</name> Sonnet 130 deals with realistic love and explains how important and beautiful it is.</s>
+        <s>In my opinion, this is an extremely important <choice><orig>lesseon</orig><reg>lesson</reg></choice> for the life of every, especially young, individual today.</s>
+        <s>We live in a time in which false perfection and high beauty <choice><orig>standarts</orig><reg>standards</reg></choice> are given through social media.</s>
+        <s>I think, everyone should learn about this message, especially in school!</s>
+      </p>
+      <p>
+        <s>I would like to conclude my letter by again asking you to take Shakespearean sonnets back into your curriculum, due to the important reasons I have listed above.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

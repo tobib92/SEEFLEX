@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g48_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>His <choice><orig>Grandparents</orig><reg>grandparents</reg></choice> probably lived in a time in which racism against black people in the <name type="geo">UK</name> was much more common.</s>
+        <s>The state itself even discriminated black people, so overall his <choice><orig>Grandparents</orig><reg>grandparents</reg></choice> had to suffer under harder conditions than <name type="person">Reece</name> does.</s>
+        <s>But still there is room for improvement in <choice><orig>todays</orig><reg>today's</reg></choice> <name type="geo">UK</name> and <name type="person">Reece</name> has to suffer under somehow bad conditions even <choice><orig>thoug</orig><reg>though</reg></choice> they are not as bad as those his grandparents lived in.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>Because black people in the <name type="geo">UK</name> live in a country where slavery used to be normal, some of the ways of thinking about black people back then has still found his ways in to the society that exists now.</s>
+        <s>So some black people are treated like slaves by others.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>Slavery itself does not exist in the <name type="geo">United Kingdom</name> anymore but for some people this way of thinking about others is still there.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>Black people who have probably suffered under the conditions but still managed to get <choice><orig>succesfull</orig><reg>successful</reg></choice>, now want to help others so they do not have to struggle with the same issues they had.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>Black people used to be hated, even if they were <choice><orig>succesfull</orig><reg>successful</reg></choice>.</s>
+        <s>Most of the times they got hated especially when they became <choice><orig>succesfull</orig><reg>successful</reg></choice>.</s>
+        <s>Nowadays they get respected just like everybody else and are rolemodels for some children just like other <choice><orig>succesfull</orig><reg>successful</reg></choice> people often are.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>Even <choice><orig>thoug</orig><reg>though</reg></choice> many black people have a hard time, trying to find their place in society, they are <choice><orig>hopefull</orig><reg>hopeful</reg></choice> and believe that it will be better for the next generation of black people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

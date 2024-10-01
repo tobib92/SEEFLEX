@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g30_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence is taken from the feature film <ref target="b10gk3_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>.</s>
+        <s>The film is about a young <choice><orig>american</orig><reg>American</reg></choice> black girl, named <ref target="b10gk3_1" type="character">Starr Carter</ref>.</s>
+        <s>She's raising her voice against <choice><orig>rasism</orig><reg>racism</reg></choice> after she saw her old best friend, <ref target="b10gk3_1" type="character">Khalil</ref>, getting shot of a white police officer without him having any reasons.</s>
+      </p>
+      <p>
+        <s>The sequence presents <ref target="b10gk3_1" type="character">Starr</ref> and her family having a family dinner at a restaurant.</s>
+        <s>After <ref target="b10gk3_1" type="character">Starr</ref> has given her interview on <choice><abbr>TV</abbr><expan>television</expan></choice> about the <choice><orig>incedent</orig><reg>incident</reg></choice>.</s>
+        <s>They seem to be happy and having a good time.</s>
+        <s>After they pray to god and thank him for giving them the dinner they start to eat.</s>
+        <s>While <ref target="b10gk3_1" type="character">Starr</ref> eats her dinner, she watches out of the window when <choice><orig>suddently</orig><reg>suddenly</reg></choice> she sees the gang standing outside.</s>
+        <s>After her dad notices the gang as well, he goes outside.</s>
+        <s>The Lord gang is angry because of <ref target="b10gk3_1" type="character">Starr</ref> talking about their <choice><orig>buisness</orig><reg>business</reg></choice> on the <choice><abbr>TV</abbr><expan>television</expan></choice> <add>(selling drugs)</add>.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> dad wants them to leave his kids alone, but the Lord gang starts a fight.</s>
+        <s><choice><orig>Suddenty</orig><reg>Suddenly</reg></choice> a police car comes, the Lord gang drives away and <ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> dad is getting pulled against the window of the restaurant.</s>
+        <s><ref target="b10gk3_1" type="character">Starr</ref> seems to be really scared when she sees her <choice><orig>dads</orig><reg>dad's</reg></choice> face <choice><orig>beeing</orig><reg>being</reg></choice> pulled against the window.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> mom goes outside to bring <ref target="b10gk3_1" type="character">Maverick</ref> his <choice><abbr>ID</abbr><expan>identification</expan></choice>.</s>
+      </p>
+      <p>
+        <s>The kids are running outside as well.</s>
+        <s>When the police officer, which is black as well, pulls <ref target="b10gk3_1" type="character">Maverick</ref> down, <ref target="b10gk3_1" type="character">Starr</ref> starts to film.</s>
+        <s>She says it's her right to do that.</s>
+        <s>Then the officer <choice><orig>notice</orig><reg>notices</reg></choice> that she is the <choice><orig>vitness</orig><reg>witness</reg></choice>, and gets <choice><orig>of</orig><reg>off</reg></choice> of <ref target="b10gk3_1" type="character">Maverick</ref>.</s>
+        <s>Everyone in the restaurant is filming the act.</s>
+        <s>The scene ends with <ref target="b10gk3_1" type="character">Sekani</ref> <add>(<ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> little brother)</add> crying in his <choice><orig>moms</orig><reg>mom's</reg></choice> arms.</s>
+      </p>
+      <p>
+        <s>The family is holding together.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

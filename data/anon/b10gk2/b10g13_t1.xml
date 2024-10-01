@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g13_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk2_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> <choice><orig>realesed</orig><reg>released</reg></choice> in <date>2018</date> deals with racism of the eyes of a black teenage girl.</s>
+        <s>This sequence is about <ref target="b10gk2_1" type="character">Starr</ref>, the black teenage girl and her boyfriend <ref target="b10gk2_1" type="character">Chris</ref> talking about their relationship.</s>
+      </p>
+      <p>
+        <s>In the opening scene we as the audience can see how <ref target="b10gk2_1" type="character">Chris</ref> enters the school hallway and greets his friends.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> looks at him and thinks about/describes his lips.</s>
+        <s>As she notices his shoes which are <name type="misc">Space Jam 11s</name> <ref target="b10gk2_1" type="character">Starr</ref> herself says is her weakness <ref target="b10gk2_1" type="character">Chris</ref> notices her and walks towards him she turns her head around.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> then is behind her and takes his headphones so <ref target="b10gk2_1" type="character">Starr</ref> can wear them to listen to his selfmade beats.</s>
+        <s>She turns around and tells <ref target="b10gk2_1" type="character">Chris</ref> that she doesn't like the beat.</s>
+        <s>When <ref target="b10gk2_1" type="character">Chris</ref> tells her that they need to talk about her being busy all the time and him wanting to meet her family when she responds with that they are busy too.</s>
+        <s>So <ref target="b10gk2_1" type="character">Chris</ref> askes her again how she thinks the beat is and <ref target="b10gk2_1" type="character">Starr</ref> mumbels with it is alright and okay.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> then says that he needs to test if the beat is good or not so he starts playing it without plugged to the headphones so everybody can hear it and starts dancing.</s>
+        <s>Which <ref target="b10gk2_1" type="character">Starr</ref> thinks is a black behavior.</s>
+        <s>She grabs him by his arm and they go to a place where less people are.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

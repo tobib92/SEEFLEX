@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g27_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt from <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref>, written by the <choice><orig>american</orig><reg>American</reg></choice> author <ref target="b11gk2_1" type="author">Ayad Akhtar</ref>, and published in <date>2013</date>.</s>
+        <s><ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> is a drama, that deals and talks about many taboo subjects from a <name type="geo">US</name> point of view, such as islamophobia, whether <name type="misc">9/11</name> was a <q>good</q> thing, racism, antisemitism, whether the Quran allows you to use domestic violence etc.</s>
+      </p>
+      <p>
+        <s>The excerpt is about two married people cheating and how it affects them and their partners.</s>
+      </p>
+      <p>
+        <s>Before the excerpt begins, <ref target="b11gk2_1" type="character">Amir</ref>, <ref target="b11gk2_1" type="character">Emily's</ref>, husband, made controversial statements about <name type="misc">9/11</name> feeling like a <q>win</q> to him.</s>
+        <s>This caused the situation to become tense and <ref target="b11gk2_1" type="character">Isaac</ref>, who is now alone with <ref target="b11gk2_1" type="character">Emily</ref>, to talk bad about <ref target="b11gk2_1" type="character">Amir</ref> to <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>He is about to kiss <ref target="b11gk2_1" type="character">Emily</ref> when the apartment door opens and <ref target="b11gk2_1" type="character">Jory</ref>, now upset, and <ref target="b11gk2_1" type="character">Amir</ref>, upset because of <ref target="b11gk2_1" type="character">Jory</ref>, walk in on them.</s>
+        <s><ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> say that they had only hugged, while <ref target="b11gk2_1" type="character">Jory</ref> insists that they kissed and therefore cheated on <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> accuses <ref target="b11gk2_1" type="character">Jory</ref> of lying and wanting to destroy his marriage.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

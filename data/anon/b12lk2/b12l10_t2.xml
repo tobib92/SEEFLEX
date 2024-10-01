@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>His structure of his speech is very clear which makes it easier for the audience to follow his argumentative strategies.</s>
+        <s>First of all, he delivers the audience background knowledge and staes the problem with climate change and then calls for action and cooperation in this time.</s>
+        <s>Likewise, his direct <choice><orig>adress</orig><reg>address</reg></choice> to the audience: <quote>ladies and gentlemen, delegates, excellencies</quote> <ref target="b12lk2_1" type="line">(ll. 53)</ref> provides his speech with a frame.</s>
+      </p>
+      <p>
+        <s>In regards of stylistic devices, <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> appeals to the audience by inclusive language and contrasting phrases.</s>
+      </p>
+      <p>
+        <s>He starts off by enumerating all the things the government will do the next weeks at <name type="misc">COP26</name>: <quote>debating, negotiating, persuading and compromising</quote> <ref target="b12lk2_1" type="line">(ll. 2)</ref>.</s>
+        <s>After that he directly reminds them of the urgency of climate change and <quote>the concentration of carbon in our atmosphere</quote> <ref target="b12lk2_1" type="line">(ll. 3-4)</ref>.</s>
+        <s>With that he wants to make sure that the governments do not forget why they are here, especially because his speech was delivered at the <name type="misc">COP26</name> opening.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Mr. Attenborough</ref> then points out the history of humans and the earth.</s>
+        <s>He again uses in enumeration to underline how many things humans have done that destroyed the global balance.</s>
+        <s><quote>Our birning of fossil fuels, our destruction of nature, out approach to indestry, construction and <gap reason="illegible" quantity="1" unit="word">lewning</gap>, are realising carbon into the atmosphere</quote><ref target="b12lk2_1" type="line">(ll. 14-16)</ref>.</s>
+      </p>
+      <p>
+        <s>In addition, he tries to win the audiences empathy for the developing countries who have <quote>done the least to cause this problem, [but] are being the hardest hit</quote> <ref target="b12lk2_1" type="line">(ll. 18-19)</ref>.</s>
+        <s>In addition he uses a positive connoted alliteration in line 24 <quote>smartest species</quote>, but he directly plays down the compliment by saying: <quote>all too human characteristics of failing to see the bigger picture in pursuit of short term goals</quote> <ref target="b12lk2_1" type="line">(ll. 20)</ref>.</s>
+        <s><ref target="b12lk2_1" type="speaker">Mr. Attenborough</ref> shows the audience that it is their responsibility to change something.</s>
+        <s>The word <quote>perhaps</quote> <ref target="b12lk2_1" type="line">(ll. 20)</ref> implies that it lies in their hands to change or to stop climate change.</s>
+        <s>This is an anaphora, because the word <quote>perhaps</quote> it can be found in line 26 and in line 27.</s>
+      </p>
+      <p>
+        <s>Moreover he uses two contrasting words with the same letter at the beginning: <quote>tragedy into a triumph</quote> <ref target="b12lk2_1" type="line">(ll. 28)</ref>.</s>
+        <s><quote>Tragedy</quote> is a negative connoted word and <quote>triumph</quote> a positive one.</s>
+        <s>He uses these two contrasting words to highlight the radical change that has to be made to stop global warming.</s>
+        <s>However, the same letter implies that these two words do you have something in common, which could mean that although a radical change has to be made, it is possible and not so far away.</s>
+        <s>In addition, <ref target="b12lk2_1" type="speaker">Mr. Attenborough</ref> uses the alliteration <quote>bring back balance</quote> <ref target="b12lk2_1" type="line">(ll. 36)</ref> to underline the importance to recapture carbon and stop emitting.</s>
+      </p>
+      <p>
+        <s>He also calls out for collaboration in order to <quote>create a more equal world</quote> <ref target="b12lk2_1" type="line">(l. 40)</ref>.</s>
+        <s><quote>We're going to have to learn together, how to achieve this, ensuring none are left behind</quote><ref target="b12lk2_1" type="line">(ll. 39-40)</ref>.</s>
+        <s>He strengthens the feeling of community at the <name type="misc">COP26</name> conference, but also includes all countries of the world.</s>
+      </p>
+      <p>
+        <s>Furthermore, he asks the audience to question: <quote>Did that number stop rising and start to drop, as a result of commitments made here?</quote> <ref target="b12lk2_1" type="line">(ll. 48-49)</ref> which is a question future generations might ask.</s>
+        <s>He answers the question with <quote>yes</quote> <ref target="b12lk2_1" type="line">(ll. 50)</ref>.</s>
+        <s>This again is a call for the audience to act, because it shows that the answer can be yes if change is being made.</s>
+      </p>
+      <p><s>At the end of his speech, <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> makes two contrasting points.</s><s>Firstly, he states that if <quote>working apart, we are force powerful enough to destabilize our planet, surely, working together, we are powerful enough to save it</quote> <ref target="b12lk2_1" type="line">(ll. 50-51)</ref>.</s><s>This shows the importance of working together and that collaboration could lead to solving the problem.</s><s>Likewise he draws a contrast between his lifetime and the lifetime of the audience (especially younger generations).</s><quote><s>In my lifetime, I've witnessed a terrible decline.</s><s>In yours, you could and should witness a powerful recovery</s></quote><ref target="b12lk2_1" type="line">(ll. 51-52)</ref>. <s>He tries to make the audience clear, that change is possible.</s><s>Furthermore, without exact phrasing, the audience will feel <choice><orig>emphaty</orig><reg>empathy</reg></choice> because they want to witness a recovery.</s></p>
+      <p>
+        <s>At the very end, <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> appeals to the audience by saying: <quote>that desperate hope [...] is why the world is looking to you and why you are here</quote> <ref target="b12lk2_1" type="line">(ll. 52-54)</ref>.</s>
+        <s>The government should start acting now, especially because they are the <quote>desperate hope</quote> <ref target="b12lk2_1" type="line">(ll. 52)</ref> of the population according to <ref target="b12lk2_1" type="speaker">Attenborough</ref>.</s>
+      </p>
+      <p>
+        <s>Overall, <ref target="b12lk2_1" type="speaker">Attenborough</ref> uses inclusive language <quote>we</quote> <ref target="b12lk2_1" type="line">(l. 10)</ref> and direct <choice><orig>adress</orig><reg>address</reg></choice> <quote>you</quote> <ref target="b12lk2_1" type="line">(l. 1)</ref>.</s>
+        <s>With the pronoun <quote>we</quote> he wants to create a bond and a feeling of togetherness, especially in regards to climate change, where are they are all in the same situation.</s>
+        <s>The direct <choice><orig>adress</orig><reg>address</reg></choice> with <quote>you</quote> highlights the responsibility the governments have and that they must start acting.</s>
+      </p>
+      <p>
+        <s>To conclude, <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> uses inclusive language as well as contrasting phrases enough for us to underlined the urgency of climate change, the responsibility the governments have and he calls out for action in togetherness to solve the problem.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

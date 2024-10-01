@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l15_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following lines, the poem <ref target="c12lk1_1" type="title">Sonnet 65</ref> written by <ref target="c12lk1_1" type="author">William Shakespeare</ref> in the 16th century, is going to be analyzed.</s>
+        <s>The sonnet was published during the <choice><orig>elizabethan</orig><reg>Elizabethan</reg></choice> time in <name type="geo">England</name> and deals with the transitoriness of youth, love and beauty because of the immortality of time.</s>
+      </p>
+      <p>
+        <s>The sonnet consists of, as well as every sonnet of <ref target="c12lk1_1" type="author">Shakespeare</ref>, 14 lines which are divided into three quatrains with four lines each and a last <gap reason="illegible" quantity="1" unit="word">doptain</gap> with two lines.</s>
+        <s>In addition to that, the rhyme scheme is also similar to <ref target="c12lk1_1" type="author">Shakespeare's</ref> other sonnets.</s>
+        <s>The rhyme is <name type="misc">ABAB CDCD EFEF GG</name> and is paired with iambic parameter as the meter.</s>
+        <s>The last two lines bring up an explanation for the first 12 lines.</s>
+      </p>
+      <p>
+        <s>In the first lines of the sonnet, <ref target="c12lk1_1" type="author">Shakespeare</ref> right about the nature's mortality which destroys its beauty and power.</s>
+        <s>After that the poet asks how beauty could resist the power of time.</s>
+        <s>Later he recognizes that nothing, no matter how strong something might be, could resist the decay of time.</s>
+        <s>The last quatrain <choice><orig>consist</orig><reg>consists</reg></choice> of the question, if there is something that can hold back the time from killing the beauty of the earth.</s>
+        <s>The last two lines bring up a solution which consists of the poet saying that even if nothing can beat the mortality of time his love will never end because he expressed it through his writings.</s>
+        <s>As sad in the introduction, the main topic of <ref target="c12lk1_1" type="title">Sonnet 65</ref> is the mortality of time which leaves no chance for mortal aspects like love, beauty or youth.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

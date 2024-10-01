@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g22_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi <name type="person">Vladimir</name>,</salute>
+      </p>
+      <p>
+        <s>as you want to spend a year in <name type="geo">Germany</name>, and I think it's the place to be.</s>
+        <s>I could help you with your <choice><orig>decission</orig><reg>decision</reg></choice>.</s>
+        <s>I already told you I love <name type="geo">Berlin</name>, but I found an article<ref target="a12gk2_2" type="title">Berlin spricht Englisch</ref> that should give you a quite good impression on the situation in <name type="geo">Berlin</name>.</s>
+        <s>The article is by <ref target="a12gk2_2" type="author">Marina Kormbaki</ref> and published <date>2016</date> in the <choice><orig>german</orig><reg>German</reg></choice> newspaper <name type="misc">Hannoversche Allgemeine Zeitung</name>.</s>
+      </p>
+      <p>
+        <s>According to the article, <name type="geo">Berlin</name> gets more and more like the big <choice><orig>american</orig><reg>American</reg></choice> cities, and you wouldn't be the only one to go there: many even stay there.</s>
+      </p>
+      <p>
+        <s>A lack of <choice><orig>german</orig><reg>German</reg></choice> knowledge wouldn't be a big deal in <choice><orig>somme</orig><reg>some</reg></choice> areas of <name type="geo">Berlin</name> is it, even not really common to speak <choice><orig>german</orig><reg>German</reg></choice>, and <choice><orig>english</orig><reg>English</reg></choice> seems to be the most represented.</s>
+      </p>
+      <p>
+        <s>You would also find some <foreign xml:lang="de">angelsächsische</foreign> culture, especially in restaurants, but especially in restaurants is <choice><orig>english</orig><reg>English</reg></choice> even more common than <choice><orig>german</orig><reg>German</reg></choice>.</s>
+        <s>So hunger shouldn't be a problem for you in <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s>Also, you shouldn't think <name type="geo">Berlin</name> is like the rest of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>.</s>
+        <s><name type="geo">Berlin</name> has restaurants, which are highly modern in design, and the feeling is like in big cities like <name type="geo">Hongkong</name> or so.</s>
+      </p>
+      <p>
+        <s>In <name type="geo">Berlin</name> are also many companies or shops from <choice><orig>english speaking</orig><reg>English-speaking</reg></choice> people, and because of the international citizens, it seems to be normal to speak <choice><orig>english</orig><reg>English</reg></choice>.</s>
+      </p>
+      <p>
+        <s><name type="geo">Berlin</name> has even more reasons to be visited, like the culture, or the hype, and the low rent, which enables many to establish their dream in <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s>I hope this helps you if you aren't sure, or wonder if language could be a problem.</s>
+      </p>
+      <p>
+        <signed>All the best!</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

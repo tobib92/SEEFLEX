@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g22_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir,</salute>
+      </p>
+      <p>
+        <s>I am writing you in response to the interview with <name type="misc">Ayad Akhtar</name> which has only recently been published in <name type="misc">Guernica Magazine</name>.</s>
+      </p>
+      <p>
+        <s>I read the play <name type="misc">Disgraced</name> written by <name type="misc">Ayad Akhtar</name> and am a student growing up in <name type="geo">Germany</name>.</s>
+        <s>In the following I am commenting on <quote>faith being ones main identity marker</quote>.</s>
+      </p>
+      <p>
+        <s>I can completely understand <name type="misc"><choice><orig>Akhtars</orig><reg>Akhtar's</reg></choice></name> point talking about the generalization of Muslims after <name type="misc">9/11</name>.</s>
+        <s>Racial profiling occuring often in the <name type="geo">USA</name> is one subtopic.</s>
+      </p>
+      <p>
+        <s>In <name type="misc">Disgraced</name> <name type="misc">Amir</name>, the protagonist, talks about security at airports.</s>
+        <s>He says he knows that they are looking for him because the next terror attack will come from somebody <q>like him</q>.</s>
+        <s>So even <name type="misc">Amir</name>, an apostate coming from <name type="geo">Pakistan</name>, generalizes himself.</s>
+        <s>It does not matter that he feels American and is a part of this society with a high paid job.</s>
+        <s>The only thing that matters at airports <add>(e.g.)</add> is that he <q>looks Muslim</q>.</s>
+        <s>Islam is also kind of different when comparing it to Jewry.</s>
+        <s>As it is mentioned in <name type="misc">Disgraced</name> Muslims have to fight for their religion to <choice><orig>trully</orig><reg>truely</reg></choice> believe in it.</s>
+        <s>The values and worths <name type="misc">Amir</name> has been brought up with are resulting in a feeling of Islamic unity as too <name type="misc">9/11</name>.</s>
+        <s><name type="misc">Amir</name> mentions that <quote>[they] were finally winning</quote> including himself using the expression <quote>we</quote>.</s>
+        <s><name type="misc">Jory</name> is an example for the contrary opinion about faith being one's main identity marker responding to <name type="misc">Amir</name> he is an American.</s>
+      </p>
+      <p>
+        <s>I also see a big problem in generalizing a person into his religion only.</s>
+        <s>This is often a reason for xenophobia in this topic islamophobia and racism.</s>
+        <s>This racism is represented as in the restaurant scene of <name type="misc">Disgraced</name> as well.</s>
+        <s>I often see discrimination or racism because of prejudices in my everyday life.</s>
+        <s>Even in the school represented by a teacher asking one class mate if she has a German ID-card just because she was black.</s>
+        <s>This is just one <choice><orig>exemple</orig><reg>example</reg></choice>, one can see it also in the train or even in a restaurant.</s>
+        <s>Prejudices just because of an outward appearance are everywhere in the world.</s>
+      </p>
+      <p>
+        <s>To come to a conclusion I really think that our society, better the whole humanity, should forget their prejudices just because of an outward experience.</s>
+        <s>A human is more than his skin colour or his faith so it shouldn't be his main identity marker.</s>
+      </p>
+      <p>
+        <s>PS: I really enjoyed watching your interview with <name type="misc">Ayad Akhtar</name> and hope to gave you an alternative on the topic.</s>
+      </p>
+      <p>
+        <signed>Sincerely John from <name type="geo">Germany</name></signed>
+      </p>
+    </body>
+  </text>
+</TEI>

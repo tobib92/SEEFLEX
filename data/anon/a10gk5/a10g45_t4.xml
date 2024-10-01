@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g45_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Carlos,</salute>
+      </p>
+      <p>
+        <s>I read a <choice><orig>norwegian</orig><reg>Norwegian</reg></choice> newspaper article and they talked about three young people and they experiences in <name type="geo">Cambodia</name>.</s>
+      </p>
+      <p>
+        <s>These people work in a <choice><orig>textilfabric</orig><reg>textile fabric</reg></choice> and they live there.</s>
+        <s>They have to go to a supermarket alone and have to structure their lives.</s>
+        <s>They eat many rice and the <choice><orig>worksituation</orig><reg>work situation</reg></choice> is very confusing.</s>
+        <s>They told in <choice><orig>a</orig><reg>an</reg></choice> interview that it was very hard to work there.</s>
+        <s>Doing every time the same thing can be very <choice><orig>stressfull</orig><reg>stressful</reg></choice>.</s>
+      </p>
+      <p>
+        <s>I understand these little people.</s>
+        <s>And when they arrived at home, they said, that they have good live, because other people have a bad life.</s>
+        <s>Later they were also <choice><orig>activ</orig><reg>active</reg></choice> for <choice><orig>thes</orig><reg>these</reg></choice> people.</s>
+      </p>
+      <p>
+        <s>Bye</s>
+      </p>
+    </body>
+  </text>
+</TEI>

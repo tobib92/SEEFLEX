@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g43_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is an <choice><orig>exerpt</orig><reg>excerpt</reg></choice> fromt he feature <choice><orig>Film</orig><reg>film</reg></choice> <ref target="b10gk4_1" type="title">The Hate U Give</ref>, which is directed by <ref target="b10gk4_1" type="director">George Tillmann Jr.</ref> and published in <date>2018</date>.</s>
+        <s>The <choice><orig>Movie</orig><reg>movie</reg></choice> deals with the story of a teenage girl, starting to fight against racism.</s>
+        <s>The given film sequence takes place in the middle of the movie and shows the main character <ref target="b10gk4_1" type="character">Starr</ref> talking to her boyfriend <ref target="b10gk4_1" type="character">Chris</ref>.</s>
+      </p>
+      <p>
+        <s>The scene takes place at the hallway of <name type="misc">Williamson High</name>, which is <ref target="b10gk4_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> and <ref target="b10gk4_1" type="character">Chris'</ref> school.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> walks down the <choice><orig>flor</orig><reg>floor</reg></choice> and gives handshakes to anyone he passes, while <ref target="b10gk4_1" type="character">Starr</ref> is watching him from her locker.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> sees <ref target="b10gk4_1" type="character">Starr</ref> and walks over to her.</s>
+        <s>He shows her his new beat he made, but she does not like it.</s>
+        <s>They start to talk about <ref target="b10gk4_1" type="character">Chris</ref> wanting to get closer to her.</s>
+        <s>While <ref target="b10gk4_1" type="character">Starr</ref> is still mad because of thems fight a couple days before.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> tells <ref target="b10gk4_1" type="character">Starr</ref>, that he misses her, what made her stop being mad.</s>
+        <s>The scene ends with <ref target="b10gk4_1" type="character">Chris</ref> dancing away to his music, he gets taken away from some friends.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

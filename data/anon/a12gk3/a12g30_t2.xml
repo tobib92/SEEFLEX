@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g30_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In order to point out his view I will analyze the article with special concentration on the persuasive techniques and the use of language.</s>
+      </p>
+      <p>
+        <s>In his article <ref target="a12gk3_1" type="author">John Worne</ref> clearly gives his opinion to the language learning in the <name type="geo">UK</name>.</s>
+        <s>The form is clearly a comment but since there are not more information given about <ref target="a12gk3_1" type="author">John Worne</ref> it seems like he's not a professional but in the interest of personality.</s>
+        <s>This speaks for a public article.</s>
+        <s>The author gives relevant information and his article about the topic is able to answer the relevant w-questions.</s>
+        <s>Furthermore he does not only <choice><orig>gives</orig><reg>give</reg></choice> information about the topic moreover he gives information and comments them.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> uses a clear structure.</s>
+        <s>He has a title a subtitle and he separates his argumentative structure in paragraphs.</s>
+        <s>He also follows a clear <choice><orig>shema</orig><reg>scheme</reg></choice> we are here for us and forms, then explains, point out his view and finally reaches for action.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> also use a special features in his article.</s>
+      </p>
+      <p>
+        <s>In his title he writes <quote>can't, won't, don't</quote> <ref target="a12gk3_1" type="line">(l. 10)</ref> <choice><orig>wich</orig><reg>which</reg></choice> part is also written in the subtitle.</s>
+        <s>Moreover it is not only used in the subtitle too but creates a kind of cliffhanger to create interest inside the reader to read the article on the one hand and deal with the topic on the other hand.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> uses a mixture between formal and informal language.</s>
+        <s>For example he uses formal language to explain in how far language learning helps the future of the <name type="geo">UK</name> or when he presents numbers.</s>
+        <s><quote>Languages are essential for our trade, prosperity, cultural exports, diplomacy and national security</quote><ref target="a12gk3_1" type="line">(l. 19f)</ref>.</s>
+        <s>But also uses informal language as he comments the facts that he presents.</s>
+        <s>For example <quote>and sadly, this latest news does very little to suggest any prospect of us re-commissioning our collective brains</quote> <ref target="a12gk3_1" type="line">(l. 4)</ref> or <quote>(they don't) your iPhone will now translate road signs for you (but you may crash or choke on the roaming data charges)</quote> <ref target="a12gk3_1" type="line">(l. 13f)</ref>.</s>
+      </p>
+      <p>
+        <s>The author relates to <choice><orig>proffesional</orig><reg>professional</reg></choice> references like the national school exam results, where he also presents numbers and pulls a comparison to the 1990s <quote> more than 10,000 fewer language <name type="misc">A-level</name> exams were taken last year than at the end of the 1990s</quote>.</s>
+        <s>Also he relates to the <quote>most recent <name type="misc">CBI/Pearson Education and Skills Survey</name></quote> <ref target="a12gk3_1" type="line">(l. 19)</ref>.</s>
+        <s>Furthermore it is clear to state that he uses a subjective structure in form of his choice of words.</s>
+      </p>
+      <p>
+        <s>Also he uses a antitheticle structure from line 12-15.</s>
+        <s>The author quotes Cobblers and puts his comments in between.</s>
+      </p>
+      <p>
+        <s>So he brings the arguments of Cobblers and puts his comments in between.</s>
+      </p>
+      <p>
+        <s>So he brings the arguments of Cobblers as false out, <choice><orig>wich</orig><reg>which</reg></choice> may be the main arguments against his position.</s>
+      </p>
+      <p>
+        <s>So not only his opinion has no good contra arguments but also his arguments seems stronger.</s>
+        <s>Also he quotes a professional with this choose of structure.</s>
+      </p>
+      <p>
+        <s>on the one hand at the beginning to show he is also part of the affected <quote>us re-commissioning our collective brains</quote> <ref target="a12gk3_1" type="line">(l. 5)</ref> and on the other hand in the end <quote>parents of the UK (and I'm one)</quote> <ref target="a12gk3_1" type="line">(l. 32)</ref>, <quote>system can't fix it without us</quote> <ref target="a12gk3_1" type="line">(l. 35)</ref> to show that it will be a problem of not only a group of people but the whole population of the <name type="geo">UK</name> and the author as one part of it.</s>
+        <s>This also makes the reader feel as part of this union.</s>
+        <s>In line 34 <ref target="a12gk3_1" type="author">Worne</ref> uses also a strong stylistic device <quote> essential strings to our children's bows</quote> <choice><orig>wich</orig><reg>which</reg></choice> points out the power that the children have in <choice><orig>conection</orig><reg>connection</reg></choice> to the future but also that this power have to be activate it, in this case through learning foreign languages.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the author uses persuasive speak and the different aspects of speech to bring the problem to the reader, demand action but also gives hope for the future.</s>
+      </p>
+      <p>
+        <s>Especially his comments at his antitheticle structure part have a strong influence but are not really backed up.</s>
+      </p>
+      <p>
+        <s>In his last part in <choice><orig>wich</orig><reg>which</reg></choice> he explains why foreign language learning is important for the future of the <name type="geo">UK</name> in connection with a globalisation the reader gets to know how <ref target="a12gk3_1" type="author">John Worne</ref> might be a professional in this topic.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

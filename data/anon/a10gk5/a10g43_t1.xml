@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g43_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> in the year <date>2014</date>, published in <ref target="a10gk5_1" type="author">Mitra's</ref> <name type="misc">Blog on Environment</name> is about the causes of environment pollution and its effects on planet earth and all living <choice><orig>beeings</orig><reg>beings</reg></choice> on it.</s>
+      </p>
+      <p>
+        <s>At first the author explains <choice><orig>Environmental</orig><reg>environmental</reg></choice> pollution by <choice><orig>refering</orig><reg>referring</reg></choice> to the dangerous effects of contaminating the environment.</s>
+        <s>She writes, how water and air sustain our <choice><orig>live</orig><reg>life</reg></choice> on earth and how without them there wouldn't exist any life on this planet.</s>
+        <s>She explains that with the surge of science and technology pollution increased and men lost control of their own creations.</s>
+        <s>She describes, how many people protest against environmental pollutios, that is caused by things we use in our daily life.</s>
+      </p>
+      <p>
+        <s>At last she refers to the industrial <choice><orig>environmen</orig><reg>environment</reg></choice> tragedy of <name type="geo">Bhopal</name> in the year <date>1984</date>.</s>
+        <s>She states, that we have to restore the balance with our environment.</s>
+        <s>Otherwise it would be too late.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g21_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Henry,</salute>
+      </p>
+      <p>
+        <s>I hope you're doing well.</s>
+        <s>You send me an interesting newspaper article about my school going sustainable.</s>
+        <s>The article was published on <date>November of 2019</date> in a famous local newspaper.</s>
+        <s>It is about a new special day at my school that is only about climate and climate protection.</s>
+        <s>The students can visit over 40 different workshops in school, but also in the whole city of <name type="geo">Cologne</name>.</s>
+        <s>All of the workshops deal with climate protection.</s>
+        <s>It was the first time that this took place at my school.</s>
+        <s>Students and teachers have cooperated to create great workshops.</s>
+        <s>A teacher at my school says that many students participated on demonstrations of the <name type="misc">Fridays for Future</name> movement in the last months and that the interest in political themes is rising.</s>
+        <s>The topic is more present than ever.</s>
+        <s>Because of this they founded this special day with many different offers, so that the students aren's <choice><orig>loosing</orig><reg>losing</reg></choice> interest again because they think that they can't do anything about climate change.</s>
+        <s>But actually there are many ways to be more responsible and sustainable.</s>
+        <s>There were many different ideas for a climate-friendly lifestyle.</s>
+        <s>For example <choice><orig>Foodsharing</orig><reg>food sharing</reg></choice>, using less water by just showering, second-hand shopping with used clothes and so on.</s>
+        <s>Furthermore the students thought about how to sell fairtrade products at our school.</s>
+        <s>There was a fairtrade <choice><orig>cafe</orig><reg>café</reg></choice>, where you could buy vegan cake or fair produced <choice><orig>caffe</orig><reg>coffee</reg></choice>.</s>
+        <s>This was initiated by two students who are convinced by the project and want to show how delicious vegan food can be.</s>
+        <s>Furthermore two poetry slammers visited our school.</s>
+        <s>One of them <choice><orig>teached</orig><reg>taught</reg></choice> the students about their voice and <choice><orig>pronouncitation</orig><reg>pronunciation</reg></choice>.</s>
+        <s>This could help them in discussions for example about the climate.</s>
+        <s>All in all the article says that everyone participated well and that the students were very interested.</s>
+        <s>So the idea worked great, so that there maybe will be a next time.</s>
+        <s>I will inform you if the project will take place next year.</s>
+        <s>If you are interested you could mabye visit me and see it with your own eyes.</s>
+        <s>I hope I could help you, if you have any questions left don't be afraid to text me.</s>
+        <s>Have a great day.</s>
+      </p>
+      <p>
+        <signed>Greetings from Germany, your friend Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

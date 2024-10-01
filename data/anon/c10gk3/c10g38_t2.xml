@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g38_t2</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+      </p>
+      <p>
+        <s>my name is <name type="person">Faraj al-Byarshan</name>.</s>
+        <s><choice><orig>Im</orig><reg>I'm</reg></choice> 41 years old and I immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in <date>2005</date>.</s>
+        <s>I immigrated because in <name type="geo">Iraq</name> there is an awful situation and <choice><orig>i</orig><reg>I</reg></choice> can't secure that everyone in my family is safe.</s>
+        <s>I also want that my two sons can get some education.</s>
+        <s>I want them to feel <choice><orig>save</orig><reg>safe</reg></choice> when they grow up.</s>
+        <s>They can't <choice><orig>loose</orig><reg>lose</reg></choice> the most beautiful years of their lives.</s>
+        <s>They need to find friends and be happy not scared.</s>
+        <s>I also want my wife to be safe aswell.</s>
+        <s>That's why I went first in <date>2005</date> to see if the way to the <name type="geo">US</name> is even safe for my wife and my two sons.</s>
+        <s>2 years later my wife followed with our kids.</s>
+        <s>I was scared that something would happen to them in these 2 years.</s>
+        <s>But when they arrived I felt relieved because we all together accomplished our dream.</s>
+        <s>We could finally live in peace.</s>
+        <s>A few weeks after we arrived I found a job and my kids went to school.</s>
+        <s>Almost everything in the <name type="geo">US</name> was way easier than in <name type="geo">Iraq</name>.</s>
+        <s>In the future I hope that many other people from critical countries can make their way to the <name type="geo">US</name> and live in peace.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

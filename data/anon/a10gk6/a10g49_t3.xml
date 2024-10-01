@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g49_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Environmental pollution has been a problem for decades.</s>
+        <s>With rising contamination it should be our job to keep the <choice><orig>Earth</orig><reg>earth</reg></choice> in a good state.</s>
+      </p>
+      <p>
+        <s>While there are many pros, such as going by car, plane or ships, this is very bad for the environment.</s>
+        <s>Other pro arguments might be the production of utilities and gadgets mankind might need.</s>
+        <s>Also rising technology can have a big impact on upgrading the quality of life on <choice><orig>Earth</orig><reg>earth</reg></choice>.</s>
+        <s>But it is to consider, that with a contaminated atmosphere and no drinking water there is no point for all of that, since the conditions for life aren't given.</s>
+      </p>
+      <p>
+        <s>To change that, we need ot change our habits, that being things as to recycle, and clean the environment in organizations that focus on removing environmental pollution.</s>
+        <s>Other ways of contributing are e.g. things like buying less products with plastic packaging.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

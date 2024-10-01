@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g20_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear e-pal,</salute>
+      </p>
+      <p>
+        <s>The article is written by <ref target="b12gk2_2" type="author">Joachim Neubauer</ref> and published in a regional newspaper from <name type="geo">Cologne</name>.</s>
+        <s>It's about the <name type="misc">KLS goes green</name> project at my school.</s>
+      </p>
+      <p>
+        <s>It was one day we had to choose between about 40 different workshops we're interested in the workshops are for example how to use water environment-friendly.</s>
+        <s>The teacher <name type="person">Peter Clemens</name> says it was also used to push the political interest of the students which grow up a lot because of <name type="misc">Fridays for Future</name>.</s>
+        <s>Students, parents and teachers worked together to create the workshops.</s>
+        <s><name type="person">Clemens</name> also says it's important to give the students the feeling of having influence on politics, because without that feeling the interest disappears fast.</s>
+        <s><name type="person">Neubauer</name> interviewed two girls who sold vegan waffles, cakes and fair-trade coffee in order to show that it is delicious too.</s>
+        <s>The girls said it made them happy to do somethign for an important goal.</s>
+        <s>Also two <choice><orig>poetry-slam-artists</orig><reg>poetry-slam artists</reg></choice> visited our school on this day and one of thme also made a workshop where the kids can practice their voice and language.</s>
+        <s><name type="person">Peter Clemens</name> the <name type="misc">KLS goes green</name> project was succesful because the students worked verey well in the workshops and he thinks to repeat this project can be a good idea.</s>
+      </p>
+      <p>
+        <signed>Greetings from <name type="geo">Cologne</name>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

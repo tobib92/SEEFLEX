@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk2_1" type="author">William Shakespeare</ref> is very famous for his construction of plots and characters in his plays and that great way of storytelling is also visible in this scene due to his description of the relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife.</s>
+        <s>The effects would be not as effective without <ref target="c12gk2_1" type="author">Shakespeare's</ref> use of stylistic devices and diverse metaphors to create <q>word-scenery</q> for the audience to illustrate the setting and scenery which cannot be build up on stage.</s>
+      </p>
+      <p>
+        <s>This scene depicts the specialties of the relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife during a crucial point of their life.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> reveals that she is very decisive and would like to convince her husband to commit a crime and kill his king.</s>
+      </p>
+      <p>
+        <s>But at first, <ref target="c12gk2_1" type="character">Macbeth</ref> clearly shows his position and states: <quote>We will proceed no further in this business</quote> <ref target="c12gk2_1" type="line">(l. 4)</ref>.</s>
+        <s>This paratactical, clear sentence even includes the personal pronoun <quote>we</quote> which is used by <ref target="c12gk2_1" type="character">Macbeth</ref> to state his authority and hinder his wife <choice><orig>intriguating</orig><reg>intriguing</reg></choice> further.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> also explains his position with the usage of metaphors like <quote>Golden opinions</quote> <ref target="c12gk2_1" type="line">(l. 6)</ref> and <quote>newest gloss</quote> <ref target="c12gk2_1" type="line">(l. 7)</ref> which illustrate that he already has to face a prosperous future even if he would not use this chance.</s>
+      </p>
+      <p>
+        <s>But instead of accepting his decision, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> answers in an allegory about a drunken hope <ref target="c12gk2_1" type="line">(cf. l. 9)</ref> which wakes up <quote>green and pale</quote> <ref target="c12gk2_1" type="line">(l. 11)</ref> which is a reference on the <choice><orig>withe's</orig><reg>witches'</reg></choice> prophecy and <ref target="c12gk2_1" type="character">Macbeth's</ref> displeasure to helo proceeding the kingship.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> asks fastly many direct questions and furthermore describes her man in a comparison as <quote>afeared to be the same (...) as thou art in desire?</quote> <ref target="c12gk2_1" type="line">(ll. 13-15)</ref> which demonstrates that she would like to taunt him as much that he is urgent to handle.</s>
+        <s>She is also using metaphors like <quote>the ornament of life</quote> <ref target="c12gk2_1" type="line">(l. 16)</ref> to express the effects on him, if he reaches his prophecy goal.</s>
+        <s>That is how she would like to exaggerate the benefits of becoming king, so that it is like a <choice><orig>viscerous</orig><reg>viscous</reg></choice> appeal for his greed which only must be accepted by <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>This opportunity which is opened up by the <choice><orig>king's</orig><reg>King's</reg></choice> visit at their castle should be used and that is why <ref target="c12gk2_1" type="character">Lady Macbeth</ref> compares <ref target="c12gk2_1" type="character">Macbeth's</ref> decision in a metaphor with a cat sitting in front of a pond which would like to eat fish but not to become wet <ref target="c12gk2_1" type="line">(cf. l. 19)</ref>.</s>
+        <s>That is how she remembers <ref target="c12gk2_1" type="character">Macbeth</ref> that the prophecy could also not become true if he is not urgent and does not use illegal practices.</s>
+      </p>
+      <p>
+        <s>Due to the remembering on his greed and the taunt about his manliness, <ref target="c12gk2_1" type="character">Macbeth</ref> states offended that he does everything to be a man <ref target="c12gk2_1" type="line">(cf. l. 21)</ref> and exaggerates his ambition to be a man in the sentence: <quote>Who dares do more is none</quote> <ref target="c12gk2_1" type="line">(l. 22)</ref>.</s>
+        <s>But on the other hand to this reaction full of decisiveness and proudness he also asks his wife to become silent <ref target="c12gk2_1" type="line">(cf. l. 20)</ref> and speaks all in all much less than his wife which reveals that he is the inferior partner in this situation.</s>
+      </p>
+      <p>
+        <s>His wife has reacted on his decision with a lot of accusational questions in a lengthy contribution and taunts her man because she knows that this action will activate his consciousness for proudness and manliness, so that he will decide to kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>In addition to that, she also goes on after the short interruption by <ref target="c12gk2_1" type="character">Macbeth</ref> and continues asking him questions about his motivation.</s>
+        <s>Exemplarily, she asks him what <quote>beast</quote> <ref target="c12gk2_1" type="line">(l. 23)</ref> has hindered him to proceed killing <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>In this case the word <quote>beast</quote> shows her choice of a dramatic, cruel language to exaggerate how much power must have been needed to persuade such a strong man, as <ref target="c12gk2_1" type="character">Macbeth</ref> describes himself, to neglect this opportunity.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> also makes a condition, when <ref target="c12gk2_1" type="character">Macbeth</ref> is a real man <ref target="c12gk2_1" type="line">(cf. l. 25)</ref> to force him to agree on her plan because he would be no man, if he would not compete in her opinion.</s>
+      </p>
+      <p>
+        <s>In the next part of her lengthy contribution, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> depicts that she would even treat her own child cruel, if it would allow her to <choice><orig>fullfil</orig><reg>fulfil</reg></choice> her goald <ref target="c12gk2_1" type="line">(cf. ll. 30-35)</ref>.</s>
+        <s>That is how she builds up a contrast between her unscrupulousness and his doubting.</s>
+      </p>
+      <p>
+        <s>That contrast is even tensified when <ref target="c12gk2_1" type="character">Macbeth</ref> answers and asks: <quote>If we should fail?</quote> <ref target="c12gk2_1" type="line">(l. 36)</ref> in a very short paratactical sentence which reveals his insecureness, doubts and the feeling of inferiority.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> reacts even shorter with the harsh ellipsis: <quote>We fail!</quote> <ref target="c12gk2_1" type="line">(l. 37)</ref> to neglect any resistance against her position and show her ambition to not fail.</s>
+        <s>Instead, she would give the fault for a failure his man <ref target="c12gk2_1" type="line">(cf. l. 38f.)</ref> and that is how she would like to convince him to act decisively to not cause a failure.</s>
+      </p>
+      <p>
+        <s>Furthermore, she describes in detail how easy her plan will be and examines that <ref target="c12gk2_1" type="character">Duncan</ref> will easily fall to sleep with a paranthesis <ref target="c12gk2_1" type="line">(cf. ll. 39-41)</ref> to give <ref target="c12gk2_1" type="character">Macbeth</ref> a feeling of security and a plannable action.</s>
+        <s>She explains that she will make the chamberlains drunk with the alliteration <quote>wine and wassail</quote> <ref target="c12gk2_1" type="line">(l. 42)</ref> and arranges the emphasis for the drunkness <choice><orig>arround</orig><reg>around</reg></choice> the metaphor of the <quote>memory, the warder of brain</quote> <ref target="c12gk2_1" type="line">(l. 43)</ref> that is also why she exaggerates the guard's unconsciousness with more words reacting to the alcoholic word-field, like <quote>fume</quote> <ref target="c12gk2_1" type="line">(l. 44)</ref> or <quote>limbeck</quote> <ref target="c12gk2_1" type="line">(l. 45)</ref>, and with a comparison of their sleep <quote>as in death</quote> <ref target="c12gk2_1" type="line">(l. 47)</ref>.</s>
+      </p>
+      <p>
+        <s>After that, she uses two rhetorical questions arranged as parallelisms and anaphoras <ref target="c12gk2_1" type="line">(cf. ll. 47-50)</ref> to express and exaggerate what they could achieve by using this opportunity.</s>
+      </p>
+      <p>
+        <s>To this plan <ref target="c12gk2_1" type="character">Macbeth</ref> reacts with his wish that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> will only give birth to male children due to her decisiveness <ref target="c12gk2_1" type="line">(cf. ll. 51-53)</ref>.</s>
+        <s>This wish underlines that <ref target="c12gk2_1" type="character">Macbeth</ref> feels himself <choice><orig>overhelmed</orig><reg>overwhelmed</reg></choice> by the arguments of his wife and her dirty strategies.</s>
+        <s>Nevertheless, he is convinced and now follows his wife's plan, so that he understands that he needs to hide their ambition and expresses that understanding in a sentence with two metaphors <ref target="c12gk2_1" type="line">(l. 58)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all, it seems to be very clear that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is superior in this scene.</s>
+        <s>She taunts her husband and makes him believe in the good conditions of this opportunity.</s>
+        <s>She appeals to his greed and reaches her goals which shows how <choice><orig>shemer</orig><reg>schemer</reg></choice> and <choice><orig>intriguant</orig><reg>intriguer</reg></choice> this person is also in her relationship with <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

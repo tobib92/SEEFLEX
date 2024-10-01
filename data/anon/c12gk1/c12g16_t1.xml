@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g16_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem <ref target="c12gk1_1" type="title">Sonnet 116</ref>, written by <ref target="c12gk1_1" type="author">William Shakespeare</ref>, is in the sequence of the sonnets about a young man, who is the <choice><orig>poets</orig><reg>poet's</reg></choice> loved one.</s>
+        <s>Like most of <ref target="c12gk1_1" type="author">Shakespeare's</ref> sonnets <ref target="c12gk1_1" type="title">Sonnet 116</ref> deals with love in comparison to time and mortality.</s>
+      </p>
+      <p>
+        <s>As I said before, <ref target="c12gk1_1" type="title">Sonnet 116</ref> is in the sequence of the young man.</s>
+        <s>The lyrical eye describes how his feelings are for the young man and his own definition of love.</s>
+      </p>
+      <p>
+        <s>In the first quatrain the poet <choice><orig>explaines</orig><reg>explains</reg></choice> what love not is.</s>
+        <s>He says that love is not changing while time is and that it does not waste.</s>
+        <s>In the second quatrain he describes what love is for him and that love shows you the right way to choose and guides you.</s>
+        <s>In the third quatrain he explains again what love not is in detail and compares love again to time and changing things in life.</s>
+        <s>The final couplet sums up the sonnet and says that if this what the poet says is not true he had never written anything and that every love of men depends on what he talks about.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

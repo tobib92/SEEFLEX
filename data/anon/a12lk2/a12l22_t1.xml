@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l22_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the Act II scene 2, from the play <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> written by <ref target="a12lk2_1" type="author">Shakespeare</ref>, after the <choice><orig>fiest</orig><reg>feast</reg></choice>, <name type="person">Romeo</name> leaves his friends behind to climb the wall to <name type="person">Juliet</name>.</s>
+        <s>As <name type="person">Romeo</name> hides in the <name type="person"><choice><orig>Capulets</orig><reg>Capulet's</reg></choice></name> orchard, <name type="person">Juliet</name> speaks out her love towards <name type="person">Romeo</name> out to herself.</s>
+        <s><name type="person">Romeo</name> listens to her and eventually commits his love <choice><orig>aswell</orig><reg>as well</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the monologue by <name type="person">Juliet</name>, in line 60, she firstly talks about her concern regarding <name type="person">Juliet</name>.</s>
+        <s>She acknowledges the concern that the her love towards <name type="person">Romeo</name> might be a problem because he is the son of the <name type="person">Montagues</name> and part of the other big family of <name type="geo">Verona</name>.</s>
+        <s>This is only a problem because she is daughter of the <name type="person">Capulets</name>, which is the other family part of the feud.</s>
+        <quote>
+          <s>Art thou not <name type="person">Romeo</name> and a <name type="person">Montague</name>?</s>
+        </quote>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> answers romantically, unaware of any consequences of his love and disruptance might come with.</s>
+        <s>His language is very romantic and <choice><orig>christian</orig><reg>Christian</reg></choice> <quote>fair saint</quote><ref target="a12lk2_1" type="line">(l. 61)</ref>.</s>
+      </p>
+      <p>
+        <s>This shows a recurring pattern in his behavior, which is impulsiveness and irrationality.</s>
+        <s>His irrational behavior, which can be seen throughout the novel, controls his actions, which, in Elizabethan times was seen as a flaw <add>fatal</add>.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> lacks of masculinity, which is shown to the reader in his <choice><orig>fully-emotion-controlled</orig><reg>fully emotion controlled</reg></choice> decisions.</s>
+        <s>This behavior is the first impression one gets from <name type="person">Romeo</name> in his first appearance in the Romantic Drama by <ref target="a12lk2_1" type="author">Shakespeare</ref>.</s>
+        <s><ref target="a12lk2_1" type="author">Shakespeare</ref> places him and his <choice><orig>charactertrait</orig><reg>character trait</reg></choice> in the beginning, where <name type="person">Romeo</name> is sad about a girl named <name type="person">Rosaline</name>, and he is acting completely out of his emotions.</s>
+      </p>
+      <p>
+        <s>In the extract this behavior <choice><orig>recurrs</orig><reg>reoccurs</reg></choice>, making the reader sure in the impression by <name type="person">Romeo</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name><choice><orig>preceeds</orig><reg>proceeds</reg></choice> to warn him about her kinsmen and the danger <name type="person">Romeo</name> is in.</s>
+        <s>She does not want him to be killed because of his irresponsible behavior by her guards or so called kinsmen.</s>
+        <s>But <name type="person">Romeo</name> underestimates the danger and does not stop to be romantic.</s>
+        <s>His words <quote>Therefore thy kinsmen are no stop to me</quote> show exactly his self harming way of loving, which is irrational.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> warns him again, but <name type="person">Romeo</name> does not seem to be bothered.</s>
+        <s>He <choice><orig>does'nt</orig><reg>doesn't</reg></choice> <choice><orig>aknowledge</orig><reg>acknowledge</reg></choice> the danger he is putting himself and others in because of his actions.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> playfully responds to <name type="person">Juliet's</name> <quote>if they do see thee, they will murder thee</quote><ref target="a12lk2_1" type="line">(l. 70)</ref> with <quote>there lies more peril in thine eye</quote>, which means that he does not think that the kinsmen are any more dangerous than <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s>The juvenile and playful shows again his lack of maturity and masculinity.</s>
+      </p>
+      <p>
+        <s>Although <name type="person">Juliet</name> <choice><orig>is'nt</orig><reg>isn't</reg></choice> as irresponsiblein this scene, <name type="person">Romeo</name> therefore is more emotional and shows his <choice><orig>risktaking</orig><reg>risk taking</reg></choice> action as made fully aware of <choice><orig>it's</orig><reg>its</reg></choice> nature.</s>
+        <s>He says <quote>Than death prorogued, wanting of thy love</quote> knowingly taking the risk of being killed for <name type="person"><choice><orig>Juliets</orig><reg>Juliet's</reg></choice></name>love.</s>
+      </p>
+      <p>
+        <s>He then emphasizes his statement with <quote>As that vast share wash'd with the farthest sea, I would adventure for such merchandise</quote><ref target="a12lk2_1" type="line">(l. 83)</ref>.</s>
+        <s>He is saying that <name type="person"><choice><orig>Juliets</orig><reg>Juliet's</reg></choice></name> love is worth any danger, that he puts himself into.</s>
+        <s>Juliet then follows this behavior by saying <quote>but farewell compliment</quote> wanting to be <quote><gap reason="illegible" quantity="1" unit="word">havior</gap> light</quote><ref target="a12lk2_1" type="line">(l. 99)</ref> irresponsible <choice><orig>aswell</orig><reg>as well</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

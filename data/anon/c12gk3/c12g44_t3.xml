@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g44_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I do think that <ref target="c12gk3_1" type="person">Shakespeare's</ref> plays and works are still relevant to this day.</s>
+      </p>
+      <p>
+        <s>Many modern plays such as <name type="misc">The West Side Story</name> are <choice><orig>adaptions</orig><reg>adaptations</reg></choice> of <ref target="c12gk3_1" type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> <choice><orig>famouse</orig><reg>famous</reg></choice> plays like in this case <name type="misc">Romeo and Juliet</name>.</s>
+        <s>In the modern time there are many ways to still enjoy <ref target="c12gk3_1" type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> plays.</s>
+        <s>As mentioned there are <choice><orig>adaptions</orig><reg>adaptations</reg></choice> in plays and movies that just took the main story or idea and then changed the time, setting and language.</s>
+        <s>But there are also traditional plays that make use of <ref target="c12gk3_1" type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> choice of words and language.</s>
+        <s>Not only his plays but also his <choice><orig>poets</orig><reg>poems</reg></choice> are common known literature to this day.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

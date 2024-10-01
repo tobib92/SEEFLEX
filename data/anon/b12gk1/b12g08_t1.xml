@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g08_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to tell the audience his view on climate change in his speech at the opening ceremony of the <name type="misc">COP26 World Leaders' Summit</name> on <date>1st of November 2021</date> in <name type="geo">Glasgow</name>.</s>
+        <s>The <choice><orig>british</orig><reg>British</reg></choice> Prime Minister tries to convince his listeners that long time has gone by <choice><orig>noting</orig><reg>nothing</reg></choice> really happened against climatechange.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> says that wecould start today with changing something.</s>
+        <s>He says that we already have the means and we just have to act now.</s>
+        <s>In the beginning of his speech he makes clear that the existence of climate change and the urgent climate crisis is known by everyone.</s>
+        <s>The main appeal of <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> is to think about the future generations and the responsibility all of them have.</s>
+        <s>He says that they will judge us for not acting now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

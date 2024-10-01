@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g52_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a12gk4_1" type="title">Language learning in the UK: 'can't, won't, don't</ref>, written by <ref target="a12gk4_1" type="author">John Worne</ref> and published on <name type="misc">Telegraph</name> on the <date>27th of January 2015</date>, <ref target="a12gk4_1" type="author">Worne</ref> writes about the foreign language learning in the <name type="geo">UK</name> and how it has gotten worse over the years.</s>
+        <s>In <choice><orig>th</orig><reg>the</reg></choice> following article will be summarized focused on <ref target="a12gk4_1" type="author">Worne's</ref> statements on the language learning and his own personal view.</s>
+      </p>
+      <p>
+        <s>The article is <choice><orig>devided</orig><reg>divided</reg></choice> in eleven paragraphs and fifty one lines.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> starts by naming a hypothesis just quoting the last three words of his <choice><orig>articles</orig><reg>article's</reg></choice> name.</s>
+        <s>It mentions, that while parimary schools are focused on more, the number of <name type="geo">UK</name> students interested in foreign languages and the amount of people doing <name type="misc">A-levels</name> and <name type="misc">GCSE</name> is shrinking.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> states that, comparing the amount of taken exams in the year <date>2014</date> and <date>at the end of the 1990s</date>.</s>
+        <s>After that <ref target="a12gk4_1" type="author">Worne</ref> proceeds to make fun of people that htink everyone on the market speaks <choice><orig>english</orig><reg>English</reg></choice> and technology is supposed to help with the language barrier.</s>
+      </p>
+      <p>
+        <s>After that, he explains how language learning is essential for the <name type="geo">UK</name> in terms of trade, cultural exports, <choice><orig>keepin</orig><reg>keeping</reg></choice> the nation safe and some other aspects.</s>
+        <s>For example in some businesses in the <name type="geo">UK</name>, because two thirds of them require foreign language skills, but can't find people like that in the <name type="geo">UK</name>.</s>
+        <s>Because of that these businesses have to rely on <choice><orig>translaters</orig><reg>translators</reg></choice> or staff from overseas.</s>
+        <s>He states, that an employee with diverse language skills is more needed than someone without, which is part of the reason, why the <name type="geo">UK</name> needs more young people taking part in language learning.</s>
+      </p>
+      <p>
+        <s>He finishes his article by addressing parents of the <name type="geo">UK</name> to help <choice><orig>initiating</orig><reg>initiate</reg></choice> a change, because the educational system is unable to do so alone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

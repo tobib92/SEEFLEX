@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g45_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>So, she was trying to persuade me to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>I think she forgot, that <ref target="c12gk3_1" type="character">Duncan</ref> is actual a king.</s>
+        <s>You can't kill a king that easily, she described.</s>
+        <s>My husband thinks, she can drunk two of <ref target="c12gk3_1" type="character">Duncan's</ref> guards, but there are many more of this, not only those.</s>
+        <s>This is one obstacle.</s>
+      </p>
+      <p>
+        <s>The second point, why I think, I shouldn't kill the <ref target="c12gk3_1" type="character">King Duncan</ref> is, that the prophecy even says I will become king, also when I don't kill him.</s>
+        <s>So I'm convinced, that I become a great <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo"><choice><orig>scotland</orig><reg>Scotland</reg></choice></name> on a legal and right way.</s>
+      </p>
+      <p>
+        <s>But imagine my husband's plan will work and I will kill <ref target="c12gk3_1" type="character">King Duncan</ref> on <choice><orig>an</orig><reg>a</reg></choice> very brutal and violently way.</s>
+        <s>Everyone in the society will hate me and no one will accept me as the new <choice><orig>king</orig><reg>King</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Furthermore I will lose my high reputation.</s>
+        <s>I know, I'm a really and honest man, if I become king on a legal way and I trust the prophecy.</s>
+      </p>
+      <p>
+        <s>I won't will do, what my wife wants me to do.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

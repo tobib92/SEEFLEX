@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l10_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Racism in <name type="geo">Germany</name></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hello people</salute>
+      </p>
+      <p>
+        <s>If you want to know something about racism in <name type="geo">Germany</name> you are right here.</s>
+      </p>
+      <p>
+        <s>Today I am going to tell you something about racism in <name type="geo">Germany</name> and how the famous football player <name type="person">Jérôme Boateng</name> experienced it from his childhood till now.</s>
+      </p>
+      <p>
+        <s><name type="person">Boateng</name> tells us, that he had problems with racism in his whole career, he has been insulted and spit on, just because of his skin colour.</s>
+        <s>Unfortunately this did not just <choice><orig>happens</orig><reg>happen</reg></choice> to adult people who know how to react to such racist insults, this also happens to children.</s>
+        <s>As an example the young <name type="person">Boateng</name> also experienced racism in many <choice><orig>diffrent</orig><reg>different</reg></choice> ways, one of them him and his friends being spit on during a football match.</s>
+        <s>The scary part of this is, that he and his friends were just about ten years old.</s>
+        <s>And <choice><orig>a</orig><reg>an</reg></choice> other being, that a father of <choice><orig>a</orig><reg>an</reg></choice> opponent team insulted him in a football match until he started crying.</s>
+        <s>Today <name type="person">Boateng</name> still experiences racism in form of people imitating monkeys when he is training.</s>
+      </p>
+      <p>
+        <s>After hearing this you may consider not to emigrate or visit <name type="geo">Germany</name> as a person of colour.</s>
+      </p>
+      <p>
+        <s>However <name type="geo">Germany</name> is not that bad of a place as you might think now.</s>
+      </p>
+      <p>
+        <s>Most of the people in <name type="geo">Germany</name> accept immigrants and try helping them, when they are being offended.</s>
+      </p>
+      <p>
+        <s>The politicians also mostly accept immigrants and with it people of colour, which is shown in how <name type="geo">Germany</name> reacts to the refugee crisis.</s>
+      </p>
+      <p>
+        <s>For this <name type="person">Boateng</name> says, that he likes that <name type="geo">Germany</name> is so open to <q>all</q> people and therefore is a country of colour, he says that <name type="geo">Germany</name> is profiting from all those <choice><orig>diffrent</orig><reg>different</reg></choice> people as you can see for example in the victory of the World Cup <date>2014</date> where <name type="geo">Germany</name> won, which wouldn't have been possible without people from so many <choice><orig>diffrent</orig><reg>different</reg></choice> <choice><orig>countrys</orig><reg>countries</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In <choice><orig>General</orig><reg>general</reg></choice> you can say that <name type="geo">Germany</name> is a country, that accepts immigrants, people of colour, but that there are people in the country that <choice><orig>dont</orig><reg>don't</reg></choice> do that.</s>
+        <s>In comparison to other <choice><orig>countrys</orig><reg>countries</reg></choice> <name type="geo">Germany</name> tries to <gap reason="illegible" quantity="1" unit="word">vluch</gap> those people really well, by law and by the people there helping immigrants.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

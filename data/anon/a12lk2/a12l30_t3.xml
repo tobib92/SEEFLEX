@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l30_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Shakespeare's</name> works are outdated in my mind.</s>
+        <s>I often hear people praising him for his great poetry or use of language as well as the stories portrayed through his plays however in my mind his works are overrated.</s>
+      </p>
+      <p>
+        <s>Sure <name type="person">Shakespeare</name> was a good writer for his time however his works just seem outdated and seemingly have no significant relevance today.</s>
+        <s>In my mind there is just no reason to read a piece of litearture in Elizabethan English as this language is just obsolete and of no use today.</s>
+        <s>Surely you can see from what the modern English language developed and its origin through words such as <quote>thee</quote> that are similar to German.</s>
+        <s>Although the development of a language might interest many people it is not relevant for the modern form of the language.</s>
+        <s>Furthermore I do not find <name type="person">Shakespeare's</name> stories to be that relevant.</s>
+        <s><name type="person">Romeo</name> and <name type="person">Juliet</name> seems to be the basis to many modern love stories, however, modern love stories might just be similar because they are love stories as well and therefore also tell the story of two lovers.</s>
+        <s>Furthermore <name type="person">Romeo</name> and <name type="person">Juliet</name> is not even <name type="person">Shakespeare's</name> own creation, there was a similar story before, consisting of <name type="person">Romeo</name> and <name type="person">Juliet</name>.</s>
+        <s>Still it has to be said that <name type="person">Shakespeare's</name> version <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> was and still is far more succesful.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> is definitely a good writer and his stories are good pieces of literary, though I do not see them as relevant just because they are written well <gap reason="illegible" quantity="1" unit="word">ar</gap> 400 years old to me works such as <name type="person">George Orwell's</name> <name type="misc">1984</name> seem far more relevant as they deal with a more relevant topic for modern society.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

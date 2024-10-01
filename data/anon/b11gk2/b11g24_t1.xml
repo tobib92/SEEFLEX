@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g24_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref>, written in <date>2013</date>, is about the balance of religion and society especially in the post-<name type="misc">9/11</name> era.</s>
+        <s>The given excerpt deals with a dispute between <ref target="b11gk2_1" type="character">Amir</ref>, <ref target="b11gk2_1" type="character">Emily</ref>, <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> about a possible affair and a promotion.</s>
+      </p>
+      <p>
+        <s>At the beginning of the excerpt <ref target="b11gk2_1" type="character">Jory</ref> is coming back inside seeing <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> kissing each other.</s>
+        <s>She confronts them about having an affair.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref><choice><orig>Follows</orig><reg>follows</reg></choice> her back in the apartment.</s>
+        <s>He confronts <ref target="b11gk2_1" type="character">Jory</ref> about the promotion she kept quiet about.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Emily</ref> wants to explain the situation that <ref target="b11gk2_1" type="character">Isaac</ref> only want to console her because she heard about the promotion <ref target="b11gk2_1" type="character">Amir</ref> did not get.</s>
+        <s>After this <ref target="b11gk2_1" type="character">Amir</ref> is angry with <ref target="b11gk2_1" type="character">Jory</ref> because he thinks she wants to destroy his marriage after she already stole his job.</s>
+        <s>After hearing this <ref target="b11gk2_1" type="character">Isaac</ref> calls <ref target="b11gk2_1" type="character">Amir</ref> an asshole and <ref target="b11gk2_1" type="character">Amir</ref> insults him back.</s>
+        <s>They are about to fight when <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> face.</s>
+        <s>When <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> were gone <ref target="b11gk2_1" type="character">Emily</ref> admits that she was having an affair with <ref target="b11gk2_1" type="character">Isaac</ref>.</s>
+        <s>She tries to apologize and explain everything to <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>As an reaction <ref target="b11gk2_1" type="character">Amir</ref> hits <ref target="b11gk2_1" type="character">Emily</ref> multiple times in her face.</s>
+        <s>At the end of the excerpt <ref target="b11gk2_1" type="character">Amir's</ref> nephew <ref target="b11gk2_1" type="character">Abe</ref> enters the apartment and sees <ref target="b11gk2_1" type="character">Emily</ref> laying on the ground.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

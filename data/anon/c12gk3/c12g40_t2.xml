@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g40_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to persuade her husband <ref target="c12gk3_1" type="character">Macbeth</ref> by telling him that he would be a very good king.</s>
+        <s>The speech share from <ref target="c12gk3_1" type="character">Macbeth</ref> is much higher than from <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> always answers in short sentences.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> often <choice><orig>ask</orig><reg>asks</reg></choice> <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions.</s>
+        <s><ref target="c12gk3_1" type="line">(l. 9-18)</ref><ref target="c12gk3_1" type="line">(l. 25)</ref> This <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> <choice><orig>questions</orig><reg>question</reg></choice> <choice><orig>beginns</orig><reg>begins</reg></choice> all the time with the letter <quote>w</quote> so it is an anaphora.</s>
+        <s>She also <choice><orig>use</orig><reg>uses</reg></choice> many other stylistic devices for example a <foreign xml:lang="de">Zeilenumsprung</foreign> in line 30f or 27f. This effect on <ref target="c12gk3_1" type="character">Macbeth</ref>, because by doing this she is very irascible.</s>
+        <s>And maybe that is the right way to convince <ref target="c12gk3_1" type="character"><choice><orig>Macbath</orig><reg>Macbeth</reg></choice></ref> that he would be a good king.</s>
+        <s>She also <choice><orig>give</orig><reg>gives</reg></choice> some examples line 18 <quote>like the poor cat i'th'adage</quote>.</s>
+        <s>Maybe it is not only <choice><orig>a</orig><reg>an</reg></choice> example but also a simile.</s>
+        <s><ref target="c12gk3_1" type="character">Lady <choice><orig>Macbath</orig><reg>Macbeth</reg></choice></ref><choice><orig>compare</orig><reg>compares</reg></choice> herself with a poor cat <ref target="c12gk3_1" type="line">(l. 18)</ref>.</s>
+      </p>
+      <p>
+        <s>The only answer of the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions and the simile from <ref target="c12gk3_1" type="character">Macbeth</ref> is <quote>stop pushing me</quote> <ref target="c12gk3_1" type="line">(l. 20)</ref>.</s>
+        <s>So here you can see that the pushy <ref target="c12gk3_1" type="character">Lady Macbeth</ref> gets what she wants.</s>
+        <s>But she <choice><orig>do</orig><reg>does</reg></choice> not only <choice><orig>wants</orig><reg>want</reg></choice> to let <ref target="c12gk3_1" type="character">Macbeth</ref> feeld bad.</s>
+        <s>She also wants to convince him that he would do a great job as <choice><orig>an</orig><reg>a</reg></choice> king.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

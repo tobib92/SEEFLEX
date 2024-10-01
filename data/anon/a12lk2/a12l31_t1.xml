@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l31_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract from act 2 scene 2 from <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref>, published in <name type="misc">Oxford School Shakespeare</name> in <date>2008</date>, deals with <name type="person">Romeo</name> secretly visiting <name type="person">Juliet</name> in her garden and confessing his love to her.</s>
+      </p>
+      <p>
+        <s>Before this scene, <name type="person">Romeo</name> comes to <name type="person">Juliet's</name> party where they meet for the first time.</s>
+        <s>After finding out which families they belgon to they meet again at <name type="person"><choice><orig>Juliets</orig><reg>Juliet's</reg></choice></name> house.</s>
+        <s>At this point of the scene <name type="person">Romeo</name> is located in <name type="person">Juliet's</name> garden while <name type="person">Juliet</name> is standing on her balcony.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> is deeply in love with <name type="person">Juliet</name>.</s>
+        <s>While standing in her garden he confesses his love to her.</s>
+        <s>He tells her that nothing can hold back his love to her, even not the fact that they are both from <choice><orig>to</orig><reg>two</reg></choice> hated families.</s>
+        <s>He has big hopes that <name type="person">Juliet</name> will love him back the same way he loves her.</s>
+        <s>But <name type="person">Juliet</name> is scared to be <choice><orig>catched</orig><reg>caught</reg></choice> by her family meeting <name type="person">Romeo</name> <choice><orig>eventhough</orig><reg>even though</reg></choice> her love is similar to <name type="person">Romeo's</name> love.</s>
+      </p>
+      <p>
+        <s>While talking <name type="person">Romeo</name> <choice><orig>trys</orig><reg>tries</reg></choice> to convince <name type="person">Juliet</name> of his feelings for her by telling her that he can <choice><orig>proof</orig><reg>prove</reg></choice> his love to her by swearing.</s>
+        <s><name type="person">Juliet</name> tells him that he does not have to do that because she already loves him.</s>
+        <s>All in all <name type="person">Romeo</name> is the one who is more excited for the love while on the <choice><orig>othe</orig><reg>other</reg></choice> hand <name type="person">Juliet</name> is a bit scared of it.</s>
+        <s>After this scene <name type="person">Romeo</name> and <name type="person">Juliet</name> decide to get married.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

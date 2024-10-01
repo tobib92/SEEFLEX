@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l09_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sonnet <ref target="c12lk1_1" type="title">Sonnet 65</ref> consists of three quatrains inclunsing cross ehymes and final couplet which rhymes in pair form.</s>
+        <s>The meter of the sonnet is the iambic pentameter such as all Shakespearean sonnets.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> is about the hard times in love but how it still will remain and does not fade.</s>
+        <s>A central theme in this sonnet is the nature which appears frequently.</s>
+        <s>Also beauty and transitoriness are included in the poem.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

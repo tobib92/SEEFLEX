@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l19_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">Shakespeare's</name> way to <name type="geo">Germany</name> and his relationship to <name type="geo">Weimar</name>!</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>Do you know how <name type="person">Shakespeare's</name> work took place in <name type="geo">Germany</name> and which conncetion he has to <name type="geo">Weimar</name>?</s>
+      </p>
+      <p>
+        <s>I have read an article from the <name type="misc">Thüringer Allgemeine</name>, written by <ref target="a12lk1_2" type="author">Wolfgang Hirsch</ref> in <date>2016</date>.</s>
+      </p>
+      <p>
+        <s><name type="person">Christoph Martin Wieland</name> is the first person in <name type="geo">Germany</name> which translated Shakespearean sonnets and plays into the German language, but there are also some similarities in the <choice><orig>so called</orig><reg>so-called</reg></choice> <name type="misc">Hamburgischer Dramaturgie</name> from <name type="person">Lessing</name> as regards the formal aspects.</s>
+      </p>
+      <p>
+        <s>Furthermore an organization has been created in <date>1864</date> in Bochum called <name type="misc">Shakespeare's Green Worlds</name>.</s>
+      </p>
+      <p>
+        <s>Other people like <name type="person">Erich Fried</name> for example write modern versions of <name type="person">Shakespeare's</name> plays.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> plays a major role in <name type="geo">Weimar</name>.</s>
+        <s>Some people found the <name type="misc">Verein der Shakespeare-Freunde</name> in <date>1864</date>.</s>
+        <s>It is the oldest organization regarding literature in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>On its 40th anniversary they erected a memorial for <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>Have you ever heard about this?</s>
+        <s>Feel free to tell me under this blog post.</s>
+      </p>
+      <p>
+        <signed>John Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

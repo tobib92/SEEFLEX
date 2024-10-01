@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g82_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>The limits of my language are the limits of my world</quote> is a quote by <name type="person">Ludwig Wittgenstein</name>, which I am going to comment on.</s>
+      </p>
+      <p>
+        <s>Especially in a globalized world, being multilingual is essetial.</s>
+        <s>Jobs, media, everyday language - other languages, especially English, are ever-present.</s>
+        <s>If you only speak your native language, you might get left behind in the modern world.</s>
+        <s>A good example of that is one of my family members complaining about not being able to read commercials because they contain English words.</s>
+        <s>This might not be a huge problem, but it shows how big of a role other languages play in our lives nontheless.</s>
+      </p>
+      <p>
+        <s>In conclusion: I agree with <name type="person">Wittgenstein</name>.</s>
+        <s>Especially nowadays, not knowing other languages really does limit your horizon, even if you do not want to travel.</s>
+        <s>Other cultures and languages are a part of ours.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

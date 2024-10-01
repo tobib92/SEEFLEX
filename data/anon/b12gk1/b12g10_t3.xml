@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g10_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. President,</salute>
+      </p>
+      <p>
+        <s>on the occasion of the latest climate conference in these days I heard about your <choice><orig>speach</orig><reg>speech</reg></choice> 29 years ago.</s>
+        <s>In the speech on the <name type="misc">COP26</name> in <name type="geo">Glasgow</name> you encouraged the world to take action against the climate change and I cannot express how thankful I am today.</s>
+        <s>You have convinced the leaders of the world to get clear of their responsibility for future generations.</s>
+        <s>I am a member of these generations and I can tell you now that you have started the turning point of history in the topic of climate change.</s>
+      </p>
+      <p>
+        <s>After your speech in the world did really <choice><orig>changed</orig><reg>change</reg></choice>.</s>
+        <s>Not fast and not completely but enough to achieve the aim of <gap reason="illegible" quantity="1" unit="word">restain</gap> the rise of temperature of the planet to 1.5 degree.</s>
+        <s>The world has changed by this increase of temperature.</s>
+        <s>We have <choice><orig>extremly</orig><reg>extremely</reg></choice> hot summers here in Germany and I have not seen snow since I am a little child but I can not image a world with <choice><orig>a</orig><reg>an</reg></choice> even higher rise of temperature.</s>
+      </p>
+      <p>
+        <s>Today we are living a life which is nearly without damaging our environment.</s>
+        <s>We have <choice><orig>cooperations</orig><reg>corporations</reg></choice> between a lot of countries <choice><orig>exchangig</orig><reg>exchanging</reg></choice> knowledge and money for restaining the rise of temperature.</s>
+        <s>What a development to the time where you showed the world that we have already had all assumptions for damaging to a sustainable <choice><orig>live</orig><reg>life</reg></choice>.</s>
+        <s>So again, thank you very much for saving our world by creating the consciousness for the climate change but at the same time creating hope and courage the world needed to take action.</s>
+        <s>I <choice><orig>wisch</orig><reg>wish</reg></choice> you just the best,</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

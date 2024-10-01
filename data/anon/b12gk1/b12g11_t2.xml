@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>By the clear strucutre of the text <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> draws a convincing picture of the dangers of the climate crisis, gives the audience hope and encourages them to take action.</s>
+        <s>Rhetorical devices underline his thesis is that it is important to act now because the politicians have the possibilities and responsibility to decrease global warming.</s>
+      </p>
+      <p>
+        <s>The speech can be divided into six paragraphs.</s>
+      </p>
+      <p>
+        <s>In the first paragraph <ref target="b12gk1_1" type="line">(ll. 1-9)</ref> <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> well comes the politicians to <name type="misc">COP26</name>.</s>
+        <s>He introduces the topic of his speech by referring to <name type="person">James Bond</name> <ref target="b12gk1_1" type="line">(ll. 1-5)</ref>.</s>
+        <s>This allusion makes clear that we have to act against climate change now of we want to save humanity.</s>
+        <s>He compares our situation to a movie about <name type="person">James Bond</name> which is about a <choice><orig>doosday</orig><reg>doomsday</reg></choice> device which will end human life if <name type="person">James Bond</name> do not do something against it.</s>
+        <s>He says that difference is tht we are not in a movie which focuses on the reality of this situation.</s>
+      </p>
+      <p>
+        <s>In the second paragraph <ref target="b12gk1_1" type="line">(ll. 10-15)</ref> he talks about what they have already done to decrease global warming but he also points out that the time of talking is over and that they have to act.</s>
+        <s>The anaphora <quote>I was there</quote> <ref target="b12gk1_1" type="line">(l. 10, l. 11)</ref> underlines that the global leaders already meet two times but they have to meet again because it is such important to do something against climate change.</s>
+        <s>The phrase <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref> focuses on the importance to act now and stop making just promises.</s>
+      </p>
+      <p>
+        <s>In the third paragraph <ref target="b12gk1_1" type="line">(ll. 16-21)</ref> he makes clear that we have the technology and the funds as <choice><orig>a</orig><reg>an</reg></choice> assumption to operate.</s>
+        <s>The enumeration <quote>coal, cars cash, and trees</quote> <ref target="b12gk1_1" type="line">(l. 16)</ref> supports his argument that we have the technology.</s>
+        <s>The metaphor <quote>we have the technology to deactivate that ticking doomsday device</quote> <ref target="b12gk1_1" type="line">(ll. 16f.)</ref> as support this arguments.</s>
+        <s>The <choice><orig>repition</orig><reg>repetition</reg></choice> of the word <quote>doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 17)</ref> focuses again on the importance to act now.</s>
+      </p>
+      <p>
+        <s>In the fourth paragraph <ref target="b12gk1_1" type="line">(ll. 22-29)</ref> <ref target="b12gk1_1" type="speaker">Johnson</ref> explains that the politicians also need the help of the market.</s>
+        <s>The use of the ellipsis <quote>No question</quote> <ref target="b12gk1_1" type="line">(l. 23)</ref> shows that the government have funds to change something.</s>
+        <s>But <ref target="b12gk1_1" type="speaker">Johnson</ref> explains that the market has much more and if they help them, the private sector will help the politicians too.</s>
+      </p>
+      <p>
+        <s>The phrase <quote>our friends</quote> <ref target="b12gk1_1" type="line">(l. 24)</ref> shows that there is the <choice><orig>posibility</orig><reg>possibility</reg></choice> that the market will help the politician.</s>
+        <s><quote>In just the same way that it was the private sector that enabled the UK to end our dependence on coal, become the Saudi Arabia of wind</quote><ref target="b12gk1_1" type="line">(ll. 27ff.)</ref> is a simile which shws that the private sector has helped the <name type="geo">UK</name> and this supports his thesis that the private soctor will also help to fight against the climate crisis.</s>
+      </p>
+      <p>
+        <s>In the following paragraph <ref target="b12gk1_1" type="line">(ll. 30-37)</ref> <ref target="b12gk1_1" type="speaker">Johnson</ref> uses a lot of emotional aspects to convince the audience that they have the responsibility to decrease global warming.</s>
+        <s>He says that most of the politicians who are at <name type="misc">COP26</name> are over 60 but half of the populations of the world is under 30.</s>
+        <s>The politicians are not the future but the young people and their children are the future who have <choice><orig>live</orig><reg>life</reg></choice> on earth the politicians have left them.</s>
+        <s>The ellipsis <quote>And their children</quote> <ref target="b12gk1_1" type="line">(l. 38)</ref> focuses on that.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> uses the metaphor <quote>we mustn't fluff our lines or miss our cue</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref> to show that the politicians do not have to fail but they have to operate to stop global warming.</s>
+        <s><quote>[R]esentment that eclipses any of the climate today</quote><ref target="b12gk1_1" type="line">(l. 42)</ref> is also a metaphor which points out that the future generations will suffer of the politicians do not act.</s>
+        <s>The anaphora <quote>we have</quote> <ref target="b12gk1_1" type="line">(ll. 46f.)</ref> shows that the politicians have the <choice><orig>posibilities</orig><reg>possibilities</reg></choice> to act.</s>
+      </p>
+      <p>
+        <s>In the last paragraph <ref target="b12gk1_1" type="line">(ll. 48-52)</ref> <ref target="b12gk1_1" type="speaker">Johnson</ref> refers to the beginning of his speech.</s>
+        <s>And this paragraph he gives the audience hope that they have the opportunity as well as the possibilities to do something even if they are not <name type="person">James Bond</name>.</s>
+        <s>The metaphor <quote>defuse that bomb</quote> <ref target="b12gk1_1" type="line">(l. 50)</ref> underlines that there is still hope but it is important to act now and if the politicians do not operate, there Will be very bad consequences.</s>
+        <s>The alliteration <quote>turn the tide</quote> <ref target="b12gk1_1" type="line">(l. 51)</ref> also gives hope and encourages the audience to take action.</s>
+        <s>At the end <ref target="b12gk1_1" type="speaker">Johnson</ref> gives answers even there are no questions <quote>(<s>Yes, it's going to be hard.</s> <s>But yes, we can do it.</s>)</quote> <ref target="b12gk1_1" type="line">(l. 51ff.)</ref>.</s>
+        <s>These answers give the audience hope too.</s>
+      </p>
+      <p>
+        <s>In the whole speech he uses inclusive language which places him and the audience on the same level and helps them to identify with the goal of taking action against the climate crisis (<quote>we</quote> <ref target="b12gk1_1" type="line">(l. 5)</ref>, <quote>we</quote> <ref target="b12gk1_1" type="line">(l. 16)</ref>, <quote>us</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref>, <quote>we</quote> <ref target="b12gk1_1" type="line">(l. 52)</ref>).</s>
+      </p>
+      <p>
+        <s>All in all, the speech is well structured.</s>
+        <s>This leads to a good understanding of <ref target="b12gk1_1" type="speaker">Johnson's</ref> position.</s>
+        <s>His arguments to act now <choice><orig>seems</orig><reg>seem</reg></choice> to be trustworthy.</s>
+        <s>He draws a convincing picture of the dangerous.</s>
+        <s>The use of rhetorical devices <choice><orig>support</orig><reg>supports</reg></choice> his arguments, but also <choice><orig>give</orig><reg>gives</reg></choice> the audience hope and encourages them to take action against the climate crisis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

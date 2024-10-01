@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g49_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> claims that <quote>language learning is vital for the UK's future prosperity and global standing</quote> but is that really important?</s>
+        <s><choice><orig>Todays</orig><reg>Today's</reg></choice> generation is well informed about <choice><orig>Phones</orig><reg>phones</reg></choice> and stuff, this is the reason why <choice><orig>this</orig><reg>these</reg></choice> kids get in contact with other languages.</s>
+        <s>Kids from <name type="geo">Europe</name> as an example learn <choice><orig>english</orig><reg>English</reg></choice> from a very young age and it's an important role in their social life with the mobile.</s>
+        <s>They play games, read stories or watch some videos which might be <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>In the <name type="geo">UK</name> kids don't have these experiences with other <choice><orig>language</orig><reg>languages</reg></choice> because their language is the worldwide no.</s>
+        <s>1 language and that's the reason why kids or parents don't think that it's important to learn another language because they think it's normal for all people around the world to speak <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>It's a disadvantage for kids <choice><orig>whos</orig><reg>whose</reg></choice> mother language is <choice><orig>english</orig><reg>English</reg></choice> because it's taken for granted for the parents that their kids don't need to learn another language because they think everyone talks <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>But that's a grand mistake.</s>
+        <s>As soon as these kids grow up and want to get a job in another country the tough truth is exposed.</s>
+        <s>Not everyone can talk <choice><orig>english</orig><reg>English</reg></choice> <ref target="a12gk4_1" type="line">(cp. l. 18, l. 20)</ref></s>
+      </p>
+      <p>
+        <s>This is not the only <choice><orig>disoppointment</orig><reg>disappointment</reg></choice> because not only not everyone can talk <choice><orig>english</orig><reg>English</reg></choice> it is for <choice><orig>advantige</orig><reg>advantage</reg></choice> to not only have <choice><orig>english</orig><reg>English</reg></choice> language skills but also another language skill for a job.</s>
+      </p>
+      <p>
+        <s>It <choice><orig>wold</orig><reg>would</reg></choice> be better for the <name type="geo">UK</name> kids to learn foreign languages so that they won't get in trouble once they get older and can't get the job they've dreamed of.</s>
+        <s>If more kids in the future learn more languages they will get jobs outside the <name type="geo">UK</name> and they contribute for the better for the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>So all in all it's clear to see that I agree with the claim from <ref target="a12gk4_1" type="author">Worne</ref> because language is important for the job, the country and for oneself.</s>
+        <s>The more languages the better and easier your life will get.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g02_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is part of the opening speech of the British Prime Minster, <ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, at <date>1st November 2021</date> the opnening ceremony of <name type="misc">COP26</name>.</s>
+        <s>It's addressed to the global leader, which come together in <name type="geo">Glasgow, Scotland</name> for the <name type="misc">COP26 World Leaders' Summit</name> to discuss the new climate plans and goals.</s>
+      </p>
+      <p>
+        <s>Leading to this climate summit are the rising issues, coming through the growing climate change crisis.</s>
+      </p>
+      <p>
+        <s>The speech deals with the opinion of <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> of the climate change, it's rising problems, and the <choice><orig>to</orig><reg>too</reg></choice> slow acting of the global leaders.</s>
+      </p>
+      <p>
+        <s>Firstly he welcomes the audience.</s>
+        <s>He strts his speech with the comparison of <name type="person">James Bond's</name> missions to the <name type="misc">COP26</name>.</s>
+        <s>In every <name type="person">James Bond</name> movie, <name type="person">James Bond</name> has to save the world <choice><orig>befor</orig><reg>before</reg></choice> a big <choice><orig>catastroph</orig><reg>catastrophe</reg></choice>, the circumstance are different, but in some way the <name type="misc">COP26</name> have the same task.</s>
+      </p>
+      <p>
+        <s>Secondly he mentions that he also was on the provious climate summits and that there also was plans, to stop the climate change, like the 1,5°C aim, but it didn't changed anything.</s>
+        <s>So Glasgow is an opportunity to be a turning point, a plot in the history of climate crisis.</s>
+      </p>
+      <p>
+        <s>The possibilities and power is given and in their hands.</s>
+      </p>
+      <p>
+        <s>Thirdly he explains his plans and strategy, he wants to help the countries, which need help, by investing and help them to get independent and strong by <choice><orig>usiusaly</orig><reg>usually</reg></choice>, technology as same as <name type="geo">England</name> did.</s>
+        <s>Going on he starts to <choice><orig>critize</orig><reg>criticize</reg></choice> the audience.</s>
+        <s>They are the people who make the plans, but aren't the people, who will be affected.</s>
+      </p>
+      <p>
+        <s>The affected ones on the younger generations, even the not even know yet ones.</s>
+      </p>
+      <p>
+        <s>And that is why have to <gap reason="illegible" quantity="1" unit="word">wear</gap> on the younger people.</s>
+      </p>
+      <p>
+        <s>Lastly he put his previous spoken ideas and point of views in <choice><orig>perspetiv</orig><reg>perspective</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">COP26</name> won't be the end of climate crisis, it's the turning point.</s>
+      </p>
+      <p>
+        <s>They have the possibilities to do a change in their hands, they just need the strength to do it, just like <name type="person">James Bond</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

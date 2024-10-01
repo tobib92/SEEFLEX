@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g28_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the blog post from <ref target="a10gk4_1" type="author">Ankita Mitra</ref>, published on <date>February 5, 2014</date>, <choice><orig>The</orig><reg>the</reg></choice> author lists the problems from the <choice><orig>Enviroment</orig><reg>environment</reg></choice> and gives <choice><orig>Examples</orig><reg>examples</reg></choice> what the results could look like.</s>
+      </p>
+      <p>
+        <s>She begins the text with describing what makes our planet special and why we can live <choice><orig>her</orig><reg>here</reg></choice>.</s>
+        <s>Then she goes on and says that with the <choice><orig>beginn</orig><reg>beginning</reg></choice> of the industrialisation we lost the control over the <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+        <s>The bad air pollution is a danger for everything on the planet and it isn't good that we achieve a lot of industrial innovations.</s>
+        <s>After that she says what the results could be and gives an example from <name type="geo">Bhopal</name> <choice><orig>were</orig><reg>where</reg></choice> 19787 people died, due to a gas lack.</s>
+        <s>She quotes that the world soon looks like <name type="geo">Hiroshima</name> after <date>1945</date>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

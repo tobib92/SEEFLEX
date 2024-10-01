@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g36_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> written by John Worne was published in <name type="misc">The Telegraph</name> on the <date>27th January 2015</date> deals with the <choice><orig>droping</orig><reg>dropping</reg></choice> rates of <name type="geo">UK</name> students learning foreign languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> says it is a big problem for the <name type="geo">UK</name> due to almost two-thirds of <name type="geo">UK</name> businesses need foreign language skills.</s>
+      </p>
+      <p>
+        <s>In the beginnen <ref target="a12gk3_1" type="author">Worne</ref> gives some statistics and surveys to inform about the drop in learning foreign languages.</s>
+        <s>Right after that he talks about the problems this change or trend has.</s>
+        <s>As the first problem of this trend he points out the importance of foreign languages for trade, prosperity, cultural exports, diplomacy and national security.</s>
+        <s>As another problem he <choice><orig>referes</orig><reg>refers</reg></choice> to a statistic which showed that almost two-thirds of <name type="geo">UK</name> businesses need foreign language skills and that they gave up on home-grown talent and hire in foreign countries.</s>
+      </p>
+      <p>
+        <s>After that he points out a good trend, universities giving students the chance to study a language alongside their degree subject which is <choice><orig>usefull</orig><reg>useful</reg></choice> because in the right market a language degree plus a degree is more demanded than either of them.</s>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> concludes his article with an appeal to the parents demanding to think more about languages and that it takes a change in homes because the education system can't fix it alone.</s>
+      </p>
+      <p>
+        <s>His personal view on the subject is that he thinks it is a big problem for the <name type="geo">UK</name> and that <choice><orig>every body</orig><reg>everybody</reg></choice> <choice><orig>esspecially</orig><reg>especially</reg></choice> the parents need to change something.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

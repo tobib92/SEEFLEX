@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l05_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>Jane Smith</addrLine>
+      </address>
+      <date>27th September 2021</date>
+      <address>
+        <addrLine>Ministry of Education</addrLine>
+      </address>
+    </head>
+    <body>
+      <p>
+        <salute>Dear ladies and gentlemen of the Ministry of Education,</salute>
+      </p>
+      <p>
+        <s>I recently learned that you have taken<name type="person">Shakespeare</name> out of the English school curriculum.</s>
+        <s>I am now writing this letter to urge you to rethink that decision.</s>
+      </p>
+      <p>
+        <s>I believe there are an abundance of reasons as to why<name type="person">Shakespeare</name> should be dealt with in school (a personal reason being that his work is simply beautiful).</s>
+      </p>
+      <p>
+        <s>Firstly, one <choice><orig>can not</orig><reg>cannot</reg></choice> ignore <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> incredible influence in modern English literature and all kinds of other arts, such as rap.</s>
+        <s>End it is also undeniable that he is still very present, 400 years after his death.</s>
+        <s>He has been translated into many different languages and his work is embedded into many <choice><orig>cutures</orig><reg>cultures</reg></choice>.</s>
+        <s>One of them being the <choice><orig>german</orig><reg>German</reg></choice> culture, there is still a statue of<name type="person">Shakespeare</name> standing in <name type="geo">Weimar</name> and his plays are still presented in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> all of the time.</s>
+        <s>Therefore, taking<name type="person">Shakespeare</name> out of the curriculum would mean a great loss in the education of students.</s>
+      </p>
+      <p>
+        <s>And to those who may see his work is old, confusing and outdated, I retort that his unique way of describing human nature and human experiences such as love, pain and fear, can never be outdated, because he manages to describe universal emotions in a way that makes the reader feel seen and <choice><orig>undestood</orig><reg>understood</reg></choice>.</s>
+        <s>And the need for being understood and not feeling alone is timeless and so is <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> work.</s>
+      </p>
+      <p>
+        <s>I ask you to consider my arguments and to please let students of further generations experience the joy of reading and learning about <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <signed>With kind regards, a student in <name type="geo">Cologne</name></signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g64_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The German girl <name type="person">Bianca L.</name> volunteered in an Education Center for children, in a slum of <name type="geo">Delhi</name>.</s>
+        <s>Her main task was to teach the boys from 10:30 by the latest 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> and the girls from 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> to 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>She loved the kids since she first met them, because they are full of love, acceptance and interest in other people lives and experience.</s>
+        <s>But they also love their own <choice><orig>lifes</orig><reg>lives</reg></choice> and pleasure to start the next day even if their fate is that bad.</s>
+        <s>They laugh, smile but also are tired and frustrated.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

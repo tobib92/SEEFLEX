@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The first shot of <ref target="b10gk2_1" type="character">Chris</ref> is a medium shot of him smiling and doing handshakes.</s>
+        <s>It shows us, that he is popular and probably nice.</s>
+        <s>We then see <ref target="b10gk2_1" type="character">Starr</ref> looking at him and also smiling.</s>
+        <s>Because of this you can see, that she still likes him.</s>
+        <s>She especially looks at his sneakers and thinks, that she has similar ones.</s>
+        <s>This is a connection she draws between them and it also shows that she likes and misses <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s>Then <ref target="b10gk2_1" type="character">Chris</ref> is shown again, moving down the hall and when he notices <ref target="b10gk2_1" type="character">Starr</ref> the camera turns to her.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> looks away and signalizes that she doesn't want to talk.</s>
+        <s>Here you can see that <ref target="b10gk2_1" type="character">Starr</ref> must have some serious problems with <ref target="b10gk2_1" type="character">Chris</ref>, because she doesn't want to talk to him, <choice><orig>altough</orig><reg>although</reg></choice> she really likes him.</s>
+        <s>Then <ref target="b10gk2_1" type="character">Chris</ref> moves determined to <ref target="b10gk2_1" type="character">Starr</ref>, which shows that she is also important to him and he wants her back.</s>
+        <s>The next shot is a close up of <ref target="b10gk2_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> face where <ref target="b10gk2_1" type="character">Chris</ref> puts his headphones on her ears.</s>
+        <s>First she smiles but then she takes them off and turns around.</s>
+        <s>At least <ref target="b10gk2_1" type="character">Starr</ref> now talks to <ref target="b10gk2_1" type="character">Chris</ref> and as <ref target="b10gk2_1" type="character">Chris</ref> starts saying how important she is to him, the camera gets closer to them.</s>
+        <s>This supports the importance of this part of their conversation.</s>
+        <s>While <ref target="b10gk2_1" type="character">Starr</ref> mostly looks down or to the side, showing that she is still annoyed and doesn't really wants to talk, <ref target="b10gk2_1" type="character">Chris</ref> directly looks at her, which shows again how much he likes her.</s>
+        <s>When <ref target="b10gk2_1" type="character">Chris</ref> changes the topic to his music, the camera isn't as close anymore.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> starts to smile and <ref target="b10gk2_1" type="character">Chris</ref> plugs the headphones off and dances in the hallway to the loud music, which makes <ref target="b10gk2_1" type="character">Starr</ref> laugh.</s>
+        <s>This shows, that <ref target="b10gk2_1" type="character">Chris</ref> can distract and entertain <ref target="b10gk2_1" type="character">Starr</ref> with his music that she even forgets their problems and is happy.</s>
+        <s>She then pulls <ref target="b10gk2_1" type="character">Chris</ref> to an empty room where they kiss.</s>
+        <s>This scene shows the change of <ref target="b10gk2_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> feelings for <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+        <s>In the beginning she is angry at him and doesn't want to talk but <ref target="b10gk2_1" type="character">Chris</ref> makes her so happy with the things he does, for example dancing or showing her the music, that she realizes how much she loves him and even pulls him aside to kiss.</s>
+      </p>
+      <p>
+        <s>All in all you can say that <ref target="b10gk2_1" type="character">Chris</ref> and his sometimes silly behaviour is good for <ref target="b10gk2_1" type="character">Starr</ref> because he makes her happy and distracts her from her problems, especially <ref target="b10gk2_1" type="character">Khalil's</ref> death.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

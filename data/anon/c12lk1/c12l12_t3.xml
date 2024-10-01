@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l12_t3</author>
+        <name>letter_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear William,</salute>
+      </p>
+      <p>
+        <s>I have received your letter with the sonnet and I am how responding to you.</s>
+      </p>
+      <p>
+        <s>The message of the sonnet is very deep and I have never thought like this over this quesstion.</s>
+        <s>I like your sonnet and I think it shows the effects and the unstoppability of time very pictoral.</s>
+        <s>I can agree with you and I think that everything gets destroyed by the time someday.</s>
+        <s>But even if the imagination of that is not comfortable, I think that this is a thing of nature.</s>
+        <s>Everything that lives dies and nothing is really endless.</s>
+        <s>I also like the message of the last two lines that you still love writing, even if time could destroy your texts someday.</s>
+      </p>
+      <p>
+        <s>In my opinion, you are one of the most important and <choice><orig>influental</orig><reg>influential</reg></choice> writer in history, even 500 years later!</s>
+        <s>You hae invented over 1700 words and people still use those words.</s>
+        <s>People also use popular phrases from your plays and sonnets without even knowing.</s>
+        <s><quote>To be or not to be; that is the question</quote> is a famous example for that.</s>
+        <s>Also your themes are still relevant today.</s>
+        <s>Love, death, time and beauty are themes with no matter of time which makes your plays or sonnets almost timeless.</s>
+        <s>These themes will not lose their matter because they are part of the life of a human.</s>
+      </p>
+      <p>
+        <s>Thank you very much for your letter,</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

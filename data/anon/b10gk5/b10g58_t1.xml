@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g58_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt from the film <ref target="b10gk5_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>, deals with <ref target="b10gk5_1" type="character">Chris</ref> and <ref target="b10gk5_1" type="character">Starr</ref> talking about their relationship and that feeling for each other.</s>
+        <s>The excerpt is <choice><orig>siduadet</orig><reg>situated</reg></choice> in the begin of the film.</s>
+        <s>It sets in front of the locker from <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> enters the school and looks for <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>As <ref target="b10gk5_1" type="character">Chris</ref> sees <ref target="b10gk5_1" type="character">Starr</ref>, he gets behind her and puts his headset on <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> head while <ref target="b10gk5_1" type="character">Chris</ref> lets her hear a song that he made for <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>She likes the music but still <choice><orig>doesent</orig><reg>doesn't</reg></choice> apologise to <ref target="b10gk5_1" type="character">Chris</ref>, so she acts like she <choice><orig>doesent</orig><reg>doesn't</reg></choice> enjoy the music.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> talks about his feelings to <ref target="b10gk5_1" type="character">Starr</ref>, that he wants to meet her parents and he <choice><orig>doesent</orig><reg>doesn't</reg></choice> know <choice><orig>whats</orig><reg>what's</reg></choice> going on because <ref target="b10gk5_1" type="character">Starr</ref> <choice><orig>ceeps</orig><reg>keeps</reg></choice> saying she's busy.</s>
+      </p>
+      <p>
+        <s>The scene has <choice><orig>an</orig><reg>a</reg></choice> big input on the relationship between <ref target="b10gk5_1" type="character">Chris</ref> and <ref target="b10gk5_1" type="character">Starr</ref>, because they are talking about their feelings and <ref target="b10gk5_1" type="character">Chris</ref> told <ref target="b10gk5_1" type="character">Starr</ref> about how it feels for him to be in his point of view.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

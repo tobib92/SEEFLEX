@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I'm going to analyze <ref target="c12gk1_1" type="author">Shakespeare's</ref> <ref target="c12gk1_1" type="title">Sonnet 116</ref>.</s>
+        <s>He wrote it at the end of the 16th century.</s>
+        <s>It is at the end of his <choice><orig>sequenze</orig><reg>sequence</reg></choice> about the young <choice><orig>men</orig><reg>man</reg></choice>.</s>
+        <s>He had a relationship to a woman and describes his idea of love.</s>
+      </p>
+      <p>
+        <s>The sonnet has three <choice><orig>quartrains</orig><reg>quatrains</reg></choice> and a closing couplet.</s>
+        <s>So all in all there are 14 verses.</s>
+        <s>The rhyme scheme is typical for <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+        <s>First there are cross rhymes.</s>
+        <s>In the couplet there is a pair rhyme <name type="misc">(abab cdcd efef gg)</name>.</s>
+        <s>The <foreign xml:lang="de">metrum</foreign> is an iambic pentameter.</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>quartrain</orig><reg>quatrain</reg></choice> the personal speaker describes love as not transitory.</s>
+        <s>He also says that love doesn't change with age <ref target="c12gk1_1" type="line">(cf. v. 1-4)</ref>.</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quartrain</orig><reg>quatrain</reg></choice> is about the fact that the personal speaker thinks love helps to find the right way in life.</s>
+        <s>Especially for people who don't know who they are love can give a direction <ref target="c12gk1_1" type="line">(cf. l. 5-8)</ref>.</s>
+      </p>
+      <p>
+        <s>In the third <choice><orig>quartrain</orig><reg>quatrain</reg></choice> the speaker says that love never gets old and exists upon death <ref target="c12gk1_1" type="line">(cf. v. 9-12)</ref>.</s>
+      </p>
+      <p>
+        <s>In the couplet gets clear that there is a paradox.</s>
+        <s>If love would be like the personal speaker described it before, no one ever loved <ref target="c12gk1_1" type="line">(cf. v. 13-14)</ref>.</s>
+      </p>
+      <p>
+        <s>In the sonnet there are two significant wordfields.</s>
+        <s>The first is about love.</s>
+        <s>It contains words like <quote>marriage</quote> <ref target="c12gk1_1" type="line">(v. 1)</ref>, <quote>Love</quote> <ref target="c12gk1_1" type="line">(v. 2)</ref>, <quote>love</quote> <ref target="c12gk1_1" type="line">(v. 2)</ref> and <quote>loved</quote> <ref target="c12gk1_1" type="line">(v. 14)</ref>.</s>
+        <s>This shows that the sonnet is about love and the speaker's idea of that.</s>
+        <s>The next wordfield is about getting older.</s>
+        <s>Siri you can find words or idioms like <quote>alters</quote> <ref target="c12gk1_1" type="line">(v. 3)</ref>, <quote>time's fool</quote> <ref target="c12gk1_1" type="line">(v. 9)</ref>, <quote>rosy lips and cheeks</quote> <ref target="c12gk1_1" type="line">(v. 9)</ref>, <quote>sickle's compass</quote> <ref target="c12gk1_1" type="line">(v. 10)</ref> and <quote>doom</quote> <ref target="c12gk1_1" type="line">(v. 12)</ref>.</s>
+        <s>The speakers so tries to describe the process of love at every time of the life.</s>
+        <s>He comes to the conclusion that love isn't transitory and also <choice><orig>don't</orig><reg>doesn't</reg></choice> change.</s>
+      </p>
+      <p>
+        <s>In verse one there is the metaphor <quote>marriage of true minds</quote>.</s>
+        <s>That should show that the speaker only means true love where both take the relationship very serious.</s>
+        <s>For him it is really important that between two people who have such a <choice><orig>releationshipv</orig><reg>relationship</reg></choice> there aren't any problems.</s>
+        <s>With the contrast <quote>Love is not love</quote> <ref target="c12gk1_1" type="line">(v. 2)</ref> he makes clear that there are differences between love and love.</s>
+        <s>It seems like for him only love is that important and special.</s>
+        <s>If you love someone the feelings can get changed or on that much if you are older but if you love the feelings are constantly there.</s>
+      </p>
+      <p>
+        <s>The metaphor <quote>ever-fixed mark</quote> <ref target="c12gk1_1" type="line">(v. 9)</ref> shows on the one hand that the love exists constant until the end of life and on the other hand that love gives you an orientation in life.</s>
+        <s>The metaphor in verse six shows that love gives you that much orientation that you can solve any problem you have and that there aren't that much problems anymore (<quote>tempest and is never shaken</quote>, <ref target="c12gk1_1" type="line">(v. 6)</ref>).</s>
+        <s>With the symbol <quote>star</quote> <ref target="c12gk1_1" type="line">(v. 7)</ref> he specifies the idea that love gives an orientation.</s>
+        <s>The polestar for example was something the seafarer used as orientation when they don't have a compass.</s>
+        <s>The <quote>every wandering ship</quote> <ref target="c12gk1_1" type="line">(v. 8)</ref> he used as a symbol for the people who couldn't find their love yet and who don't know here they should go ir where they belong to.</s>
+        <s>They don't even know how amazing they are <ref target="c12gk1_1" type="line">(v. 9)</ref>.</s>
+        <s>But the star is calculating his distance so the people will find their love soon <ref target="c12gk1_1" type="line">(v. 9)</ref>.</s>
+        <s>This metaphor shows that the personal speaker thinks that everyone has someone he could love.</s>
+        <s>They even find each other so everyone could experience real love.</s>
+        <s>With a parallelism in verse nine and eleven the speaker shows that love is something good and if sometimes not all works well it is never love's fool.</s>
+        <s>Also the <quote>time</quote> <ref target="c12gk1_1" type="line">(v. 9)</ref> never <choice><orig>do</orig><reg>does</reg></choice> something false.</s>
+        <s><quote>Rosy lips and cheeks</quote><ref target="c12gk1_1" type="line">(v. 9)</ref> stand as a symbol for being young.</s>
+        <s>The <quote>sickle's compass</quote> <ref target="c12gk1_1" type="line">(v. 10)</ref> is a symbol for being old and experienced your whole life.</s>
+        <s>This shows that love is a every point of your life.</s>
+        <s>And even if you experience love as a young adult she will never gone away <ref target="c12gk1_1" type="line">(cf. v. 11)</ref>.</s>
+        <s>Love only can get destroyed due death <ref target="c12gk1_1" type="line">(v. 11)</ref>.</s>
+        <s>This gets clear due the symbol <quote>doom</quote> which stands for the day of death <ref target="c12gk1_1" type="line">(v. 12)</ref>.</s>
+        <s>The speaker here uses a lot of words from the word field of getting older because he wants to show the process of love.</s>
+        <s>In addition it gets clear that if you found your love she will never get lost except someone <choice><orig>die</orig><reg>dies</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the closing couplet the speaker comes to that conclusion that is idea of love isn't very realistic.</s>
+        <s>First he says that if this gets approved and his false he <quote>never writs, nor no man ever loved</quote> <ref target="c12gk1_1" type="line">(v. 14)</ref>.</s>
+        <s>This shows that he is very convinced by himself and is sure that his idea of love is the only correct.</s>
+        <s>But he also hast to know that his point of view isn't right because not everyone is until his death in a perfect relationship.</s>
+        <s>Anyway he is sure that only his idea of love is right.</s>
+        <s>Because of this he comes to the conclusion that either his ideas right or no one ever loved <ref target="c12gk1_1" type="line">(cf. v. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>The personal speaker only uses at the beginning and at the end personal pronouns like <quote>me</quote> <ref target="c12gk1_1" type="line">(v. 1)</ref> and <quote>I</quote> <ref target="c12gk1_1" type="line">(v. 14)</ref>.</s>
+        <s>This should show that he means all people and that he is only one part of the others.</s>
+        <s>With the sonnet the personal speaker tries to convince the reader and wants to show that his idea of love is the best.</s>
+      </p>
+      <p>
+        <s>All in all the personal speaker has the opinion that everyone will find his real love.</s>
+        <s>This love exists until someone <choice><orig>die</orig><reg>dies</reg></choice>.</s>
+        <s>He tries to convince the reader by using a lot of metaphors and symbols.</s>
+        <s>With the help of word fields his point of view also gets clearer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

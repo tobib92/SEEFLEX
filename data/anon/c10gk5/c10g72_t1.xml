@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g72_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and published in <name type="misc">The Sunday Times</name> on the <date>17th December 2016</date>, thematizes the barriers of language in migration to <name type="geo">Britain</name>, the consequences, his personal experience and personal opinion on this topic.</s>
+        <s>Firstly he says a huge amount of money is wasted on translating language, but a bigger problem is the <choice><orig>british</orig><reg>British</reg></choice> residents thinking they do not have to learn <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>After this, he speaks about the current problems the Bangladeshi community has to face because they are not willing to move away from their native-language.</s>
+        <s>Next he mentions his personal experience and how his parents and his school helped him with learning <choice><orig>english</orig><reg>English</reg></choice> when they immigrated there.</s>
+        <s>The article ends with him criticising the current state and presenting his solutions.</s>
+      </p>
+      <p>
+        <s>In the end, this article gives a very subjective education but portrays the problems well.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

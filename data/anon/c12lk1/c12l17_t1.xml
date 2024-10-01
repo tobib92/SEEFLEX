@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l17_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sonnet is the <ref target="c12lk1_1" type="title">Sonnet 65</ref> written by <ref target="c12lk1_1" type="author">William Shakespeare</ref> and, with all his 154 sonnets, firstly published in his quarto in <date>1609</date>.</s>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> is one of the most important figures in English literature and his influence is still present today.</s>
+      </p>
+      <p>
+        <s>There are several ways to divide his sonnets, but the most apparent division is from sonnets 1-126, in which the speaker of the poem strikes a relationship with a young handsome man, but also deals with the <name type="person">fair youth</name>.</s>
+        <s>In sonnets 127-154 it is about the <name type="person">dark lady</name>, who the spaker also calls his mistress.</s>
+        <s>The <ref target="c12lk1_1" type="title">Sonnet 65</ref> in particular also deals with the <name type="person">fair youth</name>, as mentioned before, but also deals with the aspects of beauty, time, mortality and eternity.</s>
+      </p>
+      <p>
+        <s>The sonnet is structured in 14 lines, which can be divided into three quatrains and one couplet at the end.</s>
+        <s>In addition the metre is the iambic pentameter, while the rhyme scheme is composed in a Shakespearean rhyme scheme, in which the three quatrains have cross rhymes and the couplet both rhyming with each other.</s>
+      </p>
+      <p>
+        <s>In the following I will summarize the contents of the sonnet as well as mention the themes.</s>
+      </p>
+      <p>
+        <s>In the first quatrain the speaker of the poem talks about the power of beauty which is stronger than nature such as stones, earth, sea, etc., but weak against mortality, despite the actions of such power not being as strong as a flower.</s>
+      </p>
+      <p>
+        <s>Next the second quatrain mentions the aspect of summer with honey, indestructable yet not so hard rocks, and steel which all are infleunced with time.</s>
+      </p>
+      <p>
+        <s>Then in the third quatrain the speaker asks several questions, if the best jewel of time should be hidden in its chest, or how the process of time can be slowed down, and who can forbid beauty from spoiling.</s>
+      </p>
+      <p>
+        <s>Finally in the last couplet, the speaker says that even if there is no solution, his love shall still shine from black ink, unless a miracle happens.</s>
+      </p>
+      <p>
+        <s>In the next part I will analyze the sonnet by looking at the language and stylistic devices to convey the message of the sonnet afterwards.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

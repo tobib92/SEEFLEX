@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l26_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After more than 400 years, <name type="person">Shakespeare</name> is still being read in <choice><orig>english</orig><reg>English</reg></choice> classes all over the world.</s>
+        <s>But is that really necessary?</s>
+      </p>
+      <p>
+        <s>Considering the impact he had, one could say, that his creations are fundamental, to understand much of today culture.</s>
+        <s>His works inspired millions of readers to read about different worlds and dive into their imagination.</s>
+      </p>
+      <p>
+        <s>But isn't the fact, that here are many artists who also had a huge impact, even on <name type="person">Shakespeare</name> himself, enough to reconsider it?</s>
+        <s>What would make a <name type="person"><choice><orig>shakespeare</orig><reg>Shakespeare</reg></choice></name> more important than an <name type="person">Immanuel Kant</name> or even the <name type="misc">Bible</name>?</s>
+      </p>
+      <p>
+        <s>To this it could be said, that both the <name type="misc">Bible</name> and <name type="person">Kant</name> are a different kind of text, belonging to a different subject.</s>
+        <s>But the importance, at least in my opinion, considering from a cultural point of view is at least on the same level, <choice><orig>wich</orig><reg>which</reg></choice> could be enough to read them in a <choice><orig>german</orig><reg>German</reg></choice> class.</s>
+        <s>So if this was the deciding criteria, we would read <name type="person">Kant</name> in German class.</s>
+        <s>But we do not.</s>
+        <s>So if <name type="person">Shakespeare</name> isn't reasonable from a cultural point of view, maybe from a linguistic one.</s>
+        <s>In my opinion, no.</s>
+        <s>Learning the old <choice><orig>english</orig><reg>English</reg></choice> is as pointless as learning Latin or old <choice><orig>greek</orig><reg>Greek</reg></choice>.</s>
+        <s>There is no real point in learning something, that isn't being used anymore.</s>
+      </p>
+      <p>
+        <s>So the last reason to read <name type="person">Shakespeare</name> would be personal entertainment.</s>
+        <s>Yes, it could be argued, that this is a rather unjudgable topic because everyone has their own preferences, but I'm very sure that, especially under teenagers, there are books that would appeal much more to a way broader audience.</s>
+      </p>
+      <p>
+        <s>The only viable reason, why we still read <name type="person">Shakespeare</name> is because it's tradition.</s>
+        <s>We do it, because it's set in the <foreign xml:lang="de">Lehrplan</foreign> and noone dares to take it out.</s>
+      </p>
+      <p>
+        <s>In conclusion: <choice><orig>It</orig><reg>it</reg></choice>'s rather pointless that we're still reading <name type="person">Shakespeare</name>, but it probably won't be changed soon.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

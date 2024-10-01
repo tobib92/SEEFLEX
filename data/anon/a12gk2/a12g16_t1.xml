@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g16_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The comment <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> written by <ref target="a12gk2_1" type="author">John Worne</ref> and published in the daily newspaper <name type="misc">The Telegraph</name> on <date>27th January 2015</date> deals with the speaking of foreign languages in the <name type="geo"><choice><orig>United Kingdoms</orig><reg>United Kingdom</reg></choice></name> and the importance of this topic.</s>
+      </p>
+      <p>
+        <s>Firstly the author points out that the number of persons who speak a foreign language is going down.</s>
+        <s>But there is also a progress at primary schools because there is also the number of students with a foreign language fallen.</s>
+        <s>Furthermore <ref target="a12gk2_1" type="author">Worne</ref> criticizes people, who think that English is a language which you can speak all over the world and a translator for example is not reliable.</s>
+        <s>Besides the author means that foreign languages are important for the future of the country and for yourself.</s>
+        <s>It has a decisive influence on your job because of the fast-growing market you need this skill.</s>
+        <s>But <ref target="a12gk2_1" type="author">Worne</ref> thinks there is also a positive point because students can study a language and another degree course.</s>
+        <s>Moreover the author points out that a person with a foreign language skill rather <choice><orig>get</orig><reg>gets</reg></choice> a job than a person without this skill.</s>
+      </p>
+      <p>
+        <s>All in all the text deals with the importance of foreign languages for the future of people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

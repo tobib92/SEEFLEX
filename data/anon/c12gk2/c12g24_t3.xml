@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g24_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><quote><s><ref target="c12gk2_1" type="person">Shakespeare</ref> never grows old.</s><s>He continues to inspire each new generation</s></quote> - <name type="misc">Norman J. Lund</name>.</p>
+      <p>
+        <s>First of all <ref target="c12gk2_1" type="person">Shakespeare</ref> is timeless.</s>
+        <s>He wrote about so much topics, topics which are still relevant.</s>
+        <s>For example in politics, <choice><orig>familys</orig><reg>families</reg></choice> and each generation.</s>
+        <s>He wrote about human-being, the question you ask yourself and about deciding between opposites for humans.</s>
+        <s>The importance by <ref target="c12gk2_1" type="person">Shakespeare</ref> plays are the characters.</s>
+        <s>It is like the characters <choice><orig>doesn't</orig><reg>don't</reg></choice> represent a person, they represent more an emotion and everybody in the audience can understand it and can yourself identify with the play.</s>
+        <s><ref target="c12gk2_1" type="person">Shakespeare</ref> is not about an old play, it's more about the understanding from humans, the acting and identification.</s>
+        <s>He has also invented a lot of quotations and basics for the today's English.</s>
+        <s>So everybody <choice><orig>use</orig><reg>uses</reg></choice> <ref target="c12gk2_1" type="person">Shakespeare</ref> words.</s>
+        <s>He is famour worldwide and stays known over 500 years.</s>
+        <s>Everybody <choice><orig>know</orig><reg>knows</reg></choice> at least one quotation of a play from him.</s>
+        <s>For example <quote>to be or not to be</quote> - <name type="misc">Hamlet</name>.</s>
+      </p>
+      <p>
+        <s>On the other hand is <ref target="c12gk2_1" type="person">Shakespeare</ref> really hard to understand and to analyze.</s>
+        <s>He is way back in the past and not modern.</s>
+        <s>Some say that his plays aren't relevant today, because they also aren't relevant in the Elizabethan age.</s>
+        <s>It was more a social interaction for the audience in the theatre globe,like a meeting for the people.</s>
+        <s><choice><orig>Than</orig><reg>then</reg></choice> is one argument against him that <ref target="c12gk2_1" type="person">Shakespeare</ref> doesn't invent something new in theatre.</s>
+        <s>His plays based on Greek plays and there isn't something new in his plays.</s>
+        <s>I think in reference to school is <ref target="c12gk2_1" type="person">Shakespeare</ref> not as much relevant than he is in theatre business.</s>
+        <s>I think he is more part of English history but <choice><orig>don't</orig><reg>doesn't</reg></choice> have to be analyzed.</s>
+        <s>I think in this generation it is much harder to analyze the language from <ref target="c12gk2_1" type="person">Shakespeare</ref> than other articles.</s>
+        <s>It doesn't matter if it is worldwide ore only in <name type="geo">England</name>.</s>
+        <s>I think <ref target="c12gk2_1" type="person">Shakespeare</ref> <choice><orig>have</orig><reg>has</reg></choice> to mentioned in each English class but don't analyze anymore.</s>
+        <s>But I also think for society and in theatre business he is still relevant.</s>
+        <s>His topics can be play in so much different interpretation and <choice><orig>everytime</orig><reg>every time</reg></choice> the audience can understand it.</s>
+        <s>I think it will be more a theatre business based on <ref target="c12gk2_1" type="person">Shakespeare</ref> plays, without the classic plays he wrote.</s>
+        <s>I think it is important to mention him, because he has still today a big influence.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

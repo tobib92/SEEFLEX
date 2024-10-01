@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l10_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his <ref target="c12lk1_1" type="title">65th Sonnet Since brass, nor stone, nor earth, nor boundless sea</ref> <ref target="c12lk1_1" type="author">Shakespeare</ref> illustrates the importance of youthful beaty and the ability of love to transcend time.</s>
+        <s>Thus, he discusses that beauty alters and <choice><orig>adresses</orig><reg>addresses</reg></choice> a young man, named <quote>youth</quote>, with whom he has a deep and loving relationship.</s>
+      </p>
+      <p>
+        <s>The sonnet consists of 49s that are separated in three quatrains (from line one to four, give to eight, and nine to eleven) and a rhyming couplet.</s>
+        <s>Each quatrain provides two crross rhymes, the rhyme <choice><orig>sheme</orig><reg>scheme</reg></choice> is <name type="misc">ABAB, CDCD, EFEF and GG</name>.</s>
+      </p>
+      <p>
+        <s>In addition, the poet composed the poem in iambic pentameter, in order to represent the heartbeat, to stress the emotional atmosphere and the importance of love.</s>
+      </p>
+      <p>
+        <s>Furthermore he talks about certain themes.</s>
+        <s>Firstly, he discusses the aspect of mortality: every human being experiences death and goes through the process, where are youthful beauty alters throughout the time.</s>
+        <s>Speaking of time, it's certain to see that it also plays an essential role in the play wright's sonnet: Time passes, no impact of a human being can't change the fact that with the changes of time our youth does also change and become less significant.</s>
+      </p>
+      <p>
+        <s>Another important theme he mentions is the aspect of beauty: <ref target="c12lk1_1" type="author">Shakespeare</ref> indicates that beauty does change and is influenced by the process of altering, whereas love does not: Love is not impacted by any circumstances; it is dominant and won't change, even though time passes and youth vanishes; the aspect of love remains essential and superior.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

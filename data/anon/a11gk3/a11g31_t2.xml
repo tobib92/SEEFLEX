@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g31_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given <choice><orig>Text</orig><reg>text</reg></choice> <choice><orig>exerpt</orig><reg>excerpt</reg></choice> from the novel <ref target="a11gk3_1" type="character">Starr's</ref> state of mind is presented by means of point of view and well <choice><orig>choosen</orig><reg>chosen</reg></choice> narrative techniques.</s>
+        <s>In this situation <ref target="a11gk3_1" type="character">Starr</ref> is confronted with the decision to remain as the unknown witness or to speak out loud and let the world know how she feels.</s>
+      </p>
+      <p>
+        <s>The author makes use of <choice><orig>an</orig><reg>a</reg></choice> first person protagonist narrator, from <ref target="a11gk3_1" type="character">Starr's</ref> point of view, with limited <choice><orig>thougts</orig><reg>thoughts</reg></choice> and feelings the reader get to know.</s>
+        <s>This perspective is shown in line 5 to 7 where the reader gets to know <ref target="a11gk3_1" type="character">Starr's</ref> thoughts.</s>
+        <s>This perspective helps the reader to understand the feelings of the main character and why she acts like she acts.</s>
+        <s>In this way the reader also supports her action because he only knows her perspective, but understand this better than anyone else.</s>
+      </p>
+      <p>
+        <s>There are also <choice><orig>diffrent</orig><reg>different</reg></choice> narrative techniques used in the text, in order to underline the message and story which is told.</s>
+        <s>In the beginning the author makes use of the scenic mode <quote>A red, green, and yellow school bus [...]</quote> <ref target="a11gk3_1" type="line">(ll. 1-3)</ref>, this means the scene is described very accurate, so in the <choice><orig>readers</orig><reg>readers'</reg></choice> imagination, the scene is very present and he is able to relate further events.</s>
+        <s>In this part <ref target="a11gk3_1" type="character">Starr</ref> <choice><orig>describe</orig><reg>describes</reg></choice> her <choice><orig>arrivel</orig><reg>arrival</reg></choice> at a crowd of protestors, which are protesting peacefully.</s>
+        <s>In this situation the effect of this technique is that the crowd appears in a good way onto the reader.</s>
+        <s>Another narrative technique can be found in ll. 19 and ll. 20-21.</s>
+        <s><ref target="a11gk3_1" type="author">Angie Thomas</ref> makes use of a flashback, which <choice><orig>describe</orig><reg>describes</reg></choice> the moment of <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> death from <ref target="a11gk3_1" type="character">Starr's</ref> point of view.</s>
+        <s>This reminds the reader of the events which <choice><orig>happend</orig><reg>happened</reg></choice> in the beginning of the story.</s>
+        <s>In this way the reader can understand why the character acts like he acts and get reminded of the major events.</s>
+        <s>Furthermore the author makes use of a interior monologue <ref target="a11gk3_1" type="line">(ll. 5-7)</ref>.</s>
+        <s>In text it is described what <ref target="a11gk3_1" type="character">Starr's</ref> <choice><orig>thougts</orig><reg>thoughts</reg></choice> are and she has a kind of flashback to the night of <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> death.</s>
+        <s>With this technique the reader is able to dive into the <choice><orig>characters</orig><reg>character's</reg></choice> mind and is able to understand further events or why the character is driven by emotions.</s>
+        <s>At least there is another technique called direct speech <ref target="a11gk3_1" type="line">(ll. 52-56)</ref>.</s>
+        <s>Where <ref target="a11gk3_1" type="character">Starr</ref> talks directly into the crowd about <ref target="a11gk3_1" type="character">Khalil</ref> and his behavior.</s>
+        <s>Moreover in this way the situation is very present to the reader and it creates the feeling of <choice><orig>beeing</orig><reg>being</reg></choice> at the same place.</s>
+      </p>
+      <p>
+        <s>In conclusion I want to say that with important techniques like a flashback the author presents in <choice><orig>a</orig><reg>an</reg></choice> important way how <ref target="a11gk3_1" type="character">Starr</ref> feels and what she thinks, in order to present the situation in <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>understandeble</orig><reg>understandable</reg></choice> way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

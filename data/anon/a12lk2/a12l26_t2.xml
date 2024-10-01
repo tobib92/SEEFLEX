@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given extract from <ref target="a12lk2_1" type="title">Romeo and Juliet</ref>, written by <ref target="a12lk2_1" type="author">William Shakespeare</ref>, the two main characters, <name type="person">Romeo</name> and <name type="person">Juliet</name>, meet again at <name type="person">Juliet's</name> balcony and talk about their <quote>forbidden love</quote>.</s>
+        <s>To underline their love and <choice><orig>it's</orig><reg>its</reg></choice> meaning, the author uses many stylistic devices.</s>
+      </p>
+      <p>
+        <s>The first metaphor can be found in line 58f, where <name type="person">Juliet</name> says <quote>My ears have not yet drunk a hundred words of that tongue's utterance, yet I know the sound</quote>.</s>
+        <s>With this, she refers to their first and only other meeting at the masquearade ball, where they talked for only a few minutes, before getting torn apart.</s>
+        <s>By saying <quote>drunk</quote> instead of <quote>heard</quote> the <choice><orig>Author</orig><reg>author</reg></choice> implies that <choice><orig>Romeos</orig><reg><name type="person">Romeo's</name></reg></choice> words are as essential to <name type="person">Juliet</name> as drinking water, while also showcasing, that in contrast to listening to someone, which can be exhausting or even annoying, listening to <name type="person">Romeo</name> is a pleasant experience, like drinking water.</s>
+        <s>This shows the intensity of their love, despite them only having met each other once.</s>
+      </p>
+      <p>
+        <s>The next metaphor can be found in <name type="person">Romeo's</name> answer to how he got over the walls <ref target="a12lk2_1" type="line">(l. 66)</ref> where he states, that <quote>With love's light wings did I o'erperch these walls</quote>.</s>
+        <s>By saying this, <name type="person">Romeo</name> talks about how he got over the walls, <choice><orig>surronding</orig><reg>surrounding</reg></choice> the <name type="person">Capulet's</name> mansion.</s>
+        <s>With <quote>love's light wings</quote> he speaks about how his love for <name type="person">Juliet</name> gives him strength and also makes every challenge seem small compared to the ultimate goal of love.</s>
+        <s>Another way of interpreting this would be, that his love puts him in higher spirits, which makes him never lose hope however hard the challenge might be.</s>
+      </p>
+      <p>
+        <s>Another time this gets stressed is <name type="person">Romeo</name> saying <quote>Stony limits cannot hold love out</quote><ref target="a12lk2_1" type="line">(l. 67)</ref> in <choice><orig>wich</orig><reg>which</reg></choice> he is not only talking about the walls, but about everything physical.</s>
+        <s>The <choice><orig>Author</orig><reg>author</reg></choice> implies that no challenge and no hurt, how bad they might be, could stop <name type="person">Romeo</name> from loving <name type="person">Juliet</name>.</s>
+        <s>By saying <quote>Look thou but sweet, and I am proof against their enmity</quote> <name type="person">Romeo</name> brings up the family feud between his family and <name type="person">Juliet's</name>.</s>
+        <s>He states, that his love is stronger than the hate, that has been going on for decades, even centuries.</s>
+        <s>This makes him seem <choice><orig>indpendant</orig><reg>independent</reg></choice> from his family and again stresses his love and his willingness to do everything, to fulfill this love.</s>
+      </p>
+      <p>
+        <s>Next, <name type="person">Romeo</name> states, that <quote>My life were better ended by their hate, than death prorouged, wanting of thy love</quote><ref target="a12lk2_1" type="line">(ll. 77f)</ref>.</s>
+        <s>With this, he says, that he'd rather be killed, than live without his love returned by <name type="person">Juliet</name>, his life would be so pointless, that it would make more sense to die for the family feud so his life fulfilled something, even if it's as useless as the family feud.</s>
+      </p>
+      <p>
+        <s>Also <name type="person">Juliet</name> states, that <quote>I'll provem ore true than those that have more cunning to be strange</quote>.</s>
+        <s><choice><orig>with</orig><reg>With</reg></choice> this she refers to the fmaily feud and those, who might see an actual point in it.</s>
+        <s>She says, that her love is stronger than even the most hateful of the families.</s>
+        <s>With this, she shows the strength of her love and her willingness to live it.</s>
+      </p>
+      <p>
+        <s>In conclusion one can say, that both <name type="person">Romeo</name> and <name type="person">Juliet</name>, are ready to love the other one, despite their families.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

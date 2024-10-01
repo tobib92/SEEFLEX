@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g29_t2</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Hello, my name is <name type="person">Faraj al-Byarshan</name>.</s>
+        <s>I'm 41, <choice><orig>a</orig><reg>an</reg></choice> engineer and <choice><orig>i</orig><reg>I</reg></choice> immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in <date>2005</date>.</s>
+      </p>
+      <p>
+        <s>I'm happy to be here now, but it was a very hard way to get, where I am now.</s>
+        <s>My wife and my two sons followed me two years later, in <date>2007</date>.</s>
+        <s>I was very scared, they wouldn't make it but I'm really proud of them.</s>
+        <s>We emigrated because in our country were much <choice><orig>poevrety</orig><reg>poverty</reg></choice>, school exclusions and criminality.</s>
+        <s>I wanted a better life for my kids and earn money.</s>
+        <s>To be here is very nice but often we get in contact with racism.</s>
+        <s>I think people will always look at us <choice><orig>differen</orig><reg>different</reg></choice>, just because we are black.</s>
+        <s>But I'm very happy to be here after such a long journey.</s>
+        <s>I was always scared that my kids and my wife get killed and I couldn't protect them.</s>
+        <s>Now we can <choice><orig>life</orig><reg>live</reg></choice> in peace and freedom.</s>
+        <s>My children are going to school and I earn money so I can say we got a nice life.</s>
+        <s>Sure, we miss our home country at some <choice><orig>way's</orig><reg>ways</reg></choice>, but it's also very hard to get okay with the flashbacks you get, when for example somebody got shooted <choice><orig>infront</orig><reg>in front</reg></choice> of your eyes.</s>
+      </p>
+      <p>
+        <s>I think, now in <name type="geo">New York</name> we found our place and get a <choice><orig>save</orig><reg>safe</reg></choice> life.</s>
+      </p>
+      <p>
+        <s>Thank you!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

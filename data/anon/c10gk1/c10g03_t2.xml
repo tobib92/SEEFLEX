@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>articel</orig><reg>article</reg></choice> <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> from the <name type="misc">Sunday Times</name> <choice><orig>publiced</orig><reg>published</reg></choice> on the <date>7th December 2016</date>, written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> to the interested layman describes the current issues of integration which lead to a parallel society.</s>
+        <s>Also she <choice><orig>critizies</orig><reg>criticizes</reg></choice> the high costs of £100<choice><abbr>m</abbr><expan>million</expan></choice>, which were spent in translation and interpreting for British residents who don't speak English and sending on the same way the message to <choice><orig>imigrants</orig><reg>immigrants</reg></choice> they don't have to learn English or immigrate.</s>
+        <s>That's one reason, why <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> demands to curb translation and interpreting services.</s>
+        <s>Another main topic of the <choice><orig>articel</orig><reg>article</reg></choice> are parallel societies.</s>
+        <s>The author <choice><orig>enumerats</orig><reg>enumerates</reg></choice> examples like the <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name>quarter, which is representing <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name> in a part of <name type="geo">London</name>, where even the street signs are in Bengali.</s>
+        <s>In quarters like that the crime rate is very high.</s>
+        <s>That's one reason, why the author demands making English compulsory for all citizens.</s>
+        <s>Because immigrants have to learn English to immigrate and escape parallel <choice><orig>societys</orig><reg>societies</reg></choice>.</s>
+        <s>The author underlined her opinion in this case stylistic advices like metaphor in line 19 <choice><orig>wher</orig><reg>where</reg></choice> she writes you don't learn to stand on your own two feet if somebody is holding you up.</s>
+        <s>But she <choice><orig>want's</orig><reg>wants</reg></choice> to say us that you have to go off <choice><orig>you're</orig><reg>your</reg></choice> own if you want to become better and <choice><orig>imigrate</orig><reg>immigrate</reg></choice>.</s>
+        <s>On the other hand she has the opinion that there is much to begain from getting everybody speak English.</s>
+      </p>
+      <p>
+        <s>All in all the <choice><orig>articel</orig><reg>article</reg></choice> informs about the parallel <choice><orig>societys</orig><reg>societies</reg></choice> and their dangers but underline the <choice><orig>oppinion</orig><reg>opinion</reg></choice> with a special kind of stylistic <choice><orig>devisces</orig><reg>devices</reg></choice> <ref target="c10gk1_1" type="line">(l. 8)</ref> <choice><orig>wher</orig><reg>where</reg></choice> he <choice><orig>higlined</orig><reg>highlighted</reg></choice> <choice><orig>expessively</orig><reg>expressively</reg></choice> the situation with <choice><orig>an</orig><reg>a</reg></choice> metaphor.</s>
+        <s>On the other hand the <choice><orig>articel</orig><reg>article</reg></choice> <choice><orig>doesent</orig><reg>doesn't</reg></choice> <choice><orig>critizies</orig><reg>criticize</reg></choice> the situation only because it gives <choice><orig>advises</orig><reg>advices</reg></choice> like spending less <choice><orig>mony</orig><reg>money</reg></choice> in translation and interpreting to stop supporting parallel societies.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

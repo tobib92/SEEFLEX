@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The main purpose of the given scene is to show the police brutality against the black community.</s>
+        <s>Another purpose of the scene is to show how traumatizing it is for black children to see one of their family experiencing police brutality.</s>
+        <s>The scene is set in a diner at night.</s>
+        <s>The background music in the beginning is slow and <choice><orig>sensetive</orig><reg>sensitive</reg></choice> it creates a relaxed and happy atmosphere, till <ref target="b10gk3_1" type="character">Starr</ref> sees <ref target="b10gk3_1" type="character">King</ref> and the two gang members, the music then suddely changes to a more threatening music, which creates tension and danger in the scene.</s>
+        <s>There is a zoom on <ref target="b10gk3_1" type="character">King</ref> and the gang members, when <ref target="b10gk3_1" type="character">Starr</ref> first sees them, which makes them seem more dangerous.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Mavericks</orig><reg>Maverick's</reg></choice></ref><choice><orig>agressive</orig><reg>aggressive</reg></choice> body language and facial expression, when he walks outside the diner, shows his attitude towards <ref target="b10gk3_1" type="character">King</ref> and the respect he doesn't have for him.</s>
+        <s>The red and blue lights from the police <choice><orig>creates</orig><reg>create</reg></choice> an even <choice><orig>mor</orig><reg>more</reg></choice> exciting atmosphere.</s>
+        <s>When <ref target="b10gk3_1" type="character">Maverick</ref> is pushed on the ground, there is a close up on his face, there is a light in his face, so the viewer can see his facial expression showing how angry and frustrated he is.</s>
+        <s>There is an intense eye contact between <ref target="b10gk3_1" type="character">Starr</ref> and the black police officer, while she's filming him pushing her father on the ground, one can see in his facial expression that he's realizing something.</s>
+        <s>In the end there is a close up on <ref target="b10gk3_1" type="character">Sekhani</ref> crying, his facial expression shows how <choice><orig>frightend</orig><reg>frightened</reg></choice> he is, that this <choice><orig>happend</orig><reg>happened</reg></choice> to his father, the viewer can see how traumatizing it can be for a little child to experience something like this.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

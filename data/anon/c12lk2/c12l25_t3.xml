@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l25_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Shakespeare</name> should still be taught in German English class because his work still has an affect on <choice><orig>todays</orig><reg>today's</reg></choice> life.</s>
+        <s>Many movies or books are inspired by the Shakespearean poems or plays.</s>
+        <s>So I think it's important to know where these ideas come from.</s>
+        <s>It is German English  classes' duty to teach us general knowledge about English history and vocabulary.</s>
+        <s>And <name type="person">Shakespeare</name> affects these both moduls, because he also created some new words which we still use today.</s>
+        <s>We should be thankful for being able to read his work.</s>
+        <s>But on the other hand there are maybe pupils wh are not interested in his art, because they maybe think it's boring.</s>
+        <s>Even though I can partly understand these students I must say that you never know what other interest you could have.</s>
+        <s>It doesn't hurt to be open-minded and try learning about big <choice><orig>playwrighter</orig><reg>playwright</reg></choice> like <name type="person">Shakespeare</name>.</s>
+        <s>It is also <choice><orig>impressiv</orig><reg>impressive</reg></choice> to see how people back then used to appreciate beauty and love in comparison to these days.</s>
+        <s>I mean it's the same nature we have, like they had and it's the same things we see, but still there is a huge difference in how poets of different times describe beauty and nature.</s>
+        <s>Even if we don't know if <name type="person">Shakespeare</name> ever existed we still have all these poems which determine the English language and art until today.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

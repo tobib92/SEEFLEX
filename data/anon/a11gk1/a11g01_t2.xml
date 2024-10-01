@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the excerpt the author used different narrative techniques and <choice><orig>point</orig><reg>points</reg></choice> of view like flashbacks to present <name type="person">Starr</name>'s state of mind during the scene.</s>
+      </p>
+      <p>
+        <s>The text is written from a <choice><orig>first person</orig><reg>first-person</reg></choice> protagonist point of view.</s>
+        <s>It only shows the thoughts of the main character <name type="person">Starr</name>.</s>
+        <s>That has the effect that the reader is very close to what happens and they can easily understand <name type="person">Starr</name>'s decisions and actions.</s>
+      </p>
+      <p><s>One narrative technique used is the flashback.</s><quote><s><name type="person">Khalil</name> drops it into the side door.</s><s>'A hairbrush is not a gun'.</s><s>He opens the door to ask if I'm okay</s></quote><ref target="a11gk1_1" type="line">(ll. 19-21)</ref>. <s><name type="person">Starr</name> is back at the moment <name type="person">Khalil</name> got shot and proceeds to go back and forth between this moment and the present.</s><s>Being at the place where it happened she relives the moment but still notices the protests of the people in the present <ref target="a11gk1_1" type="line">(ll. 19-23)</ref>.</s><s>It explains her state of mind and her actions following.</s><s>Knowing that she relives this moment in her head explains why she later reacts really surprising when <choice><orig>sudenly</orig><reg>suddenly</reg></choice> standing up for <name type="person">Khalil</name>.</s><s>It also <choice><orig>show</orig><reg>shows</reg></choice> the reader that the place she is in has an emotional effect on her because of what happened.</s><s>This way the reader understands what she feels in that moment.</s></p>
+      <p><s>Another narrative technique used is a scenic mode paired with a flashback in <ref target="a11gk1_1" type="line">(ll. 1-7)</ref>.</s><quote><s>A red, green, and yellow school bus is parked on the street to our right.</s><s>It says 'Just us for Justice' on the side</s></quote><ref target="a11gk1_1" type="line">(ll. 1f)</ref>. <s>The scene that <name type="person">Starr</name> arrives to is described in great detail and it gives the reader a better look in how the situation looks like.</s><s>This narrative technique shows the reader that <name type="person">Starr</name> takes a moment when arriving to take in the whole situation.</s><s>It makes it seem that <name type="person">Starr</name> herself is a little surprised or overwhelmed by the situation she finds herself in and the many people protesting for her friend.</s><s>Furthermore, there is a narrative technique used to present <choice><orig>Starrs</orig><reg><name type="person">Starr</name>'s</reg></choice> state of mind in <ref target="a11gk1_1" type="line">(ll. 49-61)</ref>.</s><s>The author used direct speech <ref target="a11gk1_1" type="line">(ll. 49-61)</ref> to present <choice><orig>Starrs</orig><reg><name type="person">Starr</name>'s</reg></choice> thoughts.</s><s>The reader does not have to look into <choice><orig>Starrs</orig><reg><name type="person">Starr</name>'s</reg></choice> mind to know what she is thinking.</s><s>She shares her thoguhts with evreyone.</s><s>It is the first time that she openly tells everyone that she is the witness and what she thinks about <choice><orig>Khalils</orig><reg><name type="person">Khalil</name>'s</reg></choice>.</s><s>This also shows the reader taht she made a decision on the conflict she had on whetehr to open up for <name type="person">Khalil</name> or to stay quiet.</s><s>She finally speaks up for <name type="person">Khalil</name>.</s></p>
+      <p>
+        <s>Lastly there is one more narrative technique used to present <name type="person">Starr</name>'s state of mind.</s>
+        <s>There is an interior monologue, where she stands on top of the car with the bullhorn in her hand deciding on what to say <ref target="a11gk1_1" type="line">(ll. 41-48)</ref>.</s>
+        <s>After thinking about it and hearing hte crowd and the cops talking to her she says <quote>Fuck it</quote> <ref target="a11gk1_1" type="line">(l. 48)</ref> and speaks up.</s>
+        <s>The reader gets an idea of what makes her make that decision through the interior monologue presenting that scene.</s>
+        <s>It shows that she is influenced by the crowd telling her to speak and by the cops telling her to exit the street.</s>
+        <s>Through the interior monologue the reader knows that in that moment she made her decision to speak up and to ignore what the police says.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say that the narrative techniques show that in her mind <name type="person">Starr</name> is influenced by the place they are at.</s>
+        <s>She is placed back in time to when <name type="person">Khalil</name> got shot.</s>
+        <s>All that and the crowd's <choice><orig>demaning</orig><reg>demanding</reg></choice> her to speak up influence her to make a decision on the conflict she proceeded to have throughout the whole book.</s>
+        <s>She finally <choice><orig>speeks</orig><reg>speaks</reg></choice> up for <name type="person">Khalil</name>.</s>
+        <s>Why she comes to that decision is presented by the narrative techniques.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

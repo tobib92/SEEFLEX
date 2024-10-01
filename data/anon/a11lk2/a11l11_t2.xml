@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir Kapoor</ref> is a main character in the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>.</s>
+        <s>He is 40 years old and of South Asian origin.</s>
+        <s>He is a lawyer in a <choice><orig>jewish</orig><reg>Jewish</reg></choice> law-firm and that is why he pretends to be Hindu.</s>
+      </p>
+      <p>
+        <s>The extract starts with <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Jory</ref> entering the apartment.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> is in her mid 30s and is an African American lawyer at the same law-firm as <ref target="a11lk2_1" type="character">Amir</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> just told him that she got a position, that <ref target="a11lk2_1" type="character">Amir</ref> really wanted and deserved.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> is in the <choice><orig>Apartment</orig><reg>apartment</reg></choice> before him and as he enters enflamed <ref target="a11lk2_1" type="line">(line 22)</ref> he yells at her.</s>
+      </p>
+      <p>
+        <s><quote>You wait a week to tell me this?</quote>, he asks her angry.</s>
+        <s>She does not answer so he yells <quote>Who are you?</quote> in line 25.</s>
+        <s>Actually, he knows her but he is so disappointed that he asks that question.</s>
+      </p>
+      <p>
+        <s>In line 30, <ref target="a11lk2_1" type="character">Jory</ref> asks <ref target="a11lk2_1" type="character">Emily</ref>, <ref target="a11lk2_1" type="character"><choice><orig>Armirs</orig><reg>Amir's</reg></choice></ref> wife if she is having an affair with her husband, <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s><quote>Are you having an affair with my husband?</quote>.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> is a white woman in her early 30s and <ref target="a11lk2_1" type="character">Isaac</ref> is 40 and described as attractive.</s>
+        <s>He is a curator and <ref target="a11lk2_1" type="character">Emily</ref> is an <choice><orig>artiste</orig><reg>artist</reg></choice>.</s>
+        <s>To that question <ref target="a11lk2_1" type="character">Amir</ref> reacts with <quote>Excuse me?</quote> in line 31, since that is the only thing <ref target="a11lk2_1" type="character">Jory</ref> said, since <ref target="a11lk2_1" type="character">Amir</ref> yelled at her.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> both deny the accusations from <ref target="a11lk2_1" type="character">Jory</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> does not say anything to them.</s>
+        <s>He is angry and turns to <ref target="a11lk2_1" type="character">Jory</ref> full of hate and yells in line 18 on page 72 <quote><s>First you steal my job and now you try to destroy my marriage?</s><s>You're fucking evil.</s><s>After everything I've done for you?</s></quote>.</s>
+        <s>That shows that they had a connection and that <ref target="a11lk2_1" type="character">Amir</ref> has helped her a lot and is really disappointed.</s>
+      </p>
+      <p>
+        <s>In line 22 he is going into a rage because <ref target="a11lk2_1" type="character">Jory</ref> does not answer him the way he expects.</s>
+        <s><quote>You have any idea how much of myself I've poured into that place?</quote>.</s>
+        <s>That underlines how hard he was trying to get the position that <ref target="a11lk2_1" type="character">Jory</ref> got.</s>
+      </p>
+      <p>
+        <s><choice><orig>Noone</orig><reg>No one</reg></choice> interrupts him, so he names all the reasons why he should have gotten the promotion.</s>
+        <s>After that <ref target="a11lk2_1" type="character">Isaac</ref> insults him in line 31 by saying to <ref target="a11lk2_1" type="character">Jory</ref> <quote>You don't need to listen to this asshole</quote>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> just answers <quote>You're the asshole</quote>.</s>
+        <s><ref target="a11lk2_1" type="character">Isaac</ref> never really seemed to like <ref target="a11lk2_1" type="character">Amir</ref> but now that he has a reason, he does not hesitate to insult him.</s>
+      </p>
+      <p>
+        <s>That is confirmed in line 33, when <ref target="a11lk2_1" type="character">Isaac</ref> threatens <ref target="a11lk2_1" type="character">Amir</ref> <quote>I'll knock you on your fucking ass!</quote>.</s>
+        <s>But in line 34 <ref target="a11lk2_1" type="character">Amir</ref>, who does not seem to like <ref target="a11lk2_1" type="character">Isaac</ref> either reacts with <quote>Try me!</quote>.</s>
+      </p>
+      <p>
+        <s>In the whole extract neither of them said something nice to or about <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+        <s>In line 40 <ref target="a11lk2_1" type="character">Amir</ref> spits in his face.</s>
+        <s>That is when <ref target="a11lk2_1" type="character">Isaac</ref> says something racist in line 1 on page 73.</s>
+        <s><quote>There's a reason they call you people animals</quote> and decides to leave (without his wife).</s>
+      </p>
+      <p>
+        <s>After <ref target="a11lk2_1" type="character">Isaac</ref> left, <ref target="a11lk2_1" type="character">Amir</ref> kicks <ref target="a11lk2_1" type="character">Jory</ref> out.</s>
+        <s>She explains why she got promoted in line 7 <quote>it's impossible to trust you</quote> and leaves.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Jory</ref> left, <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Emily</ref> talk for the first time in the extract.</s>
+        <s>She yells at him for kicking <ref target="a11lk2_1" type="character">Jory</ref> out but he gets weak and explains in line 19 <quote>She's right...</quote>.</s>
+        <s>That is when <ref target="a11lk2_1" type="character">Emily</ref> leaves her husband for a little while to get him a coffee.</s>
+        <s>After she comes back, <ref target="a11lk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> mood changes and he asks her vulnerable <quote>Are you sleeping with him?</quote> <ref target="a11lk2_1" type="line">(line 27)</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> explains everything and is finally honest with <ref target="a11lk2_1" type="character">Amir</ref> because he gets affected by what she says.</s>
+      </p>
+      <p>
+        <s>That is when <ref target="a11lk2_1" type="character">Amir</ref> <choice><orig>looses</orig><reg>loses</reg></choice> control and the rage comes back.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> tries to calm him down in line 2 page 74 <quote><ref target="a11lk2_1" type="character">Emily</ref> [...] makes her way to him</quote>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> hits <ref target="a11lk2_1" type="character">Emily</ref> in the face and <quote>in rapid succession</quote> <ref target="a11lk2_1" type="line">(line 7)</ref> he hits her more.</s>
+        <s>In the end he realises what he did and his last words in the extract are <quote>Oh my God...</quote>.</s>
+      </p>
+      <p>
+        <s>So at first, <ref target="a11lk2_1" type="character">Amir</ref> comes back with his <choice><orig>collegue</orig><reg>colleague</reg></choice> <ref target="a11lk2_1" type="character">Jory</ref> and is angry, because she got promoted.</s>
+        <s>Then they find out that their partners are cheating on them.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> yells at everyone except his wife and when the guests (<ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Jory</ref>) leave, <ref target="a11lk2_1" type="character">Amir</ref> <choice><orig>looses</orig><reg>loses</reg></choice> control and hits <ref target="a11lk2_1" type="character">Emily</ref> until she realises what he is doing.</s>
+        <s>That shows how sensible <ref target="a11lk2_1" type="character">Amir</ref> is and that his character and mood can change quickly.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

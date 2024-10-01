@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The two lovers speak about their love <quote>against all odds</quote> at night in the <name type="person"><choice><orig>Capulets</orig><reg>Capulet's</reg></choice></name> garden.</s>
+        <s>Their language used gives more insight in their feelings towards each other.</s>
+      </p>
+      <p>
+        <s>To begin with, <name type="person">Romeo</name> argues why he undertook such a risk for seeing <name type="person">Juliet</name>.</s>
+        <s>He speaks of love here as <quote>light wings</quote><ref target="a12lk2_1" type="line">(l. 66)</ref> that help him lean over the wall into the garden.</s>
+        <s>This metaphor accentuates that his love for <name type="person">Juliet</name> makes him overcome every obstacle; nothing can come between them.</s>
+      </p>
+      <p>
+        <s>To that, he adds another metaphor, speaking of <quote>stony limits</quote><ref target="a12lk2_1" type="line">(l. 67)</ref> being representative here for the orchard's wall.</s>
+        <s>These <quote>limits</quote><ref target="a12lk2_1" type="line">(l. 67)</ref> <quote>cannot hold love out</quote> <ref target="a12lk2_1" type="line">(l. 67)</ref> which underlines that he is very much in love and that this love cannot be stopped by anything.</s>
+      </p>
+      <p>
+        <s>However, he seems to be well aware of the danger he is in but argues that <quote>there lies morme peril in thine eye than twenty of their swords</quote> <ref target="a12lk2_1" type="line">(ll. 71f)</ref> meaning that the act of being with her is more thrilling and dangerous than being discovered.</s>
+      </p>
+      <p>
+        <s>This comparison emphasizes that her, simply just existing is more dangerous for him than the <name type="person">Capulet's</name> guards.</s>
+        <s>Their love makes him <quote>proof against their enmity</quote><ref target="a12lk2_1" type="line">(l. 73)</ref>.</s>
+      </p>
+      <p>
+        <s>Furthermore into their conversation <name type="person">Romeo</name> applies another metaphor which again stresses and expresses very strongly how much he would do out of love for <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s>Making use of this metaphor comparing her to a <quote>vast shore</quote> <ref target="a12lk2_1" type="line">(l. 85)</ref> and a <quote>far [...] sea</quote> <ref target="a12lk2_1" type="line">(l. 80)</ref> he undoubtedly lets the readers know of his intention and attitude towards his love for <name type="person">Juliet</name>.</s>
+        <s>This can be connected to the previous metaphor underyling the power of love that made him on the one hand overcome the orchards wall and on the other hand <quote>adventure for such merchandise</quote> <ref target="a12lk2_1" type="line">(l. 84)</ref>, no matter how far they're apart.</s>
+      </p>
+      <p>
+        <s>Consequently with the help of this metaphor the readers are constantly reminded of the power of their love.</s>
+      </p>
+      <p>
+        <s>Yet, <name type="person">Juliet</name> seems to have some concerns about their <quote>love against all odds</quote> which she expresses in her monologue from lines 85-106.</s>
+      </p>
+      <p>
+        <s>This shows that she doubts his love for her, which becomes even more clear when asking <quote>Dost thou love me?</quote><ref target="a12lk2_1" type="line">(l. 90)</ref>.</s>
+        <s>Her uncertainty and fear are langauge-wise illustrated by an exclamation: <quote>O gentle <name type="person">Romeo</name> </quote><ref target="a12lk2_1" type="line">(l. 93)</ref>.</s>
+      </p>
+      <p>
+        <s>This exclamation results in the reader comprehending how much she is torn by contradicting feelings for <name type="person">Romeo</name> since they come from rivaling families.</s>
+      </p>
+      <p>
+        <s>Nevertheless the imagery of the night used by her beforehand <ref target="a12lk2_1" type="line">(ll. 85f)</ref> <choice><orig>reveal</orig><reg>reveals</reg></choice> that she is also in love with him, since then ight covers up her red cheeks.</s>
+      </p>
+      <p>
+        <s>Both of the two lovers reflect differently on their love for each other: <choice><orig>While</orig><reg>while</reg></choice> <name type="person">Romeo</name> seems to be very sure, <name type="person">Juliet</name> is a little more hesitant.</s>
+      </p>
+      <p>
+        <s>Her restraint and seemingly reserved manner becomes evident agin when she repeats that <name type="person">Romeo</name> needs to assure her that he sincerely loves her <ref target="a12lk2_1" type="line">(ll. 93ff)</ref>.</s>
+      </p>
+      <p>
+        <s>This use of repetition gives her concerns more weight and also gives the readers another perspective on the different manner they reflect on their love.</s>
+      </p>
+      <p>
+        <s>Her inner conflict between breaking with conventions and giving in into her love with <name type="person">Romeo</name> is especially visible as she exclaims that she is willing to <quote>farewell compliment</quote> <ref target="a12lk2_1" type="line">(l. 89)</ref> yet this is followed by doubts again.</s>
+      </p>
+      <p>
+        <s>Still, the readers learn at the end of her monologue that despite all her concerns she is <quote>too fond</quote> <ref target="a12lk2_1" type="line">(l. 98)</ref> and finally decides to put all her concerns aside.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> wants their love to last that is why the imagery and choice of words <choice><orig>steming</orig><reg>stemming</reg></choice> from the field of night and heaven becomes of importance.</s>
+      </p>
+      <p>
+        <s>She does not want him to <quote>swear [...] by the inconstant moon</quote> <ref target="a12lk2_1" type="line">(l. 104)</ref> but by his <quote>gracious self</quote> <ref target="a12lk2_1" type="line">(l. 114)</ref>.</s>
+        <s>This underlines that since the moon is only to be seen inconsistently, using this to swear by would be not enough for her - she wants their love to come from <name type="person">Romeo</name> and be everlasting.</s>
+      </p>
+      <p>
+        <s>Elaborating on the moon's <quote>changes in her circled orb</quote> <ref target="a12lk2_1" type="line">(l. 110)</ref> is an imagery to illustrate that she does not want to bind their love to earthly passings and conventions.</s>
+      </p>
+      <p>
+        <s>As mentioned above, the imagery of nights plays a crucial role in this scene because it on the one hand <quote>hide[s]</quote> <ref target="a12lk2_1" type="line">(l. 75)</ref> <name type="person">Romeo</name> from being discovered by <name type="person">Capulet</name> servants and on the other hand adds to the thrilling, romantic atmosphere prevailing in the scene.</s>
+      </p>
+      <p>
+        <s>The choice of words used by the lovers stems mainly from the field of love, danger and death.</s>
+        <s><name type="person">Romeo</name> using frequently the word <quote>love</quote> <ref target="a12lk2_1" type="line">(l. 67)</ref> or <quote>ended</quote> <ref target="a12lk2_1" type="line">(l. 77)</ref> underscores that he is willing to die in the attempt of being together with his love <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet's</name> attitude towards their <quote>love against all odds</quote> is marked by words expressing doubts and denial such as <quote>deny</quote> <ref target="a12lk2_1" type="line">(l. 88)</ref>, <quote>dwell</quote> <ref target="a12lk2_1" type="line">(l. 88)</ref> or <quote>prove false</quote> <ref target="a12lk2_1" type="line">(l. 92)</ref>.</s>
+      </p>
+      <p>
+        <s>To conclude it can be said that the two lovers reflect on their love differently.</s>
+        <s><name type="person">Romeo</name> is more <choice><orig>straight-forward</orig><reg>straightforward</reg></choice> expressing his strong feelings for <name type="person">Juliet</name> and assuring her multiple times that he's willing to die for her <add>using several metaphors</add>.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> on the other hand is at first more hesitant, reserved and doubts the sincerity of his feelings which is conveyed by her exclaiming her being torn and making allusions, and posing theoretical questions.</s>
+      </p>
+      <p>
+        <s>Yet at the end of the scene both of them come to admit that they wants to take the risk of breaking conventions and rather be dead and together than being seperated from each other.</s>
+      </p>
+      <p>
+        <s>The night imagery is here a useful element as it enables them to have this conversation.</s>
+      </p>
+      <p>
+        <s>Love is perceived by them as something that overcomes every obstacle and convention imposed on them <add>by their families</add>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

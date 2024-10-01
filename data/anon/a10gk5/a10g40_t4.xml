@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g40_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Carlos,</salute>
+      </p>
+      <p>
+        <s>I recently have read about the losers of globalisation.</s>
+        <s>As I know, you are an advocate of free trade and free market.</s>
+        <s>So I wanted to make you aware of the loses people in poor countries in <name type="geo"><choice><orig>asia</orig><reg>Asia</reg></choice></name> make.</s>
+      </p>
+      <p>
+        <s>Have you ever thought about the life of the losers of globalisation and how they might feel.</s>
+        <s>In the article I read there were three <choice><orig>fashionbloggers</orig><reg>fashion bloggers</reg></choice> from <name type="geo">Europe</name> and trying the work in <name type="geo"><choice><orig>Kambodscha</orig><reg>Cambodia</reg></choice></name>.</s>
+        <s>They get shocked and also feel guilty.</s>
+        <s>You also have heard of the pain but they state being there is something else.</s>
+        <s>People there sit for hours doing the same work repeating it.</s>
+        <s>If you compare those Europeans with the people there they are the same people inside.</s>
+        <s>If we live in a capitalistic world and we are rich then other people have the cost to live a poor <choice><orig>live</orig><reg>life</reg></choice>.</s>
+        <s>I think you should try this out to earn some experiences and be aware of the losers of globalisation.</s>
+      </p>
+      <p>
+        <signed>Your John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

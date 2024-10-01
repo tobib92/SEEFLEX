@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g33_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following <choice><orig>i</orig><reg>I</reg></choice> Will comment on the question is the learning of language vital for the <name type="geo">UK's</name> future prosperity and global standing, <choice><orig>refering</orig><reg>referring</reg></choice> to the article <ref target="a12gk3_1" type="title">Langauge learning in the UK: can't, won't, don't</ref> from <ref target="a12gk3_1" type="author">John Worne</ref> <choice><orig>puplished</orig><reg>published</reg></choice> on the <date>27 January 2015</date> in <name type="misc">The Telegraph</name>.</s>
+      </p>
+      <p>
+        <s>In my opinion the learning of <choice><orig>languarge</orig><reg>language</reg></choice> is very important for global standing because for this you need a <choice><orig>effectiv</orig><reg>effective</reg></choice> Communication and this couldn't happen without <choice><orig>languarge</orig><reg>language</reg></choice> <choice><orig>abbility's</orig><reg>abilities</reg></choice>.</s>
+        <s>And in the best way this should be advanced <choice><orig>skill's</orig><reg>skills</reg></choice> cause this <choice><orig>make's</orig><reg>makes</reg></choice> trading in communication <choice><orig>mutch</orig><reg>much</reg></choice> easier.</s>
+        <s>Moreover <choice><orig>i</orig><reg>I</reg></choice> am also the opinion that the technical progress can't solve the Communication problem without learning <choice><orig>languarge</orig><reg>language</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

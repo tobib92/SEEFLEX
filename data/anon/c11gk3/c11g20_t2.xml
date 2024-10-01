@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g20_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>except</orig><reg>excerpt</reg></choice> of the drama <ref target="c11gk3_1" type="title">A Raisin in the Sun</ref> is about <ref target="c11gk3_1" type="character">Walter Youngers'</ref> dream and <ref target="c11gk3_1" type="character">Ruth's</ref> opinion about his dream.</s>
+        <s><ref target="c11gk3_1" type="character">Walter's</ref> dream would be financed by the paycheck the family <choice><orig>get</orig><reg>gets</reg></choice> for <ref target="c11gk3_1" type="character">Mama's</ref> husband's death.</s>
+      </p>
+      <p>
+        <s>Firstly you can say that <ref target="c11gk3_1" type="character">Walter's</ref> dream is to open a liquor store with his friends <ref target="c11gk3_1" type="character">Willy Harris</ref> and <ref target="c11gk3_1" type="character">Bobo</ref>.</s>
+        <s>But the liquor store is not his actual dream.</s>
+        <s>His actual dream is to be, as the only man in the household besides <ref target="c11gk3_1" type="character">Travis</ref>, who is a little boy, the one who earns the most money and <choice><orig>carry</orig><reg>carries</reg></choice> for the family.</s>
+        <s><quote>I'm thirty-five years old; I been married eleven years and I got a boy who sleeps in the living room [...] and all I got to give him is stories about how rich white people live ...</quote><ref target="c11gk3_1" type="line">(l. 40-43)</ref> this shows how ashamed <ref target="c11gk3_1" type="character">Walter</ref> is for being poor and not being able to get his family a better life.</s>
+        <s>Also in the example you can see that he blames only himself for having such a bad life and no one other from the family because he thinks that he is the man so he is the only one who can better the family's life.</s>
+      </p>
+      <p>
+        <s>Secondly, <ref target="c11gk3_1" type="character">Walter</ref> is convinced with the idea that women do not understand how the world works and that men are way more intelligent.</s>
+        <s>This you can see in the phrase: <quote>See there, that just goes to show you what women understand about the world</quote> <ref target="c11gk3_1" type="line">(ll. 32)</ref>.</s>
+      </p>
+      <p>
+        <s>Furthermore you can see that <ref target="c11gk3_1" type="character">Ruth</ref> is against the idea of opening a liquor store but does not really try to convince him to not open a liquor store because she is too tired for such a big discussion.</s>
+        <s>This you can see in her short answers.</s>
+        <s>She never speaks more than two sentences.</s>
+      </p>
+      <p>
+        <s>Also the phrase: <quote>Eat your eggs, they gonna be cold</quote> <ref target="c11gk3_1" type="line">(l. 34)</ref> is a very important phrase from <ref target="c11gk3_1" type="character">Ruth</ref> because it again shows that she does not want to have a big discussion with <ref target="c11gk3_1" type="character">Walter</ref> and just wants to change topics.</s>
+        <s>But is also is important because with this response she indirectly <choice><orig>tell</orig><reg>tells</reg></choice> <ref target="c11gk3_1" type="character">Walter</ref> that she does not like the idea of opening a liquor store and does not support his dream.</s>
+      </p>
+      <p>
+        <s>Compared to the others' dreams <ref target="c11gk3_1" type="character">Walter's</ref> dream is a bit selfish.</s>
+        <s>The dream of <ref target="c11gk3_1" type="character">Mama</ref> and <ref target="c11gk3_1" type="character">Ruth</ref> is to buy a bigger house.</s>
+        <s>The dream of <ref target="c11gk3_1" type="character">Travis</ref> is having better living conditions so his dream is like the dream of <ref target="c11gk3_1" type="character">Ruth</ref> and <ref target="c11gk3_1" type="character">Mama</ref>.</s>
+        <s>And the dream of <ref target="c11gk3_1" type="character">Beneatha</ref> is to finance her medicine study, which is also a bit selfish.</s>
+        <s><ref target="c11gk3_1" type="character">Walter's</ref> dream is selfish because it is a high risk he takes, only to be the one, carrying for the family.</s>
+        <s>Also if the liquor store does not work very well he would <choice><orig>loose</orig><reg>lose</reg></choice> all of the money the family got to better their life.</s>
+      </p>
+      <p>
+        <s>So all in all you can say that <ref target="c11gk3_1" type="character">Walter</ref> is very convinced with his dream but the conversation with <ref target="c11gk3_1" type="character">Ruth</ref> shows that <ref target="c11gk3_1" type="character">Ruth</ref> thinks that a liquor store is a bad idea.</s>
+        <s>Also <ref target="c11gk3_1" type="character">Walter</ref> has a picture in his head where the man is the one who carries for his family and not a woman.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

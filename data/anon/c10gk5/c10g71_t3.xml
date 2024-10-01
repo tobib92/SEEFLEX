@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g71_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The phrase of <name type="person">Ludwig Wittgenstein</name> was already in his time where there was no global language important but nowadays in a globalised world where the most people can understand <choice><orig>Englisch</orig><reg>English</reg></choice> it is even more important to know the language of the country you are right now.</s>
+        <s>Let me explain why.</s>
+      </p>
+      <p>
+        <s>Nobody likes people who want to stay at a country but doesn't want to learn the country's language me included.</s>
+        <s>But if you speak a language everyone understands, for example <choice><orig>englisch</orig><reg>English</reg></choice>, why should you learn another language?</s>
+        <s>Because it shows respect to the <choice><orig>coutry</orig><reg>country</reg></choice> and the people living there because you acknowledge their history and their culture.</s>
+        <s>But <choice><orig>whats</orig><reg>what's</reg></choice> more important is that you understand way better how the country works and how the people are there because they don't have to change to something else so you can understand things better.</s>
+      </p>
+      <p>
+        <s>In the end I can say it's good to learn the language of different nations to see the true face of the nation and expand your horizon.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

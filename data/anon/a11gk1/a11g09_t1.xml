@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g09_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this excerpt of the novel <ref target="a11gk1_1" type="title">The Hate U Give</ref> written by <ref target="a11gk1_1" type="author">Angie Thomas</ref>, the main character <name type="person">Starr</name> finds herself at a protest against police brutality and for justice for the murder of <name type="person">Khalil</name>, a black teenager that was shot by a police officer.</s>
+        <s>She came there to participate in the protests after the police officer that shot <name type="person">Khalil</name> was declared <q>not guilty</q>.</s>
+        <s>After meeting her attorney <name type="person">Ms. Ofrah</name> at the protest <name type="person">Starr</name> decides to <quote>use her voice as a weapon</quote> and to speak up for justice.</s>
+        <s>She gets a bullhorn and starts delivering a speech to the crowd of protesters and police <choice><orig>officer</orig><reg>officers</reg></choice> that are present at this event.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

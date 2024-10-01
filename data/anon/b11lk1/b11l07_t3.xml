@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l07_t3</author>
+        <name>story</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><s>It was hot.</s><s>Unbelievably hot.</s><s>But still <name type="misc">José Navidad</name> had to pass out flyers.</s><s>He had been at the labour exchange that morning, when a man with a black monocle around his ankle had given him the pile of papers.</s><s>Of course this was not ideal work, but it was all he had for now and if he wanted to earn the few dollars wage he had been offered, he would have to deliver all the flyers before it was dark.</s><s>As he was walking across one of the neatly cut lawns a man approached him.</s><s><name type="misc">José</name> stopped walking and watched as the <q>Gringo</q> came nearer, until he finally stopped and said <q>Hey, can I help you?</q>.</s><s><name type="misc">José</name> understood that this was not a friendly offer and decided not to answer.</s><q><s>I said, can I help you?</s></q><q><s>Help me?</s></q><s><name type="misc">José</name> took his time thinking about how he could show this man just what he thought of him.</s><s><q>Sure</q> he sheered <q>sure, hombre, you can help me</q>.</s><s>With a melicious grinn he continued <q>What's happening, man?</q>.</s><s>It made <name type="misc">José</name> happy to see the <choice><orig>mans</orig><reg>man's</reg></choice> slip from annoyance to anger and finally to rage: <q><s>I want to know what you're doing here?</s></q>, the man continued.</s><q><s>This is private property.</s><s>You don't belong here</s></q>. <s><name type="misc">José</name> had heard those words too often.</s><s>His thoughts drifted away to other white men and women shouting them at him, when there was a sudden movement and his arm was trapped between the fingers of the man <choice><orig>whos</orig><reg>whose</reg></choice> face was filled with rage.</s><s><name type="misc">José</name> managed to free himself and had to hold back the insults and rage at the injustice of it all that were building up inside of him.</s><s><q>I got these flies</q> he yelled.</s><s>He was breathing heavily now, seething with rage, but instead of giving in, the man retorted <q><s>Don't give me that shit!</s><s>I'm calling the police.</s><s>I know what <choice><orig>your</orig><reg>you're</reg></choice> doing up here, I know who you are, you're not fooling anybody</s></q>.</s><s>When the words had left the <choice><orig>mans</orig><reg>man's</reg></choice> lips <name type="misc">José</name> experienced a shock of recognition.</s><s>This was the man who had been walking around in the canyon.</s><s>The man who had parked his car so unwittingly.</s><s>Well at least he had already had revenge then.</s><s>The car had been a gift, parked at the side of the road.</s><s>No one there as a witness to see him break open the door and drive away, except a few construction workers who had other things to occupy them.</s><s>Now he had had enough.</s><s>The man was looking around possibly searching for more ways to offend him.</s><q><s>Flies.</s><s>I deliver these flies.</s></q><s><name type="misc">José</name> spat and he felt satisfied to see the <choice><orig>mans</orig><reg>man's</reg></choice> look turn into shock and <choice><orig>embarassement</orig><reg>embarassment</reg></choice>, as he shoved a piece of paper into his face.</s><s>When nothing more happened <name type="misc">José</name> decided to leave and let the man <choice><orig>wollow</orig><reg>wallow</reg></choice> in his self-pity.</s><s>He made his way up the front steps of the next, almost identical, house and pushed one of the flyers into the gap between the screen door and the wooden door frame, still breathing heavily with supressed rage.</s></p>
+    </body>
+  </text>
+</TEI>

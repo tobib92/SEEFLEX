@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g17_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sonnet <ref target="c12gk1_1" type="title">Sonnet 116</ref> by <ref target="c12gk1_1" type="author">William Shakespeare</ref> is about the idea of love.</s>
+        <s>First the speaker describes what love is, by describing what love isn't <ref target="c12gk1_1" type="line">(cf. l. 3f.)</ref>.</s>
+        <s>In this first quatrain Love is described as something which doesn't change.</s>
+        <s>After that, in the second quatrain in the speaker compares love to a ever-fixed mark <ref target="c12gk1_1" type="line">(cf. l. 5)</ref>.</s>
+        <s>It seems far away <ref target="c12gk1_1" type="line">(cf. l. 8)</ref>, but the love is always there <ref target="c12gk1_1" type="line">(cf. l. 5-7)</ref>.</s>
+      </p>
+      <p>
+        <s>The third quatrain is about the immortality of love and that love doesn't change with the time <ref target="c12gk1_1" type="line">(cf. l. 9-12)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last couplet the speaker underlines his idea of love, by saying that he never write and no man has ever loven, if he is wrong <ref target="c12gk1_1" type="line">(cf. l. 13f)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all the idea of love from the the speaker gets clear, by first describing and then comparin it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

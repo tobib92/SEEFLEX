@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g27_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="c12gk2_1" type="title">Macbeth</ref> written by <ref target="c12gk2_1" type="author">Shakespeare</ref> deals with the scene in which <name type="person">Lady Macbeth</name> tries to convince her husband <name type="person">Macbeth</name> to kill the king of <name type="geo">Scotland</name> <name type="person">Duncan</name>.</s>
+      </p>
+      <p>
+        <s>In the scene <name type="person">Macbeth</name> and <name type="person">Lady Macbeth</name> talk to each other while the <name type="person">Duncan</name> has almost finished his supper.</s>
+        <s><name type="person">Lady Macbeth</name> wants <name type="person">Macbeth</name> to go back so he can kill <name type="person">Duncan</name> after he went to bed.</s>
+        <s><name type="person">Macbeth</name> tries to shut up <name type="person">Lady Macbeth</name> compares him to <choice><orig>babys</orig><reg>babies</reg></choice> and calls him weak.</s>
+        <s>Lastly she explains <name type="person">Macbeth</name> her plan to kill <name type="person">Duncan</name> without falling and get to convince <name type="person">Macbeth</name> to kill <name type="person">Duncan</name>.</s>
+        <s><name type="person">Macbeth</name><choice><orig>settle</orig><reg>settles</reg></choice> to the decision to kill <name type="person">Duncan</name> even he thinks it is false.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

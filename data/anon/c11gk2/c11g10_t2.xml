@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier's</ref> political speech was delivered on <date>10 July 2018</date> in <name type="geo">New York</name>.</s>
+        <s>The <name type="misc">EU</name> commissioner holding the given excerpt after having greeted the audience and having thanked for the opportunity to speak about his topic.</s>
+      </p>
+      <p>
+        <s>First, the speaker carifies his point of view regarding <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s>After that he <choice><orig>present</orig><reg>presents</reg></choice> facts and refers to example from the past.</s>
+        <s>Finally, he briefly summarizes himselfs in order to convince the audience and, by extension, the population.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> uses <choice><orig>informel</orig><reg>informal</reg></choice> and factual language to appear serious at the same time but begins to stand at the level of his listeners for better understanding.</s>
+      </p>
+      <p>
+        <s>In addition, his tone is friendly to create sympathy and thus manipulatively persuade.</s>
+        <s>He also <choice><orig>talkes</orig><reg>talks</reg></choice> politicany in order to not neglect the severity of his speech.</s>
+      </p>
+      <p>
+        <s>The speaker develops a sense of togetherness rather than antagonism by using personal pronouns like <quote>we</quote> <ref target="c11gk2_1" type="line">(l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>In his speech he <choice><orig>make</orig><reg>makes</reg></choice> use of many stylistic devices when he <choice><orig>elucidate</orig><reg>elucidates</reg></choice> his criticism of <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> combines an enumeration with a <choice><orig>repitition</orig><reg>repetition</reg></choice> for an added <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> effect in lines 22 to 23 <quote>... what the G20 calls, ... what you call ..., what we call ...</quote>.</s>
+        <s>In this way the speaker both <choice><orig>underline</orig><reg>underlines</reg></choice> the gravity of the situation and makes it easier for the audience to recall his arguments.</s>
+      </p>
+      <p>
+        <s>With the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>Why would this equivalence system ...</quote> the speaker making the audience reflect on what he is saying <ref target="c11gk2_1" type="line">(ll. 25-26)</ref>.</s>
+        <s>The answer is obvious, but he not direct mention it, to let the listeners fill the gap with their own mind.</s>
+      </p>
+      <p>
+        <s>Furthermore, the anaphora <quote><s>Why...?</s><s>Why?</s></quote> <choice><orig>let</orig><reg>lets</reg></choice> the audience <choice><orig>focuses</orig><reg>focus</reg></choice> against on the <choice><orig>particiular</orig><reg>particular</reg></choice> question, why such <choice><orig>an</orig><reg>a</reg></choice> good system should not work for the <name type="geo">UK</name> <ref target="c11gk2_1" type="line">(ll. 25-26)</ref>.</s>
+        <s>In this way the answer seems unnecessary, so that you just agree to his point of view.</s>
+      </p>
+      <p>
+        <s>To put it all in a nutshell, <ref target="c11gk2_1" type="speaker">Michel Barnier's</ref> speech succeed by <choice><orig>fullfilling</orig><reg>fulfilling</reg></choice> his objectives.</s>
+        <s>By trying to <choice><orig>focuses</orig><reg>focus</reg></choice> the <choice><orig>listeners</orig><reg>listeners'</reg></choice> mind on specific phrases he manipulates and convinces them to <choice><orig>criticizes</orig><reg>criticize</reg></choice> the <name type="geo">United Kingdom's</name> decision to leave the <name type="misc">European Union</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

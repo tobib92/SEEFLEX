@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11l21_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Emily</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Maya</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s>I told you what happened and it bothers the me more I think about it.</s>
+        <s>In one hand I cannot believe that he did what he did but on the other hand I want to know the reason why.</s>
+      </u>
+      <u who="B">
+        <s><ref target="a11lk2_1" type="character">Emily</ref><choice><orig>dont</orig><reg>don't</reg></choice> worry about why he did it, the answer is clear: he is an asshole.</s>
+      </u>
+      <u who="A">
+        <s>That was my first thought too but I don't think that that is the real reason, I believe that his surrounding made him do that.</s>
+        <s>I know him for so long now and every day he was bothered by his work, by his friends, also by me.</s>
+        <s>It does not completely justify what he did but to be honest, I don't blame him completely for it.</s>
+      </u>
+      <u who="B">
+        <s>He beat you, how can you say that, did you lose your mind, he is crazy I know that.</s>
+        <s>He has been raised like that, <choice><orig>thats</orig><reg>that's</reg></choice> what his religion teaches.</s>
+      </u>
+      <u who="A">
+        <s><ref target="a11lk2_1" type="character">Amir</ref> was not religious.</s>
+        <s>At the end of the day I did cheat on him but I still supported him.</s>
+        <s>Yes what he did was wrong and unjust but you cannot blame his background or religion.</s>
+      </u>
+      <u who="B">
+        <s>So what are you going to do?</s>
+        <s>Go back to him and let him beat you again?</s>
+      </u>
+      <u who="A">
+        <s>No I won't.</s>
+        <s>I don't a man who is unsure about himself.</s>
+        <s>It made me tired to remind him every day that he should be standing up for his identity, that he should be fighting for the falsely accused Imam.</s>
+        <s>I believe in justice but I don't think that he did, I am really not sure about anything right now.</s>
+        <s>I'm going to move places and see what happens next.</s>
+      </u>
+      <u who="B">
+        <s>What about <ref target="a11lk2_1" type="character">Isaac</ref>?</s>
+      </u>
+      <u who="A">
+        <s>What do you mean what about <ref target="a11lk2_1" type="character">Isaac</ref>?</s>
+      </u>
+      <u who="B">
+        <s>Didn't you have a thing with him?</s>
+      </u>
+      <u who="A">
+        <s>So what?</s>
+        <s>You're saying I should go back to the art curator that I cheated on my ex husband with and continue the affair?</s>
+      </u>
+      <u who="B">
+        <s>I mean...</s>
+      </u>
+      <u who="A">
+        <s>No <ref target="a11lk2_1" type="character">Maya</ref>, what the fuck?</s>
+        <s>I'm asking you for advice and you coming to me with that?</s>
+        <s>Hell no.</s>
+        <s>Bye.</s>
+      </u>
+      <p>
+        <stage>hangs up</stage>
+      </p>
+    </body>
+  </text>
+</TEI>

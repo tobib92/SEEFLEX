@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g09_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Trev,</salute>
+      </p>
+      <p>
+        <s>after we have recently finished reading the book <name type="misc">THUG</name>, which deals with the topic of racism and police brutality in the <name type="geo">USA</name> in our English class, I started wondering whetehr racism is really such a topical problem in the <name type="geo">US</name>.</s>
+        <s>After doing some research online I stumbled upon this one German news article on <name type="misc">zeit.de</name> from <date>August 2014</date> that sparked my interest.</s>
+      </p>
+      <p>
+        <s>I was shocked and surprised reading that text written by <ref target="a11gk1_2" type="author">Alexandra Endres</ref> because apparently there are still many problems in <name type="geo">America</name> that black people are facing on a daily basis.</s>
+        <s>She explained that black men are more likely to be arrested by the police than white men, since black people are stopped and frisked more often than white people.</s>
+        <s>The article also mentioned that there was even a case two week ago, where a police officer shot an <choice><orig>18-year old</orig><reg>18-year-old</reg></choice> man which really shocked me.</s>
+        <s>Furthermore <ref target="a11gk1_2" type="author">Alexandra Endres</ref> stated that black people have major economic and social problems in comparison to white people.</s>
+        <s>Black people in the <name type="geo">USA</name> are less likely to finish school, get a good diploma or even get a job at all.</s>
+        <s>One fourth of the black American population has to live in poverty while not even a tenth of the white population has to live under these circumstances!</s>
+      </p>
+      <p>
+        <s>This really made me think.</s>
+        <s>Are thingy still that bad for black people in the <name type="geo">USA</name>?</s>
+        <s>I mean the article is a couple of years old, so did something change about that?</s>
+        <s>Did you witness any racism <choice><orig>agains</orig><reg>against</reg></choice> black people yourself already and what can your black friends say about their experiences?</s>
+        <s>I would really love to know more about this topic, so write me back when you have time!</s>
+        <s>Other than that stay safe and have a good week.</s>
+      </p>
+      <p>
+        <signed>Your penfriend, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

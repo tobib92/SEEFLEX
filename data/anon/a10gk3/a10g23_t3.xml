@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g23_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will give <choice><orig>argument</orig><reg>arguments</reg></choice> against the environmental pollution and make suggestions for improvements.</s>
+        <s>I am against the pollution of our planet, because we destroy the earth but we should save it.</s>
+      </p>
+      <p>
+        <s>I already give an argument against the pollution of our planet.</s>
+        <s><choice><orig>Anouthe</orig><reg>Another</reg></choice> argument is that the environmental pollution kills our animals and our environment.</s>
+        <s>An example for the destroy of our world is <name type="geo">Sahara</name> which was once a green place.</s>
+      </p>
+      <p>
+        <s>In the future we could take our trash into a rubbish bin and use the bike not the car if we can.</s>
+        <s>We acurally shouldn't <choice><orig>wraste</orig><reg>waste</reg></choice> out write board marker.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

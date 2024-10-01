@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g25_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="misc">Norman J. Lund</name> said, that <quote><s><ref target="c12gk2_1" type="person">Shakespeare</ref> never grows old.</s><s>He continues to inspire each new generation</s></quote>.</s>
+        <s>I would agree to this <choice><orig>statment</orig><reg>statement</reg></choice>, because <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> influenced a lot of popular movies today and will be probably important for another long time.</s>
+        <s>His language left a mark on <choice><orig>todays</orig><reg>today's</reg></choice> language and a lot of people still remember his quotes.</s>
+        <s>He shaped the <choice><orig>english</orig><reg>English</reg></choice> language and also was a <choice><orig>mile stone</orig><reg>milestone</reg></choice> for the <choice><orig>theaters</orig><reg>theatres</reg></choice>.</s>
+        <s>His literally work is still important and many people search inspiration in his plays.</s>
+        <s>For people in <name type="geo">England</name> it is important understanding their language <choice><orig>altough</orig><reg>although</reg></choice> it is for many students boring.</s>
+        <s>But at least the something should be told about <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> in <choice><orig>english</orig><reg>English</reg></choice> schools.</s>
+        <s>I think <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> isn't relevant for <choice><orig>german</orig><reg>German</reg></choice> schools, because the language is difficult to understand and even <choice><orig>english</orig><reg>English</reg></choice> native speakers are probably struggling to understand <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> <choice><orig>textes</orig><reg>texts</reg></choice>.</s>
+        <s>In <choice><orig>german</orig><reg>German</reg></choice> schools the students maybe should more learn about the plays, but not the language <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> shaped.</s>
+        <s>It is important to know some details about <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and to learn more about the plays but the language is in my opinion not important for <choice><orig>german</orig><reg>German</reg></choice> schools.</s>
+        <s>I think it is boring and hard to understand for people, who aren't good in <choice><orig>english</orig><reg>English</reg></choice> and there could be problems for the students to understand every metaphor or other <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> device.</s>
+      </p>
+      <p>
+        <s>For today audience it is probably important to see new exciting variations of movies, which are based on <ref target="c12gk2_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> work, but it is also not easy to find new ways of <choice><orig>interpretating</orig><reg>interpreting</reg></choice> the story.</s>
+        <s><ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> is also important for artists, who are starting to learn famous quotes and try to adapt emotions on stage to see if they can perform such a difficult role.</s>
+        <s>But for <choice><orig>german</orig><reg>German</reg></choice> students <ref target="c12gk2_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> work should be translated into modern <choice><orig>english</orig><reg>English</reg></choice> or for <choice><orig>german</orig><reg>German</reg></choice> lessons even into <choice><orig>german</orig><reg>German</reg></choice>.</s>
+        <s>This would make it much easier for the student and could even get their attention and could be exciting.</s>
+      </p>
+      <p>
+        <s>To sum up I would say that <ref target="c12gk2_1" type="person">Shakespeare</ref> generally is important for the <choice><orig>english</orig><reg>English</reg></choice> culture and should be told in <choice><orig>english</orig><reg>English</reg></choice> schools.</s>
+        <s>But for <choice><orig>german</orig><reg>German</reg></choice> schools, they should look up for options to make it more easier to catch the <choice><orig>students</orig><reg>students'</reg></choice> attention.</s>
+        <s>Then it would be more <choice><orig>rellevant</orig><reg>relevant</reg></choice> and the students would get more convinced by <ref target="c12gk2_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> work.</s>
+        <s>The emotions in <ref target="c12gk2_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> work will get <choice><orig>transferd</orig><reg>transfered</reg></choice> into new movies and he <choice><orig>woun't</orig><reg>won't</reg></choice> lose his relevance quickly.</s>
+        <s>For me as a <choice><orig>german</orig><reg>German</reg></choice> student I would like to have a modern <choice><orig>english</orig><reg>English</reg></choice> text that has the same <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices and the same atmosphere of <ref target="c12gk2_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> plays or a movie that is influenced by <ref target="c12gk2_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and <choice><orig>analize</orig><reg>analyze</reg></choice> which parts of the movie are adapted.</s>
+        <s>People could also <choice><orig>analize</orig><reg>analyze</reg></choice> music text like we did for example in class.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

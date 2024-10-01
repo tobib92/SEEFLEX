@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g47_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Many people think that <ref target="c12gk3_1" type="person">Shakespeare's</ref> works are still relevant today, but I think that it is not.</s>
+      </p>
+      <p>
+        <s>Of course the most people know <ref target="c12gk3_1" type="person">Shakespeare</ref> but mostly not because they like his books or read them in their <choice><orig>free time</orig><reg>freetime</reg></choice>.</s>
+        <s>The most people know <ref target="c12gk3_1" type="person">Shakespeare</ref> because of school because they have or had to read one of his books.</s>
+        <s>I think the most people don't really like the books of <ref target="c12gk3_1" type="person">Shakespeare</ref> which they had to read in school because they are <choice><orig>to</orig><reg>too</reg></choice> old.</s>
+        <s>In the books are many old words which no one uses today.</s>
+        <s>This makes the book hard to read and I think this problem causes the book to be boring because I have the experience if I read a book <choice><orig>to</orig><reg>too</reg></choice> slow it <choice><orig>borows</orig><reg>bores</reg></choice> me.</s>
+        <s>Also these stories are not relevant in <choice><orig>these</orig><reg>this</reg></choice> time.</s>
+        <s><ref target="c12gk3_1" type="title">Macbeth</ref> is about a man who tries to kill a king.</s>
+        <s>I think today no one can <choice><orig>realy</orig><reg>really</reg></choice> relate to <ref target="c12gk3_1" type="title">Macbeth</ref> because this scenario is just <choice><orig>to</orig><reg>too</reg></choice> old and cannot happen today because there are no kings.</s>
+      </p>
+      <p>
+        <s>Overall I think some people of course still like what <ref target="c12gk3_1" type="person">Shakespeare</ref> wrote but the most people do not like it.</s>
+        <s>In my opinion school tries to keep <ref target="c12gk3_1" type="person">Shakespeare</ref> relevant for everyone but it is not for the most people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

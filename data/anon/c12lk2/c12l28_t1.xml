@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l28_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Like the waves making way towards the show</l>
+            <l>So do our time come to an end,</l>
+            <l>Each moment replacing those made before,</l>
+            <l>workig hard towards feeling happiness.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l><name type="person">Jesus</name> birth, once in the spotlight,</l>
+            <l>Slowly grows older while being praised,</l>
+            <l>Slight insight into his victorious fight,</l>
+            <l>And the giving time does now reveal <choice><orig>it's</orig><reg>its</reg></choice> gifts.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>Time changes the view set on youth</l>
+            <l>And hides the <choice><orig>paralles</orig><reg>parallels</reg></choice> of the most beauty,</l>
+            <l>Takes advantage of nature rarities,</l>
+            <l>And nothing stands but his scythe to cut grass.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>In times of hope my love should stay,</l>
+            <l>Praising your worth, despite his cruel hand.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

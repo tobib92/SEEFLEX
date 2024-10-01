@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> uses different kinds of rhetorical devices to convince the audience to take action against the climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> what's his speech with a comparison to the famous <name type="person">James Bond</name> movies.</s>
+        <s>In these films <name type="person">Bond</name> needs to save the world while running out of time.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> draws a line to the current situation of the world and underlines the importance of a reaction to the climate change in order to save many lives.</s>
+      </p>
+      <p>
+        <s>He continues his speech by a view on history to the <name type="geo">Paris</name> climate <choice><orig>aggreement</orig><reg>agreement</reg></choice>.</s>
+        <s>He states that the <name type="misc">COP26</name> in <name type="geo">Glasgow</name> needs to be the <quote>moment when we get real about climate change</quote> <ref target="b12gk1_1" type="line">(ll. 14-15)</ref>.</s>
+        <s>By using inclusive language the audience gets included and it gets obvious that the climate change is a <choice><orig>probleme</orig><reg>problem</reg></choice> for the whole world.</s>
+      </p>
+      <p>
+        <s>He continues his text by an outlaw of the necessary deeds of governments and people around the world.</s>
+        <s>The industrialized countries <choice><orig>aggreed</orig><reg>agreed</reg></choice> to spend a hundred billion a year to help poorer countries achieving their climate aims.</s>
+        <s>According to <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> the private sector needs to get included to investments into <choice><orig>climat</orig><reg>climate</reg></choice> friendly future.</s>
+        <s>He underlines this statement by giving examples from his own country: <quote>it why is the private sector that an evil of the UK to end our dependence of coal [...]</quote> <ref target="b12gk1_1" type="line">(l. 28)</ref>.</s>
+      </p>
+      <p>
+        <s>In the following paragraphs of his speech he points out the responsibility the leaders of the world have for a future generations.</s>
+        <s>They are going to look back to the <name type="misc">COP26</name> in <name type="geo">Glasgow</name> and judge the conference as the <quote>historic turning point when history failed to turn</quote> <ref target="b12gk1_1" type="line">(l. 41)</ref>.</s>
+        <s>Due to this responsibility we have the duty to act now and to change things.</s>
+      </p>
+      <p>
+        <s>In the last paragraphs he makes clear that he is full of hope that we can start a change today.</s>
+        <s>All assumptions for a reaction to the climate change are already <choice><orig>their</orig><reg>there</reg></choice> like technology, ideas, <choice><orig>coorporations</orig><reg>corporations</reg></choice> and NGOs <ref target="b12gk1_1" type="line">(l. 46+47)</ref>.</s>
+        <s>He underlines the statement on a language level by using the repetition of the same structure of sentence over again.</s>
+        <s><quote>we have...</quote><ref target="b12gk1_1" type="line">(l. 46+47)</ref>.</s>
+        <s>These structures of sentences can also called ellipses which <choice><orig>increases</orig><reg>increase</reg></choice> the attention of the audience to his statements.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> ends his text by <choice><orig>refering</orig><reg>referring</reg></choice> back to the beginning of his speech.</s>
+      </p>
+      <p>
+        <s><choice><orig>Their</orig><reg>There</reg></choice> is no bomb like in the movies but <choice><orig>Their</orig><reg>There</reg></choice> is a climate change who will <choice><orig>destroys</orig><reg>destroy</reg></choice> many lives.</s>
+      </p>
+      <p>
+        <s>He tells the audience that we as the <choice><orig>habitans</orig><reg>habitants</reg></choice> of the world can achieve a change of the crisis when we start acting now.</s>
+      </p>
+      <p>
+        <s>In his speech <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> uses rhetorical devices to convince the audience of the need to take action now.</s>
+        <s>He underlines our responsibility for future generations and spreads the hope of the chance to solve the crisis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

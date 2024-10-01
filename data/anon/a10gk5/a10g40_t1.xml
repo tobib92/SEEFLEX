@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g40_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> published in <name type="misc">Blog on Environment</name> on <date>February 5, 2014</date> deals with the causes and effects of globalised environmental pollution by humans.</s>
+      </p>
+      <p>
+        <s>The author claims that the effects of pollution are hazardous.</s>
+        <s>The life on our world is dependent of the basic elements.</s>
+        <s>Therefore, she assumes that the age of science and technology are causes for polluting the environment: the urbanization and industrialization.</s>
+        <s>The author believes that we begin losing control and become victim of our own creation.</s>
+        <s>Furthermore, the effects are huge on plants, animal and human life.</s>
+        <s>In her opinion the industrial progress, science and technology had been at the cost of our health.</s>
+        <s>She states that there are several causes that must be eliminated.</s>
+        <s>If people won't do something against this immediately there will no longer be life on our planet.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

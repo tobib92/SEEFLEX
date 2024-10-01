@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g29_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The editorial <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> by <ref target="a12gk3_1" type="author">John Worne</ref> which was published <date>27 January 2015</date> in <name type="misc">The Telegraph</name> concerns the topic of learning international languages in the <name type="geo">UK</name>, more specifically the decreasing number of students who study foreign languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> introduces his aritcle by stating that people in the <name type="geo">UK</name> do not see the need to learn any languages other than English.</s>
+      </p>
+      <p>
+        <s>As <choice><orig>studys</orig><reg>studies</reg></choice> show, the number of students studying English is steadily declining, even though primary school as well as universities now offer other languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> presents arguments of those who oppose their view, for example that everyone in the world of business speaks English or that you can use your phone for translations.</s>
+      </p>
+      <p>
+        <s>They say that it is important to learn foreign languages for a number of things, including trade, diplomacy and national security.</s>
+        <s>Especially in the job market there's more demand for qualified people with foreign language skills then for those without.</s>
+        <s>In <ref target="a12gk3_1" type="author">Worne's</ref> opinion there is a need to change the British people's attitude towards learning other languages which can be achieved through a cultural shift in the parental influence as well as through the school and education system.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

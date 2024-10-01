@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g46_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk3_1" type="scene">Act 1, Scene 7</ref> from <ref target="c12gk3_1" type="title">Macbeth</ref> by <ref target="c12gk3_1" type="author">William Shakespeare</ref> is about <choice><orig>a</orig><reg>an</reg></choice> argument between <ref target="c12gk3_1" type="character">Macbeth</ref> and <ref target="c12gk3_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>In the following text <choice><orig>i</orig><reg>I</reg></choice> summarise this scene.</s>
+      </p>
+      <p>
+        <s>The argument between <ref target="c12gk3_1" type="character">Macbeth</ref> and <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is over the murder from <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref><choice><orig>wan't</orig><reg>wants</reg></choice> to kill him before he met the witches, but after that in this scene he doesn't want to do it anymore, so he argues with <ref target="c12gk3_1" type="character">Lady Macbeth</ref>, <choice><orig>becuse</orig><reg>because</reg></choice> she wants that <ref target="c12gk3_1" type="character">Macbeth</ref> kills <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> made a plan in this scene and motivated him to kill <surplus>kill</surplus> <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>She says what she does for him with the children <add>(or child)</add> and what he has to do for her now.</s>
+        <s>She <choice><orig>want</orig><reg>wants</reg></choice> that <ref target="c12gk3_1" type="character">Macbeth</ref> is <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Scotland</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

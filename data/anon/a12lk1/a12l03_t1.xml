@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l03_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem <ref target="a12lk1_1" type="title">Sonnet 138</ref> by <ref target="a12lk1_1" type="author">William Shakespeare</ref> was published in <date>1609</date>.</s>
+        <s>It is concerned with the phenomenon of unhonesty in love, as the lyrical I admires his beloved person for the way she is regardless.</s>
+      </p>
+      <p>
+        <s>The poem's thesis is presented in the first quatrain, being the lyrical I's love insisting that she is truthful.</s>
+        <s>The <choice><orig>speakers</orig><reg>speaker's</reg></choice> initial reaction to the thesis is to deny it by indicating what she might be lying about and also why that is.</s>
+        <s>The second quatrain continues the argument; the speaker judges his beloved person for knowing of his imperfections as for him being old.</s>
+        <s>He says that because of him being the only one trusting her, he reciprocrates.</s>
+      </p>
+      <p>
+        <s>The Volta is introduced in the third quatrain, stating the new argument; that love functions like this and the aspects above being the good part of it.</s>
+        <s>The conclusion <gap reason="illegible" quantity="1" unit="word">mlust</gap> rates the acceptance, resulting in a stronger bond between the lyrical I and the beloved person.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

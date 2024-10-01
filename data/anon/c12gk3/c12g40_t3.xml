@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g40_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <kinesic>
+          <desc>hmm</desc>
+        </kinesic>
+        <s>Maybe my wife is right and we should kill <ref target="c12gk3_1" type="character">Duncan</ref> while he sleeps.</s>
+        <s>But what is the plan if the <choice><orig>chamberlians</orig><reg>chamberlains</reg></choice> are not so drunk than we thought and they see us killing <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>And also what should the people think if they know that my wife and I are <choice><orig>murders</orig><reg>murderers</reg></choice>... Nobody wants a <choice><orig>murder</orig><reg>murderer</reg></choice> as a <choice><orig>King</orig><reg>king</reg></choice>... So if we <choice><orig>realy</orig><reg>really</reg></choice> kill <ref target="c12gk3_1" type="character"><choice><orig>Dunkan</orig><reg>Duncan</reg></choice></ref> <choice><orig>than</orig><reg>then</reg></choice> there <choice><orig>have</orig><reg>has</reg></choice> to be a <choice><orig>realy</orig><reg>really</reg></choice> safe plan.</s>
+        <s>We are not allowed to get catched.</s>
+        <s>That is so important and that is the point where I get insecure!</s>
+        <s>If the plan from <ref target="c12gk3_1" type="character">Lady <choice><orig>Macbath</orig><reg>Macbeth</reg></choice></ref> is <choice><orig>realy</orig><reg>really</reg></choice> good then I would say <choice><abbr>ok</abbr><expan>okay</expan></choice> let's do it but I am not <choice><orig>realy</orig><reg>really</reg></choice> sure about the plan.</s>
+        <s>Maybe I have to sleep and think about it for one or two days.</s>
+        <s>It is a <choice><orig>realy</orig><reg>really</reg></choice> risky plan so it is important to <choice><orig>speek</orig><reg>speak</reg></choice> also <foreign xml:lang="de">mit</foreign> <ref target="c12gk3_1" type="character">Macbeth</ref> again.</s>
+        <s>So <choice><orig>than</orig><reg>then</reg></choice> nothing could go wrong.</s>
+        <s>Now, during I sit here doing nothing and think about my <choice><orig>futur</orig><reg>future</reg></choice> I notice that I <choice><orig>realy</orig><reg>really</reg></choice> <choice><orig>realy</orig><reg>really</reg></choice> <choice><orig>realy</orig><reg>really</reg></choice> want to become king... And maybe there is no other plan that is better than the plan from <ref target="c12gk3_1" type="character">Lady Macbeth</ref>.</s>
+        <s>But if I think about it for a few days I have nothing to lose right?</s>
+        <s>Or maybe then it is <choice><orig>to</orig><reg>too</reg></choice> <choice><orig>lait</orig><reg>late</reg></choice>?</s>
+        <s>Noo why should it be <choice><orig>to</orig><reg>too</reg></choice> late.</s>
+      </p>
+      <p>
+        <s><kinesic><desc>ah</desc></kinesic> wait I have to think about how we kill him.</s>
+        <s>With a <foreign xml:lang="de">Dolch</foreign> or with a knife or maybe with a gun... No gun would be too loud so I think it is a good idea to use a <foreign xml:lang="de">Dolch</foreign>.</s>
+        <s>But the next question <foreign xml:lang="de">ist</foreign> where should I go with the <foreign xml:lang="de">Dolch</foreign>?</s>
+        <s>Should I lay it down on the <choice><orig>flor</orig><reg>floor</reg></choice> next to him?</s>
+        <s>Or bring it in the bathroom to wash it?</s>
+        <s>I think I also have to wash my fingers after kill him.</s>
+        <s>Because of the blood.</s>
+        <s>But what is when there are my fingerprints on the <foreign xml:lang="de">dolch</foreign> and they find them and kill me because they knew that I kill <ref target="c12gk3_1" type="character">Duncan</ref>...</s>
+      </p>
+      <p>
+        <s>Anyways now maybe I think it is actually a good plan from <ref target="c12gk3_1" type="character">Lady Macbeth</ref>.</s>
+        <s>But I <choice><orig>realy</orig><reg>really</reg></choice> have to talk with her again about it!</s>
+        <s>Yes, I think it is a good idea!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

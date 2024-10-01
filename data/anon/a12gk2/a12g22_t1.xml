@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g22_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><choice><orig>in</orig><reg>In</reg></choice> the given opinion piece <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> <ref target="a12gk2_1" type="author">John Worne</ref> <choice><orig>explaines</orig><reg>explains</reg></choice> the situation with foreign language learning in the <name type="geo">UK</name>  and his opinion about it.</s>
+      </p>
+      <p>
+        <s>According to <ref target="a12gk2_1" type="author">Worne</ref> since seven years fewer and fewer students are willing to study foreign languages at university level.</s>
+        <s>Although more primary schools teach foreign languages the exam results have <choice><orig>stacknated</orig><reg>stagnated</reg></choice>, and the number of exams has declined since <date>1990</date>, while there was even an increase before <date>1990</date>.</s>
+        <s>Since many people think the ability to speak foreign languages is getting less important, because of reasons like smart tech or the fact that <choice><orig>english</orig><reg>English</reg></choice> is an international language, <ref target="a12gk2_1" type="author">Worne</ref> states that he thinks this is completely wrong.</s>
+        <s>The reason for his opinion is that most of the <name type="geo">UK</name>  businesses need foreign language skills.</s>
+        <s>Hence, the lack of such skills results in dependence and less growth.</s>
+      </p>
+      <p>
+        <s>The only good aspect <ref target="a12gk2_1" type="author">Worne</ref> sees is that some universities offer to students to study foreign languages as well <add><choice><orig>along side</orig><reg>alongside</reg></choice></add>.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> also thinks that it is necessary that students and parents do more to learn <choice><orig>ore</orig><reg>or</reg></choice> foster the learning of foreign languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

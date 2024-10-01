@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g20_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey ...!</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>I hope you and your family are fine and healthy.</s>
+        <s>I heard that you will spend a year in <name type="geo">Germany</name> in <name type="geo">Berlin</name> after school.</s>
+        <s>That's very nice.</s>
+        <s>We can do <choice><orig>lot's</orig><reg>lots</reg></choice> of things here and also it is a good decision to come to <name type="geo">Berlin</name>.</s>
+        <s>I want to tell you something about <name type="geo">Berlin</name>.</s>
+        <s>Maybe you have a better impression of the city.</s>
+        <s>So firstly <name type="geo">Berlin</name>, the capital of <name type="geo">Germany</name>, is very big and <choice><orig>their</orig><reg>there</reg></choice> it will be spoken English too.</s>
+        <s>The city has a lot in common with <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name>.</s>
+        <s>In each year many tourists, students or workers from <name type="geo">America</name>, <name type="geo">Austria</name> or <name type="geo"><choice><orig>Greatbritain</orig><reg>Great Britain</reg></choice></name> <choice><orig>comes</orig><reg>come</reg></choice> to <name type="geo">Berlin</name>, <gap reason="illegible" quantity="1" unit="word">nurmy</gap> of them <gap reason="illegible" quantity="1" unit="word">stunds</gap> here.</s>
+        <s><name type="geo">Berlin</name> is a multicultural city.</s>
+        <s>As example <name type="geo">Neukölln</name> or <name type="geo">Kreuzberg</name> are parts of <name type="geo">Berlin</name> where lots of people ive, who are coming from other countries like <name type="geo">Turkey</name> or <choice><orig>Northafrician</orig><reg>North African</reg></choice> parts.</s>
+        <s>By spending time, you finds lots of traces of immigrants, which came in the past time.</s>
+        <s>To can speak English is an advantage in <name type="geo">Berlin</name>, because in some places you can communicate only in English like if you go to eat something like <foreign xml:lang="de">Döner</foreign> or <gap reason="illegible" quantity="1" unit="word">durgor</gap>etc.</s>
+        <s>Sometimes the restaurants are only in English.</s>
+      </p>
+      <p>
+        <s>I <choice><orig>red</orig><reg>read</reg></choice> an article, where somebody said that <name type="geo">Berlin</name> is differently to the other cities of <name type="geo">Germany</name>.</s>
+        <s>And it is true.</s>
+        <s><name type="geo">Berlin</name> is a very multicultural city with very friendly people.</s>
+        <s>Also here are <choice><orig>worker</orig><reg>workers</reg></choice> from <name type="geo">England</name> and they are happy to be here and work with lots of people from many countries.</s>
+        <s>Shops and restaurants, which have goods from <name type="geo">England</name> or other things <choice><orig>be</orig><reg>are</reg></choice> in <name type="geo">Berlin</name> too.</s>
+        <s><name type="geo">Berlin</name> is a nice city.</s>
+        <s>Art, culture or nightlife.</s>
+        <s>You can find all of that here so you have a nice feeling as a young people here.</s>
+        <s>A nice advantage for your <gap reason="illegible" quantity="1" unit="word">resches</gap> is that the rents in <name type="geo">Berlin</name> are very low.</s>
+        <s>So it's better for you, because after school you don't have lots of money.</s>
+      </p>
+      <p>
+        <s>All in all it would be a nice experience for you and we can spend lot of time and visit cool places like stadium of <name type="geo">Berlin</name>, museums or eat a nice <foreign xml:lang="de">Döner</foreign>.</s>
+      </p>
+      <p>
+        <s>I hope you are convinced of my points.</s>
+        <s>Write me an email back and give me feedback to your opinion.</s>
+        <s>I would be very pleased of your visit.</s>
+        <s>Regards to your family.</s>
+        <s>See you.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

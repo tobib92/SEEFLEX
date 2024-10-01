@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g07_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt from the novel <ref target="a11gk1_1" type="title">The Hate U Give</ref> which was written by <ref target="a11gk1_1" type="author">Angie Thomas</ref> and published in <date>2017</date>.</s>
+        <s>In this excerpt, <ref target="a11gk1_1" type="author">Thomas</ref> describes a <choice><orig>protestation</orig><reg>protest</reg></choice> for justice for <name type="person">Khalil</name>, a situation <name type="person">Starr</name> finds herself in.</s>
+        <s>Throughout the text, you can see <name type="person">Starr's</name> development.</s>
+      </p>
+      <p>
+        <s>Right at the beginning, while she arrives to the <choice><orig>protestation</orig><reg>protest</reg></choice>, she gets a flashback of the situation on <name type="person">Khalil's</name> death.</s>
+      </p>
+      <p>
+        <s>Everyone around is screaming the words <quote>A hairbrush is not a gun</quote> and at the moment in which <name type="person">Starr</name> gets back to reality, she also starts screaming that words.</s>
+        <s>Her attorney, <name type="person">Mrs. Ofrah</name> is very confused about <name type="person">Starr's</name> behaviour and asks, what she is doing right now.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> has decided to do something, not even longer talking or watching, she wants to fight for justice for <name type="person">Khalil</name> with everything she has.</s>
+      </p>
+      <p>
+        <s>In a dialogue with <name type="person">Mrs. Ofrah</name> she explains her the goal she is following.</s>
+      </p>
+      <p>
+        <s>As a reaction, <name type="person">Mrs. Ofrah</name> gives <name type="person">Starr</name> her bullhorn, to give <name type="person">Starr</name> her voice.</s>
+        <s>First she's afraid but then screams into the bullhorn and <choice><orig>explain</orig><reg>explains</reg></choice> everybody <name type="person">Khalil</name> lived and that his life mattered.</s>
+      </p>
+      <p>
+        <s>Furthermore she <choice><orig>talkes</orig><reg>talks</reg></choice> the first time about the fact, that she was the girl, that saw <name type="person">Khalil</name> dying.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

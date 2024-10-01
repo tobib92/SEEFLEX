@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g49_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this scene <ref target="c12gk3_1" type="character">Lady Macbeth</ref> convinces her husband, and <choice><orig>therefore</orig><reg>therefore</reg></choice> <ref target="c12gk3_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> makes use of a special language and uses as many stylistic <choice><orig>divices</orig><reg>devices</reg></choice> as he can, so the reader <choice><orig>understand</orig><reg>understands</reg></choice> why <ref target="c12gk3_1" type="character">Macbeth</ref> gets persuaded by his wife in the end.</s>
+      </p>
+      <p>
+        <s>First of all it <choice><orig>stand</orig><reg>stands</reg></choice> out that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> says the most in this scene, but <ref target="c12gk3_1" type="character">Macbeth</ref> says only one or two sentences to answer his wife <ref target="c12gk3_1" type="line">(l. 20f., l. 37)</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is speak first, <ref target="c12gk3_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> uses a <choice><orig>lots</orig><reg>lot</reg></choice> of rhetorical questions, like <quote>Was the hope drunk [...]?</quote>, so that <ref target="c12gk3_1" type="character">Macbeth</ref> does not to answer on all these questions, because <ref target="c12gk3_1" type="character">Lady Macbeth</ref> does it before.</s>
+      </p>
+      <p>
+        <s>Therefore <ref target="c12gk3_1" type="character">Lady Macbeth</ref> says to her husband, that he is a coward <ref target="c12gk3_1" type="line">(l. 16)</ref> and no man in the early <date>11th century</date> wants to be a coward, so <ref target="c12gk3_1" type="character">Macbeth</ref> gets a little bit angry, because he wants to be brave and not a coward.</s>
+      </p>
+      <p>
+        <s><choice><orig>More over</orig><reg>Moreover</reg></choice><ref target="c12gk3_1" type="character">Lady Macbeth</ref> compares <ref target="c12gk3_1" type="character">Macbeth</ref> with a cat <ref target="c12gk3_1" type="line">(l. 17f.)</ref> and a cat is not what <ref target="c12gk3_1" type="character">Macbeth</ref> wants to be compare with.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> wants to be a king, but he does not want to murder <ref target="c12gk3_1" type="character">Duncan</ref> at this moment.</s>
+      </p>
+      <p>
+        <s>In this part <ref target="c12gk3_1" type="line">(l. 8 to l. 18)</ref> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> doubts on the male of her husband, so that his pride is kind of broken and he wants to get it back.</s>
+      </p>
+      <p>
+        <s>In the second part <ref target="c12gk3_1" type="author">Shakespeare</ref> makes use of a climax <add>(<quote>you were a man</quote> <ref target="c12gk3_1" type="line">(l. 26)</ref>, <quote>to be more than what you were</quote> <ref target="c12gk3_1" type="line">(l. 27)</ref> <quote>and so much more than a man</quote> <ref target="c12gk3_1" type="line">(l. 28)</ref>)</add></s>
+      </p>
+      <p>
+        <s>This climax convinces <ref target="c12gk3_1" type="character">Macbeth</ref> a little bit more because he gets a mental pictures, which shows how he is the new <choice><orig>king</orig><reg>King</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The repetition of <quote>time</quote> <ref target="c12gk3_1" type="line">(l. 28)</ref> and <quote>place</quote> <ref target="c12gk3_1" type="line">(l. 28)</ref> <choice><orig>underline</orig><reg>underlines</reg></choice> that no time is the right time and no place is the right place.</s>
+      </p>
+      <p>
+        <s>So <ref target="c12gk3_1" type="character">Macbeth</ref> <choice><orig>think</orig><reg>thinks</reg></choice> over what he says before and starts to think over the argument with <ref target="c12gk3_1" type="character">Duncan</ref>, that show his answer to <ref target="c12gk3_1" type="character">Lady Macbeth</ref> second part, because he thinks that they could fail too.</s>
+      </p>
+      <p>
+        <s>To flow away all the doubts, that <ref target="c12gk3_1" type="character">Macbeth</ref> has, she <choice><orig>explain</orig><reg>explains</reg></choice> the very good plan again to him <ref target="c12gk3_1" type="line">(l. 39-53)</ref>, so he gets <choice><orig>presuade</orig><reg>persuaded</reg></choice> <choice><orig>completly</orig><reg>completely</reg></choice>.</s>
+      </p>
+      <p>
+        <s>For telling the plan <ref target="c12gk3_1" type="character">Lady Macbeth</ref> <choice><orig>use</orig><reg>uses</reg></choice> a contrast first, which has to encourage <ref target="c12gk3_1" type="character">Macbeth</ref> to murder <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>While explain the plan <ref target="c12gk3_1" type="character">Lady Macbeth</ref> also explains why they cannot fail, so that her husband <choice><orig>think</orig><reg>thinks</reg></choice> it is impossible to lose the war.</s>
+      </p>
+      <p>
+        <s>And at least she <choice><orig>ask</orig><reg>asks</reg></choice> him why they should fail either, with this good plan in their hands.</s>
+      </p>
+      <p>
+        <s>So that <ref target="c12gk3_1" type="character">Macbeth</ref> is convince at the end of the act.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="c12gk3_1" type="character">Lady Macbeth</ref> persuades her <choice><orig>husbands</orig><reg>husband</reg></choice> in three steps.</s>
+        <s>The first step is that <ref target="c12gk3_1" type="character">Macbeth</ref> gets a <choice><orig>bed</orig><reg>bad</reg></choice> mental health, because of his broken male, when he does not murder the still present King <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Than</orig><reg>Then</reg></choice> she refutes his argument, that the right time and right place is not yet.</s>
+        <s>And at least, she convinces him with the plan, which is impossible to fail.</s>
+        <s>Therefore <ref target="c12gk3_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> makes use of many <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question, one climax, a contrast, some simile for example the cat or the baby in the second part.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g28_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>On a visit to <name type="geo">Istanbul, Turkey</name> <ref target="c10gk2_1" type="speaker">Barack Obama</ref> gave a speech on the importance of intercultural understanding and student exchange.</s>
+        <s>Next I will briefly summarise his view and mentioned goals as well as effects.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> overviews the topic as very important and speaks out his price.</s>
+        <s>As his goal the <choice><orig>president</orig><reg>President</reg></choice> declares to find new ways to connect young Americans with young people from all over the world in connection to education.</s>
+        <s>Besides speaking out his goal he also talks about <choice><orig>it's</orig><reg>its</reg></choice> positive effects.</s>
+        <s>Losing mutual prejudices and problems one thing he says.</s>
+        <s>Moreover, he talks about the beginning progress as we join together by our <choice><orig>similaritys</orig><reg>similarities</reg></choice>.</s>
+        <s>Lastly he outlines our opportunity of crossing our future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

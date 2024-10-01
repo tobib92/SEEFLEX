@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g14_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The most people know that Fast Fashion is in some kind bad.</s>
+        <s>But actually why?</s>
+        <s><choice><orig>An</orig><reg>And</reg></choice><choice><orig>do</orig><reg>does</reg></choice> Fast Fashion also effect our lives?</s>
+        <s>In this article these questions will get answered.</s>
+        <s>The article is based on a <choice><orig>german</orig><reg>German</reg></choice> <choice><orig>articel</orig><reg>article</reg></choice> <choice><orig>titeled</orig><reg>titled</reg></choice> <ref target="a10gk2_2" type="title">Fast Fashion: Unser Kleiderkonsum ist Wahnsinn</ref> from the <name type="misc">Spiegel</name> <choice><orig>magazin</orig><reg>magazine</reg></choice>.</s>
+      </p>
+      <p>
+        <s>A lot of textile products are produced in <name type="geo"><choice><orig>Bangladesch</orig><reg>Bangladesh</reg></choice></name>.</s>
+        <s>In one city in <name type="geo"><choice><orig>Bangladesch</orig><reg>Bangladesh</reg></choice></name> are up to 4000 textile fabrics.</s>
+      </p>
+      <p>
+        <s>A lot of them dispose <choice><orig>there</orig><reg>their</reg></choice> effluents in the rivers what causes in high pollution.</s>
+      </p>
+      <p>
+        <s>Also the working conditions of the workers in <name type="geo"><choice><orig>bangladesch</orig><reg>Bangladesh</reg></choice></name> are bad.</s>
+      </p>
+      <p>
+        <s>They are working twelve hours a day and have only one free day in the week.</s>
+      </p>
+      <p>
+        <s>A lot of people think that the solution is the boycott of textiles produced in <name type="geo"><choice><orig>bangladesch</orig><reg>Bangladesh</reg></choice></name>.</s>
+        <s>But more sustainable would be to support the few labels which are giving good working conditions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

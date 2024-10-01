@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g28_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">Bianca</name> in <name type="geo">India</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>In today article I want to report about my friend <name type="person">Bianca's</name> experiences with volunteering an <name type="misc">Education Center</name> for children, located in a slum of <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca's</name> day starts at 8:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> where she wakes up and then works up until 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>During this time she has a variety of activities to do with the local children.</s>
+      </p>
+      <p>
+        <s>Now talking about the children she phrases they were the best thing about her voluntery.</s>
+        <s>She says she had lost her heart to them.</s>
+        <s>Seeing their lust and love for life after having such traumatising backgrounds amazes her.</s>
+        <s>They're laughing, experiencing and mostly just having fun all together.</s>
+      </p>
+      <p>
+        <s>In conclusion to her voluntery <name type="person">Bianca</name> states how she had felt many emotions with the children, saying they were almost all positive.</s>
+      </p>
+      <p>
+        <s>Besides everything <name type="person">Bianca</name> is very thankful for the children.</s>
+        <s>Love, hope etc. is what they made her feel.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l15_t3</author>
+        <name>letter_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear William,</salute>
+      </p>
+      <p>
+        <s>A few days ago I've come <choice><orig>accross</orig><reg>across</reg></choice> a very old ladder at my <choice><orig>grandparents</orig><reg>grandparent's</reg></choice> attic.</s>
+        <s>When I opened it, I saw that the letter contains <ref target="c12lk1_1" type="title">Sonnet 65</ref> written by you.</s>
+        <s>I was very interested in how old the letter was until I realized you addressed the letter to the future <choice><orig>descendantes</orig><reg>descendants</reg></choice> of my family, which is me.</s>
+        <s>Even <choice><orig>tough</orig><reg>though</reg></choice> your body is dead for a while now, I'm sure your soul will read my response.</s>
+      </p>
+      <p>
+        <s>In general I wanted to say that I liked the sonnet very much even though it was hard to read at some points.</s>
+        <s>I think that the topic you mentioned is a topic which everyone can relate to.</s>
+        <s>I liked how you included several metaphors to characterize the youth or the time.</s>
+        <s>While I read the sonnet many pictures came to my head and I imagined the situation very well just because you described the fears of vanishing so well.</s>
+      </p>
+      <p>
+        <s>I do not want to sound like an admirer but I really do think that the way you wrote your texts is very unique.</s>
+        <s>I have barely come <choice><orig>accross</orig><reg>across</reg></choice> writers that managed to write as much ahead of their time as you did.</s>
+        <s>In addition to that your sonnet, addressed to me, reminds me on how short  my life actually is and I think it's outstanding that you managed to do that with only 14 lines.</s>
+        <s>Even though some people say your sonnets are always the same, I personally think that each of them is unique in their very own way.</s>
+        <s>Maybe you already know it but you as a character still <choice><orig>is</orig><reg>are</reg></choice> one of the most famous authors in the whole world.</s>
+        <s>Your extraordinary work managed to be still relevant today, the <choice><orig>21th</orig><reg>21st</reg></choice> century.</s>
+        <s>The lyrical genius of you is remarkable because you have shaped the English language.</s>
+        <s>When somebody speaks English today it is nearly impossible to say a sentence without using the word that you invented.</s>
+        <s>As I already said in the beginning I still could relate to the topics of the sonnet.</s>
+        <s>I am also not the only one who is able to do that.</s>
+        <s>All of the topics in your sonnets are timeless and almost everyone still worries about them daily.</s>
+        <s>Your influence is bigger than you might have thought during your lifetime.</s>
+        <s>There are even moons flying around Jupiter who are named after characters out of your plays.</s>
+      </p>
+      <p>
+        <s>The plays you wrote are still significant in every good theater and every student has already read at least one of your plays.</s>
+      </p>
+      <p>
+        <s>Even if you probably cannot read this response, I will send it to the <name type="misc">CLub Guiletta</name> anyways.</s>
+        <s>It is a club honoring the play <name type="misc">Romeo and Juliet</name> you wrote, which helps many people who go through a hard time.</s>
+      </p>
+      <p>
+        <s>This whole response might have sounded like a whole declaration of love to you but I hope that you understood how important you were for language in general and how huge your influence on us still is today.</s>
+      </p>
+      <p>
+        <signed>Sincerely, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

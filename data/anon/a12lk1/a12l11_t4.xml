@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l11_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>The <name type="misc">Shakespeare German Society</name></s>
+        <s>How did <name type="person">Shakespeare's</name> work found its way to <name type="person">Goethe's</name> country?</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>As a student, I'm taking a part in an international school project called <name type="misc">Global Shakespeare</name>, which I found really interesting.</s>
+        <s>That's why I'm going to give you some basic information from <choice><orig>an</orig><reg>a</reg></choice> German article I have found about how <name type="person">Shakespeare's</name> work got known in <name type="geo">Germany</name> and relationship between the city <name type="geo">Weimar</name> and <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>150 years ago <name type="person">Christoph Martin Wieland</name>, a <choice><orig>german</orig><reg>German</reg></choice> translator made <name type="person">Shakespeare</name> popular in <name type="geo">Germany</name>.</s>
+        <s>From <date>1762</date> to <date>1766</date>, he <choice><orig>tranlated</orig><reg>translated</reg></choice> and published 22 <name type="person">Shakespeare's</name> dramas and that's when Germans found about his <choice><orig>insprational</orig><reg>inspirational</reg></choice> work.</s>
+        <s>It is very surprising that before <date>18th century</date> <name type="person">Shakespeare</name> wasn't famous in German society.</s>
+        <s>It was because of the lack of translation in <name type="geo">Germany</name>.</s>
+        <s>However <name type="person">Christoph Martin Wieland</name> made <name type="person">Shakespeare</name> in <name type="person">Goethe's</name> city <name type="geo">Weimar</name> well-known.</s>
+        <s><choice><orig>Nowaday</orig><reg>Nowadays</reg></choice>, there are many translated <name type="person">Shakespeare's</name> dramas but <name type="person">Wieland's</name> <choice><orig>work's</orig><reg>works</reg></choice> still one of the best.</s>
+      </p>
+      <p>
+        <s>Moreover, on <date>8th April 1864</date> <name type="person">Sophie's</name> birthday were <name type="misc">Verein der Shakespeare Freunde</name>, which word for word translated means Club of Shakespeare's friends.</s>
+        <s><name type="person">Shakespeare's</name> statue made by <name type="person">Otto Lessing</name> is since <date>1998</date> known as <name type="misc">Unesco-Weltkulturerbe</name> or in English <name type="misc">Unesco-world culture inheritance</name>.</s>
+        <s>As <name type="person">Shakespeare</name> is also for me <choice><orig>on</orig><reg>one</reg></choice> of the world's best <choice><orig>playwrighters</orig><reg>playwrights</reg></choice> and I'm a fan of his work, let me know your opinion on this post and tell me in the comment section if he is also popular in your home town.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

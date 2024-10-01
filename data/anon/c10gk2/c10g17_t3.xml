@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g17_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think, that <ref target="c10gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> statement <quote>simple exchanges can break down walls between us</quote> is a good way to image the cultural differences that still exist in <choice><orig>todays</orig><reg>today's</reg></choice> world.</s>
+        <s>Take something like somebody who just came to <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> but doesn't speak a single word of <choice><orig>german</orig><reg>German</reg></choice>.</s>
+        <s>They don't know how to express themselves, so there is a big cultural barrier between this person and the <choice><orig>germans</orig><reg>Germans</reg></choice>.</s>
+        <s>But throughout exchanges, this person has somebody to talk to and learn the language so these cultural barriers have taken and the <quote>walls between us</quote> are broken.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

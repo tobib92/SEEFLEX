@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g28_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Daria,</salute>
+      </p>
+      <p>
+        <s>I received your <choice><orig>E-Mail</orig><reg>e-mail</reg></choice>.</s>
+        <s>Thank you I'm fine.</s>
+        <s>How are you?</s>
+      </p>
+      <p>
+        <s>So <name type="misc">KLS goes green</name> is a project, where our school wants to show young people and also the teachers the importance of environmental protection.</s>
+      </p>
+      <p>
+        <s>It is a day, where students don't have to go to school.</s>
+        <s>In this time they visit workshops, where they learn how to get environmentally friendly and for example reduce pollution.</s>
+      </p>
+      <p>
+        <s>In the newspaper article they also say, that the most students were very intersted in and liked the workshops.</s>
+      </p>
+      <p>
+        <signed>Best regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

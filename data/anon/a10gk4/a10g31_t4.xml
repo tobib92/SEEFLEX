@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g31_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hallo John,</salute>
+      </p>
+      <p>
+        <s>regarding your interest in plastic waste and your questions regarding the German perspective on the topic, I might have got some information for you.</s>
+        <s>In the following I will give you interesting information from <choice><orig>a</orig><reg>an</reg></choice> article of the <name type="misc">Süddeutsche Zeitung</name>, which was written by <ref target="a10gk4_2" type="author">Barbara Vorsamer</ref> and published on the <date>22 February 2016</date>.</s>
+      </p>
+      <p>
+        <s>The author symbolizes the popularity of the plastic cup in <choice><orig>german</orig><reg>German</reg></choice> society and <choice><orig>discribes</orig><reg>describes</reg></choice> it as <quote>THE</quote> <choice><orig>Accessoire</orig><reg>accessory</reg></choice>, which has become a status symbol.</s>
+        <s>She then goes on giving specific numbers and data, which demonstrate the waste of <choice><orig>ressources</orig><reg>resources</reg></choice> which is caused by the use of plastic cups.</s>
+        <s>Each day 7,6 million <choice><orig>coffe-to-go</orig><reg>coffee-to-go</reg></choice> cups are thrown away in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>2,8 billion cups are thrown away each year.</s>
+        <s>The author then demonstrates the <choice><orig>imense</orig><reg>immense</reg></choice> volume of <choice><orig>Ressources</orig><reg>resources</reg></choice>, which are being used for the production of the cups and mentions the difficulty of recycling them.</s>
+        <s>Regarding possible alternatives the author has a clear <choice><orig>oppinion</orig><reg>opinion</reg></choice>.</s>
+        <s>She doesn't enjoy the use of <quote>longterm-cups</quote> and <choice><orig>adresses</orig><reg>addresses</reg></choice> the <quote>cupconsumer</quote> to rather change his <choice><orig>stressfull</orig><reg>stressful</reg></choice> lifestyle to enjoy a <choice><orig>peacefull</orig><reg>peaceful</reg></choice> cup of <choice><orig>coffe</orig><reg>coffee</reg></choice>.</s>
+      </p>
+      <p>
+        <s>I hope I can help you finish your project with this German perspective!</s>
+      </p>
+      <p>
+        <signed>Your John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

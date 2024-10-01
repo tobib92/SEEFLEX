@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g39_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <choice><orig>Chapter</orig><reg>chapter</reg></choice> 24 pp. 328-332 from the book <ref target="a11gk4_1" type="title">The Hate U Give</ref>, it really shows the development of the main character <name type="person">Starr</name>.</s>
+      </p>
+      <p>
+        <s>The scene is told by the main protagonist of the story <name type="person">Starr</name>.</s>
+        <s>She tells her story from her point of view.</s>
+        <s>That means she only knows her own feelings and <choice><orig>thougts</orig><reg>thoughts</reg></choice> that lead to a limited point of view.</s>
+        <s>You can see that she's telling the story because she's using <quote>I</quote> while telling the story.</s>
+        <s>With a <choice><orig>first person</orig><reg>first-person</reg></choice> perspective the reader is very close to the action and the reader is emotionally moved in the story.</s>
+        <s>But it can also give a limited and possible subjective point of view because the reader doesn't get the full picture of the story just only one side.</s>
+        <s>In the beginning of the <choice><orig>szene</orig><reg>scene</reg></choice> is a use of flashbacks.</s>
+        <s><name type="person">Starr</name> takes the story back in time and the scene goes back and forth between the past and present situation <ref target="a11gk4_1" type="line">(ll. 5-7,19,21,22)</ref>.</s>
+        <s>It shows how traumatised <name type="person">Starr</name> still is of <name type="person">Khalil's</name> <choice><orig>dead</orig><reg>death</reg></choice> and the <choice><orig>Flashbacks</orig><reg>flashbacks</reg></choice> got triggered by passing by the place it happened.</s>
+        <s>In line 42-44 <name type="person">Starr</name> is having an interior monologue which presents her thought.</s>
+      </p>
+      <p>
+        <s>As <name type="person">Starr</name> <choice><orig>talk</orig><reg>talks</reg></choice> in <choice><orig>first person</orig><reg>first-person</reg></choice> perspective <ref target="a11gk4_1" type="line">(ll. 30,36)</ref> you can really <choice><orig>emphasize</orig><reg>empathise</reg></choice> and feel with her.</s>
+        <s>It helps the reader to imagine the situation <name type="person">Starr</name> is in.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr's</name> character develops in this scene because in the beginning she's really shy, scared and overwhelmed but then she finds her voice <ref target="a11gk4_1" type="line">(l. 48)</ref> and is confident.</s>
+      </p>
+      <p>
+        <s>To <choice><orig>summ</orig><reg>sum</reg></choice> up this scene shows how narrative techniques can change and illustrate the <choice><orig>readers</orig><reg>reader's</reg></choice>view.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

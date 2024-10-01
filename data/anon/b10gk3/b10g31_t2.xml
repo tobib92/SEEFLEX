@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g31_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene shows the <choice><orig>encounte</orig><reg>encounter</reg></choice> between <ref target="b10gk3_1" type="character">Maverick</ref> and the police at the <choice><orig>Diner</orig><reg>diner</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The main <choice><orig>Purpose</orig><reg>purpose</reg></choice> of the scene is <ref target="b10gk3_1" type="character">Starr's</ref> character development.</s>
+        <s>The scene shows how well <ref target="b10gk3_1" type="character">Starr</ref> learned from <ref target="b10gk3_1" type="character">Khalil's</ref> death and that she knows what she has to do in such situations.</s>
+        <s>To show this purpose the director uses a static camera angle on <ref target="b10gk3_1" type="character">Starr</ref> to show every movement she is doing and saying.</s>
+        <s>To make it clear he shows the actions of the family with many cuts because they weren't in a situation like <ref target="b10gk3_1" type="character">Starr</ref> and they don't know what is the right thing to do.</s>
+      </p>
+      <p>
+        <s>Another <choice><orig>purposo</orig><reg>purpose</reg></choice> is the pressure that lies on the family from the police and the gangs.</s>
+        <s>To show that the director decides to do many hectic cuts of the encounter between <ref target="b10gk3_1" type="character">Maverick</ref> and the gang.</s>
+        <s>To make it clear that there is a constant pressure on the family the police comes in right after the gang members leave.</s>
+      </p>
+      <p>
+        <s>To sum everything up, the most important purposes are the character development of <ref target="b10gk3_1" type="character">Starr</ref>, and the constant pressure that is on the family.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

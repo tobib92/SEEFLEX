@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g66_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The quotation <quote>The limits of my language are the limits of my world</quote> by <name type="person">Ludwig Wittgenstein</name>, a <choice><orig>german</orig><reg>German</reg></choice> linguistic philosopher means probably that language is one of the most important things in life.</s>
+        <s>We can only communicate with language and communicating is essential for expressing our thoughts and feelings, so that other people can understand us.</s>
+        <s>Furthermore the metaphor with the word world could be used because it's a worldwide topic and worldwide international communication in limited by the language.</s>
+        <s>He seems to broaden his horizons only with the help of language because it's all about meeting new <choice><orig>challanges</orig><reg>challenges</reg></choice> and <surplus>and</surplus> gaining different opportunities for which language is the key in the most situations of this globalized world.</s>
+        <s>I personally agree with this statement and think that <name type="person">Wittgenstein</name> brought the meaning of it on point and for everyone to understand.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

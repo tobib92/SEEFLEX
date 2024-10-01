@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g12_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>If you read the novel <ref target="b11gk1_1" type="title">Gun Love</ref> written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in <date>2019</date> you're going to know which conditions complain <ref target="b11gk1_1" type="character">Margot</ref> and <ref target="b11gk1_1" type="character">Pearl</ref> everyday.</s>
+        <s>It is unhealthy and <choice><orig>unhygenic</orig><reg>unhygienic</reg></choice>, because of the dump surrounding the park and the dirty air <choice><orig>their</orig><reg>they're</reg></choice> breathing in, because of all the garbage.</s>
+        <s>There is also much criminality <add>(crime)</add> <choice><orig>their</orig><reg>they</reg></choice> have to be afraid of.</s>
+        <s>In fact of these points there is the question, if <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> should have taken <ref target="b11gk1_1" type="character">Pearl</ref> away from <ref target="b11gk1_1" type="character">Margot</ref> and the trailer park, put her into a foster home and help her to get a good education and prepare for a better and independent way of life.</s>
+      </p>
+      <p>
+        <s>It is <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>absolutly</orig><reg>absolutely</reg></choice> good question, because it would be a huge choice for <ref target="b11gk1_1" type="character">Pearl</ref> to be successful and reach her dreams and goals.</s>
+        <s>She would not have to worry about food, space, health or crime.</s>
+        <s>She could meet friends because she would not have to be afraid of <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> anymore.</s>
+        <s>It could be a new start for her.</s>
+        <s>But all this without her mother.</s>
+        <s><ref target="b11gk1_1" type="character">Margot</ref>, who left everything for <ref target="b11gk1_1" type="character">Pearl</ref> behind her, who teached her everything on her own.</s>
+        <s>It would be horrible for both of them.</s>
+        <s>In the fact that <ref target="b11gk1_1" type="character">Pearl</ref> never complained of the life at the trailer park.</s>
+        <s>She got used to it and way always grateful for everything she has.</s>
+        <s>It would be also a big deal comparing with <ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen's</reg></choice></ref> situation.</s>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> could go to a very bad foster family where she maybe wants to <quote>sleep forever</quote> like <ref target="b11gk1_1" type="character">Helen</ref> said.</s>
+      </p>
+      <p>
+        <s>In my opinion I think everybody at the trailer park <choice><orig>have</orig><reg>has</reg></choice> to get support from the states.</s>
+        <s>Everybody should be able to live with the same conditions that means the basic needs like sleeping in a bed, get enough food and things like that.</s>
+        <s>Maybe they could get money and live in a trailer too.</s>
+        <s><ref target="b11gk1_1" type="character">Margot</ref> could work a little bit more because they have to work for that dream.</s>
+      </p>
+      <p>
+        <s>To sum it up I don't agree with the given statement, because it would hurt them both so hard that nothing would be better.</s>
+        <s>I think they could need support a get some help from the state.</s>
+        <s>They would not worry about so many things and could live in more safety.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

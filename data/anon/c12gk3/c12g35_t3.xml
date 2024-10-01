@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g35_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>She's probably right.</s>
+        <s>I mean I promised that I would commit the murder and breaking a promise isn't something I would like to do.</s>
+      </p>
+      <p>
+        <s>And why would the witches have told me about being king if I'm then not allowed to fight for this prophecy?</s>
+      </p>
+      <p>
+        <s>No, she's right.</s>
+        <s>I have to show her that I'm still the man she fell in love with and the man who isn't scared of anything.</s>
+      </p>
+      <p>
+        <s>I have to admit that I just got to know another, a darker side of her.</s>
+        <s>This passionate look on her face, the angry voice... Okay, bringing up our awful past and using our dead son to make her point was really extreme and very ruthless, but she's right, she has never broken a promise she made to me and I won't either.</s>
+        <s>But... no I'm just freaking out again.</s>
+        <s>She loves me and would also love me if I didn't do it.</s>
+        <s>Or wouldn't she?</s>
+        <s><kinesic><desc>ah</desc></kinesic> Stop thinking about such stupid things.</s>
+        <s>Even if she would leave me, I wouldn't be surprised.</s>
+        <s>Which woman with a <choice><orig>charcacter</orig><reg>character</reg></choice> like <choice><orig>her's</orig><reg>hers</reg></choice> would want to be seen with a little boy like me?</s>
+        <s>And that's why I'm going to kill <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s>I want to be king and I want to give her the world.</s>
+        <s>She has to see that I'm not a small, stupid cat but a brave lion that fears nothing!</s>
+        <s>I have to say, I kind of like this side of her.</s>
+        <s>I didn't know that she could be so convincing and passionate and some hidden part of my heart beats for this gloomy nature...</s>
+      </p>
+      <p>
+        <s>And her plan is really good.</s>
+        <s>These stupid guards are gonna be really confused and ... Wait!</s>
+        <s>Maybe it would be good to kill them as well... I'm gonna present this idea to her later.</s>
+        <s>But I'm very sure now.</s>
+        <s>I'm going to be a real man and fight for a valuable life for my queen and my future son.</s>
+        <s>Hopefully for my son...</s>
+      </p>
+    </body>
+  </text>
+</TEI>

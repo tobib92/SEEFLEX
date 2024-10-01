@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g03_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem <ref target="c12gk1_1" type="title">Sonnet 116</ref> by <ref target="c12gk1_1" type="author">William Shakespeare</ref>, published <date>1604</date> deals with the definition of love.</s>
+      </p>
+      <p>
+        <s>The try to define what love is begins in the first <choice><orig>quartran</orig><reg>quatrain</reg></choice> the lyrical voice koncretisizes at first what love is not.</s>
+        <s>Love does not change, regardless of upcoming problems.</s>
+        <s>Moreover love is very compley.</s>
+        <s>The speaker also mentions that at every marriage the promise to overcome difficulties is getting made.</s>
+      </p>
+      <p>
+        <s>The next <choice><orig>quartrain</orig><reg>quatrain</reg></choice> focuses on the characteristics of love.</s>
+        <s>Love is always there and resembles a navigation in life.</s>
+        <s>It leads and provides stability and security.</s>
+        <s>Furthermore the value of love is not <choice><orig>comprehendiable</orig><reg>comprehensible</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The third <choice><orig>quartrain</orig><reg>quatrain</reg></choice> deals with the realtion between love and time.</s>
+        <s>Time forces changes and finality, but those rules do not work for <choice><orig>Love</orig><reg>love</reg></choice>.</s>
+        <s>Love will not change over time, even though the partner gets old and his appearance changes.</s>
+        <s>Love stays a lifetime and remains after death.</s>
+      </p>
+      <p>
+        <s>The couplet <choice><orig>concluses</orig><reg>concludes</reg></choice> the character of love and emphasizes the truth of what had been said by giving the contradictory statement, that if what he had written is wrong, he had never written and no man has ever loved.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

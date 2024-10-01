@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g49_t4</author>
+        <name>letter_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Three rich fashion bloggers work in a garment factory in <name type="geo">Cambodia</name> for a day.</s>
+        <s>They have the same, poor, conditions as the workers and are shocked.</s>
+      </p>
+      <p>
+        <s>While being in those conditions they realized that they are rich because others are poor and decided to be active against exploitment in the future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

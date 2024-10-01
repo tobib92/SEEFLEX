@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g23_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the excerpt of a speech of <ref target="c10gk2_1" type="speaker">Barack Obama</ref> he <choice><orig>speeks</orig><reg>speaks</reg></choice> <date>2009</date> in <name type="geo">Turkey</name> he <choice><orig>speeks</orig><reg>speaks</reg></choice> about going abroad for studying.</s>
+      </p>
+      <p>
+        <s>He divided his speech in four paragraphs.</s>
+        <s>In the first he tells why he is in <name type="geo">Turkey</name>, in the second how the Americans go abroad, in the third how you can save the peace and why going abroad is good and in the last one he orders the <choice><orig>Turkeys</orig><reg>Turks</reg></choice> going abroad like the Americans.</s>
+        <s>That's the structure of the excerpt.</s>
+        <s>His goal is to convince the <choice><orig>adressats</orig><reg>addressees</reg></choice> - the young <choice><orig>Turkeys</orig><reg>Turks</reg></choice> - going abroad for studying.</s>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> uses easy words and phrases that the <choice><orig>Turkeys</orig><reg>Turks</reg></choice> can understand it.</s>
+        <s>But he also uses a <choice><orig>metapher</orig><reg>metaphor</reg></choice> in l. 13: <quote>Simple exchanges can break down walls between us</quote>.</s>
+        <s>That means that if people go abroad, they learn something of the other culture and an other language, so they can think like the others in their country.</s>
+        <s>You can better make peace if you know the situation of others.</s>
+      </p>
+      <p>
+        <s>All in all it is an easy <choice><orig>choise</orig><reg>choice</reg></choice> of words, so everyone <choice><orig>speeking</orig><reg>speaking</reg></choice> English can understand it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

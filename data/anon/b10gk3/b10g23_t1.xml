@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g23_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sequence from <ref target="b10gk3_1" type="director">George Tillmann <choice><orig>Jrs</orig><reg>Jr.'s</reg></choice></ref> film <ref target="b10gk3_1" type="title">The Hate U Give</ref>, made <date>2018</date> after <ref target="b10gk3_1" type="author">Angie <choice><orig>Thomas</orig><reg>Thomas'</reg></choice></ref> novel <ref target="b10gk3_1" type="title">The Hate U Give</ref>, shows the family eating at a diner or fast food restaurant just after <ref target="b10gk3_1" type="character">Starr's</ref> interview on the <choice><abbr>TV</abbr><expan>television</expan></choice>, in which she talks about the incident and death just like the life of <ref target="b10gk3_1" type="character">Khalil</ref>.</s>
+      </p>
+      <p>
+        <s>It begins with the happy family holding each <choice><orig>others</orig><reg>other's</reg></choice> hands and saying a prayer before eating.</s>
+        <s>They thank god for giving <ref target="b10gk3_1" type="character">Starr</ref> the chance to do something and <ref target="b10gk3_1" type="character">Starr</ref> thanks for her family.</s>
+        <s>When they start eating, <ref target="b10gk3_1" type="character">Mav</ref> and <ref target="b10gk3_1" type="character">Starr</ref> see <ref target="b10gk3_1" type="character">King</ref> and two gangsters looking at them outside the diner.</s>
+        <s><ref target="b10gk3_1" type="character">Mav</ref> goes to them and pushes <ref target="b10gk3_1" type="character">King</ref> back after arguing with him about <ref target="b10gk3_1" type="character">King</ref> talking bad about <ref target="b10gk3_1" type="character">Starr</ref>.</s>
+        <s>When a police car turns up, <ref target="b10gk3_1" type="character">King</ref> and his men ride off while the police takes <ref target="b10gk3_1" type="character">Mav</ref>, <choice><orig>presses</orig><reg>press</reg></choice> him against the diner window and after checking him asking for his <choice><abbr>ID</abbr><expan>identification</expan></choice>.</s>
+        <s><ref target="b10gk3_1" type="character">Lisa</ref> brings it and the whole family stands next to the scene.</s>
+        <s><ref target="b10gk3_1" type="character">Starr</ref> films and after a short escalation between <ref target="b10gk3_1" type="character">Seven</ref> and one of the officers they try to threaten <ref target="b10gk3_1" type="character">Starr</ref> to put down her phone.</s>
+        <s>She denies and points, that many of the guests are filming too.</s>
+        <s>The police men realize she's the witness and before going away they say <ref target="b10gk3_1" type="character">Starr</ref> and her family should consider this a warning.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

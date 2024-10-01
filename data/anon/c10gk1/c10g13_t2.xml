@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref>, written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> published in the <name type="misc">Sunday Times</name> on <date>17th December 2016</date>, is about immigrants not learning <choice><orig>englisch</orig><reg>English</reg></choice> because of translation and interpreting services.</s>
+      </p>
+      <p>
+        <s>The text is structured in four paragraphs and is up to date.</s>
+      </p>
+      <p>
+        <s>It is informative, because the author wants to inform the reader of the problem of language and interpreting services and uses facts to prove her statement.</s>
+        <s>She tells the reader for example that <quote>more than £100<choice><abbr>m</abbr><expan>million</expan></choice> was spent in the past year on translating and interpreting for British residents who don't speak English</quote> <ref target="c10gk1_1" type="line">(ll. 1-2)</ref>.</s>
+        <s>She also introduces the reader to her <choice><orig>bangladeshi</orig><reg>Bangladeshi</reg></choice> background and writes how hard it is to come from <quote>the bottom of educational achievement</quote> and a place of drug abuse, crime and gang violence <ref target="c10gk1_1" type="line">(ll. 7-10)</ref>.</s>
+        <s>That also is a part of the argumentative side of her text.</s>
+        <s>She argues that translating and interpreting services do not help immigrants to integrate into another culture because they do not learn the language of the country <ref target="c10gk1_1" type="line">(ll. 3-4)</ref>.</s>
+      </p>
+      <p>
+        <s>She names the danger of the <name type="misc">East End</name>, <choice><orig>wich</orig><reg>which</reg></choice> is just like the place they come from and says that it is very hard not to be absorbed there because <name type="geo">Britain</name> does not help you integrate <ref target="c10gk1_1" type="line">(ll. 11-13)</ref>.</s>
+      </p>
+      <p>
+        <s>She weakens the argument that we should celebrate our diversity, that it does not help that you are <choice><orig>diffrent</orig><reg>different</reg></choice> if you <choice><orig>can not</orig><reg>cannot</reg></choice> take care of yourself <ref target="c10gk1_1" type="line">(ll. 18-20)</ref>.</s>
+        <s>She does not support this way of handling the problem especially in school <ref target="c10gk1_1" type="line">(ll. 14-17)</ref>.</s>
+      </p>
+      <p>
+        <s>She supports her argument with an example of her own time in school, where her teachers did not acknowledge her racial <choice><orig>diffrence</orig><reg>difference</reg></choice> but she learned to speak <choice><orig>english</orig><reg>English</reg></choice> <ref target="c10gk1_1" type="line">(ll. 14-16)</ref>.</s>
+        <s>The text is also appelling because she tries to convince the reader of her opinion and asks the <choice><orig>goverment</orig><reg>government</reg></choice> to make English compulsory for all citizens <ref target="c10gk1_1" type="line">(l. 21)</ref>.</s>
+        <s>She encourages public figures to say something about the problem.</s>
+        <s>The text is written for everybody who speaks <choice><orig>english</orig><reg>English</reg></choice> and is interested in immigration and thinks that it helps to translate everything but especially for people who have the influence to change something about it.</s>
+        <s>The tone is serious and formal but also relaxed.</s>
+      </p>
+      <p>
+        <s>That is supported by stylistic devices like the metaphor in l. 19.</s>
+        <s>The author writes that <quote>[...] you don't learn to stand on your own two feet if somebody is holding you up</quote>.</s>
+        <s>That shows symbolic that you have to learn how to take care of yourself in a foreign country and that you <choice><orig>can not</orig><reg>cannot</reg></choice> do that if somebody is always helping you.</s>
+        <s>Another stylistic device is three times my parents of the sentence beginning <ref target="c10gk1_1" type="line">(ll. 10-14)</ref>.</s>
+        <s>This <choice><orig>anapho</orig><reg>anaphora</reg></choice> shows how lucky the author was and that she just integrated that well because of her parents.</s>
+        <s>Others who do not get as much support from their parents are not as lucky.</s>
+        <s>Also the <choice><orig>Hyperbon</orig><reg>hyperbole</reg></choice> in line 7-10 show how hard the life in <name type="geo"><choice><orig>Bengladeshi</orig><reg>Bangladesh</reg></choice></name> is.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

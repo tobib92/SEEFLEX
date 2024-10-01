@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g12_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Prime Minister,</salute>
+      </p>
+      <p>
+        <s>I just read your speech of <name type="misc">COP26</name> in <date>2021</date> again and I had to think about the statement <quote><s>And let us think of the billions of unborn, whose anger will be all the grater if we fail.</s><s>We cannot let them down.</s><s>We have the ideas.</s><s>We have the technology.</s><s>We have the bankers.</s><s>We have the corperations and the NGOs</s></quote>.</s>
+        <s>You were right.</s>
+        <s>You had the ideas and the technology.</s>
+        <s>You had the banker, the corperations and the NGOs.</s>
+        <s>Therefore you could and should have done more.</s>
+        <s>Yes you were able to do a little bit.</s>
+        <s>But that wasn't enough.</s>
+        <s>You can have as many ideas as you want but you need to put them into practice properly and think them <choice><orig>completly</orig><reg>completely</reg></choice> through if these ideas are even realistic.</s>
+        <s>Anyways, I know you had good intentions and really wanted to something, but now it's my generation that has to pay for your mistakes.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

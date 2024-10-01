@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g32_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it is going to be analyzed the author's way of presenting his view on learning foreign languages with a focus on persuasive techniques and his use of language in his article.</s>
+      </p>
+      <p>
+        <s>To remember the article is about the small amount of people in the<name type="geo">UK</name> speaking foreign languages and the need of more education of learning other languages.</s>
+      </p>
+      <p>
+        <s>In the first two lines <ref target="a12gk3_1" type="author">Worne</ref> describes <name type="geo">UK's</name> opinion about learning foreign languages very straight with <choice><orig>tree</orig><reg>three</reg></choice> words <ref target="a12gk3_1" type="line">(l. 1,2)</ref>: <quote>can't, won't, don't</quote>.</s>
+        <s>In that two lines he uses inclusive language to clearly say to who he addresses his article, namely everyone living in the <name type="geo">UK</name>.</s>
+        <s>In the second and third paragraph he gives som researchable facts to the readers a picture of the small amount of interested people in learning foreign languages.</s>
+        <s>Especially in line 5: <quote>... very little to suggest any prospect of us re-commissioning out collective brains</quote>, he uses inclusive language again to give his readers the feeling of being a part of this problem including himself as well.</s>
+        <s>Furthermore <quote>collective brains</quote> is a metaphor for their collective thinking.</s>
+      </p>
+      <p>
+        <s>In the fourth paragraph the author uses irony with his thrown in states which are in brackets for example in line 12-13: <quote>Everyone speaks English in the world of business (they don't)</quote>.</s>
+        <s>The irony becomes clearly with the word <quote>Cobblers</quote> in line 15 and refers to the <quote>perfectly intelligent people</quote> (l. 12) just to say that those people are not smart.</s>
+      </p>
+      <p>
+        <s>In line 16-18 is an anaphora with the word <quote>language</quote> <ref target="a12gk3_1" type="line">(l. 16)</ref> and the use of inclusive language again.</s>
+        <s>This anaphora puts the weight on the word <quote>language</quote> to give it importance.</s>
+        <s>This combined with the inclusive language and the numbering of some examples is creating a positive effect on his opinion which he tells in those two sentences.</s>
+        <s>Furthermore <ref target="a12gk3_1" type="author">Worne</ref> gives his readers the point of view that foreign language is only for their advantage.</s>
+        <s>To give his opinion more weight he supports it with an another fact about the need of translators in <name type="geo">UK</name> companies because of not learning other languages which is <quote>almost two-thirds</quote> <ref target="a12gk3_1" type="line">(l. 19)</ref>.</s>
+        <s>Furthermore in line 22 he uses a hyperble: <quote>The problem is many <name type="geo">UK</name> businesses ave given up on home-grown talent and rely on translators of hire abroad</quote>, to give his readers a picture of <name type="geo">UK's</name> business communication with other countries.</s>
+      </p>
+      <p>
+        <s>In line 27 is a repetition with the word <quote>tough</quote> he points out how difficult <choice><orig>todays</orig><reg>today's</reg></choice> reality and jobs are without learning a second or third language.</s>
+      </p>
+      <p>
+        <s>In the last two paragraphs <ref target="a12gk3_1" type="author">Worne</ref> uses inclusive language again in combination with the words <quote>young people</quote> to mark out that the <name type="geo">UK</name> needs young human of his own country learning new languages.</s>
+        <s>Furthermore in the last paragraph he addresses it especially for the parents in the <name type="geo">UK</name> inclusing himself with inclusive language to motivate them to give their children the chance to learn a second language and make some intercultural experience and that he is doing it as well.</s>
+      </p>
+      <p>
+        <s>All in all he presents his point of view with naming negative aspects based on researchable facts and when he wants to address something to the <name type="geo">UK</name> he uses inclusive language to give his readers the feeling of being together and give them the feeling that they can change something together.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

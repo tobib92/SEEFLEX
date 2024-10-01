@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g54_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The globalised environmental pollution is a massive problem today and we have to take action now.</s>
+        <s>How possible, necessary and <choice><orig>fasible</orig><reg>feasible</reg></choice> measures look like is also an important question before taking action.</s>
+      </p>
+      <p>
+        <s>First of all humanity <choice><orig>need</orig><reg>needs</reg></choice> a lot of innovative technologies.</s>
+        <s>Many of them are already real, they just need more investments from <choice><orig>gouvermaits</orig><reg>governments</reg></choice>.</s>
+        <s>They are two ways of taking action.</s>
+        <s>The people can do it, or the <choice><orig>gouverments</orig><reg>governments</reg></choice> and companies themselves.</s>
+        <s>If the activities of countries aren't enough <add>(what obviously is the case)</add> people need to put more pressure on the <choice><orig>gouverments</orig><reg>governments</reg></choice> and use they <choice><orig>voutes</orig><reg>votes</reg></choice> to rule they <choice><orig>countrys</orig><reg>countries</reg></choice> in a right direction.</s>
+        <s>Huge sectors are traffic, industry and energy.</s>
+        <s>In all of them we need transformation.</s>
+        <s>Let's for example look at energy.</s>
+        <s>Cole and oil <add>(fossile sources)</add> produce <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> and pollute the <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+        <s>We need wind, water and sun energy.</s>
+        <s>But this could be not enough.</s>
+        <s>To make wind energy more effective we can build more <choice><orig>offchore</orig><reg>offshore</reg></choice> <choice><orig>windwheels</orig><reg>windmills</reg></choice>.</s>
+        <s><choice><orig>A</orig><reg>An</reg></choice> innovative idea which can solve our energy problem is fusion energy <foreign xml:lang="de">(Fusionsenergie)</foreign>.</s>
+        <s>If humanity could build such reactors we could win energy from <choice><abbr>H3O</abbr><expan>hydronium</expan></choice>.</s>
+        <s>It is a clean way of energy winning.</s>
+        <s>More investments in innovative technologies and investments in <choice><orig>climateneutral</orig><reg>climate neutral</reg></choice> technologies which we already have is everything we can do so far.</s>
+        <s>Important is to do not forget about second and third world countries.</s>
+        <s>The <choice><orig>energy</orig><reg>energies</reg></choice> are grown in these countries and they need help to invest in such expersive technologies.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>meatindustry</orig><reg>meat industry</reg></choice> and the <choice><orig>meatconsume</orig><reg>meat consume</reg></choice> have to change <choice><orig>expecially</orig><reg>especially</reg></choice> the consume of cow meat.</s>
+        <s>If the whole world would be vegan a huge amount of <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> would not be produced.</s>
+        <s>At least less consume would reduce the pollution.</s>
+      </p>
+      <p>
+        <s>Important is also the traffic industry.</s>
+        <s>Electry vehicles, less flights and more <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> neutral <choice><orig>trafic</orig><reg>traffic</reg></choice> in <choice><orig>citys</orig><reg>cities</reg></choice> <add>(bikes, trams etc.)</add> would reduce the amount of <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice>.</s>
+        <s>But we should not forget about the electric waste, <choice><orig>expecially</orig><reg>especially</reg></choice> the car <choice><orig>batterys</orig><reg>batteries</reg></choice>.</s>
+        <s>The recycling of <choice><orig>these</orig><reg>this</reg></choice> waste <choice><orig>need</orig><reg>needs</reg></choice> <choice><orig>defenitly</orig><reg>definitely</reg></choice> more innovation.</s>
+      </p>
+      <p>
+        <s>There is a lot humanity can do and time of action is now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

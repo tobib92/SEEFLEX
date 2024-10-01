@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l01_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Emily,</salute>
+      </p>
+      <p>
+        <s>Since you have asked whether Germany would be able to become independent and cut itself off from globalization or not I have read an <choice><orig>Article</orig><reg>article</reg></choice> online.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Article</orig><reg>article</reg></choice> is named <ref target="b12lk1_2" type="title">Verführerische Isolation</ref> by <ref target="b12lk1_2" type="author">Mark Schieritz</ref>.</s>
+        <s>It says that <name type="geo">Germany</name> earns a lot of money and jobs due to international traits.</s>
+        <s>Almost 1.3 billion euros and every second job is linked to exports.</s>
+        <s>If <name type="geo">Germany</name> still wanted to become independent, companies would have to change production and transport systems.</s>
+      </p>
+      <p>
+        <s>This is problematic since we have gaps in skills and jbs and we require people from other countries to fill those.</s>
+        <s>If we were to get independent fundamental conditions to live would still be provided.</s>
+      </p>
+      <p>
+        <s>There would be the possibility that we share out affluence, since there is no more economic competition or job competition.</s>
+      </p>
+      <p>
+        <s>Things that would change to the worse would be that life would get more boring.</s>
+      </p>
+      <p>
+        <s>You would not be able to buy exotic fruits unless you buy then for a really expensive price.</s>
+        <s>Some things you would not be able to buy at all, such as designer clothing or medication from other countries.</s>
+      </p>
+      <p>
+        <s>In addition to that <name type="geo">Germany</name> would not take part in change.</s>
+        <s>That the rest of the world is going through: Not economically neither socially.</s>
+      </p>
+      <p>
+        <s>Therefore international trade is important for <name type="geo">Germany's</name> prosperity.</s>
+        <s>It connects people, brings new inventions and change.</s>
+      </p>
+      <p>
+        <s>I hope I could help you out with your question.</s>
+      </p>
+      <p>
+        <signed>Greetings, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g83_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The informative text <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> <choice><orig>publicted</orig><reg>published</reg></choice> on the <date>17th December 2016</date> is about the big translation problem and the interpreting for British residents.</s>
+      </p>
+      <p>
+        <s>The author <choice><orig>think</orig><reg>thinks</reg></choice> it is a big problem that many people don't want to learn <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>A lot of them think probably that they don't have to learn it because of the translating.</s>
+        <s>Another problem is that the immigrant community <choice><orig>think</orig><reg>thinks</reg></choice> that they don't have to integrate because they maybe think they can use the translating and they don't have to learn the language.</s>
+        <s><ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> also said that the financial <choice><orig>cost</orig><reg>costs</reg></choice> are bad enough <ref target="c10gk5_1" type="line">(l. 2)</ref> that's why it would be a big problem if everyone use the translating.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

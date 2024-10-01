@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g67_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The statement of <name type="person">Ludwig Wittgenstein</name>, presents the limit of the language horizon.</s>
+        <s>But what does he mean with <quote>The limits of my language are the limits of my world</quote>?</s>
+        <s>In the following, I would like to mention my point of view.</s>
+      </p>
+      <p>
+        <s>In my opinion, <name type="person">Ludwig</name> is right.</s>
+        <s>If we do not learn foreign languages, we have to live with the consequences.</s>
+      </p>
+      <p>
+        <s>For e.g. we <choice><orig>can not</orig><reg>cannot</reg></choice> understand a word, when we go abroad.</s>
+        <s>Another argument is work and travel.</s>
+      </p>
+      <p>
+        <s>We have to communicate, otherwise it would be rude of we <choice><orig>can not</orig><reg>cannot</reg></choice> work in another country.</s>
+        <s>From what I've heard <choice><orig>its</orig><reg>it's</reg></choice> always better to speak more languages.</s>
+      </p>
+      <p>
+        <s>A shocking figure is that only 6% people speak English in the whole world, and the <choice><orig>fiancial</orig><reg>financial</reg></choice> cost of translating is very bad.</s>
+      </p>
+      <p>
+        <s>So I am fully the same opinion like <name type="person">Ludwig Wittgenstein</name> to learn more languages instead of being at the limits of my world.</s>
+      </p>
+      <p>
+        <s>What do you think about this?</s>
+        <s>I know, I just write arguments for the statement but if you have some against it please let me know we could discuss this.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

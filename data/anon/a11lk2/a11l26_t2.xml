@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is the <choice><orig>maincharacter</orig><reg>main character</reg></choice> in the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>.</s>
+        <s>He's a 40 years old Pakistani lawyer raised <choice><orig>muslim</orig><reg>Muslim</reg></choice> and now living and working in <name type="geo">New York</name> with his wife, <ref target="a11lk2_1" type="character">Emily</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is generally ashamed of his religion and his background.</s>
+        <s>That's why he's trying to hide his real origin as good as he can.</s>
+        <s>He's speaking in a real <choice><orig>american</orig><reg>American</reg></choice> accent to hide his background also.</s>
+        <s>He didn't change his name like his nephew <ref target="a11lk2_1" type="character">Ape</ref> though.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> hides his identity to provide racial confrontations and discrimination.</s>
+        <s>His inner conflcit with <choice><orig>hisself</orig><reg>himself</reg></choice> brings himself in gangerous situations.</s>
+        <s>In scene three <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Amir</ref> have a discussion about racism and the Islam.</s>
+        <s><ref target="a11lk2_1" type="character">Isaac</ref>, who is a supporter of the <choice><orig>islamic</orig><reg>Islamic</reg></choice> culture tries to convince <ref target="a11lk2_1" type="character">Amir</ref> to have a different point of view on his religion.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> on the other hand is confronting <ref target="a11lk2_1" type="character">Isaac</ref> that he doesn't know anything about the hatefulness in his religion and that he hasn't even read the <choice><orig>Koran</orig><reg>Quran</reg></choice>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> gets angry and hateful as scene three progresses.</s>
+        <s>He had some discussions like this in the past with <ref target="a11lk2_1" type="character">Emily</ref>, since she's also fascinated by the <choice><orig>islamic</orig><reg>Islamic</reg></choice> culture.</s>
+        <s>But it didn't escalated in the past.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is in rage after the discussion with <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>And if that's not enough he learns about the <choice><orig>affaire</orig><reg>affair</reg></choice> between his wife and <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>That's <choice><orig>to</orig><reg>too</reg></choice> much for him and he <choice><orig>get's</orig><reg>gets</reg></choice> violent.</s>
+        <s>He's exploding in violence and <choice><orig>start's</orig><reg>starts</reg></choice> to beat up his wife, since <ref target="a11lk2_1" type="character">Isaac</ref> left and he had nothing else to let his anger out.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> and his inner conflict is the main focus in the play.</s>
+        <s>His conflict represents the hard discrimination <choice><orig>muslims</orig><reg>Muslims</reg></choice> have to face, because of the events in the past.</s>
+        <s>And that this systematical racism goes that far, that people have to change <choice><orig>theire</orig><reg>their</reg></choice> name, cover <choice><orig>theire</orig><reg>their</reg></choice> identity and even more just to live without racism confrontations.</s>
+      </p>
+      <p>
+        <s>To summarize you can say that <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> points out the racism many people have to fear just because of their background and origin.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> as the main protagonist is the symbol for that.</s>
+        <s>He just <choice><orig>want's</orig><reg>wants</reg></choice> to live without all this and that people judge him as something bad just because of his origin.</s>
+      </p>
+      <p>
+        <s>On the other hand he is surrounded by suppporters of his culture which want him to be more proud on his background like <ref target="a11lk2_1" type="character">Emily</ref> and his nephew <ref target="a11lk2_1" type="character">Ape</ref>, who changed his name to an <choice><orig>american</orig><reg>American</reg></choice> name, but isn't ashamed of his own religion like <ref target="a11lk2_1" type="character">Amir</ref> is.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

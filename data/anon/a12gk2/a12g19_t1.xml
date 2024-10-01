@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g19_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>non fictional</orig><reg>non-fictional</reg></choice> text <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> was written by <ref target="a12gk2_1" type="author">John Worne</ref> and deals with the topic of speaking and learning foreign languages in the <name type="geo">UK</name>.</s>
+        <s>The author wants to persuade the reader that foreign languages are neded in many jobs so it is important to learn them.</s>
+      </p>
+      <p>
+        <s>Worne begins his text by saying that the view on learning foreign languages at the <name type="geo">UK</name> seems not that good.</s>
+        <s>There are less and less students who want to learn foreign languages in the past seven years.</s>
+        <s>Furthermore he mentions that <choice><orig>pre-schools</orig><reg>preschools</reg></choice> are now able to teach languages which is good but it is a hard and long way to go with that method.</s>
+        <s>In both of the education <choice><orig>oputunities</orig><reg>opportunities</reg></choice> <add><name type="misc">A-Levels</name>, <name type="misc">GCSE</name></add> the understanding and the use of language came to a standstill.</s>
+        <s>After over the past 30 years more and more people took exams on foreign languages the number of them rapidly shrinks and there are <choice><orig>10.000</orig><reg>10,000</reg></choice> fewer exams on that topic than in <date>1990</date>.</s>
+        <s>After that he mentions that people think that everybody who is a <choice><orig>business man</orig><reg>businessman</reg></choice><choice><orig>know</orig><reg>knows</reg></choice> exactly how to talk English and even if they do not know how their mobile can translate their language into English.</s>
+        <s>The author does not think that is true and warns people for possible dangers of smartphone use and the thought of an <choice><orig>English speaking</orig><reg>English-speaking</reg></choice> business world.</s>
+        <s>In the following the author mentions the importance of speaking foreign languages for the country itself and the global standing.</s>
+        <s>In the next section he says that more than the half of the jobs in the <name type="geo">UK</name> need people who are able to talk foreign languages and more and more firms are looking for it, but if they <choice><orig>can not</orig><reg>cannot</reg></choice> find somebody from <name type="geo">England</name> with that skill they have to hire translators or people from other countries.</s>
+        <s>Universities now offer the student that he can study a foreign language next to another subject at the same time, which is a really good change <ref target="a12gk2_1" type="author">Worne</ref> states.</s>
+        <s>After that he makes clear that people who can speak more than one language are always more attractive to the job market.</s>
+        <s>At the end of the text the author <ref target="a12gk2_1" type="author">John Worne</ref> appeals to parents all over the country that the school system is not able to help the children enough with learning foreign languages so parents should work together with their children and help the to learn new languages.</s>
+      </p>
+      <p>
+        <s>All in all the <choice><orig>Author</orig><reg>author</reg></choice> has the opinion that it is important to learn foreign languages in the <name type="geo">UK</name> and that it is essential for many jobs.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

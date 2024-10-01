@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g16_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="c10gk2_1" type="speaker">Obama</ref> said <quote>Simple exchanges can break down walls between us</quote>.</s>
+        <s>In the following I'll mess up arguments and I will show why I got the position I have.</s>
+      </p>
+      <p>
+        <s>At first: reasons why yes.</s>
+        <s>Of course exchanges are a good way to find new friends in other countries.</s>
+        <s>You can say thousands of benefits.</s>
+        <s>Or how <name type="person">Michelle Obama</name> said <quote>It's better to travel ten thousands of kilometres than reading ten thousand of books</quote>.</s>
+      </p>
+      <p>
+        <s>What I want to say is that not only the friendships are better than also the own personality is much stronger after an exchange.</s>
+      </p>
+      <p>
+        <s>In the other hand you can say that exchanges are <choice><orig>to</orig><reg>too</reg></choice> short to getting new friend for a life.</s>
+        <s>A good example against is my own mother: When she was 16 she made a 1 month exchange to <name type="geo">Plerain</name> <add>(<choice><abbr>FR</abbr><expan>France</expan></choice>)</add> and her host family is still today, 30 years later in near contact with her.</s>
+        <s>They can't see another <choice><orig>ofden</orig><reg>often</reg></choice> but they call another and still writing letters and <choice><orig>E-mails</orig><reg>e-mails</reg></choice>.</s>
+        <s>This is a perfect example for a long relationship of to friends.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

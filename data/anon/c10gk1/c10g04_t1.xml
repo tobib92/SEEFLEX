@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g04_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> of the <name type="misc">Sunday Times</name> got published on the <date>17th of December in 2016</date> and is written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref>.</s>
+        <s>In their text they write about the importance of integration through language and the difficulties <choice><orig>wich</orig><reg>which</reg></choice> can get into problems for life and how they experienced things like that themselves.</s>
+      </p>
+      <p>
+        <s>The author is telling us abou how our communities try to integrate foreign people but on the other hand without them <choice><orig>activly</orig><reg>actively</reg></choice> trying to learn the <choice><orig>countrys</orig><reg>country's</reg></choice> language, <choice><orig>english</orig><reg>English</reg></choice> in this case.</s>
+        <s>As an example they talk about the Bangladeshi community and through their bad education system they have a hard time in their future.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>authors</orig><reg>author's</reg></choice> own experience is a little <choice><orig>diffrent</orig><reg>different</reg></choice> because they got to learn <choice><orig>english</orig><reg>English</reg></choice> with support of their parents.</s>
+        <s><choice><orig>Awarness-raising</orig><reg>Awareness-raising</reg></choice><choice><orig>programms</orig><reg>programs</reg></choice><choice><orig>wich</orig><reg>which</reg></choice><choice><orig>tries</orig><reg>try</reg></choice> to deliver the message to <choice><orig>celebrat</orig><reg>celebrate</reg></choice> diversity does not help in getting independent enough to live an easy life in the <choice><orig>immigrants</orig><reg>immigrants'</reg></choice> future, in the <choice><orig>authors</orig><reg>author's</reg></choice> opinion.</s>
+      </p>
+      <p>
+        <s>Overall is the author <choice><orig>convienced</orig><reg>convinced</reg></choice> that nowadays it is not useful to translate everything for foreign speakers so that they can or have to start learning the <q>new</q> language and be able to fully integrate into the new community without any fear or big problems.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g29_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The pollution of the environment is a huge problem for the soil, water and air.</s>
+        <s>But also for us humans because these things we need to live.</s>
+        <s>But what can solve the global problem and reduce the waste?</s>
+      </p>
+      <p>
+        <s>First of all is recycling a big point and <choice><orig>thats</orig><reg>that's</reg></choice> also the reason why so much trash is in the ocean and fishes or other animals are dying.</s>
+        <s>We need more <choice><orig>recyclable</orig><reg>recycable</reg></choice> stuff and have to <foreign xml:lang="de">sortieren</foreign> our garbage better.</s>
+      </p>
+      <p>
+        <s>A result is that the ocean can be cleared up and they don't get <foreign xml:lang="de">belastet</foreign> anymore.</s>
+      </p>
+      <p>
+        <s>Another idea is to focus on electric cars, which don't let smoke and gases behind them.</s>
+        <s>For this idea we need more charger for electric cars and a good <foreign xml:lang="de">Überzeugung</foreign>.</s>
+      </p>
+      <p>
+        <s>We need to work more with solar energy and wind <foreign xml:lang="de">Kraft</foreign> to solve these problems of the <choice><orig>enviorenmental</orig><reg>environmental</reg></choice> pollution.</s>
+      </p>
+      <p>
+        <s>To sum up there are ways and ideas to reduce the consumption and pollution but it needs more <choice><orig>Attention</orig><reg>attention</reg></choice> and people who implement it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

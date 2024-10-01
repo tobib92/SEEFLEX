@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g15_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> is a newspaper article about the decline of foreign language learning in the <name type="geo">UK</name> by <ref target="a12gk2_1" type="author">John Worne</ref> which was published on <date>27th January 2015</date> in <name type="misc">The Telegraph</name>.</s>
+        <s>In the following I will analyse how <ref target="a12gk2_1" type="author">Worne</ref> presents his view with communicative strategies and his use of language.</s>
+      </p>
+      <p>
+        <s>At first he states what he thinks is the present situation with foreign language learning: <quote>can't, won't, don't</quote><ref target="a12gk2_1">(ll. 1-2)</ref>.</s>
+        <s>He proves his thesis with the fact that the number of students to learn a foreign language has been steadily declining <ref target="a12gk2_1">(ll. 3-5)</ref>.</s>
+        <s>After that he states that more primary schools having their students learn a foreign language didn't change that the number still <surplus>still</surplus> steadily declines <ref target="a12gk2_1">(ll. 6-8)</ref>.</s>
+        <s>After giving these examples the author says what many people think is the solution to the problem: phones and <surplus>and</surplus> technological progress.</s>
+        <s>The author sees that as nonsense <ref target="a12gk2_1">(ll. 12-15)</ref>.</s>
+        <s>He <choice><orig>than</orig><reg>then</reg></choice>expresses his second thesis: that language learning is significant for the <name type="geo">UK's</name> position in the world <ref target="a12gk2_1">(ll. 16-18)</ref>.</s>
+        <s>He proves his point by mentioning that two thirds of <name type="geo">UK's</name> businesses need those language skills <ref target="a12gk2_1">(ll. 19f)</ref>.</s>
+        <s>In addition the author says that the <name type="geo">UK's</name> universities encourages students to learn a foreign language and that it's important to find a job <ref target="a12gk2_1">(ll. 24-29)</ref>.</s>
+        <s>In the end, he makes the conclusion that it is up to the parents to enable a cultural shift at home to guarantee that the <name type="geo">UK</name> keeps its position in the world <ref target="a12gk2_1">(ll. 32-35)</ref>.</s>
+      </p>
+      <p>
+        <s>The author uses a mix of parataxes and hypotaxes as well as mix of formal language <ref target="a12gk2_1">(ll. 3f)</ref> <quote>... foreign languages at the university level has been in steady decline</quote> and informal language <ref target="a12gk2_1">(l. 15)</ref><quote>Cobblers.</quote> which makes the text seem more diverse and interesting on the other hand and also accessible for a wide audience of both rather high educated people and not-so-high-educated people on the other hand.</s>
+      </p>
+      <p>
+        <s>The title makes a clear statement that the <name type="geo">UK</name> people don't want to learn any foreign languages which may seem controversial to many people and with that the author tries to catch the <choice><orig>readers</orig><reg>reader's</reg></choice>attention right at the beginning.</s>
+      </p>
+      <p>
+        <s>The author proves his point not only by facts and examples, but also by using many structural devices.</s>
+        <s>In line 6 <quote>languages are now on the menu</quote> he compares the menu of a restaurant with the curriculum as more foreign languages are offered at primary schools.</s>
+      </p>
+      <p>
+        <s>Within the paragraph from line 12 to 15 he uses a lot of irony.</s>
+        <s>He says that <quote>perfectly intelligent people will tell you not to worry</quote> while meaning that that is an opinion he does not share.</s>
+        <s>He also tells ironically that when trying to use <choice><orig>an</orig><reg>a</reg></choice> translator on the phone one may <quote><gap reason="illegible" quantity="1" unit="word">ctash</gap> or choke</quote> on the <gap reason="illegible" quantity="1" unit="word">clerk</gap> charges <ref target="a12gk2_1">(l. 14)</ref>.</s>
+        <s>In that whole paragraph he tells con-arguments to his own opinion so with telling that with a lot of irony the author makes the other opinions seem <choice><orig>rediculous</orig><reg>ridiculous</reg></choice> and wrong.</s>
+      </p>
+      <p>
+        <s>Another aspect to convince the reader is that the author uses strong words and language <add>(e.g. <ref target="a12gk2_1">(l. 27)</ref> <quote>The tough reality <gap reason="illegible" quantity="1" unit="word">in</gap> a tough job market</quote>; <ref target="a12gk2_1">(l. 30)</ref>: <quote>There is no doubt</quote>)</add> to make his poit more valid and convincing.</s>
+      </p>
+      <p>
+        <s>Overall, one can say that the author persuades the reader by sticking to many facts, data and examples on the <choice><orig>on</orig><reg>one</reg></choice> hand; and with stylistic devices and techniques on the other hand.</s>
+        <s>In conclusion one can say that one can get easily convinced by the <choice><orig>autors</orig><reg>author's</reg></choice> interesting way of writing.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

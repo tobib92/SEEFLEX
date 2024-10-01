@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g02_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Last time I thinked a lot about, if <ref target="c12gk1_1" type="author"><choice><orig>Shakspeare</orig><reg>Shakespeare</reg></choice></ref> is relevant for young people today.</s>
+        <s>I think <ref target="c12gk1_1" type="author"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> sonnets are a lot of culture and still present today.</s>
+        <s><choice><orig>Escpacally</orig><reg>Especially</reg></choice> the topic love is still relevant today.</s>
+        <s>If you analyse them you can understand the <choice><orig>massage</orig><reg>message</reg></choice> of the sonnets and refer it to <foreign xml:lang="de">aktuell</foreign> things.</s>
+        <s>Many people are against <ref target="c12gk1_1" type="author">Shakespeare</ref>, because it is so hard to understand and sometimes also very boring.</s>
+        <s>But I think it has to deal something with the knowledge of people.</s>
+        <s>It is a part of our world that you know something about <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and understand his sonnets, because he is one of the most popular writers in our world.</s>
+        <s>I know that his sonnets loses a lot of their popularity, but in our generation are they still important.</s>
+        <s>On the one hand <choice><orig>i</orig><reg>I</reg></choice> think it is really important.</s>
+        <s>On the one hand <choice><orig>i</orig><reg>I</reg></choice> think it is really <choice><orig>importent</orig><reg>important</reg></choice> to understand them but on the other hand <choice><orig>i</orig><reg>I</reg></choice> think it <choice><orig>isnt</orig><reg>isn't</reg></choice> important to analyse them in school.</s>
+        <s>The only <choice><orig>helpfull</orig><reg>helpful</reg></choice> <choice><orig>think</orig><reg>thing</reg></choice> is that you learn how to see and understand stylistic <choice><orig>divices</orig><reg>devices</reg></choice>.</s>
+        <s>And I think stylistic <choice><orig>divices</orig><reg>devices</reg></choice>, will be a part on our world for a long time.</s>
+        <s>It also helps you to understand complex <choice><orig>sentence</orig><reg>sentences</reg></choice> in <choice><orig>diffrent</orig><reg>different</reg></choice> ways.</s>
+        <s>You have to read the sonnet 3 or 4 times, so if your teach yourself it will be <choice><orig>easyer</orig><reg>easier</reg></choice> to understand a heaviness text.</s>
+      </p>
+      <p>
+        <s>All in all can you say the sonnets from <ref target="c12gk1_1" type="author">Shakespeare</ref> are still relevant today, because they are still present and <choice><orig>importent</orig><reg>important</reg></choice> in our society.</s>
+        <s>It also helps you to improve your knowledge about stylistic <choice><orig>divices</orig><reg>devices</reg></choice> and complex structured texts.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

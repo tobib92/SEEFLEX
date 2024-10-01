@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To underline her critical view on the environmental pollution and the message to the reader employs a variety of persuasive strategies.</s>
+      </p>
+      <p>
+        <s>She builds the text convincing, by explain her own view and opinion at the beginning and at the end, sandwitching the situation and facts in the middle: She uses including pronouns, to make the readers feel involved and make observant.</s>
+        <s>She speaks several times to the readers, to let them feel responsible as a human for this actual problem.</s>
+        <s>It is noticeable, that the author often uses effective hard words, for example <quote>contaminate</quote> <ref target="a10gk3_1" type="line">(line 2)</ref>, <quote>hazardous</quote> <ref target="a10gk3_1" type="line">(line 2)</ref>, <quote>devastating</quote> <ref target="a10gk3_1" type="line">(line 15)</ref>, <quote>destructive</quote> <ref target="a10gk3_1" type="line">(line 16)</ref>.</s>
+        <s>The use of those words shows the really problematic and dangerous situation.</s>
+      </p>
+      <p>
+        <s>Through the pick ups of examples like the tragedy at <name type="geo">Bhopal</name> <ref target="a10gk3_1" type="line">(line 32-35)</ref>, uninhabitabling in <name type="geo">Hiroshima</name> <ref target="a10gk3_1" type="line">(line 35-37)</ref>, the present situation is better to understand.</s>
+      </p>
+      <p>
+        <s>The article is written in a colloquial language, the <choice><orig>adress</orig><reg>address</reg></choice> are general reader, who must not have background <choice><orig>informations</orig><reg>information</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

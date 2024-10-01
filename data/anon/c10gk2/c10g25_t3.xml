@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g25_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> gave a speech at <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>University</orig><reg>university</reg></choice> in <name type="geo">Istanbul</name> in <date>2009</date>.</s>
+        <s>In his speech, he mentions the importance of bringing people together.</s>
+      </p>
+      <p>
+        <s>I will discuss now on <ref target="c10gk2_1" type="speaker">Obama's</ref> statement that <quote>simple exchanges can break down walls between us</quote> <ref target="c10gk2_1" type="line">(line 13)</ref>.</s>
+      </p>
+      <p>
+        <s>So first of all, these simple exchanges could break down walls between us, because you can get people together, mostly young people.</s>
+        <s>As <ref target="c10gk2_1" type="speaker">Obama</ref> mentions in his speech, he has seen that many young people go abroad or are already deeply informed about the whole <choice><orig>wordl</orig><reg>world</reg></choice>.</s>
+        <s>Here you can see that it could be a good idea to bring people together.</s>
+        <s>But on the other hand it isn't that easy because you <choice><orig>cant</orig><reg>can't</reg></choice> just bring people from different countries together because not everyone can afford an exchange year or something like that.</s>
+        <s>So it isn't that easy to do <quote>simple exchanges</quote> so that <quote>walls can break down between us</quote>.</s>
+        <s>And the question is what are these <quote>simple exchanges</quote> even?</s>
+      </p>
+      <p>
+        <s>But on the other hand, <ref target="c10gk2_1" type="speaker">Barack Obama</ref> is right because yes, little or simple changes can change the world even if it's just a little bit.</s>
+      </p>
+      <p>
+        <s>Furthermore, his statement is motivating for everyone because he gives the feeling that everyone can do something small and it has a big appearance of the world.</s>
+      </p>
+      <p>
+        <s>So, I personally would say that I agree with his statement because I think that he is right with his statement and yes, we can break down walls between us by doing small simple exchanges and if everyone can do a little change, we could change the whole world.</s>
+        <s>I think he creates a community by saying this statement.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

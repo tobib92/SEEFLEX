@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g04_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Who is <ref target="a10gk1_1" type="author">Brian Pollard</ref>?</s>
+        <s>He is a good working, good earning man.</s>
+        <s>Does he know something about local unions?</s>
+        <s>Yes!</s>
+        <s>Does he know something about workers with no rights, awful working conditions and globalization trials?</s>
+        <s>No!</s>
+      </p>
+      <p>
+        <s>But firstly we should look over his opinion, not him.</s>
+        <s>His big statement says that in the <date>twenty-first century</date> employers are getting exploited by employees.</s>
+      </p>
+      <p>
+        <s>He claims that unions are no longer caring about better working conditions for employees, because everything is already legislated.</s>
+        <s>Furthermore he says that unions are obstructing the companies.</s>
+        <s>At the end he says that the <surplus>the</surplus> current relatively of unions and employers are not good for business environment.</s>
+        <s>First of all I have to say that unions are needed.</s>
+        <s>In all <choice><orig>countrys</orig><reg>countries</reg></choice> in the world.</s>
+        <s>That working rights are legislated is a <choice><orig>privileg</orig><reg>privilege</reg></choice>.</s>
+        <s>But this is not everywhere and also not making the unions useless.</s>
+        <s>They are still <choice><orig>manditory</orig><reg>mandatory</reg></choice> for workers in all kinds of working issues.</s>
+        <s>Then the power relatively is not unhealthy it is balanced.</s>
+        <s>Employers should sit on the same table as employees and that is what unions <choice><orig>acheave</orig><reg>achieve</reg></choice>.</s>
+        <s>So we need unions, the world needs unions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

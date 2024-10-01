@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g01_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following, <ref target="a12gk1_1" type="author">John Worne's</ref> claim <q>language learning is vital for the<name type="geo">UK</name>s future prosperity and global standing</q> will be discussed.</s>
+        <s>Is he really revealing or not?</s>
+        <s>Starting of one could say that <choice><orig>english</orig><reg>English</reg></choice> is the world language, right?</s>
+        <s>Yeah, sounds plausible, but looking at facts, Mandarin and Spanish are actually speaken from much more people in the world, <choice><orig>then</orig><reg>than</reg></choice> <choice><orig>english</orig><reg>English</reg></choice>, so it's important to be secured about people, who can't speak <choice><orig>english</orig><reg>English</reg></choice> and to learn another language.</s>
+      </p>
+      <p>
+        <s>Moreover <choice><orig>its</orig><reg>it's</reg></choice> from significance global trades and other aspects to speak other languages, to save the future prosperity of UK</s>
+      </p>
+      <p>
+        <s>Going onto the global standing: if no businesses in <name type="geo">Great Britain</name> want workers of their own country, because they can speak different languages, the<name type="geo">UK</name>have to worry about unemployment and poverty.</s>
+        <s>This would have an impact on their global standing, because they would be relied on help from other countries.</s>
+        <s>Because the<name type="geo">UK</name>is no longer in the <choice><abbr>EU</abbr><expan>European Union</expan></choice> that would be a big problem.</s>
+      </p>
+      <p>
+        <s>All in one, one can say that learning foreign languages is the only possibility for the<name type="geo">UK</name>to save their global standing and future prosperity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

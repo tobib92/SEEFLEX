@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g17_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>news paper</orig><reg>newspaper</reg></choice> article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> written by <ref target="a10gk2_1" type="author">Brian Pollard</ref>, published in <name type="misc">The Gulf News</name> on <date>24th November 2011</date> is about the change of the unions, which has been very use- and <choice><orig>helpfull</orig><reg>helpful</reg></choice> in the past.</s>
+      </p>
+      <p>
+        <s>Firstly the author explains how <choice><orig>usefull</orig><reg>useful</reg></choice> the unions have been, because they helped the workers all over the world to get treated better in points like working conditions, shorter working days and higher <choice><orig>wadges</orig><reg>wages</reg></choice>.</s>
+      </p>
+      <p>
+        <s>He emphazises that the unions were a good thing that <choice><orig>happend</orig><reg>happened</reg></choice> in the past, but that in the last few years they have changed so much that he can't support them anymore.</s>
+        <s>He thinks that today unions aren't <choice><orig>recuired</orig><reg>required</reg></choice> to help the workers throughout things like laws etc.</s>
+        <s><choice><orig>More over</orig><reg>Moreover</reg></choice> he <choice><orig>believs</orig><reg>believes</reg></choice> that unions obstruct companies so that they <choice><orig>can not</orig><reg>cannot</reg></choice> compete with other products anymore, they aren't able to compete and prosper anymore.</s>
+      </p>
+      <p>
+        <s>He also sees a problem in the working atmosphere at unions, because he thinks that the workers and employees aren't as productive and initiative anymore, <choice><orig>becaus</orig><reg>because</reg></choice> the jobs are very protected.</s>
+        <s>His last argument is that he thinks that, the just mentioned working moral / working atmosphere, <choice><orig>have</orig><reg>has</reg></choice> the consequences that there is a big change and that employees <choice><orig>has</orig><reg>have</reg></choice> changed in 2 way that isn't healthy anymore.</s>
+      </p>
+      <p>
+        <s>In his conclusion he <choice><orig>mentines</orig><reg>mentions</reg></choice> the governments, who he thinks have to take a look at unions and that unions are one of the biggest problem in <choice><orig>todays</orig><reg>today's</reg></choice> economy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

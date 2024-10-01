@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g21_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref>, written by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref> and published in <date>2012</date> deals with religious problems and differences in the post <name type="misc">9/11</name> era.</s>
+      </p>
+      <p>
+        <s>In this excerpt of scene three, the two married couples <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Amir</ref> came together for dinner.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Jory</ref> left the room and then <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref>, who once had an affair, flirt intimately.</s>
+        <s><ref target="b11gk2_1" type="character">Jory</ref> comes in and sees it first, but <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> strictly deny having an affair.</s>
+        <s>Then the situation escalates.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> want to fight but before anyone does something <ref target="b11gk2_1" type="character">Amir</ref> spits <ref target="b11gk2_1" type="character">Isaac</ref> in his face.</s>
+        <s><ref target="b11gk2_1" type="character">Isaac</ref> leaves the room and before <ref target="b11gk2_1" type="character">Jory</ref> follows him, she tells <ref target="b11gk2_1" type="character">Amir</ref> that she was promoted instead of him, because <ref target="b11gk2_1" type="character">Mort</ref>, who is <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> and <ref target="b11gk2_1" type="character"><choice><orig>Jorys</orig><reg>Jory's</reg></choice></ref> boss, found out that <ref target="b11gk2_1" type="character">Amir</ref> changed his identity.</s>
+        <s>When both guests left, the situation normalizes but <ref target="b11gk2_1" type="character"><choice><orig>Jorys</orig><reg>Jory's</reg></choice></ref> words do something with <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>He still has to think about it.</s>
+        <s>At the end of the scene <ref target="b11gk2_1" type="character">Emily</ref> confesses that she had an affair with <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Amir</ref> hits <ref target="b11gk2_1" type="character">Emily</ref> in the face.</s>
+        <s>Just after <ref target="b11gk2_1" type="character">Amir</ref> realizes what he did, <ref target="b11gk2_1" type="character">Abe</ref> opens the door.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

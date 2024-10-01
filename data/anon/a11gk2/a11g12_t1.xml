@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g12_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><date>November, 7th 2007</date>, <ref target="a11gk2_1" type="speaker">Barack Obama</ref> was given a speech in <name type="geo">Bettendorf</name> during his first election campaign.</s>
+        <s>His speech was about the American <choice><orig>dreams</orig><reg>Dream</reg></choice>.</s>
+      </p>
+      <p>
+        <s>First of all he spoke to the listeners about his feelings.</s>
+        <s>For <ref target="a11gk2_1" type="speaker">Obama</ref> it feels right at home in <name type="geo">Bettendorf</name>.</s>
+        <s>He <choice><orig>summeraised</orig><reg>summerized</reg></choice> that they becoming more and more <choice><orig>seperated</orig><reg>separated</reg></choice> by geography and ideology, race and religion, <choice><orig>weatt</orig><reg>wealth</reg></choice> and <choice><orig>oppurtunity</orig><reg>opportunity</reg></choice>.</s>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref><choice><orig>traveled</orig><reg>travelled</reg></choice> the last nine months during the country, he was impressed while he saw the values and hopes that they share.</s>
+        <s>He is proud about the Americans who share a faith in simple dreams.</s>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> spoke also about his family.</s>
+        <s>The American dreams helped his grandfather.</s>
+        <s>He becames a good life in his past.</s>
+        <s>It droves his mother while she followed her passion for helping others.</s>
+        <s>She believed in a good <name type="geo">America</name> and that there are no barriers to success.</s>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref> shared in this part of his speech his family views and was honest with them.</s>
+        <s>At the end of the speech <ref target="a11gk2_1" type="speaker">Obama</ref> spoke about the things he learned and got because of the American Dreams.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

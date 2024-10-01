@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g08_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Lisa,</salute>
+      </p>
+      <p>
+        <s>I I am really happy to hear from you!</s>
+        <s>Of course I can explain you what the project <name type="misc">KLS goes green</name> it's about and <choice><orig>whats</orig><reg>what</reg></choice> the newspaper article is about.</s>
+      </p>
+      <p>
+        <s>So the article has a title like <quote>more biological not only on fridays</quote>.</s>
+        <s>I think it refers to the protest-action <name type="misc">fridays-for-future</name>.</s>
+      </p>
+      <p>
+        <s>The article starts with an introduction which includes many different questions about climate change and what everyone can do against it.</s>
+        <s>For example: how big is my CO2–fingerprint?</s>
+        <s>Or what <choice><orig>vegetarin</orig><reg>vegetarian</reg></choice> and vegan nutrition means for climate <choice><orig>prodection</orig><reg>protection</reg></choice>?</s>
+        <s>These are questions that students, teachers and parents discuss and <choice><orig>asks</orig><reg>ask</reg></choice> on a special day for climate protection at the <name type="misc">KLS</name>.</s>
+      </p>
+      <p>
+        <s>On this day there were <choice><orig>fourthy</orig><reg>forty</reg></choice> different workshops during the day.</s>
+        <s>They all took place in the rooms of our school, on the schoolyard or in different places in <name type="geo">Cologne</name>.</s>
+        <s>All workshops had something to do with the protection of the <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+        <s>This was the first time that's such a day took place at the <name type="misc">KLS</name>.</s>
+        <s>The school recognised in the last year is that all students were more invested in protecting the <choice><orig>enviroment</orig><reg>environment</reg></choice> and climate change.</s>
+        <s>Specially because of the <name type="misc">fridays-for-future</name> protests.</s>
+        <s>Because of this many students of the students organization wanted to discuss climate protection in our school and what we can do.</s>
+        <s>All students have no class on this day we all could choose one workshop for this day.</s>
+        <s>There were many different <choice><orig>interest</orig><reg>interests</reg></choice> included in the workshops.</s>
+        <s>For example <choice><orig>foodsharing</orig><reg>food sharing</reg></choice>, better and sensible use of water but also <choice><orig>fairtrade</orig><reg>fair trade</reg></choice> an <choice><orig>ecofriendly</orig><reg>eco-friendly</reg></choice> packaging of food.</s>
+        <s>But there is also the idea of <choice><orig>poetry-slams</orig><reg>poetry slams</reg></choice> in connection to the protection of the <choice><orig>enviroment</orig><reg>environment</reg></choice> and climate change.</s>
+        <s>Other teachers who helped organising this day said that it worked really good and that the students enjoyed the time.</s>
+        <s>I can also tell you my experience on this day.</s>
+        <s>First of all: I went to a <name type="misc">fridays-for-future</name> protest for two times and it was great to have the feeling that you can make the difference.</s>
+        <s>And I also really enjoyed the <name type="misc">KLS goes green</name> day!</s>
+        <s>I chose a workshop that dealed with <choice><orig>fairtrade</orig><reg>fair trade</reg></choice> and we visited a <choice><orig>ecofriendly</orig><reg>eco-friendly</reg></choice> shop where you buy naturalbased products without plastic packaging.</s>
+        <s>It is a shop where you bring a box or more with you and then you fill them with cornflakes for example.</s>
+        <s>After that we also went to a week-market and looked around what they are using to pack their projects.</s>
+        <s><choice><orig>Remarkebly</orig><reg>Remarkably</reg></choice> many people also brought their own boxes and the food pack in it.</s>
+      </p>
+      <p>
+        <s>It was really interesting and I learned much about how to protect the <choice><orig>enviroment</orig><reg>environment</reg></choice> by using reusable cups and boxes.</s>
+        <s>I hoped that helped you and you know now what <name type="misc">KLS goes green</name> means.</s>
+        <s>If you still have questions or something else feel free to write me.</s>
+      </p>
+      <p>
+        <s>PS: How is it in your school?</s>
+        <s>Do you also have something <choice><orig>lik</orig><reg>like</reg></choice> <name type="misc">KLS goes green</name>?</s>
+      </p>
+      <p>
+        <s>I would be really happy to hear from you soon</s>
+      </p>
+      <p>
+        <signed>Kind regards and stay healthy, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

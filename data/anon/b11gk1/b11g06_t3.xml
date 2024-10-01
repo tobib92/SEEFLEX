@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g06_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Sir,</salute>
+      </p>
+      <p>
+        <s>yesterday I came across your article about teenage single parents and I was really impressed while reading it.</s>
+      </p>
+      <p>
+        <s>First of all I am really thankful that you draw attention to this important aspect of out society.</s>
+      </p>
+      <p>
+        <s>I think there are a lot teenagers that still <choice><orig>needs</orig><reg>need</reg></choice> to deal with the problem of getting a child in that age.</s>
+        <s>I would totally agree with you that these people need the chance to get help.</s>
+        <s>But I guess our personal imaginations of help <choice><orig>doesn't</orig><reg>don't</reg></choice> match.</s>
+        <s>You came to the conclusion that a law that regulates all children of teenage single parents to be taken into foster care would be the best possible way to deal with this problem.</s>
+        <s>But hear me out.</s>
+        <s>Why do you <choice><orig>wanna</orig><reg>want to</reg></choice> take away children from a lovely mother or father?</s>
+        <s>Why should it be a law to make children to foster children only because their mother is younger?</s>
+        <s>That were questions I asked to myself while reading your article and maybe you are going to ask them to yourself as well.</s>
+      </p>
+      <p>
+        <s>First of all foster care is not always a good choice, it demands on the foster parents.</s>
+        <s>Some of them treat these <choice><orig>childrens</orig><reg>children</reg></choice> like their own but some of them treat them like <choice><orig>garbag</orig><reg>garbage</reg></choice>, let them sleep on the floor or only give them cereal to eat.</s>
+        <s>I am sad you missed this point in your article.</s>
+        <s>Despite of this I would totally agree with you that teenage parents need to focus on their education or are completely unprepared for parenting but I want to point out that this is a generalized way of thinking.</s>
+        <s>Not everyone is <choice><orig>overstreched</orig><reg>overstretched</reg></choice> with this kind of situation.</s>
+        <s>Shouldn't it be the <choice><orig>fullfilment</orig><reg>fulfilment</reg></choice> of the American Dream to leave everyone <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>Freedom</orig><reg>freedom</reg></choice>, <choice><orig>there</orig><reg>their</reg></choice> liberty and to accept everyone?</s>
+        <s>In my point of view many people are overstretched with parenting and this situation so there should be something like a financial support or a day mother for these teenagers.</s>
+        <s>For people who don't stand a chance to raise their child in a normal way foster care could be a good alternative but I think a law for that is too hard and you cannot take away a child from a loving parent, being a teenage parent should not be a crime.</s>
+      </p>
+      <p>
+        <s>Your article made me thinking and I hope my letter will also make you rethink your opinion.</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g15_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier's</ref> speech at the <name type="misc">European American Chamber of Commerce</name> in <name type="geo">New York</name> was held on the <date>10th July 2018</date> and is about the consequences of <name type="misc">Brexit</name> as well as the characteristics of a close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> is an <name type="misc">EU</name> commissioner for the withdrawal negatiations of the <name type="geo">UK</name> in the course of <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s>The consequences listed by <ref target="c11gk2_1" type="speaker">Barnier</ref> are mainly based on economic reasons and include the created friction, which will have an impact on the value chains of multiple economic sectors.</s>
+        <s>He also states that the cost for the <name type="geo">UK</name> would be substantially higher than the <name type="misc">EU's</name>, but it would still be an unfavourable situation for both sides.</s>
+        <s>Furthermore he warns <name type="geo">US</name> firms to analyse their supply chains and existing contracts in view of <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s>For the characteristics of a close relationship between the two unions he describes one similar to that of the <name type="geo">USA</name> and the <name type="misc">EU</name>, which was achieved by opening the <name type="misc">EU Single Market</name> for third countries like the <name type="geo">US</name> and the <name type="geo">UK</name>.</s>
+        <s>As another option he lists the inclusion of the right of establishment in future <name type="misc">Free Trade Agreements</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

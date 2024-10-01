@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g40_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Reece</name> knows the history and he knows what his grandparents have been through.</s>
+        <s>But he has also a difficult path to go.</s>
+        <s>He has to decide whether he wants to be like the stereotype or not.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>The legacy of slavery has a bad impact upon black communities, because the ancestors of the black <choice><orig>british</orig><reg>British</reg></choice> people were forced to come to the <name type="geo">UK</name> and they were not seen as people.</s>
+        <s>This negative image affects the way the <choice><orig>british</orig><reg>British</reg></choice> people see the black <choice><orig>britain</orig><reg>Britains</reg></choice> and it leads to racism.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>Even though slavery is not legal anymore, it has a big impact on today's world as explained earlier.</s>
+        <s>The legacy of slavery will remain for decades, which is why it is so important - <choice><orig>expecially</orig><reg>especially</reg></choice> as a black <choice><orig>britain</orig><reg>Britain</reg></choice> to know the history.</s>
+        <s>The feeling of <q><choice><orig>beeing</orig><reg>being</reg></choice> better</q> will not just go away.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>Young black <choice><orig>britain</orig><reg>Britains</reg></choice> are confronted with much racism, which is a big problem, since it means that they are not accepted in their only home.</s>
+        <s>The fact that black artists help them affects their life in such a positive way.</s>
+        <s>They are seen as cool and people talk about the problems they have.</s>
+        <s>They are seen.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>Bein black has become popular.</s>
+        <s>The fact that many artists performed with a focus of black <choice><orig>britain</orig><reg>Britains</reg></choice> leads to a much needed exchange.</s>
+        <s>Things are changing and black <choice><orig>britain</orig><reg>Britains</reg></choice> do not have the feeling of shame <choice><orig>nomore</orig><reg>no more</reg></choice>.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>The history shows that they have already come so far, so they are happy they had make racism a smaller problem.</s>
+        <s>Black <choice><orig>britain</orig><reg>Britains</reg></choice> do not think they are finished but they <choice><orig>cheerish</orig><reg>cherish</reg></choice> how far they have come.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

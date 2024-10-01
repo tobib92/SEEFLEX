@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g03_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech given on <date>10 July 2018</date> in <name type="geo">New York</name> of the <name type="misc">European American Chamber of Commerce</name> by <ref target="c11gk2_1" type="speaker">Michel Barnier</ref>, is <choice><orig>adressed</orig><reg>addressed</reg></choice> to the listeners of the <name type="misc">Chamber of Commerce</name> and othr interested people.</s>
+        <s>It thematizes the view of the <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> on the decision of the <name type="geo">UK</name> to leave the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> is clearly against the decision to leave the <name type="misc">EU</name>, he says that the <name type="misc">EU</name> and the <name type="geo">UK</name> would be <quote>stronger together</quote> <ref target="c11gk2_1" type="line">(l. 2)</ref> and that the <name type="misc">Brexit</name> will have a bad effect <ref target="c11gk2_1" type="line">(cf. ll. 3-4)</ref> doesn't matter what they will do.</s>
+      </p>
+      <p>
+        <s>Also it's clear to say that trade frictions will evolve, which has a strong effect on economic sectors which will impact <quote>value chains</quote> <ref target="c11gk2_1" type="line">(l. 6)</ref>.</s>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> tells that the manufacturing, logistics, agricultural and food sectors specific can get strong changes through the <name type="misc">Brexit</name>.</s>
+        <s>He points out that, the <name type="geo">UK</name> is more negative effected than the <name type="misc">EU</name> but it's still a <choice><orig>negetiv</orig><reg>negative</reg></choice> aspect for both of them.</s>
+      </p>
+      <p>
+        <s>Another consequence can be that tariffs return under <choice><abbr>WTO</abbr><expan>World Trade Organization</expan></choice> rules <ref target="c11gk2_1" type="line">(l. 14)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

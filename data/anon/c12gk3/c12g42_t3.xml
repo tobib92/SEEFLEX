@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g42_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Still today, <ref target="c12gk3_1" type="person">Shakespeare's</ref> works have a big impact on our lives.</s>
+        <s>They are with their messages still relevant.</s>
+      </p>
+      <p>
+        <s>Taking out the point of manipulation as in <ref target="c12gk3_1" type="title">Macbeth</ref> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> knows that she <choice><orig>manipulate</orig><reg>manipulates</reg></choice> her own husband, to achieve her goals.</s>
+        <s>Through her choice of words creates <ref target="c12gk3_1" type="character">Lady Macbeth</ref> humiliation comments on her husband to achieve his submit to her.</s>
+        <s>Today <choice><orig>their</orig><reg>there</reg></choice> are many persons who are trying to manipulate others to become the greater good.</s>
+        <s>A great example is <name type="misc">Donald Trump</name> who told lies and bitter discriminated comments, to get voters for only himself.</s>
+      </p>
+      <p>
+        <s>Another fact that I notice is the thought and problem from <ref target="c12gk3_1" type="character">Lady Macbeth</ref> to think that <choice><orig>beeing</orig><reg>being</reg></choice> a man would be <choice><orig>labeld</orig><reg>labeled</reg></choice> due to courage and strength.</s>
+      </p>
+      <p>
+        <s>Manliness is not <choice><orig>labeld</orig><reg>labeled</reg></choice> by strength and muscle.</s>
+        <s>But still today, <choice><orig>their</orig><reg>there</reg></choice> a big <choice><orig>stereotyp</orig><reg>stereotype</reg></choice> by thinking that <choice><orig>mans</orig><reg>men</reg></choice> are only true if they are having these aspects.</s>
+        <s><ref target="c12gk3_1" type="person">Shakespeare</ref> lived in a <choice><orig>typ</orig><reg>type</reg></choice> where such a <choice><orig>stereotyp</orig><reg>stereotype</reg></choice> was <choice><orig>totaly</orig><reg>totally</reg></choice> normal, but I like to think that a <choice><orig>truely</orig><reg>truly</reg></choice> man is created more individual.</s>
+      </p>
+      <p>
+        <s>To bring another relevant <ref target="c12gk3_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> drama to the light I shortly want to say something to <name type="misc">Romeo and Juliet</name>.</s>
+        <s>The romance is referring to forbidden live, a love agains all <choice><orig>ods</orig><reg>odds</reg></choice>.</s>
+        <s>Today, on this planet, <choice><orig>their</orig><reg>there</reg></choice> are many types of love that are forbidden through the society and politics.</s>
+        <s>I am <choice><orig>refering</orig><reg>referring</reg></choice> here to <choice><abbr>LGBTQ+</abbr><expan>lesbian, gay, bisexual, transgender and queer</expan></choice> love, love between two or more people with different skin colours and love between people with disability.</s>
+        <s>In the end love wins, but to achieve that, we have to change things to the greater good.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> is relevant today.</s>
+        <s>It shows the changes we already achieved and which we still have to fight for.</s>
+        <s>Even if it is written in an old <choice><orig>technic</orig><reg>technique</reg></choice>, time and <choice><orig>interess</orig><reg>interests</reg></choice> can show you how everyone can understand the true message of <ref target="c12gk3_1" type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

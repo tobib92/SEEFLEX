@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I am going to analyze <ref target="c12lk1_1" type="author">William Shakespeare's</ref> <ref target="c12lk1_1" type="title">Sonnet 65</ref> with a focus at the language and stylistic devices.</s>
+        <s>The sun it was written in the Elizabethan time and has from line one to 12 a <name type="misc">ABAB</name> rhyme-scheme and from line 13 to 14 <name type="misc">AA</name> system like the most most of <ref target="c12lk1_1" type="author">Shakespeare's</ref> sonnets.</s>
+      </p>
+      <p>
+        <s>Line one starts with <choice><orig>a</orig><reg>an</reg></choice> enumeration where <ref target="c12lk1_1" type="author">William Shakespeare</ref> lists the natural things that are <choice><orig>loosing</orig><reg>losing</reg></choice> <quote>their power</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref>, which is a personification.</s>
+        <s>He defines the named things from line one as <quote>mortality</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref> which means that all flowers and trees losing their <choice><orig>live</orig><reg>life</reg></choice> through winter season.</s>
+        <s>From line three up to line five are three different <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions.</s>
+        <s><choice><orig>Firste</orig><reg>First</reg></choice> he asks why the beautiness of summer/fall season has to go away <ref target="c12lk1_1" type="line">(l. 3)</ref> and can't stay through the whole winter until spring.</s>
+        <s>You can answer this question very easily because everyone knows that it is <choice><orig>to</orig><reg>too</reg></choice> cold for the flowers.</s>
+        <s>After that he asks <quote>whose action is no stronger than a flower</quote> <ref target="c12lk1_1" type="line">(l. 4)</ref> which is at the same time metaphor.</s>
+        <s>He means the snow which covers everything and sometimes kills flowers with that high press.</s>
+        <s>The honey breath of summer seems to be very important for him <ref target="c12lk1_1" type="line">(l. 5)</ref>.</s>
+        <s>He wants to know why the smell cannot stay the whole time until it is summer again.</s>
+      </p>
+      <p>
+        <s>After that he names the winter as <quote>wrackful siege of batt'ring days</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref> which describes the rainy and snowy days in winter season.</s>
+        <s>It is a metaphor for the depressing feeling of cold weather in the very early darkness outside.</s>
+        <s>Line 7 and eight is a connected metaphor where <ref target="c12lk1_1" type="author">Shakespeare</ref> cars big hard rocks as a <quote>gate of steel</quote> <ref target="c12lk1_1" type="line">(l. 8)</ref> which means that the winter just blocks fall and spring season and cannot be skipped.</s>
+        <s>He wants the time to decay <ref target="c12lk1_1" type="line">(l. 8)</ref> because his personal impressions from line one up to line eight are not that good.</s>
+        <s>Following he tells what he doesn't like during that time: the meditation <ref target="c12lk1_1" type="line">(l. 9)</ref> in general.</s>
+        <s>He defines the following spring season as a <quote>jewel</quote> <ref target="c12lk1_1" type="line">(l. 10)</ref> and asks why it is hidden behind the winter season.</s>
+        <s>He asks again who can stop the seasonal change <ref target="c12lk1_1" type="line">(l. 11f.)</ref> and who can see you the plants from spoiling.</s>
+        <s>At the end he <choice><orig>sais</orig><reg>says</reg></choice> that after this miracle and everything has changed, one thing hasn't changed.</s>
+        <s>His love which he wrote down and then it shines even brighter <choice><orig>then</orig><reg>than</reg></choice> the season winter.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> used a lot of stylistic devices to describe his own impressions and feelings of the winter season.</s>
+        <s>He remembers in the sonnet to a couple of his favourite things in the earlier seasons to show what he is excited for after winter.</s>
+        <s>He shows his emotions in a lyrical master class so he don't needs to double any words.</s>
+        <s>It is a mixture of nature and laughs on it which is maybe <choice><orig>adressed</orig><reg>addressed</reg></choice> to his wife.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

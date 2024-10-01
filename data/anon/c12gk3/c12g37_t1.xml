@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g37_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The drama extract from <ref target="c12gk3_1" type="title">Macbeth</ref> by <ref target="c12gk3_1" type="author">Shakespeare</ref> is about a conversation between <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref> who tries to convince <ref target="c12gk3_1" type="character">Macbeth</ref> to kill <ref target="c12gk3_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref> to get a higher position as king.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="c12gk3_1" type="character">Macbeth</ref> holds a soliloquy.</s>
+        <s>He thinks about to kill <ref target="c12gk3_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref> but does not really want it because of him is honoured and has a high reputation.</s>
+        <s><ref target="c12gk3_1" type="character"><choice><orig>Macbath</orig><reg>Macbeth</reg></choice></ref> knows he should not kill the <choice><orig>king</orig><reg>King</reg></choice> but <ref target="c12gk3_1" type="character">Lady Macbeth</ref> interrupts him.</s>
+        <s>She explains that he should get what he wants and not be a coward.</s>
+        <s>He has to fight and to be brave.</s>
+      </p>
+      <p>
+        <s>But <ref target="c12gk3_1" type="character">Macbeth</ref> is unsure if that behaviour fits to a <choice><orig>men</orig><reg>man</reg></choice>.</s>
+        <s>His wife <choice><orig>convince</orig><reg>convinces</reg></choice> him that that is a <choice><orig>men</orig><reg>man</reg></choice> and that the time and place are now.</s>
+        <s>Then <ref target="c12gk3_1" type="character">Macbeth</ref> is frightened to fail and <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to convince him another time.</s>
+        <s>She tells him that she will get the servants of <ref target="c12gk3_1" type="character">Duncan</ref> drunk and no one will see what is happening.</s>
+        <s>She convinced <ref target="c12gk3_1" type="character">Macbeth</ref> and he start to organize the happening.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g50_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyse the given scene regarding to important cinematic devices.</s>
+      </p>
+      <p>
+        <s>The scene is initiated by <ref target="b10gk5_1" type="character">Chris</ref>, who is searching after <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>We see him walking <choice><orig>toward</orig><reg>towards</reg></choice> <q>us</q>.</s>
+        <s>It is used a medium close up.</s>
+        <s>The audience is focusing on <ref target="b10gk5_1" type="character">Chris</ref>, however the background is still in focus but not that much.</s>
+        <s>The mimics are visible for us.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> is looking with big eyes, searching for <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>With his facial expression the viewer sees that he <choice><orig>know</orig><reg>knows</reg></choice> where he <add>(<ref target="b10gk5_1" type="character">Chris</ref>)</add> wants to go and what he is looking for.</s>
+        <s>Through this expression it is clearly to identify his personality.</s>
+        <s>While he walks to <ref target="b10gk5_1" type="character">Starr</ref> the director used a <choice><orig>slomotion</orig><reg>slow motion</reg></choice>, so <ref target="b10gk5_1" type="character">Chris</ref> has the feeling to be the <q>main character</q>.</s>
+        <s>Due to this use we have the opinion he seems very big.</s>
+      </p>
+      <p>
+        <s>While <ref target="b10gk5_1" type="character">Chris</ref> looks for <ref target="b10gk5_1" type="character">Starr</ref>, he <choice><orig>great</orig><reg>greets</reg></choice> his friends, <choice><orig>claping</orig><reg>clapping</reg></choice> hands and <choice><orig>taping</orig><reg>tapping</reg></choice> someone's shoulders.</s>
+      </p>
+      <p>
+        <s>Because <ref target="b10gk5_1" type="character">Starr's</ref> boyfriend gets the attention of the surrounders, <ref target="b10gk5_1" type="character">Starr</ref> <choice><orig>look</orig><reg>looks</reg></choice> to the ground and sees blue <name type="misc">Jordans</name>.</s>
+        <s>She immediately <choice><orig>know</orig><reg>knows</reg></choice> it's <ref target="b10gk5_1" type="character">Chris</ref> and <choice><orig>feel</orig><reg>feels</reg></choice> happy inside but also wants to show him, he did something wrong.</s>
+        <s>When he approaches, <ref target="b10gk5_1" type="character">Starr</ref> looks in her locker and puts books in her back, so <ref target="b10gk5_1" type="character">Chris</ref> sees her, she isn't looking for him and busy.</s>
+      </p>
+      <p>
+        <s>During this first part of the scene we see two sides.</s>
+        <s>On the one hand a happy <ref target="b10gk5_1" type="character">Chris</ref>, who prepared something for <ref target="b10gk5_1" type="character">Starr</ref>, on the other hand <ref target="b10gk5_1" type="character">Starr</ref>, who can't <choice><orig>realy</orig><reg>really</reg></choice> <choice><orig>handl</orig><reg>handle</reg></choice> this situation and <choice><orig>don't</orig><reg>doesn't</reg></choice> know if she just forget what happened or <choice><orig>don't</orig><reg>doesn't</reg></choice> forgive <ref target="b10gk5_1" type="character">Chris</ref> firstly.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk5_1" type="character">Chris</ref> arrives, standing behind <ref target="b10gk5_1" type="character">Starr</ref> a close up is used.</s>
+        <s>We see both faces but especially <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> reaction, when <ref target="b10gk5_1" type="character">Chris</ref> puts his earphones on her head.</s>
+        <s>The <choice><orig>audiance</orig><reg>audience</reg></choice> can't feel if they were in the same situation as the character, which was the function of a close up.</s>
+      </p>
+      <p>
+        <s>We see her smiling and she also knows, <ref target="b10gk5_1" type="character">Chris</ref> put his DJ-music on, to excuse for his behaviour.</s>
+        <s>Even <choice><orig>thought</orig><reg>though</reg></choice> she may think this was <quote>cute</quote>, <ref target="b10gk5_1" type="character">Starr</ref> remembers her real feeling she had to show his boyfriend.</s>
+        <s>By contrast she firstly describes him with his addiction to <name type="misc">Jordans</name> and his soft lips.</s>
+      </p>
+      <p>
+        <s>She tells him that she didn't like what he did the other day and it is clear, she is a bit <choice><orig>furieus</orig><reg>furious</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Chris</ref><choice><orig>exuses</orig><reg>excuses</reg></choice> but <choice><orig>ask</orig><reg>asks</reg></choice> why he never can visit <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> family, why no one of her family knows about him even <choice><orig>thought</orig><reg>though</reg></choice> they're dating for almost six <choice><orig>month</orig><reg>months</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The camera switches to the person who is talking at the moment.</s>
+        <s>When <ref target="b10gk5_1" type="character">Starr</ref> was confronted by <ref target="b10gk5_1" type="character">Chris</ref>, she can't give an answer and lies.</s>
+        <s>It's not that she <choice><orig>don't</orig><reg>doesn't</reg></choice> want to present him her parents.</s>
+        <s>She thinks she gets into trouble with her father, when she brings a white boy at home, who could be racist.</s>
+        <s>After <ref target="b10gk5_1" type="character">Chris</ref> switches theme and wants a feedback of his music, <ref target="b10gk5_1" type="character">Starr</ref> answers with: <quote>It was ok</quote>, which illustrates a distance between them.</s>
+        <s>Later <ref target="b10gk5_1" type="character">Chris</ref> wants to prove his love to <ref target="b10gk5_1" type="character">Starr</ref> he turns on his DJ-composition and starts to dance.</s>
+      </p>
+      <p>
+        <s>Here a voice over was used.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> is <quote>fully aware</quote>, because everyone around <choice><orig>watch</orig><reg>watches</reg></choice> <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>Here <choice><orig>an</orig><reg>a</reg></choice> medium long-shot is used.</s>
+        <s>We see <ref target="b10gk5_1" type="character">Chris</ref> dancing, but also the reactions of the other students.</s>
+        <s>To finish this aware, <ref target="b10gk5_1" type="character">Starr</ref> takes his hand and <choice><orig>go</orig><reg>goes</reg></choice> away with him.</s>
+      </p>
+      <p>
+        <s>To sum up we can say, that a lot of cinematic devices were used to express the emotions and finally inform the viewer about it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

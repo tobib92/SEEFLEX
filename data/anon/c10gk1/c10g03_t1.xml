@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g03_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>articel</orig><reg>article</reg></choice> <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> from the <name type="misc">Sunday Times</name>, written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref>, <choice><orig>pulic</orig><reg>published</reg></choice> at the <date>17th December 2016</date> describes the view from the author about parallel societies and the current issues of <choice><orig>imigration</orig><reg>immigration</reg></choice>.</s>
+        <s>Also the author <choice><orig>critizies</orig><reg>criticizes</reg></choice>, that £100<choice><abbr>m</abbr><expan>million</expan></choice> were spent on translating and interpreting for British residents and the message, they don't have to learn <choice><orig>english</orig><reg>English</reg></choice> and immigrate.</s>
+        <s>On the other hand the <choice><orig>auther</orig><reg>author</reg></choice> explains the problem of parallel <choice><orig>societys</orig><reg>societies</reg></choice>, which you can notice in some districts of <name type="geo">London</name>, which are representing <name type="geo">Bangladesh</name>.</s>
+        <s>The author thinks, that celebrating our diversity, like modern schools do, doesn't <choice><orig>helps</orig><reg>help</reg></choice>, because you have to learn to tackle the problems on your own and to speak <choice><orig>english</orig><reg>English</reg></choice> and immigrate in this case.</s>
+        <s>The author demands making English compulsory for all English residents, because immigration would be much more easier on this way and there wouldn't be parallel <choice><orig>societys</orig><reg>societies</reg></choice> between the <choice><orig>difrent</orig><reg>different</reg></choice> immigrated ethnics.</s>
+        <s>All in all <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> <choice><orig>critisize</orig><reg>criticizes</reg></choice> the coast for translation and interpreting because they are supporting parallel <choice><orig>societys</orig><reg>societies</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

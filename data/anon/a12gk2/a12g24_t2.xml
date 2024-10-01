@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g24_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analysed how <ref target="a12gk2_1" type="author">John Worne</ref> presents his view in his article <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> published in the <name type="misc">Telegraph</name> on <date>27 January 2015</date>, about the <choice><orig>importancy</orig><reg>importance</reg></choice> of foreign languages in the <name type="geo">UK</name>.</s>
+        <s>The focus will be on the use of <choice><orig>comunicative</orig><reg>communicative</reg></choice> strategies and the use of <choice><orig>languge</orig><reg>language</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Already in the title the author makes use of a parallelism and informal language <ref target="a12gk2_1" type="title">'can't, won't, don't'</ref>.</s>
+        <s>It has the effect that it catches the reader to read the article.</s>
+        <s>Because of the use of informal <choice><orig>languge</orig><reg>language</reg></choice> it becomes already in the title clear that the article is directed on parents and young people.</s>
+        <s>The author uses nearly in the whole article informal language.</s>
+        <s>Exceptions are that paragraphs where he presents statistics <quote>and expect to grow <gap reason="illegible" quantity="1" unit="word">us</gap> more times look to break into new fast-growing markets</quote> <ref target="a12gk2_1" type="line">(l. 20)</ref>.</s>
+        <s>Statistics are by the way another strategy which the author uses to convince the reader.</s>
+        <s>An example for this <gap reason="illegible" quantity="1" unit="word">Ui</gap> <quote>the most recent CDI / Pearson Education and Skills <choice><orig>Surve</orig><reg>Survey</reg></choice> showed</quote><ref target="a12gk2_1" type="line">(l. 19)</ref>.</s>
+        <s>It has the effect that the article wins credibility and <choice><orig>convince</orig><reg>convinces</reg></choice> the reader of the opinion of the author.</s>
+      </p>
+      <p>
+        <s>Besides, the author uses <gap reason="illegible" quantity="1" unit="word">alrichy</gap><quote>perfectly intelligent people will tell you not to worry</quote><ref target="a12gk2_1" type="line">(l. 12 )</ref>.</s>
+        <s>With this strategy the author makes the <gap reason="illegible" quantity="1" unit="word">conbiu-sike</gap> a little bit <choice><orig>ridicolos</orig><reg>ridiculous</reg></choice> and <choice><orig>emphazis</orig><reg>emphasizes</reg></choice> that his opinion is right.</s>
+      </p>
+      <p>
+        <s>Moreover, he tells in this paragraph a few arguments of <choice><orig>this</orig><reg>these</reg></choice> <quote>perfectly intelligent people</quote><ref target="a12gk2_1" type="line">(l. 12)</ref> for example <quote>everyone speaks English in the world of business</quote><ref target="a12gk2_1" type="line">(l. 12)</ref>.</s>
+        <s>But, instant behind this, contra arguments <quote>he refutes them [they don't]</quote><ref target="a12gk2_1" type="line">(l. 13)</ref>.</s>
+        <s>In this way he gives the contra side not the opportunity to convince the reader.</s>
+      </p>
+      <p>
+        <s>Furthermore he makes use of an enumeration <quote>languages are essential for our <gap reason="illegible" quantity="1" unit="word">binde</gap>, prosperity, cultural exports, diplomacy and security</quote><ref target="a12gk2_1" type="line">(l. 22)</ref>.</s>
+        <s>Also, he uses there only positively connoted words like <quote>a national <gap reason="illegible" quantity="1" unit="word">securely</gap></quote><ref target="a12gk2_1" type="line">(l. 18)</ref> to make clear how important foreign languages are and what the consequences are, if they are not getting popular.</s>
+        <s>The enumeration is also combined with a climax which stresses this <gap reason="illegible" quantity="1" unit="word">lihe</gap> and the message even more.</s>
+      </p>
+      <p>
+        <s>Moreover, the author uses inclusive language <quote>we as parents</quote><ref target="a12gk2_1" type="line">(l. 53)</ref>.</s>
+        <s>It has the effect that the readers <gap reason="illegible" quantity="1" unit="word">foals</gap> involved and directly <gap reason="illegible" quantity="1" unit="word">abbacrbed</gap>.</s>
+      </p>
+      <p>
+        <s>Furthermore, he makes use of a personal <gap reason="illegible" quantity="1" unit="word">tore</gap> <quote>( and, I'm one)</quote><ref target="a12gk2_1" type="line">(l. 32)</ref> to make this line more emotional.</s>
+        <s>Because of this the <gap reason="illegible" quantity="4" unit="word">a re reo reade</gap> becomes <gap reason="illegible" quantity="1" unit="word">cble</gap> clear that this problem concerns everyone.</s>
+      </p>
+      <p>
+        <s>Besides, he <choice><orig>use</orig><reg>uses</reg></choice> short paragraphs to give the article a clear structure.</s>
+        <s>But, on the second view <gap reason="illegible" quantity="1" unit="word">ibe</gap> is becomes clear that the structure is not clear.</s>
+        <s>He usually mixes statistics and arguments with his opinion.</s>
+        <s>This has the effect that he <choice><orig>convince</orig><reg>convinces</reg></choice> the reader that his opinion is the only right opinion.</s>
+      </p>
+      <p>
+        <s>All in all, one can say that <ref target="a12gk2_1" type="author">Worne</ref> uses many communicative strategies and <gap reason="illegible" quantity="2" unit="word">nd an</gap> convincing change of formal and informal <choice><orig>languge</orig><reg>language</reg></choice> to convince the reader of his opinion.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

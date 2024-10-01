@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l31_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear pen pal,</salute>
+      </p>
+      <p>
+        <s>Thank you for your last email.</s>
+        <s>Yes <name type="person">Shakespeare</name> is played in German theatres.</s>
+        <s>I have found an interesting article from <ref target="a12lk2_2" type="author">Karim Saab</ref> published in the <name type="misc">Märkische Allgemeine</name> I want to tell you about.</s>
+        <s>The article is about why <name type="person">Shakespeare's</name> plays are performed at their theatre.</s>
+      </p>
+      <p>
+        <s>The main rason <name type="person">Shakespeare</name> is still performed on stage at the theatre is that <choice><orig>everytime</orig><reg>every time</reg></choice> a play of him is performed something new is discovered of him, so it is never going to be boring.</s>
+        <s>Moreover a whole new world is produced through his plays as well as a new present time.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> shapes the art of theatres in many different ways.</s>
+        <s>His works were and still are very formative for other poets and writers like <name type="person">Goethe</name> or <name type="person">Schiller</name>.</s>
+        <s><name type="person">Shakespeare</name> not only inspired other writers with his works, he also inspired many people from all ages and won with that a big field of audiences around the world.</s>
+      </p>
+      <p>
+        <s>With his works he created a shaping of all eras which is why you are going to be convinced with him at any time of your life.</s>
+      </p>
+      <p>
+        <s>Another big reason that <name type="person">Shakespeare</name> is still performed at those days and in future is that <name type="person">Shakespeare</name> is like a symbol for the theatre as well as for example <name type="person">Bach</name> has a big meaning for music.</s>
+        <s>For some actors his way of using words to describe certain things is very special.</s>
+        <s>With his plays he creates a bunch of new feelings that makes it more enjoyful and <choice><orig>exited</orig><reg>exciting</reg></choice> to perform on stage.</s>
+      </p>
+      <p>
+        <s>I hope I could help you answering your question.</s>
+        <s><choice><orig>let</orig><reg>Let</reg></choice> me know how your essay was going.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

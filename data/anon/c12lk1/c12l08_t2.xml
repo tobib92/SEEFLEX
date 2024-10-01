@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l08_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Following, I am going to analyze the language and stylistic devices used in order to convey the intention of the sonnet.</s>
+      </p>
+      <p>
+        <s>The first quatrain starts with the rhetorical question, in which way beauty is able to withstand decay when even <quote>[...] brass, nor stone, nor earth, nor boundless sea</quote> cannot <ref target="c12lk1_1" type="line">(cf. v. 1)</ref>.</s>
+        <s>This impossibility is underlined by the anaphora such as by the climax <quote>[...] nor stone, nor earth, nor boundless sea</quote> <ref target="c12lk1_1" type="line">(cf. v. 1)</ref>.</s>
+        <s>In <choice><orig>vers</orig><reg>verse</reg></choice> four beauty is metaphorically defined as a <quote>flower</quote>.</s>
+        <s>Especially this comparison <choice><orig>hilights</orig><reg>highlights</reg></choice> the beauty's weakness.</s>
+        <s>The sadness of that is stressed by the assonance of the <quote>o</quote> in v. 4 <quote>Whose action is no stronger than a flower?</quote>.</s>
+        <s>If you read it out loud, you need to take a deep breath in because it is very monotonous and sluggish.</s>
+        <s>This sluggish breath taking process can be transferred to the attempt of trying to keep the Fair Youth's beauty alive.</s>
+      </p>
+      <p>
+        <s>Such as the assonance of the <quote>o</quote> goes on in <choice><orig>vers</orig><reg>verse</reg></choice> five, the helplessness does.</s>
+        <s>Therefore <quote>[...] summer's honey breath [cannot] hold out [a]gainst the wrackful siege of batt'ring days</quote> <ref target="c12lk1_1" type="line">(cf. vv. 5-6)</ref>.</s>
+        <s>On the one hand, time enables nature to glow but on the other hand, it steals its beauty.</s>
+        <s>That fact is underlined by the paradox in <choice><orig>vers</orig><reg>verse</reg></choice> seven, thus <quote>rock [...] impregnable [but at the same time] [...] not so stout</quote>.</s>
+        <s>In addition, the anaphora in <choice><orig>vers</orig><reg>verse</reg></choice> one <quote>[...] nor, [...] nor, [...] nor. [...]</quote> is seized in <choice><orig>vers</orig><reg>verse</reg></choice> eight <quote>Nor [...]</quote> to highlight that even unnatural things, for instance <quote>[...] gates of steel [...]</quote> <ref target="c12lk1_1" type="line">(cf. v. 8)</ref> cannot withstand the process of aging.</s>
+        <s>However, the alliteration <quote>[...] steel so strong [...]</quote> in <choice><orig>vers</orig><reg>verse</reg></choice> eight highlights the material's <choice><orig>strenght</orig><reg>strenghth</reg></choice>, the word <quote>but</quote> <ref target="c12lk1_1" type="line">(cf. v. 8)</ref> encounters that immediately.</s>
+        <s>Moreover, the iambic pentameter may symbolize the <quote>tick, tack</quote> of a clock.</s>
+        <s>Keeping that in mind, whilst reading the sonnet, the reader itself, the <quote>Fair Youth</quote>, nature and everything on earth ages.</s>
+      </p>
+      <p>
+        <s>Furthermore, the lyrical voice complains about <quote>[the] [...] tearful meditation</quote> <ref target="c12lk1_1" type="line">(cf. v. 9)</ref> of finding a solution to <quote>[forbid] [the Fair Youth's] spoil of beauty</quote> <ref target="c12lk1_1" type="line">(cf. v. 12)</ref>.</s>
+        <s>Firstly, the lyrical persona compares his addressee with the <quote>time's best jewel</quote> <ref target="c12lk1_1" type="line">(cf. v. 10)</ref> which <quote>[shall hid] from time's chest lie</quote> <ref target="c12lk1_1" type="line">(cf. v. 10)</ref>.</s>
+        <s>That this would not make sense is underlined by the rhetorical structure of the <choice><orig>vers</orig><reg>verse</reg></choice> <ref target="c12lk1_1" type="line">(cf. v. 10)</ref>.</s>
+        <s>Further, the speaker compares his addressee with the imaginary of <quote>swift [feet]</quote> <ref target="c12lk1_1" type="line">(cf. v. 11)</ref> that need a super <quote>strong hand</quote> <ref target="c12lk1_1" type="line">(cf. v. 11)</ref> to be hold back.</s>
+        <s>Keeping the general amount of the <quote>Fair Youth</quote> sonnets in mind, one can <choice><orig>asume</orig><reg>assume</reg></choice> that the poet might be a little jealous <ref target="c12lk1_1" type="line">(cf. v. 11)</ref> because while he is waiting for the <quote>Fair Youth</quote> to turn back to him, the <quote>Fair Youth</quote> is having fun with others.</s>
+        <s>Further, the anaphora <quote>Or what a strong hand...</quote> <ref target="c12lk1_1" type="line">(cf. v. 11)</ref> and <quote>Or who his spoil...</quote> <ref target="c12lk1_1" type="line">(cf. v. 12)</ref>, underlined by a parallelistic sentence structure, encounters the image of <choice><orig>an</orig><reg>a</reg></choice> jealous poet.</s>
+        <s>Instead, the lyrical persona explains that he is only trying to find a solution for the <quote>Fair Youth's</quote> beauty to resist decay.</s>
+      </p>
+      <p>
+        <s>The final couplet finally soluts <quote>[t]hat in black ink my love may still shine bright</quote> <ref target="c12lk1_1" type="line">(cf. v. 11)</ref> which means that the <quote>Fair Youth's</quote> Beauty will everlast through the <choice><orig>sonnets</orig><reg>sonnet's</reg></choice> words no matter if the young men ages or eventually dies someday.</s>
+        <s>The impossibility of that, as mentioned in the first three quatrains, is replaced by a <quote>miracle</quote> <ref target="c12lk1_1" type="line">(cf. v. 13)</ref>.</s>
+        <s>This <quote>[his] love</quote> <ref target="c12lk1_1" type="line">(cf. v. 14)</ref>, the <quote>Fair Youth</quote>, <quote>may still shine bright</quote> <ref target="c12lk1_1" type="line">(cf. v. 14)</ref>.</s>
+        <s>In addition, the alliteration <quote>still shine</quote> <ref target="c12lk1_1" type="line">(cf. v. 14)</ref> tones that the beauty of the young man is as attention seeking as the conspicuous letter <quote>s</quote>.</s>
+      </p>
+      <p>
+        <s>To put it all in a nutshell, the language and stylistic devices of <ref target="c12lk1_1" type="title">Sonnet 65</ref> stress the intention of the poet.</s>
+        <s>Thus, the message of the sonnet's power to capture the fair youth's beauty in its words becomes evident and a significant for the fair youth sonnets.</s>
+        <s>In general, those are about the deep friendship between the fair youth and the poet, but while the poet <choice><orig>dots</orig><reg>dotes</reg></choice> on the attractive man, the man sometimes hangs around with others.</s>
+        <s>Although, the poet is aware of that he cannot stop loving the man.</s>
+        <s>Thus he writes sonnets about him to capture his love in the words of the sonnets because that is the only thing that holds a plea against natural decay and <choice><orig>transience</orig><reg>transcience</reg></choice></s>
+      </p>
+    </body>
+  </text>
+</TEI>

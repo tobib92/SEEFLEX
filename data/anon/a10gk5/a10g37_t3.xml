@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g37_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Are people resposible for the results of <choice><orig>enviremental</orig><reg>environmental</reg></choice> pollution?</s>
+        <s><choice><orig>and</orig><reg>And</reg></choice> can we change something and make the earth a better place?</s>
+        <s><choice><orig>Defently</orig><reg>Definitely</reg></choice>, the earth is getting destroyed by ourselves with electric waste or all the</s>
+      </p>
+    </body>
+  </text>
+</TEI>

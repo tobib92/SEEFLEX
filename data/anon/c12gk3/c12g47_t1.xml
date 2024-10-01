@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g47_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract of <ref target="c12gk3_1" type="title">Macbeth</ref> written by <ref target="c12gk3_1" type="author">Shakespeare</ref> is about an argument between <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife.</s>
+        <s>They discuss if they really should kill the King or not.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> begins the argument by telling his wife that he won't kill the King for now.</s>
+        <s>His wife does not like his idea and tries to convince him by calling him a coward and saying that he has no courage.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> gets angry and tells her to stop.</s>
+        <s>He thinks that doing that is not a proper behaviour for a man.</s>
+      </p>
+      <p>
+        <s>But <ref target="c12gk3_1" type="character">Lady Macbeth</ref> still tries to convince him.</s>
+        <s>She says that he could be more than a man and that he waited for so long to be right time.</s>
+        <s>She thinks that the time has come and he has to do it.</s>
+        <s>Slowly <ref target="c12gk3_1" type="character">Macbeth</ref> trusts her but he is scared of failing.</s>
+        <s>His wife calms him down by telling him how exactly they will kill the King.</s>
+        <s>She wants the guards to get so drunk that they will be no problem for them.</s>
+        <s>At the end his wife convinced him to kill the <choice><orig>king</orig><reg>King</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

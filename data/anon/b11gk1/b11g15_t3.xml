@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g15_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>With the novel <ref target="b11gk1_1" type="title">Gun Love</ref>, written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in <date>2019</date>, we learn a lot about the life of <ref target="b11gk1_1" type="character">Pearl</ref> and her homelessness.</s>
+        <s>We experience how much problems she has to fight with because of the living conditions in the trailer park.</s>
+      </p>
+      <p>
+        <s>An interesting idea to improve these <choice><orig>standarts</orig><reg>standards</reg></choice>, is that <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> should take <ref target="b11gk1_1" type="character">Pearl</ref> away from her mother to bring her to a foster home.</s>
+      </p>
+      <p>
+        <s>With this, <ref target="b11gk1_1" type="character">Pearl</ref> would have much more opportunities to get out of her situation.</s>
+        <s>She would be a part of the society!</s>
+      </p>
+      <p>
+        <s>With a life in a real city, she could go to school too, but could help herself and work to get out of her life situation.</s>
+        <s>She could do a side job while school and would have in general more help of others and maybe also from the social systen when she woulf live in a big and modern city, not far away from everything like before.</s>
+      </p>
+      <p>
+        <s>On the other hand she would lose her life in the trailer park.</s>
+        <s>Together with the other <choice><orig>inhebitants</orig><reg>inhabitants</reg></choice> they create a good and <choice><orig>respectfull</orig><reg>respectful</reg></choice> atmosphere.</s>
+        <s>She would lose her relationships with friends like <ref target="b11gk1_1" type="character">April May</ref> and <ref target="b11gk1_1" type="character">Corazon</ref>.</s>
+      </p>
+      <p>
+        <s>But she would have a better surrounding!</s>
+        <s>A roof over her head, a real bed and no town dump next to her.</s>
+        <s>It would be better for her health and would highlight her life situation.</s>
+      </p>
+      <p>
+        <s>On the other side, the conditions in foster homes are often really bad too.</s>
+        <s>Children often have to deal a lot with violence through other foster children.</s>
+        <s><choice><orig>Expecially</orig><reg>Especially</reg></choice> for <ref target="b11gk1_1" type="character">Pearl</ref>, it would be really dangerous.</s>
+        <s>She is very small and thin, has no power to defend herself.</s>
+      </p>
+      <p>
+        <s>When you think about the ideas of the American Dream, it would be better if they do everything to give <ref target="b11gk1_1" type="character">Pearl</ref> the chance to improve her situation.</s>
+        <s>With this she could <choice><orig>fullfile</orig><reg>fulfil</reg></choice> the dream and could help herself.</s>
+      </p>
+      <p>
+        <s>In a city she has the opportunities to work harder and to grow to the fullest stature of herself.</s>
+      </p>
+      <p>
+        <s>But this is a risk anyway.</s>
+        <s>What if <ref target="b11gk1_1" type="character">Pearl</ref> would end up like <ref target="b11gk1_1" type="character">Helen</ref>, when she has to live in foster homes since a very young age?</s>
+        <s>Children need to be close to their mother, it is really dangerous for her development to take them away.</s>
+        <s>In addition to that there is, beside the fact of the bad surrounding of the park, no real need to take her away.</s>
+        <s>Her mother <ref target="b11gk1_1" type="character">Margot</ref> actually cars for her and teaches her a lot.</s>
+        <s>Why taking a child from her mother when the mother can <choice><orig>hendle</orig><reg>handle</reg></choice> it?</s>
+      </p>
+      <p>
+        <s>To sum up, this is a very difficult and <choice><orig>divers</orig><reg>diverse</reg></choice> question.</s>
+        <s>In my opinion, in <ref target="b11gk1_1" type="character"><choice><orig>Pearls</orig><reg>Pearl's</reg></choice></ref> case it would not be a good idea to take her away from her mother and her life in the trailer park.</s>
+        <s>The risk is <choice><orig>to</orig><reg>too</reg></choice> high that it could <q>destroy</q> <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+        <s>Of course, there are many positive aspects, but they are only possibilities.</s>
+        <s>It can be great for her to live a life in a foster home when she has luck.</s>
+        <s>But when she has not, it can have a real bad ending, worser than a life in a car.</s>
+      </p>
+      <p>
+        <s>For <ref target="b11gk1_1" type="character">Pearl</ref> it would be <choice><orig>helpfull</orig><reg>helpful</reg></choice> if they get financial help from the government.</s>
+        <s>Maybe with this, they could move on together and can afford a real home.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

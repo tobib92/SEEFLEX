@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first half of the text she describes the events mostly in third person <choice><orig>exept</orig><reg>except</reg></choice> when is being directly talked to.</s>
+        <s>She describes her surroundings very detailed <choice><orig>She</orig><reg>she</reg></choice> doesn't talk until <name type="person">Seven</name> talks to her.</s>
+        <s>In her flashbacks about the incident the text is in third person but wihtout the narrator being a person and only the events of the situation being described as a <choice><orig>Witness</orig><reg>witness</reg></choice> but not her thoughts or feeligns which probably symbolises her not being able to do anything, when her friend was shot.</s>
+        <s><choice><orig>the</orig><reg>The</reg></choice> parts of the text, that is written in third person is before she gained courage to describe her isolation and anxiety and helplessness.</s>
+        <s>She also doesn't talk until she is being spoken to but when she was put on top of the car and the crowd accepted her and she gained courage.</s>
+        <s>After being put on top of the car the text <choice><orig>primarely</orig><reg>primarily</reg></choice> is written in first person.</s>
+        <s>She speaks without being spoken to and expresses her thoughts and feelings.</s>
+        <s>This <choice><orig>symbalyses</orig><reg>symbolises</reg></choice> the state of the black people in <name type="geo">Garden Heights</name> in <choice><orig>present</orig><reg>presence</reg></choice> of the police: they are not allowed to talk, they don't think about anything other than fear.</s>
+        <s><choice><orig>third</orig><reg>Third</reg></choice> person <choice><orig>symbolyses</orig><reg>symbolises</reg></choice> the state of mind in their usual lifes is being portrayed: they think about their problems but they are not able to express their feelings because they fear, the police might be next also in the third person perspective <name type="person">Starr</name> doesn't talk until he is being talked to: like in the interrogations.</s>
+        <s>But in first person they are finally able to express their thoughts and feelings and speak up against their opressors.</s>
+        <s>They are united under the same goal to get justice for <name type="person">Khalil</name> and finally being treated equal.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

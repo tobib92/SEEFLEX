@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Every quatrain and the final couplet have their own intention and meaning for the sonnet.</s>
+        <s>The first quatrain in there to present the subject of the sonnet.</s>
+        <s>It raises a question which is then answered in the final couplet.</s>
+        <s>So the couplet contains the core of the sonnet.</s>
+      </p>
+      <p>
+        <s>The second quatrain brings further imagery and metaphor to the question being raised in The first quatrain.</s>
+        <s>This imagery is then followed by a twist in the last quatrain.</s>
+        <s>That twist extends the imagery given <choice><orig>beforhand</orig><reg>beforehand</reg></choice> and adds meaning to the main theme or subject.</s>
+      </p>
+      <p>
+        <s>The strong imagery in the second quatrain is supported by <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> <choice><orig>deliverig</orig><reg>delivering</reg></choice> a hard contrast to the reader.</s>
+        <s>He mentions <quote>summer's honey breath</quote> <ref target="c12lk1_1" type="line">(l. 5)</ref> and personificates it to show how delightful nature can be.</s>
+        <s>Then he immediately creates the image of it being destroyed and compares it to rocks and steel.</s>
+        <s>This contrast is there to show how much humans impact the <quote>spoil of beauty</quote> <ref target="c12lk1_1" type="line">(l. 12)</ref> in nature.</s>
+        <s>Even this personification <quote>spoil of beauty</quote> just further <choice><orig>exagerates</orig><reg>exaggerates</reg></choice> this image of it being slowly but steady destroyed.</s>
+      </p>
+      <p>
+        <s>The first verse an immediate image of the dimension and which <choice><orig>human</orig><reg>humans</reg></choice> are <choice><orig>abuot</orig><reg>about</reg></choice> to destroy nature.</s>
+        <s>By using this alliteration with <quote>nor</quote> and using more and more bigger areas of nature he shows that there are no <choice><orig>boundries</orig><reg>boundaries</reg></choice> given to the <choice><orig>extend</orig><reg>extent</reg></choice> of destruction.</s>
+      </p>
+      <p>
+        <s>The question <quote>Whose action is no stronger than a flower?</quote> is intentionally absurd and implicates from the beginning that nature isn't safe from anybody.</s>
+      </p>
+      <p>
+        <s>All those comparisons and personifications lead to the reader being more and more shocked or even inspired by his message.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c12lk1_1" type="author">Shakespeare's</ref> intention is to either give attention to the topic of <choice><orig>natures</orig><reg>nature's</reg></choice> destroy caused by human or to just show how well sonnets and poetry can show and <choice><orig>embodie</orig><reg>embody</reg></choice> the beauty of nature.</s>
+        <s>With that being his intention <ref target="c12lk1_1" type="title">Sonnet 65</ref> can be put in the context of sonnets which <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> <choice><orig>adressed</orig><reg>addressed</reg></choice> to his beloved friend.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

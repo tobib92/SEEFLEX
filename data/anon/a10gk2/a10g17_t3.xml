@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g17_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Do we always have to <choice><orig>compere</orig><reg>compare</reg></choice> situations with each other?</s>
+        <s>I don't think so because in the statement from <ref target="a10gk2_1" type="author">Brian Pollard</ref> we compare two very different things and situations with each other.</s>
+        <s>I think that you can't compare employees, who needed help because their working conditions have been so bad that they died and for example were more than just exhausted and then they didn't even got enough money for their job and employers, who don't get enough productivity and inspiration from their employees.</s>
+        <s>The worker needed help because they couldn't change a thing; they were the smallest part in the <quote>factory system</quote>, but the employers can change a thing; maybe with a better working atmosphere or with giving them more money for having productive ideas.</s>
+        <s>Moreover I think that people, who like to work for an employer are going to work good and much; maybe there is something different that isn't good in this unions anymore that makes that the poeple aren't as productive as before anymore.</s>
+        <s>Of course it's a little exaggerated that the author calls the employer as exploited, but this doesn't sit right with me; haven't protection and being protected at a work place isn't exploiten, <choice><orig>its</orig><reg>it's</reg></choice> the thing that should exist everywhere and that should be normal!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

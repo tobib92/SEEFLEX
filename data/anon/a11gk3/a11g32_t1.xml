@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g32_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt of the novel <ref target="a11gk3_1" type="title">The Hate U Give</ref> from <ref target="a11gk3_1" type="author">Angie Thomas</ref>, published by <name type="misc">Cornelsen</name> <date>2019</date>, is about <ref target="a11gk3_1" type="character">Starr</ref> and her friends protesting for <choice><orig>Justice</orig><reg>justice</reg></choice> for <ref target="a11gk3_1" type="character">Khalil</ref> and about <ref target="a11gk3_1" type="character">Starr</ref> speaking to the cops, angry about <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> death.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref>, <ref target="a11gk3_1" type="character">Chris</ref>, <ref target="a11gk3_1" type="character">Seven</ref> and <ref target="a11gk3_1" type="character">DeVante</ref> find <choice><orig>themselve</orig><reg>themselves</reg></choice> in a large crowd of people pointing hairbushes in the air.</s>
+        <s>The protest happens, where <ref target="a11gk3_1" type="character">Khalil</ref> got shot and <ref target="a11gk3_1" type="character"><choice><orig>Star</orig><reg>Starr</reg></choice></ref> sees the situation happening again in her thoughts.</s>
+        <s>Because of her thoughts of <ref target="a11gk3_1" type="character">Khalil</ref> she and her friend scream what the crowd screams: <quote>A hairbrush is not a gun</quote> <ref target="a11gk3_1" type="line">(l. 20)</ref>.</s>
+        <s>She meets her <choice><orig>attorny</orig><reg>attorney</reg></choice> who is protesting with a bullhorn <ref target="a11gk3_1" type="line">(ll. 24-25)</ref>.</s>
+        <s>They talk about <ref target="a11gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> need to do something for <ref target="a11gk3_1" type="character">Khalil</ref> <ref target="a11gk3_1" type="line">(l. 30)</ref> so her <choice><orig>Attorney</orig><reg>attorney</reg></choice> <ref target="a11gk3_1" type="character">Ms. Ofrah</ref>, lets her use the bullhorn <ref target="a11gk3_1" type="line">(ll. 38-39)</ref>.</s>
+      </p>
+      <p>
+        <s>At first <ref target="a11gk3_1" type="character">Starr</ref> is not sure what to say, but the crowd and <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> cheer her up <ref target="a11gk3_1" type="line">(l. 46)</ref>.</s>
+        <s>So she starts speaking to the crowd <ref target="a11gk3_1" type="line">(l. 51)</ref>.</s>
+        <s>She says what she always wanted to say, that the fact that <ref target="a11gk3_1" type="character">Khalil</ref> lived is important, not how he died <ref target="a11gk3_1" type="line">(ll. 59-61)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

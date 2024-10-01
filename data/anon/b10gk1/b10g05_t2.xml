@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following the given scene will be analyzed with regards to the presentation of <ref target="b10gk1_1" type="character">Chris</ref> and his relationship to <ref target="b10gk1_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> is a funny and self confident person, who sometimes is rash but still can be serious and romantic.</s>
+        <s>His relationship to <ref target="b10gk1_1" type="character">Starr</ref> is full of love but still not without conflicts.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Chris'</ref> self confidence and happiness is built on <choice><orig>beeing</orig><reg>being</reg></choice> liked in school and his friends.</s>
+        <s>This is especailly pointed out by the first scene which is shown to the viewer in slow motion and in which <ref target="b10gk1_1" type="character">Chris</ref> greets his friends.</s>
+        <s>His emotions in this scene are brought to the viewer by medium close ups of his head from different sides and angles.</s>
+        <s>His rashness <choice><orig>can not</orig><reg>cannot</reg></choice> be seen in this sequence but by <ref target="b10gk1_1" type="character">Starr's</ref> reaction to him and the <q>Condom-Gate</q>.</s>
+        <s>Her emotions are also brought through close ups which are especially in the argument between <ref target="b10gk1_1" type="character">Starr</ref> and <ref target="b10gk1_1" type="character">Chris</ref>, fastly alternating between them.</s>
+        <s>In this scene <ref target="b10gk1_1" type="character">Chris's</ref> seriousness is proven by his emotions and the deeper, more serious voice, but he still is a person which isn't too serious proven by solving the argue by dancing to his beat in public, which is brought to the viewer in another slow motion, proving his self-confidence.</s>
+      </p>
+      <p>
+        <s>That their relationship is romantic and full of love can be seen in the first scene too.</s>
+        <s>As <ref target="b10gk1_1" type="character">Chris</ref> walks through the hallway a romantic song is played in which a woman sings about the ocean eyes of another person.</s>
+        <s>The camera is from <ref target="b10gk1_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> perspective.</s>
+        <s>This position is used to tell the viewer that the romantic music is showing <ref target="b10gk1_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> real emotions for <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+        <s>The slow-motion is used to give the music more time to display its effect.</s>
+        <s>But, their relationship still has serious moments too.</s>
+        <s>Although <ref target="b10gk1_1" type="character">Starr</ref> first smiles when she hears the new beat <ref target="b10gk1_1" type="character">Chris</ref> made, she gets serious again because <ref target="b10gk1_1" type="character">Chris</ref> did something she didn't like.</s>
+        <s>Her <choice><orig>dissappointment</orig><reg>disappointment</reg></choice> is underlined by her acting, especially by her, looking down on the ground twice in the one close up, showing <ref target="b10gk1_1" type="character">Chris</ref> how small he is for her in the moment and expressing that he is metaphorical on the ground for her.</s>
+        <s>But this argue is solved by <ref target="b10gk1_1" type="character">Chris</ref> dancing, which shows <ref target="b10gk1_1" type="character">Starr</ref> that he is even ready to do unpleasant things in public just to make her happy, which proves the strong relationship.</s>
+        <s>Making her laugh is also one of the two main positive things about him according to <ref target="b10gk1_1" type="character">Starr</ref>.</s>
+        <s>The second are his <name type="misc">Jordans</name>, which she really likes.</s>
+        <s>That is brought to the viewer by her inner <choice><orig>monolog</orig><reg>monologue</reg></choice> about his shoes and her looking at the shoes which can be seen by the camera focusing on them out of her position.</s>
+      </p>
+      <p>
+        <s>As proven, they have a strong and loving relationship.</s>
+        <s>The hypothesis about <ref target="b10gk1_1" type="character">Chris</ref> is also proven by his appearance and <choice><orig>they</orig><reg>the</reg></choice> way it is brought to the viewer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

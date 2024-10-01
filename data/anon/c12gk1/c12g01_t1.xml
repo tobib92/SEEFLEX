@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g01_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref>, written by <ref target="c12gk1_1" type="author">William Shakespeare</ref> in the 16th century, is positioned in the sequence of the young man.</s>
+        <s>It follows, that the idea of the sonnet is related to the love of the speaker to this young man.</s>
+        <s>The main aspect of the sonnet is the comparison of love to landmark or star.</s>
+        <s>Therefore love is limitless, strong and stable, not easy to break.</s>
+      </p>
+      <p>
+        <s>In the first quatrain <ref target="c12gk1_1" type="line">(cf. v. 1-4)</ref> the speaker directly starts with defining what love doesn't mean to him.</s>
+        <s>Therefore love isn't a connection based on obstacles and only with compromises nor it is short timed, because somebody has found another love and changed his mind, due to his active search for somebody new.</s>
+        <s>This would mean, that at least onepart of the relationship is unhappy about the connection.</s>
+      </p>
+      <p>
+        <s>In contrast to that, the speaker points out what real and emotionally deep love actually is <ref target="c12gk1_1" type="line">(cf. v. 5-8)</ref>.</s>
+        <s>In the second quatrain, the speaker <choice><orig>compairs</orig><reg>compares</reg></choice> a landmark or star with this love (his idea of love).</s>
+        <s>Therefore this <quote>star</quote> has the overview over every storm and doesn't get effected by the storms as well as that the star guides lost boats.</s>
+        <s>But nobody knows the values of the landmark and just the distance between them.</s>
+      </p>
+      <p>
+        <s>In the third quatrain <ref target="c12gk1_1" type="line">(cf. v. 9-12)</ref>, love gets described by what it doesn't mean and shouldn't be, too: Love shouldn't be <choice><orig>dependend</orig><reg>dependent</reg></choice> on time and limited ontime.</s>
+        <s>But on the other side the only thing that can stop the love is death.</s>
+        <s>So it follows, that love must exists till death and not only for a few weeks.</s>
+      </p>
+      <p>
+        <s>In the closing couplet <ref target="c12gk1_1" type="line">(cf. vv. 13f.)</ref> the speaker sums his idea of love up and makes a conclusion: This idea of an unlimited and strong, <choice><orig>stabile</orig><reg>stable</reg></choice> love exists, because he writes love poems and other men love, too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

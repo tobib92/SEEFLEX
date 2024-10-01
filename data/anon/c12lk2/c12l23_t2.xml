@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l23_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The poem <ref target="c12lk2_1" type="title">Sonnet 60</ref> written by <ref target="c12lk2_1" type="author">William Shakespeare</ref> and published on an unknown date deals with the role of time in human life.</s>
+      </p>
+      <p>
+        <s>The sonnet is a poem with 14 lines, each containing 10 or 11 syllables, and a fixed scheme.</s>
+        <s>It is arranged in three quatrains and a couplet, cross rhyming and written in iambic pentameter.</s>
+      </p>
+      <p>
+        <s>In the first quatrain the lyrical I, which is <ref target="c12lk2_1" type="author">Shakespeare</ref>, describes how time has an influence on our world.</s>
+        <s>Through the use of the personification <quote>minutes hasten</quote> <ref target="c12lk2_1" type="line">(l. 2)</ref> he expresses that time is running away.</s>
+        <s>This time would run away like <quote>waves makes towards the pebbled shore</quote> <ref target="c12lk2_1" type="line">(l. 1)</ref>.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> compares the time to the movement of waves at the coast through this simile.</s>
+      </p>
+      <p>
+        <s>Furthermore, he states that <quote>sequent toil all forwards</quote> <ref target="c12lk2_1" type="line">(l. 4)</ref> would content which means that hard work change seomthing and is also an aspect of time.</s>
+      </p>
+      <p>
+        <s>In the second quatrain the lyrical I describes the development of a human from birth to death.</s>
+        <s>The alliteration of <q>c</q> in <quote>crawls to maturity</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref> and <quote>crooked eclipses</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref> stresses the point that a human after his birth first moves forward very slowly to maturity and in goes with a crokked back in his last years.</s>
+        <s>The line <quote>and time that gave doth now his gift confound</quote> <ref target="c12lk2_1" type="line">(l. 8)</ref> makes clear that after the death of a person her inheritage gets confused through time.</s>
+        <s>This development underlines his opinion that time has an important influence on human life.</s>
+      </p>
+      <p>
+        <s>In the third quatrain <ref target="c12lk2_1" type="author">Shakespeare</ref> firstly <choice><orig>adresses</orig><reg>addresses</reg></choice> his beloved person with the personal pronoun <quote>youth</quote> <ref target="c12lk2_1" type="line">(l. 9)</ref>.</s>
+        <s>The lyrical I states that time would change the <quote>flourish set on youth</quote> <ref target="c12lk2_1" type="line">(l. 9)</ref> but there are parallels in <quote>beauty's brow</quote> <ref target="c12lk2_1" type="line">(l. 10)</ref>.</s>
+      </p>
+      <p>
+        <s>He wants to express that time changes a person and her beauty but there are still parallels and the character of a person always stays the same.</s>
+        <s>Through using the parallelism of <quote>And</quote> <ref target="c12lk2_1" type="line">(ll. 8, 10, 12, 13)</ref> at the beginning of a line the author draws the reader's attention to the influences time has.</s>
+      </p>
+      <p>
+        <s>In the final couplet <ref target="c12lk2_1" type="author">Shakespeare</ref> wishes that his verse also will stand in far away times.</s>
+      </p>
+      <p>
+        <s>Through the use of the alliteration <quote>shall stand</quote> <ref target="c12lk2_1" type="line">(l. 13)</ref> the underlines this hope.</s>
+        <s>The function of hissonnet would be to <quote>Praising thy worth</quote> <ref target="c12lk2_1" type="line">(l. 14)</ref> what means that the lyrical I wants to show admiration for his beloved person even if there is the <quote>cruel hand</quote> <ref target="c12lk2_1" type="line">(l. 14)</ref> of time.</s>
+      </p>
+      <p>
+        <s>All in all, you can assume that <ref target="c12lk2_1" type="author">Shakespeare</ref> wrote his sonnet his beloved person to show her that time is the dominant factor in life but the beauty of her and this verse too won't change ever.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

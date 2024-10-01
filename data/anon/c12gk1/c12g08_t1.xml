@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g08_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref>, written by <ref target="c12gk1_1" type="author">William Shakespeare</ref> is about love and how steadfast love is.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>describse</orig><reg>describes</reg></choice> love as a thing that never changes it direction like a compass on a ship.</s>
+      </p>
+      <p>
+        <s>The sonnet has 3 quatrains and 1 couplet.</s>
+        <s>In the first <choice><orig>quartrain</orig><reg>quatrain</reg></choice>, <ref target="c12gk1_1" type="author">Shakespeare</ref> says that love doesn't change even when it finds alteration or a part of the love changes.</s>
+        <s><choice><orig>Futhermore</orig><reg>Furthermore</reg></choice> he says that the lover has to admit his impediment of change.</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quartrain</orig><reg>quatrain</reg></choice> is about love as a fixed mark, so that it <choice><orig>can not</orig><reg>cannot</reg></choice> be changed by anything and that the worth of love is unknown but the direction is clear.</s>
+        <s>Love is the orientation when you lost you way and leads you back to <choice><orig>were</orig><reg>where</reg></choice> you belong.</s>
+      </p>
+      <p>
+        <s>The third <choice><orig>quartrain</orig><reg>quatrain</reg></choice> describes that love is not changing in briefly time and that it longs until death.</s>
+        <s>So it means that short time doesn't influence the strength of love.</s>
+      </p>
+      <p>
+        <s>In the last couplet <ref target="c12gk1_1" type="author">Shakespeare</ref> says that if he is wring no man has ever loved right an he has never written any of his plays and sonnets.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

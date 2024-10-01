@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g21_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>According to <ref target="a12gk2_1" type="author">John Worne</ref>, <quote>language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote><ref target="a12gk2_1" type="line">(l. 16)</ref>.</s>
+      </p>
+      <p>
+        <s>I, personally, cannot totally agree with that opinion.</s>
+        <s>Even though I understand that good langauge skills could be useful, e.g. in business, I do not think that there is the need to study tha languages at universities in order to be able to <choice><orig>successful</orig><reg>successfully</reg></choice> participate in the international relationships.</s>
+        <s>Of course it would not harm to know another language, but since English is the language that is used for international business, it is not essential to know another language perfectly.</s>
+        <s>More and more people around the world are able to speak English, which would also explain why less students in the <name type="geo">UK</name> do not feel the need to learn another language.</s>
+        <s>Instead of studying alongside another degree subject, like the author proposes, the students may want to focus on their main subject, in order to be successful at it.</s>
+        <s>If there are some important terminologies for their subject from another language, the students would learn that already and the rest is, in my opinion, not essential for the <name type="geo">UK's</name> future prosperity and global standing.</s>
+      </p>
+      <p>
+        <s>Summing up, I would disagree with the author on his opinion, that the learning of languages is essential for the <name type="geo">UK</name>, especially because the English language is the one most people are able to speak.</s>
+        <s>But I would also say, that it could be useful in some ports of the business world, so if somebody is able to speak more languages, it can also be helpful at some point, but, as already mentioned, not essential.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

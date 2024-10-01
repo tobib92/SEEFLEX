@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g03_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to comment on the <choice><orig>these</orig><reg>thesis</reg></choice>: <quote>The CPS should have taken Pearl away from Margot and the trailer park, put her into a foster home and help her to get a good education and prepare for a better and independent way of life</quote>.</s>
+      </p>
+      <p>
+        <s>At first my opinion is <ref target="b11gk1_1" type="character">Pearl</ref> should not have been taken by the <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> to a foster home.</s>
+      </p>
+      <p>
+        <s>An argument for this <choice><orig>these</orig><reg>thesis</reg></choice> is that <ref target="b11gk1_1" type="character">Pearl</ref> maybe could achieve a better life and live in a house with furniture like she wished it.</s>
+        <s>She could get <choice><orig>trough</orig><reg>through</reg></choice> the final exams at school and study something, she also could meet new people and marry someone.</s>
+        <s>Putting <ref target="b11gk1_1" type="character">Pearl</ref> into a foster home could change her life <choice><orig>compleately</orig><reg>completely</reg></choice> to something good and something different from the trailer park too.</s>
+      </p>
+      <p>
+        <s>Through putting her into a foster home she could achieve her own American Dream, for example she could find a well paid job, buy a home with furniture and maybe marry somtime, so this life would be all in all a much better life than living in a <name type="misc">Ford Mercury</name> next to a garbage dump at a trailer park in the landscape of <name type="geo">Florida</name>, but <ref target="b11gk1_1" type="character">Pearl</ref> could also end up like <ref target="b11gk1_1" type="character">Helen</ref>, changing from foster home to foster home and slowly <choice><orig>dieing</orig><reg>dying</reg></choice> inside.</s>
+      </p>
+      <p>
+        <s>The chance to get stuck at foster homes is much higher than the chance to get out of a foster home and achieve the American Dream.</s>
+        <s>If you get stuck at foster homes, you will not get out that easily and independent, because you have to work really hard and doing this in a foster home is nearly impossible.</s>
+        <s>If you get stuck you also can end up like <ref target="b11gk1_1" type="character">Helen</ref>, not knowing after years who your family is and also getting a mental illness because of the bad treatening.</s>
+        <s>Another point against the <choice><orig>these</orig><reg>thesis</reg></choice> is <ref target="b11gk1_1" type="character">Margot</ref>.</s>
+        <s>Would it be ethically correct to take a daughter away from her mother, who ran away from home to protect just this daughter.</s>
+        <s><ref target="b11gk1_1" type="character">Margot</ref> threw her life away to give <ref target="b11gk1_1" type="character">Pearl</ref> a better life than she had, so taking <ref target="b11gk1_1" type="character">Pearl</ref> away from <ref target="b11gk1_1" type="character">Margot</ref> wouldn't be ethically correct for me.</s>
+        <s>One consequence of this would maybe be the selfmurdering of <ref target="b11gk1_1" type="character">Margot</ref> because <ref target="b11gk1_1" type="character">Pearl</ref> is her only <choice><orig>sence</orig><reg>sense</reg></choice> of <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

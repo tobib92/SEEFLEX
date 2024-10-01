@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g23_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech was delivered on <date>November 7 in 2007</date> by <ref target="a11gk2_1" type="speaker">Barack Obama</ref> at <name type="geo">Bettendorf, Iowa</name> during his first election campaign to persuade the audience to evoke the American Dream and why fighting for it can be so important for <name type="geo">America</name> as a country.</s>
+      </p>
+      <p>
+        <s>First, he begins by talking about the near between <name type="geo">Bettendorf</name> and his home town as one point that the audience and him connect.</s>
+      </p>
+      <p>
+        <s>Then he starts talking about the <choice><orig>seperation</orig><reg>separation</reg></choice> many people are talking about and scary about it.</s>
+        <s>He answers by telling his vision he gets about the last month by travelling <choice><orig>arround</orig><reg>around</reg></choice> the country to present himself as a candidate for <choice><orig>prasident</orig><reg>president</reg></choice>.</s>
+        <s>Moreover he <choice><orig>beliefs</orig><reg>believes</reg></choice> in the American <choice><orig>dream</orig><reg>Dream</reg></choice> because of the reason that he knows that many Americans are hope that the segregation will stop and <name type="geo">America</name> will stick together more and more.</s>
+      </p>
+      <p>
+        <s>Next, he refers to the story of how his parents and how they achieved a lot by believing in <name type="geo">America</name>.</s>
+        <s>They had the chance to become great and <choice><orig>succesful</orig><reg>successful</reg></choice> people because the American Dream offers them.</s>
+        <s>And with this story <ref target="a11gk2_1" type="speaker">Barack</ref> aims to show the audience that the American Dream is important and bring the country further.</s>
+      </p>
+      <p>
+        <s>Finally he outlines what he as a person of <name type="geo">America</name> does for a better <name type="geo">America</name>, <choice><orig>saing</orig><reg>saying</reg></choice> that he helps people in <name type="geo">Chicago</name>, a forgetten corner of <name type="geo">America</name>, as a community organizer.</s>
+        <s>Furthermore he makes clear that he knows that those forgetten corners can be find all over the country and he knows the situation well and is trying even he is not the president right <choice><orig>know</orig><reg>now</reg></choice> to help people but <choice><orig>espacially</orig><reg>especially</reg></choice> those who <choice><orig>seems</orig><reg>seem</reg></choice> forgotten.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a11gk2_1" type="speaker">Obama</ref> tries throughout his speech to convince the audience that the American Dream can help the country for achieving a better future and solving consisting problems.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

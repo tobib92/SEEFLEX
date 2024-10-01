@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g15_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>use</orig><reg>uses</reg></choice> in the sonnet an interesting structure to support the <choice><orig>speakers</orig><reg>speaker's</reg></choice> idea <ref target="c12gk1_1" type="line">(l. 14)</ref> of love.</s>
+        <s>In the first quatrain shows us <ref target="c12gk1_1" type="author">Shakespeare</ref> the view of <choice><orig>an</orig><reg>a</reg></choice> normal person who <choice><orig>don't</orig><reg>doesn't</reg></choice> understand the love.</s>
+        <s>In the second and third quatrain is the topic the view from the speaker to the love <ref target="c12gk1_1" type="line">(ll. 4-12)</ref>.</s>
+        <s>In the final couplet uses <ref target="c12gk1_1" type="author">Shakespeare</ref> <choice><orig>an</orig><reg>a</reg></choice> claim to underline his view <ref target="c12gk1_1" type="line">(ll. 11-12)</ref>.</s>
+      </p>
+      <p>
+        <s>He uses also a lot of stylistic devices to support his view to the topic love.</s>
+        <s>He <choice><orig>use</orig><reg>uses</reg></choice> in the third line <choice><orig>an</orig><reg>a</reg></choice> personification and alliteration <quote>which alters when it alteration finds</quote> <ref target="c12gk1_1" type="line">(ll. 3)</ref>.</s>
+        <s>He says that love can change and <choice><orig>use</orig><reg>uses</reg></choice> the personification because it's easier for the reader.</s>
+        <s>The <choice><orig>aliteration</orig><reg>alliteration</reg></choice> uses is to get the <choice><orig>readers</orig><reg>reader's</reg></choice> attention.</s>
+        <s>In the second line is <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>simil</orig><reg>simile</reg></choice> <quote>love is not love</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>He shows the reader that not every love is still love.</s>
+        <s>The next stylistic devices are two alliteration <quote><s>or bends with the remover to remove, oh no!</s><s>Its an ever fixed mark</s></quote> <ref target="c12gk1_1" type="line">(ll. 4-5)</ref>.</s>
+        <s>The alliteration tries to get the <choice><orig>readers</orig><reg>reader's</reg></choice> attention.</s>
+        <s>In the beginning of the second quatrain is <choice><orig>an</orig><reg>a</reg></choice> comparison <quote>it's an ever fixed mark</quote> <ref target="c12gk1_1" type="line">(l. 5)</ref>.</s>
+        <s>The author compares <choice><orig>an</orig><reg>a</reg></choice> mark with the love to show the reader that love can't be changed.</s>
+        <s>In line seven is <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>Metapher</orig><reg>metaphor</reg></choice> and an symbol.</s>
+        <s><quote>It is an star to every wandering bark</quote><ref target="c12gk1_1" type="line">(l. 7)</ref>.</s>
+        <s>The star is <choice><orig>an</orig><reg>a</reg></choice> symbol for the love and the wandering bark is every person who search for love.</s>
+        <s>So the love is what the searching person wants.</s>
+        <s>In the next line is an alliteration: <quote>whose worths unknown, although is height be taken</quote>.</s>
+        <s>The <choice><orig>fanktion</orig><reg>function</reg></choice> of it is to get the <choice><orig>readers</orig><reg>reader's</reg></choice> attention and to underline his statement.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> uses in the next line <choice><orig>an</orig><reg>a</reg></choice> symbol: <quote>within his bending sickle compass come</quote> <ref target="c12gk1_1" type="line">(l. 10)</ref>.</s>
+        <s>The sickle is <choice><orig>an</orig><reg>a</reg></choice> symbol for the dead.</s>
+        <s>Sickles compass means, that omebody is near to the <choice><orig>deaf</orig><reg>death</reg></choice> and that the personated death comes.</s>
+        <s>In line 11 is <choice><orig>an</orig><reg>a</reg></choice> personification <quote>Love alters not with his briefs houers and weeks</quote> <ref target="c12gk1_1" type="line">(l. 11)</ref>.</s>
+        <s>He uses the same personification like in line three.</s>
+        <s>He <choice><orig>want</orig><reg>wants</reg></choice> to show that love isn't a person who <choice><orig>change</orig><reg>changes</reg></choice>.</s>
+        <s>The <choice><orig>autor</orig><reg>author</reg></choice> uses in the next line also <choice><orig>an</orig><reg>a</reg></choice> symbol: <quote>But bears it out even to the edge of doom</quote>.</s>
+        <s>Doom stands for the day of <choice><orig>gods</orig><reg>God's</reg></choice> <choice><orig>judgement</orig><reg>judgment</reg></choice> or the day of the dead, which means that is any symbol for the death.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>use</orig><reg>uses</reg></choice> in <ref target="c12gk1_1" type="title">Sonnet 116</ref> a lot of stylistic devices to support the speaker's idea of love.</s>
+        <s>The idea is, that love is something, which never changed and is <choice><orig>for ever</orig><reg>forever</reg></choice> the same.</s>
+        <s>Love is also good and if love is not forever, no man would ever love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

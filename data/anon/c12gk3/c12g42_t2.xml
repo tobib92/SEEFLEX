@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g42_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After summarising the argument of <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife it points out that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is trying to persuade and manipulate her husband in different <choice><orig>way</orig><reg>ways</reg></choice>, which I will analyse now.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character"><choice><orig>Lady Macbeth</orig><reg>Lady Macbeth's</reg></choice></ref> whole intention in the argument is to convince her husband to kill <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s>She <choice><orig>threat</orig><reg>threatens</reg></choice> her husband in killing <choice><orig>childrens</orig><reg>children</reg></choice> out of shame and <choice><orig>extort</orig><reg>extorts</reg></choice> and humiliates him in not being a man in her eyes.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref><choice><orig>use</orig><reg>uses</reg></choice> a simile from <ref target="c12gk3_1" type="character"><choice><orig>Macbeth</orig><reg>Macbeth's</reg></choice></ref> actions with a proverb.</s>
+        <s>The proverb <quote>cat i'th'adage</quote> <ref target="c12gk3_1" type="line">(v. 18)</ref>, means that it <ref target="c12gk3_1" type="character">Macbeth</ref> did not get his hands dirty, he <choice><orig>wil</orig><reg>will</reg></choice> not achieve his goal of becoming the king.</s>
+      </p>
+      <p>
+        <s>His actions of not killing the King <choice><orig>makes</orig><reg>make</reg></choice> him to a coward of the system and not to a proper man <ref target="c12gk3_1" type="line">(v. 16)</ref>.</s>
+        <s>Through a parallelism sentence structure <ref target="c12gk3_1" type="line">(v. 26f)</ref> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> points out that as <ref target="c12gk3_1" type="character">Macbeth</ref> dared to kill the King, he was a real man, and if he <choice><orig>wil</orig><reg>will</reg></choice> kill the King he truly <choice><orig>become</orig><reg>becomes</reg></choice> a <choice><orig>greate</orig><reg>great</reg></choice> man.</s>
+        <s><choice><orig>These</orig><reg>This</reg></choice> antithesis <choice><orig>underpin</orig><reg>underpins</reg></choice> her thought of <ref target="c12gk3_1" type="character">Macbeth</ref> not <choice><orig>beeing</orig><reg>being</reg></choice> a enough man and the rising pressure for her husband to show her the opposite.</s>
+      </p>
+      <p>
+        <s>The metonymy of plucking her breastnipples out of the <quote>boneless gums</quote> from the baby and dashing their brains out <ref target="c12gk3_1" type="line">(v. 34f)</ref>, shows how <choice><orig>agressive</orig><reg>aggressive</reg></choice> her choice of <choice><orig>word</orig><reg>words</reg></choice> and language are and how <choice><orig>desperated</orig><reg>desperate</reg></choice> she wants to convince her husband to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref><choice><orig>promise</orig><reg>promises</reg></choice> her man a child, if he will kill the King.</s>
+        <s>That is an extort and a threat, that if he <choice><orig>wil</orig><reg>will</reg></choice> not do as she wants, she <choice><orig>wil</orig><reg>will</reg></choice> not give birth to a child.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> is deviously in using her word.</s>
+        <s>She <choice><orig>praise</orig><reg>praises</reg></choice> her husband in <choice><orig>beeing</orig><reg>being</reg></choice> strong <ref target="c12gk3_1" type="line">(v. 26)</ref> and saying in the same sentence how cowardly he is <ref target="c12gk3_1" type="line">(v. 16)</ref>.</s>
+      </p>
+      <p>
+        <s>As she explains her plan, <choice><orig>its</orig><reg>it's</reg></choice> showing that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is pretty smart and crafty.</s>
+        <s>The <choice><orig>alitteration</orig><reg>alliteration</reg></choice> <quote>will I with wine and wassail so convince (...)</quote> <ref target="c12gk3_1" type="line">(v. 44f)</ref>, shows that she <choice><orig>allready</orig><reg>already</reg></choice> thought about a whole plan of killing <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> did not planned that her husband would not work with her, she knows that she would convince <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>That again explains how cruel and witty <ref target="c12gk3_1" type="character">Lady Macbeth</ref> <choice><orig>truely</orig><reg>truly</reg></choice> is.</s>
+        <s>She knows what she wants and how she can manipulate the persons around her, particularly her husband.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

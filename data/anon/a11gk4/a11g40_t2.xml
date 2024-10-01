@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g40_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the beginning of the scene <name type="person">Starr</name> is traumatised because she got back to the place where <name type="person">Khalil</name> was shot for the first time.</s>
+        <s>She is emotionally overwhelmed by her feelings and memories until the voices of the protesting crowd bring her back.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> is using this trauma to chant along with the crowd.</s>
+        <s>At first she is quiet but remembers <name type="person">Khalil</name> and gets louder.</s>
+        <s>Then she remembers him opening the door to look if she is ok and then getting shot that <choice><orig>memorie</orig><reg>memory</reg></choice> gives her the final push and she screams along with the crowd <ref target="a11gk4_1" type="line">(ll. 18-23)</ref>.</s>
+        <s>During the whole scene <name type="person">Starr</name> is narrating in a language she can also use at <name type="geo">Williamson Prep</name> until she is standing on the police car and the officer orders them to leave and <name type="person">Starr</name> thinks fuck it <ref target="a11gk4_1" type="line">(l. 58)</ref>.</s>
+        <s>After that she is using slang even in her thoughts.</s>
+        <s>This represents her inner <choice><orig>exceptens</orig><reg>acceptance</reg></choice> of her <choice><orig>importans</orig><reg>importance</reg></choice> in that curse and also the <choice><orig>importans</orig><reg>importance</reg></choice> of her voice as a weapon.</s>
+        <s>At this moment she also starts using her voice confidently.</s>
+      </p>
+      <p>
+        <s>In the scene <name type="person">Starr</name> at first wants to fight the system but <name type="person">Ms. Ofrah</name> convinces her to use her voice for this.</s>
+        <s><name type="person">Starr</name> realises that she was right and that her voice is <choice><orig>powerfull</orig><reg>powerful</reg></choice>.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> is using a comparison between trigger happy and speaker happy which means that <name type="person">one-fifteen</name> had the power to kill <name type="person">Khalil</name> by pulling his trigger and <name type="person">Starr</name> has the power to make the world a better place for black people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

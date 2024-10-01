@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I'd like to analyse this article, because there are many interesting aspects.</s>
+      </p>
+      <p>
+        <s>The article is <choice><orig>devided</orig><reg>divided</reg></choice> into 4 paragraphs.</s>
+        <s>The first and the second one are <choice><orig>informativ</orig><reg>informative</reg></choice>, because the author just gives <choice><orig>generall</orig><reg>general</reg></choice> information about the translating problem and about the problems in <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>The third paragraph is a bit different.</s>
+        <s>It's <choice><orig>informativ</orig><reg>informative</reg></choice>, but <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> gives deep insights into his personal evolution.</s>
+      </p>
+      <p>
+        <s>The last paragraph is appealing, because the author tries to influence the reader to learn <choice><orig>english</orig><reg>English</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The purpose of the text is, that is it important for all of us to learn <choice><orig>englisch</orig><reg>English</reg></choice> or foreign language in <choice><orig>generell</orig><reg>general</reg></choice>.</s>
+        <s>The article was <choice><orig>publisted</orig><reg>published</reg></choice> in <date>2016</date> so the topic is still present and the <choice><orig>informations</orig><reg>information</reg></choice> are current.</s>
+      </p>
+      <p>
+        <s>By the aspect, that this article was <choice><orig>publisted</orig><reg>published</reg></choice> in the <name type="misc">Sunday Times</name>, you can be <choice><orig>shure</orig><reg>sure</reg></choice> that the <choice><orig>informations</orig><reg>information</reg></choice> are correct, because it is a trustworthy source.</s>
+        <s>Furthermore the language style is formal and the author uses complex sentence, but still everyone can understand the text.</s>
+        <s>I think the author did this, because also <choice><orig>immigrates</orig><reg>immigrants</reg></choice> who can't <choice><orig>speek</orig><reg>speak</reg></choice> <choice><orig>english</orig><reg>English</reg></choice> that well, should understand the article.</s>
+      </p>
+      <p>
+        <s>The tone of the text is <choice><orig>seriouse</orig><reg>serious</reg></choice>, because the author describes problems and the crime in <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>We can also find some stylistic devices which are important to understand, because they have a deeper meaning.</s>
+        <s>Firstly in line 7 the author uses a strong and convincing <choice><orig>adjectiv</orig><reg>adjective</reg></choice> <quote>Every year</quote>.</s>
+        <s>Probably is is also an exaggeration.</s>
+        <s>With this stylistic device he tries to underline the importance and to generate attention.</s>
+      </p>
+      <p>
+        <s>Additionally in line 11-14 we can see a repetition.</s>
+        <s>The author uses <choice><orig>against</orig><reg>again</reg></choice> and <choice><orig>against</orig><reg>again</reg></choice> the phrase <quote>My parents</quote>.</s>
+        <s>He wants to show the reader that his parents are important persons for the story and for himself.</s>
+        <s>In addition we can <choice><orig>finde</orig><reg>find</reg></choice> <choice><orig>a</orig><reg>an</reg></choice> alliteration <quote>represented a recreation</quote> <ref target="c10gk1_1" type="line">(l. 12)</ref>.</s>
+        <s>This alliteration presents, that this isn't a good <choice><orig>think</orig><reg>thing</reg></choice>, because his parents tried to left this country and the author doesn't want to live in the past of <name type="geo">London</name> which represented his country.</s>
+        <s>There is also an exaggeration in line 9-10 <quote>[...], can choose between extremists in the mosque or the gangs in the streets</quote>.</s>
+        <s>It's clearly an exaggeration because there are more than <choice><orig>this</orig><reg>these</reg></choice> two options.</s>
+        <s>But the author tries to show the danger of economic stagnation and he succeeded in doing this.</s>
+        <s>Moreover in line 1 is <choice><orig>an</orig><reg>a</reg></choice> convincing number <quote>more than £100<choice><abbr>m</abbr><expan>million</expan></choice> was spent [...]</quote>.</s>
+        <s>This number convinces the reader, that we <choice><orig>spent</orig><reg>spend</reg></choice> a lot <choice><orig>to</orig><reg>too</reg></choice> much in translating, because 100m is a very big number.</s>
+        <s>This was the reason why the author chose a convincing number, to influence the reader in the first line, that we <choice><orig>spent</orig><reg>spend</reg></choice> <choice><orig>to</orig><reg>too</reg></choice> much.</s>
+      </p>
+      <p>
+        <s>The readers are often <choice><orig>adressed</orig><reg>addressed</reg></choice> directly.</s>
+        <s>For example in line 18 <quote>But you [...]</quote> or in line 23 <quote>getting us all</quote>.</s>
+        <s><ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> tries to achieve a familiar atmosphere and <choice><orig>talk</orig><reg>talks</reg></choice> to the reader directly, so the reader can see that it could be also his problem.</s>
+      </p>
+      <p>
+        <s>With the stylistic devices, the familiar atmosphere and this convincing numbers the author keeps the readers interested.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

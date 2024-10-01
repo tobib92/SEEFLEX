@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l24_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To read or not to read?</s>
+        <s>That is the question.</s>
+        <s><name type="person">Shakespeare's</name> words are more than four centuries old and still we know and learn about them today.</s>
+      </p>
+      <p>
+        <s>Therefore, the question arises <choice><orig>wether</orig><reg>whether</reg></choice> or not his works are still relevant today or outdated.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> is a common part of our school curriculum but we are also confronted with the famous playwright in other contexts like our modern film and theater industry.</s>
+        <s>Thus we are still in contact with his works nowadays.</s>
+        <s>But especially for students his literature seems to be a torture.</s>
+        <s>The old language is really hard to understand and they cannot relate to the old times.</s>
+        <s>Therefore, <name type="person">Shakespeare's</name> plays seems very outdated and useless to them.</s>
+      </p>
+      <p>
+        <s>On the other hand <name type="person">Shakespeare</name> is one of the most famous playwrights of all time who has a great value to our literary and history.</s>
+        <s>His stories are still well-known nowadays and are an important <gap reason="illegible" quantity="1" unit="word">compstun</gap> of general knowledge.</s>
+      </p>
+      <p>
+        <s>The plots of his playsa re the base for many modern musicals and movoies and therefore still find a part in our pop culture.</s>
+        <s>For instance the musical <name type="misc">West Side Story</name> is based on the drama <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> and the movie <name type="misc">Ten Things I Hate About You</name> relates to the plot of <name type="misc">The Taming of the Shrew</name>.</s>
+        <s>This proves that it is still relevant to know about <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>Still one can argue that it is not important to read the original play since one can read or watch modernized versions that also transport the plot of his plays.</s>
+        <s>Nevertheless, I believe that it is of great importance to devote yourself to the original play since <name type="person">Shakespeare</name> indirectly teaches the Elizabethan period throughout a work of art.</s>
+        <s>Thus, once can learn a lot about history by reading his plays.</s>
+      </p>
+      <p>
+        <s>Still, it is understandable that especially students are despondent by his literature since the language is outdated and hard to understand.</s>
+      </p>
+      <p>
+        <s>Therefore, it is necessary to take a look at the origin of this issue: <name type="person">Shakespeare</name> was meant to be seen and heard and not to be read.</s>
+      </p>
+      <p>
+        <s>Sadly, we barely have any original productions of his plays that students visit with school.</s>
+        <s>As a result, we have to read his plays and often fail to enjoy them because we get lost in the desperate try to understand what he means.</s>
+      </p>
+      <p>
+        <s>All in all, I do believe that <name type="person">Shakespeare</name> is still of great relevance and important.</s>
+        <s><choice><orig>general</orig><reg>General</reg></choice> knowledge but just transportation of his plays through reading makes many people think it is outdated.</s>
+        <s>Therefore, I plead that because of <choice><orig>it's</orig><reg>its</reg></choice> importance there should be more original productions of <name type="person">Shakespeare's</name> plays so the audience can <choice><orig>percieve</orig><reg>perceive</reg></choice> his literature as it was meant to be <choice><orig>percieved</orig><reg>perceived</reg></choice> and thus, can understand it better.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

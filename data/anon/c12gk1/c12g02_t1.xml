@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g02_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk1_1" type="title">Sonnet 116</ref>, written by <ref target="c12gk1_1" type="author">William Shakespeare</ref>, deals with the topic love.</s>
+        <s>And it <choice><orig>adresses</orig><reg>addresses</reg></choice> the young man.</s>
+      </p>
+      <p>
+        <s>The sonnet is <choice><orig>structerd</orig><reg>structured</reg></choice> in 3 quatrains (4 verse) and in one closing couplet.</s>
+        <s>The <choice><orig>rime</orig><reg>rhyme</reg></choice> <choice><orig>sceme</orig><reg>scheme</reg></choice> is <choice><orig>an</orig><reg>a</reg></choice> cross <choice><orig>rime</orig><reg>rhyme</reg></choice> (like a;b;a;b...), <choice><orig>wich</orig><reg>which</reg></choice> is very typical for an sonnet from <ref target="c12gk1_1" type="author">Shakespeare</ref>.</s>
+      </p>
+      <p>
+        <s>The big topic from the <ref target="c12gk1_1" type="title">Sonnet 116</ref> is love.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> starts with naming some <choice><orig>propertys</orig><reg>properties</reg></choice> from love.</s>
+        <s>He <choice><orig>speak's</orig><reg>speaks</reg></choice> about changes in new directions or people, who change <choice><orig>themself</orig><reg>themselves</reg></choice>.</s>
+        <s>First he <choice><orig>things</orig><reg>thinks</reg></choice>, that love <choice><orig>couldnt</orig><reg>couldn't</reg></choice> be like that, but later he says that changes are an ever-fixed mark.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> also thinks that <choice><orig>sombodey</orig><reg>somebody</reg></choice>, <choice><orig>who's</orig><reg>whose</reg></choice> worth is unknown, also loses his height.</s>
+        <s>So he <choice><orig>want</orig><reg>wants</reg></choice> to make sure that you should think about the worth of your partner.</s>
+        <s>Furthermore he writes about time.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> has the opinion that you should not waste you time with rosy lips and cheeks, because the day of death can come faster than you expect.</s>
+        <s>To add he <choice><orig>write's</orig><reg>writes</reg></choice> that love gets not older with short hours and weeks but is with you every time.</s>
+        <s>At the end <ref target="c12gk1_1" type="author">Shakespeare</ref> writes that there was no man, who nover loved.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

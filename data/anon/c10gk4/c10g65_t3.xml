@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g65_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following text will be about an 18-year-old German volunteer, named <name type="person">Bianca</name>, who worked in an <name type="misc">Education Center</name> for children in a slum of <name type="geo">Delhi, India</name>.</s>
+      </p>
+      <p>
+        <s>She tells about her usual routine in which she starts to educate firstly the boys in English grammar and later on the girls.</s>
+        <s>In the text <name type="person">Bianca</name> points out huge amount of love and acceptance the children have towards her and in general.</s>
+      </p>
+      <p>
+        <s>She compares her volunteer experience back to her hometown children where she makes clear again that the children in <name type="geo">India</name> are so generous about every little thing.</s>
+      </p>
+      <p>
+        <s>She <choice><orig>informes</orig><reg>informs</reg></choice> that even though they sometimes were sad or frustrated they had most of the time much fun, laughed at lot.</s>
+      </p>
+      <p>
+        <s>All in all <name type="person">Bianca</name> <choice><orig>discribes</orig><reg>describes</reg></choice> her volunteering as the best decision and experience of her life which she is very thankful for.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

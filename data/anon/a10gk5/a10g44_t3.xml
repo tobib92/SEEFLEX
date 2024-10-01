@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g44_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion the pollution of the world is a fault which was made by us, only because we want to have the newest car or the best phone.</s>
+        <s>We have to cancel this race about who is the strongest country, who makes the most cash with the industrial growth.</s>
+      </p>
+      <p>
+        <s>Who has the biggest urbanization.</s>
+      </p>
+      <p>
+        <s>I think we have to calm down a bit and we have to focus on a new plan.</s>
+      </p>
+      <p>
+        <s>We have to focus on the target that we produce something in regular masses.</s>
+        <s>And that the dust doesn't land near a <choice><orig>City</orig><reg>city</reg></choice> in <name type="geo">Africa</name> for example, that destroys <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>We have to find a solution for replacing our dust.</s>
+      </p>
+      <p>
+        <s>In my opinion anyone should regulate his normal consumes with plastic, with driving cars and so on.</s>
+        <s>Anyone could drive with a train or a bus.</s>
+        <s>Anyone could ride with his bike.</s>
+      </p>
+      <p>
+        <s>Anyone could have bottles of glasses and anyone could regulate <choice><orig>there</orig><reg>their</reg></choice> plastic things.</s>
+      </p>
+      <p>
+        <s>So all in all the people could regulate so much in their <choice><orig>lifes</orig><reg>lives</reg></choice> and it doesn't hurt to drink out of a bottle of glass.</s>
+        <s>The people need to regulate their own things, then we are one step closer to clear the world up from <choice><orig>pollute</orig><reg>pollution</reg></choice> and <choice><orig>Contamination</orig><reg>contamination</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

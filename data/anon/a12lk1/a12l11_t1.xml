@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l11_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sonnet 138 or <quote>When my love swears that she is made of truth</quote> written by<ref target="a12lk1_1" type="author">Shakespeare</ref> deals with how the speaker's beloved person treats him.</s>
+      </p>
+      <p>
+        <s>at first the speaker is complaining that his lover lies about loving him, although he claims that he <choice><orig>believs</orig><reg>believes</reg></choice> her.</s>
+        <s>He states the she thinks of him as an inexperienced young person, that is why she lies about the truth of their relationship.</s>
+      </p>
+      <p>
+        <s>Although he knows about her lies, this does not bother him, because on the both sides the truth is suppressed.</s>
+        <s>The speaker asks himself why does not she tell the truth.</s>
+        <s>His answer is trust plays <choice><orig>a</orig><reg>an</reg></choice> important role in love.</s>
+      </p>
+      <p>
+        <s>As he knows that she thinks of him as a young inexperienced man, the speaker admits that they are pretending to be somebody else and their relationship is based on lies.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

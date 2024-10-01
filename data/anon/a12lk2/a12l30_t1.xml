@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l30_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the extract of Act II scene 2 of <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> the protagonists meet after <name type="person">Romeo</name> sneaked onto a feast held by <name type="person">Lord Capulet</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> is concerned about <name type="person">Romeo</name> being a <name type="person">Montague</name> and is worried that her relatives will kill him if they find him hiding in their <choice><orig>Orchard</orig><reg>orchard</reg></choice>.</s>
+        <s><name type="person">Romeo</name> is not concerned by the risk of death and confesses to <name type="person">Juliet</name> that he would rather die than be <choice><orig>whithout</orig><reg>without</reg></choice> her.</s>
+        <s><name type="person">Juliet</name> is concerned that <name type="person">Romeo</name> is not serious about his love but gets convinced when he would swears on anything and also <gap reason="illegible" quantity="1" unit="word">confenes</gap> her love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

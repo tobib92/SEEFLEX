@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l02_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt, the end of <choice><orig>Part</orig><reg>part</reg></choice> II, <choice><orig>Chapter</orig><reg>chapter</reg></choice> 6; is from the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref>, written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and published in <date>1995</date>, is about <name type="person">Delaney</name>'s further development to a racist.</s>
+      </p>
+      <p>
+        <s>The novel deals with illegal immigration in <name type="geo">California</name> and the Americans' <choice><orig>reection</orig><reg>reaction</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The excerpt starts with the ending of a conversation between <name type="person">Delaney</name> and <name type="person">Todd Sweet</name> about the gate, which <name type="person">Delaney</name> and his wife and <choice><orig>friens</orig><reg>friends</reg></choice> have different <choice><orig>oppinions</orig><reg>opinions</reg></choice> on.</s>
+        <s><name type="person">Delaney</name> abruptly leaves to follow a car, his only focus seems to be on said car until he sees a person walking across the <name type="person">Cherrystones'</name> lawn.</s>
+        <s><name type="person">Delaney</name> remembers that the <name type="person">Cherrystones</name> had left town until seven and gets suspicious of the stranger.</s>
+        <s>After closer inspections <name type="person">Delaney</name> suspects him to be a <choice><orig>mexican</orig><reg>Mexican</reg></choice> and starts confronting him.</s>
+        <s>Again he realises another feature up-close, he believes he knows the man, who's missing a <choice><orig>baseball-cap</orig><reg>baseball cap</reg></choice> he had in their last encounter.</s>
+        <s>Throughout the conversation <name type="person">Delaney</name> accuses the man of trespassing, thinking of him to be a criminal.</s>
+        <s>The stranger intimidates <name type="person">Delaney</name>, who looks for other people out of fear, without <choice><orig>succes</orig><reg>success</reg></choice>.</s>
+        <s>Right after that <name type="person">Delaney</name> <choice><orig>startet</orig><reg>started</reg></choice> gripping his arm, the stranger shouts at him that he is delivering flyers.</s>
+        <s>Once <name type="person">Delaney</name> realises this he steps back and gets a flyer shoved into his hands, which upon further inspection is a call to attend the next meeting <add>of <name type="geo">Arroyo Blanco</name></add>.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney Mossbacher</name>, one of the four protagonists of the novel, is a white man who lives with his wife, <name type="person">Kyra Menaker-Mossbacher</name><add>also a protagonist</add>, in a community called <name type="geo">Arroyo Blanco</name> near the <name type="geo">Topanga canyon</name>.</s>
+        <s><name type="person">Delaney</name> thinks of himself as a <q>libera-humanis</q> and values close <choice><orig>proximidity</orig><reg>proximity</reg></choice> to nature and <choice><orig>wild-life</orig><reg>wild life</reg></choice>.</s>
+        <s>Because of those aspects he is opposed to a gate around their community, which results in conflicts between him, his wife and his friends.</s>
+        <s><name type="person">Kyra</name> thinks of the gate to be a good <choice><orig>safety-measurement</orig><reg>safety measurement</reg></choice>, seeing as though it's supposed to keep coyotes and other animals out.</s>
+        <s>This <choice><orig>safety-measurement</orig><reg>safety measurement</reg></choice> has had an increase in importance after the murder of their dogs <name type="person">Sacherevell</name> and <name type="person">Osbert</name> by coyotes.</s>
+      </p>
+      <p>
+        <s>His friends, <name type="person">Jack Jardine</name> and <name type="person">Jack</name> and <name type="person">Selda Cherrystone</name>, are also in favour of said gate.</s>
+        <s><name type="person">Jack Jardine</name>, one of <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> closer friends, is <choice><orig>organizating</orig><reg>organizing</reg></choice> the <choice><orig>built</orig><reg>build</reg></choice> of the gate, so on making <name type="person">Delaney</name> try not in an argument with him about it.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney</name>, however, isn't the only one who does not want a gate.</s>
+        <s><name type="person">Todd Sweet</name> spoke out against the gate, at the last community meeting, and is now looking for help from <name type="person">Delaney</name>.</s>
+        <s><name type="person">Delaney</name> does not completely want to help him because he tries to avoid conflicts with other people <add>such as <name type="person">Kyra</name> and friends</add>.</s>
+        <s>The antagonist of the novel is a <choice><orig>mexican</orig><reg>Mexican</reg></choice> man called <name type="person">José Navidad</name>, who is characterised by wearing a baseball cap turned backwards.</s>
+        <s>He has bothered <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> wife, <name type="person">Kyra</name>, and other protagonists.</s>
+        <s><name type="person">Delaney</name>, himself had met <name type="person">José</name> the day his car was stolen, which only furthered his distrust in immigrants, especially <choice><orig>mexicans</orig><reg>Mexicans</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

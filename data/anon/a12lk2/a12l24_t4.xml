@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l24_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Matthew,</salute>
+      </p>
+      <p>
+        <s><choice><orig>how</orig><reg>How</reg></choice> are you doing?</s>
+        <s>I heard about the essay you're workign on and I'm keen on helping you with it to give you the German perspective.</s>
+        <s>I found an interesting article in the <name type="misc">Märkische Allgemeine</name> from <date>April 2016</date> which is a German newspaper, explaining why producers in <name type="geo">Brandenburg</name> still put on <name type="person">Shakespeare's</name> plays which could really help you to illustrate the global appeal of <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>The first argument which the director of a theater in <name type="geo">Cottbus</name> states is that <name type="person">Shakespeare</name> deals with timeless and human topics such as revenge, love, hate or anger so even though it is history it still relates to our life and society.</s>
+        <s>Therefore, he explains that his plays have to many different aspects that the recipient often gets surprised by new perspectives.</s>
+      </p>
+      <p>
+        <s>Furthermore, another producer is convinced that <name type="person">Shakespeare</name> was an essential figure in theater and poetry and that he shaped all the following poets.</s>
+        <s>Additionally, he not only compliment his way of illustrating human conflicts in a poetic way but also his versatile characters.</s>
+        <s>The director goes so far and declares <name type="person">Shakespeare</name> as the poet who illustrates feelings the most beautiful and the most drastic.</s>
+      </p>
+      <p>
+        <s>Other arguments for <name type="person">Shakespeare's</name> plays from the third producer are that they address a broad audience, create discussions and are relevant for every generation because they represent all aspects of life.</s>
+      </p>
+      <p>
+        <s>Moreover, the producer states that the amount of work that was handed down to us and all the translations that exist represent the relevance of his works.</s>
+        <s>Therefore, he believes that <name type="person">Shakespeare's</name> literatur is timeless and gives the love story of <name type="person">Romeo</name> and <name type="person">Juliet</name> as an example.</s>
+      </p>
+      <p>
+        <s>I hope I could help you with your essay and that the arguments of the producers were interesting for you.</s>
+        <s>If you have any further quetsions or want my opinion regarding <name type="person">Shakespeare</name> feel free to ask.</s>
+      </p>
+      <p>
+        <signed>Best regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

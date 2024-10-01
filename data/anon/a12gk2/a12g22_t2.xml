@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g22_t2</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> wants to convince the reader that there is a great lack of education when it comes to foreign languages.</s>
+        <s>Therefore he uses communicative strategies and language.</s>
+      </p>
+      <p>
+        <s>Already in the first paragraph, <ref target="a12gk2_1" type="author">Worne</ref> only states a decline in university level <ref target="a12gk2_1" type="line">(l. 3)</ref>, but gives no information about the other levels.</s>
+        <s>The reason for it is to focus on the most negative aspects, so the reader thinks the whole situation is corresponding.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> uses thsi strategy probably throughout the whole text.</s>
+        <s>He also uses inclusive speech to give the impression he is on the same <choice><orig>site</orig><reg>side</reg></choice> as the reader <ref target="a12gk2_1" type="line">(l. 5,32)</ref>.</s>
+      </p>
+      <p>
+        <s><choice><orig>in</orig><reg>In</reg></choice> the second paragraph, <ref target="a12gk2_1" type="author">Worne</ref> uses figurative speech <quote>there's a long haul ahead</quote><ref target="a12gk2_1" type="line">(l. 7)</ref> to show that the mentioned progress is not a reason to think that the siutation is getting better.</s>
+        <s>He creates the impression that the progress is <choice><orig>to</orig><reg>too</reg></choice> far away to have an effect.</s>
+      </p>
+      <p>
+        <s>In line 8, he calls the <quote>uptake of languages</quote> <quote>stalled</quote> which is by iteself a <choice><orig>nutral</orig><reg>neutral</reg></choice> fact, but seems, because of the bad connotation of <quote>stalled</quote>, negative.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> uses also in the <choice><orig>thirt</orig><reg>third</reg></choice> paragraph figurative speech by calling the decrease of foreign language exams <quote>a drop</quote><ref target="a12gk2_1" type="line">(l. 10)</ref> which has a greater effect on the reader because it seems much more visually extreme.</s>
+      </p>
+      <p>
+        <s>The following three paragraphs build a construct to refute any last dissidents of <ref target="a12gk2_1" type="author">Worne's</ref> opinion / perception: <choice><orig>The</orig><reg>the</reg></choice> first presents counterarguments, which are shown as nonsense by <choice><orig>exeggeration</orig><reg>exaggeration</reg></choice> <quote><choice><orig>enabel</orig><reg>enable</reg></choice> intercultural telepathy anyway</quote><ref target="a12gk2_1" type="line">(l. 15)</ref>.</s>
+        <s>To refute them, <ref target="a12gk2_1" type="author">Worne</ref> uses various arguments in the second paragraph which support his view.</s>
+        <s>The <choice><orig>thirt</orig><reg>third</reg></choice> paragraph is then used to create liability by using facts and information given by the CBI / Pearson Education and Skill Survey <ref target="a12gk2_1" type="line">(l. 19-22)</ref>.</s>
+      </p>
+      <p>
+        <s>In the seventh paragraph, <ref target="a12gk2_1" type="author">Worne</ref> tries to give the impression of objectivity by also giving a positive development, but to, again, refute the idea of a generally positive development / situation, he points out that it is <quote>The only really good piece of news</quote><ref target="a12gk2_1" type="line">(l. 25)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> strengthens the mentioned appeal to students and parents by giving reasons like in line 27, which supports the indirect reason for parents in line 34 <add><quote>essential strings to...</quote></add>.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a12gk2_1" type="author">Worne</ref> tries to introduce the reader to the situation while trying to seem objective, but actually overpresenting negative <choice><orig>developements</orig><reg>developments</reg></choice>.</s>
+        <s>Then, he adresses possible counterarguments and <choice><orig>refuts</orig><reg>refutes</reg></choice> them.</s>
+        <s>Thereby is the final goal to convince the reader to change the situation, which is shown by <choice><orig>Ws</orig><reg>W's</reg></choice> appeals.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

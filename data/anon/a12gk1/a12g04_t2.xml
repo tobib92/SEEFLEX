@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name> can't, won't, don't</ref>, written by <ref target="a12gk1_1" type="author">John Worne</ref>, was published <date>2015</date> in the newspaper <name type="misc">The Telegraph</name>.</s>
+        <s>The topic of the article is learning of a <choice><orig>Foreign</orig><reg>foreign</reg></choice> language in the <name type="geo">UK</name> In the following the way how <ref target="a12gk1_1" type="author">Worne</ref> presents his view, by using communicative strategies, will be analysed.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk1_1" type="author">John Worne</ref> uses many aspects to present his view and to influence the reader.</s>
+        <s>the use of <quote>(they don't)</quote> or in line 14-15 <quote>the next generation of wearable tech will enable cultural telepathy anyway Cobblers</quote>.</s>
+        <s>By using this comments the author refutes counter-arguments and expresses his view about the topic.</s>
+        <s>Furthermoer that comments should influence the reader and brings him/her to think about the subject.</s>
+      </p>
+      <p>
+        <s>Another aspect of the author's strategies are enumerations.</s>
+        <s><ref target="a12gk1_1" type="author">Worne</ref> uses them to name advantages of learning other languages.</s>
+        <s>You find an example in l. 17-18: <quote>Languages are essential for our trade, prosperity, cultural exports, diplomacy and national security</quote>.</s>
+        <s>This enumeration describes diverse problems for the <name type="geo">UK</name>in the future and one of these results concerns everybody.</s>
+        <s>Nobody wants a loss of prosperity or national security.</s>
+        <s>The extreme results are good arguments for learning foreign languages and for the author's view.</s>
+        <s>the enumeration should bring the reader to overthink his position, if he is against learning of other languages.</s>
+      </p>
+      <p>
+        <s>Moreover the article mentions concrete examples for learning foreign languages.</s>
+        <s>For instance in 27-29: <quote>The tough reality in a tough jobs market is a lawyer with Chinese language skills is more in demand than a pure lawyer or a pure linguist</quote>.</s>
+        <s>Examples like that describe the huge advantages for multilingual persons.</s>
+        <s>In addition to that the author mentions disadvantages: <name type="geo">UK</name> business would hire people abroad, because they speak more languages than <quote>home-grown</quote> talents.</s>
+        <s>This example influence the reader, because the reader sees eotjer advantages fpr jos/her life or disadvantages that could influence the readers life tremendously.</s>
+      </p>
+      <p>
+        <s>To sum up everything you can say that the author uses many diverse strategies to convince the reader of his view.</s>
+        <s>Furthermore he appeal directl to reader, especially to parents.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

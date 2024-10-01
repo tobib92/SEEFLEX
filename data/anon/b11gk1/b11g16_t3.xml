@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g16_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to comment on the statement: <quote>CPS should have taken Pearl away from Margot and the trailer park, put her into a foster home and help her to get a good school education and prepare for a better and independant way of life</quote>.</s>
+      </p>
+      <p>
+        <s>The American Dream includes that everyone should be able to decide how they want to <choice><orig>life</orig><reg>live</reg></choice> or stay.</s>
+        <s>By the American Dream everyone is free and indenpendent.</s>
+        <s>All people have another opinion, who it is better to stay.</s>
+      </p>
+      <p>
+        <s>By comparing <ref target="b11gk1_1" type="character">Helen</ref> and <ref target="b11gk1_1" type="character">Pearl</ref>, it can be seen that <ref target="b11gk1_1" type="character">Pearl</ref> <choice><orig>becames</orig><reg>became</reg></choice> an intelligent young girl and that <ref target="b11gk1_1" type="character">Helen</ref> has a lot of gaps in her education.</s>
+        <s>It doesn't <choice><orig>demage</orig><reg>damage</reg></choice> <ref target="b11gk1_1" type="character">Pearl's</ref> education, because she likes it to go to school and makes her homework.</s>
+      </p>
+      <p>
+        <s>It is very important that a child has a close relationship with her <q>real</q> parents, so that the child can find the own personality better.</s>
+        <s>When parents give their <choice><orig>childrens</orig><reg>children</reg></choice> to for the first strangers the child couldn't find a close relationship so far.</s>
+      </p>
+      <p>
+        <s>In the one hand, when <ref target="b11gk1_1" type="character">Pearl</ref> lives in a foster home, she makes experiences with a real structure.</s>
+        <s>It is very important for the future.</s>
+        <s>She probably has <choice><orig>a</orig><reg>an</reg></choice> own room and time for herself <add>(privacy)</add>.</s>
+        <s>By staying in the trailer park, <ref target="b11gk1_1" type="character">Pearl</ref> <choice><orig>beginns</orig><reg>begins</reg></choice> <choice><orig>smocking</orig><reg>smoking</reg></choice>.</s>
+        <s>Probably, when she lives in a foster home and has real friends she doesn't start <choice><orig>smocking</orig><reg>smoking</reg></choice>.</s>
+        <s>It is very damaging to health.</s>
+      </p>
+      <p>
+        <s>A lot of persons <choice><orig>thinks</orig><reg>think</reg></choice> that foster homes are good but sometimes it brought about dramatic changes for example the <choice><orig>childrens</orig><reg>children</reg></choice> not feel well-being and don't can develop itself.</s>
+      </p>
+      <p>
+        <s>All in all, I am in the opinion that <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> should not have taken <ref target="b11gk1_1" type="character">Pearl</ref> away from <ref target="b11gk1_1" type="character">Margot</ref> and the trailer park, because <ref target="b11gk1_1" type="character">Pearl</ref> is the proof that a child with negative living conditions could became an intelligent person and has a close relationship with her mother.</s>
+        <s>Her mother makes all possible that <ref target="b11gk1_1" type="character">Pearl</ref> is happy.</s>
+        <s>So, I <choice><orig>thing</orig><reg>think</reg></choice> <choice><orig>than</orig><reg>that</reg></choice>, if someone is happy with their situation, one couldn't dissolve this community.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is also a proof that foster homes not even are good for <choice><orig>an</orig><reg>a</reg></choice> child, because <ref target="b11gk1_1" type="character">Helen</ref> has a lot of gaps and doesn't <choice><orig>becames</orig><reg>become</reg></choice> much affection, how <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

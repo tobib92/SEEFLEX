@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g24_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene from the play <ref target="c12gk2_1" type="title">Macbeth</ref>, written by <ref target="c12gk2_1" type="author">William Shakespeare</ref> is about <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and how she tries to convince <ref target="c12gk2_1" type="character">Macbeth</ref> to murder <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>It finds place in the home from <ref target="c12gk2_1" type="character">Macbeth</ref> where his lady waits after she reads the letter from him.</s>
+        <s>He wrote a letter after the <choice><orig>prophesy</orig><reg>prophecy</reg></choice> about he as a king and told it to <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>When he arrives home he survived a battle and was granted with the title <q>Thane of Cawdor</q>.</s>
+        <s>Because of that he wants to prepare a banquet in honour of <ref target="c12gk2_1" type="character">Duncan</ref>, the present king.</s>
+        <s>Now <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince her husband to go after the <choice><orig>prophesy</orig><reg>prophecy</reg></choice>.</s>
+        <s>First <ref target="c12gk2_1" type="character">Macbeth</ref> is undecided but after <ref target="c12gk2_1" type="character">Lady Macbeth</ref> talks him into believing that murdering is the only way to become king, he is convinced.</s>
+        <s>At the end of the scene he underlines that he is ready to go for it.</s>
+        <s>Both of them, but <ref target="c12gk2_1" type="character">Lady Macbeth</ref> as a leader they <choice><orig>makes</orig><reg>make</reg></choice> up a plan in this scene to murder <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

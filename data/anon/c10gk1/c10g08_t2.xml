@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g08_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author tries to convince the reader of her opinion, by giving many important and convincing <choice><orig>informations</orig><reg>information</reg></choice> and aspects in the first and second paragraph.</s>
+        <s>The fact that 100 million pounds were spend <ref target="c10gk1_1" type="line">(l. 1)</ref> and that the crime rate is on a rise <ref target="c10gk1_1" type="line">(l. 8)</ref>, make the reader curious and <choice><orig>adresses</orig><reg>addresses</reg></choice> him.</s>
+      </p>
+      <p>
+        <s>The author also uses many stylistic devices to make her opinion more convincing.</s>
+        <s>In line seven, she uses a metaphor to describe the educational situation by the Bangladeshi citizens.</s>
+        <s>To sit at the bottom of educational achievement means, that the immigrated residents have big hole in their English knowledge and because of that, they are trapped in their own bubble, where they can't get out without any help.</s>
+        <s>A repetition can be found in line 11-14.</s>
+        <s>The author repeats herself by starting every sentence with <quote>My parents</quote>.</s>
+        <s>This repetition makes clearer that she got much help from her parents, and makes the reader think that she could've ended in <name type="misc">Brick Lane</name>.</s>
+        <s>But because of her parents situation and their urge to learn English, she managed to live a better <choice><orig>live</orig><reg>life</reg></choice>, outside of <name type="misc">Brick Lane</name>.</s>
+        <s>Another metaphor can be found in line 18-19.</s>
+        <s>She uses this metaphor to show that <choice><orig>to</orig><reg>too</reg></choice> much help can be very harmful.</s>
+        <s><quote>If someone holding you up</quote> means in the whole context of the sentence, that if someone gets <choice><orig>to</orig><reg>too</reg></choice> much help and can't do anything all by himself, he will have big problems when he is confronted with a problem all by himself.</s>
+        <s>The author includes the reader in his text, by creating a sense of unity.</s>
+        <s><quote>But there is a wider problem about the confused signals we are sending to the immigrant communities</quote><ref target="c10gk1_1" type="line">(l. 2-4)</ref>.</s>
+        <s>On this way, the author is speaking directly to the reader.</s>
+        <s>This <choice><orig>effects</orig><reg>affects</reg></choice> the reader for engaging himself in politics or thinking about a solution to solve the problem.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

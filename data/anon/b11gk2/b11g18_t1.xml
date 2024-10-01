@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g18_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt firstly starts with the reader reading how <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> almost kiss each other <ref target="b11gk2_1" type="line">(p. 71, l. 12-13)</ref>.</s>
+      </p>
+      <p>
+        <s>Secondly, the author <ref target="b11gk2_1" type="author">Ayad Akhtar</ref> describes how they are <choice><orig>cought</orig><reg>caught</reg></choice> cheating by <ref target="b11gk2_1" type="character">Isaac's</ref> wife <ref target="b11gk2_1" type="line">(p. 71, l. 18-19 + 30)</ref>.</s>
+      </p>
+      <p>
+        <s>After that the reader learns that <ref target="b11gk2_1" type="character">Jory</ref> told <ref target="b11gk2_1" type="character">Amir</ref> the truth, that she is going to get the partner position instead of <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>Which makes <ref target="b11gk2_1" type="character">Amir</ref> really upset <ref target="b11gk2_1" type="line">(p. 71, l. 23-25 + p. 72, l. 22-30 + p. 73, l. 4-13)</ref>.</s>
+      </p>
+      <p>
+        <s>Because <ref target="b11gk2_1" type="character">Amir</ref> gets really upset <ref target="b11gk2_1" type="character">Isaac</ref> tries to defend his wife by starting a fight with <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>This fight suddenly ends when <ref target="b11gk2_1" type="character">Amir</ref> spits <ref target="b11gk2_1" type="character">Isaac</ref> in the face <ref target="b11gk2_1" type="line">(p. 72, l. 38-39)</ref>.</s>
+      </p>
+      <p>
+        <s>This gesture of <ref target="b11gk2_1" type="character">Amir</ref> spitting <ref target="b11gk2_1" type="character">Isaac</ref> in the face is really <choice><orig>hurtfull</orig><reg>hurtful</reg></choice> for Jewish people exactly like in the story he told them before about his first crush.</s>
+      </p>
+      <p>
+        <s>At the end the reader reads that <ref target="b11gk2_1" type="character">Emily</ref> tells <ref target="b11gk2_1" type="character">Amir</ref> the truth, that she <choice><orig>sleept</orig><reg>slept</reg></choice> with <ref target="b11gk2_1" type="character">Isaac</ref> in <name type="geo">London</name> <ref target="b11gk2_1" type="line">(p. 73, l. 31 + p. 74, l. 4)</ref>.</s>
+        <s>Whereupon <ref target="b11gk2_1" type="character">Amir</ref> starts to hit <ref target="b11gk2_1" type="character">Emily</ref> in the face out of pure anger, until he realises what he is doing <ref target="b11gk2_1" type="line">(p. 74, l. 5-14)</ref>.</s>
+      </p>
+      <p>
+        <s>The scene ends, when <ref target="b11gk2_1" type="character">Abe</ref> comes in and sees what <ref target="b11gk2_1" type="character">Amir</ref> has done <ref target="b11gk2_1" type="line">(p. 74, l. 16-24)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

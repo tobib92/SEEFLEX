@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g49_t3</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Travis,</salute>
+      </p>
+      <p>
+        <s>how are you and your parents?</s>
+        <s>How is life going?</s>
+      </p>
+      <p>
+        <s>The weather here is cold and rainy, it sucks.</s>
+        <s>All day long I can't do anything than reading a book, doing my homework or watching TV, because it's too cold to chill outside with my friends.</s>
+        <s>But we won't chill inside because of <name type="misc">Corona</name>.</s>
+        <s>Ahh!</s>
+        <s>Did you <choice><orig>heared</orig><reg>hear</reg></choice> that all clubs in <name type="geo">Nordrhein-Westfalen</name> are closed because of the extremely high incidence since <choice><orig>friday</orig><reg>Friday</reg></choice>?</s>
+        <s>Anyways... Today I want to talk about one of my favourite books, called <name type="misc">The Hate U Give</name> and why it should be <choice><orig>red</orig><reg>read</reg></choice> at schools world-wide.</s>
+        <s>At my school we read this book in 11th grade and I would <choice><orig>definitely</orig><reg>definetely</reg></choice> read it again.</s>
+        <s>Here are some reasons why I <choice><orig>recomend</orig><reg>recommend</reg></choice> reading this book.</s>
+      </p>
+      <p>
+        <s>First of all it has the topic racism and that is a problem we weren't able to solve since more than 100 years.</s>
+        <s>But this book tells now to fight against it and how to handle it and what the wrong way to handle is.</s>
+        <s>In my opinion everybody should take the problem of racism in any way more serious, because there are still people who make fun about it, while other people ahve to fight and struggle with it their whole life.</s>
+        <s>The book <name type="misc">The Hate U Give</name> is one of the most authentic books <choice><orig>i</orig><reg>I</reg></choice> have ever <choice><orig>red</orig><reg>read</reg></choice>, because it's about the truth with no filters and glorify about the system and about what is going on inside people's heads.</s>
+        <s><choice><orig>An</orig><reg>And</reg></choice> this is a reason to banning <name type="misc">The Hate U Give</name> from the school libraries?</s>
+        <s>In my opinion it's <choice><orig>definitely</orig><reg>definetely</reg></choice> not, it's a reason to keep the book in the school libraries and make it go more viral.</s>
+        <s>But this is my opinion...</s>
+      </p>
+      <p>
+        <s>I think it would be a goo idea for you to read the book to have a better view about it.</s>
+        <s>Text me when you finished</s>
+      </p>
+      <p>
+        <signed>Kind regards from <name type="geo">Cologne</name>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

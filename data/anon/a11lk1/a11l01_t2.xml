@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>During their conversation in which <ref target="a11lk1_1" type="character">Amir</ref> tries to give some sensible pieces of advice to <ref target="a11lk1_1" type="character">Abe</ref> they get into an intense fight that reveals a lot about the relationship between them.</s>
+        <s>It also becomes apparent that their <choice><orig>relaitionship</orig><reg>relationship</reg></choice> changes throughout the scene.</s>
+      </p>
+      <p>
+        <s>At first <ref target="a11lk1_1" type="character">Abe</ref> seems to look up to his uncle as he comes to him for help in a very difficult situation <ref target="a11lk1_1" type="line">(cf. l. 1)</ref>.</s>
+        <s>Later on he reveals that his uncle has been a role model to him <ref target="a11lk1_1" type="line">(cf. ll. 65-68)</ref>.</s>
+      </p>
+      <p>
+        <s>When he tells his uncle that he laughed when he found out he hesitates <ref target="a11lk1_1" type="line">(cf. l. 4)</ref>.</s>
+        <s>From this it can be concluded that <ref target="a11lk1_1" type="character">Abe</ref> has <choice><orig>doughts</orig><reg>doubts</reg></choice> about the decision to come to <ref target="a11lk1_1" type="character">Amir</ref> and also that he fears <ref target="a11lk1_1" type="character">Amir's</ref> reaction.</s>
+      </p>
+      <p>
+        <s>The fact that he is able to estimate his uncle's reaction shows that they know each other very well.</s>
+        <s>Even though <ref target="a11lk1_1" type="character">Amir</ref> knows that <ref target="a11lk1_1" type="character">Abe</ref> did not mean to laugh he asks him whether he was trying to antagonize the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> <ref target="a11lk1_1" type="line">(cf. l. 7)</ref>.</s>
+        <s>It becomes apparent that <ref target="a11lk1_1" type="character">Amir</ref> sees himself in the position to lecture <ref target="a11lk1_1" type="character">Abe</ref> but <choice><orig>als</orig><reg>also</reg></choice> that <ref target="a11lk1_1" type="character">Amir</ref> is uncertain whether <ref target="a11lk1_1" type="character">Abe</ref> really did not mean to laugh.</s>
+      </p>
+      <p>
+        <s>When they go on to discuss <ref target="a11lk1_1" type="character">Abe's</ref> assumption that the American government wants to pressure him into working for them and <ref target="a11lk1_1" type="character">Amir</ref> does not state a clear opinion <ref target="a11lk1_1" type="character">Abe</ref> seems disappointed and gets a little bit <choice><orig>agressive</orig><reg>aggressive</reg></choice> <ref target="a11lk1_1" type="line">(cf. ll. 10-14)</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk1_1" type="character">Amir</ref> calls the lawyer of <ref target="a11lk1_1" type="character">Imam Fareed's</ref> case he does not tell <ref target="a11lk1_1" type="character">Abe</ref> what he is doing at first, which shows that he is looking down on <ref target="a11lk1_1" type="character">Abe</ref> and does not treat him like a fellow but like a child.</s>
+      </p>
+      <p>
+        <s>That <ref target="a11lk1_1" type="character">Amir</ref> tries to take the role of a parent becomes apparent once more, when he tries to advice him in a very careful way <ref target="a11lk1_1" type="line">(cf. ll. 21-22)</ref>.</s>
+        <s>Later on in the conversation <ref target="a11lk1_1" type="character">Abe</ref> becomes very forceful and tries to <choice><orig>provoce</orig><reg>provoke</reg></choice> his uncle by asking him what he would do if the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> had asked him to work for them <ref target="a11lk1_1" type="line">(cf. l. 28)</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk1_1" type="character">Amir</ref> tries to avoid an answer <ref target="a11lk1_1" type="character">Amir</ref>  insists on an answer and does not accept his <choice><orig>uncles</orig><reg>uncle's</reg></choice> decision not to make a statement <ref target="a11lk1_1" type="line">(cf. ll. 28-30)</ref>.</s>
+        <s>At this point <ref target="a11lk1_1" type="character">Abe</ref> is clearly losing respect and he <choice><orig>feel</orig><reg>feels</reg></choice> in his <choice><orig>doughts</orig><reg>doubts</reg></choice> about <ref target="a11lk1_1" type="character">Amir</ref>.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> tries to stay calm and considers his choice of words very carefully <ref target="a11lk1_1" type="line">(cf. l. 31)</ref> as he knows <ref target="a11lk1_1" type="character">Abe</ref> is easily <choice><orig>provoced</orig><reg>provoked</reg></choice> at this point.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> reveals his <choice><orig>doughts</orig><reg>doubts</reg></choice> and states that he knew it was a mistake <ref target="a11lk1_1" type="character">Amir</ref> <ref target="a11lk1_1" type="line">(cf. l. 35)</ref>.</s>
+        <s>He becomes more and more defiant and questions whether it was even worth it to immigrate to the <name type="geo">USA</name> <ref target="a11lk1_1" type="line">(cf. l. 40-41)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> at first tries to talk sense into <ref target="a11lk1_1" type="character">Abe</ref> but <ref target="a11lk1_1" type="character">Abe</ref> gets very personal and loses respect <ref target="a11lk1_1" type="line">(cf. l. 50)</ref> as one can see when he confronts <ref target="a11lk1_1" type="character">Amir</ref> with what he did to his <choice><orig>Ex-wife</orig><reg>ex-wife</reg></choice> <ref target="a11lk1_1" type="character">Emily</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> starts judging <ref target="a11lk1_1" type="character">Amir's</ref> life which apparently is something he has not done before because <ref target="a11lk1_1" type="character">Amir</ref> seems <choice><orig>suprised</orig><reg>surprised</reg></choice> and also irritated by this <choice><orig>bahaviour</orig><reg>behaviour</reg></choice> <ref target="a11lk1_1" type="line">(cf. l. 55)</ref>.</s>
+      </p>
+      <p>
+        <s>But <ref target="a11lk1_1" type="character">Abe</ref> continues to critisize <ref target="a11lk1_1" type="character">Amir</ref> for his attitude towards <choice><orig>islam</orig><reg>Islam</reg></choice> and he projects all his frustration onto him <ref target="a11lk1_1" type="line">(cf. l. 55-57)</ref>.</s>
+      </p>
+      <p>
+        <s>As a reaction <ref target="a11lk1_1" type="character">Amir</ref> loses his temper and criticizes <ref target="a11lk1_1" type="character">Abe's</ref> behaviour and his carelessness.</s>
+        <s>He cannot understand how <ref target="a11lk1_1" type="character">Abe</ref> is not able to see what he sees.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> might also be hurt because he realizes that he is losing his nephew and also because <ref target="a11lk1_1" type="character">Abe</ref> is not accepting his advice.</s>
+      </p>
+      <p>
+        <s>At this point their <choice><orig>relashionship</orig><reg>relationship</reg></choice> has become very damaged.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> starts to get very unkind and angry but this shows his <choice><orig>dissappointment</orig><reg>disappointment</reg></choice> because he was hoping that his uncle would support his opinion and instead he feels betrayed <ref target="a11lk1_1" type="line">(cf. l. 63-70)</ref>.</s>
+        <s>He is angry because his uncle used to be someone to look up to but this fight confirmed his fear that they do not see eye to eye anymore.</s>
+        <s>In the last few sentences <ref target="a11lk1_1" type="character">Abe's</ref> <choice><orig>frutration</orig><reg>frustration</reg></choice> that came up during all the discrimination he experienced comes out and he dislances himself from his uncle to live his religion in a more radical way <ref target="a11lk1_1" type="line">(cf. ll. 70-75)</ref>.</s>
+      </p>
+      <p>
+        <s>Coming to a conclusion it seems like <ref target="a11lk1_1" type="character">Abe</ref> sought this conversation not only because he needed help but also because he was uncertain about the relationship with <ref target="a11lk1_1" type="character">Amir</ref> and wanted to know <choice><orig>wether</orig><reg>whether</reg></choice> his <choice><orig>asumptions</orig><reg>assumptions</reg></choice> were right.</s>
+      </p>
+      <p>
+        <s>At first they have respect for each other but during the fight <ref target="a11lk1_1" type="character">Abe</ref> says things that are <choice><orig>pobably</orig><reg>probably</reg></choice> not <choice><orig>forgivebal</orig><reg>forgivable</reg></choice>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is annoyed by <ref target="a11lk1_1" type="character">Amir</ref> always playing the <choice><orig>Fatherrole</orig><reg>father role</reg></choice> because he refuses to listen to <ref target="a11lk1_1" type="character">Amir's</ref> advice.</s>
+        <s>While <ref target="a11lk1_1" type="character">Amir</ref> used to be a role model for <ref target="a11lk1_1" type="character">Abe</ref> and <ref target="a11lk1_1" type="character">Abe</ref> tried to immitate him by also changing his name and dressing like an American he is not anymore than a disappointment to <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

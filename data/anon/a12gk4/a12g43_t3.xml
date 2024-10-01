@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g43_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it is going to comment in how far language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing.</s>
+      </p>
+      <p>
+        <salute>Dear</salute>
+        <ref target="a12gk4_1" type="author">John Worne</ref>
+      </p>
+      <p>
+        <s>I read your article about learning in the <name type="geo">UK</name>.</s>
+        <s>I agree with your point, it is <choice><orig>sadly</orig><reg>sad</reg></choice> that the number of people, who learn different languages goes <choice><orig>negativ</orig><reg>negative</reg></choice> <ref target="a12gk4_1" type="line">(cf.ll. 10-17)</ref>.</s>
+        <s>Moreover I think also, that the globalization and the <name type="geo">UK's</name> future prosperity are depending of the use of language and that the problems in future are very <choice><orig>easily</orig><reg>easy</reg></choice> to tackle, if many people can understand different languages <ref target="a12gk4_1" type="line">(cf. ll. 24-27)</ref>.</s>
+        <s>But one point I missed, when I read your text.</s>
+        <s>The point that it gives nowadays very good <choice><orig>translator</orig><reg>translators</reg></choice>, which gives us the possibility to communicate very easily about the internet.</s>
+        <s>So the people, who are trading personally need to work with languages, but not the persons, who trade about the internet.</s>
+        <s>Because of this point I think that parents should animate the children to learn foreign languages, but <choice><orig>its</orig><reg>it's</reg></choice> not that important you think.</s>
+      </p>
+      <p>
+        <s>To sum up I would say, that your intention to animate young people learning foreign languages should be supported.</s>
+        <s>In <choice><orig>generell</orig><reg>general</reg></choice> the children should be supported also more by learning.</s>
+        <s>But it goes also without.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

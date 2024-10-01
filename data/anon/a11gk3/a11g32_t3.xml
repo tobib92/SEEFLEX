@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g32_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>school district,<name type="geo">Texas</name>
+		<name type="geo">Cologne</name>
+		<date>8th December 2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I think it's wrong to ban the book <name type="misc">The Hate U Give</name> from your school libraries and I will try to convince you too.</s>
+      </p>
+      <p>
+        <s><choice><orig>Im</orig><reg>In</reg></choice> my opinion this book shows a different view to most of your students, towards racism and equality.</s>
+        <s>By reading the book and maybe also speaking about it, you can get your students more empathic, towards the topic racism.</s>
+        <s>So for example, when somebody is treated unfair they can understand and support them.</s>
+      </p>
+      <p>
+        <s>It's important to let them face situations and feelings, that many <choice><orig>afro american</orig><reg>Afro-American</reg></choice> people share.</s>
+        <s>They and every student in the world should know and understand that there are still <choice><orig>opresses</orig><reg>oppressed</reg></choice> people in society.</s>
+        <s>So that maybe future generations have fewer prejudices and make the world a fair and better place for everyone.</s>
+      </p>
+      <p>
+        <signed>Respectfully, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g17_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Johnson,</salute>
+      </p>
+      <p>
+        <s>your predictions could not have been more right.</s>
+        <s>If <name type="misc">COP26</name> would not have worked out, we would now have droughts all over the world and rising sea levels which take our homes, such as floodings.</s>
+        <s>Cheap productions were exploiting workers and destroying their homes.</s>
+        <s>The arctic would be gone by now and thousands of species would have been <choice><orig>aliminated</orig><reg>eliminated</reg></choice>.</s>
+        <s>The technology and the <choice><orig>knowlague</orig><reg>knowledge</reg></choice> to fight global warming were already given and it just needed someone to open their eyes and show the urgency.</s>
+        <s>I do not want to imagine what would have happened if the temperature would be rising above 2 degrees Celsius.</s>
+        <s>We would have dried out crops and no more drinking water.</s>
+        <s>But thanks to you we noe have green energy production such as wind turbines and solar panels and electric cars.</s>
+        <s>Thanks to you we can breath fresh air and walk in nicely temperature weather.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

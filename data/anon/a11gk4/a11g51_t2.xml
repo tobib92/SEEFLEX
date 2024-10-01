@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g51_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following analysis I will show the stylistic devices and how the author uses them to spread a certain message.</s>
+      </p>
+      <p>
+        <s>In the present text the story is told from the perspective of a <choice><orig>first person</orig><reg>first-person</reg></choice> narrator, in this case <name type="person">Starr</name>.</s>
+        <s>The <choice><orig>first person</orig><reg>first-person</reg></choice> narrator comes in very good specially for telling this kind of story.</s>
+        <s>Because of the first narrator <name type="person">Starr's</name> situation inside her can be told very good because you can get a more detailed view of her feelings and her impressions.</s>
+        <s>You can also identify yourself more, when she is telling the story.</s>
+      </p>
+      <p>
+        <s>The flashbacks that were used in this text, told by a <choice><orig>first person</orig><reg>first-person</reg></choice> narrator, are being used to show <name type="person">Starr's</name> PTSD and that she is still very sensitive with the confrontation of the situation.</s>
+        <s>Every time <name type="person">Starr</name> is getting one of her flashbacks she is going into a daze.</s>
+        <s>That shows, that <name type="person">Starr</name> relives the situation inside her again.</s>
+        <s>To show this sensitivity the <choice><orig>first person</orig><reg>first-person</reg></choice> narrator is suitable.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr's</name> state of mind is in general presented very unstable.</s>
+        <s>That is hown in line 45-55 <quote>My -</quote> <ref target="a11gk4_1" type="line">(l. 45)</ref> <quote>Don't be scared... speak</quote> <ref target="a11gk4_1" type="line">(l. 46)</ref>.</s>
+        <s><name type="person">Starr</name> needs help to solve her problems inside and get the <name type="person">Starr</name> who fights for <name type="person">Khalil</name>.</s>
+        <s>That is the <name type="person">Starr</name> she truly wants to be.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr's</name> voice is shown as a weapon <ref target="a11gk4_1" type="line">(ll. 33+40)</ref>.</s>
+        <s>You can interpret her voice as a weapon of justice.</s>
+        <s>With this weapon <name type="person">Starr</name> fights against the weapons of discrimination, the real weapons of the police.</s>
+        <s>It also shows how great <name type="person">Starr's</name> voice is because it is the voice of the witness who saw the <q>real</q> face of the police.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say that the <choice><orig>first person</orig><reg>first-person</reg></choice> narrator is very important to show <name type="person">Starr's</name> feelings, her anger and her way of thinking.</s>
+        <s>The stylistic devices that were used are being usd to show <name type="person">Starr's</name> superiority in front of the police and her side on the peaceful side of protesting.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g01_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following summary is about the text <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> <choice><orig>wich</orig><reg>which</reg></choice> is an article, written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> that was published in <name type="misc">The Sunday Times</name> on the <date>17th December 2016</date>.</s>
+      </p>
+      <p>
+        <s>The article begins by <ref target="c10gk1_1" type="author">Zia</ref> writing about the amount of money used on translating and interpreting for British residents who don't speak English and the confusing statements from the government, that are telling migrants that they don't have to learn English.</s>
+      </p>
+      <p>
+        <s>The Bangladeshi community <ref target="c10gk1_1" type="author">Zia</ref> comes from, is influenced negatively by this lack of educational achievement due to not knowing English, leading to higher crime rates.</s>
+        <s><ref target="c10gk1_1" type="author">Zia</ref> also didn't speak English when she arrived in <name type="geo">Britain</name> but lucky enough her parents pushed her to learn the language for a better education.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk1_1" type="author">Zia</ref> went to school in the mid <date>70s</date> where her racial difference wasn't acknowledged and she is <choice><orig>skeptical</orig><reg>sceptical</reg></choice> if celebrating differences this much nowadays is really helpful or rather prevents migrants from integrating.</s>
+        <s>While she understands that public figures are afraid of being labeled racist, she does think that they should speak up and limit translation and interpreting services and make English compulsory for all citizens.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

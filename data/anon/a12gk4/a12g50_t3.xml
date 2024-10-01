@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g50_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will now comment on the <choice><orig>authors</orig><reg>author's</reg></choice> <choice><orig>claime</orig><reg>claim</reg></choice> that <quote>language learning is vital for the <name type="geo">UK's</name> <choice><orig>futur</orig><reg>future</reg></choice> prosperity and global standing</quote>.</s>
+      </p>
+      <p>
+        <s>Nowadays communication is very easy due the internet and our phones.</s>
+        <s>Due globalisation the whole world is a big network and you can <choice><orig>easyly</orig><reg>easily</reg></choice> have <choice><orig>accsess</orig><reg>access</reg></choice> to every possible product but also to knowledge.</s>
+        <s>But I would fully agree with <ref target="a12gk4_1" type="author">John Worne</ref>, because due globalisation big groups of companies get bigger and bigger and for small companies it is very hard to keep alive in the <choice><orig>markt</orig><reg>market</reg></choice>.</s>
+        <s>Due this process <choice><orig>outsorcing</orig><reg>outsourcing</reg></choice> happens and jobs get lost.</s>
+        <s>So it is very important to be educated in <choice><orig>diffrent</orig><reg>different</reg></choice> languages to - on one hand talk in them - and on the other hand to just seem educated for some <choice><orig>CEO's</orig><reg>CEOs</reg></choice> to have better chances for a great job.</s>
+        <s>But not only for a job the <choice><orig>diffrent</orig><reg>different</reg></choice> languages are <choice><orig>helpfull</orig><reg>helpful</reg></choice>.</s>
+        <s>Because of globalisation it is <choice><orig>easyer</orig><reg>easier</reg></choice> for you to travel, but also for other people from other <choice><orig>contries</orig><reg>countries</reg></choice>, so everybody is <choice><orig>distibutet</orig><reg>distributed</reg></choice> on the world.</s>
+        <s>This means, that you sometimes will maybe get in contact with people who do not speak <choice><orig>englisch</orig><reg>English</reg></choice>, so you are forced to talk in <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>diffrent</orig><reg>different</reg></choice> language.</s>
+      </p>
+      <p>
+        <s>So either if it is for your job or your private trips and travels, the communication always plays a big role in your life so I think it is very important.</s>
+      </p>
+      <p>
+        <s>But <choice><orig>an</orig><reg>a</reg></choice> legitimate <choice><orig>contra argument</orig><reg>counter-argument</reg></choice> for <choice><orig>learnig</orig><reg>learning</reg></choice> <choice><orig>diffrent</orig><reg>different</reg></choice> languages in school is the fact that also due globalisation and its technical progress nearly everyone has a <choice><orig>workin</orig><reg>working</reg></choice> phone with a translator in it.</s>
+        <s>On the other hand you can disprove this argument with the one from the text, that a phone can run out of battery.</s>
+        <s>And you can also disprove it with the effect of globalisation that in some countries is <choice><orig>childlabour</orig><reg>child labour</reg></choice> because more products get produced in cheap-produce countries.</s>
+        <s>So the children are not rich enough to buy a translating phone or <choice><orig>can not</orig><reg>cannot</reg></choice> go to school because they have to work.</s>
+        <s>So you <choice><orig>wont</orig><reg>won't</reg></choice> be able to communicate with them.</s>
+        <s>So you can <choice><orig>defenietly</orig><reg>definitely</reg></choice> say, that due globalisation cultures and <choice><orig>humas</orig><reg>humans</reg></choice> get mixed very well because of internet communication and easy traveling so <choice><orig>its</orig><reg>it's</reg></choice> important to be able to talk in more than one question.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

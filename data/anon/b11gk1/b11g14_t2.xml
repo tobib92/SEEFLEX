@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> was published in the year <date>2019</date> and war written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>.</s>
+        <s>The novel deals with the life of a girl named <ref target="b11gk1_1" type="character">Pearl</ref>, who lives together with her mother in a trailer park in <name type="geo">Florida</name>.</s>
+      </p>
+      <p>
+        <s>In my following analyse I'm going to sum <ref target="b11gk1_1" type="character">Helen</ref>, a character in the novel <ref target="b11gk1_1" type="title">Gun Love</ref>, up.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a girl and a character in the novel <ref target="b11gk1_1" type="title">Gun Love</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is eight, but she looked about five <ref target="b11gk1_1" type="line">(cf. l. 2)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is even smaller than <ref target="b11gk1_1" type="character">Pearl</ref> and <ref target="b11gk1_1" type="character">Pearl</ref> is a very small kid <ref target="b11gk1_1" type="line">(cf. l. 1)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> has a mother from <name type="geo">Ethiopia</name> and a mother from <name type="geo">Finland</name> <ref target="b11gk1_1" type="line">(cf. ll. 6-8)</ref>.</s>
+        <s>Because of the black mother from <name type="geo">Ethiopia</name> it can be said that she is dark skinned.</s>
+        <s>Of course she has a lot of relationships to other people.</s>
+        <s>Her friends are <ref target="b11gk1_1" type="character">Lulu</ref>, <ref target="b11gk1_1" type="character">Gina</ref> and <ref target="b11gk1_1" type="character">Romey</ref> <ref target="b11gk1_1" type="line">(cf. ll. 32-33)</ref>.</s>
+        <s>She has also a relationship to <ref target="b11gk1_1" type="character">Pearl</ref> and a relationship to a guy named <ref target="b11gk1_1" type="character">Leo</ref>.</s>
+        <s>She doesn't know her identity, so who she is and where she came from.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a foster child and because of this and because of that she doesn't have an identity, it can be said, her relationship to her parents doesn't exist.</s>
+        <s>She often smiled and smelled like burned marshmallows <ref target="b11gk1_1" type="line">(cf. l. 3)</ref>.</s>
+        <s>Her smiling could say that she is a person with lot of fun and happiness because if a person is because of this conditions very sad they doesn't smile, they are often quiet.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> hasn't been brought up good because for example she often speaks in the third person and nobody corrected her <ref target="b11gk1_1" type="line">(cf. l. 17)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> said: <quote>Nobody had taught her how to pull her baby teeth out with strings</quote> <ref target="b11gk1_1" type="line">(ll. 12-13)</ref>, which shows also that she hasn't been brought up good.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is also shameless because she said to <ref target="b11gk1_1" type="character">Pearl</ref> that she smelled like insect repellent <ref target="b11gk1_1" type="line">(cf. l. 42)</ref>.</s>
+        <s>This shows maybe also that she hasn't been brought up good.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> talks without a break <ref target="b11gk1_1" type="line">(cf. l. 5)</ref>.</s>
+        <s>Her relationship to <ref target="b11gk1_1" type="character">Pearl</ref> and <ref target="b11gk1_1" type="character">Leo</ref> is good.</s>
+        <s>She likes <ref target="b11gk1_1" type="character">Pearl</ref> and feels well in her near.</s>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> said: <quote><s>Helen crawled over to where I was sitting on the floor and sat very close to me.</s><s>She rubbed her forehead against my upper arm</s></quote> <ref target="b11gk1_1" type="line">(ll. 41-42)</ref>.</s>
+        <s>This shows a kind of love to <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+        <s>Her relationship to <ref target="b11gk1_1" type="character">Leo</ref> is also good.</s>
+        <s><ref target="b11gk1_1" type="character">Leo</ref> said: <quote>Show Pearl your collection of telephones</quote> <ref target="b11gk1_1" type="line">(l. 24)</ref>.</s>
+        <s>Because of this sentence it can be said that <ref target="b11gk1_1" type="character">Helen</ref> trust <ref target="b11gk1_1" type="character">Leo</ref> because <ref target="b11gk1_1" type="character">Leo</ref> already knows about her collection of telephones and the collection is private stuff.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> had a twin brother and sister and she had two twin sisters <ref target="b11gk1_1" type="line">(cf. l. 9)</ref>.</s>
+        <s>She has also a collection of phones because every foster home she goes to, they give her a phone and tell her to keep in touch <ref target="b11gk1_1" type="line">(cf. l. 27)</ref>.</s>
+        <s>She also likes cats and speaks about things like that with her friends <ref target="b11gk1_1" type="line">(cf. ll. 33-35)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all is <ref target="b11gk1_1" type="character">Helen</ref> a true-blue foster child with no real identity.</s>
+        <s>She hasn't been brought up good too but it can be said that because of the <choice><orig>live</orig><reg>life</reg></choice> as a foster child and the <choice><orig>live</orig><reg>life</reg></choice> of no real identity, she has many friends and is happy and not sad.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

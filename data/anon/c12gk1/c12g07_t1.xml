@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g07_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk1_1" type="title">Sonnet 116</ref> from <ref target="c12gk1_1" type="author">William Shakespeare</ref> has 14 lines with three quatrains and an ending couplet.</s>
+        <s>It is about love</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>quatrian</orig><reg>quatrain</reg></choice> he writes about the fact that our mind changes when we are in love.</s>
+        <s>We don't see relevant facts anymore or we don't wanna see them anymore.</s>
+        <s>Love does not change when there is alteration it develops all the time.</s>
+        <s>It doesn't end of one of them is change.</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quatrian</orig><reg>quatrain</reg></choice> is about that love is the star to every ship with helps <choice><orig>the</orig><reg>them</reg></choice> to navigate their ships.</s>
+        <s>Love helps us to find our way.</s>
+        <s>If two people are in love but the distance is big there will always be a way for them to be together.</s>
+      </p>
+      <p>
+        <s>In the third <choice><orig>quatrian</orig><reg>quatrain</reg></choice> is goes about the never ending love.</s>
+        <s>Love does not <choice><orig>ages</orig><reg>age</reg></choice> and it hold on for a long time.</s>
+        <s>It is a process of time and love gets bigger and bigger.</s>
+      </p>
+      <p>
+        <s>The ending rhyming couplet is about the fact that if this is wrong <ref target="c12gk1_1" type="author">Shakespeare</ref> will never writting anything anymore.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

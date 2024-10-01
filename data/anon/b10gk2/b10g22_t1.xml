@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g22_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence is a part of a scene in the movie <ref target="b10gk2_1" type="title">The Hate U Give</ref>, which is based on the novel written by <ref target="b10gk2_1" type="author">Angie Thomas</ref>.</s>
+        <s>The movie was published in <date>2018</date> and <choice><orig>direkted</orig><reg>directed</reg></choice> by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref>.</s>
+        <s>It deals with a lot serious topics.</s>
+        <s>The sixteen year old <ref target="b10gk2_1" type="character">Starr Carter</ref> goes to a white school with her and her brother being the only black kids there.</s>
+        <s>She lives in a black neighbourhood with her family and deals with her <choice><orig>to</orig><reg>two</reg></choice> <choice><orig>personalyties</orig><reg>personalities</reg></choice> at school and at home who don't <choice><orig>usualy</orig><reg>usually</reg></choice> mix up.</s>
+        <s>The sequence shows a scene <choice><orig>erly</orig><reg>early</reg></choice> in the beginning of the movie.</s>
+        <s>In this scene, <ref target="b10gk2_1" type="character">Chris</ref> her boyfriend, who also goes to the <choice><orig>privite</orig><reg>private</reg></choice> <choice><orig>withe</orig><reg>white</reg></choice> school, is introduced.</s>
+        <s>The first shot shows <ref target="b10gk2_1" type="character">Chris</ref> walking up the hallway and catching some high fives from his friend.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> starts to notice him and stars at him.</s>
+        <s>She is <choice><orig>atmiring</orig><reg>admiring</reg></choice> him and his outfit, <choice><orig>particulary</orig><reg>particularly</reg></choice> his shoes.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> notices <ref target="b10gk2_1" type="character">Starr</ref> but she turns her head.</s>
+        <s>He walks up to her and tugs the headphones which <choice><orig>where</orig><reg>were</reg></choice> <choice><orig>hangin</orig><reg>hanging</reg></choice> on his neck, on her ears.</s>
+        <s>The audience starts to <choice><orig>her</orig><reg>hear</reg></choice> the music playing.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> tells <ref target="b10gk2_1" type="character">Starr</ref> that he made the beat she is listening to for her.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> starts to smile but <ref target="b10gk2_1" type="character">Chris</ref> doesn't see the smile because <ref target="b10gk2_1" type="character">Starr's</ref> head is directed to the locker she is standing in front of, while <ref target="b10gk2_1" type="character">Chris</ref> stands behind her, his hands on the headphones on <ref target="b10gk2_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> ears.</s>
+        <s>She starts to <choice><orig>shovs</orig><reg>shove</reg></choice> him away and he takes the headphones back in his hand and the music stops.</s>
+        <s>They start to <choice><orig>discus</orig><reg>discuss</reg></choice> the situation: last time they saw each other <ref target="b10gk2_1" type="character">Chris</ref> tried something on her, which she <choice><orig>wasen't</orig><reg>wasn't</reg></choice> ready for.</s>
+        <s>But the audience only gets to assume what really <choice><orig>happend</orig><reg>happened</reg></choice>.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> starts to explain himself, by telling her that they have been dating for six <choice><orig>month</orig><reg>months</reg></choice> and <ref target="b10gk2_1" type="character">Chris</ref> hasn't even met <ref target="b10gk2_1" type="character">Starr's</ref> parents yet, because she always tells him they're busy, so he thought she only wanted the other thing, so he tried to make a move on her.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref><choice><orig>defents</orig><reg>defends</reg></choice> herself by telling <ref target="b10gk2_1" type="character">Chris</ref> she isn't <quote>one of those firsty girls</quote>.</s>
+      </p>
+      <p>
+        <s>After that, <ref target="b10gk2_1" type="character">Chris</ref> asks her if she likes the beat, but <ref target="b10gk2_1" type="character">Starr</ref> doesn't <choice><orig>immediatly</orig><reg>immediately</reg></choice> <choice><orig>atmid</orig><reg>admid</reg></choice> that she likes it, so <ref target="b10gk2_1" type="character">Chris</ref> pulls the headphones out of his phone and starts to play the music on high volume in the hallway, while dancing to the music.</s>
+        <s>By doing that he gets <ref target="b10gk2_1" type="character">Starr</ref> to smile and forgive him for his behavior.</s>
+        <s>She pulls him by the arm out of the hallway and the music stops.</s>
+        <s>Next we see <ref target="b10gk2_1" type="character">Chris</ref> and <ref target="b10gk2_1" type="character">Starr</ref> leaning in to each other on the hallway wall, face to face, both laughing, just before they kiss each other.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

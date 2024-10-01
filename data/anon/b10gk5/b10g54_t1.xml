@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g54_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt from the filming of the novel <ref target="b10gk5_1" type="title">The Hate U Give</ref> by <ref target="b10gk5_1" type="author">Angie Thomas</ref>, directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> in the year <date>2018</date>, shows <ref target="b10gk5_1" type="character">Chris</ref> coming to <ref target="b10gk5_1" type="character">Starr</ref> at school.</s>
+        <s>They both had an argument before, because <ref target="b10gk5_1" type="character">Chris</ref> had pulled out a condom last night.</s>
+      </p>
+      <p>
+        <s>At first <ref target="b10gk5_1" type="character">Chris</ref> appears with giving his friends handshakes, until he sees <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>He comes to her but <ref target="b10gk5_1" type="character">Starr</ref> is still angry because of last night and turns her back to <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>He puts his headphones on <ref target="b10gk5_1" type="character">Starr's</ref> ears.</s>
+        <s>For a moment she gets a smile on her face but then she puts them off and tells him that she's not happy about what he did last night.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> says that he's sorry about that but a <quote>sorry</quote> is not enough for <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>So <ref target="b10gk5_1" type="character">Chris</ref> takes out the headphones and turns the music loud and <ref target="b10gk5_1" type="character">Starr</ref> laughs again.</s>
+        <s>It's like she forgot about what happened before.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g19_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I just read the interview with <name type="misc">Ayad Akhtar</name>.</s>
+      </p>
+      <p>
+        <s>I think that me as a <choice><orig>german</orig><reg>German</reg></choice> guy <choice><orig>propably</orig><reg>probably</reg></choice> nobody will offend hard, because I'm not obviously in a religion or from a country.</s>
+        <s>I will never have problems like <name type="misc">Ayad Akhtar</name> or for example <name type="misc">Amir</name> when the newspaper article was written.</s>
+        <s>I will never have my religion as an identity marker like <name type="misc">Amir</name> when <name type="misc">Isaac</name> said <quote>There's a reason they call you people animals</quote> <ref target="b11gk2_1" type="line">(p. 73, l. 1)</ref> because I'm a religious white man which sounds weird to say, because in <date>2021</date> nobody should be jsut recognized as <q>the <choice><orig>muslim</orig><reg>Muslim</reg></choice></q> or something like that.</s>
+      </p>
+      <p>
+        <s>I think interviews like this or plays from <name type="misc">Ayad Akhtar</name> are important for people like me, because they show how some people get treated.</s>
+      </p>
+      <p>
+        <s>Bye</s>
+      </p>
+    </body>
+  </text>
+</TEI>

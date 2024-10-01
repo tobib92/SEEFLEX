@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g06_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>FWG
+		headmaster <name type="person">Mr. Rump</name>
+		<name type="geo">Texas</name> school libraries</p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I hope you are doing fine.</s>
+        <s>So through a penfreidn I got you because you are his headmaster.</s>
+        <s>I had the book <name type="misc">THUG</name> in my English class and got informed that hte book was banned from school libraries in <name type="geo">Texas</name> which I am not supporting.</s>
+        <s>A reason to be against it is because it was supposed to be vulgar and contained offensive language but through colloquial <choice><orig>languge</orig><reg>language</reg></choice> students in the age of 16+ could relate to the story and to the main character <name type="person">Starr</name> extremely well.</s>
+        <s>On one hand <choice><orig>One</orig><reg>one</reg></choice> could argue against it because of its depicted drug use and the police who are being shown negatively but to be in favour of allowing the book in school libraries in <name type="geo">Texas</name> is because <choice><orig>there</orig><reg>their</reg></choice> problems that are taking place in the book are problems which are still happening in <choice><orig>todays</orig><reg>today's</reg></choice> society and it could open eyes of students of what evil racism could cause.</s>
+        <s>All in all I think this book should not only be made available to American students but to students all around the world because racism could happen to every human in the world in <choice><orig>todays</orig><reg>today's</reg></choice> society.</s>
+        <s>Thanks for giving the chance to talk to you.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

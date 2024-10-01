@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g11_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="c11gk2_1" type="speaker">Barnier</ref> states that the <quote>Brexit is clearly a lose-lose situation for both</quote> <ref target="c11gk2_1" type="line">(ll. 21f.)</ref>.</s>
+        <s>But is this really true?</s>
+      </p>
+      <p>
+        <s>I think it is quite true as a statement, as both the <name type="misc">EU</name> and the <name type="geo">UK</name> <q>lose</q> in <choice><orig>serveral</orig><reg>several</reg></choice> aspects.</s>
+      </p>
+      <p>
+        <s><choice><orig>On</orig><reg>One</reg></choice> of them would be the <choice><orig>finacial</orig><reg>financial</reg></choice> one.</s>
+        <s>The <name type="misc">EU</name> for example loses his second biggest sponsor, but also will have difficulties with keeping up the trading, as it was before.</s>
+        <s>For the <name type="geo">UK</name> not having to pay the <name type="misc">EU</name> a lot of money is a big plus on the one hand.</s>
+        <s>But on the other hand the <name type="geo">UK</name> loses <choice><orig>alot</orig><reg>a lot</reg></choice> of money as it now has more difficult trade deals and more taxes to pay when goods travel <choice><orig>boarders</orig><reg>borders</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Therefore this is not actually a plus for the <name type="geo">UK</name>.</s>
+        <s>Of course the <name type="geo">UK</name> was able to gain independece as a country by leaving the <name type="misc">EU</name>, but for the citizens, both of the <name type="misc">EU</name> and the <name type="geo">UK</name>, things which <choice><orig>where</orig><reg>were</reg></choice> pretty easy before like crossing <choice><orig>boarders</orig><reg>borders</reg></choice> got quite difficult.</s>
+        <s>Also there were empty supermarket shelves and <choice><orig>serveral</orig><reg>several</reg></choice> shortages of products, especially in the <name type="geo">UK</name>, as there was a big worker shortage especially in truck drivers, that resulted out of <name type="misc">Brexit</name>.</s>
+        <s>It <choice><orig>therefere</orig><reg>therefore</reg></choice> endangered the economy but also the normal day to day life.</s>
+      </p>
+      <p>
+        <s>All in all you can <choice><orig>therfere</orig><reg>therefore</reg></choice> say the <name type="misc">Brexit</name> was a <quote>lose-lose situation</quote>, as it <choice><orig>dameged</orig><reg>damaged</reg></choice> the <name type="misc">EU</name> and the <name type="geo">UK</name> in <choice><orig>serveral</orig><reg>several</reg></choice> aspects named above.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

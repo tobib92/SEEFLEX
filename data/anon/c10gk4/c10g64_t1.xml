@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g64_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> by <ref target="c10gk4_1" type="speaker">Barack Obama</ref> from the <date>7th April 2009</date> in <name type="geo">Istanbul</name> at the student roundtable at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name> takes action about the importance of intercultural understanding and student exchanges.</s>
+        <s>He <choice><orig>address</orig><reg>addresses</reg></choice> his speech to young people and young muslims in <name type="geo">Turkey</name>.</s>
+      </p>
+      <p>
+        <s>The speech has 5 paragraphs but also can be structured into 3 parts since the first paragraph is the introduction, the second to fourth paragraphs are the main part and the last paragraph is the conclusion.</s>
+        <s><ref target="c10gk4_1" type="speaker">Barack Obama</ref> talks in the introduction about rebuilding the relationship between the <name type="geo">US</name> and the muslims.</s>
+        <s>In the main part he says that there are many young people who have energy and passion to study abroad or to volunteer abroad.</s>
+        <s>He also outlines the positive <choice><orig>aspekts</orig><reg>aspects</reg></choice> of studying abroad like <choice><orig>learing</orig><reg>learning</reg></choice> new languages, serving and studying with people from the whole world.</s>
+        <s>In the conclusion he sums up his opinion and raises <choice><orig>awernes</orig><reg>awareness</reg></choice> to study in the <name type="geo">USA</name>, where you will find a partner, supporter and friend.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>trys</orig><reg>tries</reg></choice> to involve his audience by directly talking to them <ref target="c10gk4_1" type="line">(l. 3)</ref>.</s>
+        <s>To catch their attention he <choice><orig>mention</orig><reg>mentions</reg></choice> people who he knows from other <choice><orig>countrys</orig><reg>countries</reg></choice> so the audience can feel like a part of the <choice><orig>programm</orig><reg>program</reg></choice> and share their interest in the following discussion at the students' roundtable <ref target="c10gk4_1" type="line">(ll. 5-8)</ref>.</s>
+        <s>His intention is to make clear that he wants everyone to take part in this progress of <choice><orig>traveling</orig><reg>travelling</reg></choice> in another country so they can get or share their experience <ref target="c10gk4_1" type="line">(ll. 13-16)</ref>.</s>
+        <s>He talks directly to the audience by using the pronoun <quote>you</quote>.</s>
+      </p>
+      <p>
+        <s>In general you can say that <ref target="c10gk4_1" type="speaker">Barack Obama</ref> is involving his audience and that he has a lot of experience with the topic <choice><orig>traveling</orig><reg>travelling</reg></choice> abroad and talking to students.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

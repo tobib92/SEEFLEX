@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g29_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk2_1" type="scene">7th scene of the first act</ref> of <ref target="c12gk2_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> drama <ref target="c12gk2_1" type="title">Macbeth</ref> is about <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> and <ref target="c12gk2_1" type="character"><choice><orig>Lady Macbeths</orig><reg>Lady Macbeth's</reg></choice></ref> plan to kill <ref target="c12gk2_1" type="character">King Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>After a battle against the <choice><orig>irish</orig><reg>Irish</reg></choice>, <ref target="c12gk2_1" type="character">Macbeth</ref> meets <ref target="c12gk2_1" type="character">three witches</ref>, who prophesy him his future as King of <name type="geo">Scotland</name> and <ref target="c12gk2_1" type="character">Thane of Cawdor</ref>.</s>
+        <s>Shortly thereafter he is awarded the title of <ref target="c12gk2_1" type="character">Thane of Cawdor</ref> and goes to prepare a banquet in honor of <ref target="c12gk2_1" type="character">King Duncan</ref> during which this scene takes place.</s>
+      </p>
+      <p>
+        <s>After <ref target="c12gk2_1" type="character">Macbeth</ref> leaves the chamber, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> meets him there in order to ask him why he left.</s>
+        <s>Outside they both discuss <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> lack of ambition in killing the King.</s>
+        <s>After a lot of convincing, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> wins <ref target="c12gk2_1" type="character">Macbeth</ref> over for her plan to kill the King in order to fulfill <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> desire to become King of <name type="geo">Scotland</name> himself.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

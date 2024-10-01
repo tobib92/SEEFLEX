@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The analysis of the use of communicative strategies and use of language will be part of the following text.</s>
+      </p>
+      <p>
+        <s>The author starts <choice><orig>of</orig><reg>off</reg></choice> by making up a thesis, which makes his opinion clear <ref target="a12gk1_1">(l. 1-2)</ref></s>
+      </p>
+      <p>
+        <s>but over he underlines his point of view in line four, by using emotive language <quote>sadly</quote>.</s>
+        <s>Because of that use it is more easy to <choice><orig>emphasis</orig><reg>emphasize</reg></choice> with the author and more intersting.</s>
+      </p>
+      <p>
+        <s>The next paragraph <ref target="a12gk1_1">(l. 6-8)</ref> is an argument against <ref target="a12gk1_1" type="author">Worne's</ref> state of mind, which gets weaken up directly.</s>
+        <s>He does that by using a bit of emotive language <quote>there's a long way ahead</quote>, where he already catches the reader and after wards using an argument.</s>
+        <s>By doing both of it in one paragraph it's really easy to understand his point and one gets taken emotionally with the author.</s>
+      </p>
+      <p>
+        <s>Furthermore he uses a mix of ironic and <choice><orig>hyperbol</orig><reg>hyperbole</reg></choice> in line 12.</s>
+        <s>This kind of language goes all over the paragraph, which makes the argument against his opinion almost ridiculous.</s>
+        <s>And by using those little comments in brackets in this paragraph, the against-argument gets nonsense, like he claims as the last word in line 15 <quote>Cobblers</quote>.</s>
+        <s>This word is the perfect ending to the paragraph, because it underlines how ridiculous the argument before is and offers the reader and no other way to be another opinion.</s>
+      </p>
+      <p>
+        <s>After this fantastic played argument, <ref target="a12gk1_1" type="author">John Worne</ref> starts an entire new idea, by claiming another thesis <ref target="a12gk1_1">(l. 16-18)</ref></s>
+      </p>
+      <p>
+        <s>His thesis gets supported by approaching a study by <name type="misc">CBI/Pearson Education and Skills Survey</name> <ref target="a12gk1_1">(l. 19)</ref>, which makes the author sound respectable and that he not just uses big words like before.</s>
+      </p>
+      <p>
+        <s>Afterwords he claims that the <quote>only really good piece of news</quote> is the opportunity to study language alongside another degree subject.</s>
+        <s>Again he uses emotive language in line 20 <quote>more should</quote>, which sounds like an appeal to all the<name type="geo">UK</name>students.</s>
+      </p>
+      <p>
+        <s>Moreover the author underlines his argument by using an example in the next paragraph <ref target="a12gk1_1">(l. 27-29)</ref>.</s>
+        <s>The example says that <quote> a lawyer with a Chinese language skills is more in demand than a pure lawyer</quote>, which makes the point before with the university is more understandable, why he sees it as the only good thing.</s>
+        <s>And moreover it kinda mess with <choice><orig>students</orig><reg>students'</reg></choice> heads, because everyone wants to be successful and the author gives one the feeling that a degree is not enough, that learning another language is the only possibility.</s>
+      </p>
+      <p>
+        <s>Again at the end by using in line 30 <quote>no doubt</quote>, John creates no space for other opinions, which gives one the feeling that only his point of view is the right one.</s>
+        <s>At the very end he appeals to the parents, but what really adds some thing is that he says that he is by hisself a parent, which makes him more respectable and gives him the right to appeal.</s>
+      </p>
+      <p>
+        <s>All in one the author uses much emotive language and facts and harsh words, what makes him reliable and understandable.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g41_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk3_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> works might still be relevant today <choice><orig>althought</orig><reg>although</reg></choice> he lived back in the <choice><orig>Renaiscance</orig><reg>Renaissance</reg></choice>.</s>
+        <s>I personally believe that <ref target="c12gk3_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> <choice><orig>work</orig><reg>works</reg></choice> have something like a <choice><orig>timless</orig><reg>timeless</reg></choice> structure <choice><orig>althought</orig><reg>although</reg></choice> his works played back in the days and his language was <choice><orig>kinda</orig><reg>kind of</reg></choice> different.</s>
+        <s>Dramas like <ref target="c12gk3_1" type="title">Macbeth</ref> or <name type="misc">Romeo and Juliet</name> have still the potential to be recreated with a similar plot but with different characters, scenes, era and costumes.</s>
+        <s>That's the reason why <ref target="c12gk3_1" type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> works are believed to be still relevant today.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

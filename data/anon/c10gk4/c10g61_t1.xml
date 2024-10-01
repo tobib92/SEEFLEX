@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g61_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The political speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> is a political speech given by the president of the <name type="geo">United States of America</name> during a visit in <name type="geo">Turkey</name>.</s>
+        <s>In this speech, which is held to begin an open discussion with the students of the <name type="misc">Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name> in <name type="geo">Turkey</name>, the president tries to encourage and inspire the audience to <quote>build new bridges instead of building new walls</quote> <ref target="c10gk4_1" type="line">(lines 19-20)</ref> through cultural exchanges between the audience and young people from the <name type="geo">United States of America</name>.</s>
+      </p>
+      <p>
+        <s>The speech is given in 4 paragraphs.</s>
+        <s>In the first paragraph <ref target="c10gk4_1" type="speaker">Obama</ref> states his reason to give this speech and attend the following roundtable discussion.</s>
+        <s>The president emphasizes his commitment and envy to <quote>rebuild a relationship between the US and the people of the Muslim world</quote>, with the adverb deeply <ref target="c10gk4_1" type="line">(lines 1 and 2)</ref>.</s>
+        <s>He continues the speech with further describing the kind of relationship he wants to <gap reason="illegible" quantity="1" unit="word">wiate</gap>.</s>
+        <s>With the <choice><orig>repetion</orig><reg>repetition</reg></choice> of the word <quote>mutual</quote> <ref target="c10gk4_1" type="line">(lines 2 and 3)</ref> he loosens the tension of being near a person as important and powerful as him.</s>
+        <s>This gets supported by the kind of discussion they are having.</s>
+        <s>A roundtable discussion in which everybody has the same rights and is treated equally.</s>
+      </p>
+      <p>
+        <s>In the second paragraph <ref target="c10gk4_1" type="speaker">Obama</ref> shares a trend he has seen in the <name type="geo">US</name> of young people, who are deeply engaged into politics, who volunteer abroad or teach at schools.</s>
+        <s>He then continues with the speech by extending this new surge in activism to other countries.</s>
+        <s>The president states that <quote>everywhere he goes he finds young people who are passionate, engaged and deeply informed about the world around them</quote> <ref target="c10gk4_1" type="line">(cf. lines 7-8)</ref>.</s>
+        <s>He uses a climax to emphasize the passion and commitment of these people.</s>
+      </p>
+      <p>
+        <s>In the third paragraph <ref target="c10gk4_1" type="speaker">Obama</ref> presents some advantages of cultural exchanges between young people, like the audience.</s>
+        <s>He thinks that these student exchanges can <quote>remind us that we're joined together by our pursuit of a life that's productive and purposeful</quote> <ref target="c10gk4_1" type="line">(cf. lines 14-15)</ref>.</s>
+        <s>The president goes on to extend his thesis and says, that through this realization new trust can grow and smaller differences can be out aside.</s>
+      </p>
+      <p>
+        <s>In the last paragraph <ref target="c10gk4_1" type="speaker">Barack Obama</ref> appeals to the young students of the <name type="misc">Minar Sinan Fine Arts University</name> directly.</s>
+        <s>He wants them to be progressive, to help <quote>building new bridges</quote> <ref target="c10gk4_1" type="line">(l. 19)</ref> and end the times of mistrust and hostility.</s>
+      </p>
+      <p>
+        <s>As the final statement the president of the <name type="geo">United States</name> tells the audience that the <name type="geo">United States</name> will help them in this mission for peace and trust.</s>
+        <s>He uses a climax to greatly strengthen the meaning and credibility of his oath to stand by the audience <add>(<quote>And I want you to know that in these endeavors, you will find a partner and a supporter and a friend in the United States of America</quote>, <ref target="c10gk4_1" type="line">(ll. 21-22)</ref>)</add>.</s>
+      </p>
+      <p>
+        <s>All in all the president gives an inspiring speech to advertise exchanges between young people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

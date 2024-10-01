@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>With the iambic parameter, Shakespeare wants to underline the theme love, because the iambic parameter has the <choice><orig>rhytm</orig><reg>rhythm</reg></choice> of the heartbeat.</s>
+        <s>Also conspicuous is that on every question mark follows a <quote>O</quote> or <quote>Or</quote>.</s>
+        <s>This supports the feeling of misunderstanding, why the <choice><orig>adressee</orig><reg>addressee</reg></choice> does not take action in the real life.</s>
+        <s>The repeating of <quote>O</quote> in the whole sonnet and the repeating of <quote>Or</quote> at the beginning of line 11 and 12 are also anaphoras.</s>
+        <s>Also <choice><orig>conspicicuous</orig><reg>conspicuous</reg></choice> is that <choice><orig>excepting</orig><reg>except</reg></choice> from the last verse no dots are used.</s>
+        <s>There are only question marks at the end of each sentence, which underlines, how doubtful it is that the <choice><orig>adressee</orig><reg>addressee</reg></choice> does not speak his love out.</s>
+        <s>Only in the final couplet is a full dot and not question mark, because the final couplet is the answer on the many questions.</s>
+        <s>With the many questions <ref target="c12lk1_1" type="author">Shakespeare</ref> influences the reader to ask himself things and overthink the whole poem.</s>
+      </p>
+      <p>
+        <s>The repitition <quote>nor stone, nor earth, nor boundless sea [...]</quote> in the first line, shows how strong his love is.</s>
+        <s><quote>Boundless sea</quote> is also a metaphor.</s>
+        <s>The question <quote>How [...] whose action is no stronger than a flower?</quote>, underlines that the <choice><orig>adressee</orig><reg>addressee</reg></choice> doesn't take action, because flowers are not strong.</s>
+        <s>This is a big paradox, but a symbol at the same time, because flowers are a symbol of love.</s>
+        <s>The repitition of <quote>time's</quote> in the 10.</s>
+        <s>line supports the problem of the running time, because time is not endless.</s>
+        <s>With using this repetition, <ref target="c12lk1_1" type="author">Shakespeare</ref> makes clear that the <choice><orig>adressee</orig><reg>addressee</reg></choice> must take actions until it is too late.</s>
+        <s>The answer on that is the <choice><orig>paradoxon</orig><reg>paradox</reg></choice> <quote>[...] that in black ink my love may still shine bright</quote> in the last verse, because black ink cannot shine bright.</s>
+        <s>So the <choice><orig>adressee</orig><reg>addressee</reg></choice> can also maybe not take action on his love.</s>
+      </p>
+      <p>
+        <s>In the context of <ref target="c12lk1_1" type="author">Shakespeare's</ref> catalogue of sonnets, the addressee of this sonnet is a young man, which has a problem with his strong love.</s>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> shows, that the young man in fact has the love inside him, but to make the love true, he must speak it out and take action.</s>
+        <s>So the message of the sonnet is that people must take action and speak out their love.</s>
+        <s>He underlines this with the factors of time and death.</s>
+        <s>This creates the feeling to make decisions fast until it is too late.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

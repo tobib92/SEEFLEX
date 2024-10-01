@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11g30_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the interview of <name type="misc">Ayad Akhtar</name> in <name type="misc">Guernica Magazine</name>.</s>
+        <s>We have recently read <name type="misc">Disgraced</name> in school and I have found it very interesting, <choice><orig>esspecially</orig><reg>especially</reg></choice> <name type="misc">Ayad Akhtar's</name> views of faith and identity, as he talked about in your interview.</s>
+        <s>Even <choice><orig>tough</orig><reg>though</reg></choice> I don't know, what it is like <choice><orig>beeing</orig><reg>being</reg></choice> a minority, I still think I understand what <name type="misc">Ayad Akhtar</name> wants to express in that part of the interview.</s>
+      </p>
+      <p>
+        <s>I would have to disagree with him, as I think your identity marker is not given from outside, you can change it.</s>
+        <s>I also think, that identity is not reliant on faith or even ethnicity.</s>
+        <s>Your identity is what interest you, what you like or dislike and your opinions as well as other factors.</s>
+        <s>It is not <choice><orig>neccesarilly</orig><reg>necessarily</reg></choice> dependent on your background, if you don't want to.</s>
+        <s>Your identity is also not, what people think of you, when they first see you, but it is what people think of you, who have known you for a long time.</s>
+        <s>This can also be seen in the character of <name type="misc">Amir</name> in <name type="misc">Disgraced</name>.</s>
+        <s>He changes his identity away from islam and his upbringing.</s>
+      </p>
+      <p>
+        <s>I hope this letter has informed you on a new view of identity.</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

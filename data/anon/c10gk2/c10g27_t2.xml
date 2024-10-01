@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As stated in the summary the speech by <ref target="c10gk2_1" type="speaker">Barack Obama</ref> is about the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>In the following I will analyse the structure of the text, the line of argumentation and the stylistic devices the author uses in order to convince the reader with his/her opinion of going on an exchange to help the world getting connected.</s>
+      </p>
+      <p>
+        <s>The speech is an excerpt and does not really have paragraphs.</s>
+      </p>
+      <p>
+        <s>Furthermore it's divided in two themes which <ref target="c10gk2_1" type="speaker">Obama</ref> <choice><orig>trys</orig><reg>tries</reg></choice> to connect in his speech.</s>
+        <s>On the one hand it deals with <ref target="c10gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> own experiences from his visit to <name type="geo">Istanbul</name>, where he hosted a students' roundtable at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Art University</name> in <name type="geo">Tophane</name>, and on the other it's about how he uses these experiences to let them have an effect for the whole world.</s>
+      </p>
+      <p>
+        <s>When he first talks about his trip to <name type="geo">Turkey</name> in cause of him being committed to rebuild a relationship between the <name type="geo">United States</name> and the people of the Muslim world, it's clear to see that <ref target="c10gk2_1" type="speaker">Obama</ref> is a very familiar man, who wants the whole world to be connected <ref target="c10gk2_1" type="line">(l. 1-2)</ref>.</s>
+        <s>To him it seems important that every teenager knows how to handle to bring the foreign countries together and that young, passionated, engaged people who are deeply informed about the world around them should use their gift to make effort possible <ref target="c10gk2_1" type="line">(l. 6-8)</ref>.</s>
+      </p>
+      <p>
+        <s>In addition to that it's important to mention that <ref target="c10gk2_1" type="speaker">Barack Obama</ref> is a <choice><orig>President</orig><reg>president</reg></choice> and introduces himself to his environment with the goal of reaching most people as possible with his message <ref target="c10gk2_1" type="line">(l. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>So his new ways to connect young Americans to young people all around the world are supporting opportunities to learn new <choice><orig>lenguages</orig><reg>languages</reg></choice>, and serve and study, welcoming students from other countries <ref target="c10gk2_1" type="line">(l. 9-11)</ref>.</s>
+        <s>Since this has always been a critical part of how <name type="geo">America</name> engages the world he wants to mention simple exchanges <ref target="c10gk2_1" type="line">(l. 11-13)</ref>.</s>
+      </p>
+      <p>
+        <s>To emphasize the actual point he uses the metaphor <quote>simple exchanges can break down walls between us</quote> in line 13.</s>
+      </p>
+      <p>
+        <s>People should simply come together and share experiences or just talk to each other.</s>
+      </p>
+      <p>
+        <s>By mentioning that in our <choice><orig>lifes</orig><reg>lives</reg></choice> we all joined together by our pursuit of a productive and purposeful life he makes the reader feel like they're also part of the whole theme and that we all belong together in any type of way <ref target="c10gk2_1" type="line">(l. 14-17)</ref>.</s>
+      </p>
+      <p>
+        <s>Progress starts with any of us <ref target="c10gk2_1" type="line">(l. 17)</ref>.</s>
+        <s>He brings the reader into the speech and talks to everyone of us with saying: <quote>To all of you</quote> <ref target="c10gk2_1" type="line">(l. 18)</ref> and suggests us to <choice><orig>wether</orig><reg>whether</reg></choice> choose longstanding divisions or lasting peace.</s>
+        <s>He mentions that building new bridges instead of building new walls can be so easy if only you get involved with this endeavor.</s>
+      </p>
+      <p>
+        <s>All in all the metaphors in the text help to underline the <choice><orig>mainpoints</orig><reg>main points</reg></choice> and make the reader think about the theme again.</s>
+        <s>And that's also what <ref target="c10gk2_1" type="speaker">Barack</ref> wants to reach with his speech.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

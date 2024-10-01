@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g33_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene <ref target="c12gk2_1" type="scene">Lady Macbeth persuades her husband</ref> from <ref target="c12gk2_1" type="title">Macbeth</ref> <choice><orig>discribe</orig><reg>describes</reg></choice> how <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince <ref target="c12gk2_1" type="character">Macbeth</ref> to murder <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>The scene starts when <ref target="c12gk2_1" type="character">Macbeth</ref> left the chamber and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> follows him.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> talks about golden opinion from different people, but <ref target="c12gk2_1" type="character">Macbeth</ref> <choice><orig>do</orig><reg>does</reg></choice> not believe him.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref><choice><orig>promise</orig><reg>promises</reg></choice> her he <choice><orig>do</orig><reg>does</reg></choice> as much as he can.</s>
+        <s>After that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince him like how it <choice><orig>feel</orig><reg>feels</reg></choice> when he is king.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> would make his chamberlain drunk and kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> is unsure if this is right, but in the end his wish for power was too big and he <choice><orig>agree</orig><reg>agrees</reg></choice> in her plan.</s>
+        <s><ref target="c12gk2_1" type="character">Duncan</ref> should not know <choice><orig>enything</orig><reg>anything</reg></choice>, so he <choice><orig>musst</orig><reg>must</reg></choice> stay a fake face for him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g81_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The informative text <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> can be <choice><orig>devided</orig><reg>divided</reg></choice> into four sections.</s>
+        <s>The first section <ref target="c10gk5_1" type="line">(l. 1-4)</ref> is informative.</s>
+        <s>Here, the author gives general information and deposit these with numbers of how much money was in the past year spent on translating and interpreting for British residents who don't speak English <ref target="c10gk5_1" type="line">(l. 1-2)</ref>.</s>
+        <s>The author tries to convince the reader of his opinion by using expressive adjectives <ref target="c10gk5_1" type="line">(l. 3</ref>, <quote>wider</quote> and <ref target="c10gk5_1" type="line">l. 2</ref>, <quote>bad)</quote>.</s>
+        <s>The second part <ref target="c10gk5_1" type="line">(l. 5-10)</ref> is also informative.</s>
+        <s>The author uses stylistic devices.</s>
+        <s>There is a <choice><orig>metapher</orig><reg>metaphor</reg></choice>  <quote>Bangladeshis sit at the bottom of educational achievement</quote> <ref target="c10gk5_1" type="line">(l. 7)</ref>.</s>
+        <s>Here, <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> wants to strengthen the expression.</s>
+        <s>Another <choice><orig>metapher</orig><reg>metaphor</reg></choice> is <quote>drug abuse and crime are on the rise in the East End</quote> <ref target="c10gk5_1" type="line">(l. 8)</ref>.</s>
+        <s>The third paragraph <ref target="c10gk5_1" type="line">(l. 11-17)</ref> is also informative.</s>
+        <s>There is <choice><orig>a</orig><reg>an</reg></choice> appeal fromt he author's parents to him.</s>
+        <s>They wanted to learn English and wanted him to do so, too <ref target="c10gk5_1" type="line">(l. 13)</ref>.</s>
+        <s>Here, it is also <choice><orig>a</orig><reg>an</reg></choice> appeal to us to learn English.</s>
+        <s>The fourth and last section <ref target="c10gk5_1" type="line">(l. 18-23)</ref> is informative - the author gives general information, argumentative - why we should learn another language <add>(English)</add> and appeal - we should get involved to learn English.</s>
+        <s>The words <quote>have to</quote> <ref target="c10gk5_1" type="line">(l. 18)</ref>, <quote>I believe</quote> <ref target="c10gk5_1" type="line">(l. 20)</ref> and <quote>we should</quote> <ref target="c10gk5_1" type="line">(l. 20)</ref> strengthen the author's opinion.</s>
+        <s>There is also a <choice><orig>metapher</orig><reg>metaphor</reg></choice> <quote>the greater danger lies</quote> <ref target="c10gk5_1" type="line">(l. 22)</ref> and <choice><orig>a</orig><reg>an</reg></choice> alliteration <quote>gained in getting</quote> <ref target="c10gk5_1" type="line">(l. 23)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l31_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Like the waves make it to the graveled coast,</l>
+            <l>So our minutes run to their end,</l>
+            <l>Every changing place with that which comes earlier,</l>
+            <l>In <choice><orig>sequents</orig><reg>sequence</reg></choice> hard work brings you <choice><orig>torwards</orig><reg>towards</reg></choice> to the fight.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>Nativity, once in the focus of light,</l>
+            <l>Matures, and being crowned,</l>
+            <l>Twisted eclipses against his glory fight,</l>
+            <l>And the time spent, his gift now <choice><orig>suprissed</orig><reg>suppressed</reg></choice>.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>And time paralyses the look of youth,</l>
+            <l>And searches the parallels in his beauty,</l>
+            <l>Feeds onthe specialities of nature's truth,</l>
+            <l>And there is nothing left <choice><orig>exept</orig><reg>except</reg></choice> the grass to cut.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>And I hope my verse will last forever,</l>
+            <l>Praising your worth, in spite of his cruel hand.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

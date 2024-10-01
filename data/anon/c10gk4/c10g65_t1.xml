@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g65_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the excerpt from President <ref target="c10gk4_1" type="speaker">Barack Obama's</ref> speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref>, <ref target="c10gk4_1" type="speaker">Barack Obama</ref> uses in order to encourage his listeners to take part in intercultural exchanges, delivered on <date>7th April 2009</date> in <name type="geo">Istanbul</name>, <name type="geo">Turkey</name> at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name> he tells about the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>The extract is <choice><orig>devided</orig><reg>divided</reg></choice> into three sections, starting with an introduction, in which Mr. <ref target="c10gk4_1" type="speaker">Obama</ref> wants to attract the students attention by speaking of the <quote>new spirit of activism and responsibility</quote> <ref target="c10gk4_1" type="line">(l. 4)</ref> young people have.</s>
+        <s>He refers it to young Americans <ref target="c10gk4_1" type="line">(ll. 5-7)</ref>.</s>
+      </p>
+      <p>
+        <s>Mr. President also compliments the younger generation as <quote>passionate, engaged, [...]</quote> <ref target="c10gk4_1" type="line">(ll. 7-8)</ref>.</s>
+      </p>
+      <p>
+        <s>In the main part Mr. <ref target="c10gk4_1" type="speaker">Barack Obama</ref> tries to develop his main idea <quote>connect young Americans to young people all around the world</quote> <ref target="c10gk4_1" type="line">(l. 9)</ref> further by telling several arguments step by step starting off with pointing out the opportunities someone would have of an exchange <ref target="c10gk4_1" type="line">(ll. 9-11)</ref>.</s>
+        <s>Furthermore he explains that <quote>simple exchanges can break down walls between us</quote> <ref target="c10gk4_1" type="line">(l. 13)</ref>.</s>
+        <s>He backs up this statement by giving exchanges/going <choice><orig>aboard</orig><reg>abroad</reg></choice> as a solution to <quote>reveal humanity</quote> <ref target="c10gk4_1" type="line">(l. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>Moreover he mentions the regained trust which covers the smaller <choice><orig>diffrences</orig><reg>differences</reg></choice> and shows what we share <ref target="c10gk4_1" type="line">(ll. 16-17)</ref>.</s>
+      </p>
+      <p>
+        <s>At the end Mr. <ref target="c10gk4_1" type="speaker">Obama</ref> makes an appeal towards the students by summing up his main ideas and mentioning the evolution younger generation could <choice><orig>archieve</orig><reg>achieve</reg></choice> by going abroad.</s>
+      </p>
+      <p>
+        <s>In <choice><orig>Conclusion</orig><reg>conclusion</reg></choice> to Mr. President <ref target="c10gk4_1" type="speaker">Barack <choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> speech, you can tell he was successful appealing to the younger generation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l08_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> uses stylistic devices and communicative strategies in order to convince his audience that mankind is responsible for climate change and therefore has to take action to fight it by appealing to their emotions and sense of responsibility.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> starts his speech by directly addressing his audience, which can be found in line 1: <quote>Your excellencies, delegates, ladies and gentlemen</quote>.</s>
+        <s>This is an act of politeness but also catches his audienc's attention.</s>
+        <s>Throughout his speech, he addresses his audience directly, for example in line 24 where he asks them the question: <quote>Is this how our story is due to end?</quote> In the end, he addresses them again, which frames his speech and therefore creates a feeling of unity.</s>
+        <s>But he does not only address his audience directly, he uses inclusive language throughout his speech to evoke a feeling of community which can be found in line 28: <quote>we are</quote>, line 29 <quote>we [...] understand</quote>, line 31 <quote>we must</quote> or line 34 <quote>we will</quote>.</s>
+        <s>We can see here that he uses pronouns in a strategic way.</s>
+        <s>He uses the pronoun <quote>we</quote> in order to appeal to their sense of unity.</s>
+        <s>The pronoun <quote>we</quote> includes him as well, which means his audience to feel like they are equal even though he is the one holding a speech and the other ones listening.</s>
+      </p>
+      <p>
+        <s>But he is also aware of the fact that he speaks to powerful politicians who have the power to change laws or introduce new laws which can actually make a difference in global warming.</s>
+        <s>So he uses the pronoun <quote>you</quote> as well, for example in line 53 where it says: <quote>... why the world is looking to you</quote> which appeals to their sense of responsibility.</s>
+        <s>He uses the pronoun <quote>we</quote> at first to create a feeling of unity and then switches to the pronoun <quote>you</quote> to appeal to his audience's responsibility, so in the end they feel like a unity which has the responsibility to make a difference, excluding himself.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> explains in the beginning of his speech how mankind only has been able to survive because of the stabilization of climate <ref target="b12lk2_1" type="line">(compare ll. 9-10)</ref>.</s>
+        <s>As he is a natural historian, explaining the development of human life on this planet and drawing a connection to the importance of climate for this tohappen, this gives him a certain level of credibility because his audience has the feeling that he knows, what he is talking about.</s>
+        <s>So this also makes his audience trust him.</s>
+      </p>
+      <p>
+        <s>While talking about the changes in climate due to mankind and the instability of climate in general <ref target="b12lk2_1" type="line">(compare ll. 7-8)</ref>, he uses many negatively connoted words like <quote>wildly</quote> in line 7, <quote>brutal</quote> and <quote>unpredictable</quote> in line 8, <quote>burning</quote> in line 14 or <quote>destruction</quote> in line 15.</s>
+        <s>Through this, he makes his audience feel scared of what might happen if our climate destabilize is again.</s>
+        <s>He also uses negatively connoted words to draw the connection between climate instability in the past and today by using for example <quote>trouble</quote> or <quote>breaking</quote> in line 17 or <quote>unavoidable</quote> in line 20.</s>
+        <s>There is a switch of tone in line 24 which is introduced by the rhetorical question <quote>Is this how our story is due to end?</quote>.</s>
+        <s>Before this question, the tone of the speech is rather dark and hopeless due to the negatively connoted words and the fact that <ref target="b12lk2_1" type="speaker">Attenborough</ref> gives off the impression that we cannot comprehend the consequences of climate change which creates fear.</s>
+        <s>But through this question in line 24, the atmosphere changes because the following part of the speech deals with what we can do in order to stop global warming.</s>
+        <s>Sentences like <quote>We need to rewrite our story</quote> in line 28 or <quote>We must fix out sights on keeping one and a half degrees within reach</quote> in line 29 and following, create an optimistic atmosphere because <ref target="b12lk2_1" type="speaker">Attenborough</ref> gives off the impression that there is something we can do and we have to do this because there is no other option.</s>
+        <s>He also concretely says that <quote>we must recapture billions of tons of carbon from the air</quote> <ref target="b12lk2_1" type="line">(ll. 30f.)</ref> through which he tells the audience how we can fight climate change and what they have to focus on during the following conference.</s>
+        <s>In this passage he also uses positively connoted words like <quote>triumph</quote> <ref target="b12lk2_1" type="line">(l. 28)</ref>, <quote>sustainable innovations</quote> <ref target="b12lk2_1" type="line">(l. 32/33)</ref>, <quote>beginning</quote> <ref target="b12lk2_1" type="line">(l. 33)</ref>, <quote>benefits</quote> <ref target="b12lk2_1" type="line">(l. 34)</ref> or <quote>nature</quote> <ref target="b12lk2_1" type="line">(l. 35)</ref>.</s>
+        <s>By doing so, he creates a motivating atmosphere.</s>
+      </p>
+      <p>
+        <s>He also appeals to his audience's parental role by stressing that young people are affected by climate change stronger than themselves <ref target="b12lk2_1" type="line">(compare ll. 26-27)</ref>.</s>
+        <s>Parents are responsible for their children, take care of them and protect them when needed which is what <ref target="b12lk2_1" type="speaker">Attenborough</ref> wants politicians to do now.</s>
+        <s>He wants them to implement laws which help reduce carbon emissions so future generations and young people are protected from the unpredictable consequences of climate change.</s>
+      </p>
+      <p>
+        <s>He also points out the issue of climate inequality in line 18 and then again in line 38 where he stresses that every state hast to reduce their emissions if we actually want to stop climate change.</s>
+        <s>This shows that <ref target="b12lk2_1" type="speaker">Attenborough</ref> is optimistic and wants his audience to feel optimistic about climate change as well because he has a realistic view and stresses that this is a process <ref target="b12lk2_1" type="line">(compare l. 40)</ref>.</s>
+      </p>
+      <p>
+        <s>Also remarkable is that he first created a scary and fearful atmosphere, then a positive, optimistic and affirmating atmosphere and then states that <quote>our motivation should not be fear, but hope</quote> in line 41.</s>
+        <s>This shows that he is aware of the fact that a collaboration of multiple countries to fight global warming is not possible if it is created out of fear.</s>
+        <s>He first creates a fearful atmosphere because it stresses the importance of the issue but it cannot be the driving force because if people act out of fear, they become irrational, hasty and cut other people off and this is not how the climate crisis can be solved.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough's</ref> speech includes multiple other speakers who only have one line each with a purpose to underline <ref target="b12lk2_1" type="speaker">Attenborough's</ref> view and the atmosphere he creates.</s>
+      </p>
+      <p>
+        <s>For example in line 22 <ref target="b12lk2_1" type="speaker">Speaker 3</ref> says: <quote><s>You think you have control.</s><s>We actually have no control</s></quote>, which is an anaphora and underlines the rather dark and pessimistic atmosphere.</s>
+        <s>The other time where other speakers are integrated in his speech they highlight the hopeful atmosphere of motivation, for example in line 44, where <ref target="b12lk2_1" type="speaker">Speaker 7</ref> says: <quote>We need to not just talk about what we can do, but to do what we can</quote>.</s>
+        <s>The speaker is not only contribute to the atmosphere but they also pointed out that <ref target="b12lk2_1" type="speaker">Attenborough's</ref> opinion is not an individual but that he represents the opinions, wishes and fears of many more with his speech.</s>
+      </p>
+      <p>
+        <s>He ends his speech with an appeal for change by using a parallelism.</s>
+        <s>In line 51 and following, he says: <quote><s>In my lifetime, I have witnessed a terrible decline.</s><s>In yours, you could and should witness a wonderful recovery</s></quote>.</s>
+        <s>As <ref target="b12lk2_1" type="speaker">Attenborough</ref> is born in <date>1926</date>, which makes him 95 years old today, he belongs to a different generation than his audience, so he compares the terrible things concerning climate change in his lifetime to the positive things which could happen during his <choice><orig>audiences</orig><reg>audience's</reg></choice> lifetime which again appeals to their feeling of responsibility.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="b12lk2_1" type="speaker">Attenborough</ref> stresses the importance of taking action against climate change now and appeals to his audience's sense of responsibility and their emotions to motivate them to make a difference.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

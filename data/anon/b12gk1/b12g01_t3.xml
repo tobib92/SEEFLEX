@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b12g01_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Johnson,</salute>
+      </p>
+      <p>
+        <s>I read an excerpt of your speech of the <name type="misc">COP26</name> of the year <date>2021</date>.</s>
+        <s>You were right about the statement that our anger will be greater if you failed.</s>
+        <s>We are indeed furious.</s>
+        <s>You had several times the opportunity to act.</s>
+        <s>First <date>2011</date> in <name type="geo">Copenhagen</name>, then <date>2016</date> in <name type="geo">Paris</name> and <date>2021</date> in <name type="geo">Glasgow</name> and you failed each time.</s>
+        <s>You were right however about the requirements you had the technology, the ideas, the NGOs and even the bankers and corporations, did you still failed to seize the opportunity.</s>
+        <s>Since everybody else was (NGOs, technology etc.) ready, why were not you?</s>
+        <s>You were also right that <date>2021</date> was a turning point in history, it turned for the worse and the allusion to a doomsday device, is now like a macabre sake, since you had the opportunity <quote>to cut the wires</quote> yet you didn't, but not because you could not, but because you simply did not want to.</s>
+        <s>You could have invested in electrical cars, green energy like wind, so why didn't you?</s>
+      </p>
+      <p>
+        <s>Many <choice><orig>cooperations</orig><reg>coperations</reg></choice> <quote>turned green</quote> by for example exchanging plastic packages with paper ones or by using eco-friendly production methods.</s>
+        <s>Even individual people <choice><orig>decidet</orig><reg>decided</reg></choice> to ride more with a bike instead of using cars, did not use <choice><orig>plains</orig><reg>planes</reg></choice> but vacationed in closer areas and even used solar <choice><orig>pannels</orig><reg>panels</reg></choice> for energy.</s>
+        <s>This proves that it all boiled down to the politics, to you.</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

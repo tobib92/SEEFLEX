@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g59_t1</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is a short speech named <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> by <ref target="c10gk4_1" type="speaker">Barack Obama</ref>, who once was the President of the <name type="geo">United States of America</name>, that he held on the <date>7th of April 2009</date> at the students' roundtable at the <name type="misc">Culture and Arts Center of Mimar Fine Arts University</name> that he hosted during a visit to <name type="geo">Istanbul</name>.</s>
+        <s>Before he started the open discussion, he wanted to illustrate the importance of intercultural understanding and student exchanges.</s>
+        <s>On the first glance, he seems to promote being passionate about engaging in the world, but also challenge young people to do so and sharing his visions and notions.</s>
+        <s>In the following, the speech is going to be analysed.</s>
+      </p>
+      <p>
+        <s>He provides the normative argument, that through intercultural understanding, you can rebuild a relationship with other countries <ref target="c10gk4_1" type="line">(l. 1)</ref>, which has many advantages for young people.</s>
+        <s>That is one of his lead arguments, that he clarifies further by providing the, that even simple exchanges break down walls between human, because they show the human need to live a productive and purposeful life.</s>
+        <s>That resuluts in a constant fading of mistrust, that may have been caused by smaller differences <ref target="c10gk4_1" type="line">(ll. 13-17)</ref>.</s>
+        <s>Another argument is the evergrowing spirit of activism and responsibility throughout <name type="geo">America</name> <ref target="c10gk4_1" type="line">(l. 4)</ref>, that is illustrated through following examples by <ref target="c10gk4_1" type="speaker">Obama</ref>.</s>
+        <s>Firstly he informs about the young Americans, who teach in <choice><orig>american</orig><reg>American</reg></choice> schools or volunteer abroad <ref target="c10gk4_1" type="line">(ll. 4-5)</ref>.</s>
+        <s>Then he goes on about young people providing energy and idealism in his own presidential campaign <ref target="c10gk4_1" type="line">(ll. 5-6)</ref> and lastly he tells his audience about the passion and enthusiasm he sees in the young people everywhere he goes <ref target="c10gk4_1" type="line">(ll. 7-8)</ref>.</s>
+        <s>As his final key argument he brings his own opinion into the discussion, by saying he wants to connect to young Americans, through supporting opportunities to learn new languages and welcoming students from other countries <ref target="c10gk4_1" type="line">(ll. 9-12)</ref>.</s>
+        <s>That argument is supported by the same example as the argument before.</s>
+        <s>In the last paragraph he directly appeals to his audience to take part in student exchanges, etc.</s>
+      </p>
+      <p>
+        <s>Therefore it becomes clear, that his intentions are to firstly promote himself as a president, but student exchanges, etc. <choice><orig>aswell</orig><reg>as well</reg></choice>.</s>
+        <s>Nevertheless he also challenges young people to change something by directly appealing to them.</s>
+      </p>
+      <p>
+        <s>Taking everything into account his visions become clear and he aims to inform young people of the importance of intercultural understanding.</s>
+      </p>
+      <p>
+        <s>At any rate the speech is crucial for our political future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

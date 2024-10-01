@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g14_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref>, the <name type="misc">EU</name> commissioner for the withdrawal <choice><orig>negostations</orig><reg>negotiations</reg></choice> of the <name type="geo">UK</name> points out the consequences of <name type="misc">Brexit</name> and as well as the characteristics of a close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name> if the <name type="geo">UK</name> will leave the <name type="misc">EU</name> at the <name type="misc">European American Chamber of Commerce</name> in <name type="geo">New York</name> at the <date>10th July 2018</date> after having greeted the audience and having thanked for the opportunity to speak about this topic.</s>
+      </p>
+      <p>
+        <s>In his speech he makes clear that the <name type="misc">Brexit</name> is a <quote>lose-lose</quote> situation for the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s>He makes it clear that the loss is greater for <name type="geo">England</name>, however, as the <name type="misc">Brexit</name> will make them a lot of financial services and a lot of particular manufacturing, logistic, agricultural and also food sectors.</s>
+        <s>Moreover it will cost <name type="geo">England</name> a lot to build up their own economy.</s>
+      </p>
+      <p>
+        <s>Countries will stop wanting to export with <name type="geo">England</name> as it becomes too expensive and thus <name type="geo">England</name> has no exports and their economy goes bust.</s>
+      </p>
+      <p>
+        <s>However, if they stayed in <name type="misc">EU</name>, they would have contacts with the <name type="misc">EU</name> single <choice><orig>Market</orig><reg>market</reg></choice>, <choice><orig>wich</orig><reg>which</reg></choice> is open to third countries.</s>
+        <s>Also, in the <name type="misc">EU</name> the <name type="geo">UK</name> <choice><orig>have</orig><reg>has</reg></choice> free movement of capital to third countries <ref target="c11gk2_1" type="line">(l. 18)</ref>.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">EU</name> has many economic advantages such as the most open market in the world <ref target="c11gk2_1" type="line">(vgl. l. 28)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all you can say that they're are a lot of consequences for the <name type="geo">UK</name> if they leave the <name type="misc">EU</name> and the <name type="misc">EU</name> <choice><orig>have</orig><reg>has</reg></choice> a lot of advantages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

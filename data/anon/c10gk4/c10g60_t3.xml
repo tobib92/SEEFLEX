@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g60_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Summary</orig><reg>summary</reg></choice> is about an extract from the text <ref target="c10gk4_2" type="title">Erfahrungsbericht Indien: Educatoin Center in Delhi</ref> was written by a <choice><orig>german</orig><reg>German</reg></choice> girl, named <name type="person">Bianca L.</name>, she's 18 years old <choice><orig>an</orig><reg>and</reg></choice> <choice><orig>volunteerd</orig><reg>volunteered</reg></choice> in an Education Center for children which is located in a slum of <name type="geo">Delhi</name>.</s>
+        <s>She describes her normal <choice><orig>Day</orig><reg>day</reg></choice> of work in the Education Center.</s>
+      </p>
+      <p>
+        <s>On a normal day of work, she eats breakfast at 8:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>, she goes till 10 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> out of her flat.</s>
+        <s>From 10:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> till 11:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> / 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> she <choice><orig>teachs</orig><reg>teaches</reg></choice> <choice><orig>english</orig><reg>English</reg></choice> grammar to the boys, from 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> to 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> is a lunch break and from 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> to 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> she <choice><orig>teachs</orig><reg>teaches</reg></choice> <choice><orig>english</orig><reg>English</reg></choice> grammar to the girls.</s>
+        <s>She says, that the kids were filled with love and acceptance, the kids were the best part there.</s>
+        <s>They're interested in your life, and you're experienced and what they have to most is love for <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>She says that the kids in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> doesn't have that often, that they're filled so much with love for <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice> as the Indian kids.</s>
+        <s>She is impressed about the fact, that the kids have so much love for <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice> and fun in <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice>, <choice><orig>altough</orig><reg>although</reg></choice> <choice><orig>there</orig><reg>their</reg></choice> situation.</s>
+        <s>She says that every day in the slum was <choice><orig>an</orig><reg>a</reg></choice> valuable day for her life.</s>
+        <s>The kids fill <name type="person">Bianca</name> with love, hope, <choice><orig>thankfull</orig><reg>thankful</reg></choice>.</s>
+        <s>She was really thankful.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

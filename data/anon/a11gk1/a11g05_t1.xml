@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g05_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="a11gk1_1" type="title">The Hate U Give</ref>, written by <ref target="a11gk1_1" type="author">Angie Thomas</ref> and published by <name type="misc">Cornelsen</name> in <date>2019</date>, is about a teenage <choice><orig>girls</orig><reg>girl</reg></choice> who lost her friend to a shooting and tries to deal with it.</s>
+        <s>In chapter 24 <add><ref target="a11gk1_1" type="page">p. 328-332</ref></add> it is about the protest <name type="person">Starr</name> takes place in.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> arrives at the street where <name type="person">Khalil</name> got shot.</s>
+        <s>There they find a protest.</s>
+        <s>It is the first time she is there after the shooting and that is why she gets flashbacks.</s>
+        <s><name type="person">Ms. Ofrah</name> recognises <name type="person">Starr</name> and walks up to her.</s>
+        <s>She encourages <name type="person">Starr</name> to speak up against the police.</s>
+        <s><name type="person">Starr</name> climbs on the patrol car and <name type="person">Ms. Ofrah</name> passes her the bullhorn.</s>
+        <s>First <name type="person">Starr</name> does not know what to say, but after a few encouraging words from the audience <name type="person">Starr</name> speaks up.</s>
+        <s>She says that she is the witness and that it is not right what happened.</s>
+        <s>She turns to the cops and says that it does not really matter how <name type="person">Khalil</name> died, but that he lived.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

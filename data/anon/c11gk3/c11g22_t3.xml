@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c11g22_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Basis</orig><reg>basis</reg></choice> of the American <choice><orig>dream</orig><reg>Dream</reg></choice> is that everybody can achieve anything because hard work pays off.</s>
+        <s>It also contains liberty and the pursuit of happiness what goes hand in hand with the Declaration of Independence.</s>
+        <s><ref target="c11gk3_1" type="character">Walter</ref> feels betrayed by the American <choice><orig>dream</orig><reg>Dream</reg></choice> because in his job working hard gives him no opportunities.</s>
+        <s>But there is still hope in the American <choice><orig>dream</orig><reg>Dream</reg></choice> in his position.</s>
+        <s>By working hard and buying the liquor store he wants to reach prosperity and status that he how hardly earned.</s>
+        <s>In this way he especially as a black man can pay it back to the rich white men that treated him bad for so long.</s>
+        <s>He wants to be the proof that even as a black man you can achieve your dream.</s>
+        <s>It takes such a big role in his mind because all the oppression made him feel less worthy and destroyed his self confidence.</s>
+        <s>But he is <choice><orig>shure</orig><reg>sure</reg></choice> that he will make it and revive his confidence and masculinity.</s>
+        <s>Sadly his dream may not be realizable because it is risky and also the racism could destroy his plans.</s>
+        <s><ref target="c11gk3_1" type="character">Beneatha</ref> has a dream that is kind of similar.</s>
+        <s>By becoming a female doctor, which was really rare back then, she wants to prove that you can achieve what you want no matter your background.</s>
+        <s>Since she is self confident and strong she is <choice><orig>shure</orig><reg>sure</reg></choice> that she will make it with the financial support.</s>
+        <s>But that she is need of a paycheck that not everyone has it destroys the <q>fairness</q> of the American <choice><orig>dream</orig><reg>Dream</reg></choice> because it does well matter if you grew up with money for your <choice><orig>carreer</orig><reg>career</reg></choice> opportunities.</s>
+        <s>Even without the wealth being a doctor offers the message and independence it gives <ref target="c11gk3_1" type="character">Beneatha</ref> makes it so <choice><orig>desireable</orig><reg>desirable</reg></choice>.</s>
+      </p>
+      <p>
+        <s>For <ref target="c11gk3_1" type="character">Mama</ref> and <ref target="c11gk3_1" type="character">Ruth</ref> it is not the success and prosperity playing a key-role in their dream.</s>
+        <s>They both focus more of the pursuit of happiness, the <choice><orig>american dream</orig><reg>American Dream</reg></choice> offers.</s>
+        <s>This doesn't come entirely because they are just modest but also because they have no faith in themselves <choice><orig>beeing</orig><reg>being</reg></choice> able to become successful as black women.</s>
+        <s>They have accepted the role of <choice><orig>beeing</orig><reg>being</reg></choice> disadvantaged in society but the American Dream still gives them hope because buying a house will still make them more happy and independent.</s>
+        <s>Also escaping the ghetto and going to an all white neighbourhood shows less oppression from society because they aren't forced to live in an overpriced flat with a shared bathroom.</s>
+      </p>
+      <p>
+        <s>All in all you could say that every family member holds on to the American <choice><orig>dream</orig><reg>Dream</reg></choice> and hopes for a better life while sending a message for the white people's discrimination.</s>
+        <s>Sadly they depend on a paycheck for this and <choice><orig>cant</orig><reg>can't</reg></choice> fulfill the dreams with their own work which speaks <choice><orig>Against</orig><reg>against</reg></choice> the unity and endless possibilities for black and white people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

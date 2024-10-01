@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l02_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>From: <email>wolfesphoenix@gmail.com</email>
+		To: <email>john.smith@t-online.de</email>
+		<s>Re: Unusual School Project</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Alex,</salute>
+      </p>
+      <p>
+        <s><choice><orig>i</orig><reg>I</reg></choice> am really sorry for answering so late, <choice><orig>i</orig><reg>I</reg></choice> had to learn for an exam and didn't have the time to answer.</s>
+        <s>In you last e-mail you told me, that you are working on a presentation about unusual school projects world wide.</s>
+        <s>Are you finished with it, or do you still need my help?</s>
+        <s>I will help you anyway.</s>
+        <s>I found a really interesting article about a chess project in <name type="geo">Germany</name>.</s>
+        <s>Since the article is written in English I will summarize it for you.</s>
+      </p>
+      <p>
+        <s>The newspaper article, written by <ref target="a12lk1_2" type="author">Joachim Göries</ref>, published in the <name type="misc">TAZ</name> on the <date>30.06.2020</date>, deals with a chess project in <name type="geo">Bremen</name>.</s>
+        <s>The <name type="misc">TAZ</name> is a newspaper in <name type="geo">Germany</name>.</s>
+        <s>The <choice><orig>Thesis</orig><reg>thesis</reg></choice> of the article is that chess has a positive <choice><orig>Influence</orig><reg>influence</reg></choice> on the concentration and on the practical and logical ways of thinking.</s>
+        <s>It should also improve the communication between class members.</s>
+      </p>
+      <p>
+        <s>Last year, almost 1.226 pupils, out of 56 classes, took part in this school project.</s>
+        <s>This year the <choice><orig>Number</orig><reg>number</reg></choice> of pupils which take part in the project doubled.</s>
+        <s>All those pupils got chess lessons, one per week.</s>
+      </p>
+      <p>
+        <s>The teachers, which took part in the project, took part in a survey.</s>
+        <s>In this survey, 72% said that their classes were happy about the chess lessons and and that they took them full of joy.</s>
+        <s>23% of the teachers said that many of the pupils, who took part in the project last year, stated playing chess in their freetime.</s>
+      </p>
+      <p>
+        <s>37% of the teachers were sure, that playing chess will improve the concentration from the pupils, and the communication between the class members.</s>
+      </p>
+      <p>
+        <s>Almost <choice><orig>eveyone</orig><reg>everyone</reg></choice> of the surveyed teachers said that their <choice><orig>expactations</orig><reg>expectations</reg></choice> got fullfilled.</s>
+        <s>Isn't that crazy?</s>
+      </p>
+      <p>
+        <s>At the <name type="misc">Theodore-Mommsen school</name> in <name type="geo">Bad Oldesloe</name> <choice><orig>pubils</orig><reg>pupils</reg></choice> from the 8th and 9th <choice><orig>Grade</orig><reg>grade</reg></choice> had to choose their compulsory subject.</s>
+        <s>18 boys and nine girls chose chess as their compulsory subject.</s>
+        <s><name type="person">Günther Klemm</name> the teacher of the subject said that his students learn, how to deal with losing, how to deal with consequences and how they keep in rules.</s>
+        <s>This are just a couple of positive things they learn.</s>
+        <s>Some of the benefits are that winning hasn't to do anything with body <choice><orig>strenght</orig><reg>strength</reg></choice>, someone who is weak can win against someone who is strong.</s>
+        <s>They learn how to deal with competing against weaker and stronger players.</s>
+        <s>It's also independent how old you are, <name type="person">Klemm's</name> lesson is filled with <choice><orig>pubils</orig><reg>pupils</reg></choice> different ages.</s>
+      </p>
+      <p>
+        <s>Another example is a primary school in <name type="geo">Hamburg</name> named <name type="misc">Genslerstraße</name>.</s>
+        <s>They have <choice><orig>Chess</orig><reg>chess</reg></choice> as a compulsory subject in all four school years.</s>
+        <s>They have one lesson per week.</s>
+        <s><name type="person">Gabriela Rieckow</name>, leader of chess lessons, said that it is really significant that their students are improving in <choice><orig>Math</orig><reg>math</reg></choice>.</s>
+        <s>Their students gain much from their chess lessons.</s>
+        <s>For example they said that playing chess has <choice><orig>positiv</orig><reg>positive</reg></choice> effects on concentration, communication between older and younger people, social behavior and also on general education.</s>
+        <s>She also mentioned that the boys take part in tournaments more often than the girls, even though they play the same.</s>
+        <s><name type="geo">Gabriela Rieckow</name> thinks, <choice><orig>its</orig><reg>it's</reg></choice> because they like to challenge each other in order to compare themselves to each other.</s>
+      </p>
+      <p>
+        <s>The only negative thing about the whole project they mentioned is, that good players tend to get bored and bad players are tend to <choice><orig>loose</orig><reg>lose</reg></choice> interest in chess.</s>
+        <s>In order to teach the student effectively you have to show them interest in chess and love to play.</s>
+        <s>They have to enjoy it.</s>
+        <s>As a summary you can say that the result of this unusual project is very <choice><orig>positiv</orig><reg>positive</reg></choice>.</s>
+        <s>The students gained many positive characteristics.</s>
+        <s>As mentioned earlier.</s>
+      </p>
+      <p>
+        <s>at the end of the project they made a large tournament on the <choice><orig>townhallplace</orig><reg>town hall place</reg></choice> in <name type="geo">Bremen</name>.</s>
+      </p>
+      <p>
+        <s>1000 girls and boys took part and showed what they learned.</s>
+      </p>
+      <p>
+        <s>I think playing chess is really fun, I played it too with my brother, because he was in a Chess group.</s>
+        <s>Did you or do you play chess?</s>
+        <s>At my primary school, we also had chess groups.</s>
+        <s>I think it's a great opportunity for schools.</s>
+        <s>What do you think <name type="person">Alex</name>?</s>
+      </p>
+      <p>
+        <s>Do you need more help with a project?</s>
+        <s>Just call me.</s>
+        <s>Also, do you want to play <name type="misc"><choice><abbr>LoL</abbr><expan>League of Legends</expan></choice></name> this weekend?</s>
+        <s>They will bring out the new Champion on Saturday.</s>
+      </p>
+      <p>
+        <s>See you soon!</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+      <p>
+        <s>PS: I'm really upset with the concept of the new champion, what do you think about him?</s>
+      </p>
+    </body>
+  </text>
+</TEI>

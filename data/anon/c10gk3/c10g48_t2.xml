@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g48_t2</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello guys,</salute>
+        <s>I am <name type="person">Faraj al-Byarshan</name> and <choice><orig>im</orig><reg>I'm</reg></choice> 41 years old.</s>
+        <s>I came here from the <name type="geo">Iraq</name> in <date>2005</date>, as you can imagine it was not really beautiful to live in the <name type="geo">Iraq</name>.</s>
+        <s>Which is why I, any my family in form of my two sons and my wife decided to immigrate to <name type="geo">New York</name>.</s>
+        <s>In the <name type="geo">Iraq</name> I did not find no work, my wife suffered under gender disequality and our kids would not be able to go to a proper school there.</s>
+        <s>In the <name type="geo">USA</name> I was able to use my skills and get a proper job, my kids are now able to also study, and I hope that they will go the same if not an even better way.</s>
+        <s>Even my wife now has a good job and was able to get a good education.</s>
+        <s>This was unthinkable of in our home country.</s>
+        <s>There are the reasons why we decided to live in the <name type="geo">USA</name>, but living in the <name type="geo">USA</name> as an immigrant also has its bad sides.</s>
+        <s>Immigrants are still not completely welcomed in society, my kids for example got heavily bullied in school because of their historical background, and we had to move to another location and find a new school where they would be welcomed.</s>
+        <s>Furthermore even adults like myself still suffer under discrimination <choice><orig>an</orig><reg>and</reg></choice> prejudice.</s>
+      </p>
+      <p>
+        <s>It gets quite hard to find a job or a proper apartment when you have the name <name type="person">Faraj al-Byarshan</name>.</s>
+        <s>Many people will reject you before even looking at your application.</s>
+        <s>Also people have zero empathy when it comes to lacking skills in speaking the <choice><orig>english</orig><reg>English</reg></choice> language.</s>
+        <s><choice><orig>i</orig><reg>I</reg></choice> came here as an adult who has never spoken <choice><orig>english</orig><reg>English</reg></choice> before, so of course learning a complete language from scratch is hard, especially without help.</s>
+        <s>But <choice><orig>evn</orig><reg>even</reg></choice> <choice><orig>thoug</orig><reg>though</reg></choice> these negative aspects exist, I think it was my best <choice><orig>live</orig><reg>life</reg></choice> choice to come here.</s>
+        <s>I hope that more and more people encourage <choice><orig>themself</orig><reg>themselves</reg></choice> to help integrate immigrants, especially children, so these problems don't exist anymore and everyone can <choice><orig>life</orig><reg>live</reg></choice> a good <choice><orig>live</orig><reg>life</reg></choice> in this country.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

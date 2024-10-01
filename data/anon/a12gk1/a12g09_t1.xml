@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g09_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given newspaper article <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref> written by <ref target="a12gk1_1" type="author">John Worne</ref> was published in The Telegraph on <date>January 27, 2015</date> and deals with the foreign language learning in the <name type="geo">UK</name> as an issue.</s>
+      </p>
+      <p>
+        <s>In <ref target="a12gk1_1" type="author">John Worne's</ref> is important for globalisation, because language is the key for the  <name type="geo">UK's</name> future prosperity and global standing.</s>
+        <s>It is essential on a daily basis and a very attractive combination for employers if you speak more than just one language and not just English.</s>
+        <s>He exclaims the issue of foreign language learning in the <name type="geo">UK</name> <ref target="a12gk1_1" type="author">Worne</ref> stresses out that the number of <name type="geo">UK</name> students choosing to study a foreign langauge at <choice><orig>univerty</orig><reg>university</reg></choice> levels has been decreased and he claims that there were 10.000 fewer language <name type="misc">A-Level</name> exams taken than in the <date>1990s</date>.</s>
+        <s>His personal view on the issue is that school and education system alone <choice><orig>can not</orig><reg>cannot</reg></choice> fix it and that it needs help from the parents of the <name type="geo">UK</name> to spread awareness of the problem at home.</s>
+        <s>They have to start to think more about international experiences and foreign languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g56_t2</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John</salute>
+      </p>
+      <p>
+        <s>I hope you're doing good and well, but I think I need to talk to you about one specific topic.</s>
+      </p>
+      <p>
+        <s>Your statement earlier, that <quote>student exchanges are a waste of time</quote> gave me something to think about, and I am afraid I have to disagree with you.</s>
+      </p>
+      <p>
+        <s>I do understand your point of view, because for some people, it really is, for some it is even a very bad decision because they don't understand anything in school so their grades drop, but that is by far not everyone.</s>
+      </p>
+      <p>
+        <s>Many students who did exchanges are really happy now that they decided to do so, because it is a big opportunity.</s>
+      </p>
+      <p>
+        <s>At first, there is the language <choice><orig>aspekt</orig><reg>aspect</reg></choice>: As soon as you are living in another country, you need to adapt to the language <choice><orig>thats</orig><reg>that's</reg></choice> spoken there, and if not, you need to use at least English, because it is the world language.</s>
+        <s>This will improve your language skills very fast, so at the end of it, many students speak fluently or nearly fluently a second/another language.</s>
+      </p>
+      <p>
+        <s>That is a huge pro because it is not as hard as learning it on your own or at school with other people around you who speak your native language.</s>
+      </p>
+      <p>
+        <s>Then there is also the cultural <choice><orig>aspekt</orig><reg>aspect</reg></choice>: You visit another country, so therefore, there are many <choice><orig>diffrent</orig><reg>different</reg></choice> holidays, <choice><orig>diffrent</orig><reg>different</reg></choice> ways how the people interact with each other and so on.</s>
+        <s>You really learn something about the culture, which helps you becoming more open minded and cosmopolitan.</s>
+        <s>If more people would do exchanges, it would probably be a huge help on issues like racism.</s>
+        <s>All in all <choice><orig>i</orig><reg>I</reg></choice> would like to say that I am a big fan of student exchanges, even if I have never been on one, because to me it seems like such a huge adventure, which I would not want to miss out, and also would not want you to miss out because it can be a lot of fun.</s>
+      </p>
+      <p>
+        <s>I hope I could help you a little bit more on that topic because you seemed a little uninformed to me.</s>
+      </p>
+      <p>
+        <signed>Bye, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

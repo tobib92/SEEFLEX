@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g43_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>In your emails, you always praise the effects of globalisation, and I just read an article about the less good sides of globalisation.</s>
+        <s>The article was about some young western people, that travelled to <name type="geo">Cambodia</name> and lead the life of <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>cambodian</orig><reg>Cambodian</reg></choice> seamstress for one day.</s>
+        <s>They spoke to the people there, slept in the house of a seamstress in only one bed.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

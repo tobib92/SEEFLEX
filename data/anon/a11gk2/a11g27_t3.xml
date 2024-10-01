@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11g27_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion there are still today <add>- many years after <ref target="a11gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> speech -</add> many barriers because of the vast mass of land of the <name type="geo">USA</name> and different cultures, which <choice><orig>altough</orig><reg>although</reg></choice> protected by the American <choice><orig>constition</orig><reg>constitution</reg></choice> <add><quote>(All men are created equal...)</quote></add> do not often get treated the same and racism and poverty are still a huge problem.</s>
+        <s>The American health system is really complex and many Americans still don't have health insurance and avoid going to a doctor in orger to save money.</s>
+        <s>I guess <choice><orig>its</orig><reg>it's</reg></choice> very hard to start a new life there, depending on which region you are moving to and what cultural background you have.</s>
+      </p>
+      <p>
+        <s>I don't talk about the metropoles like <name type="geo">New York</name> or <name type="geo"><choice><abbr>LA</abbr><expan>Los Angeles</expan></choice></name> where <choice><orig>its</orig><reg>it's</reg></choice> mostly safe for everyone but about regions where they <choice><orig>dont</orig><reg>don't</reg></choice> like or even discriminate people with a different skin <gap reason="illegible" quantity="1" unit="word">EDIT</gap> or speaking another language.</s>
+        <s>Many Americans don't believe in the American Dream because they feel treated with injustice and I can see why they think so.</s>
+      </p>
+      <p>
+        <s>But <choice><orig>its</orig><reg>it's</reg></choice> still not all bad and people from poorer nations still <choice><orig>emmigrate</orig><reg>emigrate</reg></choice> to the <name type="geo">USA</name> because they might achieve something there, but the risk is very high because there are already many jobless people and if you haven't a degree or a <choice><orig>speial</orig><reg>special</reg></choice> degree like medicine or a very special job which is currently needed <choice><orig>its</orig><reg>it's</reg></choice> unlikely to get a better life but in <choice><orig>comparision</orig><reg>comparison</reg></choice> to where those people might come or flee from, it might be a good opportunity for them also.</s>
+        <s>To conclude <choice><orig>its</orig><reg>it's</reg></choice> risky but with enough effort and time you might achieve something great there.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

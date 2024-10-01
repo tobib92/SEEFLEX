@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g48_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref> is published on the <date>27th of January in 2015</date> by <ref target="a12gk4_1" type="author">John Worne</ref> in the <name type="misc">The Telegraph</name>.</s>
+      </p>
+      <p>
+        <s>It deals with an education issue about learning other languages in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>This article can be devided <choice><orig>in</orig><reg>into</reg></choice> three parts.</s>
+      </p>
+      <p>
+        <s>It starty with <choice><orig>an</orig><reg>a</reg></choice> description of the fiven issue topic.</s>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> underlines the issue with actual facts of <name type="geo">UK</name> students and the education in the <name type="geo">UK</name>.</s>
+        <s>He says that studying a foreign language as a <choice><orig>british</orig><reg>British</reg></choice> student stopped being an attractive subject <ref target="a12gk4_1" type="line">(cf. ll. 3-5)</ref>.</s>
+        <s>Even primary schools started offering foreign language learning, but the exam results are bad <ref target="a12gk4_1" type="line">(cf.ll. 8-12)</ref>.</s>
+        <s>The amount of exams of <choice><orig>Modern</orig><reg>modern</reg></choice> foreign languages got also lower <ref target="a12gk4_1" type="line">(cf. ll. 15-16)</ref>.</s>
+        <s>After that he stresses the importance of focusing this issue and the following consequences with it.</s>
+        <s>For example the rumor of English being the business language of the world <ref target="a12gk4_1" type="line">(cf. ll. 19-20)</ref>.</s>
+        <s>He quoted this as wrong <ref target="a12gk4_1" type="line">(cf.l. 11)</ref> and tells about the truth of <quote>crashing or choking on the roaming data charges</quote> <ref target="a12gk4_1" type="line">(l. 22)</ref>.</s>
+        <s>For <choice><orig>globalizational</orig><reg>globalization</reg></choice> reasong languages are <quote>vital</quote> <ref target="a12gk4_1" type="line">(l. 24)</ref> for the <name type="geo">UK</name>.</s>
+        <s>Thinking about the future the <name type="geo">UK</name> needs other languages for <quote>trading, prosperity, cultural exports, diplomacy and national security</quote> <ref target="a12gk4_1" type="line">(ll. 26-27)</ref>.</s>
+        <s>The mentioned survey about <q>Education and Skills</q> states the important aspect about languages in <name type="geo">UK</name> businesses <ref target="a12gk4_1" type="line">(cf. ll. 28-30)</ref>.</s>
+      </p>
+      <p>
+        <s>As a conclusion <ref target="a12gk4_1" type="author">John</ref> claims that parents are their only chance of a future with foreign language skills <ref target="a12gk4_1" type="line">(cf. l. 5)</ref>.</s>
+      </p>
+      <p>
+        <s>The opportunity for studying and learning <choice><orig>an other</orig><reg>another</reg></choice> language <choice><orig>beside</orig><reg>besides</reg></choice> a main subject <choice><orig>exist</orig><reg>exists</reg></choice>, but the number of students has to grow <ref target="a12gk4_1" type="line">(cf. 36-39)</ref>.</s>
+        <s>He examines the chances for their career and points out that a person with other language skills has better chances for a business career <choice><orig>as</orig><reg>than</reg></choice> a person without this skill <ref target="a12gk4_1" type="line">(cf. ll. 40-43)</ref>.</s>
+      </p>
+      <p>
+        <s>So all in one his personal view is that this issue <choice><orig>do</orig><reg>does</reg></choice> exist and the <name type="geo">UK</name> has to change that.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>hold</orig><reg>holds</reg></choice> <choice><orig>on to</orig><reg>onto</reg></choice> the idea that the education system won't take responsibility for that, so <ref target="a12gk4_1" type="author">John's</ref> conclusion for a growth of language skills focused the parents of <name type="geo">UK</name> students.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

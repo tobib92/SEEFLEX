@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g08_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt from the novel <ref target="a11gk1_1" type="title">The Hate U Give</ref>, which was written by <ref target="a11gk1_1" type="author">Angie Thomas</ref> and pubslihed in <gap reason="illegible" quantity="1" unit="word">asi9</gap>, is about <name type="person">Starr Carter</name> speaking up about the death of her friend <name type="person">Khalil Harris</name>.</s>
+        <s>At first <name type="person">Starr</name> and her friends, who are with her, are walking up to a crowd of people who are protesting against the decision of the court.</s>
+        <s>At <gap reason="illegible" quantity="1" unit="word">seyst</gap> <name type="person">Starr</name> <choice><orig>things</orig><reg>thinks</reg></choice> about the murder of <name type="person">Khalil</name> because she and her friends are at the spot where it happened until she gets back to reality because the crowd and her freinds cheer <quote>a hairbrush is not a gun</quote>.</s>
+        <s>One of <name type="person"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></name> friends recognizes <name type="person">Starr's</name> attorney <name type="person">Ms. Ofrah</name> who is standing on a police car with a bullhorn.</s>
+        <s><name type="person">Ms. Ofrah</name> tells <name type="person">Starr</name> that she can use her voice as a weapon against the police, so she gives <name type="person">Starr</name> the bullhorn as she climbs up the police car.</s>
+        <s>As she stands on top of the police caar the crowd encourages her to speak until she says that she is the witness who saw the murder of <name type="person">Khalil</name> and that <name type="person">Khalil</name> was not a criminal.</s>
+        <s><name type="person">Starr</name> also says that <name type="person">Officer Cruise</name> is the criminal and the crowd cheers and claps to further encourage her.</s>
+        <s>All in all one can say that <name type="person">Starr</name> and her friends <gap reason="illegible" quantity="1" unit="word">same</gap> to the crowd and started to protest against <name type="person">Khalil's</name> death with them until <name type="person">Starr</name> finds the strength to speak up with the help of <name type="person">Ms. Ofrah</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

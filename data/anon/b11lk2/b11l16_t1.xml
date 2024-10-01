@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l16_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt at hand from the novel <ref target="b11lk2_1" type="title">The Great Gatsby</ref> by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref>, published in <date>1925</date>, deals with the reunion of <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>At the beginning of the scene <ref target="b11lk2_1" type="character">Daisy</ref> arrives at <ref target="b11lk2_1" type="character">Nick's</ref> house for the tea invitation and they have a little smalltalk.</s>
+        <s>When they go in, <ref target="b11lk2_1" type="character">Nick</ref> notices that <ref target="b11lk2_1" type="character">Gatsby</ref> is not in the living room anymore, he has gone out the backdoor to come in at the front door again now.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> is really nervous to see <ref target="b11lk2_1" type="character">Daisy</ref> and the first minutes of their reunion are awkward.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> accidently almost breaks a clock.</s>
+        <s>He even tries to leave, but <ref target="b11lk2_1" type="character">Nick</ref> puts him back in his place.</s>
+        <s>Then <ref target="b11lk2_1" type="character">Nick</ref> leaves the house and leaves them to themselves.</s>
+        <s>While outside he looks at <ref target="b11lk2_1" type="character">Gatsby's</ref> mansion and tells a story about how it was built.</s>
+        <s>When <ref target="b11lk2_1" type="character">Nick</ref> returns to <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> in his house, the awkward situation seems to have changed; <ref target="b11lk2_1" type="character">Daisy</ref> had cried and <ref target="b11lk2_1" type="character">Gatsby</ref> seems happy and enthusiastic, inviting <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Nick</ref> to come over to his house to show them around.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

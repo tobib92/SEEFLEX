@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g10_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>newspaper-article</orig><reg>newspaper article</reg></choice> <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> written by <ref target="a10gk2_1" type="author">Brian Pollard</ref> and published in the form of an extract in <name type="misc">The Gulf News</name> on <date>24 November in 2011</date> deals with the <choice><orig>usefullness</orig><reg>usefulness</reg></choice> of unions, the issue of labour relations between employers and employees and with the main goal union have <choice><orig>nowdays</orig><reg>nowadays</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The newspaper article is about how unions should protect workers or employees from mistreatment and bad working conditions.</s>
+        <s>It also themes, that unions are not longer necessary to make sure, workers have good working conditions and wages.</s>
+      </p>
+      <p>
+        <s>The problem of <choice><orig>an</orig><reg>a</reg></choice> sure income due to the <choice><orig>ensurance</orig><reg>insurance</reg></choice>, that comes from a union and the disadvantages for the industry, linked to that safeness, such as a lack of initiative and productivity, is also dealt with.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> thinks, that the unions are <choice><orig>unusefull</orig><reg>unuseful</reg></choice>, because they give a false safety and that they are bad for both emplyer and the employees, because they make the income both get, smaller.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

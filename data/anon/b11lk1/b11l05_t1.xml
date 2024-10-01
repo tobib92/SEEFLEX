@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l05_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The passage at hand <add><choice><orig>Part Two Chapter</orig><reg>part two chapter</reg></choice> 6</add> is an excerpt from the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref> written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and published in year <add>1995</add>.</s>
+        <s>It deals with illegal immigration to the <name type="geo">US</name> in interaction with <choice><orig>american</orig><reg>American</reg></choice> values and the challenges illegal immigrants have to face.</s>
+      </p>
+      <p>
+        <s>The given passage is concerned with <name type="person">Delaney</name> questioning himself as a consequence of acting after prejudices towards a Mexican deliver.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney</name> is one of the protagonists.</s>
+        <s>He lives in <name type="geo">Los Angeles</name> in a private community called <name type="geo">Arroyo Blanco</name> with his wife <name type="person">Kyra</name> and her son <name type="person">Jorden</name>.</s>
+        <s>At the moment in the novel there is a debate going on in the community about whether they should build a gate around <name type="geo">Arroyo Blanco</name>.</s>
+        <s><name type="person">Delaney</name> is against.</s>
+        <s>That is why right before this excerpt, one of the neighbours had come by and spoken to <name type="person">Delaney</name> about wanting to fight against the gate with <name type="person">Delaney</name> in his team.</s>
+      </p>
+      <p>
+        <s>Even though <name type="person">Delaney</name> shares his opinion he does not want to take part in the initiative of <name type="person">Todd</name> <add>the neighbour</add> because his wife and his friend <name type="person">Jack</name>, who also lives in <name type="geo">Arroyo Blanco</name> are in favour of the gate and he doesn't want to get in conflict with them because of this.</s>
+      </p>
+      <p>
+        <s>In the given excerpt <name type="person">Delaney</name> says he would call <name type="person">Todd</name>.</s>
+        <s>As a reaction <name type="person">Todd</name> shouted his number after him but <name type="person">Delaney</name> does not care.</s>
+        <s>He goes up the block and discovers a man wlaking on the <choice><orig>neighbors</orig><reg>neighbor's</reg></choice> lawn.</s>
+        <s>He shouts at him and asks whether he could help him.</s>
+        <s><name type="person">Delaney</name> describes the man as Mexican.</s>
+        <s>He thinks he knows him, he thinks he is the man who had threatened his wife a while ago.</s>
+        <s><name type="person">Delaney</name> gets more forcefully.</s>
+        <s>The man however is not irritated from that at all.</s>
+        <s>That on the other hand <choice><orig>provocates</orig><reg>provokes</reg></choice> <name type="person">Delaney</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney</name> repeatedly insists on the fact the man doesn't belong here and tells him to leave.</s>
+        <s>He is so confusede of the fact that he man is not afraid of him that he grabs the man's forarm.</s>
+        <s>With that, the man lost his patience, frees hsi arm and spits between <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> feet and starts to explain that he has to hand out <choice><orig>flies</orig><reg>flyers</reg></choice>.</s>
+        <s><name type="person">Delaney</name> however doesn't stop, threatens to call the police and gets more and more <choice><orig>agrivated</orig><reg>aggravated</reg></choice>.</s>
+        <s>The man is over it, he repeats angrily that he is only here to hand out these <choice><orig>flies</orig><reg>flyers</reg></choice> to <name type="person">Delaney</name> and walked away.</s>
+        <s>After that <name type="person">Delaney</name> is in shock.</s>
+        <s>He <choice><orig>can not</orig><reg>cannot</reg></choice> believe what had just happened.</s>
+        <s>He questions himself and what he had become.</s>
+        <s>The <choice><orig>flie</orig><reg>flyer</reg></choice> was the urgent invitation of the president of <name type="geo">Arroyo Blanco</name> to the final meeting discussing over the gate.</s>
+      </p>
+      <p>
+        <s>This passage fits in the plot because in this extrat, <name type="person">Delaney</name> recognizes and admits his behaviour full of prejudices and racism to himself.</s>
+        <s>This fits to the plot because this behaviour leads <name type="person">Delaney</name> to go after <name type="person">Cándido</name> with a gun.</s>
+        <s>An aspect here, that is different to his mindset in the end, is that he questions his behaviour and knows that it is wrong and is devastated over the fact he acted this way.</s>
+        <s>Whereas in the end, he is convinced that his behaviour is right and <name type="person">Cándido</name> deserved being treated like that.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

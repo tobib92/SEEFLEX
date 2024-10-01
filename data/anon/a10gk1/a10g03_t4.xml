@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g03_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Today I'm going to inform you about the problems in the <surplus>the</surplus> textile industry.</s>
+        <s>To do that, I've informed myself on the internet, and one of my sources as <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>german</orig><reg>German</reg></choice> interview with a woman called <name type="person">Imke Müller-Hellmann</name> was called <ref target="a10gk1_2" type="title">Fast Fashion: Unser Kleiderkonsum ist Wahnsinn</ref>, which was produced by <ref target="a10gk1_2" type="author">Jörg Oberwittler</ref> in <date>December 2017</date> and published in <name type="misc">Spiegel Online</name>.</s>
+      </p>
+      <p>
+        <s>The interview is about a woman who got curious about where her clothes were made and who made them so she flew to <name type="geo">Bangladesh</name> to solve this question.</s>
+      </p>
+      <p>
+        <s>She said that the most shocking experience was, seeing the river <name type="misc">Buriganga</name>, the river was <choice><orig>pitchblack</orig><reg>pitch black</reg></choice> and of plastic.</s>
+        <s>She also reports about horrible shifts, some workers worked 10 to 12 hour shifts and when they're lucky only six <choice><orig>Days</orig><reg>days</reg></choice> a week, she <choice><orig>descripes</orig><reg>describes</reg></choice> their work as very <choice><orig>monoton</orig><reg>monotone</reg></choice> or rather boring.</s>
+        <s><name type="misc">Imke Müller-Hellmann</name> says that boycotting <name type="geo">Bangladesh</name> clothing or textile products in general isn't the solution.</s>
+        <s>80% of goods from <name type="geo">Bangladesh</name> are textile goods, so the people would become even poorer, instead we should put pressure on the big brands and industries to <choice><orig>gurantee</orig><reg>guarantee</reg></choice> better and safer working conditions, but also a higher wage.</s>
+        <s>In <choice><orig>General</orig><reg>general</reg></choice> she thinks that the politics should become <choice><orig>activ</orig><reg>active</reg></choice> as well and don't let the market decide over <choice><orig>Billions</orig><reg>billions</reg></choice> people lives.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

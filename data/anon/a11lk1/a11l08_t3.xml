@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a11l08_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <choice><orig>Diary</orig><reg>diary</reg></choice>,</salute>
+      </p>
+      <p>
+        <s>today was such a difficult day.</s>
+        <s>First of my friend and I got interrogated by the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> after a barista at <name type="misc">Starbucks</name> called them on us after talking about a terrorist organisation.</s>
+        <s>While being questioned by them I felt such hatred against them and the way their treating my community.</s>
+        <s>I went to my uncle <ref target="a11lk1_1" type="character">Amir</ref> for advice, which I shouldn't have done, we're in a big fight now, but I really needed to tell him my opinion.</s>
+        <s>He is just suppressing his emotions about the Islam and only sees the bad part of the time he was still a muslim.</s>
+        <s>If I think about it, I just feel sorry for him.</s>
+        <s>In a way he'll never be able to live a happy and <choice><orig>affluend</orig><reg>affluent</reg></choice> life as he can't accept his past.</s>
+        <s>He tries everything to be the <q>perfect</q> American, while he's not realising, that he'll never be a full American, he will always be seen as someone with immigration background.</s>
+        <s>I really don't understand why he doesn't get it.</s>
+        <s>Also I don't understand how he always hated on the Islam and then tells his friends that he felt pride in <name type="misc">9/11</name> and beat <ref target="a11lk1_1" type="character">Emily</ref>.</s>
+        <s>That is just so hypocritical if you ask me.</s>
+        <s>Well I am guessing that he suppressed his emotions for so long, this was just the outburst of his own emotions and feelings.</s>
+        <s>Nevertheless I don't get why he isn't changing now then... I don't really <choice><orig>now</orig><reg>know</reg></choice> what future he has here if he is not going to accept his other identity.</s>
+        <s>I believe that he's going crazy if he won't deal with this sooner or later.</s>
+        <s>But to be fair I don't think this was all his fault.</s>
+        <s>His wife <ref target="a11lk1_1" type="character">Emily</ref> was honestly unintentionally racist towards him, which probably didn't help him to express his emotions and he was always terrified of people patronizing him.</s>
+        <s>I guess he got lost in the process somehow.</s>
+      </p>
+      <p>
+        <s>I'll sign up for therapy.</s>
+        <s>Today, which will hopefully help.</s>
+        <s>I am planning on helping refugees and I signed up for some volunteering.</s>
+        <s>Through that I'll hopefully be able to change something here in a good way.</s>
+        <s>Maybe I should give <ref target="a11lk1_1" type="character">Amir</ref> the number of my therapist.</s>
+        <s>I guess that might help him work through his identity crisis.</s>
+        <s>On that note, I won't change back and play low again!</s>
+        <s>I am proud of my religion and my identity!</s>
+      </p>
+      <p>
+        <s>I do regret what <choice><orig>happend</orig><reg>happened</reg></choice> today but it doesn't change the fact I am extremely disappointed in the way <ref target="a11lk1_1" type="character">Amir</ref> acted ... I really have to think about the way I act around him now.</s>
+        <s>If we want a future in this country we both need to work on ourselves and maybe then we can change something about the prejudice and racism here...</s>
+      </p>
+      <p>
+        <s>Anyway, it's been a long day and definitely have a lot to think about, I'll keep you updated!</s>
+      </p>
+      <p>
+        <signed>Abe</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

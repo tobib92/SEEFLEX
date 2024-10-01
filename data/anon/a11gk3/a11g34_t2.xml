@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g34_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As mentioned in the task ahead <ref target="a11gk3_1" type="character">Starr</ref> is not afraid to speak anymore, because she starts to chant with the other protestors and also speaks to them about <ref target="a11gk3_1" type="character">Khalil's</ref> life.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> does not think that she does not belong to this protest.</s>
+      </p>
+      <p>
+        <s>She has started to chant with the others because she still wants justice for the murder of <ref target="a11gk3_1" type="character">Khalil</ref> and tells the crowd that she is the witness.</s>
+        <s>In lines 5-7 the point of view is the first person protagonist narrator.</s>
+        <s>It tells the story from <ref target="a11gk3_1" type="character">Starr's</ref> point of view and has therefore a limited point of view and she only <choice><orig>know</orig><reg>knows</reg></choice> her own thoughts.</s>
+        <s>In this sight personal pronouns are used.</s>
+        <s>The effect on the reader is to portray the feelings of <ref target="a11gk3_1" type="character">Starr</ref> on the night of <ref target="a11gk3_1" type="character">Khalil's</ref> death.</s>
+      </p>
+      <p>
+        <s>A first person witness narrator is shown in lines 10-11 when <ref target="a11gk3_1" type="character">Starr</ref> spots her attorney <ref target="a11gk3_1" type="character">Ms. Ofrah</ref>.</s>
+        <s>The effect on the reader is to show the radical side of <ref target="a11gk3_1" type="character">Starr's</ref> attorney and that <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> can lead a protest.</s>
+      </p>
+      <p>
+        <s>A first person <choice><orig>wittness</orig><reg>witness</reg></choice> narrator is displayed in lines 24-25 as <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> turns to <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>The intended effect is to show that <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> does not recognize <ref target="a11gk3_1" type="character">Starr</ref> <choice><orig>imediately</orig><reg>immediately</reg></choice> and needs a few seconds to recognize her.</s>
+      </p>
+      <p>
+        <s>A flashback is portrayed in <ref target="a11gk3_1" type="line">(ll. 4-6)</ref>.</s>
+        <s>The place of the protest is the place of <ref target="a11gk3_1" type="character">Khalil's</ref> death and <ref target="a11gk3_1" type="character">Starr</ref> remembers it immediately, even if it is already a long time ago when <ref target="a11gk3_1" type="character">Khalil</ref> has been killed.</s>
+      </p>
+      <p>
+        <s>The effect on the reader is to display that all protestors know where <ref target="a11gk3_1" type="character">Khalil</ref> died and that they see this place as <q>holy ground</q>.</s>
+        <s>It also displays that <ref target="a11gk3_1" type="character">Starr</ref> is psychologically under pressure about <ref target="a11gk3_1" type="character">Khalil's</ref> death and the protest.</s>
+      </p>
+      <p>
+        <s>In lines 18-22 a flashback and also a stream of <choice><orig>conscioness</orig><reg>consciousness</reg></choice> in form of the panoramic mode are shown.</s>
+        <s>It visualizes that <ref target="a11gk3_1" type="character">Starr</ref> cannot protest at the beginning and due to the flashback and panoramic mode where <ref target="a11gk3_1" type="character">Khalil's</ref> death is summarized in several sentences, the closer <ref target="a11gk3_1" type="character">Starr</ref> comes to <ref target="a11gk3_1" type="character">Khalil's</ref> death in her memories, her voice becomes louder and louder.</s>
+      </p>
+      <p>
+        <s>This shows, that <ref target="a11gk3_1" type="character">Starr</ref> has to get over <ref target="a11gk3_1" type="character">Khalil's</ref> death before she can actually start to speak up against racism.</s>
+        <s>The reader gets a short summary of the way how <ref target="a11gk3_1" type="character">Khalil</ref> died.</s>
+        <s>In lines 52-53 is a flashback about the night of <ref target="a11gk3_1" type="character">Khalil's</ref> death.</s>
+        <s>The reader should know that officer <ref target="a11gk3_1" type="character">Brian Cruise</ref> has made a huge mistake when he has shot <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+      </p>
+      <p>
+        <s>The most helpful technique is the flashback combined with the panoramic mode because the reader sees a development of <ref target="a11gk3_1" type="character">Starr's</ref> state of mind during the protest and how her voice only gets louder the farther she gets over <ref target="a11gk3_1" type="character">Khalil's</ref> death and that she is not afraid to speak up anymore.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

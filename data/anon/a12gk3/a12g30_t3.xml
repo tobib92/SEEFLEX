@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12g30_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Global standing is getting a more important point in <choice><orig>conection</orig><reg>connection</reg></choice> with the globalisation and the world of development.</s>
+        <s>Global standing defines more and more the influence you have on specific topics and disgustions.</s>
+      </p>
+      <p>
+        <s>The article from <ref target="a12gk3_1" type="author">John Worne</ref> was published <choice><orig>alredy</orig><reg>already</reg></choice> in <date>2015</date> and so before the <name type="misc"><choice><orig>Brexxit</orig><reg>Brexit</reg></choice></name>, but especially because of the <name type="misc"><choice><orig>Brexxit</orig><reg>Brexit</reg></choice></name> this topic seems to be really important for the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>The economic system plays a huge role in the global influence and also in the global governance.</s>
+      </p>
+      <p>
+        <s>Nowadays the <name type="geo">UK</name> is not a piece of the <choice><abbr>EU</abbr><expan>European Union</expan></choice> anymore <choice><orig>wich</orig><reg>which</reg></choice> may make it more independent but also weaker in view of the global influence.</s>
+        <s>So what is really important to not <choice><orig>loose</orig><reg>lose</reg></choice> this influence and more over develop it.</s>
+        <s>Foreign language plays a big role in this <choice><orig>secteur</orig><reg>sector</reg></choice> because of the <choice><orig>realations</orig><reg>relations</reg></choice> between nations.</s>
+      </p>
+      <p>
+        <s>In the <choice><abbr>EU</abbr><expan>European Union</expan></choice> it seems that <choice><orig>english</orig><reg>English</reg></choice> is the only relevant language and also the language of the world.</s>
+      </p>
+      <p>
+        <s>But especially through the globalisation this might not be the case anymore.</s>
+        <s>More small countries out of the <choice><orig>african</orig><reg>African</reg></choice> and <choice><orig>asian</orig><reg>Asian</reg></choice> room are developing fast and might get to interesting nationpartners for economic relations.</s>
+        <s>In this countries is <choice><orig>english</orig><reg>English</reg></choice> nother language <choice><orig>wich</orig><reg>which</reg></choice> is seen as a world language and off not even thought.</s>
+      </p>
+      <p>
+        <s>an argument against us out of the article is the <choice><orig>inovation</orig><reg>innovation</reg></choice> in technologies where they translate into nearly every language.</s>
+        <s>But especially in really important decisions it is important to speak face to face to avoid misunderstanding.</s>
+      </p>
+      <p>
+        <s>Also I find the aspect really good how the author explained that it is not only the exercise of the school and education system but also the parents have to teach the relevance of foreign language to the children.</s>
+      </p>
+      <p>
+        <s>So all in all I <choice><orig>completly</orig><reg>completely</reg></choice> agree with the <choice><orig>autor</orig><reg>author</reg></choice> in how far foreign language learning is really important for not only the individuals but also the whole global standing from a nation.</s>
+        <s>The article was written before the <name type="misc"><choice><orig>Brexxit</orig><reg>Brexit</reg></choice></name> but especially now through the Brexit this point is even more important for the global standing of the UK.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

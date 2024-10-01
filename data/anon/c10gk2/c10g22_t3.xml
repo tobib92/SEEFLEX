@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g22_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> says in his speech that <quote>simple exchanges can break down walls between us</quote> <ref target="c10gk2_1" type="line">(l. 13)</ref>.</s>
+        <s>I think he's right because exchanges can make you to get another world view and you also get more experience and this is important because so you learn other ways to solve problems.</s>
+      </p>
+      <p>
+        <s>This is why you can maybe break the walls down.</s>
+        <s>Because you don't <choice><orig>rassicm</orig><reg>racism</reg></choice> or think negative about other cultures and countries.</s>
+        <s>So in the future more people think like that and that we are a big community all around the world.</s>
+      </p>
+      <p>
+        <s>So it's important that students make school exchanges to learn about other cultures in young age.</s>
+        <s>They also get experience and learn to live independently.</s>
+        <s>This is also important because so they can help other people all around the world.</s>
+        <s>And this also <choice><orig>give</orig><reg>gives</reg></choice> a feeling of community and maybe stop <choice><orig>rassicm</orig><reg>racism</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

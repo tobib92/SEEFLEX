@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a10g26_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following comment I'm gonna suggest <choice><orig>necesary</orig><reg>necessary</reg></choice> and feasible measures to help solving the global problem of environmental pollution.</s>
+      </p>
+      <p>
+        <s>Firstly we must <choice><orig>minimalyze</orig><reg>minimalize</reg></choice> our consumption like technical devices or traffic.</s>
+        <s>For this <choice><orig>mor</orig><reg>more</reg></choice> open traffic <add>(Bus, trail,...)</add> should be used and technical devices should be used longer.</s>
+        <s>Also what we eat is <choice><orig>importond</orig><reg>important</reg></choice> because much meat costs much food for the animals and water, so we should eat <choice><orig>mor</orig><reg>more</reg></choice> <choice><orig>vegetabels</orig><reg>vegetables</reg></choice> but also don't <choice><orig>frow</orig><reg>throw</reg></choice> food away.</s>
+      </p>
+      <p>
+        <s>So when we do nothing the humanity will not <choice><orig>survieve</orig><reg>survive</reg></choice> the future.</s>
+        <s>This also says <ref target="a10gk3_1" type="author">Ankita Mitra</ref> in they <choice><orig>articel</orig><reg>article</reg></choice> to <choice><orig>Environmental</orig><reg>environmental</reg></choice> pollution <ref target="a10gk3_1" type="line">(l. 34-40)</ref>.</s>
+      </p>
+      <p>
+        <s>To change this we must also change our living <choice><orig>styl</orig><reg>style</reg></choice> in <choice><orig>aspets</orig><reg>aspects</reg></choice> like traffic, food, ...</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l20_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>First of all I should introduce who <name type="person"><choice><orig>Shakepear</orig><reg>Shakespeare</reg></choice></name> <choice><orig>were</orig><reg>was</reg></choice> to make if he still important 400 years after his death.</s>
+        <s><name type="person"><choice><orig>Shakepear</orig><reg>Shakespeare</reg></choice></name> wrote 156 <choice><orig>sonnet</orig><reg>sonnets</reg></choice> and many plays.</s>
+        <s>In his poems and plays he <choice><orig>create</orig><reg>creates</reg></choice> 700 words and phrases.</s>
+        <s>He is one of the famousest <choice><orig>writer</orig><reg>writers</reg></choice> in the past and now.</s>
+      </p>
+      <p>
+        <s>But why is he <choice><orig>nowdays</orig><reg>nowadays</reg></choice> still <choice><orig>famos</orig><reg>famous</reg></choice>?</s>
+        <s>I think because his plays and poems are timeless because of the topics of love or death and the stories of the plays.</s>
+        <s>They are timeless because we can apply them to <choice><orig>nowdays</orig><reg>nowadays</reg></choice>.</s>
+        <s>He <choice><orig>create</orig><reg>creates</reg></choice> many words and phrases.</s>
+        <s>I think you used many of them in your life without knowing that they are from <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name>.</s>
+        <s>You also know many <choice><orig>quotation</orig><reg>quotations</reg></choice> of <name type="person"><choice><orig>Shakspears</orig><reg>Shakespeare's</reg></choice></name> plays without knowing that <name type="person"><choice><orig>Shakspear</orig><reg>Shakespeare</reg></choice></name> <choice><orig>use</orig><reg>uses</reg></choice> them like <q>be or not to be, that is the question</q>.</s>
+        <s>In English class we aso need to learn something about the culture of the <choice><orig>countrys</orig><reg>countries</reg></choice> and <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is a big part of the <choice><orig>britan</orig><reg>British</reg></choice> or <choice><orig>english</orig><reg>English</reg></choice> culture.</s>
+        <s>If you say <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is not important you must say <name type="person">Goethe</name> or <name type="person">Schiller</name> too.</s>
+        <s>They had impact of the development of the language!</s>
+        <s>If we speak about the plays and theater in class we also learn many things about the time of <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare's</reg></choice></name> life like in the time <choice><orig>lifes</orig><reg>lives</reg></choice> <name type="person">Elizabeth the first</name>.</s>
+      </p>
+      <p>
+        <s>The contra to reading <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> in class is that is a form of <choice><orig>english</orig><reg>English</reg></choice> we never use <choice><orig>nowdays</orig><reg>nowadays</reg></choice> so we never speak or write like <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> and it is hard to understand if don't you <choice><orig>now</orig><reg>know</reg></choice> the old word or the translation.</s>
+      </p>
+      <p>
+        <s>At the end I want to say that I think <name type="person"><choice><orig>Shakspear</orig><reg>Shakespeare</reg></choice></name> is still important because he created many words and had many impact of the English culture.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

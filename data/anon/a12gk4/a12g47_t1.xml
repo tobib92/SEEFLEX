@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g47_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref> was written by the author <ref target="a12gk4_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on <date>27 January 2015</date> is about the fall of teenagers learning foreign language in the <name type="geo">UK</name>.</s>
+        <s>In the following the <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> is going to be summarized.</s>
+      </p>
+      <p>
+        <s>The author writes, that in the last few years more and more students did not decide to study foreign languages and that this is a negative trend which has to stop.</s>
+        <s>Moreover the negative trend goes on on <name type="misc"><choice><orig>A-Level</orig><reg>A-level</reg></choice></name> as well as on <name type="misc">CGSE</name>, because in comparison to the end of the <date>1990s</date>, the students last year write around 10000 fewer <name type="misc"><choice><orig>A-Level</orig><reg>A-level</reg></choice></name> exams about foreign <choice><orig>language</orig><reg>languages</reg></choice>.</s>
+        <s>Furthermore the author states that good educated people would tell you that there is no problem with the negative trend, because everyone speaks English, but the younger people do not speak English well, because today due the technological process, their devices will help them to translate different words in future.</s>
+        <s>Likewise the foreign language is quite important for management and business in a globalised world as a survey shows, and the big <choice><orig>companys</orig><reg>companies</reg></choice> and businesses from the <name type="geo">UK</name> rely on international employees, because the English of the people from the <name type="geo">United Kingdom</name> is too bad.</s>
+        <s>Although the students are able to learn the foreign language in addition to their main subject.</s>
+        <s>Moreover the teenagers have to improve their language skills by also getting help from their parents.</s>
+      </p>
+      <p>
+        <s>All in all one can say that <ref target="a12gk4_1" type="author">John Worne</ref> writes the most important information in his <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> as he writes that the teenagers have to improve their language skills, because more and more people from the <name type="geo">UK</name> do not learn foreign <choice><orig>language</orig><reg>languages</reg></choice>, which is important for business too.</s>
+        <s>In addition to this he says that the young people need to get support by their parents to improve foreign languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

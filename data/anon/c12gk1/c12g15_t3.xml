@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12g15_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Since <ref target="c12gk1_1" type="author">Shakespeare</ref> died, there are 400 years <choice><orig>past</orig><reg>passed</reg></choice> away.</s>
+        <s>But he is also relevant today.</s>
+        <s>Children learn in school about <ref target="c12gk1_1" type="author">Shakespeare</ref> and his plays and sonnet.</s>
+        <s>But is he also relevant for young people or not.</s>
+        <s>There are a lot of pros and cons.</s>
+        <s>I will begin with the pros.</s>
+        <s>So the <choice><orig>charakters</orig><reg>characters</reg></choice> in <ref target="c12gk1_1" type="author">Shakespeare</ref> plays are timeless for example Romeo and Juliet.</s>
+        <s>The story of two humans which <choice><orig>loves</orig><reg>love</reg></choice> each other, but with parents which are <choice><orig>againt</orig><reg>against</reg></choice> this love.</s>
+        <s>This topic is actuell and have a great influence on other plays, movies <choice><orig>an</orig><reg>and</reg></choice> <choice><orig>book</orig><reg>books</reg></choice>.</s>
+        <s>This is <choice><orig>an other</orig><reg>another</reg></choice> pro argument.</s>
+        <s>The story of <ref target="c12gk1_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> plays have a great influence on stories of today.</s>
+        <s>An example for this is the <name type="misc">Lion King</name> which <choice><orig>have</orig><reg>has</reg></choice> elements of Hamlet.</s>
+        <s>The stories of the <choice><orig>Shakespearen</orig><reg>Shakespearean</reg></choice> plays are also very good.</s>
+        <s>They are so good, that also today where movies which have <ref target="c12gk1_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> stories like Romeo and Juliet or Macbeth.</s>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice> pro argument is the influence of the <choice><orig>englissh</orig><reg>English</reg></choice> language.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>have</orig><reg>has</reg></choice> thousand of new words, like thou, which are very relevant for the English language.</s>
+        <s>But is this an advantage for younger people?</s>
+        <s>I think no!</s>
+        <s>Because <ref target="c12gk1_1" type="author"><choice><orig>Shakespere</orig><reg>Shakespeare</reg></choice></ref> have also a lot of disadvantages.</s>
+        <s>It is hard to understand and many young people <choice><orig>cant</orig><reg>can't</reg></choice> understand him.</s>
+        <s>And what children don't understand, don't interest they.</s>
+        <s><choice><orig>Shakespearen</orig><reg>Shakespearean</reg></choice> plays haven't also an good effect to younger people because they don't understand the plays and message behind it are also useless for the younger people.</s>
+      </p>
+      <p>
+        <s>I think that <ref target="c12gk1_1" type="author">Shakespeare</ref> is not so relevant for younger people and that his influence on the <choice><orig>Englisch</orig><reg>English</reg></choice> language is not relevant.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

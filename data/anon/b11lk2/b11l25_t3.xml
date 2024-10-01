@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b11l25_t3</author>
+        <name>monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>What does <name type="person">Nick</name> want from me?</s>
+        <s>It <choice><orig>cant</orig><reg>can't</reg></choice> be anything bad, can it?</s>
+        <s>If it would be, <name type="person">Jordan</name> would have told me, since she is my best friend and is dating him right now.</s>
+        <s>And he also wouldn't just invite me over for tea.</s>
+        <s>Why couldn't I also not bring <name type="person">Tom</name> along, maybe he wants to tell me something about him, maybe he knows something about his affair.</s>
+        <s>What's going on why was he chuckling, there is something weird going on.</s>
+        <s>I know this face!</s>
+        <s>It's <name type="person">Jay</name>!</s>
+        <s>Where was he?</s>
+        <s>I thought he was dead.</s>
+        <s>He looks so good and also rich.</s>
+        <s>Something must have <choice><orig>happend</orig><reg>happened</reg></choice> to him.</s>
+        <s>I am so excited to see him again, it was wrong to marry <name type="person">Tom</name>, I should just have waited for him.</s>
+        <s>But why is he here, what does that mean?</s>
+        <s>I really missed him.</s>
+        <s>Why isn't he hardly talking at all?</s>
+        <s>Am I doing something wrong?</s>
+        <s>Oh, what does <name type="person">Nick</name> want to talk to him about?</s>
+        <s>I am so happy to see him again.</s>
+        <s>I thought I would never see him again.</s>
+        <s>I wanna hug him right now.</s>
+        <s>But it feels wrong.</s>
+        <s>I know that, <name type="person">Tom</name> cheats on me but still I married him and we are still married now.</s>
+        <s>We didn't divorce yet.</s>
+        <s>If <name type="person">Jay</name> still loves me I will try my hardest to break up my marriage.</s>
+        <s><kinesic><desc>Ah</desc></kinesic>, there he is.</s>
+        <s>Where is <name type="person">Nick</name>?</s>
+        <s>Oh, I don't even really care.</s>
+        <s>Right now, it's just me and <name type="person">Jay</name>.</s>
+        <s>When I look back he was the only one who ever loved me.</s>
+        <s><name type="person">Tom</name> never really loved me.</s>
+        <s>I was just a show off for him.</s>
+        <s>But where was he all that time?</s>
+        <s>All these 5 years.</s>
+        <s>He was rich, but why did he never came to visit me.</s>
+        <s><name type="person">Tom</name> could do nothing against him.</s>
+        <s>He was officer in the army.</s>
+        <s>He is a real man.</s>
+        <s>Ah there is <name type="person">Nick</name> again, where even was he.</s>
+        <s>Oh, <choice><orig>he</orig><reg>the</reg></choice> sun came out, this brightens up my mood even more.</s>
+        <s>Wow, the weather looks great.</s>
+        <s>Oh my God, yes.</s>
+        <s>I really wanna see <name type="person">Jay's</name> house.</s>
+        <s>Maybe it can be a comfortable living place.</s>
+        <s>I should ask <name type="person">Nick</name> how it looks.</s>
+        <s>Or I should have asked <name type="person">Jordan</name>, since she is a real flapper.</s>
+        <s>I don't think his house can be as big as mine.</s>
+        <s><name type="person">Tom</name> is one of the richest person in <name type="geo">East Egg</name> and here is just <name type="geo">West Egg</name> where new wealthy people live.</s>
+        <s>He can't be as rich as <name type="person">Tom</name> or richer, can he?</s>
+      </p>
+    </body>
+  </text>
+</TEI>

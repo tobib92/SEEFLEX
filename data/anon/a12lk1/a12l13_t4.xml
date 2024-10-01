@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l13_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I've recently came across an interesting <choice><orig>german</orig><reg>German</reg></choice> article about how <name type="person">Shakespeare's</name> work got popular in <name type="geo">Germany</name> and how famous poets like <name type="person">Lessing</name>, <name type="person">Schiller</name>, <name type="person">Wieland</name>, <name type="person">Herder</name> and <name type="person">Goethe</name> helped.</s>
+        <s><name type="person">Shakespeare's</name> rise to fame in the 18th century <name type="geo">Germany</name>.</s>
+        <s>Read on to find out more.</s>
+      </p>
+      <p>
+        <s>Until later on in the 18th century <name type="person">Shakespeare</name> wasn't very know in <name type="geo">Germany</name>.</s>
+        <s>It were <name type="person">Christoph Martin Wieland's</name> translations of 22 plays in the 18th century that helped <name type="person">Shakespeare's</name> work gain popularity and set foot in <name type="geo">Germany</name>.</s>
+        <s>However, word has it that <name type="person">Goethe</name> and <name type="person">Herder</name>, who were from <name type="geo">Weimar</name>, were making an effort for positive affirmations from the <choice><orig>english</orig><reg>English</reg></choice> poet and that there already were hints of <name type="person">Shakespeare's</name> famous format in <name type="person">Lessing's</name> <name type="misc">Hamburgischer Dramaturgie</name>.</s>
+      </p>
+      <p>
+        <s>In <date>1864</date> the <name type="misc">Verein der Shakespeare-Freunde</name> was founded.</s>
+        <s>It was founded in order to celebrate his alleged birthday and death.</s>
+        <s>Because of an actor from the courtyard of <name type="geo">Weimar</name>, who presented a cycle of plays, the Shakespeare-Society was created in <name type="geo">Weimar</name>.</s>
+      </p>
+      <p>
+        <s>The first staue of <name type="person">Shakespeare</name> in Europe was actually put up in <name type="geo">Weimar</name> as well.</s>
+        <s>It was meant as a celebration for <name type="person">Shakespeare's</name> 240th birthday and the Association's 40th anniversary.</s>
+        <s>So it's safe to say that <name type="geo">Weimar</name> played the biggest role in the distribution of <name type="person">Shakespeare's</name> work in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>Nowadays, there are plenty of modern translations of <name type="person">Shakespeare's</name> work in <choice><orig>german</orig><reg>German</reg></choice> and even renowned poetry inspired by <name type="person">Shakespeare's</name> pieces.</s>
+        <s>So even <choice><orig>non-english</orig><reg>non-English</reg></choice> speakers can enjoy his work.</s>
+      </p>
+      <p>
+        <s>Now I want to know your thoughts and feelings all about this topic in the comments down below.</s>
+        <s>Do you know something about how <name type="person">Shakespeare</name> got popular in your country?</s>
+        <s>Are there any questions?</s>
+        <s>If you happen to speak German you can find the article in the <name type="misc">Thüringer Allgemeine</name>.</s>
+        <s>It's called <ref target="a12lk1_2" type="title">Wie Shakespeares Denkmal in den Weimarer Ilmpark kam</ref>.</s>
+      </p>
+      <p>
+        <s>Have a nice day!</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

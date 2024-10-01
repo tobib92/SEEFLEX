@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyze <quote><name type="person">Lady Macbeth</name> persuades her husband</quote> from <ref target="c12gk2_1" type="title">Macbeth</ref>, <choice><orig>Act</orig><reg>act</reg></choice> 1, <choice><orig>Scene</orig><reg>scene</reg></choice> 7, I <choice><orig>specialy</orig><reg>especially</reg></choice> will analyze the relationship between <name type="person">Lady Macbeth</name> and <name type="person">Macbeth</name> and how <name type="person">Lady Macbeth</name> tries to convince her husband of murdering king <name type="person">Duncan</name>.</s>
+        <s>In the text you can find a <choice><orig>tipical</orig><reg>typical</reg></choice> <choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice> <choice><orig>choise</orig><reg>choice</reg></choice> of words.</s>
+        <s>For example in line 2 <quote>Hath</quote>, he <choice><orig>use</orig><reg>uses</reg></choice> it instead of <quote>has</quote>.</s>
+        <s>Or in line 13 <quote>thy</quote> he <choice><orig>use</orig><reg>uses</reg></choice> it instead of <quote>you</quote>.</s>
+        <s>This choice of words he <choice><orig>connect</orig><reg>connects</reg></choice> with some rhetorical devices.</s>
+      </p>
+      <p>
+        <s><name type="person">Lady Macbeth</name> unconditional wants that <name type="person">Macbeth</name> kills <name type="person">Duncan</name> so she really <choice><orig>put</orig><reg>puts</reg></choice> him under pressure.</s>
+        <s><choice><orig>Do</orig><reg>Due</reg></choice> to this she uses rhetorical questions are also to convince <name type="person">Macbeth</name> that it is right and okay to kill <name type="person">Duncan</name>.</s>
+        <s>This is also the cause why <name type="person">Lady Macbeth</name> <choice><orig>speeks</orig><reg>speaks</reg></choice> 41 <choice><orig>lins</orig><reg>lines</reg></choice> and <name type="person">Macbeth</name> only 12 <choice><orig>lins</orig><reg>lines</reg></choice>.</s>
+        <s>She <choice><orig>do</orig><reg>does</reg></choice> not give <name type="person">Macbeth</name> space to talk.</s>
+      </p>
+      <p>
+        <s>In line 26f <quote>And, to be more than what you were, you would be so much than the man</quote>, <name type="person">Lady Macbeth</name> represent a kill as something what makes him to a better and stronger man.</s>
+        <s>She uses everything she <choice><orig>know</orig><reg>knows</reg></choice> to convince her husband.</s>
+      </p>
+      <p>
+        <s>All in all it looks like <name type="person">Lady Macbeth</name> is more brutal than her husband and <name type="person">Macbeth</name> <choice><orig>don't</orig><reg>doesn't</reg></choice> know if he <choice><orig>realy do</orig><reg>really does</reg></choice> it or not.</s>
+        <s>For <name type="person">Lady Macbeth</name> it is clear her husband must kill <name type="person">Duncan</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

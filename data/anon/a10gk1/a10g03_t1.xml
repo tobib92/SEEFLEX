@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g03_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author <ref target="a10gk1_1" type="author">Brian Pollard</ref> changes his opinion on worker unions over the years.</s>
+        <s>And explains why he doesn't support unions anymore.</s>
+        <s>He says that unions have turned useless and only care about power and greed.</s>
+        <s><ref target="a10gk1_1" type="author">Brian Pollard</ref> thinks that unions nowadays only block companies from becoming <choice><orig>successfull</orig><reg>successful</reg></choice> in their sector.</s>
+        <s>Because union workers don't have the pressure to work in their best form to keep their jobs, and still produce high priced products.</s>
+        <s>The companies won't become famous or reach <choice><orig>an</orig><reg>a</reg></choice> high number of costumers.</s>
+        <s><choice><orig>Especciley</orig><reg>Especially</reg></choice> when other companies produce the same service or products but sell them for a lower price.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

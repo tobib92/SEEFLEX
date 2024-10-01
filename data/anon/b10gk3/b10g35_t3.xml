@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>b10g35_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Yes, <choice><orig>i</orig><reg>I</reg></choice> do think that it is still faithful enough to the <choice><orig>novels</orig><reg>novel's</reg></choice> idea.</s>
+        <s>This scene is mostly about the crazy police violent presented here and this was the same as in the novel.</s>
+        <s>It might wasn't the same situation but it clearly shows that the police does very unnecessary stuff especially to black people only because they have that mindset of black bad and white good.</s>
+        <s>And that doesn't change because one cop is black too or <ref target="b10gk3_1" type="character">King</ref> was also black.</s>
+        <s>No.</s>
+        <s>The police officers could have solven this without that much <choice><orig>violents</orig><reg>violence</reg></choice>.</s>
+        <s>The same as it was in the situation in the novel.</s>
+        <s>They had no clear evidence that <ref target="b10gk3_1" type="character">Maverick</ref> was a danger to society in neither scene.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

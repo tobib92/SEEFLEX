@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The language of the <ref target="c12lk1_1" type="title">Sonnet 65</ref> has many <choice><orig>conspicious</orig><reg>conspicuous</reg></choice> <choice><orig>tings</orig><reg>things</reg></choice>.</s>
+        <s>In verse one <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> repeats the word three times, which <choice><orig>emphatises</orig><reg>emphazises</reg></choice> the list of words.</s>
+      </p>
+      <p>
+        <s>Also he repeats the word <quote>O</quote> in line <choice><orig>fife</orig><reg>five</reg></choice>, nine and thirteen to show the beginning of the chapter.</s>
+      </p>
+      <p>
+        <s>The sonnets fits between the other sonnets of <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>,
+because it deals with love, beautines and the power of destroying.</s>
+        <s>The other sonnets deal with love too and with other ordinary topics.</s>
+        <s>Also it has the same style, like the other sonnets.</s>
+        <s>That means all have 14 verses three normal chapters and a final <choice><orig>cupplet</orig><reg>couplet</reg></choice>, a cross rhyme, a regular metre and many stylistic devices.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

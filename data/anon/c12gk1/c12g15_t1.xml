@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g15_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sonnet is <ref target="c12gk1_1" type="title">Sonnet 116</ref> which is written by <ref target="c12gk1_1" type="author">William Shakespeare</ref>.</s>
+        <s>The topic of the sonnet is love.</s>
+        <s>It is part of the first grouping and <choice><orig>adresses</orig><reg>addresses</reg></choice> to the young <choice><orig>men</orig><reg>man</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The sonnet <choice><orig>have</orig><reg>has</reg></choice> the typical <choice><orig>Shakespearien</orig><reg>Shakespearean</reg></choice> <choice><orig>structur</orig><reg>structure</reg></choice> with three quatrains and <choice><orig>an</orig><reg>a</reg></choice> final couplet.</s>
+        <s>The rhyme scheme is <choice><orig>an</orig><reg>a</reg></choice> cross rhyme.</s>
+      </p>
+      <p>
+        <s>The topic of the sonnet is love.</s>
+        <s>He says that the marriage isn't true and <choice><orig>an</orig><reg>a</reg></choice> hindrance for the people.</s>
+        <s>There isn't one form of love but different because he loves alters and is different in each situation.</s>
+        <s>Did Ken remove or change.</s>
+        <s>But in the next quatrain <choice><orig>dispute</orig><reg>disputes</reg></choice> <ref target="c12gk1_1" type="author">Shakespeare</ref> his statement and says that love is an <quote>ever-fixed mark</quote> which means that the love is every time the same.</s>
+        <s>For every person who is searching, it is <choice><orig>an</orig><reg>a</reg></choice> mark which can't be changed.</s>
+        <s>It helps every person, but people who don't know the worth of it can't take it.</s>
+      </p>
+      <p>
+        <s>In the last quatrain says <ref target="c12gk1_1" type="author">Shakespeare</ref> that, love is timeless and hold until the death comes.</s>
+        <s>In the final couplet the author tells us, that he isn't wrong because he writte this sonnet and every man still love.</s>
+      </p>
+      <p>
+        <s>So the <choice><orig>idee</orig><reg>idea</reg></choice> of the sonnet is, that love is something <choice><orig>beatiful</orig><reg>beautiful</reg></choice> which holds every crisis and don't change.</s>
+        <s>The only thing which <gap reason="illegible" quantity="1" unit="word">sepeat</gap> love is the death.</s>
+        <s>But love can't be changed by the life or the time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

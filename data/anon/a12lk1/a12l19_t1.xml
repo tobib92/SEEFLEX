@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l19_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given poem <ref target="a12lk1_1" type="title">Sonnet 138</ref> from<ref target="a12lk1_1" type="author">Shakespeare</ref> deals with a relationship between a woman and <choice><orig>an other</orig><reg>another</reg></choice> person.</s>
+      </p>
+      <p>
+        <s>The first quatrain the narrator voices that he would believe the other person.</s>
+        <s>When she says, that she loves him, though he knows that it is not true.</s>
+        <s>The lying one is on the opinion that her partner is unexperienced and young.</s>
+      </p>
+      <p>
+        <s>In the following a contradiction comes up in the first two sentences of the second quatrain.</s>
+        <s>It says again that the female person thinks that the other other is young but the lyrical eye denies this thesis by saying tht his best days were a long time ago.</s>
+        <s>Besides the persona of the poem highlights his opinion that the other person is a liar by repeating his thesis with other words.</s>
+      </p>
+      <p>
+        <s>The third and last quatrain starts with a rhetorical question, where the narrator asks, why the women does not say the truth.</s>
+        <s>Therefore he questions, why shes does not mention that he is old and not young.</s>
+        <s>After this questions the speaker says that being trustworthy is a habit of herself.</s>
+      </p>
+      <p>
+        <s>The sonnet ends with a couplet, where <gap reason="illegible" quantity="1" unit="word">headunits</gap> that both of them lie with the other person and whether they do mistakes because of this, they get difficulties.</s>
+        <s>The couplet is like the statement of this sonnet.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

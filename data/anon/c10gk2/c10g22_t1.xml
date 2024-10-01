@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g22_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> gave a speech in <name type="geo">Istanbul</name> at <date>7 April 2009</date> at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>.</s>
+        <s>He gave the speech before the open discussion started.</s>
+      </p>
+      <p>
+        <s>The speech is about the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>At the beginning of his speech he says that he came to <name type="geo">Turkey</name> because he <choice><orig>try</orig><reg>tries</reg></choice> to rebuilding a relationship between the <name type="geo">United States</name> and the people of the Muslim world.</s>
+      </p>
+      <p>
+        <s>He also told that he is proud to see a new spirit of activism.</s>
+        <s>In addition he <choice><orig>find</orig><reg>finds</reg></choice> it good that young people are engaged and that they informed about the world around them.</s>
+      </p>
+      <p>
+        <s>In the future he will find new ways to connect young Americans to young people all around the world.</s>
+        <s>This will he do by supporting opportunities to learn new languages.</s>
+        <s>Moreover he will welcoming students from other countries.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>endinding</orig><reg>ending</reg></choice> of his speech, <ref target="c10gk2_1" type="speaker">Obama</ref> says that everyone can choose to advance a prosperity that is shared by all people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

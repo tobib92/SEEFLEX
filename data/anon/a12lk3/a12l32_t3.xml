@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>a12l32_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Out of his conclusion and other excerpts from the play arises the question <choice><orig>wether</orig><reg>whether</reg></choice> <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> fuels anti-semitic stereotypes or raises awareness.</s>
+      </p>
+      <p>
+        <s>On one hand one can argue that it does nothing but fuel anti-semitic stereotypes since <name type="person">Shylock</name> is presented as a money loving antagonist.</s>
+        <s>He is supposed to be a <choice><orig>villan</orig><reg>villain</reg></choice> and the <choice><orig>viewer ship</orig><reg>viewership</reg></choice> back then, who only had a generalised idea of a Jewish person, would have only felt empowered in his anti-semitic<choice><orig>believes</orig><reg>beliefs</reg></choice>.</s>
+        <s>The play is also written in an anti-semitic way since <name type="person">Shylock</name> is only ever described as <quote>the Jew</quote> which compromises him only to his religion.</s>
+        <s>He also works with money, another Jewish stereotype.</s>
+      </p>
+      <p>
+        <s>All of this seems to fuel the anti-semitic stereotype but on the other hand one can see the exact same arguments and argue that all of that is supposed to bring awareness.</s>
+        <s>The way <name type="person">Shylock</name> is treated by everyone shows the viewer how hard it was to be a Jewish person living in that time period.</s>
+        <s>As well as the speech <name type="person">Shylock</name> holds about just being a human just like a Christian underlines this argument.</s>
+        <s>It is written in such a convincing and astonishing way that I would argue <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> was practically yelling into the viewers' faces <quote>Stop being anti-semitic, we are all humans</quote>.</s>
+      </p>
+      <p>
+        <s>After all I am convinced that <name type="person">Shakespeare</name> meant to bring awareness to this problem but might have failed in the execution and the clarity of his <choice><orig>stand point</orig><reg>standpoint</reg></choice>.</s>
+        <s>I also could imagine that he had to hid his <choice><orig>stand point</orig><reg>standpoint</reg></choice> in the play in fear of being hated or censored.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

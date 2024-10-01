@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c10g54_t3</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This report, is about the 18 year old German volunteer <name type="person">Bianca L.</name> who worked in an <name type="misc">Education Center</name> for children, located in a slum of <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> starts with her daily routine.</s>
+        <s>8.30 <choice><orig>a'clock</orig><reg>o'clock</reg></choice> breakfast, 10 <choice><orig>a'clock</orig><reg>o'clock</reg></choice> leaving the apartment and driving with the <choice><orig>rikscha</orig><reg>rickshaw</reg></choice> <add>(a bike for more <choice><orig>then</orig><reg>than</reg></choice> one person)</add> to the <name type="misc">Education Center</name>.</s>
+        <s>10.30 <choice><orig>a'clock</orig><reg>o'clock</reg></choice> to 12 <choice><orig>a'clock</orig><reg>o'clock</reg></choice> <choice><orig>english</orig><reg>English</reg></choice> grammar with the boys.</s>
+        <s>After that a two hour break, and from 14 <choice><orig>a'clock</orig><reg>o'clock</reg></choice>  to 16 <choice><orig>a'clock</orig><reg>o'clock</reg></choice>  <choice><orig>english</orig><reg>English</reg></choice> grammar with the girls.</s>
+      </p>
+      <p>
+        <s>She explains that her favorite thing <choice><orig>where</orig><reg>were</reg></choice> the children.</s>
+        <s>The children fill her heart with joy, there <choice><orig>where</orig><reg>were</reg></choice> so lovely and accepting and they wanted to know more about her.</s>
+        <s>She says that the children in <name type="geo">India</name> had the most joy of all children she has worked with.</s>
+        <s>And for her it is remarkable how they have so much pleasure in <choice><orig>there</orig><reg>their</reg></choice> life even with the situation they are in.</s>
+        <s>Everyday she had fun with the children, reading or talking and there <choice><orig>where</orig><reg>were</reg></choice> also some frustrating moments, but these days <choice><orig>where</orig><reg>were</reg></choice> the best days of her life and the days have her filled with love, patience, hope and many gratitude.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g22_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>On <date>November 7th, 2007</date> <ref target="a11gk2_1" type="speaker">Barack Obama</ref> gave a speech in <name type="geo">Bettendorf, Iowa</name> as part of his presidential campaign.</s>
+        <s>The speech addressed to the people of <name type="geo">Bettendorf</name> and citizens of <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> all over the nation and is about <ref target="a11gk2_1" type="speaker">Obama's</ref> personal experience with the American Dream and American values.</s>
+      </p>
+      <p>
+        <s>He starts off by pointing out how he grew up in a nearby town and says he disagrees with people in the capital saying <choice><orig>americans</orig><reg>Americans</reg></choice> are divided.</s>
+      </p>
+      <p>
+        <s>Then, he talks about travelling around the country and encounting the hopes and dreams of <choice><orig>americans</orig><reg>Americans</reg></choice>, motivating him to fight for those wishes.</s>
+      </p>
+      <p>
+        <s>In the next part, he connects these dreams to his own family, first his grandparents, that believed in the <choice><orig>american dream</orig><reg>American Dream</reg></choice>, when moving to the country after <name type="misc">World War 2</name>, and then his mother that believed she could achieve her goals even while being in government welfare programs.</s>
+      </p>
+      <p>
+        <s>He finishes off by connecting these hopes and dreams to his younger self, that decided to accept a small salary working as community organizer in <name type="geo">Chicago</name> just to lift people out of hopelessness.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a11gk2_1" type="speaker">Obama</ref> talks about meeting Americans and their dreams while travelling and his own family's history motivating him to fight for <choice><orig>american</orig><reg>American</reg></choice> values and the American Dream.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

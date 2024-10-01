@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> uses the same rhyme scheme <name type="misc">(ababcdcdefefgg)</name> he uses in nearly every of his sonnets.</s>
+        <s>He's also using the iambic pentamenter, just as in every other sonnet of his.</s>
+        <s>By <choice><orig>continuesly</orig><reg>continously</reg></choice> using these he supports his message of never losing love for the dark lady, that sonnet is about.</s>
+        <s>It <choice><orig>continuesly</orig><reg>continously</reg></choice> stay the same just like his love for the dark lady.</s>
+      </p>
+      <p>
+        <s>In the first verse <ref target="c12gk1_1" type="author">Shakespeare</ref> uses a persofication.</s>
+        <s>He writes about <quote>the marriage of true minds</quote> <ref target="c12gk1_1" type="line">(l. 1)</ref>.</s>
+        <s>He does that so the reader can see the relationship the narrator had with the black lady just as alive as he thinks it was.</s>
+        <s>By introducing their relationship like that the reader starts to gain inteest and wants to keep getting to know more about it.</s>
+        <s>In the same line <ref target="c12gk1_1" type="author">Shakespeare</ref> uses an alliteration to show the reader continuity.</s>
+        <s>This sort of continuity is the same as the one in the narrator's love for the dark lady.</s>
+        <s>This stylistic device shows up a lot in this sonnet to show the never-ending love of the narrator.</s>
+        <s>Verse two got separated by the author into two parts.</s>
+        <s>The first sentence ends and the second begins just in the middle of the verse.</s>
+        <s>By doing that he supports what he states in the first part: <quote>admit impediments</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>There are obstacles that threaten to endanger his love just as there are obstacles in this verse in form of a dot.</s>
+        <s>But these obstacles neither stop the love from holding on nor the sonner from going on.</s>
+        <s>In the same verse there's also <choice><orig>a</orig><reg>an</reg></choice> antithesis.</s>
+        <s>The narrator states that: <quote>love is not love [...]</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>By using this stylistic device the reader first starts noticing that the narrator's love for the dark lady is not some regular love you can find everywhere.</s>
+        <s>It's very rare and differs from what most people mean when they talk about love.</s>
+        <s>Furthermore in verse he keeps differentiating his love to the dark lady from toher.</s>
+        <s>To achieve that goal he repeatedly uses the word <quote>alter</quote> <ref target="c12gk1_1" type="line">(l. 3)</ref> in different grammatical forms.</s>
+        <s>He says: <quote>alters when it alteration finds</quote> <ref target="c12gk1_1" type="line">(l. 3)</ref>.</s>
+        <s>By using the same word twice the author tries to really underline the fact that his love will never change in any way possible.</s>
+        <s>His love will never change no matter what obstacles get in <choice><orig>it's</orig><reg>its</reg></choice> way (look above).</s>
+        <s>The same thing <ref target="c12gk1_1" type="author">Shakespeare</ref> does in that verse with the word <quote>alter</quote> he does with the word <quote>remove</quote> <ref target="c12gk1_1" type="line">(l. 4)</ref> in the next <choice><orig>vers</orig><reg>verse</reg></choice> too.</s>
+      </p>
+      <p>
+        <s>Furthermore he uses a <choice><orig>parrallelism</orig><reg>parallelism</reg></choice> to get a similar effect he got in the verse above.</s>
+        <s>He's saying: <quote> or bends with the remover to remove</quote>.</s>
+        <s>By using this stylistic device the reader gets shown that the narrator's love for the dark lady won't change not vanish ever.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> also uses the word <quote>bends</quote> <ref target="c12gk1_1" type="line">(l. 4)</ref> which gets repeated later in the sonnet <ref target="c12gk1_1" type="line">(l. 10)</ref>.</s>
+        <s>By doing that <ref target="c12gk1_1" type="author">Shakespeare</ref> once again showed continuity and he gives the reader a red line to be able to follow the entire sonnet.</s>
+        <s>In verse five the narrator mentions <quote>an ever-fixed mark</quote> <ref target="c12gk1_1" type="line">(l. 5)</ref>.</s>
+        <s>The word <quote>ever</quote> used in this context is an exaggeration.</s>
+        <s>Still his love will be read about for a long time in the sonnets he wrote about that love but even this sort of living on won't be for infinity.</s>
+        <s>He uses that exaggeration to make the reader waer of how strong his love really is.</s>
+        <s>His confidence in this love not going to fade has the effect on the reader that infinity might be possible.</s>
+        <s>In the next verse <ref target="c12gk1_1" type="author">Shakespeare</ref> writes about his love <quote>look[ing] on tempests and [...] never [being] shaken</quote> <ref target="c12gk1_1" type="line">(l. 6)</ref>.</s>
+        <s>He <choice><orig>personificates</orig><reg>personifies</reg></choice> the narrator's love so it appears alive and thriving to the reader.</s>
+        <s>It makes it look much stronger and likely to never vanish.</s>
+        <s>The entore second <choice><orig>quadrain</orig><reg>quatrain</reg></choice> is also a metaphor.</s>
+        <s>The love is getting compared to things happening at the sea.</s>
+        <s>For example the <quote>tempests</quote> that have been mentioned above or the <quote>wandring bark</quote> <ref target="c12gk1_1" type="line">(l. 7)</ref>.</s>
+        <s>It's getting compared to a ship making <choice><orig>it's</orig><reg>its</reg></choice> way through all sort of obstacles but it's still never stoppin nor going down.</s>
+        <s>It stands strong just like the love from the narrator the the darlady.</s>
+        <s>This metaphor gives the reader a picture about a similar thing so he can evaluate if the narrator's love is really as strong as it seems.</s>
+        <s>Also in the seventh verse there is a personification.</s>
+        <s>It says: <quote>[...] to every wandring bark [...]</quote> <ref target="c12gk1_1" type="line">(l. 7)</ref>.</s>
+        <s>this once again makes the love appeal more lively.</s>
+        <s>In the same verse there's also a metaphor in which the love gets compared to a star that leads every bark in the right direction <ref target="c12gk1_1" type="line">(l. 7)</ref>.</s>
+        <s>For this star to lead every <quote>wondering bark</quote> it has to be very bright.</s>
+        <s>This shows the reader how strong the love is and how, metaphorically speaking, bright it is.</s>
+        <s>In verse eight <ref target="c12gk1_1" type="author">Shakespeare</ref> keeps using the star-metaphor.</s>
+        <s>He mentions that his love, so in this case the star, is not measurable in value, so it's priceless <ref target="c12gk1_1" type="line">(l. 8)</ref>.</s>
+        <s>The narrator not even being willing to stop loving the dark lady for any amount of money or other valuable thing really shows once again that his love is no normal one and keeps the reader attached to the sonnet.</s>
+        <s>He also uses an alliteration as so often to support his message of saying that his love is not going to get interrupted and it will continue forever.</s>
+        <s>In the ninth verse <ref target="c12gk1_1" type="author">Shakespeare</ref> uses a personification again.</s>
+        <s>He says that <quote>love's not time's fool [...]</quote> <ref target="c12gk1_1" type="line">(l. 9)</ref>.</s>
+        <s>By repeatedly <choice><orig>personificating</orig><reg>personifying</reg></choice> the love the reader gets the effect that he thinks it's not a common sort of love addressed in this sonnet.</s>
+        <s>It's something special that's worth to be read about.</s>
+        <s>In verse ten there's once more a personification.</s>
+        <s>It's about the impersonated death carrying a sickle <ref target="c12gk1_1" type="line">(l. 10)</ref>.</s>
+        <s>By making death a real, visible threat the narrator's love even surpassing this obstacle makes it feel so much more impressive.</s>
+        <s>That underlines how even death won't stop the narrator's love from being alive.</s>
+        <s>In the <choice><orig>twelth</orig><reg>twelfth</reg></choice> verse the author uses a very strong word to emphasize the verse's meaning.</s>
+        <s>He uses the word <quote>doom</quote> <ref target="c12gk1_1" type="line">(l. 12)</ref>.</s>
+        <s>On top of not altering with hours and weeks passing by <ref target="c12gk1_1" type="line">(l. 11)</ref> the love is even able to stand the edge of doom and still be alove.</s>
+        <s>The author enumerates things that happen, that many loves break over, but his won't.</s>
+        <s>Reading that once again the reader realizes how strong the narrator's love is.</s>
+        <s>In the last two verses the author uses one last alliteration to conclude the sonnet and to show the reader that just like the alliterations in this sonnet that have continued throughout the narrator's love will also continue throughout infinity.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> uses a specific word-scheme in the entire sound.</s>
+        <s>It's all about the sea, space and time.</s>
+        <s>These words have been the core of the entire <ref target="c12gk1_1" type="title">Sonnet 116</ref> and especially the words all around time show the infinity the narrator's love is going to live for.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

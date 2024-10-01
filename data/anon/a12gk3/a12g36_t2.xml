@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> written by <ref target="a12gk3_1" type="author">John Worne</ref> was published in <name type="misc">The Telegraph</name> on the <date>27th January 2015</date> deals with <choice><orig>droping</orig><reg>dropping</reg></choice> rates of <name type="geo">UK</name> students learning foreign languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">J. Worne</ref> uses persuasive techniques and stylistic devices to achieve a change in people willing to learn foreign languages.</s>
+        <s>Throughout his text he uses many <choice><orig>persuasiv</orig><reg>persuasive</reg></choice> techniques and <choice><orig>stilistic</orig><reg>stylistic</reg></choice> devices.</s>
+        <s>He starts in the title which he repeats in the first sentence <quote>can't, won't, don't</quote> which he puts in context with the national view on speaking foreign languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> shows how childish their behavior is and that they need to grow up and deal with it.</s>
+      </p>
+      <p>
+        <s>another <choice><orig>persuasiv</orig><reg>persuasive</reg></choice> technique he uses is that he is <choice><orig>refering</orig><reg>referring</reg></choice> to many statistics which strengthen his point.</s>
+        <s>Another important role in convincing the readers is his use of language he uses a normal and parts informal language which is important due to the target audience he tries to address, Young people in schools or university and mainly parents of those.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> uses ironic to weaken an argument against him and in conclusion strengthening his point.</s>
+        <s>Important is that this is the only point against him he names by only naming this one and especially packed in ironic he wants to eliminate any doubts in his points and this <choice><orig>one sided</orig><reg>one-sided</reg></choice> argumentation is for <choice><orig>convincin</orig><reg>convincing</reg></choice> the people who already agree with his opinion to <gap reason="illegible" quantity="1" unit="word">decnd</gap> change something and not to convince new people of his point.</s>
+      </p>
+      <p>
+        <s>In the entire article <ref target="a12gk3_1" type="author">Worne</ref> uses inclusive pronouns.</s>
+        <s><choice><orig>It's</orig><reg>Its</reg></choice> effect is to include the reader and convince him to do some thing and keep their attention.</s>
+        <s>Another important technique he uses is the repetition in line 27 <quote>The tough reality in a tough job market</quote>.</s>
+        <s>It addresses to the beginning where he points out the behavior of the <name type="geo">UK's</name> people as childish and now he gives parents like sentences which helps him to convey his point.</s>
+      </p>
+      <p>
+        <s>To conclude my analysis I would say <ref target="a12gk3_1" type="author">John Worne</ref> used <choice><orig>persuasiv</orig><reg>persuasive</reg></choice> <choice><orig>techniqes</orig><reg>techniques</reg></choice> and <choice><orig>devises</orig><reg>devices</reg></choice> to convince people to learn other languages but I have to add that also his use of language is important for that.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

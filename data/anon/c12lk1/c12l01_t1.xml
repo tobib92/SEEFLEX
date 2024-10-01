@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l01_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sonnet <ref target="c12lk1_1" type="title">Sonnet 65</ref> written by <ref target="c12lk1_1" type="author">William Shakespeare</ref>, who lived between <date>1564-1616</date>, is one of his many well known sonnets thematizing the aspect of love.</s>
+        <s>It is a traditional 14 line <choice><orig>Shakespearian</orig><reg>Shakespearean</reg></choice> sonnet wich form be made up of 3 quatrains or set of 4 lines each and a concluding couplet.</s>
+        <s>It requires the constant rhyme <choice><orig>sceme</orig><reg>scheme</reg></choice> of <name type="misc">ABABCDCDEFEFGG</name> (cross rhyme).</s>
+        <s>The final couplet is a rhyming pair.</s>
+        <s>The sonnet uses the metre iambic pentameter.</s>
+      </p>
+      <p>
+        <s>In <ref target="c12lk1_1" type="title">Sonnet 65</ref> <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> highlights the power of love and how nothings wrong can kill this power but mortality.</s>
+        <s>Even when its beauty and gracious <choice><orig>behaivior</orig><reg>behavior</reg></choice> will see <quote>batt'ring days</quote> <ref target="c12lk1_1" type="line">(v. 6)</ref>, where are their love is put to a test.</s>
+        <s>But the speaker's strong love is still there and big as it was at the beginning.</s>
+        <s>So one's <quote>love may still shine bright</quote> <ref target="c12lk1_1" type="line">(v. 14)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

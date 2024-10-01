@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g34_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an extract of <ref target="c12gk2_1" type="scene">Act 1, Scene 7</ref> of <ref target="c12gk2_1" type="title">Macbeth</ref>, written by <ref target="c12gk2_1" type="author">William Shakespeare</ref>.</s>
+        <s>The scene is about a conversation between <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and <ref target="c12gk2_1" type="character">Macbeth</ref> where his wife persuades <ref target="c12gk2_1" type="character">Macbeth</ref> to murder <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>Right of the beginning of the dialogue, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince her husband to kill <ref target="c12gk2_1" type="character">Duncan</ref> after he went to his chamber, but <ref target="c12gk2_1" type="character">Macbeth</ref> doesn't want to go on with this plan, because <ref target="c12gk2_1" type="character">Duncan</ref> granted him the title <q>Thane of Cawdor</q> before and <ref target="c12gk2_1" type="character">Macbeth</ref> wants to enjoy that honour.</s>
+        <s>Then his wife asks him what the reason for his changed opinion is and he answers that he doesn't want to get too arrogant.</s>
+      </p>
+      <p>
+        <s>Further on <ref target="c12gk2_1" type="character">Lady Macbeth</ref> appeals to her husband that he should execute the plan he made himself and <ref target="c12gk2_1" type="character">Macbeth</ref> responds that he doesn't know what to do if they would fail.</s>
+      </p>
+      <p>
+        <s>His wife wants him to get his courage up and tells him about the exact plan about how she would help <ref target="c12gk2_1" type="character">Macbeth</ref> killing <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>At the end she is <choice><orig>succesful</orig><reg>successful</reg></choice> with persuading <ref target="c12gk2_1" type="character">Macbeth</ref> and wants her to give bith to male children and that they will deceive the world at killing <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

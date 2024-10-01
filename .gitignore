@@ -1,0 +1,12 @@
+_old_scripts
+.Rhistory
+code/data pipeline/logfile.log
+code/data pipeline/tests
+code/data pipeline/anonymize.R
+code/data pipeline/pipeline.excalidraw
+code/data pipeline/gma_data.R
+code/data pipeline/.Rhistory
+code/gma analysis/
+code/plots/
+output/
+figures/

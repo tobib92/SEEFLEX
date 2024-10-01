@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g20_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>A volunteer in <name type="geo">India</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>The importance of student exchanges has been discussed a lot in the past.</s>
+        <s>In the following I will summarise the experiences of my friend <name type="person">Bianca</name>, who did an exchange in <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> is an 18-year-old German volunteer who worked in an <name type="misc">Education Center</name> for <choice><orig>childrin</orig><reg>children</reg></choice>, located in a slum of <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s>During her time in <name type="geo">Delhi</name>, she usually stood up early at 8:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>.</s>
+      </p>
+      <p>
+        <s>She mentions, the best thing of the exchange were the children who were full of acceptance and full of love.</s>
+        <s>This was especially astonishing, as children in <name type="geo">Germany</name> never acted like this.</s>
+        <s>Furthermore the children in the slums didn't live under good conditions.</s>
+      </p>
+      <p>
+        <s>At the end of the day, it was an experience with love, hope, confidence, patience and a lot of gratitude.</s>
+        <s>She owes all of this to the children.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

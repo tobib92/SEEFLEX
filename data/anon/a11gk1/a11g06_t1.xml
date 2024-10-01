@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g06_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <choice><orig>a</orig><reg>an</reg></choice> excerpt of the novel <ref target="a11gk1_1" type="title">The Hate U Give</ref> from <ref target="a11gk1_1" type="page">p. 328</ref> to page <ref target="a11gk1_1" type="page">p. 332</ref>, which was written by <ref target="a11gk1_1" type="author">Angie Thomas</ref> and published in <date>2017</date>, the main character <name type="person">Starr</name> finally told people what happened to <name type="person">Khalil</name> out of her point of view.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name>, who grew up in a criminal area and went to a school with white, privileged people, was often between <choice><orig>to</orig><reg>two</reg></choice> sides.</s>
+        <s>In this excerpt she <choice><orig>adresse</orig><reg>adresses</reg></choice> after long time that that what happened to <name type="person">Khalil</name> was injustice.</s>
+        <s>She was in a crisis before she told that because she had the fear that of the boss of the <name type="misc">King Lords gang</name> who was the reason to stop her from telling what happened.</s>
+        <s>This scene describes how brave she is after holding it in and then telling it in front of all people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

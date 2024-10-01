@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g27_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speaker <ref target="b12gk2_1" type="author">Boris Johnson</ref> gives a political speech during the British PM adress on <date>1 November 2021</date> the <name type="misc">COP26 World Leaders Summit Opening Ceremony</name> <add>and the public media</add> and is delivered to the world population.</s>
+        <s>His <gap reason="illegible" quantity="1" unit="word">groduce</gap> is to convince the audience to work together and fight against climate change now, to give our unborn children a good future.</s>
+        <s><ref target="b12gk2_1" type="author">Boris Johnson</ref><choice><orig>speeks</orig><reg>speaks</reg></choice> about the speed and <choice><orig>aprupt</orig><reg>abrupt</reg></choice> raising of temperature.</s>
+        <s><choice><orig>Furtermore</orig><reg>Furthermore</reg></choice> he refers to the ideal to restrain the rise in the temperature to 1.5 degrees.</s>
+        <s>In addition to this he makes clear that it is important to decarbonize while using funds we have in development <choice><orig>assitance</orig><reg>assistance</reg></choice>.</s>
+        <s>He <choice><orig>speeks</orig><reg>speaks</reg></choice> about the future and the unborn children who will judge us because we have not done enough, to protect the world.</s>
+      </p>
+      <p>
+        <s>Furthermore he explains, that we have technology to do together something against it, if we won't do something against it the anger of the future children will be greater.</s>
+        <s>The speech can be <choice><orig>subdivide</orig><reg>subdivided</reg></choice> in paragraphs where you can see his clear structure.</s>
+      </p>
+      <p>
+        <s>Firstly he introduced his topic by welcoming everyone and refering to <name type="person">James Bond</name> <ref target="b12gk2_1" type="line">(ll. 1-9)</ref>.</s>
+        <s>Afterwards he <choice><orig>speeks</orig><reg>speaks</reg></choice> about <name type="geo">Copenhagen</name> and <name type="geo">Paris</name>, where they made promises <ref target="b12gk2_1" type="line">(ll. 10-15)</ref>.</s>
+      </p>
+      <p>
+        <s>The next paragraph deals with the fact, that we have the possibility to do together something against climate change <ref target="b12gk2_1" type="line">(ll. 16f)</ref>.</s>
+        <s>In connection to this he refers to the idea, how we can end climate changes and looks back in history <ref target="b12gk2_1" type="line">(l. 18f)</ref>.</s>
+      </p>
+      <p>
+        <s>The following paragraph deals with nowadays and the possiblities we have to end climate change <ref target="b12gk2_1" type="line">(l. 22-30)</ref>.</s>
+        <s>After nowadays he <choice><orig>speeks</orig><reg>speaks</reg></choice> about the future and talks about our unborn children who have to live with the consequences of our actions nowadays.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3</title>
+        <author>c12l29_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The works of the literary giant <name type="person">Shakespeare</name> should still be <choice><orig>thaught</orig><reg>taught</reg></choice> in German <choice><orig>english</orig><reg>English</reg></choice> classes, because it expands the <choice><orig>horizont</orig><reg>horizon</reg></choice> by learning how words, word-combinations and vocabulary.</s>
+      </p>
+      <p>
+        <s>Since <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> creations often deal with love, beauty, <choice><orig>transcience</orig><reg>transience</reg></choice>, old age or death it teaches young people basic life lessons and gives advice and sets an example on how e.g. to love someone.</s>
+        <s>Because of that his sonnets are timeless.</s>
+        <s>Some might contradict these aspects, because they find his outdated and complicated language difficult to understand, but by learning how to paraphrase the modernized <add>English</add> version still transfers the main message it wanted to express.</s>
+      </p>
+      <p>
+        <s>Some would also say that studying <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> complex sonnets it is not going to help improve one's own writing skills, because the English language has changed <choice><orig>tremendesly</orig><reg>tremendously</reg></choice>.</s>
+        <s>But I cannot agree with that because on the one hand it helps the process of learning and the further development of the brain and on the other hand <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> creations teach German students a lot about the Elizabethan Era and reflects the time culture, standards and history of it.</s>
+      </p>
+      <p>
+        <s>In conclusion I think that learning about <name type="person">Shakespeare</name> in German English class and studying his sonnets have a lot of beneficial aspects for <choice><orig>students</orig><reg>students'</reg></choice> knowledge and skills.</s>
+      </p>
+    </body>
+  </text>
+</TEI>
