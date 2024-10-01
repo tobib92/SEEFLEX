@@ -2,6 +2,28 @@
 
 The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
 
+
+### Data Pipeline
+
+> code/data pipeline/README.md
+
+The data pipeline provides various options to (pre-)process the data for different analyses. The files are:
+
+- collapse.R (Collapsing all corpus xml-files into one plain text file with individual text IDs)
+- config.yml (**Configuration of corpus files for individual text output**)
+- config_manager.R (Configuration manager storing code on mark-up manipulation)
+- export_for_nlp_tools.R (Exporting corpus as separate txt-files for further usage using the configuration of **config.yml**)
+- xml_utils.R (Utilities file)
+
+
+### Shiny App (Scatterplot)
+
+The Scatterplot App offers the viewer scatter plots based on the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
+
+### Shiny App (Feature Weights)
+
+The Feature Weights App offers the viewer plots based on the feature weights and distributions of the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
+
 ## Data Pipeline
 
 This data pipeline enables the user to access the corpus files in different ways depending on their intended use. The README is structured around these uses.

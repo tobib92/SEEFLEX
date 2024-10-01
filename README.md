@@ -1,42 +1,26 @@
-# SEEFLEX ANALYSIS
+# SEEFLEX
+Version 0.1.0
 
-## DESCRIPTION
+## Decription
 
 The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
 
-The SEEFLEX corpus was developed as part of a dissertation project. Pilot studies offered initial insights into secondary school writing in EFL classes in Germany. In their exams, students in the final three grades of secondary school encounter unique yet recurring tasks anchored in curricular requirements regarding targeted text types and register knowledge. Research is needed on a larger scale to understand how students complete these tasks linguistically and whether they meet these requirements. 
-
-This corpus includes data from 45 classes across those three grade levels at three schools in North Rhine-Westphalia. Authentic curriculum-based hand-written examinations were scanned, fully transcribed, and POS-tagged. Extended xml-markup was added to account for inter alia language mistakes, quotes, references, and text structure. Students also participat-ed in a 90-minute contact session. The collected data include standardized receptive vocabu-lary assessments, students’ reading habits, a cognition scale, and the participants’ language experience and proficiency and social background.
-SEEFLEX features more than 620.000 tokens across 1967 writing samples (mean wordcount = 317.83; median = 267; SD = 165.67; range = 17-1552; 3-4 texts per participant from 5 possible curriculum-based tasks) by 572 different students. The corpus will function as a pedagogical resource to analyse the linguistic differences between the curricular tasks as well as the offi-cial requirement that these tasks be distinctive from one another. Access to the corpus will be available via CQPweb. An online supplement will provide additional resources.
+Over the decades, learner corpora have covered a variety of languages and proficiency levels. In English as a Foreign Language (EFL) classes in Germany, students in upper secondary school encounter recurring tasks in their exams anchored in curricular requirements regarding targeted text types and register knowledge. The *SEEFLEX* was developed as a pedagogical resource to understand how students complete these tasks linguistically and whether they meet these requirements. *SEEFLEX* contains data from 575 transcribed authentic curriculum-based examinations (1979 texts, ~625.000 words). The meta-data include standardized receptive vocabulary assessments, a cognition scale, the participants’ reading habits and their language experience and proficiency and social background. Extensive ```xml```mark-up was added to investigate e.g. influence of source material and language mistakes. This online supplement provides full-text access as well as ample additional resources.
 
 ## Data
 
-The corpus data in its raw format consists of 1967 .xml-files containing the individual student texts. The corpus files each contain a TEI Header  and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium 2021). The data is stored in separate folders for each class at one of the three schools. The folders are named "SCHOOL-NAME_GRADE_COURSE-ID_TEACHER-ID" and the files are named "STUDENT-ID.TASK-NUMBER.xml"
+The corpus data in its raw format consists of 1979 ```xml```-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021). Detailed information on the mark-up can be found in the data README file.
 
 ## Code
 
-This online supplement comes with three main features, a data pipeline and two Shiny Apps to analyze the data resulting from the pipeline output.
+The code contained in this online supplement comes with three main features: 
+1. A data pipeline for various analyses.
+2. Material for a GMA analysis (Neumann and Evert, 2021)
+3. A Shiny application containing both the scatterplot viewer and the feature weights viewer developed in Neumann & Evert (2021)
 
-### Data Pipeline
+## Output
 
-> code/data pipeline/README.md
-
-The data pipeline provides various options to (pre-)process the data for different analyses. The files are:
-
-- collapse.R (Collapsing all corpus xml-files into one plain text file with individual text IDs)
-- config.yml (**Configuration of corpus files for individual text output**)
-- config_manager.R (Configuration manager storing code on mark-up manipulation)
-- export_for_nlp_tools.R (Exporting corpus as separate txt-files for further usage using the configuration of **config.yml**)
-- xml_utils.R (Utilities file)
-
-
-### Shiny App (Scatterplot)
-
-The Scatterplot App offers the viewer scatter plots based on the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
-
-### Shiny App (Feature Weights)
-
-The Feature Weights App offers the viewer plots based on the feature weights and distributions of the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
+The output section contains exemplary figure output. Consecutive versions will include e.g. further analyses and output data.
 
 ### References
 
