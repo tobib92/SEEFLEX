@@ -12,10 +12,10 @@ The data pipeline provides various options to (pre-)process the data for differe
 | Filename | Function      |
 |:--------| :-------------|
 | bundles.yml | (See also: config.yml, export_files.R) The bundles file gives the option to set options for the ```xml``` manipulation and save them in presets. The presents can then be selected in the config.yml file |
-| collapse.R | Collapses all corpus xml-files into one plain text file with individual text IDs as attributes inside a ```<text>``` tag. This is needed for encoding the corpus inside a local CQP  environment[^1]. |
-| config.yml|(**Configuration of corpus files for individual text output**) |
-| config_manager.R | (Configuration manager storing code on mark-up manipulation) |
-| export_files.R | (Exporting corpus as separate txt-files for further usage using the configuration of **config.yml**) |
+| collapse.R | Collapses all corpus xml-files into one plain text file with individual text IDs as attributes inside a ```<text>``` tag. This is needed for encoding the corpus inside a local CQP  environment (Evert and The CWB Development Team, 2020). |
+| config.yml | (See also: bundles.yml, export_files.R) Individual settings for the ```xml``` markup in the corpus. Each structural or positional tag can be selected and deselected. The export function in export_files.R will consider the settings in the file |
+| config_manager.R | Configuration manager storing code for mark-up manipulation |
+| export_files.R | This script gives the option to export the entire corpus as separate ```xml```or .txt files for further usage. The configuration in config.yml is considered. |
 | meta_data.R | |
 | meta_utils.R | |
 | xml_manipulation.R ||
@@ -131,8 +131,7 @@ The [xml_manipulation file](code/data pipeline/xml_manipulation.R) provides func
 
 ### References
 
-[^1] Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
-
+- Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
 - Garside, R. (1987). The CLAWS Word-tagging System. In R. Garside, G. Leech, & G. Sampson (Eds.), The computational analysis of English: A corpus-based approach (pp. 30–41). Longman.
 - Kyle, K., Crossley, S. A., & Berger, C. (2018). The tool for the analysis of lexical sophistication (TAALES): Version 2.0. Behavior Research Methods 50(3), pp. 1030-1046. https://doi.org/10.3758/s13428-017-0924-4
 - Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
