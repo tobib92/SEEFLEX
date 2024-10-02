@@ -15,7 +15,7 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
 </details>
 
 <details>
-  <summary>Using an individual setting in [config.yml](config.yml) *config.yml*</summary>
+  <summary>Using an individual setting in *config.yml*</summary>
   
 1. Set the path to the directory of the **!!!INSERT!!!** in the config.yml file.
 2. Go through the mark-up elements below `text_cleaning` and choose `true` or `false` using the comments as guide (e.g. `remove_quotes: false` = quotes are not removed)
@@ -23,13 +23,27 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
 
 </details>
 
+## Shiny App
+
+The app.R file launches the Shiny application containing both the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021)
+
+
+## Shiny App (Scatterplot)
+
+The Scatterplot App offers the viewer scatter plots based on the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
+
+## Shiny App (Feature Weights)
+
+The Feature Weights App offers the viewer plots based on the feature weights and distributions of the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
+
+
 
 
 ## 1. Using the corpus as individual text files
 
-The corpus texts can be exported as individual text files to be used with NLP software (e.g. https://www.linguisticanalysistools.org/) or simply viewed manually by the user. This step takes into account the configuration above. No changes to the [config](code/data pipeline/config.yml) file will result in the default bundle being used. This includes the entire text as it was submitted by the student.
+The corpus texts can be exported as individual text files to be used with NLP software (e.g. https://www.linguisticanalysistools.org/) or simply viewed manually by the user. This step takes into account the configuration above. No changes to the [config](code/data pipeline/config.yml) file will result in the default bundle being used. This includes text, i.e. the text as it was submitted by the student.
 
-1. Change the paths in lines 161 and 162 of the export_files.R file to the paths on your machine. If you downloaded the repository as a whole, the folders need not be changed (NB: The date of the output folder can be adjusted).
+1. Change the paths in lines 161 and 162 of the [export file](code/data pipeline/export_files.R) file to the paths on your machine. If you downloaded the repository as a whole, the folders need not be changed (NB: The date of the output folder can be adjusted).
 2. Run the entire **export_files.R** R script (default output format = .txt -> cf. l. 166).
 3. The corpus files have been written to the specified `output_directory`.
 
