@@ -1,4 +1,5 @@
-# The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
+# SEEFLEX
+The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
 
 ## Data Pipeline
 
@@ -17,6 +18,20 @@ The data pipeline provides various options to (pre-)process the data for differe
 | xml_utils.R | Utilities file for the scripts working with the ```xml``` files. |
 
 
+<details>
+  <summary>Click to expand</summary>
+  
+- Item 1
+- Item 2
+- Item 3
+
+</details>
+
+
+## Shiny App
+
+The app.R file launches the Shiny application containing both the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021)
+
 
 ## Shiny App (Scatterplot)
 
@@ -25,10 +40,6 @@ The Scatterplot App offers the viewer scatter plots based on the Geometric Multi
 ## Shiny App (Feature Weights)
 
 The Feature Weights App offers the viewer plots based on the feature weights and distributions of the Geometric Multivariate Analysis (Neumann and Evert 2021) and **!!!INSERT!!!**
-
-# Data Pipeline
-
-This data pipeline enables the user to access the corpus files in different ways depending on their intended use. The README is structured around these uses.
 
 
 ## 0. Setting up the corpus mark-up
