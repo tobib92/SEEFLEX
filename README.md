@@ -11,7 +11,7 @@ Over the decades, learner corpora have covered a variety of languages and profic
 ## Data
 
 The data folder contains the following files:
-- The ```xml```-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021).
+- The `xml`-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021).
 - The meta-data including all variables and test scores.
 - The output from the feature extraction described in Neumann and Evert (2021) using the features derived from register theory in Neumann (2014).
 - The data needed to run the Shiny applications (see below)

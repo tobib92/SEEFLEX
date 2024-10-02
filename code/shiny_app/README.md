@@ -3,16 +3,9 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 Use the toggle lists below to receive detailed instructions on the steps that need to be taken for each file. Contact [Tobias Pauls](mailto:tobias.pauls@ifaar.rwth-aachen.de) for additional information or assistance.
 
-### Data Pipeline
+### Shiny App
 
-<details>
-  <summary>Using bundles with *bundles.yml*</summary>
-  
-1. Choose a bundle in the bundles.yml file
-2. Type the name of the bundle (leftmost indentation of the tree) in line 42 `use_bundle` in the config.yml file. 
-3. Set the path to the directory of the **!!!INSERT!!!** in the config.yml file.
-
-</details>
+The app.R file launches the Shiny application containing both the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021)
 
 <details>
   <summary>Using an individual setting in *config.yml*</summary>
@@ -22,11 +15,6 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
 3. Save the config.yml file.
 
 </details>
-
-## Shiny App
-
-The app.R file launches the Shiny application containing both the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021)
-
 
 ## Shiny App (Scatterplot)
 
