@@ -7,25 +7,30 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 Over the decades, learner corpora have covered a variety of languages and proficiency levels. In English as a Foreign Language (EFL) classes in Germany, students in upper secondary school encounter recurring tasks in their exams anchored in curricular requirements regarding targeted text types and register knowledge. The *SEEFLEX* was developed as a pedagogical resource to understand how students complete these tasks linguistically and whether they meet these requirements. *SEEFLEX* contains data from 575 transcribed authentic curriculum-based examinations (1979 texts, ~625.000 words). The meta-data include standardized receptive vocabulary assessments, a cognition scale, the participants’ reading habits and their language experience and proficiency and social background. Extensive ```xml```mark-up was added to investigate e.g. influence of source material and language mistakes. This online supplement provides full-text access as well as ample additional resources.
 
+
 ## Data
 
 The data folder contains the following files:
 - The ```xml```-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021).
 - The meta-data including all variables and test scores.
-- The output from the feature extraction (Neumann and Evert, 2021) using the features derived from register theory in Neumann (2014).
+- The output from the feature extraction described in Neumann and Evert (2021) using the features derived from register theory in Neumann (2014).
+- The data needed to run the Shiny applications (see below)
+
 
 ## Code
 
 The code contained in this online supplement comes with three main features: 
-1. A data pipeline for various analyses.
-2. Material for a GMA analysis (Neumann and Evert, 2021)
-3. A Shiny application containing both the scatterplot viewer and the feature weights viewer developed in Neumann & Evert (2021)
+- A data pipeline for various analyses.
+- Material for a GMA analysis (Neumann and Evert, 2021)
+- A Shiny application containing both the scatterplot viewer and the feature weights viewer developed in Neumann & Evert (2021)
+
 
 ## Output
 
 The output section contains exemplary figure output. Consecutive versions will include e.g. further analyses and output data.
 
-### References
+
+## References
 
 - Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
 - Neumann, S. (2014)
