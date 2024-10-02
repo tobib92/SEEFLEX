@@ -9,6 +9,7 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
   <summary>Using bundles with bundles.yml</summary>
 
 [config.yml](config.yml)
+
 1. Choose a bundle in the bundles.yml file
 2. Type the name of the bundle (leftmost indentation of the tree) in line 42 `use_bundle` in the config.yml file. 
 3. Set the path to the directory of the **!!!INSERT!!!** in the config.yml file.
@@ -18,8 +19,9 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
 <details>
   <summary>Using an individual setting in config.yml</summary>
   
-[config.yml](config.yml)
-1. Set the path to the directory of the **!!!INSERT!!!** in the config.yml file.
+
+
+1. Set the path to the directory of the **!!!INSERT!!!** in the [config.yml](config.yml) file.
 2. Go through the mark-up elements below `text_cleaning` and choose `true` or `false` using the comments as guide (e.g. `remove_quotes: false` = quotes are not removed)
 3. Save the config.yml file.
 
