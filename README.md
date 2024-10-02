@@ -17,6 +17,11 @@ The data folder contains the following files:
 - The data needed to run the Shiny applications (see below)
 
 
+## Resources
+
+- The SEEFLEX can be used for research purposes using CQPweb at RWTH Aachen University. For access, please contact [Tobias Pauls](mailto:tobias.pauls@ifaar.rwth-aachen.de).
+- The SEEFLEX Shiny applications can be viewed [here](https://seeflex.otc.coscine.dev).
+
 ## Code
 
 The code contained in this online supplement comes with three main features: 
