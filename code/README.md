@@ -7,7 +7,11 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 > code/data pipeline/README.md
 
-The data pipeline provides various options to (pre-)process the data for different analyses. The files are:
+The data pipeline provides various options to (pre-)process the data for different analyses. Some of the output may already provide the corpus in the correct format. The files are:
+
+| Filename | Function      |
+|:--------:| -------------:|
+| centered | right-aligned |
 
 - collapse.R (Collapsing all corpus xml-files into one plain text file with individual text IDs)
 - config.yml (**Configuration of corpus files for individual text output**)
