@@ -7,17 +7,20 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 > code/data pipeline/README.md
 
-The data pipeline provides various options to (pre-)process the data for different analyses. Some of the output may already provide the corpus in the correct format. The files are:
+The data pipeline provides various options to (pre-)process the data for different analyses. Some of the output may already provide the corpus in the correct format. The table below gives a brief description of the files' purpose in *SEEFLEX*:
 
 | Filename | Function      |
-|:--------:| -------------:|
-| centered | right-aligned |
+|:--------| :-------------|
+| bundles.yml | (See also: config.yml, export_files.R) The bundles file gives the option to set options for the ```xml``` manipulation and save them in presets. The presents can then be selected in the config.yml file |
+| collapse.R | Collapses all corpus xml-files into one plain text file with individual text IDs as attributes inside a ```<text>``` tag. This is needed for encoding the corpus inside a local CQP  environment[^1]. |
+| config.yml|(**Configuration of corpus files for individual text output**) |
+| config_manager.R | (Configuration manager storing code on mark-up manipulation) |
+| export_files.R | (Exporting corpus as separate txt-files for further usage using the configuration of **config.yml**) |
+| meta_data.R | |
+| meta_utils.R | |
+| xml_manipulation.R ||
+| xml_utils.R | (Utilities file) |
 
-- collapse.R (Collapsing all corpus xml-files into one plain text file with individual text IDs)
-- config.yml (**Configuration of corpus files for individual text output**)
-- config_manager.R (Configuration manager storing code on mark-up manipulation)
-- export_for_nlp_tools.R (Exporting corpus as separate txt-files for further usage using the configuration of **config.yml**)
-- xml_utils.R (Utilities file)
 
 
 ### Shiny App (Scatterplot)
@@ -128,7 +131,7 @@ The [xml_manipulation file](code/data pipeline/xml_manipulation.R) provides func
 
 ### References
 
-- Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
+- [^1] Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
 - Garside, R. (1987). The CLAWS Word-tagging System. In R. Garside, G. Leech, & G. Sampson (Eds.), The computational analysis of English: A corpus-based approach (pp. 30–41). Longman.
 - Kyle, K., Crossley, S. A., & Berger, C. (2018). The tool for the analysis of lexical sophistication (TAALES): Version 2.0. Behavior Research Methods 50(3), pp. 1030-1046. https://doi.org/10.3758/s13428-017-0924-4
 - Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
