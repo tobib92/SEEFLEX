@@ -11,6 +11,10 @@ scatterplot_ui <- function(id) {
     titlePanel("SEEFLEX: Scatterplots of latent dimensions"),
     sidebarLayout(
       sidebarPanel(
+        helpText("NB: The Shiny applications are based on the work by Stephanie Evert
+                 and Stella Neumann (Neumann & Evert, 2021). The code can be accessed",
+                 tags$a(href = "https://www.stephanie-evert.de/PUB/NeumannEvert2021/", "here")),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         radioButtons(
           ns("lda"), NULL,
           choices = c(
@@ -36,7 +40,7 @@ scatterplot_ui <- function(id) {
           selected = "grade", inline = TRUE
         ),
         checkboxInput(ns("ellipses"), "confidence ellipses", value = TRUE),
-        tags$hr(style = "height: 3px; background: #DDD;"),
+        tags$hr(style = "height: 2px; background: #DDD;"),
 
         conditionalPanel(
           condition = ns("granularity") == 'n14',
@@ -86,7 +90,7 @@ scatterplot_ui <- function(id) {
         #                  checkboxGroupInput("show_textcat32", "text categories",
         #                                     choices=label2cat.32, selected=label2cat.32,
         #                                     inline=TRUE)),
-        tags$hr(style = "height: 3px; background: #DDD;"),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         sliderInput(ns("pointsize"), "point size",
           min = 1, max = 6, value = 4, step = .1
         ),
@@ -106,11 +110,11 @@ scatterplot_ui <- function(id) {
           # "data-toggle" = "button")),
           downloadButton(ns("download_plot"), "Download Interactive Plot", icon("download"), disabled = FALSE)
         ),
-        tags$hr(style = "height: 3px; background: #DDD;"),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         selectInput(ns("preset"), "choose a preset:",
           choices = scatterplot_presets.choices, selected = "default"
         ),
-        tags$hr(style = "height: 3px; background: #DDD;"),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         downloadButton(ns("save_preset"), "Save Preset", icon("download"), disabled = TRUE),
         checkboxGroupInput(ns("save_preset_options"), "",
           choices = c(

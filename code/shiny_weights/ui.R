@@ -13,6 +13,10 @@ weights_ui <- function(id) {
     #             HTML("<strong>Alert box</strong>")))),
     sidebarLayout(
       sidebarPanel(
+        helpText("NB: The Shiny applications are based on the work by Stephanie Evert
+                 and Stella Neumann (Neumann & Evert, 2021). The code can be accessed",
+                 tags$a(href = "https://www.stephanie-evert.de/PUB/NeumannEvert2021/", "here")),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         radioButtons(
           ns("lda"), NULL,
           choices = c("14-cat LDA" = "lda14", "25-cat LDA" = "lda25"),
