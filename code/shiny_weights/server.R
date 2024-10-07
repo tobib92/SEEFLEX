@@ -292,22 +292,8 @@ generate_densities_plot <- function(input, Data, dim_label, c14_corp.vec, c25_co
 #' @return A character string with the filename
 weights_generate_pdf_filename <- function(input) {
   cat.list <- switch(input$granularity,
-     n14 = {
-        all_selected <- setequal(input$show_OPERATOR.14, label_cat.operator.14)
-        if (all_selected) {
-          "all"
-        } else {
-          cat_label.operator.14[input$show_OPERATOR.14]
-        }
-      },
-      n25 = {
-        all_selected <- setequal(input$show_OPERATOR.25, label_cat.operator.25)
-        if (all_selected) {
-          "all"
-        } else {
-          cat_label.operator.25[input$show_OPERATOR.25]
-        }
-      }
+    n14 = label_cat.operator.14[input$show_OPERATOR.14],
+    n25 = label_cat.operator.25[input$show_OPERATOR.25]
   )
   if (length(cat.list) > 0) {
     cat.info <- sprintf(

@@ -72,7 +72,7 @@ weights_ui <- function(id) {
         #              choices = c("all", levels(seeflex_meta$GRADE)),
         #              selected="all",
         #              inline=TRUE),
-        tags$hr(style = "height: 3px; background: #DDD;"), # horizontal line
+        tags$hr(style = "height: 2px; background: #DDD;"), # horizontal line
         radioButtons(ns("plot_size"), "display size",
           choices = c("S", "M", "L", "XL"), selected = "M",
           inline = TRUE
@@ -86,12 +86,12 @@ weights_ui <- function(id) {
           ns("use_ylim_disc"), "set y-axis limit for discriminant plots",
           value = FALSE
         ),
-        tags$hr(style = "height: 3px; background: #DDD;"), # horizontal line
+        tags$hr(style = "height: 2px; background: #DDD;"), # horizontal line
         selectInput(ns("preset"), "choose a preset:",
           choices = weights_presets.choices, selected = "default"
         ),
         downloadButton(ns("downloadPDF"), "Download PDF", icon("download"), disabled = TRUE),
-        tags$hr(style = "height: 3px; background: #DDD;"),
+        tags$hr(style = "height: 2px; background: #DDD;"),
         downloadButton(ns("save_preset"), "Save Preset", icon("download"), disabled = TRUE),
         checkboxGroupInput(ns("save_preset_options"), "",
           choices = c("include all operator selections" = "allcat"),

@@ -6,7 +6,7 @@ mk.map <- function(x, y) structure(y, names = x)
 inverse.map <- function(x) mk.map(x, names(x))
 
 max.files <- 1000 # how many plots can be cached (ca. 0.2 MB / plot)
-persistent_cache <- TRUE # set to FALSE for development
+persistent_cache <- FALSE # set to FALSE for development
 if (persistent_cache) {
   # cache up to 1000 plots = ca. 200 MB
   shinyOptions(cache = diskCache("./cache", max_n = max.files))

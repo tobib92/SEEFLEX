@@ -15,9 +15,6 @@ WD <- group_operators(meta = WD)
 # Read the raw meta data table
 MD <- read_delim("../../data/meta_data_anon.csv", delim = ",")
 
-# Clean the meta data file
-MD <- clean_meta(MD)
-
 # Calculate the scores for the English LexTALE
 MD <- calculate_lextale(meta = MD, words = "LexTALE.eng.w",
                         nonwords = "LexTALE.eng.nw", score = "LexTALE.ENG")
