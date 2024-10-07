@@ -40,7 +40,7 @@ The heart of the *SEEFLEX* are the ```xml```files containing the student writing
 </TEI>
 ```
 
-The body of the text may be preceded by a header if the task warrants it. The `xml`structure in the *SEEFLEX* is needed for various scripts to work. If the desired output are plain text files, the [export_files](./code/data_pipeline/export_files.R) script will export the entire to an output directory.
+The body of the text may be preceded by a header if the task warrants it. The `xml`structure in the *SEEFLEX* is needed for various scripts to work. If the desired output are plain text files, the [export_files](../code/data_pipeline/export_files.R) script will export the entire to an output directory.
 
 ## Meta-data
 
