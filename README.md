@@ -27,7 +27,7 @@ The data folder contains the following files:
 
 The code contained in this online supplement comes with three main features: 
 - A data pipeline for various analyses.
-- Material for a GMA analysis (Neumann and Evert, 2021)
+- Scripts to generate sample plots of the data.
 - A Shiny application containing both the scatterplot viewer and the feature weights viewer developed in Neumann & Evert (2021)
 
 
@@ -39,6 +39,6 @@ The output section contains exemplary figure output. Consecutive versions will i
 ## References
 
 - Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
-- Neumann, S. (2014)
+- Neumann, S. (2014). Contrastive Register Variation: A Quantitative Approach to the Comparison of English and German. Trends in Linguistics. Studies and Monographs: Vol. 251. Mouton de Gruyter.
 - Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
 - The TEI Consortium. (2021). TEI P5: Guidelines for Electronic Text Encoding and Interchange (Version 4.3.0.). https://tei-c.org/Vault/P5/4.3.0/doc/tei-p5-doc/en/Guidelines.pdf
