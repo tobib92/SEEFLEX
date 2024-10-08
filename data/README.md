@@ -42,11 +42,18 @@ The heart of the *SEEFLEX* are the ```xml```files containing the student writing
 
 The body of the text may be preceded by a header if the task warrants it. The `xml`structure in the *SEEFLEX* is needed for various scripts to work. If the desired output are plain text files, the [export_files.R](../code/data_pipeline/export_files.R) script will export the entire to an output directory.
 
+
 ## Meta-data
 
-The meta-data in the *SEEFLEX* contain the information gained from the contact session with the participants
+The meta-data in the *SEEFLEX* contain the information gained from the contact session with the participants. They include background information, language assessment, and learning habits. student responses in the language and learning habit assessments are in their raw format. To use the data in R and calculate the, the [meta-data](meta_data_anon.csv) file can be loaded with the [meta-data](../code/data_pipeline/meta_data.R) script. The data can be exported from there.
+
+
+## Shiny data
+
+The [Shiny applications](../README.md#L23) refer to data contained in two .rda files. Both of them are required for the applications to be run locally. The [data](20240903_data.rda) file contains basic information on the corpus, the meta-data needed to filter the output, and the required labels etc. The [shiny_data](20240905_shiny_data.rda) file contains the calculations done with the methodology introduced in Neumann and Evert (2021). The necessary information can be found [here](https://www.stephanie-evert.de/PUB/NeumannEvert2021/).
 
 
 ## References
 
+- Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
 - The TEI Consortium. (2021). TEI P5: Guidelines for Electronic Text Encoding and Interchange (Version 4.3.0.). https://tei-c.org/Vault/P5/4.3.0/doc/tei-p5-doc/en/Guidelines.pdf

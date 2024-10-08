@@ -1,6 +1,8 @@
 current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
 setwd(current_working_dir)
 
+library(xlsx)
+
 source("meta_utils.R")
 source("xml_utils.R")
 
@@ -36,3 +38,10 @@ MD <- normalize_sum_scores(meta = MD, pattern = "EXPO\\.[A-Z]+",
 
 # Calculate the score for the Need for Cognition Scale
 MD <- calculate_nfc(meta = MD, pattern = "PERS[1-9]{1,2}")
+
+
+# Write the data to a file
+## .xlsx
+# write.xlsx(x = MD, file = "../../data/meta_data_output.xlsx")
+## .csv
+# write.csv(x = MD, file = "../../data/meta_data_output.csv")
