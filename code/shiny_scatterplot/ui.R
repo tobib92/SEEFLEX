@@ -13,7 +13,7 @@ scatterplot_ui <- function(id) {
       sidebarPanel(
         helpText("NB: The Shiny applications are based on the work by Stephanie Evert
                  and Stella Neumann (Neumann & Evert, 2021). The code can be accessed",
-                 tags$a(href = "https://www.stephanie-evert.de/PUB/NeumannEvert2021/", "here")),
+                 tags$a(href = "https://www.stephanie-evert.de/PUB/NeumannEvert2021/", "here.")),
         tags$hr(style = "height: 2px; background: #DDD;"),
         radioButtons(
           ns("lda"), NULL,
@@ -45,7 +45,7 @@ scatterplot_ui <- function(id) {
         conditionalPanel(
           condition = ns("granularity") == 'n14',
           checkboxGroupInput(
-            ns("show_OPERATOR.14"), "operators",
+            ns("show_OPERATOR.14"), "operators 14",
             choices = label_cat.operator.14,
             selected = label_cat.operator.14, inline = TRUE
           )
@@ -53,7 +53,7 @@ scatterplot_ui <- function(id) {
         conditionalPanel(
           condition = ns("granularity") == 'n25',
           checkboxGroupInput(
-            ns("show_OPERATOR.25"), "operators",
+            ns("show_OPERATOR.25"), "operators 25",
             choices = label_cat.operator.25,
             selected = label_cat.operator.25, inline = TRUE
           )

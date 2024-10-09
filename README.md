@@ -1,5 +1,18 @@
 # SEEFLEX
+The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
+
 Version 0.1.0
+
+**Author:** Tobias Pauls
+**Contact:** tobias.pauls@ifaar.rwth-aachen.de
+
+[![DOI:10.5281/zenodo.13906356](http://img.shields.io/badge/DOI-10.5281/zenodo.13906356-#00559f.svg)](https://doi.org/10.5281/zenodo.13906356)
+
+This repository contains the complete dataset, various scripts for data manipulation, as well as supplementary resources for the Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams (SEEFLEX).
+
+Corpus citation:
+Pauls, T. (2024). SEEFLEX - The Corpus of Secondary English as a Foreign Language (EFL) Exams (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13906356
+
 
 ## Decription
 

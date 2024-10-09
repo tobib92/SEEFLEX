@@ -32,12 +32,14 @@ clean_meta <- function(meta) {
                           EXPO.SELFSTUDY, EXPO.TV, EXPO.SOCIALMEDIA,
                           EXPO.MUSIC),
                      ~ replace(., is.na(.), 0)) %>%
+    # fix some data type issues
+    mutate(across(c(ENG.COURSE, GER.COURSE), as.character)) %>%
     # replace 1 with GK
     dplyr::mutate_at(vars(ENG.COURSE, GER.COURSE),
-                     ~str_replace_all(., 1, "GK")) %>%
+                     ~str_replace_all(., "1", "GK")) %>%
     # replace 2 with LK
     dplyr::mutate_at(vars(ENG.COURSE, GER.COURSE),
-                     ~str_replace_all(., 2, "LK"))
+                     ~str_replace_all(., "2", "LK"))
 
   return(meta)
 
