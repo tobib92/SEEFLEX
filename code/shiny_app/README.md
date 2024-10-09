@@ -3,7 +3,7 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 ## Shiny App
 
-Within the [app.R](app.R) file, the application can be launched. In the top pane, users can switch between the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021). Alternatively, the applications can be viewed here. 
+Within the [app.R](app.R) file, the application can be launched. In the top pane, users can switch between the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021). Alternatively, the applications can be viewed [here](https://seeflex.otc.coscine.dev/). 
 
 
 
