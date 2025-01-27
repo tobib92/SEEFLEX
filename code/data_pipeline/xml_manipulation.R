@@ -42,11 +42,12 @@ rename_xml_files_in_directory <- function(input_directory, output_directory) {
 
     ### INSERT YOUR PARAMETERS HERE ###
     rename_xml_content(xml_nodes = xml_nodes, namespaces = namespaces,
-                       node_old = "####",
-                       node_new = "####",
-                       type = "",
-                       attr_old = "####",
-                       attr_new = "####")
+                       node_old = "s//d1:s",
+                       node_new = "qs",
+                       type = "node",
+                       attr_old = NULL,
+                       attr_new = NULL
+                       )
 
     # create an output file
     output_file <- create_output_path(filepath = file,
@@ -56,6 +57,9 @@ rename_xml_files_in_directory <- function(input_directory, output_directory) {
     write_xml(xml_nodes, file = output_file)
 
   }
+  
+  print("All nodes were renamed in the corpus files.")
+  
 }
 
 ### INSERT YOUR PARAMETERS HERE ###
@@ -82,14 +86,17 @@ replace_xml_files_in_directory <-  function(input_directory,
     namespaces <- parsed_file$namespaces
 
     ### INSERT YOUR PARAMETERS HERE ###
-    replace_xml_content(xml_nodes = xml_file, namespaces = namespaces,
-                        node = "",
-                        attr = "",
-                        type = "",
-                        extent = "",
-                        content = "",
-                        regex = "",
-                        direction = "")
+    replace_xml_content(
+      xml_nodes = xml_file, namespaces = namespaces,
+      node = "", # The name of the attribute (do not add xPath language!)
+      attr = "", # The name of the attribute (do not add xPath language!)
+      type = "", # The type of object: either "node" or "attribute"
+      extent = "", # The extent of the replacement: either "all" or "part"
+      content = "", # The content to be replaced in the node/attribute
+      regex = "", # A character string or regex pattern that captures the old
+      # content that is to be kept in the replaced node/attribute
+      direction = "" # The paste direction for content and regex: "cr" or "rc"
+      )
 
     # Create an output file for each file
     output_file <- create_output_path(filepath = file,
@@ -97,6 +104,8 @@ replace_xml_files_in_directory <-  function(input_directory,
 
     # Write new file to the output file path
     write_xml(xml_file, file = output_file)
+
+    print(paste("Replaced xml content accordingly in file", output_file))
 
   }
 

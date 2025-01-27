@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g08_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <name type="misc">Brexit</name> is a big discussed topic and many people gave a <choice><orig>speach</orig><reg>speech</reg></choice> about it.</s>
+        <s>Today I will comment on the assumption that <quote><name type="misc">Brexit</name> is clearly a lose-lose situation for both</quote> <ref target="c11gk2_1" type="line">(ll. 21f.)</ref> out of <ref target="c11gk2_1" type="speaker">Michel Barnier's</ref> speech.</s>
+      </p>
+      <p>
+        <s>In my opinion this assumption is right and wrong at the same time because there are aspects for both sides.</s>
+      </p>
+      <p>
+        <s>First I will <choice><orig>tak</orig><reg>talk</reg></choice> about the arguments against this assumption.</s>
+      </p>
+      <p>
+        <s>First of all mayn people voted for the <name type="misc">Brexit</name> so they did not see a lose-lose situation in that for <choice><orig>themselfe</orig><reg>themselves</reg></choice>, they probably think it is a win-win situation, <choice><orig>especialy</orig><reg>especially</reg></choice> for them.</s>
+        <s>Also they are ways to help each other, so that it does not is just a lose situation for both sides.</s>
+        <s>Maybe the close relationship is really good for all people.</s>
+      </p>
+      <p>
+        <s>But I think there are also a lot of arguments for the assumption.</s>
+        <s>Many of them are in the speech like the problem with the costs, so that it will cost much and that they will get higher, the <choice><orig>difficlutes</orig><reg>difficulties</reg></choice> with the trading and the impacts on that much things.</s>
+        <s>Also many people, <choice><orig>espacially</orig><reg>especially</reg></choice> the people who voted against the <name type="misc">Brexit</name>, will lose their jobs because they are in or connected with the <name type="misc">EU</name>.</s>
+        <s>It is also more difficult to travel in or out of the <name type="geo">UK</name>, which is very bad because many people <choice><orig>likes</orig><reg>like</reg></choice> to do their holidays there or visit family who <choice><orig>live</orig><reg>lives</reg></choice> there.</s>
+        <s>Even if more people votes for the <name type="misc">Brexit</name> I think that the votes against this are stronger, because many young people, who <choice><orig>has</orig><reg>have</reg></choice> to live with this decision voted against it and the people, who voted for it are more older people who will not live long with that or it does not affect their life that much.</s>
+      </p>
+      <p>
+        <s>All in all there are more and stronger arguments for that assumption and the <name type="misc">Brexit</name> is a lose-lose situation for most of the people in the <name type="geo">UK</name>.</s>
+        <s>Also the economic has a lose-lose situation by that in the <name type="misc">EU</name> and <name type="geo">UK</name>.</s>
+        <s>And even if there are ways to make everything better it is just more work than just let it how it was.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After summarising the argument that is taking place between <ref target="c12gk3_1" type="character">Macbeth</ref> and <ref target="c12gk3_1" type="character">Lady Macbeth</ref>, it is important to analyse how <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to persuade her husband.</s>
+      </p>
+      <p>
+        <s>For that it is necessary to look at her choice of words including stylistic devices.</s>
+      </p>
+      <p>
+        <s>During the argument with her husband <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is using many stylistic devices.</s>
+        <s>For <choice><orig>exemple</orig><reg>example</reg></choice> in line 16 and 18 where she compares her husband with a coward and in line 18 where she compares the acting of <ref target="c12gk3_1" type="character">Macbeth</ref> with the acting of a cat which wanted fish but would not get her paws wet.</s>
+        <s>So <ref target="c12gk3_1" type="character">Macbeth</ref> wants to get <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Cawdor</name> but he does not want to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>These both similes that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses <choice><orig>makes</orig><reg>make</reg></choice> the reader clear about the fear of <ref target="c12gk3_1" type="character">Macbeth</ref> and makes the text more understandable for the reader.</s>
+      </p>
+      <p>
+        <s>With the sentence <quote>And, to be more than what you were, you would be so much more the man.</quote> <ref target="c12gk3_1" type="line">(ll. 27-28)</ref>.</s>
+        <s>She would motivate <ref target="c12gk3_1" type="character">Macbeth</ref> to kill the present king because then he would be more than he is at that point, so he would be a man then.</s>
+      </p>
+      <p>
+        <s>In the lines 35 and 36 she uses a simile <quote>[...] had I sworn as you have done to this</quote> <ref target="c12gk3_1" type="line">(ll. 35f.)</ref>.</s>
+        <s>She says that it is not brave to give up things that have been swear before and that it is important to show the people that you can do this, so that you are able to do this with all your heart and motivation.</s>
+        <s>This simile <choice><orig>highlight</orig><reg>highlights</reg></choice> the wish of <ref target="c12gk3_1" type="character">Lady Macbeth</ref> that her husband should not give up his dreams because of his own fear but that he should fight for them.</s>
+      </p>
+      <p>
+        <s>The antithesis <quote><qs>We fail!</qs><qs> [...] And we'll not fail</qs></quote> <ref target="c12gk3_1" type="line">(ll. 39-41)</ref> shows that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is hardly trying to persuade her husband.</s>
+        <s>It shows her own insecurity of the plan and that she also does not know if the plan is a good idea.</s>
+      </p>
+      <p>
+        <s>In the lines 45 to 46 she uses a metaphor <quote>the warder of the brain shall be a fume [...]</quote>.</s>
+        <s>With the help of this stylistic device she illustrates a picture so that the reader gets included and <choice><orig>have</orig><reg>has</reg></choice> to think about it.</s>
+        <s>It means that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> makes the <choice><orig>guarder</orig><reg>guard</reg></choice> of <ref target="c12gk3_1" type="character">Duncan</ref> so drunk that their brain does not know what is happened it that time.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses a lot of stylistic devices to emphasize her wish and also her opinion.</s>
+        <s>All the stylistic devices <choice><orig>helps</orig><reg>help</reg></choice> the reader to <choice><orig>unterstand</orig><reg>understand</reg></choice> the text and to make it to him more varied and interesting.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

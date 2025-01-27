@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g11_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref><choice><orig>want's</orig><reg>wants</reg></choice> to fight for the <choice><orig>Amarican</orig><reg>American</reg></choice> dream.</s>
+        <s>He <choice><orig>sais</orig><reg>says</reg></choice> <choice><orig>thats</orig><reg>that's</reg></choice> not important if you are black and <choice><orig>whit</orig><reg>white</reg></choice> <choice><orig>ore</orig><reg>or</reg></choice> young and old <choice><orig>ore</orig><reg>or</reg></choice> men and women.</s>
+        <s>Also he <choice><orig>sas</orig><reg>says</reg></choice> that all Americans should share the same <choice><orig>fait</orig><reg>faith</reg></choice> in simple dreams and that for example a job with <gap reason="illegible" quantity="1" unit="word">tert</gap> can support a family.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

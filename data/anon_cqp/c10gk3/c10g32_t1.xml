@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g32_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means that <name type="person">Reece</name> knows what is his grandparents experienced in her life and he knows why his life is sometimes harder <choice><orig>then</orig><reg>than</reg></choice> others.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means that the story has in this time a meaning for the black community.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>The leaders and artists know what the young black Britains experience because they experienced this too and they want to help them.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means that <choice><orig>Black</orig><reg>black</reg></choice> people experienced they own journey to find a place in the <choice><orig>british</orig><reg>British</reg></choice> society and now they are more accepted than before.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>Black peole are thankful about her journey, because they picked up lots of experiences and they think that in the future it becomes still better for them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

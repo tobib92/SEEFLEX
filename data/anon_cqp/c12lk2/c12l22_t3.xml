@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12l22_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Speaker A</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Speaker B</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s>Hey, how was your weekend?</s>
+      </u>
+      <u who="B">
+        <s>It was nice, I've read a lot and discovered this play called <name type="misc">Macbeth</name> from <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name>.</s>
+        <s>It's such a great literature.</s>
+      </u>
+      <u who="A">
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name>?</s>
+        <s>Isn't this the guy that wrote <name type="misc">Romeo and Juliet</name>?</s>
+      </u>
+      <u who="B">
+        <s>Yes he is!</s>
+        <s>Did <choice><orig>u</orig><reg>you</reg></choice> read it?</s>
+        <s>
+          <kinesic>
+            <desc>excited</desc>
+          </kinesic>
+        </s>
+      </u>
+      <u who="A">
+        <s>Yeah sadly.</s>
+        <s>I was forced in school!</s>
+        <s>They should stop teaching kids this <choice><orig>unrelevant</orig><reg>irrelevant</reg></choice> and overly difficult boring stuff in school!</s>
+      </u>
+      <u who="B">
+        <s>What?</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is such a great author.</s>
+        <s>How can <choice><orig>u</orig><reg>you</reg></choice> say that?</s>
+        <s>He wrote significant and great plays that are still very important today.</s>
+      </u>
+      <u who="A">
+        <s>Important?</s>
+        <s>What is so important in a confusing language that just nobody cares about anymore?</s>
+      </u>
+      <u who="B">
+        <s>I care!</s>
+        <s><name type="person"><choice><orig>William Shakespear</orig><reg>William Shakespeare</reg></choice></name> invented over 1000 new words and was a genius in using metaphors that you'll easy picture in your mind.</s>
+      </u>
+      <u who="A">
+        <s>But how will some not understandable language help children for their future jobs?</s>
+        <s>School should teach significant stuff.</s>
+        <s>Especially in other countries, when they just try to learn normal <choice><orig>english</orig><reg>English</reg></choice> and are confronted with this nonsense!</s>
+      </u>
+      <u who="B">
+        <s>It is not <choice><orig>nonsene</orig><reg>nonsence</reg></choice>.</s>
+        <s>And to <choice><orig>reffer</orig><reg>refer</reg></choice> to your point of view.</s>
+        <s>Okay I agree, the language is difficult but it shows how language can <choice><orig>evolved</orig><reg>evolve</reg></choice> in ca.</s>
+        <s>500 years and students learn also about their history.</s>
+        <s>And if they need to read something in school regardless, they shouldd learn something with it.</s>
+      </u>
+      <u who="A">
+        <s>I hate to admit it, but this sounds kinds plausible.</s>
+        <s>Maybe <choice><orig>u're</orig><reg>you're</reg></choice> right.</s>
+        <s>But still, it should be chosen by the students what they <choice><orig>wanna</orig><reg>want to</reg></choice> read.</s>
+        <s>But I'm sorry if I hurt <choice><orig>ur</orig><reg>your</reg></choice> feelings for insulting <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> <kinesic><desc>panicking</desc></kinesic>.</s>
+      </u>
+      <u who="B">
+        <s>It's alright.</s>
+        <s>But if <choice><orig>u</orig><reg>you</reg></choice> wanna start a fight again, I have plenty more arguments left <kinesic><desc>threatening</desc></kinesic>.</s>
+      </u>
+      <u who="A">
+        <s>No thanks.</s>
+      </u>
+    </body>
+  </text>
+</TEI>

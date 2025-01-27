@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l15_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sonnet 138 is written by<ref target="a12lk1_1" type="author">Shakespeare</ref> and talks about the main themes of love and time.</s>
+        <s>In the following, the speaker's train of thought, as well as the message of this particular sonnet will be described.</s>
+      </p>
+      <p>
+        <s>In the first quatrain, the speaker describes how his beloved woman claims to never lie and swears she always tells the truth, yet the speaker knows she's lying about what she is promising.</s>
+        <s>However, the speaker still believes her, however, with the thought in his/her beloved one may think they have never experienced youth and thus does not know about the world's false niceties.</s>
+        <s>In the second quatrain, the speaker claims that the beloved woman is trying to make the speaker appear young in their mind, yet fails.</s>
+        <s>Because the beloved one knows that the speaker is getting old and is out of his best days, meaning the days of youth, he/she is giving her credit for lying to him/her about the age.</s>
+        <s>The following quatrain changes the train of thought into questioning the beloved woman's action.</s>
+        <s>Here, the speaker is wondering why she is lying instead of saying the truth that she is unjust and about the speaker turning older.</s>
+        <s>Furthermore, the speaker states that in his/her opinion unconditional trust is the best habit when loving each other.</s>
+        <s>The finishing couplet describes how both, speaker and beloved one, no from <choice><orig>each others</orig><reg>each other's</reg></choice> lies and how both lie with each other.</s>
+        <s>He/She states that it is both of their fault that they keep on lying to each other, just to flatter the one they love.</s>
+        <s>The message given in the sonnet is that lying to beloved person may flatter them, yet they know the truth most of the time, which is why lying to them is not <choice><orig>neccessary</orig><reg>necessary</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

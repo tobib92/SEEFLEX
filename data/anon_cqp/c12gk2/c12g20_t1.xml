@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g20_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this extract out of the <choice><orig>shakespearen</orig><reg>Shakespearen</reg></choice> play <ref target="c12gk2_1" type="title">Macbeth</ref> the main character <name type="person">Macbeth</name> decides to not execute on his plan to murder <name type="person">King Duncan</name>, so he would become king as the three witches have foreseen, but his wife <name type="person">Lady Macbeth</name> tries to convince him, to go through with his plan.</s>
+      </p>
+      <p>
+        <s>The same starts with <name type="person">Lady Macbeth</name> confronting <name type="person">Macbeth</name> about leaving the dining chamber after <name type="person">Duncan</name> was about to finish his dinner.</s>
+        <s>He announces that he has decided against killing <name type="person">Duncan</name> because he is <choice><orig>contend</orig><reg>content</reg></choice> with his position.</s>
+        <s><name type="person">Lady Macbeth</name> then tries to pursuade him to go through with his plan, but he is still against it, stating that it is no good <choice><orig>think</orig><reg>thing</reg></choice> to do, but she goes on stating that it has to be done and calling <name type="person">Macbeth</name> a coward.</s>
+        <s>He then questions <choice><orig>wether</orig><reg>whether</reg></choice> they would get caught, whereon his wife explains to him that <name type="person">Duncan</name> will sleep and she made the guards drunk, so that they would also sleep then they would murder the king and but the bloody weapons on the gaurds so they will carry the blame for the murder.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

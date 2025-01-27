@@ -61,9 +61,11 @@ calculate_lextale <- function(meta, words, nonwords, score) {
   meta[[score]] <- ((meta[[words]] / 40 * 100) +
                       (meta[[nonwords]] / 20 * 100)) / 2
 
+  lextale_vars <- c(words, nonwords)
+  
   meta <- meta %>%
     dplyr::relocate(matches(score), .after = nonwords) %>%
-    dplyr::select(-words, -nonwords)
+    dplyr::select(-all_of(lextale_vars))
 
   return(meta)
 
@@ -103,6 +105,7 @@ calculate_vlt <- function(meta, pattern) {
 
 normalize_sum_scores <- function(meta, pattern, sum_column) {
 
+  sum_column <- sum_column
   selected_columns <- dplyr::select(meta, matches(pattern))
 
   for (column_name in names(selected_columns)) {
@@ -231,12 +234,24 @@ gather_text_info <- function(directory) {
                                         namespaces)
     task_number_name <- xml_text(task_number_node)
 
+    # extract the genre
+    genre_node <- xml_find_first(xml_file, "//d1:notesStmt//d1:note/@genre", namespaces)
+    genre_name <- xml_text(genre_node)
+
+    # extract the genre family
+    genre_family_node <- xml_find_first (xml_file, "//d1:notesStmt//d1:note/@genre_family",
+                                        namespaces)
+    genre_family_name <- xml_text(genre_family_node)
+
+    # create the data frame containing the information
     output_df <- rbind(output_df, data.frame(ID = student_name,
                                              SCHOOL = school_name,
                                              GRADE = grade_name,
                                              COURSE = course_name,
                                              TASK = task_name,
                                              OPERATOR = operator_name,
+                                             GENRE = genre_name,
+                                             GENRE_FAMILY = genre_family_name,
                                              TIME = time_name,
                                              TASK.NO = task_number_name))
   }
@@ -270,16 +285,22 @@ group_operators <- function(meta) {
       .$OPERATOR %in% "dialogue" ~ "creative",
       .$OPERATOR %in% "diary" ~ "creative",
       .$OPERATOR %in% "discuss" ~ "argumentative",
-      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "gk4") ~
+      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "a11gk4" &
+         .$TASK %in% "t3") ~ "argumentative",
+      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "a11gk4" &
+         .$TASK %in% "t4") ~ "mediation",
+      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "c10gk4") ~
         "argumentative",
       .$OPERATOR %in% "e-mail_informal" ~ "mediation",
       .$OPERATOR %in% "explain" ~ "int.reading",
       .$OPERATOR %in% "letter_formal" ~ "argumentative",
-      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "lk1") ~
+      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "c12lk1") ~
         "argumentative",
-      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "gk6") ~ "mediation",
+      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "a10gk6") ~
+        "mediation",
       .$OPERATOR %in% "magazine" ~ "mediation",
-      .$OPERATOR %in% "monologue" ~ "mediation",
+      # .$OPERATOR %in% "monologue" ~ "mediation",
+      .$OPERATOR %in% "interior_monologue" ~ "creative",
       .$OPERATOR %in% "blog" ~ "creative",
       .$OPERATOR %in% "news" ~ "mediation",
       .$OPERATOR %in% "outline" ~ "int.reading",
@@ -288,27 +309,30 @@ group_operators <- function(meta) {
       .$OPERATOR %in% "present" ~ "int.reading",
       .$OPERATOR %in% "report" ~ "mediation",
       .$OPERATOR %in% "soliloquy" ~ "creative",
+      (.$OPERATOR %in% "speech" & .$COURSE %in% "c10gk3") ~ "creative",
       .$OPERATOR %in% "speech" ~ "argumentative",
       .$OPERATOR %in% "story" ~ "creative",
-      .$OPERATOR %in% "summarize" ~ "int.reading"
+      .$OPERATOR %in% "summarize" ~ "int.reading",
+      .$OPERATOR %in% "sum_up" ~ "int.reading"
     )) %>%
     dplyr::mutate(OPERATOR.14 = dplyr::recode(.$OPERATOR,
                                        "outline" = 'summarize',
                                        "point_out" = 'summarize',
                                        "present" = 'summarize',
-                                       "report" = 'summarize',
+                                       # "report" = 'summarize',
                                        "discuss" = 'comment',
                                        "assess" = 'comment',
-                                       "explain" = 'comment',
+                                       "explain" = 'analyze',
                                        "news" = 'magazine',
                                        "letter_informal" = 'e-mail_informal',
-                                       "blog" = 'diary',
-                                       "soliloquy" = 'monologue')) %>%
+                                       "sum_up" = "summarize",
+                                       # "blog" = 'diary',
+                                       "soliloquy" = 'interior_monologue')) %>%
     dplyr::rename(OPERATOR.25 = OPERATOR) %>%
     dplyr::relocate(T.CURR, .after = TASK) %>%
     dplyr::relocate(OPERATOR.14, .after = T.CURR) %>%
-    dplyr::relocate(OPERATOR.25, .after = OPERATOR.14) %>%
-    dplyr::relocate(TASK.NO, .after = OPERATOR.25)
+    dplyr::relocate(OPERATOR.25, .after = OPERATOR.14)
+    # dplyr::relocate(TASK.NO, .after = OPERATOR.25)
 
 }
 

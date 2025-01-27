@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g46_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref> from the <name type="misc">The Telegraph</name> was written by the author <ref target="a12gk4_1" type="author">John Worne</ref> and published on the <date>27 January 2015</date> is about the fall of teenagers learning foreign <choice><orig>language</orig><reg>languages</reg></choice> in the last years in the <name type="geo">UK</name>.</s>
+        <s>In the following the <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> is going to be analyzed, in how far <ref target="a12gk4_1" type="author">John Worne</ref> presents his view and how he makes use of communicative strategies as well as use of language.</s>
+      </p>
+      <p>
+        <s>The author starts of with saying that more and more people choose to not study foreign languages <ref target="a12gk4_1" type="line">(cf. ll. 3-5)</ref> and that <quote>the number of UK students choosing to study foreign languages at university level has been in steady decline</quote> <ref target="a12gk4_1" type="line">(l. 3-5)</ref>.</s>
+        <s>With this sentence <ref target="a12gk4_1" type="author">Worne</ref> wants to introduce the reader into the topic and wants to point out the problem.</s>
+      </p>
+      <p>
+        <s>Moreover he makes use of inclusive language as he writes <quote>our collective brains</quote> <ref target="a12gk4_1" type="line">(l. 7)</ref> which has the effect that the reader feels more <choice><orig>adressed</orig><reg>addressed</reg></choice> and becomes clear of the problem that more people have to learn foreign languages or the reader himself too.</s>
+        <s>Then the author writes that there are more languages in the menu of primary schools <ref target="a12gk4_1" type="line">(cf. ll. 8-9)</ref> which is a good point but then quotes, that the uptake of languages at <name type="misc">CGSE</name> and <name type="misc">A-level</name> has also stalled <ref target="a12gk4_1" type="line">(cf.ll. 11-12)</ref> which shows that the schools have the same problem as the universities have and has the influence on the reader, that it is the fault of the schools too and not only the fault of the students by <choice><orig>do not</orig><reg>not</reg></choice> learning foreign languages enough.</s>
+        <s>After that the author points out that <quote>More than 10,000 fewer language A-level exams were taken last year than at the end of the 1990s</quote> <ref target="a12gk4_1" type="line">(l. 13-14)</ref>.</s>
+        <s>That shows the fall of <choice><orig>interests</orig><reg>interest</reg></choice> in foreign <choice><orig>language</orig><reg>languages</reg></choice> by the students.</s>
+        <s>In this case <ref target="a12gk4_1" type="author">Worne</ref> is able to show the reader the immense downfall of <choice><orig>interests</orig><reg>interest</reg></choice> in foreign languages.</s>
+      </p>
+      <p>
+        <s>In addition to this he also makes use of a rhetorical device, which is the comparison and shows the immense gap between the end of the <date>1990s</date> and today, in case of 10,000 fewer <name type="misc">A-level</name> exams <ref target="a12gk4_1" type="line">(cf.ll. 14)</ref>.</s>
+        <s>Moreover the author says that highly educated people say you do not have to worry <ref target="a12gk4_1" type="line">(cf.ll. 18)</ref> because they think everybody can speak English very well, which is in fact not true.</s>
+        <s>To make this more clear the author makes use of exclusive language <quote>they don't</quote> and points out that there are many people who <choice><orig>can not</orig><reg>cannot</reg></choice> speak English very well.</s>
+        <s>In addition to this he makes use of an example <quote>your iPhone will now translate road signs for you</quote> <ref target="a12gk4_1" type="line">(l. 20)</ref> which also makes clear that many people make use of technological devices and do not learn the foreign language anymore, which they will do in future too.</s>
+        <s>In addition to this he points out how important the foreign language in a globalized world is as he makes use of <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>Alltieration</orig><reg>alliteration</reg></choice> <quote>languages are essential for our trade, prosperity, culture exports, diplomacy and national security</quote> <ref target="a12gk4_1" type="line">(l. 26-27)</ref>.</s>
+        <s>That has the effect to reader that he gets the importance of the foreign language and maybe gets the message of the author, that you as a reader have to learn the foreign language.</s>
+        <s>Besides <ref target="a12gk4_1" type="author">Worne</ref> points out that some universities study in addition to the main subject a language <ref target="a12gk4_1" type="line">(cf.ll. 38)</ref>.</s>
+        <s>He gives a kind of solution to the reader.</s>
+        <s>In the end he quotes that more young people have to develop their <choice><orig>english</orig><reg>English</reg></choice> skills by also getting help by their parents (cf.ll. 45-51).</s>
+        <s>In this sentence he makes use of <choice><orig>an</orig><reg>a</reg></choice> personification <quote>the UK needs</quote> which tells the problem that in the <name type="geo">UK</name> are too many young people who can't speak a foreign language.</s>
+        <s>Moreover <ref target="a12gk4_1" type="author">Worne</ref> uses a metaphor <quote>childrens bows</quote> <ref target="a12gk4_1" type="line">(l. 50)</ref> to point out that the children and teenagers <choice><orig>can not</orig><reg>cannot</reg></choice> learn a foreign language by <choice><orig>themself</orig><reg>themselves</reg></choice>, they need the support and help by their parents.</s>
+        <s>He also includes himself by <choice><orig>say</orig><reg>saying</reg></choice> <quote>I'm one</quote> <ref target="a12gk4_1" type="line">(l. 46)</ref>, so the text is more authentic.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> does write in a neutral style and has a good choice of words for example <quote>cultural exports</quote> <ref target="a12gk4_1" type="line">(l. 26)</ref> or <quote>diplomacy</quote> <ref target="a12gk4_1" type="line">(l. 26)</ref> which makes the <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> more reliable.</s>
+        <s>Besides he makes use of hypotactic and paratactic sentences.</s>
+      </p>
+      <p>
+        <s>All in all one can say that <ref target="a12gk4_1" type="author">Worne</ref> has a clear structure and makes use of rhetorical devices to make his <choice><orig>newspaperarticle</orig><reg>newspaper article</reg></choice> more reliable.</s>
+        <s>Moreover he does have the clear opinion that yound people have to learn foreign languages and gives in the end a solution.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

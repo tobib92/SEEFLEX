@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l23_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Sam,</salute>
+      </p>
+      <p>
+        <s>Thank you for your e-mail!</s>
+      </p>
+      <p>
+        <s>Regarding your question, yes <name type="person">Shakespeare</name> still is played in German theatres!</s>
+      </p>
+      <p>
+        <s>Looking through the <name type="person">Märkische Allgmeine</name> of <date>April 23rd 2016</date>, I found an article by <ref target="a12lk2_2" type="author">Karim Saab</ref>, concerning why <choice><orig>Theatres</orig><reg>theatres</reg></choice> in <name type="geo">Brandenburg</name>, a state of <name type="geo">Germany</name>, decide to still play <name type="person">Shakespeare</name>.</s>
+        <s>He asked four different experts, the first being <name type="person">Mario Holetzeck</name> from the <name type="misc">Stadttheater Cottbus</name>.</s>
+        <s>He says that <name type="person">Shakespeare's</name> works are different.</s>
+        <s>They always surprise you, each time you see and find something  new in them, forcing you to think of new answers everytime.</s>
+        <s>His works are like a mirror that you can recognize yourself in.</s>
+      </p>
+      <p>
+        <s><name type="person">Tobias Wellemeyer</name> of the <name type="misc">Hans-Otto-Theatre</name> in <name type="geo">Potsdam</name> states that <name type="person">Shakespeare</name> influenced theatre like no one else by his poetic, complex and drastical description of the human abyss and with his one of a kind decriptions of love, envy, desire, hate and many more <choice><orig>wich</orig><reg>which</reg></choice> make him still relevant even today.</s>
+        <s><name type="person">Reinhard Simon</name> of the <name type="misc">Uckermärkischen Bühnen Schwedt</name> has a similar opinion.</s>
+        <s>In his opinion, <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> secret is the ability to evoke all feelings just with his words.</s>
+        <s>Furthermore are his plays written for a big audience and have something for everyone, <choice><orig>houmorous</orig><reg>humorous</reg></choice> scenes in <choice><orig>Tragedys</orig><reg>tragedies</reg></choice> and deeply tragic moments in <choice><orig>comedys</orig><reg>comedies</reg></choice> for example.</s>
+        <s>The last expert that <ref target="a12lk2_2" type="author">Saab</ref> interviewed was <name type="person">Igor Holland-Moritz</name> of the <name type="misc">Neuen Bühne Senftenberg</name>.</s>
+        <s><name type="person">Moritz</name> states that even the amount of works by <name type="person">Shakespeare</name> and the number of translations will not let you get around <name type="person">Shakespeare</name>.</s>
+        <s>He says that each time has <choice><orig>it's</orig><reg>its</reg></choice> own translation of <name type="person">Shakespeare</name> although his works are timeless.</s>
+        <s>So, <name type="person">Sam</name>, as you can see, in <name type="geo">Germany</name> <name type="person">Shakespeare's</name> plays are still played frequently and he still manages to amaze, even the four experts questioned in the interview.</s>
+      </p>
+      <p>
+        <s>I hope I could help you and good luck with your essay.</s>
+        <s>If you have any questions left, feel free to ask me.</s>
+        <s>Hoping to hear from you soon,</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

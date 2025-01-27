@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to convince the audience to take action against the climate change and to help our friends.</s>
+      </p>
+      <p>
+        <s>In the beginning of the speech the author compares a bomb with the climate change to illustrate the audience the issue <ref target="b12gk1_1" type="line">(l. 1-9)</ref>.</s>
+        <s>With sentences like <quote>We know what the scientists tell us, ...</quote> <ref target="b12gk1_1" type="line">(l. 9)</ref> the author uses inclusive language to get the audience into his point of view.</s>
+        <s>He also compares the audience and all other people with <name type="person">James Bond</name> <ref target="b12gk1_1" type="line">(l. 6)</ref>.</s>
+        <s>We are in the same position as <name type="person">James Bond</name> in his films but we have to find the right wire in real life to defuse or climate bomb.</s>
+        <s>The next paragraph informs about the useless plans of the meetings in <name type="geo">Copenhagen</name> <date>2010</date> and in <name type="geo">Paris</name> <date>2015</date>.</s>
+        <s>For <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> the plans were just <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref>.</s>
+        <s>In the following sentences the author says that we can <quote>deactivate that ticking doomsday device</quote> because we have the right technology <ref target="b12gk1_1" type="line">(l. 16)</ref>.</s>
+      </p>
+      <p>
+        <s>Furthermore he uses the inclusive words <quote>we can</quote> <ref target="b12gk1_1" type="line">(l. 16)</ref> two times in the same line.</s>
+        <s>With the repetition of these words the audience <choice><orig>feel</orig><reg>feels</reg></choice> confident to go against climate change.</s>
+      </p>
+      <p>
+        <s>In one of the next paragraphs <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> says that they have the opportunity to spend a lot of money to work together and to end the dependence on coal which is a bad fossil fuel <ref target="b12gk1_1" type="line">(l. 22-29)</ref>.</s>
+        <s>As well as in the other paragraph <ref target="b12gk1_1" type="speaker">Johnson</ref> uses inclusive language.</s>
+      </p>
+      <p><s>He also repeats the technology which is important to go against climate change <ref target="b12gk1_1" type="line">(l. 30)</ref>.</s><quote><s>We have the technology.</s><s>We can find the finance, ...</s></quote><ref target="b12gk1_1" type="line">(l. 30)</ref>. <s>With this anaphora combined with the inclusive language <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> <choice><orig>give</orig><reg>gives</reg></choice> the audience a way to think about climate change and some possible improvements.</s></p>
+      <p>
+        <s>In addition <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> is of the average age of the world leaders in <name type="geo">Glasgow</name> <ref target="b12gk1_1" type="line">(l. 35)</ref>.</s>
+        <s>He says <quote>the children who will judge us our children not yet born</quote> <ref target="b12gk1_1" type="line">(l. 38)</ref>.</s>
+        <s>With these words the audience can identify the issue as an issue for the next generations and for the future.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> also talks about his fear of a possible fail of the plans against climate change because the next generations will not forgive <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+      </p>
+      <p>
+        <s>In the end of the speech <ref target="b12gk1_1" type="speaker">Johnson</ref> repeats the bomb example and the importance of a begin of a fight against climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> uses a lot of inclusive language to create a community spirit.</s>
+        <s>He also uses a metaphor two times in his speech.</s>
+        <s>A <quote>doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 3)</ref> which should illustrate his example <quote>fluff out lines or muss our cue</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref> is the other metaphor which should give the audience an example to make his words more visible.</s>
+        <s>All in all one can say that <ref target="b12gk1_1" type="speaker">Boris Johnson's</ref> way of the try to convince the reader to take action against climate change is successful.</s>
+        <s>The fight against climate change is getting bigger every day in the entire world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

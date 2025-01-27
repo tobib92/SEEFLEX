@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This excerpt fromt the novel <ref target="b11gk1_1" type="title">Gun Love</ref>, which was written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in the year <date>2019</date>, is about the young girl <choice><orig>names</orig><reg>named</reg></choice> <ref target="b11gk1_1" type="character">Helen</ref> and her mysterious life, after <ref target="b11gk1_1" type="character">Pearl</ref> comes to the foster home.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a young girl.</s>
+        <s>She's eight years old <ref target="b11gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>She looks like a five <choice><orig>years</orig><reg>year</reg></choice> old <choice><orig>children</orig><reg>child</reg></choice> <ref target="b11gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>She's also a small person because she's so young <ref target="b11gk1_1" type="line">(l. 1-2)</ref>.</s>
+        <s>Besides she's a mysterious girl because nobody can follow her way of thinking <ref target="b11gk1_1" type="line">(l. 22-23)</ref>.</s>
+        <s>Also she talks much.</s>
+        <s>This shows us that she's doesn't a shy person <ref target="b11gk1_1" type="line">(l. 5)</ref>, but for the most people she's strange because she talks to herself in the third person, which shosw that she's different to other people and <choice><orig>particulary</orig><reg>particularly</reg></choice> at a children <ref target="b11gk1_1" type="line">(l. 17)</ref>.</s>
+        <s>Furthermore she's a lovefull person because she loves forehead kisses and <choice><orig>want's</orig><reg>wants</reg></choice> to call with her best friends.</s>
+        <s>This shows us that she's lovefull and open for relationships to other people and not a person, who <choice><orig>want's</orig><reg>wants</reg></choice> to <choice><orig>beeing</orig><reg>being</reg></choice> alone, but the fact that she's so young is also important for her lovefull personality <ref target="b11gk1_1" type="line">(l. 19 and 33-35)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> lived in many foster homes and doesn't really know something about her past and her origin family.</s>
+        <s>This probably means that she's maybe sad because she doesn't know her origin family and didn't get enough live because she moved into many foster homes and didn't live many years in a foster home <ref target="b11gk1_1" type="line">(l. 11-12 and 6)</ref>.</s>
+        <s>Also she tells many stories about her past which shows that she's not sure about her past and that she lived in <choice><orig>to</orig><reg>too</reg></choice> many foster homes <ref target="b11gk1_1" type="line">(l. 6-12)</ref>.</s>
+        <s>Furthermore <ref target="b11gk1_1" type="character">Helen</ref> is maybe a mature person for her age because she leaved often her homes and that is hard for a person and particularly for a young <choice><orig>children</orig><reg>child</reg></choice> <ref target="b11gk1_1" type="line">(l. 12)</ref>.</s>
+        <s>And maybe she's a sad person because she <choice><orig>want's</orig><reg>wants</reg></choice> to sleep forever and that <choice><orig>show's</orig><reg>shows</reg></choice> that she <choice><orig>want</orig><reg>wants</reg></choice> to be in her own world and not in the reality <ref target="b11gk1_1" type="line">(l. 19-20)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a young girl, so it's normal that she speaks children's language how <quote>bug-off</quote> <ref target="b11gk1_1" type="line">(l. 42)</ref>.</s>
+        <s>Also she talks much but she talks in third person to herself <ref target="b11gk1_1" type="line">(l. 17)</ref>.</s>
+        <s>She doesn't know something about her origin family and thinks that her foster home <choice><orig>familys</orig><reg>families</reg></choice> are her real family because she tells that she has two mothers and many brothers and sisters <ref target="b11gk1_1" type="line">(l. 6-10)</ref>.</s>
+        <s><choice><orig>Altough</orig><reg>Although</reg></choice> she very often moved out, she has many friends <ref target="b11gk1_1" type="line">(l. 33-35)</ref>.</s>
+        <s>She lives with <ref target="b11gk1_1" type="character">Pearl</ref> and <ref target="b11gk1_1" type="character">Leo</ref> but knows <ref target="b11gk1_1" type="character">Leo</ref> better because they lived longer together <ref target="b11gk1_1" type="line">(l. 22-23)</ref>.</s>
+        <s>But nobody of her friends and family <choice><orig>understand</orig><reg>understands</reg></choice> <ref target="b11gk1_1" type="character">Helen</ref>, which shows that she's maybe not happy about her relationships <ref target="b11gk1_1" type="line">(l. 12-13 and 22-23)</ref>.</s>
+        <s>With all these facts, it can say that maybe <ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen's</reg></choice></ref> problems are that she's not happy and maybe she <choice><orig>think's</orig><reg>thinks</reg></choice> that she hasn't a real identity because she doesn't have a <choice><orig>normel</orig><reg>normal</reg></choice> life and a normal family and <choice><orig>want's</orig><reg>wants</reg></choice> that.</s>
+        <s>The fact that she's dreaming of a <quote>white Christmas in Florida</quote> <ref target="b11gk1_1" type="line">(l. 18-19)</ref> shows that she only <choice><orig>want's</orig><reg>wants</reg></choice> a normal and happy life with a lovefull family.</s>
+      </p>
+      <p>
+        <s>Also the fact that she spoke to herself in the third person shows that she maybe hasn't a real identity.</s>
+      </p>
+      <p>
+        <s>To sum it up we can say that <ref target="b11gk1_1" type="character">Helen</ref> is a mysterious person for her age and doesn't feel like <choice><orig>a</orig><reg>an</reg></choice> important identity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

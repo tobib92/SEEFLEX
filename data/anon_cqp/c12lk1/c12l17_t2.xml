@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l17_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Firstly there is an alliteration in the first line, in which the word <quote>nor</quote> is repeated to define the strength of <quote>their power</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref>.</s>
+        <s>Secondly there are many adjectives in the sonnet such as <quote>sad mortality</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref> or <quote>wrackful siege</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref> that are mostly used to explain the sonnet more emotionally and in an artistic way.</s>
+        <s>This is also one reason why there are multiple personifications used, like in line five for example, in which summer's honey shall hold out its breath.</s>
+      </p>
+      <p>
+        <s>Of in line ten, where the jewel of time shall lie hidden in time's chest, which can also be seen as a personification.</s>
+      </p>
+      <p>
+        <s>Additionally there are two <choice><orig>antithesis</orig><reg>antitheses</reg></choice> in lines seven and eight, where the definition of rocks and gates of steel do not imply anymore: <quote>When rocks impregnable are not so stout, / Nor gates of steel so strong [...]</quote>.</s>
+      </p>
+      <p>
+        <s>The reason why there is an anthesis for those objects is to define the power of time and how it affects every physical object or simply a living being like a human.</s>
+        <s>After that it is noticeable that the sonnet consist in a few anaphora, in which the words <quote>O</quote> <ref target="c12lk1_1" type="line">(ll. 5, 9, 13)</ref> and <quote>Or</quote> <ref target="c12lk1_1" type="line">(l. 11 + 12)</ref> are repeatedly used.</s>
+        <s><quote>O</quote> is usually used to show a reaction or certain emotions like despair, shock, helplessness, and more, so the whole sentence has more depth when spoken out loud.</s>
+        <s>However those reactions or emotions can also be interpreted for the rhetorical questioned included in many llines.</s>
+        <s>Especially the third quatrain consists in mainly rhetorical questions from lines ten to twelve, where the speaker asks himself unrealistic solutions on how to fight against time and mortality to let this love and the beauty be present for eternity.</s>
+      </p>
+      <p>
+        <s>But to come back to the artistic coposition of the sonnet, there are many metaphors throughout the sonnet that all hold the message of it.</s>
+      </p>
+      <p>
+        <s>Aspects like beauty <ref target="c12lk1_1" type="line">(cf. ll. 3+12)</ref>, summer <ref target="c12lk1_1" type="line">(cf. l. 5)</ref>, time <ref target="c12lk1_1" type="line">(cf. ll. 8+10)</ref> and love <ref target="c12lk1_1" type="line">(cf. l. 14)</ref> are all simply one of the metaphors that <ref target="c12lk1_1" type="author">Shakespeare</ref> has used in almost all of his sonnets.</s>
+      </p>
+      <p>
+        <s>In all of the sonnets, <ref target="c12lk1_1" type="author">Shakespeare</ref> has written awhole story about certain ways love and beauty can be defined, where he commonly includes time, seasons and death that all influence beauty, which is compared to nature's best time of summer and slowly spoils through autumn or ages and dies in winter.</s>
+      </p>
+      <p>
+        <s>Like this, the human's life-cycle is explained and summer is the time where someone is at their best age or young, beautiful and mature enough for love or making big decisions.</s>
+      </p>
+      <p>
+        <s>Especially in this sonnet, you can see the frustration the speaker holds because he is not satisfied with time's greatest strength of influencing one's beauty and life due to mortality.</s>
+      </p>
+      <p>
+        <s>The speaker also feels desperate about this and senses a shock or feat, when he thinks deeply about it: <quote>O fearful meditation! [...]</quote> <ref target="c12lk1_1" type="line">(l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>Yet just like in a few other sonnets from <ref target="c12lk1_1" type="author">Shakespeare</ref> there is a turning point, where the speaker mentions eternity or the immortality of his love and one's beauty by writing about it, so it cannot be forgotten so easily?</s>
+        <s><quote>[...] That in black ink my love may still shine bright</quote><ref target="c12lk1_1" type="line">(l. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>As mentioned in the very beginning, I have stated that sonnets 1-126 deal with a young handsome man in particular, which can also be found in this sonnet.</s>
+        <s>The speaker talks about <quote>his spoil of beauty</quote> <ref target="c12lk1_1" type="line">(l. 12)</ref>, which might be a reference to  time, but that is rather unlikely because there are two objects from time that are written as <quote>time's best jewel</quote> or <quote>time's chest</quote> <ref target="c12lk1_1" type="line">(cf. l. 10)</ref>.</s>
+        <s>This theory can also be proven due to the fact that <ref target="c12lk1_1" type="author">Shakespeare</ref> is partly known to be bisexual, which is why one way to divide his sonnets is by dividing the topic about the young handsome man and the other one about the dark lady to also show, how for each person the attractiveness and beauty is defined as for example.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the sonnet 65 deals with similar aspects of the fair youth, time, beauty and love like the other sonnets of <ref target="c12lk1_1" type="author">Shakespeare</ref> and can be compared to a small chapter of a big story.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

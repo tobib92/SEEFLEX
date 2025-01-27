@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l30_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Romeo</name> and <name type="person">Juliet</name> express their love through their language in the extract.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> states that <quote>[hear] ears have not yet drunk a hundred words of that tongue's utterance</quote> <ref target="a12lk2_1" type="line">(ll. 58f)</ref>.</s>
+        <s>This personification of her ears and <name type="person">Romeo's</name> <choice><orig>Tongue</orig><reg>tongue</reg></choice> highlights how she <choice><orig>can not</orig><reg>cannot</reg></choice> hear enough of him speaking.</s>
+        <s>The <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> <quote>with love's ligh wings did I o'er-perch these walls</quote> showcases how <name type="person">Romeo</name> feels empowered by her love.</s>
+        <s>Afterwards the metaphor <quote>there lies more peril in thine eye than twenty of their swords</quote> <ref target="a12lk2_1" type="line">(ll. 71f)</ref> makes it obvious that <name type="person">Romeo</name> is more afraid of being rejected by <name type="person">Juliet</name> than killed by the <name type="person">Capulets</name>.</s>
+      </p>
+      <p>
+        <s>Furthemore the personification of <choice><orig>Love</orig><reg>love</reg></choice> giving <name type="person">Romeo</name> advice <ref target="a12lk2_1" type="line">(ll. 80f)</ref> shows how much he loves <name type="person">Juliet</name> and that his love is big enough to take control over him.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> constitutes her love for <name type="person">Juliet</name> through the metaphor <quote>thy gracious self [...] is the god of my idolatry</quote>.</s>
+      </p>
+      <p>
+        <s>Generally, <name type="person">Romeo</name> and <name type="person">Juliet</name> both use a lot of metaphors to describe a lot of unbelievable aspects of their <quote>love against the odds</quote>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

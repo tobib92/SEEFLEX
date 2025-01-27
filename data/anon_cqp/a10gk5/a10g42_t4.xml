@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g42_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Carlos,</salute>
+      </p>
+      <p>
+        <s>it is nice to hear from you again, and after we talked the last time about globalisation I found something on the internet.</s>
+      </p>
+      <p>
+        <s>It's an <choice><orig>articel</orig><reg>article</reg></choice> about three bloggers, working a day in a fabric for clothes in <name type="geo"><choice><orig>Cambodscha</orig><reg>Cambodia</reg></choice></name>.</s>
+        <s>It was kind of an experiment to see what it would be like for them.</s>
+        <s>I think it was hard at the time at which they was there, one of the girls cried, they always have done the same the whole day.</s>
+        <s>And <choice><orig>saied</orig><reg>said</reg></choice> after that they heard about it but couldn't <choice><orig>belive</orig><reg>believe</reg></choice> it would be that hard, on the <choice><orig>plain</orig><reg>plane</reg></choice> back all of them talked about doing something against it, at the time they are back.</s>
+      </p>
+      <p>
+        <s>But <choice><orig>actylle</orig><reg>actually</reg></choice> I'm not sure if they really will do it, maybe the first weeks at home but not longer than a year.</s>
+        <s>But that's the sad part, many <choice><orig>peaple</orig><reg>people</reg></choice> say they are doing something, but don't do anything.</s>
+        <s>It is my <choice><orig>fauld</orig><reg>fault</reg></choice>, am I just <choice><orig>to</orig><reg>too</reg></choice> <choice><orig>pesimistic</orig><reg>pessimistic</reg></choice> or do you think too that there are not enough humans <choice><orig>trieng</orig><reg>trying</reg></choice> to do something against it?</s>
+      </p>
+      <p>
+        <s>What do you think?</s>
+        <s>Besides this sad and living being destroying topic have a nice day.</s>
+      </p>
+      <p>
+        <signed>Best wishes</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

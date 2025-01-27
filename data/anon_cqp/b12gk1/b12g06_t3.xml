@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g06_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Prime Minister,</salute>
+      </p>
+      <p>
+        <s>in your speech, given at the <name type="misc">COP26</name> in <date>2021</date> you present your view on the climate crisis and point out the necessity of taking action.</s>
+        <s>Now, 30 years later I definitely agree with you but I also know that this was not enough.</s>
+        <s>Having read your speech, I would like to comment on it.</s>
+        <s>First of all I would like to approve your way of expressing your arguments.</s>
+        <s>You have a point in saying that the climate change is a man-made crisis and that it will not stop.</s>
+        <s>You argued that the members of this conference have a responsibility towards my generation and you were right.</s>
+        <s>Our anger is great.</s>
+        <s>As you said, you had the ideas, the technology and the <choice><orig>bankes</orig><reg>banks</reg></choice> but the agreements of the <name type="misc">COP26</name> are frustrating.</s>
+        <s>It would lay down that richer states should support poorer countries in the energy transition as you argued in your speech and that coal should phase <gap reason="illegible" quantity="1" unit="word">dow</gap> but this climate deals are too weak as I can say now.</s>
+        <s>Because of <name type="geo">China</name> and <name type="geo">India</name> there was no phase out of the coal industry which would have been the right solution.</s>
+        <s>Furthermore the promises are empty and the responsibility was pushed to the young ones.</s>
+        <s>Exactly what you wanted to provide.</s>
+        <s>From my position I can say that more had to be done to reduce carbon emissions.</s>
+        <s>Taking a long-distance flight creates twice the amount of CO2 than an environmentally conscious individual should generate in a year.</s>
+        <s>That is why politicians should have <choice><orig>baned</orig><reg>banned</reg></choice> <gap reason="illegible" quantity="1" unit="word">shorhaul</gap> flights and made flights more expensive overall.</s>
+        <s>Of course humans should have changed their consumer habits even more but I do not <choice><orig>baim</orig><reg>blame</reg></choice> them.</s>
+        <s>The politicians have the impacted the technology, the bankers and the corrections.</s>
+        <s>They should have enforced concrete laws to move the economies of all countries away from fossil fuels and change their main energy source to clean and renewable energy like wind and solar.</s>
+        <s>Now we have to deal with the consequences.</s>
+        <s>The vicious circle of the greenhouse gases cannot be stopped.</s>
+        <s>The damage of the environment is intense, the earth is running out of resources, out oceans are completely polluted and we face natrual <choice><orig>catastrofes</orig><reg>catastrophes</reg></choice>.</s>
+        <s>Even though you and other politicians or climate activists recognized the danger and the <quote>speed and [...] abruptness</quote> of climate change we now need to handle the intense negative effects of it and are not able to do something about it.</s>
+        <s>I cannot express how angry and sad I am.</s>
+        <s>My children will not have a future.</s>
+        <s>And all of you had know it but still do not take enough action.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

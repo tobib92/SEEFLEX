@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g30_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="a11gk3_1" type="title">The Hate U Give</ref> written by <ref target="a11gk3_1" type="author">Angie Thomas</ref> and published by <name type="misc">Cornelsen</name> in <date>2019</date> is about <ref target="a11gk3_1" type="character">Starr Carter</ref>, a sixteen year old, black girl who is confronted with racism and social differences in her neighborhood and school and when her friend <ref target="a11gk3_1" type="character">Khalil</ref> gets shot by a police officer in the third chapter of the book.</s>
+      </p>
+      <p>
+        <s>The given excerpt is from the pages 328 to 332 nearly at the end of the book.</s>
+      </p>
+      <p>
+        <s>The scene takes place in <name type="geo">Garden Heights</name> where people are protesting against the injustice as the officer is not charged for killing <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="a11gk3_1" type="line">(ll. 1-9)</ref> <ref target="a11gk3_1" type="character">Starr</ref>, her siblings and her friends come to the protest as well.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref>, <ref target="a11gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> former <choice><orig>attourney</orig><reg>attorney</reg></choice> is somehow leading the protest, standing on a car and raising a hairbrush <ref target="a11gk3_1" type="line">(ll. 10-15)</ref> when one shouts <quote>A hairbrush is not a gun</quote> <ref target="a11gk3_1" type="character">Starr</ref> and her friends join in <ref target="a11gk3_1" type="line">(ll. 16-23)</ref>.</s>
+        <s>As <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> notices them she goes to them and asks why they are there and <ref target="a11gk3_1" type="character">Starr</ref> tells her, they want to do something as well.</s>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> explains to <ref target="a11gk3_1" type="character">Starr</ref> what she really can do and that is to speak up <ref target="a11gk3_1" type="line">(ll. 24-40)</ref>.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> does as she is told and does not keep quiet, but speaks up for <ref target="a11gk3_1" type="character">Khalil</ref> <ref target="a11gk3_1" type="line">(ll. 41-61)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

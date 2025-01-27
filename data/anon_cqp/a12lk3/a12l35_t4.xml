@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l35_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello Jonathan,</salute>
+      </p>
+      <p>
+        <s>I hope you doing well and your <choice><orig>presentation</orig><reg>presentations</reg></choice> are good so far.</s>
+        <s>Of course <choice><orig>i</orig><reg>I</reg></choice> will help you.</s>
+        <s>Last week I also heard about the topic, so <choice><orig>i</orig><reg>I</reg></choice> will give you some information the class project starts normally in primary school, where students have one lesson in a week chess.</s>
+        <s>Not only teachers <choice><orig>makes</orig><reg>make</reg></choice> positive <choice><orig>experience</orig><reg>experiences</reg></choice> also <choice><orig>profesors</orig><reg>professors</reg></choice> and experts say that the chess project helps the student for a better concentration, logical and strategical thinking so that the <choice><orig>chessproject</orig><reg>chess project</reg></choice> has a positive impact on the students, especially in their young age.</s>
+        <s>Their also promote a good life <choice><orig>togeter</orig><reg>together</reg></choice> in the society and in life in general.</s>
+      </p>
+      <p>
+        <s>If their are any questions be not afraid to ask.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

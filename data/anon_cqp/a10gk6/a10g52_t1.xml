@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g52_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk6_1" type="author">Ankita Mitra</ref>, <name type="misc">Blog on Environmental</name>, draw <date>February 5, 2014</date> is about the pollution of the <choice><orig>enviroment</orig><reg>environment</reg></choice> and about the overpopulation.</s>
+      </p>
+      <p>
+        <s>The author wrote in the text about the pollution of the environment what means that the planet earth is full of rubbish what we <choice><orig>can not</orig><reg>cannot</reg></choice> remove because this rubbish is swimming in the sea or on other places around the world where rubbish is not <choice><orig>alloud</orig><reg>allowed</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The text also gives back that we have an overpopulation what means that <choice><orig>to</orig><reg>too</reg></choice> many people are living at the same <choice><orig>pleaces</orig><reg>places</reg></choice> on earth but they need more room to live.</s>
+      </p>
+      <p>
+        <s>The overpopulation means that more people are living here on planet earth and make the planet dirtier as we will.</s>
+      </p>
+      <p>
+        <s>Also in the end are describe two <choice><orig>senarios</orig><reg>scenarios</reg></choice> where we can see how many damage we the planet earth <choice><orig>trough</orig><reg>through</reg></choice> fall-out, <choice><orig>nuklear</orig><reg>nuclear</reg></choice> <choice><orig>weppons</orig><reg>wapons</reg></choice> and <choice><orig>chemestry</orig><reg>chemistry</reg></choice> rubbish send.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g20_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The drama <ref target="c11gk3_1" type="title">A Raisin in the Sun</ref>, written by <ref target="c11gk3_1" type="author">Lorraine Hansberry</ref> and published in <date>1959</date>, is about the <choice><orig>Family</orig><reg>family</reg></choice> <ref target="c11gk3_1" type="character">Younger</ref>, which is a poor <choice><orig>african american</orig><reg>African American</reg></choice> family living in a <choice><orig>Ghetto</orig><reg>ghetto</reg></choice> in <name type="geo">Chicago</name>, dreaming of a better life.</s>
+      </p>
+      <p>
+        <s>The extract of the drama is a conversation between <ref target="c11gk3_1" type="character">Ruth</ref> and <ref target="c11gk3_1" type="character">Walter</ref>, who are married.</s>
+        <s>The conversation is about <ref target="c11gk3_1" type="character">Walter</ref> telling <ref target="c11gk3_1" type="character">Ruth</ref> about his dream to open a liquor store with two friends.</s>
+        <s>He wants to finance the liquor store with the paycheck over 10000$ which the family <choice><orig>get</orig><reg>gets</reg></choice>.</s>
+        <s>But <ref target="c11gk3_1" type="character">Ruth</ref> does not think that opening a liquor store is the best idea and is annoyed by <ref target="c11gk3_1" type="character">Walter</ref>.</s>
+        <s>Furthermore <ref target="c11gk3_1" type="character">Walter</ref> wants to be the one in the family who earns the money and take care of the family.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

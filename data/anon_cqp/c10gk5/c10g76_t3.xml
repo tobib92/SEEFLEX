@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g76_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this comment I'm going to say my opinion to the quote of <name type="person">Ludwig Wittgenstein</name>.</s>
+        <s>The quote is <quote>the limits of my language are the limits of my world</quote>.</s>
+        <s>I think I can agree to his quote because I think it is true what he said, when you go in a new country where you have to learn a new language.</s>
+        <s>You can only be a part of the society there when you can speak the language.</s>
+      </p>
+      <p>
+        <s>Imagine you going from <name type="geo">Germany</name> to the <name type="geo">USA</name> you have to learn <choice><orig>english</orig><reg>English</reg></choice> or you have to improve it.</s>
+        <s>You can only to the things that are that huge then your words horizont.</s>
+        <s>When you don't learn a language then you are going to live in a parallel society, and you can't discover the diversity of the whole world.</s>
+      </p>
+      <p>
+        <s>So all in all I can agree to <name type="person">Ludwig Wittgenstein</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

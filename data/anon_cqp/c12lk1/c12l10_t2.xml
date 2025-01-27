@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In contemplation of <ref target="c12lk1_1" type="author">Shakespeare's</ref> language, it's sure to say that it reinforces conveying his message, which is to explain the changement of beauty throughout the time and the maintaining feeling of love.</s>
+        <s>This his precise use of language filled with rhetorical devices empowers illustrating the specific imagery of this sonnet.</s>
+      </p>
+      <p>
+        <s>Firstly, the poet provides a certain argumentation that is supported by the structure of quatrains in a couplet.</s>
+        <s>Each one does convey a significant message.</s>
+      </p>
+      <p>
+        <s>In the first quatrain, the playwright mentions the aspect of mortality <ref target="c12lk1_1" type="line">(cf. l. 2)</ref>.</s>
+        <s>He indicates that everyone Hass to face death and beauty does not have an influence on that <ref target="c12lk1_1" type="line">(cf. l. 3)</ref>.</s>
+        <s>In order to convey this message, the poet makes use of an enumeration: <quote>Since breass, not stone, nor earth, nor boundless sea</quote> <ref target="c12lk1_1" type="line">(l. 1)</ref>.</s>
+        <s>He does also intend to contrast that nature (the stone, the earth, brass and the boundless sea) does not have the altering process of youthful beauty under control, it's rather the <quote>sad mortality</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref>, which highlights that our mortality has much more power than nature: the fact that we will experience death can't be changed by any circumstances.</s>
+      </p>
+      <p>
+        <s>In addition, he compares the power of beauty with the aspect of mortality.</s>
+        <s>Another personification and rhetorical question in line three and four: <quote>How with this rage show beauty hold a plea, whose action is no stronger than a flower?</quote>.</s>
+        <s>This simile remarks that beauty is not as strong as a flower and that it has no power to resist against the fact that it alters throughout the time.</s>
+      </p>
+      <p>
+        <s>In the second quatrain, the writer extends his themes into imagery by including strong symbols, such as <quote>summer's honey breath</quote> <ref target="c12lk1_1" type="line">(l. 5)</ref>, <quote>wrackful siege of batt'ring days</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref> where he draws a strong contrast and at the same time uses parallelism to compare a <gap reason="illegible" quantity="1" unit="word">rataer</gap> positive imagery of <choice><orig>sommer's</orig><reg>summer's</reg></choice> honey breath with the siege of battering days which contributes to conflicts that we expierence in our lifetime, that influence our beauty.</s>
+      </p>
+      <p>
+        <s>In the nex two lines, the poet makes use of a metaphor <quote>when rocks impregnant are not so stout, nor gates of steel so strong, but time decays?</quote>.</s>
+        <s>He indicates with these personifications, that time does not <gap reason="illegible" quantity="1" unit="word">pous</gap> by and the power of rocks and gates are nothing compared to the impact the <quote>wrackful siegt of battring days</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref> has on an individual.</s>
+      </p>
+      <p>
+        <s>Additionally, in the third quatrain <ref target="c12lk1_1" type="author">Shakespeare</ref> uses another personification: <quote>shall time's best jewel from time's chest lie hid?</quote> <ref target="c12lk1_1" type="line">(l. 10)</ref>.</s>
+        <s>The jewel, a reference to youth, which is the best time in our life, where beauty is the most significant and its <quote>spoil of beauty</quote> <ref target="c12lk1_1" type="line">(l. 12)</ref> cannot be forbidden.</s>
+      </p>
+      <p>
+        <s>Thus, he comploys rrepitition in order to underline the importance of beauty, as well as time <ref target="c12lk1_1" type="line">(cf. l. 3, l. 8, l. 10, l. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>In the couplet, the intention and motivation of <ref target="c12lk1_1" type="author">Shakespeare</ref> becomes clear: His love to the addressee is so powerful that not even a blank <gap reason="illegible" quantity="1" unit="word">inle</gap> on a letter can't stop the shine of his love <ref target="c12lk1_1" type="line">(cf. l. 14)</ref>.</s>
+        <s>He conveys the message, that even though circumstances that have a huge impact on the life of an individual, from beauty to time, nothing comes against his love to the addressee.</s>
+      </p>
+      <p>
+        <s>Furthermore, strong negative adjectives like <quote>wrackful</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref> or <quote>sad</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref> evokes the impression of a tensed, melo-dramatic and serious atmosphere.</s>
+      </p>
+      <p>
+        <s>In the context of Shakespeare, catalogue of sonnets, it's certain to say that it contributes to certain aspects that are also given in the other sonnets.</s>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> does also address themes like love, beauty, death and youth.</s>
+        <s>When it comes to imagery, it's sure to say that he does also draw visualisations of nature, for instance flower, rocks or summer's honey breath <ref target="c12lk1_1" type="line">(cf. l. 4ff.)</ref>, just as he did in his former sonnets, like in <name type="misc">130</name>.</s>
+        <s>Compared to other sonnets it's significant, that in this sonnet he doesn't address a muse in form of a <choice><orig>feminin</orig><reg>feminine</reg></choice> peron, he rather addresses youth.</s>
+      </p>
+      <p>
+        <s>Taking everything into account, I come to the conclusion that <ref target="c12lk1_1" type="author">Shakespeare's</ref> <ref target="c12lk1_1" type="title">Sonnet 65</ref> is another argumentation of the altering <choice><orig>process</orig><reg>proccess</reg></choice> of youth and beauty and comapres it his love towards his addressee, which is more powerful at the same time eternal and unchangeable.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

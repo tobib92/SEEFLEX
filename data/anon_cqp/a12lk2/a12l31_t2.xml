@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l31_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his <choice><orig>play's</orig><reg>plays</reg></choice> and <choice><orig>sonnet's</orig><reg>sonnets</reg></choice> <name type="person">Shakespeare</name> makes use of a special type of language as well as many stylistic devices.</s>
+      </p>
+      <p>
+        <s>In <ref target="a12lk2_1" type="author">Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> metaphors, symbolism and dramatic irony <choice><orig>is</orig><reg>are</reg></choice> used to create a more poignant story to the readers.</s>
+      </p>
+      <p>
+        <s>One example for those metaphors used by <ref target="a12lk2_1" type="author">Shakespeare</ref> is <quote>My ears have not yet drunk a hundred words</quote> <ref target="a12lk2_1" type="line">(l. 58)</ref>.</s>
+        <s>With this <choice><orig>sayed</orig><reg>said</reg></choice> by <name type="person">Juliet</name>, she is telling that she could not get enough of <name type="person">Romeo's</name> voice.</s>
+        <s>Those <quote>hundred words</quote> are <choice><orig>ment</orig><reg>meant</reg></choice> for the words of <name type="person">Romeo</name>.</s>
+      </p>
+      <p>
+        <s>By her <quote>ears that have not drunk</quote> yet is <choice><orig>ment</orig><reg>meant</reg></choice> that <name type="person">Juliet</name> loves to <choice><orig>her</orig><reg>hear</reg></choice> what <name type="person">Romeo</name> has to say to her.</s>
+        <s>This shows that <name type="person">Juliet</name> not only thinks about him already a lot, it gives the reader the effect that <name type="person">Juliet</name> wants to be with <name type="person">Romeo</name> and wants to listen to his voice.</s>
+        <s>This metaphor gives the reader the suggestion to think about <name type="person">Juliet's</name> feelings for <name type="person">Romeo</name> even more deeply.</s>
+        <s>And the fact that <name type="person">Juliet's</name> ears <quote>have not drunk</quote> <name type="person">Romeo's</name> words words it creates <choice><orig>a</orig><reg>an</reg></choice> image in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind that she has enough room for his words and enjoys talking to him.</s>
+      </p>
+      <p>
+        <s><choice><orig>Continnuing</orig><reg>Continuing</reg></choice> the play it is clearly stated by <name type="person">Romeo</name> that his love for <name type="person">Juliet</name> is so strong that nothing could hold him back.</s>
+      </p>
+      <p>
+        <s>With the use of another metaphor <quote>love's light wings</quote> <ref target="a12lk2_1" type="line">(l. 66)</ref>, <ref target="a12lk2_1" type="author">Shakespeare</ref> creates <choice><orig>a</orig><reg>an</reg></choice> image in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind.</s>
+        <s>With <quote>love</quote>, his love for <name type="person">Juliet</name> is <choice><orig>ment</orig><reg>meant</reg></choice>.</s>
+        <s>In combination of the adjective <quote>light</quote>, the image of a love where there are no problems or difficulties is created.</s>
+      </p>
+      <p>
+        <s>In this line, <name type="person">Romeo</name> says that he has <quote>love's light wings</quote>.</s>
+        <s>Those light wings <choice><orig>creates</orig><reg>create</reg></choice> a picture of <name type="person">Romeo</name> seeing <choice><orig>everyting</orig><reg>everything</reg></choice> in a positive way and only looking at his love to her.</s>
+        <s>To the reader a big image is created, as if of <name type="person">Romeo</name> has wings like an angle.</s>
+        <s>This created picture makes the reader think that <name type="person">Romeo</name> only sees their love for each other.</s>
+        <s>In combination of this metaphor, <ref target="a12lk2_1" type="author">Shakespeare</ref> makes use of <choice><orig>a</orig><reg>an</reg></choice> image while saying <quote>I o'er-perch these walls</quote> <ref target="a12lk2_1" type="line">(l. 66)</ref>.</s>
+        <s><choice><orig>Whith</orig><reg>With</reg></choice> that, <name type="person">Romeo</name> says that he can fly over these walls.</s>
+        <s>The walls could stand for their families that build a wall for their love because of the <choice><orig>families</orig><reg>familes'</reg></choice> hate.</s>
+      </p>
+      <p>
+        <s>Here it gets <choice><orig>clearly</orig><reg>clear</reg></choice> that <choice><orig>nothig</orig><reg>nothing</reg></choice> can hold back <name type="person">Romeo</name> from their love, even not their families that hate each other.</s>
+      </p>
+      <p>
+        <s>At this point <ref target="a12lk2_1" type="author">Shakespeare</ref> convinces the reader again that <name type="person">Romeo</name> has deep feelings for <name type="person">Juliet</name> and is ready to do anything for her.</s>
+        <s>This image in combination with the named metaphor a picture is created in the reader's mind that <name type="person">Romeo</name> has wings with <gap reason="illegible" quantity="1" unit="word">hom</gap> he can fly over walls, thus is <choice><orig>ment</orig><reg>meant</reg></choice> that he does not care about the fight and hate of their families, he <choice><orig>his</orig><reg>is</reg></choice> convinced that their love is stronger.</s>
+      </p>
+      <p>
+        <s>But <name type="person">Romeo</name> does see that there are complications in <choice><orig>ther</orig><reg>their</reg></choice> love.</s>
+        <s>He does not only <choice><orig>sees</orig><reg>see</reg></choice> the love to <name type="person">Juliet</name> even though he still believes that there are no limits in their love.</s>
+        <s>This gets <choice><orig>clearly</orig><reg>clear</reg></choice> when <name type="person">Romeo</name> tells <name type="person">Juliet</name> that even <quote>stony limits</quote> <choice><orig>can not</orig><reg>cannot</reg></choice> <choice><orig>hold</orig><reg>holt</reg></choice> back his love.</s>
+      </p>
+      <p>
+        <s>Against the reader gets the impression of <name type="person">Romeo</name> <choice><orig>beeing</orig><reg>being</reg></choice> deeply in love with <name type="person">Juliet</name> and not thinking of anything else but her.</s>
+        <s>The use of a strong adjective like <quote>stony</quote> makes the situation they both are in even more dramatic.</s>
+        <s>This rises up the <choice><orig>readers</orig><reg>reader's</reg></choice> attention to think about the <choice><orig>families</orig><reg>families'</reg></choice> situation more deeply.</s>
+      </p>
+      <p>
+        <s>From the two of them <name type="person">Romeo</name> is more convinced that their love is going to work than <name type="person">Juliet</name> is.</s>
+        <s><name type="person">Juliet</name> is scared to be caught by her family.</s>
+        <s><ref target="a12lk2_1" type="author">Shakespeare</ref> states this by using <choice><orig>a</orig><reg>an</reg></choice> anaphora <quote>If they do see thee, they will murder thee</quote> <ref target="a12lk2_1" type="line">(l. 70)</ref>.</s>
+        <s>With the word <quote>thee</quote> <name type="person">Romeo</name> is <choice><orig>ment</orig><reg>meant</reg></choice>.</s>
+        <s><name type="person">Juliet</name> is scared that her family is going to catch them while <choice><orig>beeing</orig><reg>being</reg></choice> together which might cause <name type="person">Romeo's</name> death.</s>
+      </p>
+      <p>
+        <s>At this point the reader now knows that <name type="person">Juliet</name> for <choice><orig>shure</orig><reg>sure</reg></choice> also loves him but is not that confident with seeing him.</s>
+        <s>The reader is throughout of that convinced of <name type="person">Juliet's</name> feelings and scares.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> knowing that <name type="person">Juliet</name> is scared of <choice><orig>beeing</orig><reg>being</reg></choice> together with him he <choice><orig>trys</orig><reg>tries</reg></choice> to let her know <choice><orig>against</orig><reg>again</reg></choice> how much he loves her.</s>
+        <s>With the use of <choice><orig>a</orig><reg>an</reg></choice> image <quote>farthest sea</quote> <ref target="a12lk2_1" type="line">(l. 83)</ref> <ref target="a12lk2_1" type="author">Shakespeare</ref> creates an image of a big sea like the ocean.</s>
+        <s>With the farthest sea is a destination describes that <name type="person">Romeo</name> would take over him to be with <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s>The reader knows that there is <choice><orig>rally</orig><reg>really</reg></choice> nothing that could stop <name type="person">Romeo</name> from loving <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> would search for <name type="person">Juliet</name> if she would be far away.</s>
+        <s>This argument of him with the personification <quote>merchandise</quote> <ref target="a12lk2_1" type="line">(l. 84)</ref> gives the reader the impression of <name type="person">Juliet</name> being everything for <name type="person">Romeo</name>.</s>
+        <s><ref target="a12lk2_1" type="author">Shakespeare</ref> describes <name type="person">Juliet</name> at this point as a prize or a special thing for <name type="person">Romeo</name>.</s>
+        <s>He would do anything to find a prize like <name type="person">Juliet</name> <choice><orig>eventhough</orig><reg>even though</reg></choice> he must take compromises like crossing the farthest sea to find her.</s>
+      </p>
+      <p>
+        <s>To <choice><orig>proof</orig><reg>prove</reg></choice> his love to her he would swear to her even if <name type="person">Juliet</name> does not want him to do so.</s>
+        <s><name type="person">Romeo</name> compares his love to her with a <quote>blessed moon</quote> <ref target="a12lk2_1" type="line">(l. 107)</ref>.</s>
+        <s>At this point <ref target="a12lk2_1" type="author">Shakespeare</ref> made use of a lot of different stylistic devices to create many different images in the reader's mind.</s>
+        <s>In this play he made use of a lot of adjectives to describe certain feelings of <choice><orig>te</orig><reg>the</reg></choice> characters as well as specific situations more clearly.</s>
+      </p>
+      <p>
+        <s>With his use of languaeg he stated clear that <name type="person">Juliet</name> loves <name type="person">Romeo</name> but at some point is too scared of their families' situation and <name type="person">Romeo</name> does not care about what their families think about their love.</s>
+        <s>All he wants is to be with his true love <name type="person">Juliet</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> gave a speech at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane, Istanbul</name> in <date>2009</date>, in which he mentions the importance of bringing young people together from all over the world.</s>
+      </p>
+      <p>
+        <s>In the following text I will analyse the structure and the choice of words from <ref target="c10gk2_1" type="speaker">Obama's</ref> speech.</s>
+      </p>
+      <p>
+        <s>In his speech he makes clear that he has seen everywhere he goes that young people who are passionate and deeply informed about the world around them.</s>
+        <s>That's why he wants to <quote>break down walls</quote> <ref target="c10gk2_1" type="line">(l. 13)</ref> so young people can come together and speak to <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+      </p>
+      <p>
+        <s>So first of all <ref target="c10gk2_1" type="speaker">Barack Obama</ref> uses many stylistic devices to get the <choice><orig>readers</orig><reg>readers'</reg></choice> attention and to encourage his listeners.</s>
+      </p>
+      <p>
+        <s>He uses an anaphora three times.</s>
+        <s>In line four, he says <quote>I've seen it</quote> and also in line five and seven he speaks <quote>I saw it</quote> and <quote>I've seen it</quote>.</s>
+        <s>Because of that, he gets the readers or listeners focused on the importance he is talking about.</s>
+        <s>Also in line 18 he uses <quote>I want you to know that</quote> and in line 21 <quote>And I want you to know that</quote>.</s>
+        <s>Here he also gets the <choice><orig>readers</orig><reg>readers'</reg></choice> attention.</s>
+      </p>
+      <p>
+        <s>Furthermore, he speaks to the listeners by saying <quote>you can</quote> in line 18, 19 and 20.</s>
+        <s>He speaks directly to his listeners and gets so even more attention.</s>
+      </p>
+      <p>
+        <s>In these three lines he also makes clear that everyone of us can <quote>choose to put aside longstanding divisions</quote> and <quote>can choose to advance a prosperity</quote>.</s>
+        <s>By giving these examples, he even more gets the <choice><orig>readers</orig><reg>readers'</reg></choice> attention to do something and he gives the feeling that he's supporting you and that you can do it and that you can choose to do something.</s>
+        <s>He creates a community by giving these examples and by saying <quote>you</quote>.</s>
+      </p>
+      <p>
+        <s>In the end, he also mentions that everyone <quote>will find a partner and a supporter and a friend in the United States of America</quote> <ref target="c10gk2_1" type="line">(line 21-22)</ref>.</s>
+        <s>By giving all of these examples and stylistic devices he gets the listeners focused and gets their attention.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g72_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Personally this statement is very interesting.</s>
+        <s>It thematizes the question which power language holds upon us.</s>
+      </p>
+      <p>
+        <s>In my opinion this statement describes how the specific languages you have <choice><orig>learnt</orig><reg>learned</reg></choice>, and the amount determines your possibilities in every aspect of the world.</s>
+        <s>For example not learning <choice><orig>english</orig><reg>English</reg></choice> impedes you on digital international communication in public social-networks as it is primary used there.</s>
+        <s>Sticking to your native-language restricts you to only travelling to <choice><orig>countrys</orig><reg>countries</reg></choice> where this language is spoken.</s>
+        <s>Additionally some work-places <choice><orig>requires</orig><reg>require</reg></choice> their employees to be multilingual thus making language able to narrow your possibilities in work.</s>
+      </p>
+      <p>
+        <s>Last but not least it is a neurological fact, that the process of learning a language strengthens your brain.</s>
+        <s>Through this, you can get <choice><orig>divers</orig><reg>diverse</reg></choice> advantages for example increased intelligence.</s>
+        <s>On the other hand, restricting yourself to your native-language withholds you from these advantages and can result in you staying unintellectual.</s>
+      </p>
+      <p>
+        <s>This range of <choice><orig>disadvantag</orig><reg>disadvantages</reg></choice> of not learning a new language shows the large power language has in our lives.</s>
+        <s>So I definitely agree with this.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

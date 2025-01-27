@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g31_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In l. 6 <ref target="a10gk4_1" type="author">Ankita Mitra</ref> uses a repetition (<quote>no man, no animals, no plants</quote>), to demonstrate the importance of water and air.</s>
+        <s>In l. 7 <choice><orig>a</orig><reg>an</reg></choice> enumeration is used to list the different parts of our biosphere.</s>
+      </p>
+      <p>
+        <s>To show her personal <choice><orig>oppinion</orig><reg>opinion</reg></choice> <ref target="a10gk4_1" type="author">Ankita Mitra</ref>, uses a <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> in l. 18 (<quote>... bling alleys</quote>), which shows the possible products of <quote>achievements</quote>.</s>
+        <s>The <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> in l. 20 (<quote>crusaders</quote>), describes the protesters against environmental pollution, as people that fight for a bigger cause and are convinced by <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>believes</orig><reg>beliefs</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

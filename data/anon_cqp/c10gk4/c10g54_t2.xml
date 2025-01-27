@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g54_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>During a visit to <name type="geo">Istanbul, Turkey</name> in <date>April 7, 2009</date> <name type="geo">United States</name> president <ref target="c10gk4_1" type="speaker">Barack Obama</ref> hosted a students' roundtable at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name>.</s>
+        <s>Before the open discussion started, he had given a short speech on the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>At the start of his speech, president <ref target="c10gk4_1" type="speaker">Obama</ref> tells that he is committed to rebuild a relationship between the <name type="geo">United States</name> and the people of the Muslim world <ref target="c10gk4_1" type="line">(ll. 1-2)</ref>.</s>
+      </p>
+      <p>
+        <s>With this start he shows the listeners that he has a positive view of intercultural understanding.</s>
+      </p>
+      <p>
+        <s>He also mentions that this relationship has to be one with mutual interest and mutual respect.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk4_1" type="speaker">Obama</ref> explains to the listeners what he sees in <name type="geo">America</name> and even in his presidential campaign and everywhere he travels abroad, he tells the students that he sees young people who are passionate, engaged and deeply informed about the world around them <ref target="c10gk4_1" type="line">(ll. 4-8)</ref>.</s>
+        <s>Telling the students this, he wants to encourage them to also go abroad and make new experiences.</s>
+      </p>
+      <p>
+        <s>The President tells the students, that he would like to find new ways to connect young Americans to young people all around the world, and by supporting opportunities to learn new languages, and serve and study.</s>
+        <s>He also says that has always been a critical part of how <name type="geo">America</name> engages the world <ref target="c10gk4_1" type="line">(ll. 9-12)</ref>.</s>
+      </p>
+      <p>
+        <s>Telling this to the students, <ref target="c10gk4_1" type="speaker">Obama</ref> builds trust to them and he welcomes them to visit <name type="geo">America</name>.</s>
+        <s>Before the ending of his speech, <ref target="c10gk4_1" type="speaker">Obama</ref> names the advantages of student exchanges and what young people could do to change the future <ref target="c10gk4_1" type="line">(ll. 13-18)</ref>.</s>
+        <s>At the end of his speech the President wants to convince the students, that they have the choice what to do in the future, he names an example <quote>You can choose to build new bridges instead of building new walls</quote>.</s>
+      </p>
+      <p>
+        <s>And <ref target="c10gk4_1" type="speaker">Obama</ref> lets the students to know, that they will find a partner, and a supporter and a friend in the <name type="geo">United States of America</name>.</s>
+        <s>With this last sentence he wants to gain the trust of the students and he wants to show them that they are always welcome in the <name type="geo">United States</name> to <choice><orig>chance</orig><reg>change</reg></choice> <choice><orig>theire</orig><reg>their</reg></choice> future with young people in another country.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>, which was written by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref>, <ref target="a11lk2_1" type="character">Amir</ref>, a <choice><orig>muslim</orig><reg>Muslim</reg></choice> middle-aged lawyer and his journey with religious identity, is the protagonist of the play.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is <choice><orig>sucessful</orig><reg>successful</reg></choice> at his work, a <choice><orig>jewish</orig><reg>Jewish</reg></choice> lawfirm with predominantly <choice><orig>non-muslim</orig><reg>non-Muslim</reg></choice> employees but had to hide his religion by taking a <choice><orig>pakistani</orig><reg>Pakistani</reg></choice> name, and by making people assume he is Hindu.</s>
+        <s>He is married to <ref target="a11lk2_1" type="character">Emily</ref>, an spiring artist who is interested in <choice><orig>islamic</orig><reg>Islamic</reg></choice> art and of Caucasian descent.</s>
+        <s>He inherited some prejudice against Judaism partly from his mother, who was discontent about him crushing on a Jewish girl.</s>
+        <s>By that time, he first came in contact with separation from other religions and violence against them.</s>
+      </p>
+      <p>
+        <s>In <ref target="a11lk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> marriage, his background does not play a minor role.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> does not realize the difficulties of representing what and who one stands for in terms of growing into a person that refuses to hide any part of themselves, and tries to push him into his identity constantly by <q>violating</q> his personal boundaries.</s>
+        <s>She depicted <ref target="a11lk2_1" type="character">Amir</ref> as a slave in the entrance of the play, which displayed the discrepancy between their views early on.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is in fact torn between who he is and wants to be.</s>
+        <s>Playing by the rules of a racist society has left a significant mark on him and led him to internalize anger and resentment.</s>
+      </p>
+      <p>
+        <s>By unleashing himself, he is partly projecting this frustration on others, but also breaking out of an old frame that was constructed by <name type="geo">America's</name> expectations of him.</s>
+      </p>
+      <p>
+        <s>His character appears to be confident and outspoken (<add>he does communicate how he feels about religion constantly</add>) and is not yet fully emancipated from <choice><orig>societys</orig><reg>society's</reg></choice> racist ideologies and captivated by prejudice.</s>
+        <s>His restricted view on <choice><orig>islam</orig><reg>Islam</reg></choice>, or how others might perceive it, leads the reader to believe that he does not have the urge to progress in the direction of breaking free but rather stys stuck in old ways.</s>
+        <s>However, his emotional built-up unloading in scene 3, and him dodging a bullet on his marriage with <ref target="a11lk2_1" type="character">Emily</ref>, is an indicator that <ref target="a11lk2_1" type="character">Amir</ref> might start a drastic revolution and evolves into his unapologetic, authentic self.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

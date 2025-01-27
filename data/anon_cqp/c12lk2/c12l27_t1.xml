@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l27_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">paraphrase_sonnet</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk2_1" type="title">Sonnet 60</ref> by <ref target="c12lk2_1" type="author">William Shakespeare</ref> and publish in <date>1609</date> deals with the <choice><orig>prozess</orig><reg>process</reg></choice> of aging.</s>
+        <s>The speaker of the sonnet talks about how fast the time passes.</s>
+        <s><ref target="c12lk2_1" type="title">Sonnet 60</ref> is part of the <name type="person">Fair Youth</name> sonnets and addresses a young man to who the poet has a deep and loving relationship.</s>
+        <s>The sonnet consists of 14 lines and is subdivided into three quatrains containing cross rhyme <add><name type="misc">ABAB CDCD EFEF</name></add> and a couplet in the final two lines containing pair rhyme <add><name type="misc">GG</name></add>.</s>
+        <s>The couplet serves as a kind of <choice><orig>summery</orig><reg>summary</reg></choice> and final statement where the speaker <choice><orig>undelines</orig><reg>underlines</reg></choice> his opinion.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk2_1" type="author">Shakespeare's</ref> sonnet is written in iambic pentameter which stresses the emotional atmosphere in the <ref target="c12lk2_1" type="title">Sonnet 60</ref>.</s>
+        <s>The rhymes <choice><orig>is</orig><reg>are</reg></choice> also an important characteristic, because it connects the structure really well and especially the change from cross rhyme in the couplet highlights the speaker's <q>pray</q> because line 13 and 14 are linked.</s>
+      </p>
+      <p>
+        <s>Another point is the punctuation and sentence structure <ref target="c12lk2_1" type="author">Shakespeare</ref> makes use of.</s>
+        <s>The end of the sentence coincides with the end of the line, creating a comprehensible structure and action.</s>
+        <s>Furthermore he applies a mixture of end stopped lines which create a calm tone and enjambements that give the lines an emotional and flowing tone.</s>
+      </p>
+      <p>
+        <s>No I will paraphrase <ref target="c12lk2_1" type="title">Sonnet 60</ref> to gain a better understanding of the content.</s>
+      </p>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Like the short time the waves move towards the stony beach,</l>
+            <l>As fast passes the time we are together.</l>
+          </s>
+          <s>
+            <l>Every place we visited together,</l>
+            <l>Like <name type="person">Jesus</name> birth, was once the center,</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>as he <choice><orig>slowely</orig><reg>slowly</reg></choice> got older and got crowned,</l>
+            <l>the twisted darkness lighted <choice><orig>agains</orig><reg>against</reg></choice> his honour</l>
+            <l>and as the time passes his gift isn't there anymore after his death.</l>
+          </s>
+          <s>
+            <l>Time does anchor the youth</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>and seaches the similarities in the beauty's brow;</l>
+            <l>eats the unusual of the person's soul</l>
+            <l>but no one can get out of the way of death.</l>
+          </s>
+          <s>
+            <l>And <choice><orig>eventhough</orig><reg>even though</reg></choice> time passes,</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>I hope my verses will stay so that i can praise your worth,</l>
+            <l><choice><orig>eventhough</orig><reg>even though</reg></choice> my death will come.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

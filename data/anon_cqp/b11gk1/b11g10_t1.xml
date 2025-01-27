@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g10_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in <date>2019</date> tells the story about the life of a runaway teenager who lives with her daughter in a <name type="misc">Mercury</name> in the trailer park.</s>
+      </p>
+      <p>
+        <s>Since <ref target="b11gk1_1" type="character">Margot</ref> was shot, <ref target="b11gk1_1" type="character">Pearl</ref> is brought to a foster home, where she <choice><orig>make</orig><reg>makes</reg></choice> new connections to other people.</s>
+        <s>One of the new connection is <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> was also brought to the <choice><orig>forster</orig><reg>foster</reg></choice> home after she lived in bad conditions.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is <choice><orig>a</orig><reg>an</reg></choice> eight year old girl.</s>
+        <s>She lived in many other foster homes, before she came to this one.</s>
+        <s>Because of that, she has a problem with her identity.</s>
+        <s>She never has a home for a livetime and always had <choice><orig>to</orig><reg>too</reg></choice> many changes in her life.</s>
+        <s>She doesn't know who her right mom is or where she lived.</s>
+        <s>That's why she doesn't know where she belongs to.</s>
+        <s>Nevertheless she believes in family and friends and wants to contact them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

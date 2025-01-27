@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g09_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk1_1" type="title">The Hate U Give</ref> influenced me in several ways.</s>
+      </p>
+      <p>
+        <s>The film is a subjective portrayal of racism.</s>
+        <s>It has a competely different impact when one hears about racism in the news or reads its definition in a book.</s>
+        <s><ref target="b10gk1_1" type="title">The Hate U Give</ref> is a practical and actual visualisation of the consequences of racism in the daily life of a black teenage girl, which to me, as a white girl, is impossible to imagine.</s>
+        <s>I could never state that I know what racism feels like but <ref target="b10gk1_1" type="title">The Hate U Give</ref> can at least protray it on a basis that is far easier to grasp.</s>
+        <s>To me, these are shocking happenings meanwhile it is the daily life for victims of systems such as racism.</s>
+        <s>The whole aspect that <ref target="b10gk1_1" type="title">The Hate U Give</ref> is not only a film about systematic racism but the supposedly normal life of a teenage black girl provides a much bigger impact of horror since it puts racism on a personal basis and simplifies it to a level of every day experience.</s>
+        <s>It is terrible to realise that this film presents a norm that can't possible by imagined by me to live through on a daily basis.</s>
+        <s>It raises the awareness for the effects racism as well as the shock level.</s>
+        <s>This film made me terribly sad, it made me think how awful this world and society has to be so that this film is an accurate representation of daily life experience for this huge amount of humans.</s>
+      </p>
+      <p>
+        <s>Summed up, this film decreased my respect and hope for us humans and increased my awareness for daily racism.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g28_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>recently I read your statement form a speech which you gave roughly before 30 years.</s>
+        <s>These days I was a young person and was <choice><orig>hopefull</orig><reg>hopeful</reg></choice>.</s>
+        <s>But now I see that the generations before me and we failed.</s>
+        <s>You were right.</s>
+        <s>We had all these possibilities to act, to change the future, to take action, but nobody did it.</s>
+        <s>Okay honestly some people take action with demonstrations etc. but the leaders, those who had the power didn't.</s>
+        <s>So <choice><orig>know</orig><reg>now</reg></choice> our children make your and my generation responsible for this bad world ... Just like you said in those days.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

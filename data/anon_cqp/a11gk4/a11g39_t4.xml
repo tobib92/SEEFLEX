@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g39_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Lilli,</salute>
+      </p>
+      <p>
+        <s>I've received your request about my opinion whether I think that hte book <name type="misc">The Hate U Give</name> should be banned from your school or not.</s>
+      </p>
+      <p>
+        <s>I personally think that the book shouldn't be banned, you should even be reading it at school especially in the <name type="geo">USA</name>.</s>
+        <s>Yes, the book contains offensive language and sexual references but it is <choice><orig>educatinal</orig><reg>educational</reg></choice>.</s>
+        <s>It deals with such important topics such as <name type="misc">Black Lives Matter</name>, <choice><orig>Racism</orig><reg>racism</reg></choice> and <choice><orig>Police Brutality</orig><reg>police brutality</reg></choice>.</s>
+        <s>And no one can tell me that these things aren't still present in the <name type="geo">USA</name> so I think instead of banning the book and not getting informed about these topics, you should be educated about it.</s>
+        <s><name type="misc">The Hate U Give</name> examines the way society uses stereotypes of black people to justify violence and racism against them.</s>
+        <s>The book doesn't show the polic in a negative light it just tells the truth about police officers in <name type="geo">America</name>, treating white people better.</s>
+        <s>Why does your school think that every African American has to have <q>the talk</q> with their parents at a young age not because they want to, they have to.</s>
+      </p>
+      <p>
+        <s>In my opinion this book should be read in schools worldwide because racism is common in every country.</s>
+      </p>
+      <p>
+        <s>The fact that your school board argues about the <choice><orig>promote</orig><reg>promotion</reg></choice> of drug abuse in this novel shows that either didn't really read or <choice><orig>understood</orig><reg>understand</reg></choice> the book.</s>
+        <s>Because the <name type="misc">King Lords</name> who are dealing with the drugs are negative and bad people in the novel.</s>
+        <s>If you have any more questions regarding to this just send me an email.</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

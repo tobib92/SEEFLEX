@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g22_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene from the <choice><orig>Drama</orig><reg>drama</reg></choice> <ref target="c12gk2_1" type="title">Macbeth</ref> from the author <ref target="c12gk2_1" type="author">Shakespeare</ref> is the 7th scene from the first <choice><orig>Act</orig><reg>act</reg></choice> and deals with a <choice><orig>dialoge</orig><reg>dialogue</reg></choice> between <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, where <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince her husband of murdering <ref target="c12gk2_1" type="character">King <choice><orig>Ducan</orig><reg>Duncan</reg></choice></ref>.</s>
+      </p>
+      <p>
+        <s>The first paragraph from line 1 till line 8 starts with a question from <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>She asks <ref target="c12gk2_1" type="character">Macbeth</ref> why he has left the chamber.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> doesn't answer to this and wants to know if <ref target="c12gk2_1" type="character"><choice><orig>Ducan</orig><reg>Duncan</reg></choice></ref> <choice><orig>ask</orig><reg>asks</reg></choice> for him.</s>
+        <s>After this <ref target="c12gk2_1" type="character">Lady Macbeth</ref> thinks <ref target="c12gk2_1" type="character">Macbeth</ref> tells her that he has golden opinions from <choice><orig>diffrend</orig><reg>different</reg></choice> kind of <choice><orig>peopel</orig><reg>people</reg></choice> and doesn't want to throw them away soon.</s>
+      </p>
+      <p>
+        <s>The second paragraph <ref target="c12gk2_1" type="line">(l. 10-22)</ref> deals with <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and how she presents <ref target="c12gk2_1" type="character">Macbeth</ref> what he could have.</s>
+        <s>She asks him if he is afraid of getting what he <choice><orig>want</orig><reg>wants</reg></choice>.</s>
+        <s>Furthermore she brings to his mind that he could <choice><orig>has</orig><reg>have</reg></choice> to say <quote>I dare not</quote> or <quote>I would</quote> and <choice><orig>deosn't</orig><reg>doesn't</reg></choice> have to sevant for anybody.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> says she needs to be quiet and whoever dares to do more is none.</s>
+      </p>
+      <p>
+        <s>The last paragraph <ref target="c12gk2_1" type="line">(l. 23-56)</ref> is about the plan of <ref target="c12gk2_1" type="character">Lady Macbeth</ref> to make <ref target="c12gk2_1" type="character">Macbeth</ref> a King.</s>
+        <s>She tells <ref target="c12gk2_1" type="character">Macbeth</ref> about her plan and only when he does it he were a man.</s>
+        <s>After that she also <choice><orig>make</orig><reg>makes</reg></choice> <ref target="c12gk2_1" type="character">Macbeth</ref> clear that he must <choice><orig>makes</orig><reg>make</reg></choice> something happen.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> is not convinced to this plan so <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>tell</orig><reg>tells</reg></choice> him exact what they will do.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> reacts with the answer that she <choice><orig>sould</orig><reg>should</reg></choice> bring forth men children only to him with a fearless character.</s>
+        <s>After this he thinks about to deceive the world and a face must hide <choice><orig>wath</orig><reg>what</reg></choice> the heart doesn't know.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g12_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will be commenting on <ref target="a10gk2_1" type="author">Brian Pollard's</ref> statement that <quote>[...] in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+      </p>
+      <p>
+        <s>In my opinion I agree but at the same time disagree with this statement.</s>
+        <s>I find it hard to decide because it depends from which perspective you think.</s>
+        <s>I agree when looking from the employers perspective and view.</s>
+        <s>Nowadays employers are always states as the bad ones because they don't pay the employees enough and only use them.</s>
+        <s>Of course there are always companies and employers who do this and are <choice><orig>exeptions</orig><reg>exceptions</reg></choice>.</s>
+        <s>But most of the employees don't realise the costs and own pressure employers have.</s>
+        <s>In this case I'm more referring to smaller <choice><orig>buisnesses</orig><reg>businesses</reg></choice> than big industry companies.</s>
+        <s>The employers get most of the hate and never <choice><orig>appriciation</orig><reg>appreciation</reg></choice> of their work and <choice><orig>oppurtunity</orig><reg>opportunity</reg></choice> which they give to the employees.</s>
+        <s>For example my parents own a company and are the employers.</s>
+        <s>Especially in these times it was very hard for them personally.</s>
+        <s><choice><orig>Their</orig><reg>They</reg></choice> weren't able to work and <choice><orig>therefor</orig><reg>therefore</reg></choice> not fully paid.</s>
+        <s>In those situations it's hard for employers but they mostly in those situations have to think about the best for the company and what is fair.</s>
+      </p>
+      <p>
+        <s>However from an <choice><orig>employees</orig><reg>employee's</reg></choice> perspective I agree.</s>
+        <s>Employees are often used and never really paid for all the work they do, for example in the clothing brands and companies most of the workers work all day and don't even get paid enough to have a roof over the head and enough food.</s>
+        <s>They are mostly paid that low because then the companies have less spendings in workers and make more money.</s>
+      </p>
+      <p>
+        <s>All in all I agree with the statement because it happens way too much nowadays and mostly very badly.</s>
+        <s>However a part of me has a disagreeing side when seeing it from the employers' view and all their pressure.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

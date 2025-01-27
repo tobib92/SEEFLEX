@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g02_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Friend:</salute>
+      </p>
+      <p>
+        <s>Today I found an interesting <choice><orig>News</orig><reg>news</reg></choice> article about racism in the <name type="geo">USA</name>.</s>
+        <s>It's by a journalist author <ref target="a11gk1_2" type="author">Alexandra Endres</ref> <choice><orig>The Title</orig><reg>the title</reg></choice> <ref target="a11gk1_2" type="title"> Schwarze in der USA: Der Rassismus ist messbar"</ref> means <q>Black people in the USA - Racism is measurable</q>.</s>
+        <s>Underneath there is a little <choice><orig>Text-passage</orig><reg>text passage</reg></choice> that says <quote>50 years ago racial segregation was oficially removed from the US-Constitution, yet black people are still at many disadvantages</quote>.</s>
+        <s>The <choice><orig>Author</orig><reg>author</reg></choice> gives the <choice><orig>Murder</orig><reg>murder</reg></choice> of <name type="person">Michael Brown</name> due to <choice><orig>Police</orig><reg>police</reg></choice> brutality as an example for racism still being present in the <name type="geo">USA</name>.</s>
+        <s>As another example the <choice><orig>Author</orig><reg>author</reg></choice> talks about black men being controlled and arrested than white because of <q>Stop and frisk</q>.</s>
+        <s>The author then reminds the reader, that segregation was officially abolished in <date>1964</date> in the <name type="misc">Civil Rights Act</name> but that little has changed, because black people are still being discriminated socially and financially and that because many black people don't get the same education as white people and so they don't graduate from college or better.</s>
+        <s><choice><orig>this</orig><reg>This</reg></choice> problem has lead to 25% of black people living in poverty against less than 10% of white people living in poverty.</s>
+        <s>Something that surprised me about the text is, that black people don't get the same education as white people and that the remnants of segregation still are putting black people to a disadvantage and that although the <name type="geo">US</name> had a democratic, black president for eight years little has changed.</s>
+        <s>The only way to improve black <choice><orig>peoples</orig><reg>people's</reg></choice> lives is to make housing, cities and schools more affordable and <gap reason="illegible" quantity="1" unit="word">nixet</gap>.</s>
+        <s>So that black people <choice><orig>arent</orig><reg>aren't</reg></choice> segregated anymore.</s>
+        <s>Also you should get them out of the cities, taht were desgined for segregation and change them which would be hard and expensive, which probably is another reason why so little has changed.</s>
+        <s>Have you ever witnessed black people being discriminated <choice><orig>first hand</orig><reg>first-hand</reg></choice>?</s>
+        <s>Would love to hear your thoughts and opinions about the text and your personal experience.</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

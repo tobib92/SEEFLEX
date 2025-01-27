@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> and <ref target="a11lk1_1" type="character">Amir</ref> have a very difficult relationship that develops and changes a lot throughout the play.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> already gets introduced in scene two.</s>
+        <s>He is <ref target="a11lk1_1" type="character">Amir's</ref> <choice><orig>Nephew</orig><reg>nephew</reg></choice>, and also is from <name type="geo">Pakistan</name>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe's</ref> parents and <ref target="a11lk1_1" type="character">Amir's</ref> parents immigrated from <name type="geo">Pakistan</name> into <name type="geo">America</name>.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> is 40 years old, a <choice><orig>successfull</orig><reg>successful</reg></choice> lawyer living a wealthy life in <name type="geo">Manhattan, New York</name>.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> has fully converted into American lifestyle and society: he has a perfect American accent, dresses like an American, changed his name and even married a white woman: <ref target="a11lk1_1" type="character">Emily</ref>.</s>
+        <s>One would say that he is assimilated into American society.</s>
+        <s>He completely gave up his identity and doesn't want to be associated with the Islam in any way.</s>
+        <s>He even defends the American authorities and their actions against <ref target="a11lk1_1" type="character">Abe</ref>, even though they were clearly racist and completely against his religion and his heritage <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote>... Then they push us to start doing stuff for them.</quote><ref target="a11lk1_1" type="character">Amir</ref>: <quote>Okay...</quote>, <ref target="a11lk1_1" type="line">line 11-12</ref>)</add>.</s>
+        <s>Even though <ref target="a11lk1_1" type="character">Abe</ref> is also an immigrant in <name type="geo">America</name>, he has a very different point of view.</s>
+        <s>His opinions split with the ones of his uncle <ref target="a11lk1_1" type="character">Amir</ref>, especially at the end of the play.</s>
+        <s>While <ref target="a11lk1_1" type="character">Amir</ref> rather assimilated, <ref target="a11lk1_1" type="character">Abe</ref> integrated into American society.</s>
+        <s>In the beginning of the play we learn that he also changed his name, just to make things easier for him here in <name type="geo">America</name>.</s>
+        <s>But in scene four he reveals, that he changed his name back <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote>I changed it back!</quote>, <ref target="a11lk1_1" type="line">line 59</ref>)</add>.</s>
+        <s>So one big difference between <ref target="a11lk1_1" type="character">Amir</ref> and <ref target="a11lk1_1" type="character">Abe</ref> is, that while <ref target="a11lk1_1" type="character">Amir</ref> is constantly trying to hide his religion and deny his heritage, <ref target="a11lk1_1" type="character">Abe</ref> learns to be proud of his identity and where he comes from.</s>
+        <s>Because <ref target="a11lk1_1" type="character">Amir</ref> just <choice><orig>wont</orig><reg>won't</reg></choice> <choice><orig>acknoulidge</orig><reg>acknowledge</reg></choice> the unjustice in society and rather ignore it and hide from it, they split apart during the play and get into a huge fight at the end, which ends with <ref target="a11lk1_1" type="character">Abe</ref> saying that he doesn't need <ref target="a11lk1_1" type="character">Amir</ref> anymore <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote>I'll handle it myself, uncle</quote>, <ref target="a11lk1_1" type="line">line 75</ref>)</add>.</s>
+        <s>This shows that <ref target="a11lk1_1" type="character">Abe</ref> has given up to try to change <ref target="a11lk1_1" type="character">Amir's</ref> point of view and convince him to be proud of his religion and how he was raised.</s>
+        <s>One last time, he comes to him for help in a case of injustice.</s>
+        <s>But even though the case is on a relative, a family member of <ref target="a11lk1_1" type="character">Amir</ref>, he still defends the American authorities.</s>
+        <s>He does not even want to be on the case and immediately calls 
+		<ref target="a11lk1_1" type="character">Ken</ref>, a co-worker who works at the same lawfirm as him <add>(<ref target="a11lk1_1" type="character">Amir</ref>: <quote>I'm calling <ref target="a11lk1_1" type="character">Ken</ref></quote>, <ref target="a11lk1_1" type="line">line 17</ref>, <ref target="a11lk1_1" type="character">Amir</ref>: <quote>The lawyer on <ref target="a11lk1_1" type="character">Imam Fareed's</ref> case...</quote>, line 19)</add>.</s>
+        <s>After already making a bad experience when defending a Muslim man, he is so scared of being associated with the Islam again that he immediately gives it out of his hands.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is speechless, that <ref target="a11lk1_1" type="character">Amir</ref> is so <choice><orig>stubburn</orig><reg>stubborn</reg></choice> in his ways.</s>
+        <s>He starts to confront him about what he would do if he had to work for the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>, the ones that take racial actions against people with an immigration status <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote><qs>They're going into our community and looking for people whose immigration status is vulnerable.</qs><qs>Then they push us to start doing stuff for them</qs></quote>, <ref target="a11lk1_1" type="line">line 10-11</ref>)</add>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> gets really frustrated about <ref target="a11lk1_1" type="character">Amir</ref> because he just doesn't see what is happening right in front of him.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> thinks <ref target="a11lk1_1" type="character">Abe</ref> just does not respect him anymore <add>(<ref target="a11lk1_1" type="character">Amir</ref>: <quote><qs>I'm still your elder.</qs><qs>You need to show me a little respect</qs></quote>, <ref target="a11lk1_1" type="line">line 54</ref>)</add>, but in <ref target="a11lk1_1" type="character">Abe's</ref> eyes <ref target="a11lk1_1" type="character">Amir</ref> has forgotten who he really is <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote>You forgot who you are</quote>, <ref target="a11lk1_1" type="line">line 57</ref>)</add>.</s>
+        <s>The fight gets very intense, <ref target="a11lk1_1" type="character">Abe</ref> loses control and yells at <ref target="a11lk1_1" type="character">Amir</ref> <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote><qs>It's disgusting.</qs><qs>The one thing I can be sure about with you?</qs><qs>You'll always turn on your own people.</qs><qs>You think that makes these people like you more when you do that?</qs><qs>They don't.</qs><qs>They just think you hate yourself.</qs><qs>And they're right!</qs><qs>You do!</qs><qs>I looked up to you.</qs><qs>You have no idea</qs></quote>, <ref target="a11lk1_1" type="line">line 63-66</ref>)</add>.</s>
+        <s>He accuses him of making things worse by hiding his identity, trying to make society accept and like him.</s>
+        <s>He also accuses him of being a bad rolemodel to him.</s>
+        <s>He probably also changed his name in the first place because <ref target="a11lk1_1" type="character">Amir</ref> did so.</s>
+        <s>And last, he says that <ref target="a11lk1_1" type="character">Amir's</ref> fassade is useless.</s>
+        <s>That people don't believe him and see that he actually hates who he is and what he has to become to be accepted in <name type="geo">America</name>.</s>
+      </p>
+      <p>
+        <s>In <ref target="a11lk1_1" type="character">Abe's</ref> opinion, it is useless to hide.</s>
+        <s>You should be aware and proud of where you come from.</s>
+        <s>And if <name type="geo">America</name> is too much and not <q>ready</q> for them they just should have stayed in <name type="geo">Pakistan</name> <add>(<ref target="a11lk1_1" type="character">Abe</ref>: <quote>Maybe we never should've left</quote>, <ref target="a11lk1_1" type="line">line 40</ref>)</add>.</s>
+        <s>But <ref target="a11lk1_1" type="character">Amir</ref> is so scared and oppressed, he fights against everything <ref target="a11lk1_1" type="character">Abe</ref> is saying <add>(<ref target="a11lk1_1" type="character">Amir</ref>: <quote><qs>and to do it honestly.</qs><qs>Which isn't an option in <name type="geo">Pakistan</name></qs></quote>, <ref target="a11lk1_1" type="line">line 45</ref>)</add>.</s>
+      </p>
+      <p>
+        <s>All in all you can say that even though <ref target="a11lk1_1" type="character">Amir</ref> and <ref target="a11lk1_1" type="character">Abe</ref> are related, come from the same country and share the same religion, they are very different characters with very different world views.</s>
+        <s>While <ref target="a11lk1_1" type="character">Amir</ref> is completely oppressing his identity, <ref target="a11lk1_1" type="character">Abe</ref> learns to be proud of his heritage and does not hide anymore.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> still believes that <ref target="a11lk1_1" type="character">Amir's</ref> mind can be changed.</s>
+        <s>Until the end, he tries to convince him that what is happening is not normal and he has to stop hiding.</s>
+        <s>But <ref target="a11lk1_1" type="character">Amir</ref> is so scared, so oppressed and so <choice><orig>stubburn</orig><reg>stubborn</reg></choice>, he just won't listen to <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s>Because of that difference in their opinion, they get into a huge fight and drift apart during the play.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

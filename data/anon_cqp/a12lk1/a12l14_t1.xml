@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l14_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="a12lk1_1" type="title">Sonnet 138</ref> by<ref target="a12lk1_1" type="author">Shakespeare</ref> is one of his 154 sonnets published in the early 17th century.</s>
+      </p>
+      <p>
+        <s>Sonnet 138 is directed to a female beloved one.</s>
+      </p>
+      <p>
+        <s>It deals with the role of truth in a loving relationship.</s>
+        <s>In the first quatrain the person of the poem states that he or she knows that the beloved one his but yet he or she still believes her when she says that she is made of truth.</s>
+      </p>
+      <p>
+        <s>The person of the poem is concerned, as the beloved one lies about the perception of age and youth of the lyrical I, but the perspective changes through the poem as the lyrical I accepts the good intention behind the lies.</s>
+      </p>
+      <p>
+        <s>The person of the poem does not oppose his or her beloved one as he or she points out that trust is love's best habit and concludes that age in love is not defined through years of actual age.</s>
+      </p>
+      <p>
+        <s>The lyrical I experiences a conflict of gathering for unconditional truth in a loving relationship against lying with a good intention as a matter of love language in order to please the other.</s>
+        <s>Therefore the person of the poem also comes to the conclusion that the trust their relationship brings along reasons the lying and they can lie together but still depend on a <choice><orig>truthfull</orig><reg>truthful</reg></choice> partnership.</s>
+      </p>
+      <p>
+        <s>The message that appears in the sonnet is not only that the age of a beloved one is independent from it's true biological age, but rather defined by <choice><orig>it's</orig><reg>its</reg></choice> character, but also that trust is the fundamental condition for a healthy relationship.</s>
+        <s>Trust is pictured as a tool of such importance that it gives the ability to excuse a lie that is reasoned by a good intention.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

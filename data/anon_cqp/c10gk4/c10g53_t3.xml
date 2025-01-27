@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g53_t3</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Jane,</salute>
+      </p>
+      <p>
+        <s>remember the time we chatted about student exchanges?</s>
+        <s>You told me this is a <quote>waste of time</quote>.</s>
+        <s>But I am writing this e-mail to convince you, it is not.</s>
+        <s>I <choice><orig>red</orig><reg>read</reg></choice> a lot about student exchanges and noticed the importance of cultural exchange.</s>
+        <s>In <name type="geo">Germany</name> we live in a country full of different cultures, but a <choice><orig>peacf.l</orig><reg>peaceful</reg></choice> cooperation between all of them often does not exist.</s>
+        <s>Because some people do not want to experience a culture beside their own.</s>
+        <s>They often become intolerant and blame others for <choice><orig>beeing</orig><reg>being</reg></choice> different.</s>
+        <s>They build more and more walls between them and others causing this <choice><orig>misbelive</orig><reg>misbelief</reg></choice> of <choice><orig>sepperation</orig><reg>separation</reg></choice>, <choice><orig>beeing</orig><reg>being</reg></choice> different as a bad thing lasting to adulthood or death.</s>
+        <s>That is why teenagers, <choice><orig>wich</orig><reg>which</reg></choice> are still openminded and motivated to exchange cultures, should do exactly this.</s>
+        <s>One way this is possible is <choice><orig>a</orig><reg>an</reg></choice> exchange year in another country.</s>
+        <s>To share culture and tear down walls.</s>
+        <s>To make earth a better place, where everyone is treated better.</s>
+        <s>And to have some fun while experiencing the unknown.</s>
+        <s>There are so many different ways, a culture can be experienced.</s>
+        <s>You can pray with them, eat traditional dishes, take part in rituals, sing with them, or just spend some time together, ignoring the differences and focus on the things you have in common.</s>
+      </p>
+      <p>
+        <s>All in all I think, student exchanges are a great <choice><orig>oportunity</orig><reg>opportunity</reg></choice> to <choice><orig>increace</orig><reg>increase</reg></choice> your knowledge and start to connect with a world full of understanding and beauty.</s>
+      </p>
+      <p>
+        <s>I hope, I changed your mind.</s>
+      </p>
+      <p>
+        <s>See you,</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

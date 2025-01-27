@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g25_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think it is necessary to do something against the environment pollution, because our planet it getting more dirty.</s>
+      </p>
+      <p>
+        <s>To do something against it, plastic bottles can be recycled.</s>
+        <s>A lot of people aren't putting trash in the bin.</s>
+        <s>They are throwing it in plants or ar the middle of the street.</s>
+        <s>We also can start an organisation or a group, who <choice><orig>sourt</orig><reg>sort</reg></choice> the trash in the bin.</s>
+        <s>Other countries can also sort the waste in different bins.</s>
+        <s>So we don't have the plastic and paper in one bin.</s>
+        <s>In the supermarket, you don't have to buy plastic bags.</s>
+        <s>You can bring your own nets for the vegetable or fruit station.</s>
+        <s>Furthermore you can use the old paperbags again, so you don't have to buy new ones.</s>
+      </p>
+      <p>
+        <s>On the other hand plastic bottles or bags are not heavy.</s>
+        <s>They are also child friendly and if you drop them, <choice><orig>the</orig><reg>they</reg></choice> don't break.</s>
+        <s>In addition, plastic is not expensive too.</s>
+      </p>
+      <p>
+        <s>To sum up, I would say that <choice><orig>they</orig><reg>there</reg></choice> are many different ways to make the earth a better place.</s>
+        <s>If every person does help, the earth isn't dirty anymore.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

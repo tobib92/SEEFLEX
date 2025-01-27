@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l24_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given scene the topic of their forbidden love is in the focus.</s>
+        <s>How they reflect on their <quote>love against the odds</quote> becomes clear by taking a close look at the stylistic devices.</s>
+      </p>
+      <p>
+        <s>The extract begins with the personification: <quote>My ears have not yet drunk a hundred words of that tongue's utterance, yet I know the sound</quote><ref target="a12lk2_1" type="line">(ll. 58f)</ref>.</s>
+        <s><name type="person">Juliet</name> immediately recognizes <name type="person">Romeo's</name> voice even though they have only seen each other once at the masquerade where they fell in love.</s>
+        <s>Thus, <name type="person">Juliet</name> seems to already know him very well which expresses her love at first for him and their connection.</s>
+        <s>As a reaction to <name type="person">Juliet's</name> concern about him putting himself at risk by entering <name type="person">Capulet</name> property and climbing over the wall he makes use of the metaphor <quote>With love's light wings did I o'er-perch these walls</quote> <ref target="a12lk2_1" type="line">(l. 66)</ref>.</s>
+        <s>Therefore, his love for <name type="person">Juliet</name> gives him the ability and the bravery to put himself at risk for her and climb over the wall.</s>
+      </p>
+      <p>
+        <s><quote>Love's light wings</quote> also <choice><orig>embodys</orig><reg>embodies</reg></choice> the ease that he climbed the wall with and the positive feeling the love created in him since wings are associated to angels and birds which resemble freedom and the peace of heaven.</s>
+      </p>
+      <p>
+        <s>That <name type="person">Romeo</name> is not scared of the kinsmen and his own death is enhanced with the <choice><orig>similye</orig><reg>simile</reg></choice> in <ref target="a12lk2_1" type="line">(ll. 71f)</ref> <quote>Alack, there lies more peril in thine eye than twenty of their swords: look thou but sweet</quote>.</s>
+        <s><name type="person">Romeo</name> does not see the danger in the kinsmen but in the possibility that <name type="person">Juliet</name> could not love him back.</s>
+        <s>He knows that their love is against the odds and is aware of the fact that the <name type="person">Capulets</name> would kill him in the case taht they <gap reason="illegible" quantity="1" unit="word">geas</gap> him.</s>
+        <s>Nevertheless, he is not scared of his death and their weapons but only desires that <name type="person">Juliet</name> reciprocates his feelings.</s>
+      </p>
+      <p>
+        <s>As a result, his love appears to be immense and honest as he made it all the dangerous way at night to her house.</s>
+        <s>Just to confess his love he put his life at risk.</s>
+      </p>
+      <p>
+        <s>Additionally, he underlines again that he would rather want to die if <name type="person">Juliet</name> does not love him by contrasting <quote>life</quote> and <quote>death</quote> as well as <quote>hate</quote> and <quote>love</quote> in <ref target="a12lk2_1" type="line">(ll. 77f)</ref> he explains <quote>My life were better ended by their hate, than death prorouged, wanting of thy love</quote>.</s>
+        <s>Here he puts the family's hatred into focus again.</s>
+        <s>The dramatic effect is emphasized by the contrast of <quote>life</quote> and <quote>death</quote> where it becomes clear that <name type="person">Romeo</name> would rather die loving her than live and not having her.</s>
+        <s>This is of great importance to the further plot of the drama as <name type="person">Romeo</name> commits suicide because he thinks that <name type="person">Juliet</name> is dead.</s>
+        <s>But also the contrast of <quote>hate</quote> and <quote>love</quote> is essential to the play as it illustrates that their family's grudge complicates their love and that <name type="person">Romeo</name> and <name type="person">Juliet</name> still love each other even though they were raised to hate each other.</s>
+      </p>
+      <p>
+        <s>The extent of <name type="person">Romeo's</name> love is underlined in <ref target="a12lk2_1" type="line">(ll. 83f)</ref> with the metaphor <quote>As that vast shore wash'd with the farthest sea, I would adventure for sure merchandise</quote>.</s>
+        <s>So even if their love would be even more complicated and if she would be even further away, he would still do anything to find her.</s>
+      </p>
+      <p>
+        <s>Moreover, he compares her to a <quote>merchandise</quote> which implicates of what high value she is to him.</s>
+        <s>Even though <name type="person">Juliet</name> is very touched by his words she still seems to have concerns about the <choice><orig>strenght</orig><reg>strength</reg></choice> and the pace of their love and wants a clear answer and promise from <name type="person">Romeo</name>.</s>
+        <s>Thus, she questions his love and her behaviour just to be sure in <ref target="a12lk2_1" type="line">(l. 90)</ref> <quote>Dost thou love me?</quote>, in <ref target="a12lk2_1" type="line">(l. 95)</ref><quote>Or if thou think'st I am too quickly won</quote> and in <ref target="a12lk2_1" type="line">(l. 99)</ref> <quote>And therefore thou mayst think my behaviour light</quote>.</s>
+        <s><name type="person">Juliet</name> seems to be sure about herself loving <name type="person">Romeo</name> but still not certain how <name type="person">Romeo</name> <choice><orig>percieves</orig><reg>perceives</reg></choice> her and is longing for his validation.</s>
+      </p>
+      <p>
+        <s>In order to convince <name type="person">Juliet</name> that he is serious, <name type="person">Romeo</name> swears by the moon.</s>
+        <s>The multiple repetitions of the word <quote>swear</quote> <ref target="a12lk2_1" type="line">(ll. 107,109,112,113,114)</ref> illustrate how important it is to the two lovers to ensure their love so they can count on the other's reliability and trust since they later decide to get married.</s>
+        <s><name type="person">Juliet</name> does not want <name type="person">Romeo</name> to swear by the moon as he changes constantly but asks him to swear by his <quote>gracious self</quote> <ref target="a12lk2_1" type="line">(l. 114)</ref> in order to trust him.</s>
+      </p>
+      <p>
+        <s>All in all, it gets clear that <name type="person">Romeo</name> and <name type="person">Juliet</name> are both very certain about their love for the other but still needed the validation that the feelings are on both sides.</s>
+      </p>
+      <p>
+        <s>They are aware of the dangers and difficulties about their love but both conclude that their lvoe is stronger than the family's hatred.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g10_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Paul,</salute>
+      </p>
+      <p>
+        <s>I am happy to hear from you again!</s>
+        <s>How are you?</s>
+        <s>How is school doing?</s>
+      </p>
+      <p>
+        <s>In your last message you have asked me about our school project <name type="misc">KLS goes green</name>.</s>
+        <s>You know my school is <name type="misc">KLS</name> and <name type="misc">goes green</name> is obvious, isn't it?</s>
+        <s>I'm just kidding.</s>
+      </p>
+      <p>
+        <s>The day <name type="misc">KLS goes green</name> was an obligated day for all students full of workshops about our environment and how we can change our way of living to reach a sustainable life.</s>
+        <s>As a student we could choose between 40 different workshop <choice><orig>refeering</orig><reg>referring</reg></choice> to different subjects like food, the use of water or second-hand clothing.</s>
+      </p>
+      <p>
+        <s>Have you heard about the world-wide movement <name type="misc">Fridays for Future</name>?</s>
+        <s>I'm sure you did.</s>
+        <s>Many student from our school - I was their sometimes too - visited the demonstrations of the movement.</s>
+        <s>As a result our leading students tried to bring the consciousness for our environment to our school.</s>
+        <s>In cooperation with the teachers they have created this day called <name type="misc">KLS goes green</name>.</s>
+      </p>
+      <p>
+        <s>In my opinion they really did a great job.</s>
+      </p>
+      <p>
+        <s>Some of the workshops <choice><orig>fokussed</orig><reg>focussed</reg></choice> on improving the sustainability of our school.</s>
+        <s>The students for example tried to find a way to make our shop in school more sustainable with fair and healthy produced products.</s>
+      </p>
+      <p>
+        <s>Other students made cupcakes without using products from animals.</s>
+        <s>They tried to show how tasteful a diet without these products and a living a sustainable life can be.</s>
+      </p>
+      <p>
+        <s>As a highlight of the day two rapper visited our school showing students how to use our voice.</s>
+        <s>With that knowledge we are able to learly communicate in a discussion.</s>
+        <s>Something that is quiet <choice><orig>usefull</orig><reg>useful</reg></choice>, don't you think?</s>
+      </p>
+      <p>
+        <s>All in all I can say that I really like the idea of the day <name type="misc">KLS goes green</name>.</s>
+        <s>On the day itself two years ago I was sick and needed to stay home.</s>
+        <s>I'm sad that I couldn't take part of this project but I'm looking forward to the next day of the idea to help students creating their own sustainable life.</s>
+      </p>
+      <p>
+        <s>I hope I have helped you to understand the day we call <name type="misc">KLS goes green</name>.</s>
+        <s>I looking forward to your <choice><orig>respond</orig><reg>response</reg></choice>!</s>
+      </p>
+      <p>
+        <signed>Best greetings from Germany, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

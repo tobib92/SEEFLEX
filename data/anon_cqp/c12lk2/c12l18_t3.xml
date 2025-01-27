@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12l18_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <sp>
+        <speaker>A</speaker>
+        <p>
+          <s>What do you think about our new topic in <choice><orig>english</orig><reg>English</reg></choice>?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>B</speaker>
+        <p>
+          <kinesic>hmm</kinesic>
+          <s>I don't really like it.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>A</speaker>
+        <p>
+          <s>Really?</s>
+          <s>I think learning about <name type="person">Shakespeare</name> is pretty interesting, why are you not happy with it?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>B</speaker>
+        <p>
+          <s>I just don't think it is necessary for us to read what some random guy wrote hundred years ago.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>A</speaker>
+        <p>
+          <s>What, how can you say that?</s>
+          <s>Don't you know who <name type="person">Shakespeare</name> is?</s>
+          <s>When someone is learning <choice><orig>english</orig><reg>English</reg></choice> they have to talk about <name type="person">Shakespeare</name> at least once.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>B</speaker>
+        <p>
+          <s>Why should we do that?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>A</speaker>
+        <p>
+          <s>Because <name type="person">Shakespeare</name> alone with his theater plays and poems, invented so many new <choice><orig>word</orig><reg>words</reg></choice> and expressions which are still used to this day and got so many famous works, which are still being used for the making of movies and books.</s>
+          <s>Don't you want to read at least one book to understand how he became so famous and still is even now?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>B</speaker>
+        <p>
+          <s>Maybe you are right.</s>
+          <s>reading <name type="person">Shakespeare</name> and getting to know about him might be pretty interesting.</s>
+          <s>I actually just didn't like this topic that much, because I'm really <choice><orig>to</orig><reg>too</reg></choice> bad at interpreting poems.</s>
+        </p>
+      </sp>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l21_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi John</salute>
+      </p>
+      <p>
+        <s>I have received your e-mail about your future school year at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> and the label <name type="misc">school without racism and school with courage</name> and I am very pleased to hear that you are coming to visit us and that you read about the label.</s>
+        <s>I found an article about it and I have a lot to share.</s>
+      </p>
+      <p>
+        <s>First <choice><orig>off</orig><reg>of</reg></choice> the label <name type="misc">school without racism, school with courage</name> is currently the biggest German school label with more than 3000 schools participating unit.</s>
+      </p>
+      <p>
+        <s>One participant commented on the label, his name is <name type="person">Karim Fereidooni</name>.</s>
+        <s>He said that there cannot be a racism free school because of the big gathering of different people and ethnicities but there can be word done against racism so that schools get a sensibility when it comes to this particular topic.</s>
+      </p>
+      <p>
+        <s>The schools on the label are extremely aware of the racism occuring in different schools and they oriented themselves on a study made by the <name type="misc">University of Mannheim</name>.</s>
+        <s>The study is called <name type="misc">Max versus Murat</name>.</s>
+        <s>To clear things up, <name type="misc">Max</name> is a typical <choice><orig>german</orig><reg>German</reg></choice> name and <name type="misc">Murat</name> is a typical <choice><orig>turkish</orig><reg>Turkish</reg></choice> name.</s>
+        <s>The study showed that even though both <name type="misc">Max</name> and <name type="misc">Murat</name> presented a work with the same amount of mistakes, the teacher graded <name type="misc">Murat's</name> work worse than <name type="misc">Max's</name>.</s>
+      </p>
+      <p>
+        <s>A major problem to racism is that it is not mentioned and it is ignored.</s>
+        <s>By not giving this topic the amount of attention that is needed, schools are going to continue behaving in a racist manner.</s>
+      </p>
+      <p>
+        <s>Many teachers are not even aware of their racist behaviour and are sometimes racist without realizing it.</s>
+      </p>
+      <p>
+        <s>The article also mentions that racism is taught in early ages through kids books or cartoons which influences kids of behaving that way.</s>
+      </p>
+      <p>
+        <s>I'm now at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> for one and a hald years and I can assure you that racism is being handled very positively.</s>
+        <s>I have seen teachers talk about it and made sure that the students know the problem of racism.</s>
+        <s>Nevertheless, racism is still happening and we should continue to fight against it.</s>
+      </p>
+      <p>
+        <s>Take care</s>
+      </p>
+      <p>
+        <signed>Your friend John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

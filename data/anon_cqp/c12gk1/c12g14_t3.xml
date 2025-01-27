@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g14_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following, I'm going to discuss <ref target="c12gk1_1" type="author">Shakespeare's</ref> relevance for young people today.</s>
+      </p>
+      <p>
+        <s>Especially Young people often don't feel like <ref target="c12gk1_1" type="author">Shakespeare</ref> because it is very difficult to understand.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> used very old English with younger people don't even know.</s>
+        <s>He also founded a <choice><orig>lots</orig><reg>lot</reg></choice> of phrases.</s>
+        <s>Today they aren't that common anymore so young people don't get them.</s>
+        <s>In addition are there other good writers which are easier to understand.</s>
+        <s>This could solve the problem that young people fastly <choice><orig>loose</orig><reg>lose</reg></choice> their motivation, when they deal with Shakespeare.</s>
+        <s>If they don't get why <ref target="c12gk1_1" type="author">Shakespeare</ref> is so special there is no reason, why they have to deal with him.</s>
+      </p>
+      <p>
+        <s>On the other hand there are a lot good aspects why dealing with <ref target="c12gk1_1" type="author">Shakespeare</ref> is something good for young children.</s>
+        <s>First <ref target="c12gk1_1" type="author">Shakespeare</ref> is a very important historical person.</s>
+        <s>If you read his plays and poems you learn beside literature also some thing about history.</s>
+        <s>He had also such a big impact on <choice><orig>english</orig><reg>English</reg></choice> and change the language a lot.</s>
+        <s>So it is important to know why the language today is like this.</s>
+        <s>Even if the phrases he invented orange juice that awesome they still exist and if you know them you could use them.</s>
+        <s>This could help one to express for example feelings better.</s>
+        <s>Another argument is that his topics are timeless and so today still relevant.</s>
+        <s>Especially a topic like love will always be important.</s>
+        <s>Furthermore lots of films and <choice><orig>storys</orig><reg>stories</reg></choice> are based on Shakespeare.</s>
+        <s>This shows how important and great his story line is.</s>
+        <s>Dealing with <ref target="c12gk1_1" type="author">Shakespeare</ref> could also inspire young people.</s>
+        <s>Maybe they start to write poems or plays or get creative in another way.</s>
+        <s>Young people also learn how to deal with stylistic devices.</s>
+        <s>If someone tries to convince them for example by using them in a political speech, they know how to recognize and deal with them.</s>
+      </p>
+      <p>
+        <s>I think that this are a lot good arguments for dealing with Shakespeare.</s>
+        <s>But one should not forget how difficult his language is.</s>
+        <s>So I think if you deal for example with <ref target="c12gk1_1" type="author">Shakespeare</ref> in school the teacher should make the lessons interesting and clear.</s>
+        <s>So the students get the topics and hopefully don't <choice><orig>loose</orig><reg>lose</reg></choice> their motivation.</s>
+      </p>
+      <p>
+        <s>To sum that up I think it is important to deal with Shakespeare.</s>
+        <s>His topics are still relevant and you can use your knowledge about stylistic devices also at another times.</s>
+        <s>But I think it is important that dealing with <ref target="c12gk1_1" type="author">Shakespeare</ref> is interesting and clear so the young people don't <choice><orig>loose</orig><reg>lose</reg></choice> their motivation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

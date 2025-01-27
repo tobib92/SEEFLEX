@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l20_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Tom,</salute>
+      </p>
+      <p>
+        <s>Do you remember our talk from last week, where you said that you have this essay about <name type="person">Shakespeare's</name> global <choice><orig>appeall</orig><reg>appeal</reg></choice>, or something like that?</s>
+        <s>So, I just have been reading this article from a German newspaper named <choice><abbr>MAZ</abbr><expan>Märkische Allgemeine Zeitung</expan></choice> named <ref target="a12lk2_2" type="title">Darum spielen wir Shakespeare</ref> and I found some text extracts that might be helpful for you.</s>
+      </p>
+      <p>
+        <s>The article is written by <ref target="a12lk2_2" type="author">Karim Saab</ref> on the <date><choice><orig>23th</orig><reg>23rd</reg></choice> of April 2016</date> and it is aabout four theaterdudes who are talking about why <name type="person">Shakespeare</name> is still so popular and the favourite of all <choice><orig>dramatist</orig><reg>dramatists</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The first one is <name type="person">Mario Holetzeck</name>.</s>
+        <s>He is a director of acting on a government's <choice><orig>theather</orig><reg>theater</reg></choice> named <name type="misc">Cottbus</name>.</s>
+        <s>He says that <name type="person">Shakespeare</name> is a genius, who is just different <choice><orig>than</orig><reg>then</reg></choice> others.</s>
+        <s><name type="person">Shakespeare</name> never ends there is always something to explore, he says that there are always new surprises when watching a <name type="person">Shakespeare</name> play, because you dive into a world in the past, but get confronted with a world of the presence.</s>
+        <s>All in all it is very clear that he is a big <choice><orig><name type="person">Shakespeare</name>-fan</orig><reg><name type="person">Shakespeare</name> fan</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The next one is the artistic director of the <name type="misc">Hans-Otto-Theater</name> in <name type="geo">Potsdam</name>.</s>
+        <s>His name is <name type="person">Tobias Wellemeyer</name>.</s>
+        <s>His opinion about <name type="person">Shakespeare</name> is literally the same as by the first one.</s>
+        <s>There is no one like <name type="person">Shakespeare</name> who had such an impact on the theatre, there is no way without <name type="person">Shakespeare</name>, are his words.</s>
+        <s>This guy is specialised in the topic love and he cannot stop raving about how impressed he is by his work.</s>
+      </p>
+      <p>
+        <s>Another artistic director named <name type="person">Reinhard Simon</name>, this time from the <name type="misc"><gap reason="illegible" quantity="1" unit="word">Uckermärkischen</gap> stages Schwedt</name> <add>sorry there is no other way to translate this haha</add> has actually the same opinion.</s>
+        <s>Again!</s>
+        <s>He talks about an unbelievable poetic and rhetoric power, <name type="person">Shakespeare's</name> work gives.</s>
+        <s>He also talks about how complex <name type="person">Shakespeare's</name> figures are and how his plays are current and <choice><orig>succint</orig><reg>succinct</reg></choice> for every epoch.</s>
+        <s><name type="person">Shakespeare's</name> secret, as <name type="person">Reinhard Simon</name> says, is that he can produce feelings with the help of words.</s>
+      </p>
+      <p>
+        <s>The last one is a guy called <name type="geo">Igor Halland-Moritz</name>.</s>
+        <s>He is a literary director at the <name type="misc">new stages Senftenberg</name> and he also loves <name type="person">Shakespeare</name> <add>what a surprise</add>.</s>
+        <s><quote>There is just no way around <name type="person">Shakespeare</name></quote>, he says, <quote>It seems, like every time has its own <choice><orig>Shakespeare-translation</orig><reg>Shakespeare translation</reg></choice></quote>.</s>
+      </p>
+      <p>
+        <s>I think, this shows you pretty good what the professionals think of <name type="person">Shakespeare</name>.</s>
+        <s><name type="person">Shakespeare</name> definitely is played in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>Did you understand everything I wrote?</s>
+        <s>If not feel free to ask, so I can try explaining it to you.</s>
+      </p>
+      <p>
+        <s>I hope I helped you a bit.</s>
+      </p>
+      <p>
+        <s>Take it easy bro!</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

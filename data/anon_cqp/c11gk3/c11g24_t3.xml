@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g24_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk3_1" type="character">Mama</ref> said that <ref target="c11gk3_1" type="character">Walter</ref> has almost lost his mind thinking about money all the time.</s>
+      </p>
+      <p>
+        <s>She does not think <ref target="c11gk3_1" type="character">Walter's</ref> idea of opening a liquor store is a good way to earn money.</s>
+      </p>
+      <p>
+        <s>In my <choice><orig>oppinion</orig><reg>opinion</reg></choice> <ref target="c11gk3_1" type="character">Mama</ref> is right.</s>
+        <s>It seems to be quite <choice><orig>riscy</orig><reg>risky</reg></choice> to earn money with alcohol.</s>
+        <s>Furthermore it is dangerous to spend all the money in one shop, because if the trade does not work well, the family will quickly get even more poor.</s>
+      </p>
+      <p>
+        <s>For me <ref target="c11gk3_1" type="character"><choice><orig>Beneathas</orig><reg>Beneatha's</reg></choice></ref> dream seems to be a better chance for a <choice><orig>save</orig><reg>safe</reg></choice> future money <choice><orig>surce</orig><reg>source</reg></choice>.</s>
+        <s>The problem is, that back <choice><orig>than</orig><reg>then</reg></choice> it was quite hard as an African-American woman to become a doctor.</s>
+        <s>The American Dream promises, that everybody, no matter where you were born and how rich your parents are, you will get the <choice><orig>cance</orig><reg>chance</reg></choice> to become rich and happy in <name type="geo">America</name>.</s>
+      </p>
+      <p>
+        <s>In <choice><orig>reallity</orig><reg>reality</reg></choice> it was not that easy, especially as a <choice><orig>women</orig><reg>woman</reg></choice> of colour.</s>
+        <s>Black people <choice><orig>wer</orig><reg>were</reg></choice> <choice><orig>descriminated</orig><reg>discriminated</reg></choice> and traded as goods.</s>
+      </p>
+      <p>
+        <s>When knowing this <ref target="c11gk3_1" type="character">Beneatha's</ref> dream seems very hard to <choice><orig>acheve</orig><reg>achieve</reg></choice>.</s>
+      </p>
+      <p>
+        <s>A bigger house for the family seems necessary and maybe it would not be that easy to find a matching one, but in my <choice><orig>oppinion</orig><reg>opinion</reg></choice> it seems to be the dream that could be realized most.</s>
+      </p>
+      <p>
+        <s>The most difficult part in finding a house could be, that black people were not welcomed in cities of white people, but the most houses, that were build for Blacks are not very beautiful.</s>
+      </p>
+      <p>
+        <s>Altogether it seems to be quite hard as African American in past.</s>
+        <s>I am very lucky that there is not that much discrimination of African Americans anymore, but in my <choice><orig>oppinion</orig><reg>opinion</reg></choice> we still need to fight for the right of coloured people.</s>
+        <s>They need to be able to live like all the white people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

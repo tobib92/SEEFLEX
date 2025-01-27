@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l34_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Joe!</salute>
+      </p>
+      <p>
+        <s>Of course I can help you with your presentation about unusual school projects worldwide.</s>
+        <s>I came across an article that I think would be helpful.</s>
+        <s>The article talks about chess as a subject at school, isn't that interesting?</s>
+      </p>
+      <p>
+        <s>Chess at school is actually getting quite popular.</s>
+        <s>There's a project in <name type="geo">Bremen</name> called <quote>Chess makes you smart</quote> <add>I translated it for you</add> and almost 2500 kids took part in it this year!</s>
+      </p>
+      <p>
+        <s>Every week they had one hour of chess lessons in their primary shcools.</s>
+        <s>But not only younger kids play chess at school: <choice><orig>At</orig><reg>at</reg></choice> one school 8th and 9th graders can play too <add>if they want to</add>.</s>
+        <s>In almost all schools that offer chess classes, they're voluntary.</s>
+        <s>But the article mentioned a primary school where it's a compulsory subject.</s>
+        <s>I was really surprised by that.</s>
+      </p>
+      <p>
+        <s>There seem to be so many benefits!</s>
+        <s>It is supposed to promote logical and strategical thinking and lead to a better concentration and a better connection between the students.</s>
+      </p>
+      <p>
+        <s>The students learn to think about the consequences of a decision, to stick to the rules and to accept a defeat.</s>
+      </p>
+      <p>
+        <s>In some schools all grades play chess together, showing younger or weaker kids that they can win over older, stronger kids.</s>
+      </p>
+      <p>
+        <s>There are also positive consequences for the general level of achievement and the social behaviour of the kids.</s>
+      </p>
+      <p>
+        <s>Wow, so many positive results.</s>
+        <s>Are you as surprised as I am?</s>
+      </p>
+      <p>
+        <s>Maybe I should start playing chess too!</s>
+        <s>Keep me updated about the presentation.</s>
+      </p>
+      <p>
+        <s>I'd love to hear from you!</s>
+      </p>
+      <p>
+        <signed>Love, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

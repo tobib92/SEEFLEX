@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In Act 2 scene 2 of <ref target="a12lk2_1" type="author">Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> the lovers reflect on their newly found love and express concerns as well as vows of love.</s>
+        <s>While both are rather faithful, <name type="person">Juliet</name> is uncertain and tries to be whatever <name type="person">Romeo</name> wants her to be, whereas <name type="person">Romeo</name> is ready to swear on whatever <name type="person">Juliet</name> asks of him.</s>
+      </p>
+      <p>
+        <s>Early in the beginning of this extract, <name type="person">Romeo</name> states taht he will do anything he has to in order to reach <name type="person">Juliet</name> because of his love for her.</s>
+        <s>He uses a <choice><orig>personnification</orig><reg>personification</reg></choice> to <choice><orig>empathise</orig><reg>emphasize</reg></choice> this, thereby saying that <quote>love</quote> is guiding him and that <quote>what love can do that love dares attempt</quote> <ref target="a12lk2_1" type="line">(l. 68)</ref>.</s>
+        <s>He intensifies this further by symbolizing love as an angel that helped him reach her <ref target="a12lk2_1" type="line">(l. 66)</ref> and continues this later on, when <name type="person">Juliet</name> asks him how he found this place.</s>
+        <s>By the use of <quote>he</quote> <ref target="a12lk2_1" type="line">(l. 81)</ref>, <name type="person">Romeo</name> again <choice><orig>personnifies</orig><reg>personifies</reg></choice> <quote>love</quote> and states that <quote>love</quote> gave him <quote>council</quote> <ref target="a12lk2_1" type="line">(l. 81)</ref>.</s>
+      </p>
+      <p>
+        <s>Whenever <name type="person">Juliet</name> tries to reason with <name type="person">Romeo</name>, he gives <quote>love</quote> as his reason to defy the odds and not even the threat of death can change his mind <ref target="a12lk2_1" type="line">(ll. 71-73)</ref>.</s>
+      </p>
+      <p>
+        <s>The lovers contrast in their way of expressing their feelings for another.</s>
+        <s>As <name type="person">Juliet</name> tries to convince him to leave so that she knows him to be safe, <name type="person">Romeo</name> wants to show how much he is milling to risk to make their unlikely relationship work.</s>
+        <s>This, <name type="person">Juliet</name> expresses by stating <quote>I would not for the world they saw thee here</quote> <ref target="a12lk2_1" type="line">(l. 74)</ref> to which <name type="person">Romeo</name> replies that he would rather be found and die <choice><orig>then</orig><reg>than</reg></choice> live without her love <ref target="a12lk2_1" type="line">(ll. 75-78)</ref>.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> then uses an antithesis to point out just how much he wants <name type="person">Juliet's</name> <quote>love</quote>.</s>
+        <s>This starts with the contrasting ideas of his <quote>life ended</quote> or his <quote>death prorogued</quote> that then goes on with the different triggers for these two possibilities.</s>
+        <s>The <quote>hate</quote> of the <name type="person">Capulets</name> might kill him but he feels that this is better than the lack of <name type="person">Juliet's</name> <quote>love</quote> <ref target="a12lk2_1" type="line">(ll. 77-78)</ref>.</s>
+        <s>Here, the reader understands just how important <name type="person">Juliet's</name> <quote>love</quote> is to <name type="person">Romeo</name> and how chaotic the situation that they are in will prove.</s>
+        <s>In Elizabethan age, this chaotic circumstance might have been seen as a sign of natural disorder that needs to be balanced out.</s>
+      </p>
+      <p>
+        <s>Since <name type="person">Juliet</name> knows how fragile their situation is, she asks <name type="person">Romeo</name> not to <quote>swear</quote> <ref target="a12lk2_1" type="line">(l. 113)</ref> on anything, especially not the <quote>moon</quote>, which <quote>changes</quote> constantly and to <name type="person">Juliet</name> <choice><orig>symbolized</orig><reg>symbolizes</reg></choice> <quote>inconsistency</quote> in the same way <ref target="a12lk2_1" type="line">(l. 111)</ref> and wants him to <quote>swear</quote> by himself instead <ref target="a12lk2_1" type="line">(l. 114)</ref> because she sees him as a godlike person and thereby states that she has faith in him.</s>
+        <s>This is a metaphor that <name type="person">Romeo</name> has also used in the beginning of this extract, when he calls <name type="person">Juliet</name> a <quote>saint</quote> <ref target="a12lk2_1" type="line">(l. 61)</ref> and then adds that he will be whatever she wants him to be to be worthy of her attention and <quote>love</quote>.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> also uses multiple exclamations to show her enthusiasm and her longing, such as the exclamation <quote>but farewell compliment!</quote> <ref target="a12lk2_1" type="line">(l. 89)</ref>, which shows her unwillingness to lie to <name type="person">Romeo</name> or hide her feelings, and <quote>O gentle <name type="person">Romeo</name>, if thou dost love, pronounce it [...]</quote>, which shows her with to finally have certainty and is also a request in which she asks <name type="person">Romeo</name> to be true to his intentions <ref target="a12lk2_1" type="line">(ll. 93f)</ref>.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> also uses a contrast ot show just how much <name type="person">Juliet's</name> <quote>love</quote> means to him and again gives her godlike powers and idolizes her by saying that her gaze holds more threat to him than the weapons of her family ever could and that her fondness of him would protect him of her family's hate <ref target="a12lk2_1" type="line">(l. 71-73)</ref>.</s>
+        <s>This idolization is used to express their faith in each other as well as the intensity of their <quote>love</quote> that is almost holy to them, which is also a reference at the marriage that is going to follow shortly.</s>
+        <s>In regards to <name type="person">Romeo</name>, who depicts his <quote>love</quote> as a guiding angel, this metaphor of religious ideas and divine intervention into their lives can be seen as a means of <ref target="a12lk2_1" type="author">Shakespeare</ref> to express that these two lovers were destined to be together and that if not a god, at least fate put them in this situation, which only enhances the two lovers to keep their relationship going and follow the <quote>love</quote> that put them together instead of ending their chaotic affair immediately.</s>
+      </p>
+      <p>
+        <s>To conclude, <name type="person">Romeo</name> and <name type="person">Juliet</name> have different views of their unlikely <quote>love</quote> but while <name type="person">Romeo</name> thinks that <quote>love</quote> will help them through everything and is fearless and bold to show <name type="person">Juliet</name> how much he means this, <name type="person">Juliet</name> is concerned at first.</s>
+        <s>However, she lets him talk her out of her <choice><orig>concernes</orig><reg>concerns</reg></choice> and they both were religious aspects to describe the <quote>love</quote> that binds them together, thereby expressing their faith and their firm believe that fate has brough them together and that their <quote>love</quote> is meant to be.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

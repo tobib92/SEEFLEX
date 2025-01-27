@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g45_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk4_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk4_1" type="director">George Tillmann Jr.</ref> <date>2018</date>, is about a girl, who fights for justice for black people, because her friend was killed by a police officer out of racism.</s>
+        <s>The scene presents <ref target="b10gk4_1" type="character">Chris</ref> and <ref target="b10gk4_1" type="character">Starr</ref> talking about their relationship.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> gives <ref target="b10gk4_1" type="character">Starr</ref> headphones <choice><orig>wich</orig><reg>which</reg></choice> play music, he made for her.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> tells him, that she isn't ok with what <choice><orig>happend</orig><reg>happened</reg></choice> before.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> says that he is sorry and complains that she hasn't enough time for him.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> acts as she didn't like the music, so <ref target="b10gk4_1" type="character">Chris</ref> puts the headphones out of his <choice><orig>mobilphones</orig><reg>mobile phones</reg></choice> and starts dancing in the hallway.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> smiles at him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

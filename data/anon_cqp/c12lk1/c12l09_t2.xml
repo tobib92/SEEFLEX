@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> begins his sonnet by listing powerful natural forces such as the sea or stones.</s>
+        <s>He uses the anaphora <quote>nor</quote> <ref target="c12lk1_1" type="line">(v. 1)</ref> to express that all those things are not strong enough to hold against <quote>mortality</quote> <ref target="c12lk1_1" type="line">(v. 2)</ref>.</s>
+        <s>The contrast that mortality kills their power is striking because how has death the force to take away theirs.</s>
+        <s>Death and mortality are part of nature too such as the things they destroy in the sonnet so <ref target="c12lk1_1" type="author">Shakespeare</ref> transfers this to love.</s>
+        <s>It is natural that the power of love is taken away and cannot exist endlessly.</s>
+        <s>But it is also possible to compare this contrast to life in general.</s>
+        <s>The theme of transitoriness shows that nothing can resist time because <choice><orig>it's</orig><reg>its</reg></choice> power is taken away from mortality as the right time comes.</s>
+      </p>
+      <p>
+        <s>It continues with a rhetorical question asking: <quote>How with this rage shall beauty hold a plea, [w]hose action is no stronger that a flower?</quote> <ref target="c12lk1_1" type="line">(v. 3f.)</ref>.</s>
+        <s>It is asked how beauty can resist because everything is transitory which is also expressed by the symbol of the <quote>flower</quote> <ref target="c12lk1_1" type="line">(v. 4)</ref>.</s>
+        <s>A flower wilts after a time and does not live in eternity.</s>
+      </p>
+      <p>
+        <s>Again there are different themes this can be transferred to.</s>
+        <s>Love is an important factor but also youth is a possibility to interpret those lines.</s>
+        <s>A human can be compared to the flower wilting slowly.</s>
+      </p>
+      <p>
+        <s>The personification <quote>summer's honey breath</quote> <ref target="c12lk1_1" type="line">(v. 5)</ref> is used to refer to sweet and good times in life such as the youth or the time in a love relationship.</s>
+      </p>
+      <p>
+        <s>Besides those positive experiences there are <quote>wrackful [sieges] of batt'ring days</quote> <ref target="c12lk1_1" type="line">(v. 6)</ref> showing that nothing can live through all times.</s>
+      </p>
+      <p>
+        <s>Even the hardest rocks do not remain <quote>impregnable</quote> <ref target="c12lk1_1" type="line">(v. 7)</ref> such as gates of steel <ref target="c12lk1_1" type="line">(v. 8)</ref>.</s>
+        <s>Asking if even <quote>time decays</quote> <ref target="c12lk1_1" type="line">(v. 8)</ref> shows the doubt about the eternity of everything.</s>
+        <s>The exclamation <quote>O fearful meditation!</quote> <ref target="c12lk1_1" type="line">(v. 9)</ref>, expresses the surprise realization of the narrator.</s>
+        <s>They are disappointed and search for a solution to avoid the ending of every thing.</s>
+        <s>It is asked if <quote>time's best jewel from time's chest lie hid?</quote> <ref target="c12lk1_1" type="line">(v. 10)</ref> or if there is a possibility to break out of time to resist it.</s>
+        <s>The narrator wants to use a strong hand to <quote>hold his swift foot back</quote> <ref target="c12lk1_1" type="line">(v. 11)</ref>.</s>
+        <s>The <quote>swift foot</quote> which is <choice><orig>discribed</orig><reg>described</reg></choice> is used as a symbol for the fast continuing time.</s>
+      </p>
+      <p>
+        <s>In the end the narrator hopes for a <quote>miracle</quote> <ref target="c12lk1_1" type="line">(v. 13)</ref> but it sure that the <quote>black ink</quote> <ref target="c12lk1_1" type="line">(v. 14)</ref> will stay.</s>
+      </p>
+      <p>
+        <s>The letter written with this Ing.</s>
+        <s>is a consolation because the narrator thinks that it will not feed and that there is hope that something can resist time.</s>
+        <s>There is also a personification of the force of love which can be transferred to the addressee.</s>
+        <s>Referring again to the theme of love the narrator hopes that the love expressed through the words written will not become a victim of time.</s>
+      </p>
+      <p>
+        <s>The main message of the sonnet is that nothing is able to resist time.</s>
+        <s>Not a human life and <choice><orig>it's</orig><reg>its</reg></choice> youth nor love even though the narrator of hope so.</s>
+      </p>
+      <p>
+        <s>Compared to <ref target="c12lk1_1" type="author">Shakespeare's</ref> catalogue of sonnets this one is quite special.</s>
+        <s>It includes typical themes of <ref target="c12lk1_1" type="author">Shakespeare's</ref> sonnets for example love and nature but also stands in contrast to them.</s>
+        <s>The main theme is the transitoriness of everything but other Shakespearean sonnets mainly are about never ending love or youth.</s>
+        <s>Comparing <ref target="c12lk1_1" type="title">Sonnet 65</ref> to a play like <name type="misc">Romeo and Juliet</name> too you can see that the characters are not even pulled apart in death.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

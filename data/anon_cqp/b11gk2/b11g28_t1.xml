@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g28_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> written by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref>, published in <date>2013</date> deals with two couples, <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Jory</ref>, who are discussing the Islam.</s>
+      </p>
+      <p>
+        <s>The given part of scene 3 starts at the dinner in <ref target="b11gk2_1" type="character">Emily's</ref> and <ref target="b11gk2_1" type="character">Amir's</ref> <choice><orig>appartment</orig><reg>apartment</reg></choice> where <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> are kissing and cheating on their partners.</s>
+        <s>They are both connected with art in work.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Jory</ref> are lawyers at the same company.</s>
+      </p>
+      <p>
+        <s>Just when <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> are kissing <ref target="b11gk2_1" type="character">Jory</ref> comes in and sees them.</s>
+        <s>She is shocked and wants to if they are having an affair, but they deny it.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> does not say a word.</s>
+        <s>He is angry with <ref target="b11gk2_1" type="character">Jory</ref>, because she told him, that their bosses are offering her a partnership and he feels betrayed, because he thinks he would deserve it more.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Jory</ref> wants <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> to explain what happened between them, but <ref target="b11gk2_1" type="character">Amir</ref> interrupts her and tells her how she does not deserve that job, because he worked harder for it.</s>
+        <s>He tells her that he is the nigger here and not she.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Isaac</ref> tries to keep <ref target="b11gk2_1" type="character">Jory</ref> calm and tells her to not listen to <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Amir</ref> are getting into a intense <choice><orig>dialog</orig><reg>dialogue</reg></choice> and are one second ahead from hitting each other.</s>
+        <s>But out of nowhere <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> face.</s>
+        <s><ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Jory</ref> leave right after <ref target="b11gk2_1" type="character">Jory</ref> tells <ref target="b11gk2_1" type="character">Amir</ref> the reason why he did not get the job.</s>
+        <s>His boss doesn't trust him and avoids <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>After <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Jory</ref> are gone, <ref target="b11gk2_1" type="character">Amir</ref> wants to know if <ref target="b11gk2_1" type="character">Emily</ref> is really having an affair with <ref target="b11gk2_1" type="character">Isaac</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Emily</ref> confesses and tells him how bad she feels.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> hits <ref target="b11gk2_1" type="character">Emily</ref> in the face.</s>
+      </p>
+      <p>
+        <s>He hits her more than once and her whole face is full of blood.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> does not understand what he is doing because of his range and violence attack.</s>
+        <s>But when he does, he is shocked.</s>
+        <s><ref target="b11gk2_1" type="character">Amir's</ref> nephew <ref target="b11gk2_1" type="character">Abe</ref> knocks and comes in.</s>
+        <s>He sees <ref target="b11gk2_1" type="character">Emily's</ref> face full of blood and looks at <ref target="b11gk2_1" type="character">Amir</ref>, then the scene is over.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

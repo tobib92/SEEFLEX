@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a10gk1_1" type="author">Brian <choice><orig>Pollards</orig><reg>Pollard's</reg></choice></ref> text <ref target="a10gk1_1" type="title">Is the usefulness of unions coming to an end? The answer is yes</ref> is about the worker unions and was published on the <date>24 November 2011</date>, in the <name type="misc">Gulf News</name>.</s>
+        <s>In this text he talks about how the unions and their goal <choice><orig>has</orig><reg>have</reg></choice> changed.</s>
+        <s>And rethinks the usefulness of unions in general.</s>
+      </p>
+      <p>
+        <s>In this text <ref target="a10gk1_1" type="author">Brian Pollard</ref> uses lots of positive and negative connoted words to make his argumentation stronger.</s>
+        <s>For example, in the first line he says <quote>unions were the best thing that ever happened</quote>, but when his opinion changed you can notice a clear contrast to the words he uses, for example power and greed <ref target="a10gk1_1" type="line">(l. 6-7)</ref>.</s>
+        <s>He says that unions <quote>have become victims of their own success</quote> <ref target="a10gk1_1" type="line">(l. 11)</ref> which is also connoted negative and makes the reader feel negative about unions in general, as if they were selfish and use the idea of helping workers as an image to make more money.</s>
+        <s>In line 15 he also uses <quote>your job</quote> and <quote>your union</quote>, with the personal <choice><orig>adress</orig><reg>address</reg></choice> he catches the <choice><orig>readers</orig><reg>reader's</reg></choice> attention and puts the reader in the <choice><orig>employees</orig><reg>employees'</reg></choice> position.</s>
+      </p>
+      <p>
+        <s>In the end he kind of <choice><orig>apeals</orig><reg>appeals</reg></choice> to the governments to <quote>take a hard look at the issue</quote> <ref target="a10gk1_1" type="line">(l. 21)</ref> and makes his point clear, that in his eyes, unions are one of the major problems for the <quote>economic mess</quote> <ref target="a10gk1_1" type="line">(l. 23)</ref> that we have.</s>
+        <s>With this end he <choice><orig>let's</orig><reg>lets</reg></choice> the reader rethink everything they've read and makes them feel critical about unions, because he didn't <choice><orig>mentioneted</orig><reg>mentioned</reg></choice> the good parts very often.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

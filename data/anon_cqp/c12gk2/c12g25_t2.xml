@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> is the wife of <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>This is the reason why <ref target="c12gk2_1" type="character">Macbeth</ref> trusts her.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> is a princess and wants to get more power, by planning a way to kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>That shows, that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is very brutal and is thinking egoistic.</s>
+        <s>She even tries to convince <ref target="c12gk2_1" type="character">Macbeth</ref>, who was <choice><orig>thankfull</orig><reg>thankful</reg></choice> to get granted by <ref target="c12gk2_1" type="character">Duncan</ref> to the <ref target="c12gk2_1" type="character">Thane of Cawdor</ref>, but <ref target="c12gk2_1" type="character">Lady Macbeth</ref> wasn't satisfied by that.</s>
+        <s>She would do anything to get <ref target="c12gk2_1" type="character">Macbeth</ref> the King of <name type="geo"><choice><orig>Scottland</orig><reg>Scotland</reg></choice></name>.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> however is unsure if he should follow the <ref target="c12gk2_1" type="character"><choice><orig>witches</orig><reg>witches'</reg></choice></ref> <choice><orig>prophesy</orig><reg>prophecy</reg></choice> or not.</s>
+        <s>He knows, that it is morally reprehensible, but his wife is much more dominant <choice><orig>then</orig><reg>than</reg></choice> him.</s>
+      </p>
+      <p>
+        <s>When <ref target="c12gk2_1" type="character">Macbeth</ref> walks out of the chamber his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref> follows him.</s>
+        <s>She asks him why he left the room, but he refused, that he isn't sure.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> uses a metaphor to <choice><orig>poin</orig><reg>point</reg></choice> out, that <quote>[He has] <choice><orig>bougt</orig><reg>bought</reg></choice> Golden opinions from all sorts of people</quote> <ref target="c12gk2_1" type="line">(cf. ll. 5-6)</ref>, to show <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, that he reached the glory he wanted and is satisfied by the granting of <ref target="c12gk2_1" type="character">Duncan</ref> to the <ref target="c12gk2_1" type="character">Thane of Cawdor</ref>.</s>
+        <s>This shows the reader, that <ref target="c12gk2_1" type="character">Macbeth</ref> has already gained a lot of glory, but <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is greedy and wants to get more power.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses a chain of questions with metaphors and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions to make clear, that <ref target="c12gk2_1" type="character">Macbeth</ref> doesn't think about the negative effects, that his <choice><orig>lif</orig><reg>life</reg></choice> didn't really changed.</s>
+      </p>
+      <p>
+        <s>His hope is drunk, he can't sleep, he is still green and <choice><orig>pail</orig><reg>pale</reg></choice> and is not freely as he could be <ref target="c12gk2_1" type="line">(cf. ll. 9-12)</ref>.</s>
+        <s>These question should convince <ref target="c12gk2_1" type="character">Macbeth</ref>, that he could reach a much higher goal and he is not at the limits of his potentials.</s>
+        <s>He maybe got glory but his life didn't got any better.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> also used a comparison at the end of her <choice><orig>dialog</orig><reg>dialogue</reg></choice>, where she says that <ref target="c12gk2_1" type="character">Macbeth</ref> is <quote>like the poor cat i'th'adage</quote> <ref target="c12gk2_1" type="line">(l. 19)</ref>.</s>
+        <s>This metaphor should open <ref target="c12gk2_1" type="character">Macbeth's</ref> eyes and show him that he is scared for no reason and could be king for almost no effort.</s>
+        <s>He should act unlike the cat that is scared to get her paws wet.</s>
+      </p>
+      <p>
+        <s>Another convincing argument is another by <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, where she explains that, <quote>[she has] given suck, and [knows] how tender 'tis to love the babe that milks [her]: [she] would, while it was smiling in [her] face, [she has] plucked [her] nipple from his boneless gums, and dashed the brains out, had [she] sworn as you have done to this</quote> <ref target="c12gk2_1" type="line">(ll. 30-35)</ref>.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> also experienced the way of loving somebody, but some <choice><orig>thinks</orig><reg>things</reg></choice> have to be done to reach your goals.</s>
+        <s>This should make clear, that <ref target="c12gk2_1" type="character">Macbeth</ref> should kill <ref target="c12gk2_1" type="character">Duncan</ref> to reach the goal of becoming the King of <name type="geo">Scotland</name>, although he is <choice><orig>thankfull</orig><reg>thankful</reg></choice> to <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>Sometimes hard decisions have to be made to get <choice><orig>succesfull</orig><reg>successful</reg></choice> and reach further goals.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> also refuses with a paradox and <ref target="c12gk2_1" type="character">Macbeth's</ref> sentence, where he asks her sceptical what would happen <quote>if [they] should fail?</quote> <ref target="c12gk2_1" type="line">(l. 35)</ref> but she replies by saying that <quote>[they will] fail!</quote> <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s>This paradox should make clear, that if <ref target="c12gk2_1" type="character">Macbeth</ref> thinks sceptical, they will fail their plan.</s>
+        <s>She wants to motivate him to kill <ref target="c12gk2_1" type="character">Duncan</ref> and finally manages to convince him, by talking about the plan again and explaining, that the plan couldn't fail if they make everything right.</s>
+      </p>
+      <p>
+        <s>The wife of <ref target="c12gk2_1" type="character">Macbeth</ref> uses a comparison again to point out that <quote>[the guards would be] drenched natures lie as in a death</quote> <ref target="c12gk2_1" type="line">(cf. ll. 46)</ref>.</s>
+      </p>
+      <p>
+        <s>This argument explains that the guards would be so <choice><orig>drank</orig><reg>drunk</reg></choice>, that they would fall asleep and <choice><orig>reconise</orig><reg>recognize</reg></choice> nothing like a dead person.</s>
+        <s>This gives <ref target="c12gk2_1" type="character">Macbeth</ref> the <choice><orig>oportunity</orig><reg>opportunity</reg></choice> to kill <ref target="c12gk2_1" type="character">Duncan</ref> and to get not caught by the guards.</s>
+      </p>
+      <p>
+        <s>She also uses in the same <choice><orig>dialog</orig><reg>dialogue</reg></choice> <choice><orig>sequense</orig><reg>sequence</reg></choice> a metaphor to make clear, that the officers, who are drained like sponges with alcohol, would not interrupt the great plan of killing <ref target="c12gk2_1" type="character">Duncan</ref> <ref target="c12gk2_1" type="line">(cf. ll. 48-50)</ref>.</s>
+        <s>This metaphor has the same influence on <ref target="c12gk2_1" type="character">Macbeth</ref> like the <choice><orig>comperasion</orig><reg>comparison</reg></choice> in the same <choice><orig>dialog</orig><reg>dialogue</reg></choice> sequence.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses a variation between metaphors and comparisons to make her argument more convincing.</s>
+        <s>She is using noble language and convinces <ref target="c12gk2_1" type="character">Macbeth</ref> with her dominance role.</s>
+        <s>Her argument aren't strong, but with the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices she makes her arguments clear and makes her arguments convincing enough to get <ref target="c12gk2_1" type="character">Macbeth</ref> to kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Anothe</orig><reg>Another</reg></choice> reason is the prophecy of the <ref target="c12gk2_1" type="character"><choice><orig>whitches</orig><reg>witches</reg></choice></ref>, which led him to the same conclusion of killing <ref target="c12gk2_1" type="character">Duncan</ref> to become the <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Scotland</name>.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> is also speaking more than <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Macbeth</ref> can <surplus>can</surplus> only answer in short sentences, because he knows that greed is wrong, but his wife gives him <choice><orig>to</orig><reg>too</reg></choice> many arguments to him to not refuse kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

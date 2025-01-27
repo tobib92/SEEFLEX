@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12l34_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The anti-semetic content of <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> raises the question whether the play fuels <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes or raises awareness for the problem of antisemitism.</s>
+      </p>
+      <p>
+        <s>Many people argue that especially after the holocaust it is not acceptable anymore to produce plays with such anti-semitic language and content.</s>
+        <s>In the Nazi era it was a favourite play and was used to make the people believe in those stereotypes.</s>
+        <s>Other offensive work, that was <quote>only reflecting the prejudices of its time</quote> has been <gap reason="illegible" quantity="1" unit="word">shewed</gap> so it will not fuel <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes.</s>
+      </p>
+      <p>
+        <s>On the other hand many people argue that it raises awareness for the problem by giving historical insights in <name type="person">Shakespeare's</name> time making it possible for people to recognize such hateful behaviour in their own life.</s>
+        <s>They also point out that in the play <name type="person">Shylock's</name> opressors are exposed for the racists that they are.</s>
+        <s>Through the timeless theme <quote>hate</quote>, <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> teaches people now empathy, which defuels <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> stereotypes.</s>
+      </p>
+      <p>
+        <s>In my opinion the play can definitely do both: <choice><orig>It</orig><reg>it</reg></choice> can strengthen stereotypes but it can also draw attention to the problem.</s>
+        <s>In most modern productions <name type="person">Shylock</name> is presented as the sympathetic figure, making it easy for the audience to identify with him and feel pity for him.</s>
+      </p>
+      <p>
+        <s>But the results can never be surely estimated: <choice><orig>The</orig><reg>the</reg></choice> reaction of the audience can be quite different depending on where they are from and what they believe in.</s>
+        <s>I believe that it can be dangerous to just watch the play and not talk about it.</s>
+        <s>That is why the play should only be watched where it can be discussed and commented for example in class.</s>
+      </p>
+      <p>
+        <s>In conclusion I believe that <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> can raise awareness for the problem of antisemitism if it is treated with caution.</s>
+        <s>Otherwise it could achieve the opposite.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

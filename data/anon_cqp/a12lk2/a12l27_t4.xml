@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l27_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Molly,</salute>
+      </p>
+      <p>
+        <s><choice><orig>it</orig><reg>It</reg></choice> is so great to hear from you after such a long time!</s>
+        <s>It has <choice><orig>definetly</orig><reg>definitely</reg></choice> been a while.</s>
+        <s>In your previous e-mail you told me that you have been talking about <name type="person">Shakespeare</name> in your English class.</s>
+      </p>
+      <p>
+        <s>How funny is that!</s>
+        <s>We do the same at the moment in <name type="geo">Germany</name>.</s>
+        <s>I know that writing an essay can be tough on this topic, so let me help you find some more information on whether <name type="person">Shakespeare</name> is played in German theatres.</s>
+      </p>
+      <p>
+        <s>I guess it is your lucky day because I just found an interesting article explaining why producers in <name type="geo">Brandenburg</name> still put on <name type="person">Shakespeare's</name> plays.</s>
+      </p>
+      <p>
+        <s>The article with the title <ref target="a12lk2_2" type="title">Darum spielen wir Shakespeare</ref> published in the German newspaper <name type="misc">Märkische Allgemeine</name> on the <date>23rd of April in 2016</date> written by <ref target="a12lk2_2" type="author">Karim Saab</ref> presents the points of views of four producers elaborating on <name type="person">Shakespeare's</name> still of relevance for the <add>German</add> theatre.</s>
+      </p>
+      <p>
+        <s>The first producer mentioned is <name type="person">Mario Holetzeck</name> the directore of the theatre in <name type="geo">Cottbus</name>.</s>
+        <s>According to <name type="person">Holetzeck</name> he still puts on his plays because of his uniqueness.</s>
+      </p>
+      <p>
+        <s>He believes that a wonderful thing aobut his plays are that they can be viewed and interpreted from different perspectives and <choice><orig>helps</orig><reg>help</reg></choice> us reflect on ourselves with the help of the themes he touches on.</s>
+      </p>
+      <p>
+        <s>There is also <name type="person">Tobias Wellemeyer</name> from the <name type="misc">Hans-Otto-Theatres</name> in <name type="geo">Potsdam</name> who argues that <name type="person">Shakespeare</name> has had an impact on other playwrights whic has been essential for the writing of famous plays coming after him.</s>
+      </p>
+      <p>
+        <s>Next, he succeeds at connecting to his audience when portraying the individual struggles of his audiences.</s>
+      </p>
+      <p>
+        <s><name type="person">Wellemeyer</name> maintains the view that no one like <name type="person">Shakespeare</name> was able to show humanity and its flaws so well.</s>
+      </p>
+      <p>
+        <s><name type="person">Mr. R. Simon</name> holds the view that not only the themes are impacting the audiences around the world but also their variety as well as their literary, poetic and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> power.</s>
+        <s>He argues that despite the whole complexity of his plays, <name type="person">Shakespeare's</name> works lead to passionate discussion about humanity's most <choice><orig>deceisive</orig><reg>decisive</reg></choice>, vulnerable and crucial desires.</s>
+      </p>
+      <p>
+        <s>Lastly, there is <name type="person">Igor Holland</name> from <name type="geo">Senftenberg</name> who gives many examples for why <name type="person">Shakespeare</name> is still of relevance in <add>German</add> theatres.</s>
+      </p>
+      <p>
+        <s>First, the great number of his plays and their overall success is a reason as well as the timeless description of humanity.</s>
+      </p>
+      <p>
+        <s>Did you know that his works have been translated more than a hundred times?</s>
+      </p>
+      <p>
+        <s>It is also argued that the dynamics of his plays allow them to be adopted and re-interpreted all over again - in every century.</s>
+      </p>
+      <p>
+        <s>I really hope that this article will help you with your essay on <name type="person">Shakespeare's</name> global appeal.</s>
+      </p>
+      <p>
+        <s>If you still need help with something or have any questions feel free to reach out to me!</s>
+      </p>
+      <p>
+        <s>Good luck and see you hopefully soon.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

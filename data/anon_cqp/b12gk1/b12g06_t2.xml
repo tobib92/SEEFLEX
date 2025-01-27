@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech, given at the <name type="misc">COP26 World Leader's Summit Opening Ceremony</name> on <date>1 November 2021</date>, the British Prime Minister <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> convinces his audience of their responsibility of taking action against climate change and draws a fighting picture of its dangers by structuring and embellishing his arguments and by using specific stylistic devices like repetitions and comparatives.</s>
+      </p>
+      <p>
+        <s>His speech is divided into 8 paragraphs.</s>
+        <s>After welcoming the audience and <choice><orig>refering</orig><reg>referring</reg></choice> to the occasion of his speech <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> introduces the topic by drawing a comparison between <name type="person">James Bond</name> movies and climate change <ref target="b12gk1_1" type="line">see l. 2-6)</ref>.</s>
+        <s>He expresses through this comparison that we are in the same position as the humans in the movies who fear a doomsday device.</s>
+        <s>Especially the description of a <quote>red digital clock</quote> <ref target="b12gk1_1" type="line">(l. 4 f.)</ref> symbolises that we have been waiting for too long to take action.</s>
+        <s>His allusion stresses directly at the beginning of his speech the danger of the climate crisis.</s>
+        <s>The Prime Minister also makes us humans responsible for this.</s>
+        <s>The <choice><orig>secound</orig><reg>second</reg></choice> paragraph deals with other agreements towards climate crisis like the <name type="misc">Paris agreement</name> <ref target="b12gk1_1" type="line">(see l. 11)</ref> and their failure.</s>
+        <s>Through this reference <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> proves the necessity of the <name type="misc">COP26</name>.</s>
+        <s>In hte following paragraphs the Prime Minister explains exactly why and how the <name type="misc">COP26</name> should take action.</s>
+      </p>
+      <p>
+        <s>He explains the financial problem because of the industrialized countries which ignore the problem and they chance to help other countries through financial support.</s>
+        <s>Even though this was promised at the <name type="misc">Paris agreement</name> the money will not deliver.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> gives a solution in the next paragraph.</s>
+        <s>He stresses out that if all countries work together, we would have enough money to make progresses.</s>
+        <s>By using the example of how the private sector money helped the <name type="geo">UK</name> to end their dependence on coal, the author <choice><orig>embellishs</orig><reg>embellishes</reg></choice> his argument <ref target="b12gk1_1" type="line">(see l. 27f.)</ref>.</s>
+        <s>After his argumentation of the way the <name type="misc">COP26</name> could change things, the Prime Minister highlights why they should do that.</s>
+        <s>He <choice><orig>visualize</orig><reg>visualizes</reg></choice> the responsibility towards the <quote>audience of posterity</quote> <ref target="b12gk1_1" type="line">(l. 39)</ref> and that they will not forgive them their failure.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> uses facts like <quote>half of the population of the world [are] under 30</quote> <ref target="b12gk1_1" type="line">(l. 35)</ref> to prove his point.</s>
+      </p>
+      <p>
+        <s>At the end he sums up that they have all things they need to take action.</s>
+        <s>He concludes his speech by referring back to his allusion of <name type="person">James Bond</name> in the beginning of his speech and appeals to his aufience.</s>
+        <s>He gives them hope and encourage them to take action.</s>
+      </p>
+      <p>
+        <s>Furthermore <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> convinces his audience by using rhetorical devices.</s>
+        <s>Through his inclusive language <ref target="b12gk1_1" type="line">(see l. 16)</ref> and phrases like <quote>We in this room</quote> <ref target="b12gk1_1" type="line">(l. 22)</ref> he appeals to the audience and the moral of the members of <name type="misc">COP26</name>.</s>
+        <s>The <choice><orig>Repetion</orig><reg>repetition</reg></choice>  of the words <quote>we can</quote> <ref target="b12gk1_1" type="line">(l. 16, 30, and 53)</ref> draws a frame through his argumentation and indicates hope.</s>
+      </p>
+      <p>
+        <s>Addiotnally ellipses and parataxes, which can be find in line 23 <quote>No question</quote> or in line 46 following allude that doing something can be simple.</s>
+      </p>
+      <p>
+        <s>The author <choice><orig>ilustrates</orig><reg>illustrates</reg></choice> the neessity of taking action through the comparative in line 30.</s>
+      </p>
+      <p>
+        <s>All together <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> convinces the audience by drawing a dangerous picture of climate change and encourage the audience to take action.</s>
+        <s>This intention works out because of the structure of his argumentation and the use of rhetorical devices.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

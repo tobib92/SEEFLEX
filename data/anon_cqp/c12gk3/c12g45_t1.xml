@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g45_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="c12gk3_1" type="title"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> written by <ref target="c12gk3_1" type="author">Shakespeare</ref>, is about <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref>, who <choice><orig>find</orig><reg>finds</reg></choice> out, that he will be the <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Scotland</name>.</s>
+        <s>A prophecy promised him.</s>
+        <s>In <ref target="c12gk3_1" type="scene">Act 1, Scene 7</ref> of the play, <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> <choice><orig>trys</orig><reg>tries</reg></choice> to convince <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> to kill the actual king <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>First <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> tells <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref>, that it is a bad plan to kill the <choice><orig>king</orig><reg>King</reg></choice>.</s>
+        <s><ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> says, that she <choice><orig>know</orig><reg>knows</reg></choice> <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> wants to become the king but only does not want to kill the King.</s>
+        <s>She asks, if he will act bravely to get the thing he wants.</s>
+      </p>
+      <p>
+        <s>When <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> goes on by declining the plan of <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref>, she praises him, if he would do that and <choice><orig>push</orig><reg>pushes</reg></choice> him up, because when <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> will kill <ref target="c12gk3_1" type="character">Duncan</ref>, he's a real man for <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref>.</s>
+      </p>
+      <p>
+        <s>In the end, when <ref target="c12gk3_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> gets unsure, if <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> are right so far and it is a good idea to kill the <choice><orig>king</orig><reg>King</reg></choice>, <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> talks about how they will do this.</s>
+        <s><ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> does not have to do something, only kill the <choice><orig>king</orig><reg>King</reg></choice>, all other things will do <ref target="c12gk3_1" type="character">Lady <choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Starr</name>'s state of mind is shown by the employment of different point of views and various narrative techniques.</s>
+      </p>
+      <p>
+        <s>In the scene wjere people are protesting is being told in the point of view of a first person <choice><orig>witness-narrator</orig><reg>witness narrator</reg></choice> whereas she is not in the action and describing the scene from an outside perspective, this makes the reader not know how the people in the protest feel and what exactly happens which leaves space of imagination for the reader and moreover the reader can empathize with <name type="person">Starr</name> <ref target="a11gk1_1" type="line">(ll. 1-9)</ref>.</s>
+        <s>Whereafter the point of view switches to a first person <choice><orig>protagonist-narrator</orig><reg>protagonist narrator</reg></choice> when <name type="person">Ms. Ofrah</name> turns over to her and she gets a part of the action happening, through this employment the reader can identify with <name type="person">Starr</name> and gets emotionally a part of the action <ref target="a11gk1_1" type="line">(ll. 10-61)</ref> but in both point of views it is out of her subjective view and it is with a limited view so <choice><orig>One</orig><reg>one</reg></choice> could doesn't know the emotions someone else could have.</s>
+        <s>While the protest happens <name type="person">Starr</name> gets flashbacks of the situation in which <name type="person">Khalil</name> ended up being shot at, this makes the reader realize how that event is still in her mind and how it follows her which could be the reason why she ended up telling about that event in front of everybody <ref target="a11gk1_1" type="line">(ll. 5-7, 19-22)</ref>.</s>
+        <s>The scene is presented in a scenic mode because the event is described in detail whereas the reader could get a clear picture of what is happening.</s>
+        <s>There is also direct speech employed by the narrator <ref target="a11gk1_1" type="line">(ll. 23-35)</ref> which leads to knowing what is really being discussed and letting the reader be near to the action is on page.</s>
+        <s>One could even find colloquial language therefore young reader for exmaple in the age of 16+ could relate to the story <ref target="a11gk1_1" type="line">(ll. 36f)</ref>.</s>
+        <s>To sum up <name type="person">Starr</name>'s state of mind is being presented to be in a crisis and between <choice><orig>to</orig><reg>two</reg></choice> sides whether to talk about her being part of that event where <name type="person">Khalil</name> died or not which ends up with her talking about it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

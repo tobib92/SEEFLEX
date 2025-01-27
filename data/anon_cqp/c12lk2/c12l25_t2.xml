@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk2_1" type="title">Sonnet 60</ref> is a poem written by the English poet and playwright <ref target="c12lk2_1" type="author">William Shakespeare</ref>.</s>
+        <s>Like many of <ref target="c12lk2_1" type="author">Shakespeare's</ref> sonnets, <ref target="c12lk2_1" type="title">Sonnet 60</ref> is a love poem.</s>
+        <s>It is also traditionally believed to have been written for a young man.</s>
+        <s>This sonnet is not only about love, but also about the transience of time and beauty.</s>
+        <s>The lyrical I realizes how everything comes to an end and nothing stays forever.</s>
+      </p>
+      <p>
+        <s>The Shakespearean sonnet is composed of 14 lines divided into three quatrains <add>four line stanza</add> and a final concluding couplet, rhyming <name type="misc">abab cdcd efef gg</name>.</s>
+        <s>This sonnet rhyme scheme is known as the English sonnet.</s>
+        <s>Traditionally Shakespearean sonnets are in iambic parameter.</s>
+        <s>A line of iambic pentameter has give iambic <q>feet</q> <add>a soft syllable followed by a stronger syllable</add>.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk2_1" type="title">Sonnet 60</ref> starts with a metaphor on the sea.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> compares the waves reaching the sea with the time that leads to an end.</s>
+        <s>There is a volta in the first two lines, since he first describes the shore and then he shifts to the fact, that time passes.</s>
+        <s>The verb <quote>hasten</quote> <ref target="c12lk2_1" type="line">(l. 2)</ref> he uses is very remarkable because it underlines how the minutes spped up and how they pass faster.</s>
+        <s>And every place he's been to before reminds him of the transience.</s>
+      </p>
+      <p>
+        <s>In the second quatrain you can read the poet <choice><orig>writting</orig><reg>writing</reg></choice> about religion, christianity.</s>
+        <s>Describing how even <name type="person">Jesus</name>, who was praised since he was a little child did not love an endless life or was immortal.</s>
+      </p>
+      <p>
+        <s>The way <name type="person">Jesus</name> <quote>crawls to maturity</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref> expresses, that he was mature even when he was still crawling as an infant or baby.</s>
+        <s>People crowned and prasied him for being special, but still his gift could not save him from defeats or his own death.</s>
+        <s>The crown mentioned in line 6 symbolizes the powerful people to that time who are also slaves of time.</s>
+      </p>
+      <p>
+        <s>The third and last quatrain is about how time affects beatuy.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> thinks that tie takes away or breaks thrugh the flowering time every human has in his youth.</s>
+        <s>So he thinks the transience of time affects the <quote>beauty's brow</quote> <ref target="c12lk2_1" type="line">(l. 10)</ref>.</s>
+        <s>These two words have an alliteration to show, that they are connected to each other.</s>
+        <s>Beauty needs time to express itself and the most beautiful time in life is in the youth.</s>
+      </p>
+      <p>
+        <s>A beautiful way to explain that everything comes to an end is <quote>And nothing stands but for his scythe to mow</quote>.</s>
+        <s>It shows that nothing will stay the way it is, since it'll get scythe down like at a pasture.</s>
+        <s>A lawn mower is mowing the meadow just like time our life.</s>
+      </p>
+      <p>
+        <s>An <foreign xml:lang="de">anapher</foreign> in line 12 and 13 connects the lasst quatrains with the couplet in content.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> is menioning that he acknowledges that his time will end, too but even though everything ends he says <quote>in hope my verse shall stand</quote>.</s>
+        <s>Which means that he wants his words to reach many people even after his death.</s>
+        <s>here you have the turning point of the poem.</s>
+        <s>However this verse shows that <ref target="c12lk2_1" type="author">Shakespeare</ref> accepted the fact that he will be gone one day, but he doesn't want to be forgotten, because his art praises beauty in many ways <quote>despite his cruel hand</quote>.</s>
+        <s>He uses a metaphor wth a pronoun <quote>his</quote>, which stands for the society that doesn't appreciate every kind of beauty.</s>
+      </p>
+      <p>
+        <s>In conclusion <ref target="c12lk2_1" type="author">Shakespeare</ref> realizes how everything has its own <quote>death</quote> even holy persons like <name type="person">Jesus</name>.</s>
+        <s>When mentioning his own end he adds, that he wants his words to stay alive and to protect the beatuy and worth of art from society.</s>
+        <s>This poem is amazingly composed, it shows the <choice><orig>poets</orig><reg>poet's</reg></choice> fears and wisdom in a metaphorical way, without being too complicated.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

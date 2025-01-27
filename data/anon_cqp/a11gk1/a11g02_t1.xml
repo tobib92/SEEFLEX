@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g02_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given <choice><orig>Text</orig><reg>text</reg></choice> <name type="person">Starr</name> has joined the <choice><orig>protesters</orig><reg>protestors</reg></choice> in the riot to get justice for <name type="person">Khalil</name>.</s>
+        <s>The <choice><orig>People</orig><reg>people</reg></choice> in the crowd don't know, that <choice><orig>She</orig><reg>she</reg></choice> was the one, who sat right next to him, when <name type="person">Khalil</name> was shot, because in the interview <choice><orig>She</orig><reg>she</reg></choice> didn't reveal her identity, her attorney <name type="person">Ms. Ofrah</name> climbs on top of a <choice><orig>policecar</orig><reg>police car</reg></choice> and starts shouting towards the activists.</s>
+        <s>She shouts, that <quote>a hairbrush is not a gun</quote> the crowd joins her chants and eventually <name type="person">Starr</name> does too.</s>
+        <s>She still remembers the night, <name type="person">Khalil</name> was shot.</s>
+        <s><name type="person">Ms. Ofrah</name> is surprised to find <name type="person">Starr</name> amongst the crowd because she <choice><orig>recomendet</orig><reg>recommended</reg></choice> to stay anonymous for her own safety.</s>
+        <s>But <name type="person">Starr</name> explains to her, that she came to help the movement and that she doesn't want to remain silent anymore.</s>
+        <s>So <name type="person">Ms. Ofrah</name> tells her to join her and use her against their opponents.</s>
+        <s>So a co-worker helps her on top of the car and hands the <gap reason="illegible" quantity="1" unit="word">bulltran</gap> over to her.</s>
+        <s>At first she doesn't know <choice><orig>wat</orig><reg>what</reg></choice> to say but after the crowd encouraged her and she is being reminded at the presence of the police she finds the courage to speak up.</s>
+        <s>She identifies herself as <name type="person">Khalil's</name> companion on the night of the incident and that htey won't stop protesting until <name type="person">Khalil</name> gets justice.</s>
+        <s><choice><orig>and</orig><reg>And</reg></choice> after the crowd accepts her they repeat her last statement, that <quote>Khalil lives</quote>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

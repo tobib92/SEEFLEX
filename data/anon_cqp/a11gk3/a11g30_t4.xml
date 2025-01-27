@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g30_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>from: <email>jane.smith@something.de</email>
+		to: <email>dearmyfriend@something.com</email>
+		<s>RE: Article about black people and racism in the USA</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear my friend,</salute>
+      </p>
+      <p>
+        <s>lately I have been reading the novel <name type="misc">The Hate U Give</name> by <ref target="a11gk3_1" type="author">Angie Thomas</ref>.</s>
+        <s>A major topic in this book is racism so I wondered <choice><orig>wether</orig><reg>whether</reg></choice> racism really is that much of a problem.</s>
+        <s>I found this article <ref target="a11gk3_2" type="title">Schwarze in den USA: Der Rassismus ist messbar</ref> in the online magazine <name type="misc">Zeit Online</name> written by <ref target="a11gk3_2" type="author">Alexandra Endres</ref> from the <date>25th August 2014</date>.</s>
+        <s>It is a little older, but I wanted to know if things are still this way.</s>
+        <s>She says that the segregation that was supposed to be over still is visible in many parts of society.</s>
+      </p>
+      <p>
+        <s>Her first point is the higher chance of black people getting arrested as they are more often stopped and get searched.</s>
+        <s>Furthermore, the education shows differences between black and white people.</s>
+        <s>Black people less often finish school, many of them quit it or hardly major with an academical qualification.</s>
+        <s>Additionally it is harder to get jobs, sometimes also if they have a good qualification but many of the black people live in poverty, more than white people.</s>
+      </p>
+      <p>
+        <s>This article really made me think and I would love to hear from you about your experiences with this issue.</s>
+        <s>In the meantime I hope you are doing fine.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

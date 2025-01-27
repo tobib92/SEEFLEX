@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech, given by <ref target="a11gk2_1" type="speaker">Barack Obama</ref> on the <date>7th November 2007</date>, is about the American Dream and that the Americans can reach the American Dream.</s>
+        <s>The list of contrasts in line 9 and 10 <quote>In big cities and small towns, among men and women, young and old, black, white and brown</quote> has the effect to create a strong <choice><orig>comunity</orig><reg>community</reg></choice> spirit for all Americans.</s>
+        <s>The story telling in line 13-15 has the <choice><orig>Effect</orig><reg>effect</reg></choice> that <ref target="a11gk2_1" type="speaker">Obama</ref> is more personal to the Americans.</s>
+        <s>The repetition in the beginning of a sentence in line 12 and 16 <quote>These are dreams that drove my...</quote> is <choice><orig>import</orig><reg>important</reg></choice> to show to the Americans, that they could be the first <choice><orig>Generation</orig><reg>generation</reg></choice> that reaches the American Dream.</s>
+        <s>Another <choice><orig>Repetition</orig><reg>repetition</reg></choice> in line 19 and 20 <quote>no matter what color you are, no matter <choice><orig>were</orig><reg>where</reg></choice> you're from, no matter how much money you have</quote>, shows the target of the American Dream and that every person can reach the same.</s>
+        <s>To put it in a nutshell, <ref target="a11gk2_1" type="speaker">Barack Obama</ref> wants to built a united <name type="geo">America</name> that can reach the American Dream.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

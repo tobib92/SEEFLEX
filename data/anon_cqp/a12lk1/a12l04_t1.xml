@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l04_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="a12lk1_1" type="title">Sonnet 138</ref> by the infamous <ref target="a12lk1_1" type="author">Shakespeare</ref> and published seven years after his passing in the 17th century in a collection of many other sonnets, dramas and histories.</s>
+        <s>It illustrates classic <choice><orig>misscommunication</orig><reg>miscommunication</reg></choice> and the habit of not being truthful towards ones significant other in an ongoing relationship, which nevertheless seems to be working forthon.</s>
+      </p>
+      <p>
+        <s>This sonnet seems to be addressed to the <choice><orig>so called</orig><reg>so-called</reg></choice> <quote>dark lady</quote>, who inspired<ref target="a12lk1_1" type="author">Shakespeare</ref> to write a few of his poems.</s>
+      </p>
+      <p>
+        <s>The first quatrain explains that the lyrical I's lover regularly lies to his face, telling him that she only speaks the truth.</s>
+        <s>Although the persona of the poem senses these untruths he doesn't express any doubt and believes her anyways, not criticising this faulty manneurism.</s>
+        <s>After this thesis,<ref target="a12lk1_1" type="author">Shakespeare</ref> follows through by developing the thesis and Open up more arguments in the second quatrain in order to further expressed the lyrical I's situation.</s>
+        <s>And example to the problem in the first quatrain is given.</s>
+        <s>The speaker wants to believe that his lover has a youthful and playful image of him in her mind, even though he is certain that she has not.</s>
+        <s>And the following certain shift in the mood can be predicted.</s>
+        <s>The lyrical I is thankful that she does not dare to speak hard truths.</s>
+        <s>She even admits that the untruthfulness radiates from both parties, not only from the significant <choice><orig>others</orig><reg>other's</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The third quatrain start off with the word <quote>But</quote>, signaling the actual shift in the <choice><orig>poems</orig><reg>poem's</reg></choice> mood, which is final and <choice><orig>therefor</orig><reg>therefore</reg></choice> stretches until the end of the sonnet.</s>
+        <s>Why should one <choice><orig>expess</orig><reg>express</reg></choice> the inner problems of another when the relationship is working like <choice><orig>is</orig><reg>it</reg></choice> should, at least from an outside view.</s>
+        <s>The lyrical I thinks this to himself in form of an interior monologue in which he addresses questions to himself.</s>
+        <s>He realizes that one of <choice><orig>loves</orig><reg>love's</reg></choice> traits is to create a twisted form of love, which doesn't <choice><orig>necissarily</orig><reg>necessarily</reg></choice> have to be addressed.</s>
+        <s>The final couplet again confirms this.</s>
+        <s>The persona of the poem concludes in his <choice><orig>sythesis</orig><reg>synthesis</reg></choice> that, despite all the named flaws, he still loves her deeply, even though they play up to something they are not.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

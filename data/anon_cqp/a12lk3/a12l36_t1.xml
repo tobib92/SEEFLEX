@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l36_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to describe the situation <name type="person">Shylock</name> finds himself in the given extract from the play <ref target="a12lk3_1" type="title">The Merchant of Venice</ref>.</s>
+        <s><name type="person">Shylock</name> is one of the main characters from this play written by famous playwright <ref target="a12lk3_1" type="author">William Shakespeare</ref>.</s>
+        <s>The play deals with the rich merchant <name type="person">Antonio</name>, <choice><orig>who's</orig><reg>whose</reg></choice> friend <name type="person">Bassonio</name> is in need of money.</s>
+        <s><choice><orig>Although</orig><reg>Allthough</reg></choice><name type="person">Antonio</name> is a wealthy man he is not abel to lend his friend <add>the money</add>, which leads to them having to borrow money from <name type="person">Shylock</name>, a Jewish moneylender.</s>
+        <s><name type="person">Shylock</name> and <name type="person">Antonio</name> however are enemies which is the reason for the risky deal <name type="person">Shylock</name> suggests.</s>
+        <s>He agrees to lending the money to <name type="person">Bassanio</name> but only if <name type="person">Antonio</name> pays him back after three months.</s>
+        <s>If <name type="person">Antonio</name> is unable to do so, <name type="person">Shylock</name> is allowed to take one pound of <name type="person">Antonio's</name> flesh.</s>
+      </p>
+      <p>
+        <s>In this extract <name type="person">Shylock</name> is talking to a Jewish friend of his called <name type="person">Tubal</name>.</s>
+        <s><name type="person">Tubal</name> has just come back from <name type="geo">Genoa</name> and delivers news he has to <name type="person">Shylock</name>.</s>
+        <s><name type="person">Tubal</name> had been away looking for <name type="person">Shylock's</name> daughter <name type="person">Jessica</name>, who ran away from <name type="geo">Venice</name> with a Christian man.</s>
+        <s><name type="person">Tubal</name> however tells <name type="person">Shylock</name> that he could not find <name type="person">Jessica</name> <choice><orig>allthough</orig><reg>although</reg></choice> he <choice><orig>heared</orig><reg>heard</reg></choice> about her in a lot of places.</s>
+        <s>This makes <name type="person">Shylock</name> angry leading to him complaining about all the unlucky things happening to him.</s>
+        <s>Not only the loss of his daughter but also the loss of treasures and money.</s>
+        <s><name type="person">Tubal</name> then goes on telling <name type="person">Shylock</name> good news he heard quickly changing <name type="person">Shylock's</name> mood from bad to good.</s>
+        <s><name type="person">Tubal</name> explains to <name type="person">Shylock</name> that <name type="person">Antonio's</name> ship has cast away coming from <name type="geo">Tripolis</name> and is gone.</s>
+        <s>But <name type="person">Tubal</name> has got even more news changing <name type="person">Shylock's</name> mood again.</s>
+        <s><name type="person">Tubal</name> found out that <name type="person">Jessica</name> had been in <name type="geo">Genoa</name> and spent eighty ducats making <name type="person">Shylock</name> very angry.</s>
+        <s>This anger however does not last very long when <name type="person">Tubal</name> adds more news including <name type="person">Antonio</name> , saying that divers of <name type="person">Antonio's</name> creditors assured him that <name type="person">Antonio</name> is finished.</s>
+        <s><name type="person">Shylock's</name> anger about his daughter combined with the good news about <name type="person">Antonio</name> lead to him being even more angry with <name type="person">Antonio</name> and looking forward to hurting him.</s>
+        <s>But <name type="person">Tubal</name> has got even more news saying that <name type="geo">Jessica</name> has traded and old ring of <name type="person">Shylock's</name> dead wife <name type="person">Leah</name> for a monkey but quickly adds that <name type="person">Antonio</name> is definitely ruined after hearing how angry <name type="person">Shylock</name> gets about the ring.</s>
+      </p>
+      <p>
+        <s>The extract ends with <name type="person">Shylock</name> looking forward to taking the flesh from <name type="person">Antonio</name> and telling <name type="person">Tubal</name> to hire an officer so that the deal could be fulfilled.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say that <name type="person">Shylock</name> finds himself in a situation of extreme mood changes because he gets a lot of good and a lot of bad news at the same time.</s>
+        <s>The good news seeing that <name type="person">Antonio</name> is ruined and will have to pay a pound of his flesh, the bad ones that his daughter is still not found and the big loss of money and treasures.</s>
+        <s>In the end the good news however dominate <choice><orig>leving</orig><reg>leaving</reg></choice> <name type="person">Shylock</name> happy and excited aobut fulfilling the deal.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

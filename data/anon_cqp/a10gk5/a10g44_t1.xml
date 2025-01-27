@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g44_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Blogpost</orig><reg>blogpost</reg></choice> <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> is written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref>.</s>
+        <s>It is published on her <name type="misc">Blog on Environment</name> in <date>February 5th, 2014</date>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Blogpost</orig><reg>blogpost</reg></choice> is about the pollution of our environment.</s>
+        <s><ref target="a10gk5_1" type="author">Ankita Mitra</ref> points out the hazardous effects on the natural world and the activities of living beings.</s>
+      </p>
+      <p>
+        <s>How we pollute our own and only world is also an important message in the <choice><orig>Post</orig><reg>post</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The urbanization, the industrial growth are also things that contaminate our world.</s>
+      </p>
+      <p>
+        <s>But the <choice><orig>Post</orig><reg>post</reg></choice> isn't only about pollution it is also about what we could do against the contamination.</s>
+        <s>If we do nothing against it today, it is maybe too late tomorrow.</s>
+      </p>
+      <p>
+        <s>This <choice><orig>Post</orig><reg>post</reg></choice> is a message to the people on earth.</s>
+        <s>The message <choice><orig>sais</orig><reg>says</reg></choice> that we have to regulate our industrial growth and urbanization, we have to do <choice><abbr>sth.</abbr><expan>something</expan></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

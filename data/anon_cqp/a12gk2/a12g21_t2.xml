@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In order to underline his critical view on the current <choice><orig>language-learning</orig><reg>language learning</reg></choice> situation in the <name type="geo">UK</name>, <ref target="a12gk2_1" type="author">John Worne</ref> implies a variety of communicative strategies and a concrete use of language which makes his opinion more convincing.</s>
+      </p>
+      <p>
+        <s>Looking at the language the author is using, it can be said that he refers to <choice><orig>an</orig><reg>a</reg></choice> rather educated readership, but still in a way that his opinion is understandable for non-experts.</s>
+        <s>Often he makes use of a complex syntax <ref target="a12gk2_1" type="line">(ll. 3-5)</ref> and a sophisticated vocabulary <ref target="a12gk2_1" type="line">(l. 5)</ref>.</s>
+        <s>Through that he creates more <gap reason="illegible" quantity="1" unit="word">validy</gap>, which also underlines his point of the need of a better knowledge of language in the <name type="geo">UK</name>.</s>
+        <s>On the other hand, he also uses words like <quote>Cobblers</quote><ref target="a12gk2_1" type="line">(l. 15)</ref>, which are rather informal.</s>
+        <s>With that he also includes a not too educated readership.</s>
+        <s>Furthermore he adresses his readers directly in <ref target="a12gk2_1" type="line">lines 12 till 14</ref>lines 12 till 14(<quote>you</quote>) and in <ref target="a12gk2_1" type="line">line 32</ref>: <quote>So, parents of the UK</quote>, which means that in general this article is meant to be read by parents.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> also points out, that he himself is a parent with first person pronoun <quote>I</quote><ref target="a12gk2_1" type="line">(l. 32)</ref>, which creates more authenticity through the illusion that he seems to know what he is talking about.</s>
+        <s>To underline that even more, he makes use of the inclusive pronouns <quote>we</quote><ref target="a12gk2_1" type="line">(l. 33)</ref>, <quote>our</quote><ref target="a12gk2_1" type="line">(l. 34)</ref> and <quote>us</quote><ref target="a12gk2_1" type="line">(l. 35)</ref>.</s>
+        <s>That creates a feeling of a community of himself and the readership which has to take care of the issue the author describes.</s>
+        <s>To underline that issue even more, <ref target="a12gk2_1" type="author">Worne</ref> also implies <choice><orig>stilistic</orig><reg>stylistic</reg></choice> devices.</s>
+        <s>In the last paragraph he uses the <choice><orig>metaphora</orig><reg>metaphor</reg></choice>, which describes <quote>languages</quote> and <quote>international experiences</quote> as <quote>essential strings to our [the readership's] children's bows</quote>.</s>
+        <s>Through that the author emphasizes how essential languages are for the young people in order to be successful.</s>
+        <s>He also illustrates how important <choice><orig>languageskills</orig><reg>language skills</reg></choice> are with the comparison in lines 27 till 29, where he gives an example of a lawyer with a variety of language skills in contrast to one who cannot speak more than one language.</s>
+        <s>Through that he makes clear, how important the learning of language is for many different jobs.</s>
+        <s>Another very popular argumentative strategy in the given article is the use of many different data, numbers and statistics <ref target="a12gk2_1" type="line">(ll. 9-10, l. 8)</ref>.</s>
+        <s>For example by <choice><orig>referening</orig><reg>referencing</reg></choice> historical developments and data in lines 9 till 10 he creates <choice><orig>validy</orig><reg>validity</reg></choice>, which makes his opinion more convincing.</s>
+        <s>The fact that he does not use any quotes mabe could lower his <choice><orig>validy</orig><reg>validity</reg></choice>, but on the other hand it also creates the effect, that the reader sees the author as an expert, who does not need any more experts in order to make <choice><orig>is</orig><reg>his</reg></choice> point.</s>
+        <s>Another striking stylistic device can be found in the headline, where he uses the enumeration <ref target="a12gk2_1" type="title">'can't, won't, don't'</ref>, which he then also repeats at the beginning of his article <ref target="a12gk2_1" type="line">(l. 1)</ref>.</s>
+        <s>By doing that, he catches the readership and illustrates the issue, that the students in the <name type="geo">UK</name> <quote>can't</quote> speak the <choice><orig>languges</orig><reg>languages</reg></choice> and <quote>won't / don't</quote> learn it.</s>
+        <s>The author also <gap reason="illegible" quantity="1" unit="word">armes</gap> with an argumentative structure, which emphasizes his point of view.</s>
+        <s>For example in lines 12 till 15 he explains the arguments that his own opinion and then makes them weak, by describing it as nonsense <ref target="a12gk2_1" type="line">(l. 15)</ref>, which geives the illusion to the reader, that the author's point of view is the only acceptable and right one.</s>
+      </p>
+      <p>
+        <s>Summing up, one can say, that the author uses a variety of stylistic devices, as well as <choice><orig>an</orig><reg>a</reg></choice> mixture of formal and informal language to convince his readership <add>especially parents</add> that it is important that more young people learn <choice><orig>languges</orig><reg>languages</reg></choice> in order to have success for themselves and their country.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

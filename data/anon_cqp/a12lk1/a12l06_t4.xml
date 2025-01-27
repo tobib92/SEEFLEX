@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l06_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">Shakespeare's</name> long way to <name type="geo">Germany</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Shakespeare</name> is one of the most famous poets and nowadays even German students <choice><orig>knows</orig><reg>know</reg></choice> him but it wasn't always like that – in fact it took almost 200 years.</s>
+      </p>
+      <p>
+        <s>It is not a secret that <name type="person">Shakespeare</name> became famous thanks to his poetic work but in <name type="geo">Germany</name> people mostly did not know him for a long time because there were simply no translation available.</s>
+      </p>
+      <p>
+        <s>In a German newspaper article <name type="person">Wolfgang Hirsch</name> describes how the poet finally found his way to <name type="geo">Germany</name> and why the city <name type="geo">Weimar</name> plays an important role in it.</s>
+      </p>
+      <p>
+        <s>The first extensive translation of Shakespearean drama was published by <name type="person">Christoph Martin Wieland</name> in <name type="geo">Zürich</name> in <date>1762-1766</date>.</s>
+      </p>
+      <p>
+        <s>While also other <choice><orig>importent</orig><reg>important</reg></choice> German poets tried to introduce or work with Shakespearean drama this was the start of <choice><orig>it's</orig><reg>its</reg></choice> spreading and even though there are now many different versions of translations <name type="person">Wieland</name> is still very respected for the poetic power he put into it by for example the German professor Klaus Mayer who is quoted in the article.</s>
+      </p>
+      <p>
+        <s>But what role did <name type="geo">Weimar</name> play in all of it?</s>
+      </p>
+      <p>
+        <s>Well, after the publishing of <name type="person">Wieland's</name> work it was in <name type="geo">Weimar</name> on <date>8 April 1864</date> that <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> was performed in a theatre for the first time.</s>
+        <s>The histories directed by <name type="person">Franz von Dingestedt</name> were so impressive that at the same day the oldest German literary organization, the <name type="person">Shakespeare</name> society, was founded.</s>
+      </p>
+      <p>
+        <s>And as the admiration of the famous poet continued in <name type="geo">Weimar</name> and spreaded through all of <name type="geo">Germany</name> even a statue of <name type="person">Shakespeare</name> by <name type="person">Otto Lessing</name> was put up as the first one in Europe in <date>1904</date> and is now protected by the <choice><abbr>UNESCO</abbr><expan>United Nations Educational, Scientific and Cultural Organization</expan></choice>.</s>
+      </p>
+      <p>
+        <s>So all in all, even though it took a long time for <name type="person">Shakespeare</name> to reach <name type="geo">Germany</name> he did influence it a lot once the city of <name type="geo">Weimar</name> spreaded his work.</s>
+      </p>
+      <p>
+        <s>How did <name type="person">Shakespeare's</name> work arrive in your country and is he still relevant?</s>
+        <s>If you are interested in this debate please feel free to join the project <name type="misc">Global Shakespeare</name>!</s>
+      </p>
+      <p>
+        <s>The German article I used is linked on the website in case anyone would like to read it.</s>
+        <s>
+          <add>I hope you enjoyed my part!</add>
+        </s>
+      </p>
+      <p>
+        <signed>Jane Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

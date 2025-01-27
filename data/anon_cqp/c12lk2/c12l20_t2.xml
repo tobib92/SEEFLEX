@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l20_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I hope you like my paraphrase of <ref target="c12lk2_1" type="title">Sonnet 60</ref>.</s>
+        <s>Now I wan't start with the <foreign xml:lang="de">Analyse</foreign>.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk2_1" type="title">The Sonnet 60</ref> is written by <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+        <s>He <choice><orig>wrotes</orig><reg>wrote</reg></choice> 156 sonnets.</s>
+        <s>This sonnet is <choice><orig>adressed</orig><reg>addressed</reg></choice> to a young <choice><orig>men</orig><reg>man</reg></choice>.</s>
+        <s>It has the typical <choice><orig>structur</orig><reg>structure</reg></choice> of a sonnet, that means it has 14 lines and a <choice><orig>crossrhyme</orig><reg>cross rhyme</reg></choice> scheme until the couplet on the end.</s>
+        <s>This is typical for the sonnets of <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+        <s>In each quatrain he uses a other metaphor to form his idea and has a powerful statement on the end.</s>
+        <s>His idea in this case is to make the best of your lifetime because we don't know how long we <choice><orig>life</orig><reg>live</reg></choice>.</s>
+        <s>In this fist quatrain he uses the metaphor of stones on the beach to show life changes.</s>
+        <s>In this part he doesn't use any personal <choice><orig>pronoun</orig><reg>pronouns</reg></choice>.</s>
+        <s>In the second <choice><orig>quotrain</orig><reg>quatrain</reg></choice> he uses the metaphor of a <choice><orig>Nativity</orig><reg>nativity</reg></choice> for the birth and speaks about become an adult.</s>
+        <s>In line seven s a letter missing from the word <quote>gainst</quote> the <quote>a</quote> maybe for an alliteration with the word <quote>glory</quote> in the same line.</s>
+        <s>The author uses the first personal pronoun in the seventh line it is <quote>his</quote> the same personal pronoun he uses in line eight again.</s>
+      </p>
+      <p>
+        <s>In the third <choice><orig>quotrain</orig><reg>quatrain</reg></choice> is death the topic.</s>
+        <s>In line 12 he uses the personal pronoun <quote>his</quote> again.</s>
+        <s>In the couplet he uses <quote>my</quote> in line 13 and I think <ref target="c12lk2_1" type="author"><choice><orig>Shakepear</orig><reg>Shakespeare</reg></choice></ref> means <choice><orig>hisself</orig><reg>himself</reg></choice>.</s>
+        <s>In line 14 he uses <quote>his</quote> again.</s>
+        <s>The topic of the couplet are the end of his idea of death and birth and be a statement for the young <choice><orig>men</orig><reg>man</reg></choice>.</s>
+      </p>
+      <p>
+        <s>I think his intention was to appeal the young <choice><orig>men</orig><reg>man</reg></choice> to live <choice><orig>ther</orig><reg>their</reg></choice> life because it comes faster to an end <choice><orig>that</orig><reg>than</reg></choice> he <choice><orig>tought</orig><reg>thought</reg></choice>.</s>
+      </p>
+      <p>
+        <s>After my <choice><orig>analyzes</orig><reg>analysis</reg></choice> of the <ref target="c12lk2_1" type="title">Sonnet 60</ref> I will write a discuss if <ref target="c12lk2_1" type="author"><choice><orig>Shakepear</orig><reg>Shakespeare</reg></choice></ref> should still be taught in German English classes.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

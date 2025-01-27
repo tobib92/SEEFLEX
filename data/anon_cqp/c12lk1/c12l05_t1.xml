@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l05_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">present</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sonnet <ref target="c12lk1_1" type="title">Sonnet 65</ref> by <ref target="c12lk1_1" type="author">William <choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> was written in the <choice><orig>elithabethan</orig><reg>Elizabethan</reg></choice> time.</s>
+      </p>
+      <p>
+        <s>It has 14 verses with four chapters.</s>
+        <s>The first one, is from line one to line four, the second one is from line <choice><orig>fife</orig><reg>five</reg></choice> to line eight, the third one is from line nine to <choice><orig>twelf</orig><reg>twelve</reg></choice> and the final <choice><orig>cuplet</orig><reg>couplet</reg></choice> goes from line thirteen to line fourteen, which is very typical for <ref target="c12lk1_1" type="author"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></ref> sonnets.</s>
+      </p>
+      <p>
+        <s>From line one to <choice><orig>twelf</orig><reg>twelve</reg></choice> is a cross rhyme, so the last word of the first and third and of the second and fourth line of each chapter <choice><orig>rhym</orig><reg>rhyme</reg></choice> each other.</s>
+        <s>Just in line thirteen and fourteen, in the final <choice><orig>cuplet</orig><reg>couplet</reg></choice> is no cross rhyme an the <choice><orig>bouth</orig><reg>both</reg></choice> last words of the line rhyme each other.</s>
+        <s>This is also very typical for <ref target="c12lk1_1" type="author"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></ref> sonnets.</s>
+      </p>
+      <p>
+        <s>In the first part of the sonnet, <ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> writes, that</s>
+      </p>
+    </body>
+  </text>
+</TEI>

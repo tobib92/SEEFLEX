@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given excerpt, the reader gets to know <choice><orig>an</orig><reg>a</reg></choice> new, unknown side of <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>In the previous story, <ref target="b11lk2_1" type="character">Gatsby</ref> is presented as a well-kept, mysterious man.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> for example perceives him as a <quote>person of some undefined consequence</quote> <ref target="b11lk2_1" type="line">(p. 64, l. 14)</ref>.</s>
+        <s>Even though <ref target="b11lk2_1" type="character">Nick's</ref> opinion about <ref target="b11lk2_1" type="character">Gatsby</ref> changes in chapter 4, when he tells him about his backstory, <ref target="b11lk2_1" type="character">Nicks's</ref> previous view on him is still the same for other outsiders.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> has the strong impression that <ref target="b11lk2_1" type="character">Gatsby</ref> is a man, who is picking his words with care <ref target="b11lk2_1" type="line">(p. 50, ll. 9-10)</ref>.</s>
+        <s>Even while telling <ref target="b11lk2_1" type="character">Nick</ref> <quote>God's truth</quote> <ref target="b11lk2_1" type="line">(p. 64, l. 30)</ref> the reader and <ref target="b11lk2_1" type="character">Nick</ref> get no chance of seeing <ref target="b11lk2_1" type="character"><choice><orig>Gatsbys</orig><reg>Gatsby's</reg></choice></ref> true emotions or intentions, as he still hides behind a <choice><orig>fassade</orig><reg>facade</reg></choice>, that he has build up around himself.</s>
+        <s>We can see this on p. 65 in ll. 3-5, where <ref target="b11lk2_1" type="character">Nick</ref> thinks: <quote><qs>and I knew why <ref target="b11lk2_1" type="character">Jordan Baker</ref> had believed he was lying.</qs><qs>He hurried the phrase [...]</qs></quote>.</s>
+        <s>Adding to this he wonders <quote>if there wasn't something a little sinister about him after all</quote> <ref target="b11lk2_1" type="line">(p. 65, ll. 6-7)</ref>, which shows, that he has problems with figuring <ref target="b11lk2_1" type="character">Gatsby</ref> out.</s>
+      </p>
+      <p>
+        <s>This in the first chapters shown <choice><orig>fassade</orig><reg>facade</reg></choice> crumbles in the 5th chapter, which is especially highlighted in the given excerpt.</s>
+      </p>
+      <p>
+        <s>The reader observes <ref target="b11lk2_1" type="character">Gatsby</ref> how he behaves, when he's not on behalf of his every word and more, as he is too nervous about seeing <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>The impression that his thoughts are scattered is given.</s>
+      </p>
+      <p>
+        <s>In the course of the scene the reader can see <ref target="b11lk2_1" type="character">Gatsby's</ref> poor attempt to gain control over his behaviour, when he tries to build up the mentioned <choice><orig>fassade</orig><reg>facade</reg></choice> again.</s>
+        <s>This action takes place on p. 84 in the line 38 where he <quote>was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom</quote>.</s>
+        <s>This attempt fails in knocking over a clock, which symbolises that his attempt to revive a past relationship, to reset the time, could be poorly and likely to collapse, which ll. 13-14 on p. 85 show us as well: <quote>I think we all believed for a moment that it had smashed in pieces on the floor</quote>.</s>
+      </p>
+      <p>
+        <s>Especially the <choice><orig>narrators</orig><reg>narrator's</reg></choice> perspective of <ref target="b11lk2_1" type="character">Nick</ref> lays out <ref target="b11lk2_1" type="character">Gatsby's</ref> emotions in front of us, which weren't reachable before, showing us that <ref target="b11lk2_1" type="character">Gatsby</ref> is a love-struck young man.</s>
+        <s><ref target="b11lk2_1" type="character">Nick's</ref> perspective tells us, that <ref target="b11lk2_1" type="character">Gatsby's</ref> <choice><orig>feeling</orig><reg>feelings</reg></choice> are not only what he feels inside, but are visible from the outside.</s>
+        <s>In the excerpt he is like an <q>open book</q>, free for <ref target="b11lk2_1" type="character">Nick</ref> to read.</s>
+        <s>It can be seen for example in the line <quote>glaring tragically into my eyes</quote> <ref target="b11lk2_1" type="line">(p. 84, l. 16)</ref>, or that he is <quote>pale as death, with his hands punged like weights in his pockets</quote> <ref target="b11lk2_1" type="line">(p. 84, ll. 14-15)</ref> or furthermore the mention of his <quote>distraught eyes</quote> <ref target="b11lk2_1" type="line">(p. 84, l. 30)</ref>, his <quote>tense unhappy eyes</quote> <ref target="b11lk2_1" type="line">(p. 85, l. 25)</ref> or the use of the word <quote>miserable</quote> when thinking of <ref target="b11lk2_1" type="character">Gatsby</ref> in this scene <ref target="b11lk2_1" type="line">(p. 85, l. 31)</ref>.</s>
+      </p>
+      <p>
+        <s>The particular repeating of the feelings in his eyes tell us that they are most likely genuine.</s>
+      </p>
+      <p>
+        <s>Also significant is the use of contrasts in this scene, where there is for example a <quote>choke of murmur and part of a laugh</quote> <ref target="b11lk2_1" type="line">(p. 84, l. 22)</ref>, or a <quote>perfect ease</quote> and <quote>distraught eyes</quote> <ref target="b11lk2_1" type="line">(p. 84 ll. 28-30)</ref>.</s>
+        <s>This also can be seen in <ref target="b11lk2_1" type="character">Daisy's</ref> behaviour, when she says she's <quote>awfully glad to see <ref target="b11lk2_1" type="character">Gatsby</ref> again</quote> <ref target="b11lk2_1" type="line">(p. 84, l. 24)</ref> or that she was sitting <quote>frightened but graceful</quote> <ref target="b11lk2_1" type="line">(p. 85, l. 1)</ref>.</s>
+        <s>They show us that the two characters can't decide between two emotions and also pretend to feel different as they really are, as for example <ref target="b11lk2_1" type="character">Daisy's</ref> words <quote>awfully</quote> have <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>negativ</orig><reg>negative</reg></choice> connotation and <quote>glad</quote> have <choice><orig>an</orig><reg>a</reg></choice> positive connotation.</s>
+      </p>
+      <p>
+        <s>This <choice><orig>undeciveness</orig><reg>indecisiveness</reg></choice> foreshadows the change of emotion and behaviour both figures have at the end of the excerpt.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> descirbes it as <quote>a change in <ref target="b11lk2_1" type="character">Gatsby</ref> that was simply confounding</quote> and he <quote>glowed</quote> while <quote>a new well-being radiated from him</quote> <ref target="b11lk2_1" type="line">(p. 87, ll. 13-15)</ref>.</s>
+        <s>Also <ref target="b11lk2_1" type="character">Daisy's</ref> behaviour has changed, because her face is smeared with tears of joy <ref target="b11lk2_1" type="line">(p. 87, l. 11)</ref> and her voice is described as <quote>her throat, full of aching, grieving beauty, told only of her unexpected joy</quote> <ref target="b11lk2_1" type="line">(p. 87, ll. 23-24)</ref>.</s>
+        <s>Again, one can see the contrast of the words <quote>grieving</quote> and <quote>beauty</quote>.</s>
+      </p>
+      <p>
+        <s>They overcome the embarrassment in which <ref target="b11lk2_1" type="character">Nick</ref> told <ref target="b11lk2_1" type="character">Gatsby</ref> he was acting like <quote>a little boy</quote> and was being rude to <ref target="b11lk2_1" type="character">Daisy</ref> <ref target="b11lk2_1" type="line">(p. 86, ll. 8-9)</ref>.</s>
+        <s>The result of this shifted mood can be seen when <ref target="b11lk2_1" type="character">Nick</ref> tells us that <ref target="b11lk2_1" type="character">Gatsby</ref> <quote>smiled like a weather man, like an estatic paron of recurrent light</quote> <ref target="b11lk2_1" type="line">(p. 87, ll. 14-15)</ref>.</s>
+        <s>Both <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> seem to be happy at the end of the excerpt.</s>
+        <s>The last aspect that played a role in <ref target="b11lk2_1" type="character">Gatsby's</ref> behaviour is the setting of the scene, which is <ref target="b11lk2_1" type="character">Nick's</ref> house.</s>
+        <s>It is an unfamiliar surrounding for <ref target="b11lk2_1" type="character">Gatsby</ref> which probably contributes to his nervousness.</s>
+        <s>It doesn't feel like a <q>safe place</q> in which he knows, what he can do or show to divert attention from the awkward situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

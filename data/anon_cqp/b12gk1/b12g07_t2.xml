@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g07_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Through the use of many stylistic devices such as parallelisms and comparisons and first naming the problem then many solutions <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> created an overall hopefull and optimistic connotation.</s>
+        <s>By starting with a <name type="person">James Bond</name> reference <ref target="b12gk1_1" type="line">(l. 2)</ref> <ref target="b12gk1_1" type="speaker">Johnson</ref> on the one hand loosens up his speech, talking about a popular movie and on the other hand shows the <choice><orig>tradgedy</orig><reg>tragedy</reg></choice> of the problem.</s>
+      </p>
+      <p>
+        <s>In the entire speech he never mentions one problem climate change is already causing or will cause thus the <choice><orig>problem</orig><reg>probem</reg></choice> seems rather theoretical, even though he continues to mention the urgency to act now when he continues to talk about the empty promises of the past.</s>
+        <s>Through repeating that he was at past conferences about climate changes he creates the feeling that he knows what to do <ref target="b12gk1_1" type="line">(ll. 10)</ref>.</s>
+        <s>He as well as everyone else around the globae had to listen to the empty promises.</s>
+        <s>This creates the feeling that we are all in the same boat which is also emphasized by the repetition of <quote>I was there</quote> <ref target="b12gk1_1" type="line">(ll. 10)</ref>, the use of the informal phrase <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref> and inclusive language <ref target="b12gk1_1" type="line">(l. 6, 30, 46)</ref>.</s>
+        <s>After pointing out the urgency to act now he then goes on talking about the things we can do to stop the man-made climate change.</s>
+        <s>He sets a <choice><orig>quiet</orig><reg>quite</reg></choice> optimisic tone by again using a repetition <quote><qs>we can.</qs><qs>We can get real</qs></quote> <ref target="b12gk1_1" type="line">(l. 16)</ref>.</s>
+      </p>
+      <p>
+        <s>This optimistic tone also was created through his <choice><orig>argumentativ</orig><reg>argumentative</reg></choice> structure so far.</s>
+        <s>He first described the problem <ref target="b12gk1_1" type="line">(l. 1)</ref> and then named ways to solve it <ref target="b12gk1_1" type="line">(l. 16)</ref> thus creating a feeling of hope in his audience.</s>
+      </p>
+      <p>
+        <s>By telling his listeners that the <name type="geo">UK</name> has already ended their dependence on coal and the use of a comparison <ref target="b12gk1_1" type="line">(l. 29)</ref> he shows that his strategies already have worked and will also work in the future.</s>
+        <s>This enlages the audience's trust in him.</s>
+      </p>
+      <p>
+        <s>Further he uses future generations as an emotional pressure tool.</s>
+        <s>Most of the people he is talking to have children for which they probably only want to the bst future.</s>
+        <s>They also do not want them to think badly about their parents and <choice><orig>grantparents</orig><reg>grand-parents</reg></choice>, wishing they would have acted differently.</s>
+        <s>This is also underlined by his use of the metaphor <quote>fluff our lives or miss our cue</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+        <s>After that he creates the picture that we already have everything we need to act by using a parallelism <ref target="b12gk1_1" type="line">(ll. 46)</ref> making the acting itself seem easy.</s>
+      </p>
+      <p>
+        <s>By in the end referring to <name type="person">James Bond</name> <ref target="b12gk1_1" type="line">(l. 48)</ref> again <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> closes the frame.</s>
+        <s>This also has a positive connotation because in the most cases <name type="person">James Bond</name> movies have a happy ending, implying the climate crisis will so, too.</s>
+      </p>
+      <p>
+        <s>All in all you can see that <ref target="b12gk1_1" type="speaker">Johnson</ref> successfully tries to give hope to his audience and <choice><orig>show</orig><reg>shows</reg></choice> that he and the rest of the world are capable of solving the issue of climate change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

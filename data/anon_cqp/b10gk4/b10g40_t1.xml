@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g40_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is taken from the feature film <ref target="b10gk4_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk4_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>.</s>
+        <s>The film deals with a black girl, who lives in a poor neighbourhood with mostly black people and goes to a school in a rich, calm and with white people lived in neighbourhood.</s>
+      </p>
+      <p>
+        <s>At the beginning of the scene <ref target="b10gk4_1" type="character">Chris</ref> comes with a headset on his head to <ref target="b10gk4_1" type="character">Starr</ref>, while that he wears her favourite shoes.</s>
+        <s>When he <choice><orig>reach</orig><reg>reaches</reg></choice> <ref target="b10gk4_1" type="character">Starr</ref>, he puts his headset on her head and <choice><orig>let</orig><reg>lets</reg></choice> she listen to music.</s>
+        <s>Then he <choice><orig>apologize</orig><reg>apologizes</reg></choice>, because he messed up and they start a <choice><orig>dialog</orig><reg>dialogue</reg></choice> about <ref target="b10gk4_1" type="character">Starr</ref> is all the time busy and that <ref target="b10gk4_1" type="character">Chris</ref> misses her.</s>
+        <s>At the end of the conversation, <ref target="b10gk4_1" type="character">Chris</ref> dances away to impress <ref target="b10gk4_1" type="character">Starr</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

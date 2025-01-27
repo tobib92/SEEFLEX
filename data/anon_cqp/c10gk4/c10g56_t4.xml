@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g56_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is a report about the <name type="misc">Education Center</name> in <name type="geo">Delhi, India</name>, by <name type="person">Bianca L.</name> <add>(18 years old)</add> on the <choice><orig>british</orig><reg>British</reg></choice> website <link>Teenissues.com</link>.</s>
+      </p>
+      <p>
+        <s>At first, the author writes about her daily routine at <choice><orig>an</orig><reg>a</reg></choice> weekday.</s>
+        <s>Breakfast is at 8.30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>, at 10 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> she needs to leave her apartment to be driven by a <choice><orig>Rikscha</orig><reg>rickshaw</reg></choice> to the <name type="misc">Education Center</name>.</s>
+      </p>
+      <p>
+        <s>From 10.30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> until 11.30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> or 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> she teaches the boys <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+        <s>Afterwards is lunch break from 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> - 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>, then she teaches the girls until 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+      </p>
+      <p>
+        <s>The most important thing for her were the children.</s>
+      </p>
+      <p>
+        <s>She says, that the children in <name type="geo">India</name> are very lovely and acceptant of you, and very interested in your background, your life and <choice><orig>exspririences</orig><reg>experiences</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But before all that, the children really love life.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca L.</name> says, that she worked in <choice><orig>diffrent</orig><reg>different</reg></choice> schools and kindergartens, but the children there missed some of the love and lust for life like the children in <name type="geo">India</name> had.</s>
+      </p>
+      <p>
+        <s>She admires them for having so much joy, even in their bad situation.</s>
+        <s>She loved the days in the slum, when the children were happy and lively, but sometimes also frustrated and tired.</s>
+        <s>They were some of the most precious days in her life.</s>
+      </p>
+      <p>
+        <s>They fulfilled her with hope, love, patience and thankfulness, much thankfulness.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

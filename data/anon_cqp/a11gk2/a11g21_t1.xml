@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g21_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given speech by <ref target="a11gk2_1" type="speaker">Barack Obama</ref> which was given on the <date>7th of November 2007</date> in <name type="geo">Bettendorf, Iowa</name> <ref target="a11gk2_1" type="speaker">Obama</ref> tries to convince the audience that everybody <choice><orig>have</orig><reg>has</reg></choice> the same opportunities to have a <choice><orig>decend</orig><reg>decent</reg></choice> <choice><orig>live</orig><reg>life</reg></choice> <choice><orig>whit</orig><reg>with</reg></choice> a good paid job.</s>
+        <s>He speaks about of the <choice><orig>speration</orig><reg>separation</reg></choice> by geography and ideology which is often named in <name type="geo">Washington</name>.</s>
+        <s>But this separation doesn't exist for him and he said that all of the people their are living in <name type="geo">America</name> share the same values and the same hope.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g24_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref> uses a lot of rhetorical devices to show that dreams are worth fighting for.</s>
+        <s>I will analyze them in the following.</s>
+      </p>
+      <p>
+        <s>The speaker uses a hyperbole <quote>just a stone's throw away</quote> <ref target="a11gk2_1" type="line">(l. 2)</ref> to underline the similarity American people <choice><orig>has</orig><reg>have</reg></choice> and that there is not an important difference between them.</s>
+        <s>He also says this to close up the distance between the listener and him.</s>
+      </p>
+      <p>
+        <s>Furthermore the author uses a <choice><orig>klimax</orig><reg>climax</reg></choice> <quote><choice><orig>were</orig><reg>we're</reg></choice> becoming <choice><orig>seperated</orig><reg>separated</reg></choice> by geography and ideology; race and religion; wealth and opportunity</quote> <ref target="a11gk2_1" type="line">(l. 5f.)</ref> to express that <choice><orig>they</orig><reg>there</reg></choice> are a lot of things we can count ourselves in but none of these <choice><orig>matters</orig><reg>matter</reg></choice>.</s>
+      </p>
+      <p>
+        <s>He uses another <choice><orig>klimax</orig><reg>climax</reg></choice>/repetition <quote>In big cities and small towns, among men and women, young and old, black and white and brown</quote> to point out that no matter what you are all people in <name type="geo">America</name> share <choice><orig>this</orig><reg>these</reg></choice> dreams.</s>
+      </p>
+      <p>
+        <s>Moreover he uses another <choice><orig>klimax</orig><reg>climax</reg></choice> <quote><qs>Education and opportunity for our kids.</qs><qs>Common hopes.</qs><qs>American dreams.</qs></quote> <ref target="a11gk2_1" type="line">(l. 12)</ref> to show that the American <choice><orig>dream</orig><reg>Dream</reg></choice> is the highest perspective American people can get.</s>
+        <s>This shows how important he thinks the American <choice><orig>dream</orig><reg>Dream</reg></choice> is for him.</s>
+      </p>
+      <p>
+        <s>As a result one can say that dreams are worth fighting for no matter what race or ethnicity you belong to.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

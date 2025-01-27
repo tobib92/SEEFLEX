@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g24_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c10gk2_1" type="title">Remarks of president Barack Obama at student roundtable</ref> is an <choice><orig>exert</orig><reg>excerpt</reg></choice> of the speech in <name type="geo">Istanbul, Turkey</name> by <ref target="c10gk2_1" type="speaker">Barack Obama</ref>.</s>
+        <s>The speech is from <date>April 7, 2009</date>.</s>
+        <s>The <choice><orig>Text</orig><reg>text</reg></choice> is about, how <ref target="c10gk2_1" type="speaker">Barack Obama</ref> wants to connect young people all over the world, so you can learn new languages or do an exchange year.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

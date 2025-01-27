@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l12_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">present</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sonnet <ref target="c12lk1_1" type="title">Sonnet 65</ref> was written by <ref target="c12lk1_1" type="author">William Shakespeare</ref>.</s>
+        <s>The sonnet has 14 lines which can be <choice><orig>seperated</orig><reg>separated</reg></choice> in three verses of four and a couplet at the end.</s>
+        <s>The metre of the sonnet is an iambic pentameter, which means that every line has ten syllables and there is always every seonc line emphasized.</s>
+        <s>The rhyme of the sonnet can be divided in <name type="misc">ABAB, CDCD, EFEF, GG</name>.</s>
+      </p>
+      <p>
+        <s>The addressee of the sonnet could be every reader and the intention of <ref target="c12lk1_1" type="author">Shakespeare</ref> is to convince the reader from his opinion.</s>
+        <s>The mainly theme is that nothing can beat the time.</s>
+        <s>In first, <ref target="c12lk1_1" type="author">Shakespeare</ref> tells the reader that even things that are supposed to be not mortal loses his power with the time.</s>
+        <s>Also beauty <choice><orig>can not</orig><reg>cannot</reg></choice> resist mortality.</s>
+        <s>After that he gets deeper into the theme and asks himself how can summer be forever when there is time.</s>
+        <s>He also tells about rocks and steel which both loses his impregnability with the time.</s>
+      </p>
+      <p>
+        <s>Afterwards, <ref target="c12lk1_1" type="author">Shakespeare</ref> writes that even jewels, power and beauty cannot resist the effects of the time.</s>
+        <s>In the last couplet, <ref target="c12lk1_1" type="author">Shakespeare</ref> explains that even if nothing can resist the time, he still loves to write.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

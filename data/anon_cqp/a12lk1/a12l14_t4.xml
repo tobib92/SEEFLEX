@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l14_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Hi community, as a part of my work for the international school project <name type="misc">Global Shakespeare</name>, I <gap reason="illegible" quantity="1" unit="word">reasonily</gap> did some research and found a very interesting article from a <choice><orig>german</orig><reg>German</reg></choice> newspaper that I want to share.</s>
+        <s>The article was published in <date>April 2016</date> by the <name type="misc">Thüringer Allgemeine</name> a daily paper in the state of <name type="geo">Thüringen</name>.</s>
+      </p>
+      <p>
+        <s>It deals with how <name type="person">Shakespeare's</name> work came to <name type="geo">Germany</name> and the impacts it had.</s>
+        <s>Therefore the city of <name type="geo">Weimar</name> plays a major role for the reception of his work.</s>
+      </p>
+      <p>
+        <s>Until the 18th century <name type="person">Shakespeare's</name> work was widely unknown in <name type="geo">Germany</name> due to a lack of translations available.</s>
+        <s>From <date>1762</date> to <date>1766</date> <name type="person">Christoph Martin Wieland</name>, an icon of German classics, published the translation of 22 of <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> <choice><orig>drama's</orig><reg>dramas</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But it is known that <name type="person">Goethe</name> and <name type="person">Herder</name> were also interested in <name type="person">Shakespeare's</name> work.</s>
+        <s>On <date>8th April 1864</date> a community of <name type="person">Shakespeare</name> fans was founded in order to celebrate his birth and death.</s>
+        <s>In the same year the <name type="person">Shakespeare</name> society was born in <name type="geo">Weimar</name>, as the oldest literature unification in Germany.</s>
+        <s>For the 40th anniversary of the <name type="person">Shakespeare</name> society the organisation created the first <name type="person">Shakespeare</name> memorial on the <choice><orig>european</orig><reg>European</reg></choice> continent in <date>1904</date>, that can still be seen in the <name type="geo"><choice><orig>Ilm parc</orig><reg>Ilmpark</reg></choice></name> in <name type="geo">Weimar</name>.</s>
+        <s>And still today there is a veriety of modern translations and new perceptions of his work, within the <choice><orig>german</orig><reg>German</reg></choice> literature.</s>
+        <s>I am convinced that this information helps to understand the <choice><orig>german</orig><reg>German</reg></choice> view on <name type="person">Shakespeare</name> but also to get an overview on the influence of his work and <choice><orig>it's</orig><reg>its</reg></choice> meaning to literature.</s>
+      </p>
+      <p>
+        <s>Please share your opinions and questions in the comment section below.</s>
+      </p>
+      <p>
+        <signed>See u, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

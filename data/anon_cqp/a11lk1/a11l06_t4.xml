@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l06_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><choice><orig>Rasism</orig><reg>Racism</reg></choice> is an important topic in nearly every country in the world, including <name type="geo">Germany</name> as well.</s>
+        <s>One <choice><orig>have</orig><reg>has</reg></choice> to face different challenges and violence for having for example a different skin color, different heritage or for their sexual orientation.</s>
+      </p>
+      <p>
+        <s>Even though <name type="geo">Germany</name> is a socially and economically very well developed country, especially men and women with darker skin or African heritage are often excluded or offended only for their outward appearance.</s>
+        <s>In this case it <choice><orig>doens't</orig><reg>doesn't</reg></choice> matter how wealthy or famous one is.</s>
+        <s>This shows the experience of the German footballer <name type="person">Jérôme Boateng</name> who played many important games for the German national football team and sees <name type="geo">Germany</name> as his home country.</s>
+        <s>In his own magazine <choice><orig>namend</orig><reg>named</reg></choice> <name type="misc">Boa</name> he gives an interview together with the German singer and musician <name type="misc">Herbert Grönemeyer</name> and talks about how his skin color and heritage affected his <choice><orig>carrier</orig><reg>career</reg></choice> his whole life.</s>
+      </p>
+      <p>
+        <s><name type="person">Boateng</name> who is 30 years old says that already in his childhood he had to face <choice><orig>rasism</orig><reg>racism</reg></choice> during football games, including getting spit in the face from the <choice><orig>opponents</orig><reg>opponents'</reg></choice> parents when he was only 10 years old.</s>
+      </p>
+      <p>
+        <s>He remembers it is unbelievable for a kid that someone could have such a huge problem only with his skin color even though he was born and raised in <name type="geo">Germany</name>.</s>
+        <s>He experienced <choice><orig>rasism</orig><reg>racism</reg></choice> his whole life so he kind of got used to it with the time but in the beginning it was brutal and also hard to understand for a young boy who just wants to play football.</s>
+      </p>
+      <p>
+        <s>In <date>2019</date> he ended his career in the national team after being world champion in <date>2014</date>.</s>
+        <s>In his opinion it wouldn't have been possible to win this world cup without players like him, players with different heritage and roots.</s>
+        <s>That's what makes <name type="geo">Germany</name> to the country it is today.</s>
+        <s>A country comparable to a salad bowl, a colorful mix with people from nations around the world who are part of the success and achievements in <name type="geo">Germany</name> not only regarding football.</s>
+      </p>
+      <p>
+        <s>That's why <name type="person">Boateng</name> thinks it's important to talk about this topic, stop putting people into <choice><orig>catagories</orig><reg>categories</reg></choice> or just being <choice><orig>skeptical</orig><reg>sceptical</reg></choice> about someone who might have foreign roots but feels German.</s>
+        <s>It destroys the diversity of our country.</s>
+      </p>
+      <p>
+        <s>I totally agree to him it's <choice><orig>completly</orig><reg>completely</reg></choice> <choice><orig>unneccessary</orig><reg>unnecessary</reg></choice> to have prejudice regarding people with foreign heritage oder darker skin.</s>
+        <s>I think in general it's wrong to <choice><orig>critize</orig><reg>critizise</reg></choice> or offend people only for their outward appearance, especially people like <name type="person">Jérôme Boateng</name> who is a huge part of the football history in <name type="geo">Germany</name> and will always be.</s>
+        <s>It's unfair that he and thousand of other Germans with African heritage have to face challenges one with only German heritage won't ever have to deal with.</s>
+      </p>
+      <p>
+        <s>What do you think about <choice><orig>rasism</orig><reg>racism</reg></choice> because of someone's roots and heritage?</s>
+        <s>Have you ever been in such a situation?</s>
+        <s>Leave your comment or thoughts in the infobox down below.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

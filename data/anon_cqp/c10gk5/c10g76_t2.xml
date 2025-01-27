@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g76_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The structure of the text is that it is consists of four paragraphs.</s>
+      </p>
+      <p>
+        <s>The first paragraph is the <choice><orig>informativ</orig><reg>informative</reg></choice> part, because there are general information about how much the translating costs are for one year in <name type="geo">Great Britain</name> <ref target="c10gk5_1" type="line">(l. 1-2)</ref>.</s>
+      </p>
+      <p>
+        <s>In the next two paragraphs the author describes his life and experiences about learning <choice><orig>english</orig><reg>English</reg></choice> and in general <choice><orig>imigration</orig><reg>immigration</reg></choice> in a new country.</s>
+      </p>
+      <p>
+        <s>The last paragraph is the appealing part of the <choice><orig>articel</orig><reg>article</reg></choice>, because <ref target="c10gk5_1" type="author">Zia</ref> directly <choice><orig>speek</orig><reg>speak</reg></choice> to the readers and wanted to tell them something.</s>
+      </p>
+      <p>
+        <s>That <ref target="c10gk5_1" type="author">Rahman</ref> tries to convince the <choice><orig>readers</orig><reg>reader's</reg></choice> opinion becomes clear in the last part, because he directly <choice><orig>speeks</orig><reg>speaks</reg></choice> to the readers with words <quote>you</quote>, <quote>we</quote> and <quote>us</quote> <ref target="c10gk5_1" type="line">(l. 18-23)</ref>.</s>
+        <s>With these words he wants to give the reader the feeling of being included and being important.</s>
+      </p>
+      <p>
+        <s>With his choice of words in line 8-10 like <quote>drugs</quote>, <quote>crime</quote> and <quote>gangs</quote> he wanted to made it clear that Bangladeshis really have a big problem, there are many people who get in contact with drugs or get in crime.</s>
+        <s>You have to choose between two lives on the one hand a normal and good life and on the other hand a life in gangs on the street and in criminal.</s>
+      </p>
+      <p>
+        <s>These are things he wanted to make clear with these words.</s>
+      </p>
+      <p>
+        <s>The author <choice><orig>use</orig><reg>uses</reg></choice> <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>anapher</orig><reg>anaphora</reg></choice> in the third paragraph.</s>
+        <s>He begun three times a sentence with the same words <quote>My parents</quote> <ref target="c10gk5_1" type="line">(l. 11-14)</ref>.</s>
+        <s>I think the reason why he did this was to show that his parents were really important for him and his new life in <name type="geo">Britain</name>.</s>
+      </p>
+      <p>
+        <s>With the <choice><orig>metapher</orig><reg>metaphor</reg></choice> in line 7 <quote>Every year Bangladeshis sit at the bottom of educational achievement</quote> he wants to explain that the <choice><orig>Bangladeshies</orig><reg>Bangladeshis</reg></choice> are still on a bad education level, and to show this better for the reader he used this <choice><orig>metapher</orig><reg>metaphor</reg></choice>.</s>
+        <s>In line 20 he said <quote>I believe we should</quote> with <choice><orig>this</orig><reg>these</reg></choice> words he <choice><orig>make</orig><reg>makes</reg></choice> clear that he directly speaks to the reader and he <choice><orig>ask</orig><reg>asks</reg></choice> the reader to include themself and that they have to do something.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>metapher</orig><reg>metaphor</reg></choice>  in line 9 and 10 <quote>extremists in the mosque or the gangs in the streets</quote> is again a good way to show his message for the reader.</s>
+      </p>
+      <p>
+        <s>I think the message of his text is that there are still many problems in <name type="geo">Britain</name> and everywhere for immigrant, and that it is very important to learn the new language because it is the choice of try to get integrated or to live in a parallel society.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

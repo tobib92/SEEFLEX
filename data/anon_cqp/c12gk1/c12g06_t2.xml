@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>With his structure and language the speaker supports his idea of love.</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>vers</orig><reg>verse</reg></choice> he says that no one should let him get married because of the minds because in every relationship are obstacles <ref target="c12gk1_1" type="line">(cf. l. 1f.)</ref>.</s>
+        <s>The antithesis <quote>love is not love</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref> shows his opinion that love doesn't always really mean love.</s>
+        <s>Because love always changes, there are many <quote>alterations</quote> <ref target="c12gk1_1" type="line">(l. 3)</ref>.</s>
+      </p>
+      <p>
+        <s>In a relationship there is someone who moves on, changes himself, turns in a new direction.</s>
+        <s>In addition, the alliteration <quote>remover to remove</quote> underlines the possible impediments in a relationship.</s>
+        <s>It also shows that love wouldn't be the same without these changes and difficulties and that even through these little things like alteration or remover love can't be stopped even though there is a huge storm <ref target="c12gk1_1" type="line">(cf. l. 6)</ref> which means nothing can get them off balance.</s>
+        <s>Moreover he compares the love to a star which shows the ship where to go, this shows that no matter what love always helps and the loved one is there for you in good but also in bad times <ref target="c12gk1_1" type="line">(cf. l. 7)</ref>.</s>
+      </p>
+      <p>
+        <s>Furthermore he says that although the distance is calculated, so you know someone but the <quote>worth's unknown</quote> <ref target="c12gk1_1" type="line">(l. 8)</ref>.</s>
+        <s>This shows that you should honor the love because it has so much <gap reason="illegible" quantity="1" unit="word">alves</gap>.</s>
+        <s>You can say that the second quatrain outlines the importance and advantage of love, becuas there is always someone who is there for you and helps to get you balance in life.</s>
+      </p>
+      <p>
+        <s>The third and last quatrain starts with a personification of the love and time <ref target="c12gk1_1" type="line">(cf. l. 9)</ref>.</s>
+        <s>It says that <quote>love's not times fool</quote> which outlines that love can be stopped by the time.</s>
+        <s>Time is personated as someone with rosy lips and cheeks, so as someone who can manipulate you only by it looks and outer appearance.</s>
+        <s>But as said before love can't be manipulated or changed through time is is fixed <ref target="c12gk1_1" type="line">(cf. l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>In addition the <choice><orig>metafor</orig><reg>metaphor</reg></choice> <quote>within his bending sickle's compass come</quote> <ref target="c12gk1_1" type="line">(l. 10)</ref> it becomes clear that even the death, which is personated with a sickle can't ruin love.</s>
+        <s>Though the sickle has a long sickle it can't get to the love, because it is fixed and forever.</s>
+      </p>
+      <p>
+        <s>Moreover the speaker says that love doesn't change in hours or weeks but it is lasting and resistent to and till <quote>the edge of doom</quote> <ref target="c12gk1_1" type="line">(l. 12)</ref>.</s>
+        <s>This is an addition to the fact that love can't be fooled by time, because hours, weeks, the time won't change the love.</s>
+        <s>This <choice><orig>vers</orig><reg>verse</reg></choice> points out that nothing can get between love but is only <choice><orig>seperated</orig><reg>separated</reg></choice> by the day of God's <choice><orig>judgement</orig><reg>judgment</reg></choice>.</s>
+        <s>In addition this shows that the speaker believes in God and thinks that in the <choice><orig>after life</orig><reg>afterlife</reg></choice> he still can be with his love.</s>
+      </p>
+      <p>
+        <s>The closing couplet is a promise that if the speaker is wrong and it is proved to him that love can be alter by time <choice><orig>than</orig><reg>then</reg></choice> he will never have written and never have loved the young man.</s>
+      </p>
+      <p>
+        <s>The structure of the speaker supports his idea of love, he thinks that love is forever and can't be changed, because in the beginning he shows that there a hindrances in a relationship and love isn't love, but through the sonnet he says that these obstacles can be overcome by love.</s>
+        <s>And that even though there are complications love is a fixed mark in life and is there forever.</s>
+      </p>
+      <p>
+        <s>The couplet outlines that the speaker really believes in his idea of love, because he promises he never loved if he is proved wrong.</s>
+        <s>Furthermore this means that his life, relationship is built on this idea.</s>
+      </p>
+      <p>
+        <s>Moreover supports the language out <choice><orig>off</orig><reg>of</reg></choice> the section shipping his idea, because ships have a risk to get shipwrecked when the don't have the right aids.</s>
+        <s>The metaphors <choice><orig>shows</orig><reg>show</reg></choice> that ships are the same as love, because the aids help the ship to stay above water and get safe to the next harbour, people who you love help you in life, to stay alive mentally and they bring a balance to it.</s>
+      </p>
+      <p>
+        <s>All in all I think the speaker supports his idea of love good with the structure and language and it becomes clear that for him love is a forever thing and can't be <choice><orig>alterd</orig><reg>altered</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

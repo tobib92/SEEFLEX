@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="hortatory exposition">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk2_1" type="author">Obama</ref> tells the audience that <quote>in <name type="geo">America</name> there are no barriers to <choice><orig>sucess</orig><reg>success</reg></choice></quote> but is this really true?</s>
+        <s>On the one <choice><orig>Hand</orig><reg>hand</reg></choice> in many states there are no opportunity differences and <choice><orig>its</orig><reg>it's</reg></choice> irrelevant if you are black, white, young, old or brown.</s>
+      </p>
+      <p>
+        <s>But on the other <choice><orig>Hand</orig><reg>hand</reg></choice> in many states of <name type="geo">America</name> for example black people are still not equalised and have not the same right as white people have.</s>
+        <s>Moreover <choice><orig>Woman</orig><reg>women</reg></choice> get <choice><orig>payed</orig><reg>paid</reg></choice> less in <name type="geo">America</name> <choice><orig>then</orig><reg>than</reg></choice> men.</s>
+        <s>So there is still not <choice><orig>a</orig><reg>an</reg></choice> opportunity equalisation.</s>
+      </p>
+      <p>
+        <s>To put it in a nutshell <ref target="a11gk2_1" type="author">Obama</ref> is not right with some parts of his speech but all in all he is a good president and he is trying his best to achieve the equalisation in <name type="geo">America</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

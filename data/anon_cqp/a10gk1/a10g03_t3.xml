@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g03_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a10gk1_1" type="author">Brian Pollard</ref> says that <quote>[...] in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+      </p>
+      <p>
+        <s>And I would say that, what he said isn't wrong but it isn't right either, it <choice><orig>dependens</orig><reg>depends</reg></choice> in which context, in which country, you look on the workers unions.</s>
+        <s>For example in <name type="geo">Bangladesh</name>, there are no unions to support the workers, nobody that checks the wage, the working shifts or the working conditions.</s>
+        <s>There was a terrible <choice><orig>desaster</orig><reg>disaster</reg></choice> no too long ago, where <choice><orig>an</orig><reg>a</reg></choice> garment factory <choice><orig>collabsed</orig><reg>collapsed</reg></choice> and many people died.</s>
+        <s>And employers of other <choice><orig>fatorys</orig><reg>factories</reg></choice> still don't check their conditions they keep on exploiting their employees, the most workers started working in those <choice><orig>factorys</orig><reg>factories</reg></choice> when they were in their teenage years, to support their family.</s>
+        <s>That is even <choice><orig>expolitation</orig><reg>exploitation</reg></choice> of minors and no one seems to care.</s>
+        <s>In this context the argument that employees <choice><orig>exploite</orig><reg>exploit</reg></choice> their employers isn't correct, but to change the economy where normal working conditions are the standard, big brands should care about their workers and work with activists that worked in this sector or are experienced.</s>
+      </p>
+      <p>
+        <s>To sum up, his quote isn't wrong it depends on the context.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

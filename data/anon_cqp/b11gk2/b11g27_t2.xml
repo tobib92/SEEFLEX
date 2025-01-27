@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt is a turning point in a way that conflict it from there on handled in <choice><orig>a</orig><reg>an</reg></choice> emotional, irrational, sometimes violent way, a way that does not try to understand the opposing side.</s>
+      </p>
+      <p>
+        <s>One can see the development of how conflict is dealt with with the example of <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+      </p>
+      <p>
+        <s>In the first scene <ref target="b11gk2_1" type="character">Emily</ref> made <ref target="b11gk2_1" type="character">Amir</ref> seem collected and even sublime, by pointing out how <ref target="b11gk2_1" type="character">Amir</ref> respectfully made a racist waiter see how superior he is, as shown on page 34, lines 13-16.</s>
+      </p>
+      <p>
+        <s>Through the first half of the chapter <ref target="b11gk2_1" type="character">Amir</ref> and <ref target="b11gk2_1" type="character">Emily</ref> also argue over the portrait, that is comparing <ref target="b11gk2_1" type="character">Amir</ref> to a store whom a well-known painter had a really good relationship with.</s>
+        <s>They do so in a rational way.</s>
+        <s>This can be seen in the way they talk to each other, they both make their points and let the other person talk and care about what their opposing side is feeling.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Emily</ref> makes the point that she does it out of aspiration towards <ref target="b11gk2_1" type="character">Amir</ref> and wants to make him look good, by referencing a portrait made with love for the model, as she says on page 34, lines 22-24.</s>
+      </p>
+      <p>
+        <s>Later on, on page 66, line 28, <ref target="b11gk2_1" type="character">Amir</ref> <choice><orig>Admits</orig><reg>admits</reg></choice> that he felt pride when <name type="misc">9/11</name> happened, he then goes on to explain that he saw it as a <q>payback</q> for how the west treated the <name type="geo">Middle East</name> and continues to state, that his antisemitic thought are rooted in Islam <ref target="b11gk2_1" type="line">(p. 67, ll. 32-3)</ref>.</s>
+      </p>
+      <p>
+        <s>Even <choice><orig>tho</orig><reg>though</reg></choice> <ref target="b11gk2_1" type="character">Amir</ref> just stated two things that are reason enough to get beaten up, <ref target="b11gk2_1" type="character">Isaac</ref> keeps it as professional as it gets and still talks to <ref target="b11gk2_1" type="character">Amir</ref> without swearing or trying to hurt <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>He even let his wife stop him from arguing with <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+      </p>
+      <p>
+        <s>This is one of the events, that lead to <ref target="b11gk2_1" type="character">Amir's</ref> emotional and violent outburst.</s>
+        <s>It tensed up the whole situation and upset <ref target="b11gk2_1" type="character">Amir</ref>, this is confirmed by <ref target="b11gk2_1" type="character">Amir</ref> feeling the need to have the last word in their argument, while also threatening <ref target="b11gk2_1" type="character">Isaac</ref>, as shown on page 61, lines 8-9.</s>
+      </p>
+      <p>
+        <s>On top of that <ref target="b11gk2_1" type="character">Jory</ref> goes on a walk to tell <ref target="b11gk2_1" type="character">Amir</ref>, that she got the job offer, that he wanted at any cost.</s>
+      </p>
+      <p>
+        <s>He explains how and why he feels treated unfair while also going in a rage.</s>
+        <s>He accuses her of being privileged and undeserving <quote>were you ever at work before anyone else in the morning?</quote> <ref target="b11gk2_1" type="line">(p. 72, ll. 25-26)</ref> from that point on he goes on to spit in <ref target="b11gk2_1" type="character">Isaac's</ref> face <ref target="b11gk2_1" type="line">(p. 72, l. 40)</ref>, which is a parallel to what his mother told him to do with <choice><orig>jews</orig><reg>Jews</reg></choice> and also him admitting that he could not get the hate out of him, no matter how hard he tried.</s>
+      </p>
+      <p>
+        <s>He ironically also beats <ref target="b11gk2_1" type="character">Emily</ref> until her face is covered in blood <ref target="b11gk2_1" type="line">(p. 74)</ref>.</s>
+        <s>It is ironic, because a couple pages earlier <ref target="b11gk2_1" type="character">Amir</ref> was saying how <quote>domestic violence being allowed by the Quran</quote> is a bad thing.</s>
+      </p>
+      <p>
+        <s>In conclusion one can say, that the excerpt is the turning point from bad to worse to horrible.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

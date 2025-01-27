@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I'm going to analyse this speech by <ref target="b12gk2_1" type="speaker">Boris Johnson</ref> to point out how he tries to convince the audience to do something against climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> starts with an introduction he welcomes everybody that is at the <name type="misc">COP26</name> and the people that are watching it on TV or hear it on the radio.</s>
+        <s>After that he starts with comparisions that the climate crisis is like a ticking <choice><orig>bombe</orig><reg>bomb</reg></choice> from a <name type="person">James Bond</name> movie and the people at the <name type="misc">COP26</name> are <name type="person">James Bond</name> if they defuse that <choice><orig>bombe</orig><reg>bomb</reg></choice>.</s>
+        <s>Through this <gap reason="illegible" quantity="1" unit="word">comepoisone</gap> everybody understands how big the larger from the climate crisis is.</s>
+        <s>With the metaphor <quote>doomsday device</quote> he shows how hard climate crisis hit us because it can be the end of the world that we know right now.</s>
+      </p>
+      <p>
+        <s>After that introduction he strats with the main part and first he looks back to the climcate conferences of the last years.</s>
+        <s>He said if they do not do something against it at this <choice><orig>conferenz</orig><reg>conference</reg></choice> then they just <quote>blah, blah, blah</quote> <ref target="b12gk2_1" type="line">(l. 13)</ref> and nothing will change and this is the end of the world.</s>
+        <s>This phrase is also a rhetorical device becuase it is <gap reason="illegible" quantity="1" unit="word">collaqeiol</gap>.</s>
+        <s>Through the parallelism <ref target="b12gk2_1" type="line">(l. 16)</ref> <quote>we can, we can</quote> he tries to speak to everybody so that everybody is included and nobdoy <choice><orig>say</orig><reg>says</reg></choice> I am not.</s>
+        <s>Furthermore he uses enumeration to show what they do to stop the climate change.</s>
+      </p>
+      <p>
+        <s>In the next part <ref target="b12gk2_1" type="speaker">Johnson</ref> said that the climate change is a problem that the industrialized countries created and so they should do something against it.</s>
+        <s>In addition to that he said that the goals <choice><orig>their</orig><reg>they're</reg></choice> aiming for are good but it must be much more and the <name type="misc">COP26</name> can be the point to do more.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> said that the <name type="geo">UK</name> wants to <quote>become the Saudi Arabia of wind</quote> <ref target="b12gk2_1" type="line">(l. 2)</ref>.</s>
+        <s>To understand that <gap reason="illegible" quantity="1" unit="word">wrect</gap> you should know that <name type="geo">Saudi Arabia</name> gets rich through oil and if the <name type="geo">UK</name> wants to become this for wind <choice><orig>than</orig><reg>then</reg></choice> they want to become the leading <choice><orig>staat</orig><reg>state</reg></choice> that <gap reason="illegible" quantity="1" unit="word">howe</gap> the most wind <choice><orig>energie</orig><reg>energy</reg></choice>.</s>
+        <s>Through the climax <ref target="b12gk2_1" type="line">(l. 30)</ref> <ref target="b12gk2_1" type="speaker">Johnson</ref> shows that they have everything to stop climate crisis but they must do it now.</s>
+        <s>In the <gap reason="illegible" quantity="1" unit="word">brohle</gap> speech he uses often the pronoun we and us to show that everybody is in the same <choice><orig>boot</orig><reg>boat</reg></choice> because everyone is hit from the climate change.</s>
+        <s>In the next part <ref target="b12gk2_1" type="speaker">Johnson</ref> speaks about the following generations and that they will be judge the leaders with bitterness if they don't do something.</s>
+      </p>
+      <p>
+        <s>At the <choice><orig>ende</orig><reg>end</reg></choice> <ref target="b12gk2_1" type="speaker">Johnson</ref> gives the speech a frame through the same comparison which he used at the beginning.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref><choice><orig>apell</orig><reg>appeals</reg></choice> at the <name type="misc">COP26</name> that they should do something because they can.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

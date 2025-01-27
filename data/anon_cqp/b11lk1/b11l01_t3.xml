@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l01_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="geo">California</name> is a melting pot where white people and Hispanic cultures mix together.</s>
+      </p>
+      <p>
+        <s>Nonetheless, there is a lot of tension between those ethnic groups which is rooted in mainly racism.</s>
+      </p>
+      <p>
+        <s><name type="geo">California</name> is right at the morrder to many South American countries where most undocumented immigrants come from.</s>
+        <s>Although the <name type="geo">USA</name> relies on those people for a functioning economy, for example in agriculture or construction, many white people are against illegal immigration, even if they profit from it.</s>
+      </p>
+      <p>
+        <s>Like in the book, many white Americans seek out illegal immigrants to do house work for them at the labour <choice><orig>exange</orig><reg>exchange</reg></choice>, since it is cheap and they don't have to pay taxes.</s>
+        <s>Many white people are not aware of the complicated system of getting citizenship in <name type="geo">America</name>, so they usually just dismiss the struggles of undocumented immigrants.</s>
+      </p>
+      <p>
+        <s>But they are ways to improve the situation.</s>
+      </p>
+      <p>
+        <s>One way would be to educate white people about the reasons for illegal immigration and the harsh struggles that those face who are undocumented.</s>
+        <s>Or making the process of getting citizenship or applying for assylum easier.</s>
+      </p>
+      <p>
+        <s>To summarize, racism and uneducation of mainly white people are the reason why the climate between them and Hispanics <choice><orig>are</orig><reg>is</reg></choice> not so good, but learning about illegal immigration could help better the situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

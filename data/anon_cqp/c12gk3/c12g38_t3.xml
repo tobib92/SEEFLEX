@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12g38_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">soliloquy</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I still do have doubts.</s>
+        <s>But sure not because of my wife's plan.</s>
+        <s>I have doubts because of myself.</s>
+        <s>What if I am not enough of a man?</s>
+        <s>Just as she said?</s>
+        <s>What if I do not please the <choice><orig>prophecie's</orig><reg>prophecy's'</reg></choice> conditions and do something wrong?</s>
+        <s>The witches did not tell me very much.</s>
+        <s>What if there were details that I overheard?</s>
+        <s>But there is no time to ask <ref target="c12gk3_1" type="character">Banquo</ref>.</s>
+        <s>But he was also part of the prophecy, right?</s>
+        <s>Am I even thinking correctly right now?</s>
+        <s>I need to stop.</s>
+        <s>Is not a prophecy supposed to become true either way?</s>
+        <s>Is there anything I can do wrong?</s>
+        <s>It does not matter anyways, right?</s>
+        <s>If I kill <ref target="c12gk3_1" type="character">Duncan</ref> someone has to become king, right?</s>
+        <s>No matter what happens, I have to do it, even if it is only for the sake of my wife!</s>
+        <s>She is so strong, she could even kill him herself.</s>
+        <s>THAT is how strong my wife is.</s>
+        <s>But what kind of a man lets his wife do such a job?</s>
+        <s>I need to do it and I will do it.</s>
+        <s>She will remember why we belong to each other and we will have the happiest life.</s>
+        <s>She even worries about my future; of course I do not want to live my life as a coward!</s>
+        <s>I am sorry to <ref target="c12gk3_1" type="character">Duncan</ref> because he is a good king and he does not deserve to be killed by a friend, but what else is left?</s>
+        <s>Nobody will see us, so we will never be found guilty.</s>
+        <s>Right?</s>
+        <s>She earned becoming my queen for her fearlessness.</s>
+        <s>She will give birth to strong boys and care for our successful family with all her love and affection she now gives to me.</s>
+        <s>I will do it.</s>
+        <s>I have to and I will!</s>
+        <s>I promise it to my strong wife!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

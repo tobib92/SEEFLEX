@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l15_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="review">news</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Small but important steps - Germany remains optimistic after <name type="misc">COP26</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>After the <name type="misc">COP26</name> in <name type="geo">Glasgow</name>, opinions have been divided.</s>
+        <s>While some may argue that the aims that have been expressed an agreed on, Will not be sufficient to meet the 1.5°-mark, up until then the effects of global warming are still reversible, others are more optimistic.</s>
+        <s>Surely, there have been setbacks, most prominently changing the goal from putting a stop to fossil fuel production, to merely ending production step-by-step.</s>
+        <s>However, in the grand scheme of things the acceptance of this alone is a success in itself – especially if even states such as <name type="geo">India</name> and <name type="geo">China</name> who still heavily rely on fossil fuel energy agree.</s>
+        <s>No, contrary to the conferences about the <name type="geo">Paris</name> agreement in <date>2016</date>, there is a common agreement that fossil fuels are meant to be left in the past, and <name type="misc">COP26</name> proves just that.</s>
+      </p>
+      <p>
+        <s>Some States who have experience the effects of climate change stronger than others have urged everyone at <name type="geo">Glasgow</name> to take action against global warming, hopefully <name type="misc">COP26</name> was able to send a sign of hope to them.</s>
+        <s>Considering we are currently looking at 2.7° instead of 5-6° like we were in <date>2016</date>, <name type="geo">Germany's</name> optimism is reasonable.</s>
+        <s><ref target="b12lk2_2" type="speaker">Jochen Flasbarth</ref>, <name type="geo">Germany's</name> negotiator at <name type="misc">COP26</name>, reminds us in an interview with <name type="misc">ARD-Morgenmagazin</name>, that conferences alone will not be able to solve the climate crisis but the legal basis that was created during the conference, surely will help for future negotiations and actions.</s>
+        <s>He concludes that <name type="geo">Glasgow</name> might not have been a huge step forward, but it was an important and necessary one.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

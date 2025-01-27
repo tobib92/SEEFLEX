@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>When <ref target="a11lk1_1" type="character">Abe</ref> comes he is already a little bit angry.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> is pretty calm and neutral, even when he hears <choice><orig>whats</orig><reg>what</reg></choice> <ref target="a11lk1_1" type="character">Abe's</ref> problem is.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> does not put himself at <ref target="a11lk1_1" type="character">Abe's</ref> side, he is critizising him and his <choice><orig>behaiviour</orig><reg>behaviour</reg></choice>.</s>
+        <s>In line 22 to 24 he says to <ref target="a11lk1_1" type="character">Abe</ref>, that he should be mindful about sending a <choice><orig>differen</orig><reg>different</reg></choice> message, than the one, that got him into an interrogation with the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>.</s>
+        <s>You can clearly see, that <ref target="a11lk1_1" type="character">Amir</ref> is more likely to obey the authorities, than <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s>This also <choice><orig>fit's</orig><reg>fits</reg></choice> the fact, that <ref target="a11lk1_1" type="character">Amir</ref> assimilated himself into the American society and <ref target="a11lk1_1" type="character">Abe</ref> tried to integrate.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> does not want any trouble, so he does what he has to, to fit in good in the society.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> instead <choice><orig>want's</orig><reg>wants</reg></choice> to live out his culture and <choice><orig>don't</orig><reg>doesn't</reg></choice> <choice><orig>wants</orig><reg>want</reg></choice> to obey to the authorities.</s>
+        <s>Because of their different attitudes and mindsets there is already a lot tension in this situation.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref><choice><orig>want's</orig><reg>wants</reg></choice> to help <ref target="a11lk1_1" type="character">Abe</ref> out of the trouble, the simplest and easiest way, but <ref target="a11lk1_1" type="character">Abe</ref> <choice><orig>wont</orig><reg>won't</reg></choice> admit to that.</s>
+        <s>When <ref target="a11lk1_1" type="character">Amir</ref> says, in line 36, that <ref target="a11lk1_1" type="character">Abe</ref> should be smarter about this, otherwise he will get deported, the conversation gets more heated.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is the opinion, that they shouldn't have left <name type="geo">Pakistan</name> and that they <choice><orig>does</orig><reg>do</reg></choice> not have a better life in <name type="geo">America</name>.</s>
+        <s>When he <choice><orig>adresses</orig><reg>addresses</reg></choice> <ref target="a11lk1_1" type="character">Amir</ref> and tells him, that he has no better life in <name type="geo">America</name> as well and that he knows, that <ref target="a11lk1_1" type="character">Amir</ref> got fired and what <ref target="a11lk1_1" type="character">Amir</ref> did to his wife <ref target="a11lk1_1" type="character">Emily</ref>, <ref target="a11lk1_1" type="character">Amir</ref> gets triggered and angry as well.</s>
+      </p>
+      <p>
+        <s>In line 63 to 64 <ref target="a11lk1_1" type="character">Abe</ref> accuses <ref target="a11lk1_1" type="character">Amir</ref>, that he is always turning on his own people.</s>
+        <s>He tells <ref target="a11lk1_1" type="character">Amir</ref>, that he once looked up to him.</s>
+        <s>At this point <choice><orig>its</orig><reg>it's</reg></choice> clear, that the relationship between them, did not just got worse in this situation, but also over the whole past time.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref>, who assimilated more and more and tried to fit in the society, the best way he can and <ref target="a11lk1_1" type="character">Abe</ref>, who is strongly believing in his culture and religion and does not want to sacrifice any of his lifestyle and his attitude to be accepted further, from the society.</s>
+      </p>
+      <p>
+        <s>All in all, we can see, that <ref target="a11lk1_1" type="character">Amir</ref> is very neutral and just <choice><orig>trys</orig><reg>tries</reg></choice> to fit in as good as he can and <choice><orig>trys</orig><reg>tries</reg></choice> to stay out of trouble and would rather obey and sacrifice something than <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> has pretty much the exact opposite attitude and that's, why <choice><orig>there</orig><reg>their</reg></choice> relationship is keep getting worse.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

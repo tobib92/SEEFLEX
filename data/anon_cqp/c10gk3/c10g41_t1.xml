@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g41_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>His grandparents were the first generation of growing up in <name type="geo">England</name> so they had many struggles they fight with, but they become nevertheless a part of the society so now <name type="person">Reece</name> had to do the same thing as their grandparents and he has much pressure.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Reece</name> experience as the result of being born into a post-slavery society a legacy which impacts the slavery negatively upon black communities.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>Even slavery has long been abolished, the history or reasons why slavery were there, are always in the mind of all people so it remains.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>For young people it is hard to get a part in the society and to find who there are so many black leaders help them to eradicate their problems.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>Times are changing.</s>
+        <s>Nowadays when you hear words with meanings against black people it is different than in the past.</s>
+        <s>Now they were accepted and were like a normal white human.</s>
+        <s>They have all the same rights and it doesn't matter if you are black so also in charts are people with a different skin colout but they were accepted.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>Because of black people were accepted by the whole society, which was not in the past, they are hopeful what will happen in the future to them.</s>
+        <s>Even if <choice><orig>there</orig><reg>their</reg></choice> journey was not that good they find now their place and remain positive about their journey.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

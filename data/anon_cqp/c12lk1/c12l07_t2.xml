@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l07_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As already said, in the first two quatrains it is asked how summer could be able to survive the strong and powerful, but <gap reason="illegible" quantity="1" unit="word">duo</gap> destroying winter.</s>
+        <s>In line one, <ref target="c12lk1_1" type="author">Shakespeare</ref> uses an enumeration of powerful things, like stone or the sea to show that it doesn't matter how bug, how powerful or how many things there are, winter is able to destroy all of them.</s>
+        <s>At the end of this line is also an enjambment, to show how even those usually immortal things get destroyed by the winter.</s>
+        <s>Also the rhyme <quote>sea</quote> to <quote>mortality</quote>, which normally does not fit into <ref target="c12lk1_1" type="author">Shakespeare's</ref> rhyme scheme underlines the weakness of the sea against winter.</s>
+        <s>In line 5 it continues with a metaphor.</s>
+        <s>The <quote>summer's honey breath</quote> is used metaphorically to describe the good weather, the warm days and the beautiful warm breezes, that are similar to the breath of a human.</s>
+        <s>So it is a personification too.</s>
+        <s>It is followed by another emjambment, to get into the <quote>fight</quote> between summer and winter.</s>
+        <s><ref target="c12lk1_1" type="author">Shakespeare</ref> calls it a <quote>siege</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref>, which is a metaphor for the process of winter taking over the weather and <choice><orig>opressing</orig><reg>oppressing</reg></choice> summer.</s>
+      </p>
+      <p>
+        <s>this process is described by another metaphor.</s>
+        <s>It is called the <quote>batt'ring days</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref>.</s>
+        <s>This shows that <ref target="c12lk1_1" type="author">Shakespeare</ref> describes the change of seasons as a fight.</s>
+        <s>The weapons of winter or cold days and snow, that destroy the nature.</s>
+        <s>These cold days are the <quote>batt'ring days</quote>.</s>
+        <s>You can find another metaphor in line ten.</s>
+        <s>Here, <ref target="c12lk1_1" type="author">Shakespeare</ref> wrote <quote>time's best jewel</quote>, to once again describe how beautiful summer is, and that every person loves it, because also every person loves jewels.</s>
+        <s>They are a symbol for being wealthy.</s>
+      </p>
+      <p>
+        <s>Of course <ref target="c12lk1_1" type="author">Shakespeare</ref> didn't just write about a change from summer to winter.</s>
+        <s>You need to transfer it to the time when he lived and what was going around in <name type="geo">Britain</name> at this time.</s>
+        <s>The Elizabethan time with the dark lady <name type="person">Queen Elizabeth</name> was taking over.</s>
+      </p>
+      <p>
+        <s>So you can clearly say, in this sonnet the Elizabethan time is winter and the time before that is summer.</s>
+      </p>
+      <p>
+        <s>But but you can also <surplus>also</surplus> see, that <ref target="c12lk1_1" type="author">Shakespeare</ref> hopes for a better time after the Elizabethan time, or is looking towards it, because you're right, that summer could hide <gap reason="illegible" quantity="1" unit="word">sandlerg</gap> <ref target="c12lk1_1" type="line">(l. 10)</ref>, let it can come out again later, if winter gets weaker or so.</s>
+        <s>He doesn't believe that summer, or the time before <name type="person">Queen Elizabeth</name>, can't come back.</s>
+      </p>
+      <p>
+        <s>But even even if it wouldn't come back, and line fourteen he wrote that all the <quote>love</quote>, so all the good memories he has from the time before the Elizabethan time, will be found in his texts or his sonnets.</s>
+        <s>He even comes back to the symbol of the sun, because he wrote that the love would <quote>still shine</quote> in his sonnets, just like the sun did it before winter came.</s>
+      </p>
+      <p>
+        <s>And you can see the sun shines until today because we can still learn from his sonnets how it was in the time he lived in.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

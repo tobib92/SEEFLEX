@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l02_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="a11lk1_1" type="title">Disgraced, Scene 4</ref> was written by <ref target="a11lk1_1" type="author">Ayad Akhtar</ref> in <date>2012</date> and then premiered in <name type="geo">Chicago</name>.</s>
+      </p>
+      <p>
+        <s>The play is set in <name type="geo">Manhattan, New York</name> and follows the young and <choice><orig>successfull</orig><reg>successful</reg></choice> lawyer <ref target="a11lk1_1" type="character">Amir</ref>.</s>
+        <s>Even though his life seems perfect from the outside, during the play ugly truths get revealed and we get a look behind the fassade he built up.</s>
+      </p>
+      <p>
+        <s>Scene four is the last scene of the play.</s>
+        <s>The climax has already happened in scene three and this scene takes place six months later.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir's</ref> nephew <ref target="a11lk1_1" type="character">Abe</ref> and his ex-wife <ref target="a11lk1_1" type="character">Emily</ref> came to visit <ref target="a11lk1_1" type="character">Amir</ref> in his apartment, because <ref target="a11lk1_1" type="character">Abe</ref> has got a problem and is coming for <ref target="a11lk1_1" type="character">Amir</ref>, a lawyer, for help.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> got treated very racist at <name type="misc">Starbucks</name> a few days ago, and because his immigration status is running out and up for renewal he got into big trouble with the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> immediately calls <ref target="a11lk1_1" type="character">Ken</ref>, <choice><orig>a</orig><reg>an</reg></choice> co-worker of his, to ask him for help on the case.</s>
+        <s><ref target="a11lk1_1" type="character">Ken</ref> also helped on a case that was brought up earlier in scene two and three.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is really mad about the whole situation and confronts <ref target="a11lk1_1" type="character">Amir</ref> about him still oppressing his religion and heritage and still thinking, he got a better life here in <name type="geo">America</name>.</s>
+        <s>From <ref target="a11lk1_1" type="character">Abe's</ref> point of view, they just should have stayed in <name type="geo">Pakistan</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

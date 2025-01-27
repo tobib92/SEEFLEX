@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to analyze the speech by <ref target="b12gk2_1" type="speaker">Johnson</ref> with special reward to the use of rhetorical devices and his <choice><orig>stradegy</orig><reg>strategy</reg></choice>.</s>
+        <s>You can clearly see, that he uses a lot of rhetorical devices to draw a convincing picture of the dangers, to give his audience hope, to encourage them to take action and also to convince them of the <name type="misc">COP26</name>.</s>
+        <s>His audience are powerful people who have a big impact.</s>
+        <s>At the <choice><orig>beggining</orig><reg>beginning</reg></choice> of his speech <ref target="b12gk2_1" type="speaker">Johnson</ref> uses <choice><orig>a</orig><reg>an</reg></choice> allusion by drawing a parallel to <name type="person">James Bond</name>.</s>
+        <s>Firstly he breaks the ice with a joke: <quote>who generally comes to the climax of his highly lucrative films</quote> <ref target="b12gk2_1" type="line">(ll. 2-3)</ref>.</s>
+        <s>After that he compares the situation of <name type="person">Bond</name> with our position.</s>
+        <s>By using metaphorical langauge he describes <name type="person"><choice><orig>Bonds</orig><reg>Bond's</reg></choice></name> situation.</s>
+      </p>
+      <p>
+        <s>He is strapped to a fictional doomsday device, so he <choice><orig>trys</orig><reg>tries</reg></choice> to find out which wire he needs to pull to turn it off.</s>
+        <s>Furthermore there is a digital clock ticking down until the end of a normal human life.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> uses this parallel to underline our stern situation and the urgency to act.</s>
+        <s>In the following he directly adresses the audience with <quote>my fellow global leaders</quote> to involve them and make them aware that they are in the position to change something.</s>
+        <s>But afterwards he highlights that there is a big difference, because our situation is reality and <quote>the doomsday device is real</quote> <ref target="b12gk2_1" type="line">(l. 7)</ref>.</s>
+        <s>This comparison is great because the device can be a metaphor for climate change and global warming.</s>
+        <s>In the following <ref target="b12gk2_1" type="speaker">Johnson</ref> points out that there were already achievements in <name type="geo">Copenhagen</name> and <name type="geo">Paris</name>, but all those promises will not work out and will be nothing but <quote>blah, blah, blah</quote> <ref target="b12gk2_1" type="line">(ll. 12f)</ref>.</s>
+        <s>At this point he is very pessimistic about the agreement and the aim of it.</s>
+        <s>To emotionalize he uses a personification of an anger and <choice><orig>impatiente</orig><reg>impatient</reg></choice> world <ref target="b12gk2_1" type="line">(l. 13)</ref>.</s>
+        <s>Only the <name type="misc">COP26</name> in <name type="geo">Glasgow</name> would change that.</s>
+        <s>He encourages the audience that it is possible by <choice><orig>reffering</orig><reg>referring</reg></choice> to the metaphor of the doomsday device.</s>
+        <s>After that paragraph he refers to the <name type="geo">Paris</name> agreement which will not be enough.</s>
+        <s>We need to invest in other countries, so that they can also chagne to a green technology.</s>
+        <s>Afterwards he appeals to the audience to invest by themself and makes a clear task: working together, so everyone can decarbonize.</s>
+        <s>Furthermore we should work with multilateral development banks to create a joint progress.</s>
+        <s>At this point of his speech, <ref target="b12gk2_1" type="speaker">Johnson</ref> compares with the <name type="geo">UK</name>.</s>
+        <s>Very noticeable is the inclusive language of <ref target="b12gk2_1" type="speaker">Johnson</ref> to create a unit of people who are affected and can change something.</s>
+        <s>He is sure that collaboration and cooperation <add>multilateralism</add> is one key.</s>
+        <s>Later he makes clear that we have all the resources to make a change but questions the will.</s>
+        <s>Furthermore he <choice><orig>critisizes</orig><reg>criticizes</reg></choice> indirectly that the average age at the meeting of leaders is over 60, while half of the population of the world watching is under 30.</s>
+      </p>
+      <p>
+        <s>There is a need for young people who are still alive and willing when the achievements hopefully are made.</s>
+        <s>In the next paragraph he looks in the future to the next generation.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> thinks that there is a urgency for acting because otherwise these generations will never forgive us.</s>
+        <s>He agrees and is aware, that <name type="misc">COP26</name> <quote>will not, and cannot, be the end of the story of climate change</quote> <ref target="b12gk2_1" type="line">(l. 42)</ref>.</s>
+        <s>Therefore we are not allowed to fail.</s>
+        <s>To spread optimism he uses an anaphora with <quote>we</quote>, because there are ideas, technology, bankers and NGOs.</s>
+        <s>In the end of the speech he finally refers again to the <name type="person">James Bond</name> movie.</s>
+        <s>After joking around <ref target="b12gk2_1" type="line">(l. 47)</ref> he repeats that we have no more excuses to not act.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> describes the importance of this agreement with a known alliteration: <quote>make this moment when we began irrefutably to turn the tide</quote> <ref target="b12gk2_1" type="line">(l. 49)</ref>.</s>
+        <s>At the very end he makes clear that it will not be easy, but that it is possible as a unit.</s>
+        <s>This clearly underlines his optimism.</s>
+      </p>
+      <p>
+        <s>All in all, one can say that the politician <ref target="b12gk2_1" type="speaker">Johnson</ref> uses a very common strategy for speeches.</s>
+        <s>He uses effective rhetorical devices <add>metaphorical language / allusion, inclusive language, direct address, repetition, anaphora</add> in the right places to emphasize his own opinion and follows a clear line of argument.</s>
+        <s>Because of this strategy the audience can easily follow his speech, feels involved and is convinced of his opinion.</s>
+        <s>The strong image of the destroying device and the ticking clock highlights the urgency.</s>
+        <s>Firstly he informs about the dangers, but then gives a lot of us hope to encourage to take action aftewards.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

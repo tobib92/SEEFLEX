@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g34_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the dialogue, <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> used a variety of rhetorical devices as metaphors or comparisons and wrote it with a clear sentence structure.</s>
+        <s>Also you can find aspects in the text giving hints about the relationship of <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>The dominant part of their relationship is clearly <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>The first reason for that assertion is the share of speech in the dialogue.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> talks way more than <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>Also she mostly has a complex sentence structure for example in lines 39 to 44 <quote>When <ref target="c12gk2_1" type="character">Duncan</ref> [...] limback only</quote> which expresses her dominance and <choice><orig>intellegence</orig><reg>intelligence</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Further on it seems like she is using her husband to get that much power she wants to get.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> is the <q>bad</q> part of their relationship, by looking at that extract, as you can see that she tries to convince him of a murder even if he decided to not execute the plan.</s>
+      </p>
+      <p>
+        <s>To convince her husband of murdering <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref> <ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses a variation of stylistic devices.</s>
+      </p>
+      <p>
+        <s>At her first try to persuade <ref target="c12gk2_1" type="character">Macbeth</ref> she appeals to his hope and for that she uses a personification <quote>Hath it slept since?</quote> <ref target="c12gk2_1" type="line">(l. 10)</ref> and also in line 9 <quote>Was the hope drunk</quote>.</s>
+        <s>So with the help of that she is trying to bring back the hope to become King with rhetorical devices.</s>
+      </p>
+      <p>
+        <s>Furthermore, in the same part of the dialogue she is using many questions, like the ones I mentioned before, to make <ref target="c12gk2_1" type="character">Macbeth</ref> overthink his decision of cancelling the plan.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses metaphors as well.</s>
+        <s>For example in line 25 <quote>What beast</quote>, which is supposed to help her to wake up the bad and murdering side of <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+      </p>
+      <p>
+        <s>Another metaphor with the same intention, but more aggressive is <quote>But screw your courage to the sticking place</quote> <ref target="c12gk2_1" type="line">(l. 38)</ref>.</s>
+        <s>The metaphor is also something like an introduction to present her plan at <ref target="c12gk2_1" type="character">Macbeth</ref> how they could kill <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>To express that the chmaberlains won't be a danger after she made them drunk she uses a comparison <quote>as in death</quote> <ref target="c12gk2_1" type="line">(l. 46)</ref>.</s>
+      </p>
+      <p>
+        <s>All <choice><orig>this</orig><reg>these</reg></choice> rhetorical devices in combination with the  dominant sentence structure and a well overthought choice of words she is able to convince <ref target="c12gk2_1" type="character">Macbeth</ref> of the murdering of <ref target="c12gk2_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>To show his opinion about that and to express his feelings, <ref target="c12gk2_1" type="character">Macbeth</ref> ends the scene with the words <quote>False face must hide what the false heart doth know</quote> <ref target="c12gk2_1" type="line">(l. 56)</ref> which is also a parallelism and a contrast.</s>
+      </p>
+      <p>
+        <s><choice><orig>Alltogether</orig><reg>Altogether</reg></choice><ref target="c12gk2_1" type="character">Lady Macbeth</ref> seems to have a strong personality that helps her getting <ref target="c12gk2_1" type="character">Macbeth</ref> to do whatever she wants him to do.</s>
+        <s>For that she is able to use rhetorical devices very reasoned.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

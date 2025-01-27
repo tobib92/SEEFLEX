@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g03_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion <ref target="c12gk1_1" type="author">Shakespeare</ref> is still relevant.</s>
+        <s>Even if you do not notice, <ref target="c12gk1_1" type="author">Shakespeare</ref> is nearly everywhere in our daily life.</s>
+        <s>Starting from our language two books and films and even more.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare's</ref> presence in the modern English language is undeniable over 1700 words have been invented by the poet.</s>
+        <s>Metaphors like <quote>break the ice</quote> or <quote>killing with kindness</quote> are still common in every book and even in famous pop songs like <name type="misc">Killing with kindness</name> by <name type="person">Selena Gomez</name>.</s>
+      </p>
+      <p>
+        <s>Moreover there is a wealth of adaptions of <ref target="c12gk1_1" type="author">Shakespeare's</ref> plays in writing and film, which require in a lot of cases the knowledge of <ref target="c12gk1_1" type="author">Shakespeare's</ref> works.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> it's like a big inside in our society.</s>
+        <s>Generally speaking to understand modern work, it is helpful to understand Shakespeare.</s>
+      </p>
+      <p>
+        <s>The reason for the never ending presence of <ref target="c12gk1_1" type="author">Shakespeare</ref> is his talent for the use of words.</s>
+        <s>He describes complex feelings and situations with <choice><orig>imagerys</orig><reg>imageries</reg></choice> that only contain a few words and lead to an easy understanding of difficult topics.</s>
+        <s>For instance the metaphor <quote>breaking the ice</quote>.</s>
+      </p>
+      <p>
+        <s>However there is one central problem with <ref target="c12gk1_1" type="author">Shakespeare's</ref> plays and poems.</s>
+        <s>They were all written 400 years ago in early modern English.</s>
+        <s>For that reason must students struggle with his pieces and tend to avoid them.</s>
+        <s>Because of the difficult language it is hard to understand the message of <ref target="c12gk1_1" type="author">Shakespeare's</ref> words.</s>
+      </p>
+      <p>
+        <s>But I think that especially the poems do not a great knowledge of early modern English.</s>
+        <s>Just a few words like <quote>thee</quote> and <quote>thy</quote> can help to understand dishonored and unknown words can easily be looked up in for instance dictionaries.</s>
+        <s>Of course this method does not work that well for dramas, but if teachers support their students well, they should be able to get the main idea of the plays.</s>
+      </p>
+      <p>
+        <s>The main problem is maybe not <ref target="c12gk1_1" type="author">Shakespeare</ref> itself, but the rare contact with the lyric and drama of <choice><orig>todays</orig><reg>today's</reg></choice> youth.</s>
+        <s>We are surrounded by narrative texts which <choice><orig>leads</orig><reg>leads</reg></choice> us to focus on the content of texts.</s>
+        <s>But poems and dramas focus on what is written between the verses.</s>
+        <s>Thus the purpose of poems is not clear and Shakespeare, who uses tons of imagery, <choice><orig>can not</orig><reg>cannot</reg></choice> be understood.</s>
+      </p>
+      <p>
+        <s>It is important to teach studentswhat they have to look for in poems and dramas and that poetry is a way to express feelings, attitudes and situations with the power of words.</s>
+      </p>
+      <p>
+        <s>The best example to teach this is Shakespeare.</s>
+        <s>Because even though the <choice><orig>english</orig><reg>English</reg></choice> language has developed, the themes of <ref target="c12gk1_1" type="author">Shakespeare's</ref> plays have remained relevant up to this day.</s>
+        <s>As well as his poems that deal with timeless topics like love, the passing of time and death.</s>
+        <s>Therefore it is not difficult to understand what <ref target="c12gk1_1" type="author">Shakespeare</ref> describes once you know what to look for.</s>
+      </p>
+      <p>
+        <s>In conclusion early modern <choice><orig>english</orig><reg>English</reg></choice> is hard to understand and can create barriers to <ref target="c12gk1_1" type="author">Shakespeare's</ref> works.</s>
+        <s>But once you overcome this difficulty with the help of dictionaries and teachers, a door opens for you and gives you a glance of what an impact the power of words can have on you and the whole world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g09_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <name type="misc">EU</name> commissioner for the withdrawal of the <name type="geo">UK</name> in course of <name type="misc">Brexit</name>, <ref target="c11gk2_1" type="speaker">Michel Barnier</ref>, talks in his speech, which he <choice><orig>dilivered</orig><reg>delivered</reg></choice> at the <name type="misc">European American Chamber of Commerce</name> in <name type="geo">New York</name> in <date>2018</date>, about the consequences and impact, on the open market, that the <name type="misc">Brexit</name> could have.</s>
+      </p>
+      <p>
+        <s>First he lists some consequences and problems a hard <name type="misc">Brexit</name> would have.</s>
+        <s>He says for example that <name type="misc">Brexit</name> could cause some disagreement, which lead to problems with border crossing value <choice><orig>chaines</orig><reg>chains</reg></choice>.</s>
+        <s>This would impact manufacturing, logistics as well as agricultural economy sectors.</s>
+        <s>In this context he states that the <name type="misc">Brexit</name> will cost the <name type="geo">UK</name> and the <name type="misc">EU</name> a lot of money.</s>
+      </p>
+      <p>
+        <s>Then he goes on with mentioning that in a worst case scenario with a <quote>no deal</quote> agreement, would mean that the trading between the <name type="geo">UK</name> and the <name type="misc">EU</name> resulds in tariffs under the <name type="misc">WTO</name>.</s>
+        <s>He even says that this could have impact on <choice><orig>subsidiarys</orig><reg>subsidiaries</reg></choice> of <name type="geo">US</name> cooperations.</s>
+      </p>
+      <p>
+        <s>After talking about the consequences he points out some characteristics of a close relationship between the <name type="misc">EU</name> and <name type="geo">UK</name>.</s>
+        <s>He says that this would be in a common interest.</s>
+      </p>
+      <p>
+        <s>Some ways to achieve this are an open single market and free movement for <choice><orig>capitels</orig><reg>capital</reg></choice>, which remain open.</s>
+      </p>
+      <p>
+        <s>Furthermore he mentions a <name type="misc">Trade Agreement</name> with the <name type="geo">UK</name>, which <choice><orig>guarantes</orig><reg>guarantees</reg></choice> establishment, with <choice><orig>aplying</orig><reg>applying</reg></choice> <name type="misc">EU</name> rules, for both <choice><orig>sites</orig><reg>sides</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Other <choice><orig>then</orig><reg>than</reg></choice> this he states that the so called <quote>equivalence system</quote> would also work for the <name type="geo">UK</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

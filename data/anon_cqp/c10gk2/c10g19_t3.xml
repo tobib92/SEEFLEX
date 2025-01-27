@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g19_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the extract from the speech <ref target="c10gk2_1" type="speaker">Barack Obama</ref> says that student exchanges can break down walls between <choice><orig>countrys</orig><reg>countries</reg></choice>/cultures.</s>
+        <s>In the following text I will give you information about my opinion.</s>
+        <s>I think also that exchanges can break down walls between <choice><orig>countrys</orig><reg>countries</reg></choice> but it has advantages and disadvantages.</s>
+        <s><choice><orig>An</orig><reg>a</reg></choice> student exchange can be expensive and <choice><orig>maby</orig><reg>maybe</reg></choice> the <choice><orig>studens</orig><reg>students</reg></choice> feel <choice><orig>lonly</orig><reg>lonely</reg></choice> when it is difficult to find new friends there.</s>
+        <s>On the other hand I think like <ref target="c10gk2_1" type="speaker">Obama</ref> that is important to know more about the other <choice><orig>countrys</orig><reg>countries</reg></choice> and people with other <choice><orig>culturen</orig><reg>cultures</reg></choice> <choice><orig>comes</orig><reg>come</reg></choice> together.</s>
+      </p>
+      <p>
+        <s>When you study abroad you have a better change to look around the world and learn more <choice><orig>languges</orig><reg>languages</reg></choice>.</s>
+      </p>
+      <p>
+        <s>That can make your future better, because you have a better change to find a good job later or have in <choice><orig>generall</orig><reg>general</reg></choice> better chances.</s>
+      </p>
+      <p>
+        <s>It isn't good to get experiences only in your own country.</s>
+      </p>
+      <p>
+        <s>You can also meet more and new people and it makes fun to visit them.</s>
+        <s>You can say then you have friend all around the world.</s>
+      </p>
+      <p>
+        <s>I think when more <choice><orig>studens</orig><reg>students</reg></choice> go abroad the racism in the world would be fewer, and more people in the world understand each other better.</s>
+      </p>
+      <p>
+        <s>I think a student exchange is a good way for young people to find his/her own way and also can look in other <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>Everyone should make their own opinion, but I think for <choice><orig>studens</orig><reg>students</reg></choice> is it a good chance.</s>
+      </p>
+      <p>
+        <s>Because it gives more advantages about the topic, I can say that I would underline the opinion from <ref target="c10gk2_1" type="speaker">Barack Obama</ref>, so I also would say that exchanges can break down walls between <choice><orig>countrys</orig><reg>countries</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Parents <choice><orig>shoud</orig><reg>should</reg></choice> help/support actions like this <choice><orig>becaus</orig><reg>because</reg></choice> they are the model from their kids.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

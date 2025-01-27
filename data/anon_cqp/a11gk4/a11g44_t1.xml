@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g44_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Starr</name> gets back to the street where <name type="person">Khalil's</name> murder happened.</s>
+        <s>She is there the first time after the incident.</s>
+        <s>There is a crowd of <name type="misc">Just Us for Justice</name> protestors gathered who are <choice><orig>repeadeatly</orig><reg>repeatedly</reg></choice> saying that a hairbrush is not a gun.</s>
+        <s>As <name type="person">Starr</name> looks around she remembers the death, she sees <name type="person">Khalil</name> as he would lie on the street and remembers exactly what happened.</s>
+        <s>She spots <name type="person">Ms. Ofrah</name> and shortly later she comes up to <name type="person">Starr</name> and talks with her.</s>
+        <s><name type="person"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></name> comparisons are already taking part of the <quote>a hairbrush is not a gun</quote> protest.</s>
+        <s><name type="person">Starr</name> says she wants to do something and is tired of doing small things <name type="person">Starr</name> gets handed a bullhorn and speaks about <name type="person">Khalil</name> whilte standing on a police car with the officer complaining that she should get off.</s>
+        <s>But she <choice><orig>talkes</orig><reg>talks</reg></choice> to him and everybody through the bullhorn.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

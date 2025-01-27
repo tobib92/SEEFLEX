@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g41_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Paul,</salute>
+      </p>
+      <p>
+        <s>how are you?</s>
+        <s>I am fine, thanks.</s>
+        <s>You wrote me about your high school thinking about banning <name type="misc">The Hate U Give</name> from the curriculums and the school libraries.</s>
+        <s>The arguments are the sexual references, the offensive too vulgar language, the promotion of drug abuse and the showing of the police in a negative light.</s>
+        <s>A few letters ago, I told you that I have read the novel in class and that it is even recommended reading in <name type="geo">Germany</name>.</s>
+        <s>Now I am going to tell you why <name type="misc">The Hate U Give</name> should be compulsory reading not only in the <name type="geo">US</name>, but also worldwide.</s>
+        <s>During my research on the internet I found an interesting article of <name type="misc">Zeit Online</name> named <ref target="a11gk4_2" type="title"> Schwarze in der USA: Der Rassismus ist messbar"</ref> by <ref target="a11gk4_2" type="author">Alexandra Endres</ref>, published on <date>25.08.2014</date>.</s>
+        <s>She says that racism exists these days in <name type="geo">America</name> although president <name type="person">Lyndon B. Jonson</name> put an end to the discrimination of coloured people with the <name type="misc">Civil Rights Act</name> 50 years ago.</s>
+        <s>I do not know if you heard about the shooting of the 18-year-old African-American <name type="person">Michael Brown</name> tow weeks before <ref target="a11gk4_2" type="author">Alexandra Endres'</ref> article got published?</s>
+        <s>This event clarifies that apartheid does exist in the <name type="geo">US</name>.</s>
+        <s>Besides statistics prove the unequal <choice><orig>treaty</orig><reg>treatment</reg></choice> of coloured people in <name type="geo">America</name>, e.g. that <q>stop-and-frisk</q> is more strictly used at African Americans than whites or that coloured men have more risk of getting a stint in prison.</s>
+        <s>Only a few African Americans leave school with a good qualification or get a higher academic qualification.</s>
+        <s>More coloured people than whites have no job - even if they got a high qualification.</s>
+        <s>Do you know that?</s>
+        <s>The same statistics prove that there is one quarter of African Americans living in poverty and only less than a tenth of whites.</s>
+        <s><name type="misc">The Hate U Give</name> raises the differences by the sixteen-year-old coloured girl <name type="person">Starr</name> living at a poor, balck environment, but going to a primarily white high school.</s>
+        <s>In my opinion <name type="misc">The Hate U Give</name> should be compulsory reading worlwide, because her point of view is very authentic as a <choice><orig>first person</orig><reg>first-person</reg></choice> narrator and the reader experiences her events at her home at <name type="geo">Garden Height</name> as well as the private school at one of the suburbs.</s>
+        <s>The point of view on the situation in the <name type="geo">US</name> told by an African American should be proper education.</s>
+      </p>
+      <p>
+        <s>I hope I could help you.</s>
+        <s>Greetings to your family.</s>
+      </p>
+      <p>
+        <signed>C u</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

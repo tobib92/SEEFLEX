@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g26_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I'm <choice><orig>gonna</orig><reg>going to</reg></choice> sum up <ref target="a10gk3_1" type="author">Ankita Mitra's</ref> <choice><orig>Blog</orig><reg>blog</reg></choice> on <choice><orig>Enviroment</orig><reg>environment</reg></choice>: <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> from <date>February 5, 2014</date>, by outlining the <choice><orig>describted</orig><reg>described</reg></choice> environmental pollution as well as its causes and effects.</s>
+      </p>
+      <p>
+        <s>Environmental pollution <choice><orig>contaminate</orig><reg>contaminates</reg></choice> the <choice><orig>enviroment</orig><reg>environment</reg></choice> causing devastating effects on sea life, crops, humans, etc.</s>
+        <s>The main reason for pollution is our age of <choice><orig>sience</orig><reg>science</reg></choice> and technology because of traffic, synthetic detergents, nitrogen fertilizers... <choice><orig>wich</orig><reg>which</reg></choice> contaminate air and water.</s>
+        <s>In <name type="geo">Bhopal</name> on <date>December 3, 1984</date> was the worst environment tragedy <choice><orig>throu</orig><reg>through</reg></choice> methyl isocyanate <choice><orig>wich</orig><reg>which</reg></choice> leaked.</s>
+        <s>So when the humanity do nothing it wn't can live on the planet <choice><orig>Earth</orig><reg>earth</reg></choice> in the future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

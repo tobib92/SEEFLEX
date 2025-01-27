@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12g37_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">soliloquy</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>No I can't do this, I can't kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>Yes I want to have more power and to be the <choice><orig>king</orig><reg>King</reg></choice> but how can I be a <choice><orig>murder</orig><reg>murderer</reg></choice> and just kill <ref target="c12gk3_1" type="character">Duncan</ref> like it is nothing bad.</s>
+        <s>Because of <ref target="c12gk3_1" type="character">Duncan</ref> I am on the place where I am and have a high reputation.</s>
+        <s>Maybe I could do it for my wife, maybe if I do it for my wife it is not that bad.</s>
+        <s>She wants also that I am the king.</s>
+        <s>But no!</s>
+        <s>How could I think so.</s>
+        <s>No matter what my wife wants it is bad to kill an innocent person.</s>
+        <s>But wait!</s>
+        <s>Can I really trust the witches?</s>
+        <s>What happens if I kill <ref target="c12gk3_1" type="character">Duncan</ref> and I don't get king.</s>
+        <s>Then I would be a <choice><orig>murder</orig><reg>murderer</reg></choice> with no higher position who <choice><orig>have</orig><reg>has</reg></choice> to live with this guilt.</s>
+        <s>But a <choice><orig>murder</orig><reg>murderer</reg></choice> without a position is a <choice><orig>murder</orig><reg>murderer</reg></choice>.</s>
+        <s>I am not a <choice><orig>murder</orig><reg>murderer</reg></choice> I will never be!</s>
+        <s>No matter what my wife says.</s>
+        <s>I will be king but not with killing somebody.</s>
+        <s>I will get the title on <choice><orig>a</orig><reg>an</reg></choice> honest way.</s>
+        <s>I have to make a plan, I will make a plan.</s>
+        <s>The witches are evil servants.</s>
+        <s>I should not meet them again if I want to stay a normal person.</s>
+        <s>The evil's <choice><orig>thoughs</orig><reg>thoughts</reg></choice> come from evil's servants.</s>
+        <s>No!</s>
+        <s>No, no, no!</s>
+        <s>I believed them <choice><orig>to</orig><reg>too</reg></choice> much just because I am so ambitious for power.</s>
+        <s>That's enough!</s>
+        <s>Wanting to have power just led me to evils.</s>
+        <s>I am sure I will kill nobody!</s>
+        <s>That's enough!</s>
+        <s>If I want to be king then on <choice><orig>a</orig><reg>an</reg></choice> honest way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g15_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his latest article <ref target="a12gk2_1" type="author">John Worne</ref> claims that <quote>language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote> which I think is only partially right as he presented it.</s>
+        <s>It may not be essential for the <name type="geo">UK's</name> global standing, which doesn't mean it's not important.</s>
+      </p>
+      <p>
+        <s>With globalisation processing more and more the English language as the <choice><orig>worlds</orig><reg>world's</reg></choice> official language is spread more and more throughout the world and most people, especially those trying to do business, can already speak English which leads to the conclusion that the <name type="geo">UK's</name> position isn't in big danger in the near future.</s>
+        <s>That doesn't mean that just because not everything is going downhill it's not important to learn foreign languages.</s>
+        <s>In my opinion it's also a valid point that learning a foreign language helps to get to know other cultures and to teach cultural awareness.</s>
+        <s>In my opinion it's also ignorant to just expect that everyone is learning your own language and on the other hand not willing to learn other languages.</s>
+      </p>
+      <p>
+        <s>Another aspect to be considered is that fast developing nations like e. g. <name type="geo">China</name> gain more and more influence in the world which also leads to <choice><orig>chinese</orig><reg>Chinese</reg></choice> being more spoken in the world which is why English might not be the only world language <choice><orig>for ever</orig><reg>forever</reg></choice>.</s>
+      </p>
+      <p>
+        <s>To also look at the point that many <name type="geo">UK</name> businesses now require foreign language skills and that it is easier to find a job so one could say that it is certainly not necessary to now have other language knowledge but it is giving one advantages when looking for a job.</s>
+      </p>
+      <p>
+        <s>In conclusion I can say that the learning of foreign languages is more and more required to find a job but it is still not a necessity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

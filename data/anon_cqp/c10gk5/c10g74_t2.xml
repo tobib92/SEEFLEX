@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g74_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and published on the <date>17th December 2016</date> is about how immigrants are treated in <name type="geo">Great Britain</name> and which problems they have with the integration.</s>
+        <s>This text is addressed at all the readers of the <name type="misc">Sunday Times</name>.</s>
+      </p>
+      <p>
+        <s>Since the text is an article of a newspaper it is well structured.</s>
+        <s>It has four sections and each of them is about an other subtopic of the main topic.</s>
+        <s>The article is written in a formal language style and has mostly short sentences <ref target="c10gk5_1" type="line">(cf. ll. 5-8, 1-4)</ref>.</s>
+        <s>The author uses different stylistic devices to make his arguments and examples more clear and expressive, for example metaphors <ref target="c10gk5_1" type="line">(cf. l. 7, ll. 18-19)</ref>, convincing figures <ref target="c10gk5_1" type="line">(cf. l. 1)</ref> or repetitions like <quote>East End</quote> <ref target="c10gk5_1" type="line">(cf. ll. 5, 8, 12)</ref>.</s>
+        <s>You also come across a few alliterations while reading like <quote>East End</quote> <ref target="c10gk5_1" type="line">(cf. ll. 5, 8, 12)</ref>, <quote>represented a recreation</quote> <ref target="c10gk5_1" type="line">(cf. l. 12)</ref> and <quote>gained in getting</quote> <ref target="c10gk5_1" type="line">(cf. l. 23)</ref>.</s>
+      </p>
+      <p>
+        <s>The arguments of the author are authentic, because he is an immigrant himself and experienced many of these things he mentions.</s>
+        <s>His own experiences are making the text more real and brings the topic close to the reader.</s>
+      </p>
+      <p>
+        <s>All in all the article is convincing and shows very good the problems of immigrants in <name type="geo">Great Britain</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

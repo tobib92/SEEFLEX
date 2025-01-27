@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12l21_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Speaker A</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Speaker B</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s>Phil?</s>
+      </u>
+      <u who="B">
+        <s>Yes?</s>
+      </u>
+      <u who="A">
+        <s>I do not get it.</s>
+        <s>Why is the next exam about <name type="person">William Shakespeare</name>?</s>
+      </u>
+      <u who="B">
+        <s>Because he is one of the most important people in <choice><orig>british</orig><reg>British</reg></choice> literature.</s>
+        <s>He write many plays which are still performed.</s>
+        <s>Furthermore he wrote 154 sonnets.</s>
+        <s>His plays and sonnets include timeless topics and problems we still cannot solve.</s>
+        <s>He wrote a lot about time, love, and the dead and in his writings he show how human is being.</s>
+        <s>This is very interesting because we human are still living and thinking in the way <name type="person">Shakespeare</name> write over 400 years ago.</s>
+      </u>
+      <u who="A">
+        <s>Okay it seems you are a little fanboy, aren't you?</s>
+      </u>
+      <u who="B">
+        <s>Well I do not know I only like him it I understand his writings.</s>
+        <s>I think it is very difficult to understand them which is a reason why many people in our age do not like him but if you understand them you notice that he was very clever and wise.</s>
+      </u>
+      <u who="A">
+        <s>Oh my god thank you!</s>
+        <s>I thought I am the only one who is not able to understand some writings of <name type="person">Shakespeare</name>.</s>
+        <s>But I think that is the problem.</s>
+        <s><name type="person">Shakespeare</name> destroys our English marks.</s>
+      </u>
+      <u who="B">
+        <s>Yeah that's true.</s>
+        <s>The sonnets are very difficult.</s>
+        <s>But I think they seem so difficult for us because of the <name type="misc">Corona Virus</name> <choice><orig>pandamic</orig><reg>pandemic</reg></choice>.</s>
+      </u>
+      <u who="A">
+        <s>Why?</s>
+      </u>
+      <u who="B">
+        <s>because we had no real lessons for over a half year because of the lockdowns.</s>
+      </u>
+      <u who="A">
+        <s>Oh yes that is true.</s>
+        <s>That was a hard time, wasn't it?</s>
+      </u>
+      <u who="B">
+        <s>Of course it was.</s>
+      </u>
+      <u who="A">
+        <s>You know these false theories about the virus and the <choice><orig>vacciens</orig><reg>vaccines</reg></choice> right?</s>
+      </u>
+      <u who="B">
+        <s>Yeah that is the biggest bullshit I have ever heard.</s>
+      </u>
+      <u who="A">
+        <s>That is true but do you know that there are also some theories about <name type="person">Shakespeare</name>?</s>
+        <s>Many people think that he did not even exist.</s>
+        <s>So why do we talk about him?</s>
+      </u>
+      <u who="B">
+        <s>Well first of all it does not matter who or what the plays and sonnets write because only the content is important.</s>
+        <s>Furthermore you also talk about God and I think we have more <choice><orig>prooves</orig><reg>proofs</reg></choice> for <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> existence as for God.</s>
+      </u>
+      <u who="A">
+        <s>Okay yes that true too.</s>
+      </u>
+      <u who="B">
+        <s>So did you get why we still talk about him?</s>
+      </u>
+      <u who="A">
+        <s>Yeah thank you for giving me those information.</s>
+      </u>
+    </body>
+  </text>
+</TEI>

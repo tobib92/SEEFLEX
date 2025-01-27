@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l08_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sonnet engages with the theme of how two people lie in a relationship to surpass <choice><orig>each others</orig><reg>each other's</reg></choice> insecurities, againg and not being made of truth.</s>
+        <s>In the following, it will be outlined how the <choice><orig>auther</orig><reg>author</reg></choice> illustrates and intensifies his view by means of formal and poetic devices.</s>
+      </p>
+      <p>
+        <s>The poem is a fourteen lined sonnet which can be <choice><orig>devided</orig><reg>divided</reg></choice> into three quatrains and one heroic couplet.</s>
+      </p>
+      <p>
+        <s>The sonnet is written in an iambic pentameter and conforms to the rhyme pattern <name type="misc">abab cdcd efef gg</name>.</s>
+        <s>The iambic pentameter illustrates a heartbeat created by five stressed and five unstressed syllables.</s>
+      </p>
+      <p>
+        <s>The heartbeat embraces the theme of love which is presented in the sonnet.</s>
+        <s><ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> conforms to a constant <choice><orig>ryme</orig><reg>rhyme</reg></choice> scheme.</s>
+      </p>
+      <p>
+        <s>The three quatrains follow a cross pattern and the couplet a pair rhyme scheme.</s>
+        <s>The rhyme scheme is unchanged in the sonnet signifying harmony.</s>
+        <s>The pair rhyme in the heroic couplet stresses the message of the sonnet that both people in the relationship conquer the ravages in life, forming a pair which is trapped in <choice><orig>edless</orig><reg>endless</reg></choice> devotion and admiration.</s>
+      </p>
+      <p>
+        <s><ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> employs a variety of poetic devices in order to highlight the speaker's strong devotion towards his lover.</s>
+      </p>
+      <p>
+        <s>In line five<ref target="a12lk1_1" type="author">Shakespeare</ref> invokes an alliteration <quote>vainly thinking that she thinks me young</quote> <ref target="a12lk1_1" type="line">(l. 5)</ref>.</s>
+        <s>The alliteration highlights the <choice><orig>speakers</orig><reg>speaker's</reg></choice> fear of old age.</s>
+        <s>Moreover, the passage stresses the <choice><orig>speakers</orig><reg>speaker's</reg></choice> high admiration towards the lover, sincec only his/her opinion really matters.</s>
+      </p>
+      <p>
+        <s>Furthermore, <ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> implies a personification proclaiming he <quote>simply credits her false speaking tongue</quote> <ref target="a12lk1_1" type="line">(l. 7)</ref>.</s>
+        <s>By employing a personification<ref target="a12lk1_1" type="author">Shakespeare</ref><choice><orig>emphazises</orig><reg>emphasizes</reg></choice> that the speaker feels flattered by the lovers lies.</s>
+        <s>It <choice><orig>visulizes</orig><reg>visualizes</reg></choice> that the lover helps the speaker overcome his insecurities by lying.</s>
+        <s>He relies on the lover lying, helping him to not anguish by the fact he's aging.</s>
+      </p>
+      <p>
+        <s>Another stylistic device can be found in line nine to ten.</s>
+        <s>The author employs two rhetorical questions signifying why the speaker and loved person do not proclaim <choice><orig>each others</orig><reg>each other's</reg></choice> flaws.</s>
+        <s><quote>Wherefore says she not she is unjust</quote><ref target="a12lk1_1" type="line">(l. 9)</ref>, <quote>wherefore say not that I am old?</quote>.</s>
+        <s>The questions <choice><orig>characterizes</orig><reg>characterize</reg></choice> the seeming trust in a <choice><orig>realationship</orig><reg>relationship</reg></choice>.</s>
+        <s>Knowing that no one will point out the <choice><orig>others</orig><reg>other's</reg></choice> flaws.</s>
+      </p>
+      <p>
+        <s>Moreover, <ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> invokes another alliteration <quote>age in love loves not have years told</quote> <ref target="a12lk1_1" type="line">(l. 12)</ref> highlighting, love does not want to be told how many years it has left.</s>
+        <s>Love is pictured as something immortal.</s>
+        <s>Love is worth of not always telling the truth, in order to not hurt the other beloved person.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> illustrates the strong bond between the speaker and his/her beloved person by highlighting <choice><orig>lifes</orig><reg>life's</reg></choice> brevity and fading ages.</s>
+        <s>Little flaws are not worth pointed out because life is too short to be arguing the whole time.</s>
+      </p>
+      <p>
+        <s>Furthermore, the form of the poem stresses the harmony between the two people, loving each other and overcoming the ravages of life and love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

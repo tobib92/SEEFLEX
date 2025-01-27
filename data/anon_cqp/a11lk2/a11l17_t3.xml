@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l17_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Maya</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Emily</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <stage>
+          <name type="geo">Central Park, New York</name>
+        </stage>
+      </p>
+      <u who="A">
+        <s>Hey <ref target="a11lk2_1" type="character">Em</ref>, how are you?</s>
+        <s>What <choice><orig>happend</orig><reg>happened</reg></choice> to your eye?</s>
+      </u>
+      <u who="B">
+        <s>Oh, there is so much I have to tell you.</s>
+        <s>Do you want a long or short version?</s>
+      </u>
+      <u who="A">
+        <s>Long, tell me every detail!</s>
+      </u>
+      <u who="B">
+        <s>So there was this attractive <choice><orig>jewish</orig><reg>Jewish</reg></choice> curator, named <ref target="a11lk2_1" type="character">Isaac</ref> You I dreamed of a show for art since I started painting.</s>
+      </u>
+      <u who="A">
+        <s>Yes, I know, but what does that has to do with your eye?</s>
+      </u>
+      <u who="B">
+        <s>Just wait, I am going to tell you.</s>
+        <s>So I wanted in this show and I knew that <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> has feelings for me.</s>
+      </u>
+      <u who="A">
+        <s>No <ref target="a11lk2_1" type="character">Em</ref>.</s>
+        <s>You do not did that!</s>
+      </u>
+      <u who="B">
+        <s>You know how important my career is.</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Maya</ref><choice><orig>grabbs</orig><reg>grabs</reg></choice><ref target="a11lk2_1" type="character"><choice><orig>Emilys</orig><reg>Emily's</reg></choice></ref> arm</stage>
+      </p>
+      <u who="A">
+        <s>Yes, I know, but don't you love <ref target="a11lk2_1" type="character">Amir</ref>?</s>
+      </u>
+      <u who="B">
+        <s>Of course, I do!</s>
+      </u>
+      <u who="A">
+        <s>I doubt it, if you really love him, you would not dare!</s>
+      </u>
+      <u who="B">
+        <s>Don't tell me that.</s>
+        <s>I know I regret what I have done, but I can not change it.</s>
+      </u>
+      <u who="A">
+        <s>So, how did <ref target="a11lk2_1" type="character">Amir</ref> find out?</s>
+      </u>
+      <u who="B">
+        <s>Long story, short.</s>
+        <s><ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> came to our apartment with his wife for <choice><orig>dinnerparty</orig><reg>dinner party</reg></choice>.</s>
+        <s>The party did not turn out, how I wanted it to turn out.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref>, <ref target="a11lk2_1" type="character"><choice><orig>Issac's</orig><reg>Isaac's</reg></choice></ref> wife, told <ref target="a11lk2_1" type="character">Amir</ref> outside that she got the promotion instead of <ref target="a11lk2_1" type="character">Amir</ref>.</s>
+        <s>Meanwhile <ref target="a11lk2_1" type="character"><choice><orig>Issac</orig><reg>Isaac</reg></choice></ref> tried to kiss me and <ref target="a11lk2_1" type="character">Jory</ref> saw that.</s>
+        <s>When he tried that, I realized how much I love <ref target="a11lk2_1" type="character">Amir</ref> and I was ready to tell him.</s>
+      </u>
+      <u who="A">
+        <s>So, did you?</s>
+      </u>
+      <u who="B">
+        <s>No, I could not.</s>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> told him, what she saw and he asked me.</s>
+      </u>
+      <u who="A">
+        <s>And?</s>
+      </u>
+      <u who="B">
+        <s>He hit in my face and I fainted.</s>
+      </u>
+      <u who="A">
+        <s>OH MY FUCKING GOD.</s>
+        <s>WHAT A DICK!</s>
+      </u>
+      <u who="B">
+        <s>Yeah, I know, but I love him anyways.</s>
+      </u>
+      <u who="A">
+        <s>No, you should not.</s>
+      </u>
+      <u who="B">
+        <s>I know, but I do.</s>
+        <s>What the hell should I do now?</s>
+      </u>
+      <u who="A">
+        <s>You should accuse him, find a better one and forget him.</s>
+        <s>But I know <choice><orig>thats</orig><reg>that's</reg></choice> impossible.</s>
+      </u>
+      <u who="B">
+        <s>So?</s>
+      </u>
+      <u who="A">
+        <s>You should wait.</s>
+        <s>Take your time and see what he does.</s>
+        <s>You both made a BIG mistake and crossed borders.</s>
+        <s>You will never forget that he hit you and he will never forget that you cheated on him with an asshole.</s>
+        <s>If he really loves you he will make an effort to get you back.</s>
+        <s>You will see.</s>
+        <s>He will show you the love, that he showed in the beginning of your relationship.</s>
+      </u>
+      <u who="B">
+        <s>Oh, <ref target="a11lk2_1" type="character">Maya</ref>, you are the best!</s>
+        <s>Betten than the therapist.</s>
+      </u>
+      <u who="A">
+        <s><ref target="a11lk2_1" type="character">Em</ref>, you <choice><orig>now</orig><reg>know</reg></choice> you can count on me.</s>
+      </u>
+      <u who="B">
+        <s>I know.</s>
+        <s>First I need a doctor that takes care of my eye.</s>
+        <kinesic>
+          <desc>laugh</desc>
+        </kinesic>
+        <s>No, I will not sleep with him!</s>
+      </u>
+      <u who="A">
+        <kinesic>
+          <desc>laugh</desc>
+        </kinesic>
+      </u>
+      <u who="B">
+        <s>I love you, take care and see you at the brunch.</s>
+      </u>
+      <u who="A">
+        <s>Bye.</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> leaves.</stage>
+      </p>
+    </body>
+  </text>
+</TEI>

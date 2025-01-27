@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analyzed how the formal and poetic devices intensify <choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice> view.</s>
+      </p>
+      <p>
+        <s>Sonnet 138 follows its strict demands of Shakespearean sonnets.</s>
+        <s>It is <choice><orig>devided</orig><reg>divided</reg></choice> into three quatrains, which introduce the argument and the Volta and the couplet, which consists of the main meaning and the conclusion.</s>
+        <s>The rhythm contains a <name type="misc">abab cdcd efef gg</name> rhyme scheme.</s>
+        <s>The metrical pattern is <choice><orig>a</orig><reg>an</reg></choice> iambic pentameter in which <choice><orig>a</orig><reg>an</reg></choice> unstressed syllable is followed by a stressed one.</s>
+        <s>This form is a sound of a heartbeat which makes the sonnet very emotional, alive and meant to be presented.</s>
+        <s>The Volta in line 9 <quote>But wherefore says she not she is unjust?</quote> explains the turning point and guides the sonnet into another direction.</s>
+      </p>
+      <p>
+        <s>In order to introduce the theme of the sonnet the author chooses to announce the <choice><orig>adressed</orig><reg>addressed</reg></choice> person with <quote>[...] my love [...]</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref>.</s>
+        <s>It represents the theme directly and the reader knows that the sonnet is about a loving and carrying relationship.</s>
+      </p>
+      <p>
+        <s>The enjambment from line 1 till 2 to also consists of an antithesis.</s>
+        <s>The speaker claims that he/she <choice><orig>belives</orig><reg>believes</reg></choice> her/him by telling the truth but also knows that the <choice><orig>adresse</orig><reg>addressee</reg></choice> is lying <ref target="a12lk1_1" type="line">(l. 2)</ref>.</s>
+        <s>It illustrates that the speaker wants to believe his/her <quote>love</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref> but also knows that it is realistic to acknowledge the fact that he/she is aging.</s>
+        <s>The reader can easily relate to this situation because he/she can understand the struggle of the speaker is in and therefore, feels also trapped.</s>
+        <s>Moreover, the reader knows that the speaker's <quote>love</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref> is a woman because he/she <choice><orig>adresses</orig><reg>addresses</reg></choice> her with <quote>she</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref> and <quote>her</quote> <ref target="a12lk1_1" type="line">(l. 2)</ref>.</s>
+      </p>
+      <p>
+        <s>The comparison in line three <quote>[...] think me some untutor'd youth, [...]</quote> underlines how the speaker is worried that he/she is not enough for her because he/she  has not lived his young days to the fullest.</s>
+        <s>The speakers feels inexperienced and helpless.</s>
+        <s>The reader is <choice><orig>currious</orig><reg>curious</reg></choice> and wants to know if this accusation is true in the ees of the <choice><orig>adresse</orig><reg>addressee</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Furthermore, the speaker goes on overthinking about how he/she believes that that his/her love thinks that he/she has outlived his best days and is not so young anymore <ref target="a12lk1_1" type="line">(l. 5, 6)</ref>.</s>
+        <s>It represents the insecurities the speaker has and illustrate that he/she claims that the love their have mmight not be enough despite their problems.</s>
+      </p>
+      <p>
+        <s>Moreover, the metaphor <quote>[...] false speaking tongue [...]</quote> <ref target="a12lk1_1" type="line">(l. 7)</ref> underlines the image more clearly and shows how the <choice><orig>adresse</orig><reg>addressee</reg></choice> is lying directly to the speaker's face.</s>
+        <s>He/she is thereby very astonished.</s>
+        <s>The reader is also shocked by this act and is interested how this behaviour can be tolerated.</s>
+      </p>
+      <p>
+        <s>Besidesmore, the speaker continues by explaining that <quote>[...] both sides [...]</quote> <ref target="a12lk1_1" type="line">(l. 8)</ref> are <choice><orig>surpressing</orig><reg>supressing</reg></choice> the obvious truth of aging.</s>
+      </p>
+      <p>
+        <s>The Volta in line 9 is being introduced through a <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question.</s>
+        <s>It expresses how the reader does not understand why his/her love does not justify that she is wrong.</s>
+        <s>The speaker continues with another <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question in which he/she also judges him/herself of not telling the truth of being old <ref target="a12lk1_1" type="line">(l. 10)</ref>.</s>
+        <s>This stresses the turning point in the sonnet directly.</s>
+        <s>At first the speaker explains how both parties lie to one another for not hurting <choice><orig>each others</orig><reg>each other's</reg></choice> feelings.</s>
+        <s>But through the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions the speaker finally starts to question their behaviour and almost comes to a conclusion.</s>
+        <s>Therefore, this speaker has the <choice><orig>readers</orig><reg>reader's</reg></choice> full attention because the reader starts asking him/herself why this action is pushed through.</s>
+      </p>
+      <p>
+        <s>In addition the personification <quote>[...] love's best habit [...]</quote> <ref target="a12lk1_1" type="line">(l. 11)</ref> <choice><orig>identifys</orig><reg>identifies</reg></choice> <quote>love</quote> <ref target="a12lk1_1" type="line">(l. 11)</ref> as a person with having characteristics and habits.</s>
+        <s>It underlines that love's best character trait is trust.</s>
+        <s>The speaker <choice><orig>astablished</orig><reg>established</reg></choice> this but <choice><orig>weaken's</orig><reg>weakens</reg></choice> this argument by justifying it with the metaphor <quote>[...] age in love loves not to have years told [...]</quote> <ref target="a12lk1_1" type="line">(l. 12)</ref>.</s>
+        <s>It expresses that even though the foundation of a relationship is trust one should never compare love with age because love cannot be described in years.</s>
+        <s>It is inevitable.</s>
+        <s>The reader can relate to the thoughts of the speaker.</s>
+        <s>He/she claims that when in matters of love, lying can also be tolerated if it happens on a trust worthy and carrying base.</s>
+        <s>Also the reader is being <choice><orig>remainded</orig><reg>reminded</reg></choice> of the boundless power of love.</s>
+      </p>
+      <p>
+        <s>Lastly, the couplet concludes how the speaker will continue loving their relationship even with their flaws <ref target="a12lk1_1" type="line">(ll. 13-14)</ref>.</s>
+        <s>The reader feels the warmth and comfort in these lines and enjoys the happy ending of the sonnet.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

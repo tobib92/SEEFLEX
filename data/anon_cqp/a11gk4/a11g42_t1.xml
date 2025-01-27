@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g42_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Starr</name>, <name type="person">Seven</name>, <name type="person">DeVante</name>, and <name type="person">Chris</name> get to the place, where <name type="person">Khalil</name> was shoot and they see a crowd, who is protesting for <name type="person">Khalil</name>.</s>
+        <s>At first, she feels very bad, because there she sees <name type="person">Khalil</name> lying in the street and <choice><orig>imagine</orig><reg>imagines</reg></choice> the whole situation how <name type="person">Khalil</name> was <choice><orig>shoot</orig><reg>shot</reg></choice>.</s>
+        <s>She wasn't there since the incident, because she was a kind of traumatized of the night and to see the place, where this all happened, would make it worse.</s>
+        <s>When she <choice><orig>get</orig><reg>gets</reg></choice> into the crowd, she sees her attorney <name type="person">Ms. Ofrah</name>, who is also protesting, this gives <name type="person">Starr</name> confidence, because at first she can't <gap reason="illegible" quantity="1" unit="word">mange</gap> with the situation she is in.</s>
+        <s>When <name type="person">Ms. Ofrah</name> sees <name type="person">Starr</name>, she is at first kinda skeptical, because she knows how bad <name type="person">Starr</name> feels and can imagine, how she feels exactrly on his place, where <name type="person">Khalil</name> was <choice><orig>shoot</orig><reg>shot</reg></choice>.</s>
+        <s>But when she sees, that <name type="person">Starr</name> <choice><orig>wan't</orig><reg>wants</reg></choice> to speak up for <name type="person">Khalil</name> she motivated her wit hthe fact, that her voice is her biggest weapon.</s>
+        <s><name type="person">Starr</name> is vrey emotional at this scene, because at first it makes her happy and proud, that there are so many people who <choice><orig>protests</orig><reg>protest</reg></choice> for <name type="person">Khalil</name>.</s>
+        <s>When she gets on the top of the cop car, she's kinda nervous but <choice><orig>speeks</orig><reg>speaks</reg></choice> then for <name type="person">Khalil</name> up.</s>
+        <s>She's proud at herself, that she's fighting for <name type="person">Khalil</name> and achieved to <choice><orig>speek</orig><reg>speak</reg></choice> out loud for <name type="person">Khalil</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

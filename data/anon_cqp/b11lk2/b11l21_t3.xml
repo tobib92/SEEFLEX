@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l21_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The problem with reviving a relationshop or relationships in general is that it involves two parties.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> missed out on living his life to build up a new reality just to win back <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> on the other hand did not waste time waiting for him and built herself a life with a rich husband and a child.</s>
+      </p>
+      <p>
+        <s>Now, if <ref target="b11lk2_1" type="character">Gatsby</ref> wants to revive their relationship would have to give up the <choice><orig>savety</orig><reg>safety</reg></choice> of the life she built for their love.</s>
+        <s>But because she moved on and views him as a memory it seems like love was not enough for her as a reason to do without wealth and the pursuit of materialistic things, which <ref target="b11lk2_1" type="character">Tom</ref> could offer her.</s>
+      </p>
+      <p>
+        <s>On the other hand, <ref target="b11lk2_1" type="character">Daisy</ref>, who admires materialism, might see being <choice><orig>weathy</orig><reg>wealthy</reg></choice> with <ref target="b11lk2_1" type="character">Gatsby</ref> and loved by him as reason enough, so she could get the best of both worlds since her marriage with <ref target="b11lk2_1" type="character">Tom</ref> does not involve much love.</s>
+      </p>
+      <p>
+        <s>In general, reviving a past relationship could turn into a happy ending love story if both are still in love with the other and have not moved on with their lives.</s>
+        <s>Although a problem is that you forget to live in the moment by living in the past.</s>
+        <s>You miss out living your life to the fullest especially when you, as <ref target="b11lk2_1" type="character">Gatsby</ref>, live a life of pretend.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

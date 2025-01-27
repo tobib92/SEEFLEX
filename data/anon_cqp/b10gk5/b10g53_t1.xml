@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g53_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given scene from the feature movie <ref target="b10gk5_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> and published in <date>2018</date>, talks about the first introduction of the protagonist's secret boyfriend <ref target="b10gk5_1" type="character">Chris</ref> and how <ref target="b10gk5_1" type="character">Starr</ref> confronts him about a certain conflict they had in the past.</s>
+      </p>
+      <p>
+        <s>The scene starts with <ref target="b10gk5_1" type="character">Chris</ref> walking through the school hallway and his confidence shining through as he greets his friends left and right.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> watches him walk closer and closer to her while she admires his appearance.</s>
+        <s>When <ref target="b10gk5_1" type="character">Chris</ref> notices her, he walks up to her putting his headphones onto <ref target="b10gk5_1" type="character">Starr</ref> which play his new beats he made for her.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> expresses to him that she is still mad/<choice><orig>dissapointed</orig><reg>disappointed</reg></choice> about what he had did the other day through taking off his headphones and confronting him.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> then proceeds to tell her his perspective of the conflict through saying that he tried to get near to her in every way possible but <ref target="b10gk5_1" type="character">Starr</ref> pushing him away with the excuse that she is busy.</s>
+        <s>He states that he misunderstood the situation completely and expects leniency.</s>
+        <s>Due to <ref target="b10gk5_1" type="character">Starr</ref> still being thrown off by him he switches themes to his new beat and asks confidently her opinion on it.</s>
+        <s>After not getting quite the reaction he wanted, he takes off the cable which <choice><orig>were</orig><reg>was</reg></choice> connected to his headphones and starts dancing in front of the whole school.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

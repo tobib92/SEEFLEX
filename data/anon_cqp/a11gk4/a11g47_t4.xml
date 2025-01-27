@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g47_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Selin,</salute>
+      </p>
+      <p>
+        <s>I hope you are doing fine and did not encounter any major problems.</s>
+        <s>After reading the book <name type="misc">THUG</name> in class, I was wondering if it really shows problems that people have in the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>I found an article and wanted to ask if you've ever had to deal with something like that.</s>
+      </p>
+      <p>
+        <s>The article states that black people are being strongly discriminated and that the chances of them having to go to jail are way higher than whites having to sit in prison.</s>
+        <s>They think it is because of something called <q>stop-and-frisk</q> that officers seem to do a lot more often with blacks than whites.</s>
+      </p>
+      <p>
+        <s>Another point which was shocking was that after the congress and the <name type="misc">Civil Rights Act</name> establishment blacks still seem to live under social and economical discrimination.</s>
+      </p>
+      <p>
+        <s>The article states that it starts in the educational system, that only few get <choice><orig>there</orig><reg>their</reg></choice> school qualifications but even these still not get hired.</s>
+      </p>
+      <p>
+        <s>As an effect one quarter of the black people live in poverty <choice><orig>where as</orig><reg>whereas</reg></choice> under ten <foreign xml:lang="de">Prozent</foreign> of the whites have to live in poverty.</s>
+      </p>
+      <p>
+        <s>I sincerely hope that you do not and did not have to deal with that.</s>
+        <s>And because I know that you go to a schol where almost equally black and whites attend, I hope you are treated without a difference.</s>
+        <s>I can only recommend to read this book in case you still did not.</s>
+      </p>
+      <p>
+        <s>I hope you are well.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

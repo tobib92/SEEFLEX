@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After <choice><orig>analysining</orig><reg>analysing</reg></choice> <ref target="a12gk1_1" type="author">John Worne's</ref> article, I will now comment on <q>language learning is vital for the<name type="geo">UK's</name> future prosperity and global standing</q> <ref target="a12gk1_1">(l. 16)</ref>.</s>
+        <s>The question that comes up by looking at all the problem the world sadly has is: Can language solve those problems or should we focus on different <choice><orig>thinks</orig><reg>things</reg></choice> as science?</s>
+      </p>
+      <p>
+        <s><ref target="a12gk1_1" type="author">John Worne</ref> says that languages are important for economy [and a lot of other things] <ref target="a12gk1_1">(ll. 17-18)</ref>.</s>
+        <s>He does not say exactly why and this is problematic to understand what he really means.</s>
+        <s>It is sure that language is needed in <foreign xml:lang="de">prozesses</foreign> of economy.</s>
+        <s>People have to communicate to make a fair trade, to keep save that security is given and to make everyone happy at the end.</s>
+        <s>Of <choice><orig>corse</orig><reg>course</reg></choice> economy is much more complicated, but at the end, it should save our <choice><orig>lifes</orig><reg>lives</reg></choice> and give us prosperity.</s>
+        <s>In this way it is shows that language is needed to save prosperity.</s>
+        <s>But language is not equal to language and so is the question how big should we do the <choice><orig>focos</orig><reg>focus</reg></choice> on language?</s>
+        <s><ref target="a12gk1_1" type="author">Worne</ref> gives the impression that language is our one and only but this is overrated.</s>
+        <s>The focus should be on science and objective thinking.</s>
+        <s>If we did get those abilities, we will have the possibility to save <choice><orig>futere</orig><reg>future</reg></choice> <choice><orig>prosperty</orig><reg>prosperity</reg></choice>.</s>
+        <s>If we did not have them, language will not be able to save anything.</s>
+      </p>
+      <p>
+        <s>To get language and other things as science of philosophy together, <ref target="a12gk1_1" type="author">John Worne</ref> presented a great way.</s>
+        <s>Studying a <choice><orig>subjekt</orig><reg>subject</reg></choice> [no language] in a different language.</s>
+        <s>In this case you learn [about] important and interesting topics and [new] languages at the same time.</s>
+      </p>
+      <p>
+        <s>To the fact that there are less <name type="misc">A-Level</name> exams, it is importantto do something against that.</s>
+        <s>It would still be interesting where <ref target="a12gk1_1" type="author">John Worne</ref> <choice><orig>toke</orig><reg>took</reg></choice> he information of 10000 [source].</s>
+        <s><choice><orig>Buisides</orig><reg>Besides</reg></choice>, people are communicating for thousands of years it is irrational to say the language get lost and as already <choice><orig>sayed</orig><reg>said</reg></choice>: the change of languagewill not be that <choice><orig>horrable</orig><reg>horrible</reg></choice></s>
+      </p>
+      <p>
+        <s>To sum up the results, <ref target="a12gk1_1" type="author">Worne</ref> has some interesting points but he gives language a <choice><orig>weigt</orig><reg>weight</reg></choice> <choice><orig>wich</orig><reg>which</reg></choice> is too big.</s>
+        <s>We should <choice><orig>concentrade</orig><reg>concentrate</reg></choice> firstly on science and use science's result to make the world better for everyone.</s>
+        <s>Still a very good concept is to learn language next to studying.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

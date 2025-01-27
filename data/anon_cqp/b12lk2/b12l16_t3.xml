@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12l16_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>When evaluating the ipact of <ref target="b12lk2_1" type="speaker">Sir Attenborough's</ref> speech we need to judge if he evoked a feeling in the audience present and the broader one watching at home and how that leads to action or not sine, if we are honest, what we remember from a good speech is the feeling we had while listening to it more than what the content was in detail, at least that is what I think.</s>
+      </p>
+      <p>
+        <s>First of all, the contrast between the given speech and the one the Prime Minister <name type="person">Boris Johnson</name> held on the same occasion, is noticeable.</s>
+        <s>While <name type="person">Mr. Johnson</name> spiked his speech with jokes and references in appropriate for the occasion of a global crisis, menacing all of our existence, <ref target="b12lk2_1" type="speaker">Sir Attenborough</ref> <choice><orig>choose</orig><reg>chose</reg></choice> a very different style: it became clear that he takes the issue seriously which he also conveyed to the audience through expressions like <quote>all of us will feel the impact</quote> <ref target="b12lk2_1" type="line">(l. 19)</ref>.</s>
+        <s>Furthermore, his central aim was to motivate action by creating a feeling of hope for a world in balance where nature is healing.</s>
+        <s>Personally, I think he succeeded as I feel like this emotion became very real to me while reading the speech.</s>
+        <s>Hope can also definitely be a great encouragement to keep on going and fighting.</s>
+        <s>However, I do believe that <ref target="b12lk2_1" type="speaker">Attenborough's</ref> vision of the future is misleading, according to the current situation of global warming.</s>
+        <s>But, if we stop having hope, what is left?</s>
+        <s>What else can motivate us?</s>
+        <s>Additionally, <ref target="b12lk2_1" type="speaker">Attenborough</ref> not only depends on the emotions he evokes as he also backs up his argumentation with clear statements of what is needed to do: <quote>stop the number rising and put it in reverse [...], recapture billions of tons of carbon from the air [...] Fix our sights on keeping one and a half degrees within reach</quote> <ref target="b12lk2_1" type="line">(ll. 30-32)</ref>.</s>
+      </p>
+      <p>
+        <s>Also, I believe that his direct <choice><orig>adress</orig><reg>address</reg></choice> to the younger generation <quote>In [your lifetime] you could and should witness a wonderful recovery</quote> <ref target="b12lk2_1" type="line">(l. 52)</ref> is very effective as a present him as a kind of ally for them.</s>
+        <s>End it creates an alternative perspective other than the often very dystopian one, for them which will give them a sense of why it is still fight.</s>
+        <s>To show that there actually still is something to fight for, a future.</s>
+      </p>
+      <p>
+        <s>Generally, <ref target="b12lk2_1" type="speaker">Sir Attenborough</ref> gives the world leaders and politicians in insight on the perspective of normal people about climate change.</s>
+        <s>While also creating the strong feeling of being united in fight against global warming which helps to motivate further action.</s>
+      </p>
+      <p>
+        <s>On the other hand, the awareness for the climate crisis is already there and the people's minds and still, only if you are willing to change their lifestyles, something that is necessary for saving the earth.</s>
+        <s>All in all, as pointed out, <ref target="b12lk2_1" type="speaker">Sir Attenborough</ref> definitely creates the feeling of hope in his speech, but if that really is going to lead to more activeness remains uncertain.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

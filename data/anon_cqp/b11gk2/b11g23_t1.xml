@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g23_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the beginning we can see <ref target="b11gk2_1" type="character">Jory</ref> entering the room again because she went to leave but instead she cought <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> kissing and assuming that they have an affair.</s>
+        <s>Afterwards, also <ref target="b11gk2_1" type="character">Amir</ref> enters the room yelling at <ref target="b11gk2_1" type="character">Jory</ref> until he also <choice><orig>see</orig><reg>sees</reg></choice> <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> together.</s>
+        <s><ref target="b11gk2_1" type="character">Jory</ref> asks them if they have <choice><orig>a</orig><reg>an</reg></choice> affair but both <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> deny it until the end.</s>
+        <s><ref target="b11gk2_1" type="character">Isaac</ref> even tries to embrace <ref target="b11gk2_1" type="character">Jory</ref> but <ref target="b11gk2_1" type="character">Jory</ref> wants <ref target="b11gk2_1" type="character">Isaac</ref> to get off her.</s>
+      </p>
+      <p>
+        <s>Instead of being angry with <ref target="b11gk2_1" type="character">Isaac</ref> or <ref target="b11gk2_1" type="character">Emily</ref>, <ref target="b11gk2_1" type="character">Amir</ref> is vicious on <ref target="b11gk2_1" type="character">Jory</ref> and giving her the fault that the marriage between him and <ref target="b11gk2_1" type="character">Emily</ref> will break and that she stole his job.</s>
+        <s>Furthermore <ref target="b11gk2_1" type="character">Amir</ref> is racist towards her without knowing that <ref target="b11gk2_1" type="character">Jory</ref> is his superior.</s>
+        <s>Then <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Amir</ref> went to have a face off but instead of punching each other, <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> face and <ref target="b11gk2_1" type="character">Isaac</ref> is then racist to muslims by calling <ref target="b11gk2_1" type="character">Amir</ref> and muslims in <choice><orig>generall</orig><reg>general</reg></choice> as animals.</s>
+        <s>After <ref target="b11gk2_1" type="character">Isaac</ref> leaves <ref target="b11gk2_1" type="character">Jory</ref> leaves too but first she tells <ref target="b11gk2_1" type="character">Amir</ref> the reason why she got promoted but not <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>Because of that, <ref target="b11gk2_1" type="character">Amir's</ref> feelings got deeply hurt and after he asked <ref target="b11gk2_1" type="character">Emily</ref> if she sleeps with <ref target="b11gk2_1" type="character">Isaac</ref> and she confessed it, <ref target="b11gk2_1" type="character">Amir</ref> burst out of <choice><orig>Anger</orig><reg>anger</reg></choice> and beats <ref target="b11gk2_1" type="character">Emily</ref> up until she is laying on the floor covered in blood.</s>
+        <s>The scene ends with <ref target="b11gk2_1" type="character">Amir</ref> realising what he did and <ref target="b11gk2_1" type="character">Abe</ref> entering the room.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

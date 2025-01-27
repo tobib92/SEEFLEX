@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g23_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the speech excerpt from <ref target="c10gk2_1" type="speaker">Barack Obama</ref> he presented in <date>2009</date> in <name type="geo">Istanbul</name> he mentions the sentence and <choice><orig>metapher</orig><reg>metaphor</reg></choice>: <quote>Simple exchanges can break down walls between us</quote>.</s>
+        <s>I will write a comment on this.</s>
+      </p>
+      <p>
+        <s>I think it's a good sentence because it's a <choice><orig>metapher</orig><reg>metaphor</reg></choice> and it's true in history.</s>
+        <s>Back then, after the <name type="misc">Second World War</name> the victors communicated with each other and build the new <name type="geo">BRD</name>.</s>
+        <s>But they didn't communicate good enough with <name type="geo">Russia</name>, so they build a wall what divide <name type="geo">Germany</name>.</s>
+        <s>So the <choice><orig>metapher</orig><reg>metaphor</reg></choice> can have two meanings.</s>
+      </p>
+      <p>
+        <s>It's also good because it <choice><orig>show</orig><reg>shows</reg></choice> it easy.</s>
+        <s>Some of the <choice><orig>Turkeys</orig><reg>Turks</reg></choice> can't good English but with this it makes it clear.</s>
+      </p>
+      <p>
+        <s>But an <choice><orig>arguement</orig><reg>argument</reg></choice> against this statement is that if you travel to another country but don't want to learn and don't learn something you have done it as <choice><orig>an</orig><reg>a</reg></choice> <quote>simple exchange</quote>.</s>
+        <s>And something like this <choice><orig>don't</orig><reg>doesn't</reg></choice> help us.</s>
+      </p>
+      <p>
+        <s>To sum it up it's a quote that make its meaning clear but there is a <choice><orig>missunderstanding</orig><reg>misunderstanding</reg></choice> too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

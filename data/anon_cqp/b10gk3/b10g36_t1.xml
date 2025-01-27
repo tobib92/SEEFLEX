@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g36_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is from the novel <ref target="b10gk3_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> and <choice><orig>puplished</orig><reg>published</reg></choice> in <date>2018</date>, which is about a girl, <choice><orig>whos</orig><reg>whose</reg></choice> best friend gets shot by a <choice><orig>policemen</orig><reg>policeman</reg></choice> and her <choice><orig>live</orig><reg>life</reg></choice> after this.</s>
+      </p>
+      <p>
+        <s>In the given scene the <ref target="b10gk3_1" type="character">Carters</ref> are in a diner thanking god for their family, before the meal, when they see three <ref target="b10gk3_1" type="character">King Lords</ref> waiting <choice><orig>infront</orig><reg>in front</reg></choice> of the diner.</s>
+        <s><ref target="b10gk3_1" type="character">Maverick</ref> rushes out to protect <ref target="b10gk3_1" type="character">Starr</ref> and his family and he and the <ref target="b10gk3_1" type="character">King Lords</ref> start to fight when a police car appears.</s>
+        <s>The <ref target="b10gk3_1" type="character">King Lords</ref> drive away and the policemen put <ref target="b10gk3_1" type="character">Maverick</ref> against the window of the diner and ask him for his <choice><abbr>ID</abbr><expan>identification</expan></choice>.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Mavericks</orig><reg>Maverick's</reg></choice></ref> family runs out and his wife shows the police his <choice><abbr>ID</abbr><expan>identification</expan></choice>.</s>
+        <s>When <ref target="b10gk3_1" type="character">Seven</ref> gets <choice><orig>agressive</orig><reg>aggressive</reg></choice> they try to arrest him and drag <ref target="b10gk3_1" type="character">Carter</ref> to the ground.</s>
+        <s>But they are stopped by the people from the diner who all film the action with their smartphones.</s>
+        <s>At the end one of the scene one police officer recognizes <ref target="b10gk3_1" type="character">Starr</ref> and tells her she should take this as a warning.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

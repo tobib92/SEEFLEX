@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it is going to be analyzed how the formal and poetic devices that<ref target="a12lk1_1" type="author">Shakespeare</ref> makes use of illustrate and intensify his view on the basis of <ref target="a12lk1_1" type="title">Sonnet 138</ref>.</s>
+      </p>
+      <p>
+        <s>The sonnet follows a typical Shakespearean sonnet form.</s>
+      </p>
+      <p>
+        <s>The sonnet is structured in three quatrains with one following heroic couplet.</s>
+        <s>This intensifies <ref target="a12lk1_1" type="author">Shakespeare's</ref> message in the course of the sonnet, since the header is firstly getting familiar with the content of the sonnet <quote>I do believe her, though I know she lies</quote> <ref target="a12lk1_1" type="line">(l. 2)</ref>.</s>
+        <s>In the second quatrain the message is expanded <quote>On both sides thus is simple truth suppress'd</quote> <ref target="a12lk1_1" type="line">(l. 8)</ref> which leaves a <choice><orig>shoking</orig><reg>shocking</reg></choice> impression on the reader, since usually relationships are <choice><orig>taught</orig><reg>thaught</reg></choice> to be honest.</s>
+        <s>The third quatrain either sets a turning point or a further <choice><orig>explaination</orig><reg>explanation</reg></choice> of the message.</s>
+        <s>In case of <ref target="a12lk1_1" type="title">Sonnet 138</ref> the Volta is placed in line 9 <quote>But wherefore says she not she is unjust</quote>.</s>
+        <s>To the reader this seems as if the narrator feels nostalgic because of the lying of his/her partner and makes the reader therefore sympathetic with the speaker.</s>
+        <s>In the heroic couplet is the message <choice><orig>usally</orig><reg>usually</reg></choice> summarised and either expands or explains the thesis of the sonnet, leaving the reader with something to think about.</s>
+      </p>
+      <p>
+        <s>Furthermore, Shakespearean sonnets usually follow the <gap reason="illegible" quantity="1" unit="word">nene</gap> of an iambic pentameter, which is five unstressed and five stressed <choice><orig>sylabills</orig><reg>syllables</reg></choice>.</s>
+        <s>This heart-beat like rhythm gives the sonnet life and usually associated with the topics at love, death and time.</s>
+        <s>In <ref target="a12lk1_1" type="title">Sonnet 138</ref> the metrestresses the theme of time, which gives the reader an understanding on how the narrator dreads their youth to be over and therefore even lies to their partner.</s>
+      </p>
+      <p>
+        <s>Shakespearean sonnets are written in three quatrains each paired with a cross rhyme and the following heroic couplet which is written in a part rhyme.</s>
+        <s>This creates contrasts between all lines and helps the reader to understand the message properly.</s>
+        <s>Since the heroic couplet is a pair rhyme, the reader understands the intensified theme.</s>
+      </p>
+      <p>
+        <s><ref target="a12lk1_1" type="author">Shakespeare</ref> employs poetic devices in order to intensify his message.</s>
+      </p>
+      <p>
+        <s>The irony used in line 2 <quote>I do believe her, though I know she lies</quote> stresses the instability and distrust in the relationship.</s>
+        <s>Paired with the word <quote>swears</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref> used in the line previously, it creates a contrast, since swearing is usually found in context of marriage and love, <choice><orig>additionaly</orig><reg>additionally</reg></choice> to low to be truthful in marriage, it leaves a <choice><orig>shoking</orig><reg>shocking</reg></choice> impression on the reader.</s>
+        <s>This is underlined by the hyperbole <quote>[...] made of truth</quote> <ref target="a12lk1_1" type="line">(l. 1)</ref>.</s>
+        <s>The person beloved by the persona of the poem stresses to embody truthfulness, when the narrator is aware of their lying.</s>
+        <s>It makes the reader question their relationship as a whole.</s>
+      </p>
+      <p>
+        <s>The poetic device used in the following line <quote>world's false subtleties</quote> <ref target="a12lk1_1" type="line">(l. 4)</ref>, which is a contrast to the line before <quote>[...] untutor'd youth</quote> <ref target="a12lk1_1" type="line">(l. 3)</ref> stresses the age difference between both partners but furthermore <choice><orig>reflect</orig><reg>reflects</reg></choice> the narrator's actual new on his/her partner.</s>
+        <s>He/Her <choice><orig>believes</orig><reg>beliefs</reg></choice> his/her partner to be vain and inexperienced while complementing their <quote>subleters</quote>.</s>
+        <s>This underlines the sceptical effect on the reader.</s>
+        <s>The reader starts to further question whether the lyrical I is either in a happy relationship, or if the fault of their untruthfulness is either at the lyrical I's sake or their partner's.</s>
+      </p>
+      <p>
+        <s>The personification <quote>[...] false speaking tongue</quote> <ref target="a12lk1_1" type="line">(l. 7)</ref> <choice><orig>highlight</orig><reg>highlights</reg></choice> the perspective of the narrator on the person beloved.</s>
+        <s>While it stresses how their partner is not honest, it creates a distance between the act itself and the person beloved, as if the narrator does not want to accept the fact in what kind of relationship they find themselves in.</s>
+        <s>It creates nostalgia and pityness in the reader because it slowly seems to creep up on the narrator that their relationship is not as great as they claim.</s>
+      </p>
+      <p>
+        <s>Furthermore this thesis can be stabilized when looking at the use of the word <quote>[...] vainly [...]</quote> <ref target="a12lk1_1" type="line">(l. 5)</ref>.</s>
+        <s>It underlines their relationship as a whole, an ineffectuat relationship.</s>
+      </p>
+      <p>
+        <s>The rhetorical question <quote>But wherefore says she not she is unjust?</quote> <ref target="a12lk1_1" type="line">(l. 9)</ref> <choice><orig>underline</orig><reg>underlines</reg></choice> the narrator's desperation.</s>
+        <s>The speaker wants a stable, honest relationship, while blaming their partner for the lying.</s>
+        <s>This marks the Volta as well.</s>
+        <s><choice><orig>Allthough</orig><reg>Although</reg></choice> it seemed that the lrical I was aware of their dishonesty it still seems to bother them that their partner is not trying to work on that.</s>
+      </p>
+      <p>
+        <s>This is combined with another rhetorical question and even an anaphor <gap reason="illegible" quantity="1" unit="word">sesyerating</gap> each lines by a <quote>But [...]</quote> <ref target="a12lk1_1" type="line">(l. 9)</ref> and <quote>And [...]</quote> <ref target="a12lk1_1" type="line">(l. 10)</ref>.</s>
+        <s>The narrator questions <quote>[...] wherefore say not I that I am old?</quote> <ref target="a12lk1_1" type="line">(l. 10)</ref>.</s>
+        <s>This highlights the narrator's denial and defending of the relationship.</s>
+        <s>It creates a contract between both lines and dress another fear of the narrator's.</s>
+        <s>This fear is the fear of aging and <choice><orig>transience</orig><reg>transcience</reg></choice>.</s>
+        <s>The lyrical I fears to lose their partner, and wants to live in dishonesty to uphold their youth.</s>
+        <s>Up until this point the reader was sceptical of their relationship, when in reality the narrator wants to spend more the with his/her beloved person.</s>
+      </p>
+      <p>
+        <s>The alliteration <quote>[...] love loves [...]</quote> <ref target="a12lk1_1" type="line">(l. 12)</ref> shows the narrator's affection for their partner.</s>
+        <s>It is an antithesis to the line previously <quote>[...] love's best havit is in seeming trust</quote> <ref target="a12lk1_1" type="line">(l. 11)</ref>, since the lyrical I further explains that their relationship does not need honesty to be in a loving relationship.</s>
+        <s>To the reader this has a positive effect.</s>
+        <s>Every relationship doffers, but as <gap reason="illegible" quantity="1" unit="word">lanf</gap> as both partners are satisfied with the love they share it should not make a difference.</s>
+      </p>
+      <p>
+        <s>The poetic device used in the heroic couplet <quote>[...] in our faults by lies we flatter'd be</quote> <ref target="a12lk1_1" type="line">(l. 14)</ref> <choice><orig>underline</orig><reg>underlines</reg></choice>and <gap reason="illegible" quantity="1" unit="word">sui</gap> up the message of the sonnet.</s>
+        <s>The narrator does not expect anyone to understand their relationship, but as long as both partners are happy, untruthful as it is, the lyrical I still can create an illusion of an eternal love that conquers time.</s>
+      </p>
+      <p>
+        <s>To put it in a nutshell,<ref target="a12lk1_1" type="author">Shakespeare</ref> tries to illustrate the picture of a different, dishonest love, but in whose relationship both partners still seem to be happy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

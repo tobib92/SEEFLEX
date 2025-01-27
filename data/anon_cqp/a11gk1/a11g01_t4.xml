@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g01_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey friend,</salute>
+      </p>
+      <p>
+        <s>how are you doing?</s>
+        <s>I am writing to you because I would like to know your opinion and your experiences on a topic that I have done some research on.</s>
+        <s>In our English class we read a novel called <ref target="a11gk1_1" type="title">The Hate U Give</ref> which deals with the topic of racism in the <name type="geo">USA</name>.</s>
+        <s>I wondered whether racism is really <choice><orig>stil</orig><reg>still</reg></choice> that big of a problem in the <name type="geo">USA</name>, so I started to do some research.</s>
+        <s>I came across an interesting article from <name type="misc">Zeit Online</name> called <ref target="a11gk1_2" type="title">Black people in the USA - the racism is measurable</ref>.</s>
+        <s>It was published on the <date>25th of August 2014</date> and talks about racism in the <name type="geo">USA</name>.</s>
+        <s>It starts by mentioning <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>18 year old</orig><reg>18-year-old</reg></choice> African-American who got shot by the police.</s>
+        <s>It points out that things like this happen everywhere in the <name type="geo">USA</name>.</s>
+        <s>Studies would show how much black people are <choice><orig>stil</orig><reg>still</reg></choice> discriminated today.</s>
+        <s>They get more often arrested than white pople because they rae controlled stricter and more often by the police.</s>
+        <s>Even 50 years after the <name type="misc">Civil Rights Act</name> the black people have disadvanteges <choice><orig>socialy</orig><reg>socially</reg></choice> and <choice><orig>economily</orig><reg>economically</reg></choice>.</s>
+        <s>They especially have disadvantages when it comes to going to school or <choice><orig>acieving</orig><reg>achieving</reg></choice> a college degree.</s>
+        <s>They are also more often unemployed than white people.</s>
+      </p>
+      <p>
+        <s>All these informations really shocked and surprised me.</s>
+        <s>I didn't know that racism is <choice><orig>stil</orig><reg>still</reg></choice> that bad in the <name type="person">USA</name>.</s>
+        <s>That's why I would really love to hear oyu first-hand experiences and how you see racism in the <name type="person">USA</name>.</s>
+      </p>
+      <p>
+        <s>I hope you and your family are doing good.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

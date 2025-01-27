@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g07_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <ref target="c12gk1_1" type="title">Sonnet 116</ref> written from <ref target="c12gk1_1" type="author">William Shakespeare</ref>, it has 14 lines, three <choice><orig>quatrian</orig><reg>quatrain</reg></choice> and an ending couplet.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">William Shakespeare's</ref> intention was to talk about the topic love.</s>
+        <s>Love is never <choice><orig>to</orig><reg>too</reg></choice> far away there is ways a way to found together.</s>
+        <s>Every distance can be break or wall you can find this way if there is love.</s>
+        <s>Love changes or the people who love change but then it doesn't mean that it's over.</s>
+        <s>Sometimes things <choice><orig>changes</orig><reg>change</reg></choice>  if you are love and you don't some things that another people see or you don't want to see them.</s>
+      </p>
+      <p>
+        <s>It is the typical Shakespearean structure from 14 lines, three <choice><orig>quatrian</orig><reg>quatrain</reg></choice> and an ending rhyming couplet.</s>
+        <s>The rhymes are in order <name type="misc">ABAB</name> and in the end there is a <name type="misc">AA</name>.</s>
+        <s><ref target="c12gk1_1" type="author">William Shakespeare</ref> talks in the sonnet about one of his favourite <choice><orig>topic</orig><reg>topics</reg></choice>: love.</s>
+      </p>
+      <p>
+        <s>The big metaphor in this sonnet is that he compares this to a ship and a star.</s>
+        <s>The star navigates the ship the way.</s>
+        <s>You can <choice><orig>compares</orig><reg>compare</reg></choice> this to one person that have to find his way to the person that he loves.</s>
+      </p>
+      <p>
+        <s>In the first line there is a metaphor <quote>marriage of true minds</quote> which means to marry with a real mind you have to see everything that what he does.</s>
+        <s>It's that the people get an image of this.</s>
+        <s>From line four to five there is an alliteration because both <choice><orig>sentence</orig><reg>sentences</reg></choice> <choice><orig>starts</orig><reg>start</reg></choice> with a same beginning.</s>
+        <s>That's underlines the reader's intention.</s>
+        <s>Moreover in line four <quote>remover to remove</quote> it's his choice of words he underlines with this <quote>love is not love</quote> <ref target="c12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>This is a wordplay to underline his intention.</s>
+        <s>In line seven there is a metaphor <quote>the star to every wandering bark</quote>.</s>
+        <s>This means that love is for some people their hold.</s>
+        <s>Sometimes you think you lose there is love and you can found a way out.</s>
+        <s>In line nine to eleven there is an anaphora this two <choice><orig>sentence</orig><reg>sentences</reg></choice> starts with the same beginning, to underline his thoughts.</s>
+        <s>In line 12 there is a <choice><orig>similie</orig><reg>simile</reg></choice> <quote>it out even to the...</quote> to get a stronger feeling for it.</s>
+        <s>Moreover there is also a metaphor <quote>to the edge of doom</quote> <ref target="c12gk1_1" type="line">(l. 12)</ref>.</s>
+        <s>This means true love never ends and hlds on till the day of God's death and God never dies.</s>
+        <s>In the end <ref target="c12gk1_1" type="author">Shakespeare</ref> find this own conclusion and says that if this be error he will nover <choice><orig>writ</orig><reg>write</reg></choice> again or no man ever love.</s>
+      </p>
+      <p>
+        <s>All in all you can say love never ends.</s>
+        <s>It is a time-less process and there will be many up and down.</s>
+        <s>But true love never ends <ref target="c12gk1_1" type="author">Shakespeare</ref> will say that there will be always a way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

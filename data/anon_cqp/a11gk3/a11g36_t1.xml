@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g36_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an extract from chapter 24 from the novel <ref target="a11gk3_1" type="title">The Hate U Give</ref>, written by <ref target="a11gk3_1" type="author">Angie Thomas</ref> and published in <date>2019</date> by <name type="misc">Cornelsen</name>.</s>
+        <s>The extract deals with a protest against racism by the police and <ref target="a11gk3_1" type="character">Starr's</ref> speech there.</s>
+      </p>
+      <p>
+        <s>At first <ref target="a11gk3_1" type="character">Starr</ref> is only a normal person at the protest from <ref target="a11gk3_1" type="character">Mr. Ofrah</ref>.</s>
+        <s>The situation reminds her to the night where <ref target="a11gk3_1" type="character">Khalil</ref> got shot.</s>
+        <s>Next she <choice><orig>scream</orig><reg>screams</reg></choice> also the phrase <quote>A hairbrush is not a gun</quote> and goes to <ref target="a11gk3_1" type="character">Mr. Ofrah</ref> to say something into the bullhorn to the crowd.</s>
+        <s>The crowd <choice><orig>scream</orig><reg>scream</reg></choice> and <choice><orig>repeat</orig><reg>repeats</reg></choice> the <choice><orig>hole</orig><reg>whole</reg></choice> time the phrase.</s>
+        <s>In the end <ref target="a11gk3_1" type="character">Starr</ref> speaks to the cops and that they have to change <choice><orig>they</orig><reg>their</reg></choice> mentality that they give the protestants a reason to think better about the police.</s>
+      </p>
+      <p>
+        <s>In conclusion, one can say that <ref target="a11gk3_1" type="character">Starr</ref> <choice><orig>are</orig><reg>is</reg></choice> fighting for her human rights and that they don't give up.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

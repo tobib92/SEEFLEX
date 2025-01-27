@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g17_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the speech <ref target="a11gk2_1" type="speaker">Barack Obama</ref> <choice><orig>make</orig><reg>makes</reg></choice> use of stylistic devices.</s>
+        <s>In the following those are going to be analyzed.</s>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref> employs a variety of rhetorical devices in order to catch the <choice><orig>listeners</orig><reg>listeners'</reg></choice> attention.</s>
+      </p>
+      <p>
+        <s>By using <choice><orig>a</orig><reg>an</reg></choice> enumeration in l. 5 <ref target="a11gk2_1" type="speaker">Barack Obama</ref> says that everybody that <choice><orig>spend</orig><reg>spends</reg></choice> time in <name type="geo">Washington</name> <choice><orig>hear</orig><reg>hears</reg></choice> about the division.</s>
+        <s>She <choice><orig>list</orig><reg>lists</reg></choice> <choice><orig>than</orig><reg>then</reg></choice> things about how she are become <choice><orig>sepreated</orig><reg>separated</reg></choice>.</s>
+        <s>With the use of enumeration the speaker <choice><orig>make</orig><reg>makes</reg></choice> the text more pleasant to read and listen.</s>
+      </p>
+      <p>
+        <s>Likewise the speaker wants to make with the contrast in l. 9 memorable that everybody here <choice><orig>have</orig><reg>has</reg></choice> the same right in a same way.</s>
+        <s>Is no matter who you look <choice><orig>liks</orig><reg>like</reg></choice> or where you come from.</s>
+        <quote>
+          <s>Common hopes.</s>
+          <s>American dreams</s>
+        </quote>
+        <ref target="a11gk2_1" type="line">(l. 12)</ref>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref><choice><orig>give</orig><reg>gives</reg></choice> with that line everybody a new hope to dream and to trust to do a new challenge in her life.</s>
+      </p>
+      <p>
+        <s>He addresses the listener with <choice><orig>inklusive</orig><reg>inclusive</reg></choice> pronouns <quote>you</quote> <ref target="a11gk2_1" type="line">(l. 4)</ref>, because he wants them to listen to what he wants to say.</s>
+      </p>
+      <p>
+        <s>With her own experience she <choice><orig>give</orig><reg>gives</reg></choice> people hope that she are not alone.</s>
+        <s>Her mother learns him that <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> are no a <choice><orig>barries</orig><reg>barriers</reg></choice> to success <quote>no matter what color you are, no matter where you are from, no matter how much money have</quote> <ref target="a11gk2_1" type="line">(ll. 19f.)</ref>.</s>
+        <s>With this <choice><orig>paralilism</orig><reg>parallelism</reg></choice> <ref target="a11gk2_1" type="speaker">Obama</ref> <choice><orig>make</orig><reg>makes</reg></choice> this <q>rule</q> clearer and more memorable that everybody <choice><orig>have</orig><reg>has</reg></choice> the same chance.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the various stylistic devices probably made the speech more effective.</s>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref> wants that everybody <choice><orig>have</orig><reg>has</reg></choice> the same right and that nobody <choice><orig>forgelt</orig><reg>forgets</reg></choice> the <choice><orig>american dream</orig><reg>American Dream</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

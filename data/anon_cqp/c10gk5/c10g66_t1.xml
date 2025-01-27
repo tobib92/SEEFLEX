@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g66_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> was published on <date>17th December 2016</date> in <name type="misc">The Sunday Times</name>.</s>
+        <s>It is about learning English and celebrating difference and shows the opinion of the author pretty clear by some of his arguments and examples of own experiences.</s>
+        <s>He thinks very positive about this topic but also that we are not <choice><orig>handeling</orig><reg>handling</reg></choice> it right.</s>
+        <s>He even had to learn how to speak English and now he's searching for the best way of doing it for any immigrants.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

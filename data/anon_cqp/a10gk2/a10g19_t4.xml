@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g19_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The problems with the textile industry and what we can do to improve the situation.</s>
+      </p>
+      <p>
+        <s>The bad situation in the textile industry is very important, but can we do anything and if we do what can we do?</s>
+        <s>I will answer that in my article.</s>
+      </p>
+      <p>
+        <s>My source for this article is the interview <ref target="a10gk2_2" type="title">Fast Fashion: Unser Kleiderkonsum ist Wahnsinn</ref> written by <ref target="a10gk2_2" type="author">Jörg Oberwittler</ref> and published in <name type="misc">Spiegel Online</name> on the <date>21 December 2017</date>.</s>
+      </p>
+      <p>
+        <s>One problem of the textile industry is that they throw their trash and chemicals into rivers and destroy the <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The workers there work ten to twelve hours a day and only have one free day per week.</s>
+        <s>Besides that the workers develop <choice><orig>an</orig><reg>a</reg></choice> mentality of producing as much as possible even if it hurts them.</s>
+        <s>A boycott is not the solution because the people there would have no income and the companies would just go to another country.</s>
+      </p>
+      <p>
+        <s>We should instead support labels who support better working conditions and the government should finally do something against the exploitation of the workers.</s>
+      </p>
+      <p>
+        <s>In conclusion you should support labels who are for better conditions and try to make the government finally do something.</s>
+        <s>We should do that because such bad conditions at this time should not be tolerated any longer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

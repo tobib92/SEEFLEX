@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l03_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="explaining" genre_family="factorial explanation">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="b12lk1_1" type="title">We are entering an era of pandemics - it will end only when we protect the rainforest</ref> written by <ref target="b12lk1_1" type="author">Peter Daszak</ref> and published in <date>July 2020</date>, deals with how pandemics in the ast as well as now <choice><orig>happend</orig><reg>happened</reg></choice> and spread world-wide and how we could prevent them from happening in the future.</s>
+      </p>
+      <p>
+        <s>In the first paragraph the author tells us about the first contamination in <date>2013</date> with the virus <name type="misc">Ebola</name> because of a girl who was exposed to bat feaces.</s>
+        <s>The author further states that many viruses or pandemics follow this pattern such as <name type="misc">HIV</name> in the <date>1920s</date> that states in <name type="geo">Congo</name> while hunting and having contact with wildlife as well as the current <name type="misc">Covid-19</name> pandemic because of humans making contact with wildlife in rural China.</s>
+      </p>
+      <p>
+        <s>Next he states that the regions of the beginning of the spread are also <choice><orig>usally</orig><reg>usually</reg></choice> the same, meaning that they start from forests in for example <name type="geo">Africa</name> as the Amazon, where people make contact with viruses <choice><orig>carring</orig><reg>carrying</reg></choice> animals.</s>
+      </p>
+      <p>
+        <s>He also says that animals have <choice><orig>extraordinaryly</orig><reg>extraordinarily</reg></choice> more viruses then humans which is why there is a big chance of getting one while making contact and that we are lucky.</s>
+      </p>
+      <p>
+        <s>Moreover he <choice><orig>claimes</orig><reg>claims</reg></choice> that <choice><orig>nowedays</orig><reg>nowadays</reg></choice> viruses can spread more easily because out world is globalized and because of our consumption behaviour.</s>
+        <s>We deforest landscapes for agriculture, which is why we make more contact with wildlife.</s>
+        <s>As an example he says that the corona virus <choice><orig>originialy</orig><reg>originially</reg></choice> comes from a rural area in <name type="geo">China</name> and spread all across the planet.</s>
+      </p>
+      <p>
+        <s>The following paragraph deals with our current tactic with dealing with pandemics.</s>
+        <s>He says that we are allowing the viruses to spread and then look for solutions, such as <choice><orig>vacciens</orig><reg>vaccines</reg></choice>.</s>
+        <s>In his opinion this is a wrong approach because in the meantime millions of people die.</s>
+      </p>
+      <p>
+        <s>Last but not least, the author invocates that the real solution would be to lower our consumption behaviour and care more about our nature.</s>
+        <s>In this way we would not make unnecessary contact with wildlife and their viruses.</s>
+        <s>He urges us to see this pandemic as an opportunity for change and to be less ignorant in regards of our <choice><orig>planets</orig><reg>planet's</reg></choice> current situation because it is and also was very <choice><orig>fragil</orig><reg>fragile</reg></choice> even before the pandemic.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

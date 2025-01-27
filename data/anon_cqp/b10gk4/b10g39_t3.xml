@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g39_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film, but also the book, maked me thinking a lot about life.</s>
+        <s>First the topic of the film gave me a bigger look on racism and how common this theme in the whole world is.</s>
+        <s>Second the film's message got really close to me to be brave.</s>
+        <s>It says that everyone can and should be brave.</s>
+        <s>Everyone should not stay quiet when something happens, because that will not solve any problems.</s>
+        <s>In addition to that to me it got clear that I have a really good life.</s>
+        <s>Of course I have problems and stress, too, like exams, <choice><orig>puperty</orig><reg>puberty</reg></choice> of finding my way, but other people at my age have much more and harder problems to deal with, so I should be thankful for that what I have.</s>
+        <s>Another impact is the advice to make always the best of every situation, no matter how hard it is.</s>
+        <s>Like <ref target="b10gk4_1" type="character">Starr</ref> did it, she never gave up.</s>
+        <s>Finally the last thing that I learned is that family stays forever and if you have a lovely family it is more worth it to hold on to them, than the most things.</s>
+        <s>I think it was really impressive to see <ref target="b10gk4_1" type="character">Starr</ref> with her family and how they supported and how the protected each other.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

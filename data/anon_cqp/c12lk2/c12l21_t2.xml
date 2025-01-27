@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk2_1" type="title">Sonnet 60</ref> is a typical Shakespearean sonnet written by <ref target="c12lk2_1" type="author">William Shakespeare</ref>.</s>
+        <s>It is divided in three quatrains with each four lines and one couplet with two lines.</s>
+        <s>The rhyme scheme of the quatrains is cross rhyme <name type="misc">(ABAB CDCD...)</name> and the couplet has a pair rhyme <name type="misc">(GG)</name>.</s>
+        <s>Furthermore the sonnet is written in an iambic pentameter.</s>
+      </p>
+      <p>
+        <s>Because of the wordfields <q>time</q> <ref target="c12lk2_1" type="line">(compare with ll. 2, 8, 9, 13)</ref> and <q>kingdom</q> <ref target="c12lk2_1" type="line">(compare with ll. 6, 7, 13)</ref> you can notice that the sonnet is about the transience of time compared with the life of a king.</s>
+      </p>
+      <p>
+        <s>THe first quatrain opens with a <choice><orig>similie</orig><reg>simile</reg></choice>.</s>
+        <s>The lyrical I compares <quote>the waves</quote> which come <quote>towards the pebbled shore</quote> <ref target="c12lk2_1" type="line">(l. 1)</ref> with the time of our lifes.</s>
+        <s>Both will come <quote>to their end</quote> <ref target="c12lk2_1" type="line">(l. 2)</ref>.</s>
+        <s>For the waves the beach would be the end and our time will end if we die.</s>
+        <s>So we human are like waves.</s>
+        <s>No matter what we do we cannot stop moving to the end.</s>
+      </p>
+      <p>
+        <s>The metaphor <quote>In sequent toil all forwards do contend</quote> in line 4 underlines the transience of time.</s>
+        <s>The lyrical I describes the end of life like final fight and everyone has to fight one last time.</s>
+        <s>So it means that everything and everyone comes slowly to an end.</s>
+      </p>
+      <p>
+        <s>The second quatrain compares our <choice><orig>lifes</orig><reg>lives</reg></choice> with the life of a king.</s>
+        <s>The exaggeration <quote>Nativity</quote> in line 5 describes the beginning.</s>
+        <s>At first the king is born.</s>
+        <s>This birth is compared with the <quote>nativity</quote> <ref target="c12lk2_1" type="line">(l. 5)</ref> because in past a king or prince had the same worth for society as God or Jesus.</s>
+        <s>After the birth the future king has to grow up and become a wise adult for getting the crown.</s>
+        <s>And someday there will be the time for <quote>his glory fight</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref>.</s>
+        <s>Here the lyrical I makes use of a <choice><orig>symbole</orig><reg>symbol</reg></choice>.</s>
+        <s>The king is like us and <quote>the glory fight</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref> is like the end of our <choice><orig>lifes</orig><reg>lives</reg></choice> so the lyrical I shows that it does not matter if we want this final fight because we cannot change that we will die one day.</s>
+      </p>
+      <p>
+        <s>The third quatrain underlines the transience of time too.</s>
+        <s>It opens with personification <quote>Time doth transfix the flurish is set on youth</quote> in line 9.</s>
+        <s>With this the lyrical I shows that the time can change rapidly.</s>
+        <s>The time suddenly stops your youth when you become an adult.</s>
+        <s>Because of this your life changes very hardly.</s>
+      </p>
+      <p>
+        <s>The couplet includes the personification <quote>And yet to times in hope my verse shall stand</quote> <ref target="c12lk2_1" type="line">(l. 13)</ref>.</s>
+        <s>Here the lyrical I explains that the sonnet is <choice><orig>adressed</orig><reg>addressed</reg></choice> to people who are in this difficult situation of the final fight.</s>
+        <s>You should not try to hide yourself from this last fight because you will die anyway.</s>
+      </p>
+      <p>
+        <s>I personally like the sonnet.</s>
+        <s>It is very hard to understand the message but the topic is very important.</s>
+        <s>The reader should realize that time is not infinite and someday your life will come to an end no matter what you do.</s>
+        <s>You cannot hide from it or stop it so you should <choice><orig>life</orig><reg>live</reg></choice> in present and enjoy every moment in your life.</s>
+        <s>I also like the sonnet because <ref target="c12lk2_1" type="author">Shakespeare</ref> was a realist.</s>
+        <s>It is very spooky to listen or hear that you can die anytime so you have to live every day like it would be the last.</s>
+        <s><ref target="c12lk2_1" type="author">William Shakespeare</ref> is not affraid of it and dares to write about it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

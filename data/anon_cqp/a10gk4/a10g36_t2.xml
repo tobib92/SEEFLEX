@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In her blog post on <choice><orig>Environment</orig><reg>environment</reg></choice>, published on the <date>fifth of February 2014</date>, the <choice><orig>Autor</orig><reg>author</reg></choice> <ref target="a10gk4_1" type="author">Ankita Mitra</ref> writes about pollution and the hazardous effects it has on our world.</s>
+      </p>
+      <p>
+        <s>She talks about planet earth, and about the incredible circumstances in which life developed on it.</s>
+        <s>For example line 4-6.</s>
+        <s>She tries to bring the concept of the earth and the life on it being special, closer to the readers.</s>
+        <s>Making the readers <choice><orig>appriciate</orig><reg>appreciate</reg></choice> their existance even more.</s>
+      </p>
+      <p>
+        <s>Shortly after, she destroys the idea of living on peacefully, by explaining the consequences of pollution.</s>
+        <s>She talks about what is effected by it and how <choice><orig>devestating</orig><reg>devastating</reg></choice> these effects are.</s>
+      </p>
+      <p>
+        <s>There are a few <choice><orig>ennumeration</orig><reg>enumerations</reg></choice> <choice><orig>throuout</orig><reg>throughout</reg></choice> the text, all of them counting <choice><orig>negativ</orig><reg>negative</reg></choice> things.</s>
+        <s>The <choice><orig>negativ</orig><reg>negative</reg></choice> words also <choice><orig>effect</orig><reg>affect</reg></choice> the reader in a <choice><orig>negativ</orig><reg>negative</reg></choice>  way, encouraging them to truly think about how pollution is or can affect their life.</s>
+        <s>For example in lines 20-25 or line 13: <quote>... devastating effects on sea life, on crops and on human health</quote>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Autor</orig><reg>author</reg></choice> gives an example of how destructive the industrial pollution really is <ref target="a10gk4_1" type="line">(lines 29-32)</ref>.</s>
+      </p>
+      <p>
+        <s>She voices her concerns and her opinion becomes quite clear in the last few lines 33-37, when she encoursages the readers again to think and act by mentioning the permanent damage pollution is leaving on our environment, our world and the life on it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

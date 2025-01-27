@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l06_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="discussion">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello Gabby!</salute>
+      </p>
+      <p>
+        <s>I read the article you <choice><orig>send</orig><reg>sent</reg></choice> to me.</s>
+        <s>I can understand your curiosity.</s>
+        <s>The <name type="geo">US</name> is indeed a huge country and holds a lot of power.</s>
+        <s>The <name type="geo">USA</name> could have the <choice><orig>necessaties</orig><reg>necessities</reg></choice> to isolate itself from the rest of the world but why should it?</s>
+        <s>The article you <choice><orig>send</orig><reg>sent</reg></choice> me deals with the exact same topic but it is about <name type="geo">Germany</name>.</s>
+        <s>It argues <choice><orig>wether</orig><reg>whether</reg></choice> <name type="geo">Germany</name> actually has all the <choice><orig>necessaties</orig><reg>necessities</reg></choice> to isolate itself too.</s>
+      </p>
+      <p>
+        <s>The article you <choice><orig>send</orig><reg>sent</reg></choice> to me was published in a popular German newspaper site online so we can <choice><orig>definatly</orig><reg>definitely</reg></choice> trust the information given in the text.</s>
+      </p>
+      <p>
+        <s>Firstly it is important to know that the majority of <name type="geo"><choice><orig>Germanies</orig><reg>Germany's</reg></choice></name> income is made by exports, namely 1.279 billion euros.</s>
+        <s>Also, every second <choice><orig>Jobs</orig><reg>job</reg></choice> is dependent on the exports <name type="geo">Germany</name> makes every year.</s>
+        <s>That is <choice><orig>quiet</orig><reg>quite</reg></choice> a lot of money.</s>
+      </p>
+      <p>
+        <s>Besides that <choice><orig>german</orig><reg>German</reg></choice> <choice><orig>coumpanies</orig><reg>companies</reg></choice> are heavily dependent on international supply chains.</s>
+        <s>Unlike the <name type="geo">USA</name>, <name type="geo">Germany</name> almost does have any natural resources like for example oil.</s>
+        <s>Breaking these chains would cause a lot of problems.</s>
+      </p>
+      <p>
+        <s>In addition to that, there is not a single economically advanced country that has completely isolated itself yet.</s>
+        <s>There is practically no reason to do so, because one <choice><orig>can not</orig><reg>cannot</reg></choice> use another country as an example.</s>
+      </p>
+      <p>
+        <s>If <name type="geo">Germany</name> wants to isolate itself, it would mean a huge unemployment rate for this country.</s>
+        <s>Because as already mentioned every second job relies on internation chains.</s>
+      </p>
+      <p>
+        <s>Isolation would also make the life in <name type="geo">Germany</name> significantly boring.</s>
+        <s>In this text there is the example that for instance tropical fruit could not be imported to <name type="geo">Germany</name>.</s>
+        <s>Medicine from the <name type="geo">USA</name> would also not arrive in <name type="geo">Germany</name> and would in a way make a living more difficult for a lot of people.</s>
+      </p>
+      <p>
+        <s>So all in all, isolation would not bring any benefits to <name type="geo">Germany</name> nor economically nor socially.</s>
+      </p>
+      <p>
+        <s>I hope I summarized the text for you in a way that it helps you.</s>
+        <s>It is for sure a very interesting and controversial topic.</s>
+        <s>Ask me anytime, if you need help with other articles!</s>
+        <s>Hopefully see you soon Gabby!</s>
+      </p>
+      <p>
+        <signed>Best regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

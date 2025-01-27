@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>b11g11_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Now I want to focus on the question <choice><orig>wether</orig><reg>whether</reg></choice> <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> should have taken <ref target="b11gk1_1" type="character">Pearl</ref> away from her mother <ref target="b11gk1_1" type="character">Margot</ref> and the trailer park, and put her directly in a foster home in order to help her get better education and prepare her for a better and independent way of life.</s>
+      </p>
+      <p>
+        <s>On first thought I would have said yes directly.</s>
+        <s>She would live in a house with no garbage dump next to her home.</s>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> would be in school but legal.</s>
+        <s>She would be able to find a lot of friends.</s>
+        <s>Also she would have a mother and a father.</s>
+        <s>Through getting her child taken away from her, her mother <ref target="b11gk1_1" type="character">Margot</ref> would maybe realise in what conditions she is living and maybe would try to change that.</s>
+        <s>She could find better work, finish her education, find a place to live and all in all just better her life.</s>
+        <s>But in view of <ref target="b11gk1_1" type="character">Helen's</ref> character and situation I would say it was a good decision from <ref target="b11gk1_1" type="character">Margot</ref> to hide <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+        <s>She knows about her past, she had consistency, and went to school even though she is there illegally.</s>
+        <s>If <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> would have put her in a foster home earlier she would have probably had the same development as <ref target="b11gk1_1" type="character">Helen</ref> had.</s>
+        <s>If she changed foster homes every few months there would not be that consistency she got, while living in the car with her mother.</s>
+        <s>She also would maybe get bad or even no education at all.</s>
+        <s>Like <ref target="b11gk1_1" type="character">Helen</ref> she probably would not knew who she is or where she came from.</s>
+        <s>Living in the car with her mother might not be the best way to grow up, but in the end she is probably better educated and prepared for a better and independent life than <ref target="b11gk1_1" type="character">Helen</ref> who lived in foster homes since she can think.</s>
+      </p>
+      <p>
+        <s>I think she would have to be very lucky to find a really good foster home with loving foster parents, who really care about her and where she does not only live for four months.</s>
+      </p>
+      <p>
+        <s>To sum it up <ref target="b11gk1_1" type="character">Margot</ref> made a great decision by keeping <ref target="b11gk1_1" type="character">Pearl</ref> hid from <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> and developing <ref target="b11gk1_1" type="character">Pearl</ref> to an independent, strong and intelligent girl.</s>
+        <s>Under the circumstances they lived in <ref target="b11gk1_1" type="character">Margot</ref> prepared her for life than <ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen's</reg></choice></ref> 17 different foster homes.</s>
+        <s>I do not agree with the statement that <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> should have brought <ref target="b11gk1_1" type="character">Pearl</ref> to a foster home.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

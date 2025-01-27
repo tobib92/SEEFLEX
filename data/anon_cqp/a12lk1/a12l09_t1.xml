@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l09_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sonnet 138 by <ref target="a12lk1_1" type="author">William <choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>, describes how the speaker relizes his/her aging process whereas his/her <choice><orig>adressed</orig><reg>addressed</reg></choice> love denies it.</s>
+        <s>In the end the speaker claims that he/she wants to ignore worrying about aging and just enjoy and keep on loving the love the speaker has for the <choice><orig>adressed</orig><reg>addressed</reg></choice> person.</s>
+      </p>
+      <p>
+        <s>The first quatrain contains that the <choice><orig>adressed</orig><reg>addressed</reg></choice> person claims to be honest on every subject but the speaker knows tha he/she does not tell the truth about everything.</s>
+        <s>For example, he/she denies the speaker's aging process.</s>
+        <s>The speaker also speculates if his/her love thinks he/she has not experienced his/her youth that much.</s>
+      </p>
+      <p>
+        <s>The second quatrain continues with saying that the <choice><orig>adresse</orig><reg>addressee</reg></choice> ineffectually believes that the speaker is young and is still in his youth.</s>
+        <s>Furthermore, the speaker explains that he/she knows how the <choice><orig>adresse</orig><reg>addressee</reg></choice> thinks about his/her glorious days, of being able to do anything as a human being are over.</s>
+        <s>The speaker concludes how on both sides, the speaker as well as the <choice><orig>adresse</orig><reg>addressee</reg></choice> are suppressing the truth.</s>
+      </p>
+      <p>
+        <s>In the last quatrain the speaker questions why both parties keep lying to each other.</s>
+        <s>He/she believes that trust is the most important habit in a relationship.</s>
+        <s>Therefore, the speaker realizes that people in <choice><orig>an</orig><reg>a</reg></choice> unforced and loving relationship do not want to <choice><orig>remaind</orig><reg>remind</reg></choice> themselves of their age and the time they have left.</s>
+      </p>
+      <p>
+        <s>The couplet summarizes how the speaker will continue to love the <choice><orig>adressed</orig><reg>addressed</reg></choice> person even with their flaws.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

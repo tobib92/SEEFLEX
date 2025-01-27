@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author tries to underline his opinion with some stylistic <choice><orig>divices</orig><reg>devices</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> uses an <choice><orig>enomeration</orig><reg>enumeration</reg></choice> in line three <quote>better working conditions, shorter working days and higher wages</quote>.</s>
+      </p>
+      <p>
+        <s>He uses this stylistic device to made clear, that the workers could be treated better.</s>
+        <s>He tells the reader what the employers didn't had <choice><orig>befor</orig><reg>before</reg></choice> the unions.</s>
+      </p>
+      <p>
+        <s>A second enumeration is in line nine <quote>legislation and laws and our moral values</quote>.</s>
+        <s>These factors <choice><orig>discribes</orig><reg>describe</reg></choice> our relationship to consumption and what is mean to others.</s>
+      </p>
+      <p>
+        <s>There is also an inclusive language <quote>our</quote>.</s>
+        <s>The author is talking to the reader.</s>
+        <s>Most of the people buied something from <choice><orig>an</orig><reg>a</reg></choice> union.</s>
+      </p>
+      <p>
+        <s>If we don't stop, they won't stop <choice><orig>eather</orig><reg>either</reg></choice>.</s>
+        <s>The author uses a metaphorical <choice><orig>languae</orig><reg>language</reg></choice> in line 22 <quote>hard look</quote>.</s>
+        <s>It means we should inform us and have to notice how the people being mistreated.</s>
+        <s>We have to look behind and have to see the issues of labour relation.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref><choice><orig>persuade</orig><reg>persuades</reg></choice> the reader of his opinion by underline his <choice><orig>argumentes</orig><reg>arguments</reg></choice> with stylistic devices.</s>
+        <s>He <choice><orig>speakes</orig><reg>speaks</reg></choice> to the reader and tries to make clear, that we have to change something.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

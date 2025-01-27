@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12l30_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Speaker A</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Speaker B</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s>I really don't understand why we have to read <name type="person">Shakespeare</name> in class.</s>
+      </u>
+      <u who="B">
+        <s>Well, in my opinion it is pretty important to do so.</s>
+        <s>He was a very important person and parts of his work <choice><orig>influnce</orig><reg>influence</reg></choice> our daily life.</s>
+      </u>
+      <u who="A">
+        <s>And what exactly do you mean?</s>
+        <s>Obviously not those sonnets.</s>
+      </u>
+      <u who="B">
+        <s>Well, indirectly yet!</s>
+        <s>But what I meant were the words he invented.</s>
+        <s>More than 1000 words would not even exist if he hadn't lived!</s>
+      </u>
+      <u who="A">
+        <s>OK, that is interesting.</s>
+        <s>But I don't know for example who invented all of the other words and I honestly don't really care about that.</s>
+        <s>Those people are dead, why should it matter what they invented?</s>
+      </u>
+      <u who="B">
+        <s>I get the point but still <name type="person">Shakespeare</name> lived only a few hundred years ago which <choice><orig>basicly</orig><reg>basically</reg></choice> means that the <choice><orig>english</orig><reg>English</reg></choice> language had already been invented back then.</s>
+        <s>Knowing that it is pretty impressing how he just added some words, isn't it?</s>
+      </u>
+      <u who="A">
+        <s>You are right!</s>
+        <s>But then why do we read his plays and sonnets and don't only discuss his words?</s>
+      </u>
+      <u who="B">
+        <s>Have you ever watched at the writing's topic?</s>
+        <s>They are about time, love, revenge, death or murder.</s>
+        <s>These topics don't ever stop being important.</s>
+        <s>One day I watched a documentary about prisoners who found out about Shakespeare's plays.</s>
+        <s>They said that the Contin just made them ask questions about themselves which help them becoming a better human.</s>
+        <s>Isn't that amazing?</s>
+      </u>
+      <u who="A">
+        <s>That is cool, yes!</s>
+        <s>And what do you think about the rumors that Shakespeare hasn't even lived?</s>
+        <s>I mean, image you are praising this guy and he has never been alive.</s>
+      </u>
+      <u who="B">
+        <s>Does that matter?</s>
+        <s>As you said no matter who wrote these verses he or she is dead now.</s>
+        <s>The thing that doesn't matter what the person left here after death and that are beautiful, thought through <choice><orig>textes</orig><reg>texts</reg></choice> that deserve to be read.</s>
+      </u>
+      <u who="A">
+        <s>Maybe you are right!</s>
+        <s>I should start reading them <choice><orig>to</orig><reg>too</reg></choice>.</s>
+        <s>If it helped prisoners to work on themselves why shouldn't it help me?</s>
+      </u>
+    </body>
+  </text>
+</TEI>

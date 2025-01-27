@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l16_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>to answer your question: if a school without racism can really exist.</s>
+      </p>
+      <p>
+        <s>The answer is no, there <choice><orig>can not</orig><reg>cannot</reg></choice> be a school without racism, but a school can commit against racism and get more racism sensible.</s>
+        <s>And we are on a good way.</s>
+        <s>The teachers know that students of colour get bad marks, even <choice><orig>tho</orig><reg>though</reg></choice> they did the same mistakes as others, but with the sensibilisation of racism, the daily <choice><orig>rascism</orig><reg>racism</reg></choice> can get reduced.</s>
+        <s>With denying the existance of racism, schools get nowhere, and so schools <choice><orig>startet</orig><reg>started</reg></choice> talking about it in lessons etc. to get everyone's attention on it.</s>
+        <s>Many students and teachers are not aware of racism, but just learn't it, because there is no <q><choice><orig>racism-Gen</orig><reg>racism-gene</reg></choice></q> at all.</s>
+      </p>
+      <p>
+        <s>I hope that answers your question.</s>
+      </p>
+      <p>
+        <signed>Greetings, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

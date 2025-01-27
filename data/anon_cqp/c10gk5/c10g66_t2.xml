@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g66_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article is <choice><orig>devided</orig><reg>divided</reg></choice> into four paragraphs with different functions.</s>
+        <s>The first and third ones are the argumentative parts of the text, while the second seems more informative and the last one appealing.</s>
+      </p>
+      <p>
+        <s>Some of his arguments are for example that way <choice><orig>to</orig><reg>too</reg></choice> much money was spend for translating and interpreting for those who do not speak English; more than £100<choice><abbr>m</abbr><expan>million</expan></choice> <ref target="c10gk5_1" type="line">(ll. 1-2)</ref> or that we are sending confused signals to the immigrant communities <ref target="c10gk5_1" type="line">(l. 3)</ref> because we are just telling them how to say it and not how to learn saying it.</s>
+        <s>For his argument in the third paragraph he uses a very personal example by writing about how lucky he was for learning English so quickly when he arrived in <name type="geo">Britain</name> <ref target="c10gk5_1" type="line">(l. 11)</ref> and how his parents wanted him to do so <ref target="c10gk5_1" type="line">(l. 13)</ref>.</s>
+        <s>Moreover he tells about his teacher not making acknowlegdements of his racial difference <ref target="c10gk5_1" type="line">(ll. 15-16)</ref>.</s>
+      </p>
+      <p>
+        <s>The argument of this paragraph is that schools today seem intent on <choice><orig>celebraiting</orig><reg>celebrating</reg></choice> difference but that he is not convinced it helps <ref target="c10gk5_1" type="line">(ll. 16-17)</ref>.</s>
+      </p>
+      <p>
+        <s>In the informative paragraph he's just giving the reader some information about the situation in <name type="geo">Bangladesh</name>, like that their society persists in economic stagnation <ref target="c10gk5_1" type="line">(ll. 7-8)</ref> or the sad fact that young males, with no hope of employment, can only choose between extremists in the mosque or the gangs in the street <ref target="c10gk5_1" type="line">(ll. 9-10)</ref>.</s>
+      </p>
+      <p>
+        <s>The appealing paragraph includes again his clear opinion and some advice to encourage people on helping to get a better situation of international communication.</s>
+        <s>He uses statements like <quote>we have to celebrate our diversity</quote> <ref target="c10gk5_1" type="line">(l. 18)</ref> or <quote>There is much to be gained in getting us all to speak English</quote> <ref target="c10gk5_1" type="line">(l. 23)</ref> and advice like curbing the translating and interpreting services <ref target="c10gk5_1" type="line">(ll. 20-21)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk5_1" type="author">Rahman</ref> also includes some stylistic devices to give his article more structure.</s>
+        <s>For example he starts three sentences in the third paragraph with the words <quote>My parents</quote> <ref target="c10gk5_1" type="line">(ll. 11-14)</ref>, which is called anaphor and used to get the <choice><orig>readers</orig><reg>readers'</reg></choice> attention and focus on this example.</s>
+        <s>The metaphor <quote>But you don't learn to stand on your own two feet if someone is holding you up</quote> <ref target="c10gk5_1" type="line">(ll. 18-19)</ref> is a sign for responsibility and says that we have to learn doing things by ourselves and without anyone's help.</s>
+        <s>Furthermore it's obviously that he uses the prepositions <quote>we</quote> <ref target="c10gk5_1" type="line">(l. 3)</ref> and <quote>us</quote> <ref target="c10gk5_1" type="line">(l. 23)</ref> to include the reader and make him more comfortable with this topic, so that he thinks about it as if it's its own problem.</s>
+        <s>Sometimes he uses short sentences like <quote>I was lucky</quote> <ref target="c10gk5_1" type="line">(l. 11)</ref> or <quote>I'm not convinced</quote> <ref target="c10gk5_1" type="line">(ll. 16-17)</ref> to make a clear statement.</s>
+        <s>Generally the article is written in the first-person narrator perspective from the author who uses daily language, probably to make the reader feel more comfortable.</s>
+        <s>He addresses young as well as older people but mostly those who are in touch with international communication.</s>
+        <s>The message that learning languages is important but with not enough help and attention is made very clear and still important today the learning of foreign languages never stops.</s>
+      </p>
+      <p>
+        <s>All in all the article has a great structure, is great to understand and makes the author's goal really present.</s>
+        <s>It's furthermore written very convincing.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

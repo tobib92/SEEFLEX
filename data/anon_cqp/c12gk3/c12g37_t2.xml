@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g37_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After summarising the extract it is important to have a look on how <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to convince <ref target="c12gk3_1" type="character">Macbeth</ref> to get a murder.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> starts to convince him with making him unconfident with his opinion.</s>
+      </p>
+      <p>
+        <s><quote>Was the hope drunk wherein you dressed yourself?</quote><ref target="c12gk3_1" type="line">(l. 8-9)</ref>.</s>
+        <s>It is a rhetorical question which has the intention to make <ref target="c12gk3_1" type="character">Macbeth</ref> insecure.</s>
+      </p>
+      <p>
+        <s>After that she wants to show that his minds are not clear in the moment <quote>And wakes it now to look so green and pale</quote> <ref target="c12gk3_1" type="line">(l. 10)</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> says that he looks hung over.</s>
+        <s>She wants to say that he does not look good at the moment and he does not think like when he is good.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Macbeth's</ref> wife says she values his love <quote>Such I account thy love</quote> <ref target="c12gk3_1" type="line">(l. 12)</ref>.</s>
+        <s>She means the love he has because of which he does not want to kill <ref target="c12gk3_1" type="character">Duncan</ref> but she lies.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> does not value his love if she would value it, she would not want him to be a <choice><orig>murder</orig><reg>murderer</reg></choice>.</s>
+      </p>
+      <p>
+        <s>After that she tries with a rhetorical question to <choice><orig>asks</orig><reg>ask</reg></choice> about his behaviour as a <choice><orig>men</orig><reg>man</reg></choice>.</s>
+        <s><quote>Are thou afeard to be the same in thine own act and valour as thou art in desire?</quote><ref target="c12gk3_1" type="line">(l. 12ff.)</ref>.</s>
+        <s>A <choice><orig>men</orig><reg>man</reg></choice> is not afraid to be brave but she wants to make him think about if he is a real <choice><orig>men</orig><reg>man</reg></choice> when he is afraid.</s>
+      </p>
+      <p>
+        <s>She continues with a strong word <quote>coward</quote> <ref target="c12gk3_1" type="line">(l. 16)</ref>.</s>
+      </p>
+      <p>
+        <s>It is clear no one <choice><orig>want</orig><reg>wants</reg></choice> to be a coward but she wants him to think that he would be a coward the whole life if he does not kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>Further <ref target="c12gk3_1" type="character">Macbeth's</ref> wife uses a comparison <quote>Like the poor cat i'th'adage?</quote> <ref target="c12gk3_1" type="line">(l. 18)</ref>.</s>
+        <s>She compares him with a cat that wants the fish but would not even have the fish's wet paw.</s>
+        <s>The fish is the title for a king in the comparison.</s>
+        <s>The wet paw could be compared to the sharp point of a crown.</s>
+      </p>
+      <p>
+        <s>In line 26 <quote>When you durst do it, then you were a <choice><orig>men</orig><reg>man</reg></choice></quote> tries <ref target="c12gk3_1" type="character">Lady Macbeth</ref> another time to persuade her husband with explaining him to be a <choice><orig>men</orig><reg>man</reg></choice>.</s>
+        <s>So he gets insecure if he is a real <choice><orig>men</orig><reg>man</reg></choice> and does what she wants to be a real <choice><orig>men</orig><reg>man</reg></choice> for her eyes.</s>
+      </p>
+      <p>
+        <s>Further <ref target="c12gk3_1" type="character">Lady Macbeth</ref> says that the right time is now <quote>They have made themselves and their fitness now does unmake you</quote> <ref target="c12gk3_1" type="line">(l. 30-31)</ref>.</s>
+        <s>She wants to convince him that it is the right moment to do it.</s>
+      </p>
+      <p>
+        <s>After that she uses a metaphor which she compares with his situation.</s>
+        <s><quote>I would, while it was smiling in my face, have plucked my nipple from his boneless gums</quote><ref target="c12gk3_1" type="line">(l. 33f.)</ref>.</s>
+        <s>So she wants to say while the baby is sweet to her she would be rude to the baby.</s>
+        <s>The same way <ref target="c12gk3_1" type="character">Macbeth</ref> should act.</s>
+        <s>Both of them had sworn to act like this.</s>
+        <s><quote>And dashed the brains our, had I sworn as you have done to this</quote><ref target="c12gk3_1" type="line">(l. 35f.)</ref>.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> is clever she uses <ref target="c12gk3_1" type="character">Macbeth's</ref> promises to get what she wants.</s>
+      </p>
+      <p>
+        <s>After a question from <ref target="c12gk3_1" type="character">Macbeth</ref>, <ref target="c12gk3_1" type="character">Lady Macbeth</ref> says to him that they would fail <quote>We fail</quote> <ref target="c12gk3_1" type="line">(l. 39)</ref>.</s>
+        <s>She wants him to encourage with this.</s>
+        <s>She wants to show no matter what happens they should kill <ref target="c12gk3_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>She continues with encouraging him <quote>But screw your courage to the sticking place, and we'll not fail</quote> <ref target="c12gk3_1" type="line">(l. 40f.)</ref>.</s>
+        <s>She says it he is brave they would not fail.</s>
+        <s>His wife wants to make <ref target="c12gk3_1" type="character">Macbeth</ref> confident in her minds and she wants to be her mind his minds.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> continues with telling her plan.</s>
+        <s>She shows that she knows <ref target="c12gk3_1" type="character">Duncan</ref> so she is not insecure in her plan.</s>
+        <s><quote>Whereto the rather shall his day's hard journey</quote><ref target="c12gk3_1" type="line">(l. 42)</ref>.</s>
+      </p>
+      <p>
+        <s>Further she uses a metaphor <quote>the receipt of reason a limbeck only</quote> <ref target="c12gk3_1" type="line">(l. 47f.)</ref>.</s>
+        <s>She shows with the metaphor that the servants will be so drunk that they will nothing know.</s>
+      </p>
+      <p>
+        <s>With a rhetorical question she ends <quote>Who shall bear the guilt of our quell?</quote> <ref target="c12gk3_1" type="line">(l. 52f.)</ref>.</s>
+        <s>She wants to show that no one can get the chance to see what will happen and she calls <ref target="c12gk3_1" type="character">Macbeth</ref> a <surplus>a</surplus> <quote>great quell</quote>.</s>
+        <s>She behaves like <ref target="c12gk3_1" type="character">Macbeth</ref> had said that he wants to do it.</s>
+        <s>Further she gives him a <quote>compliment</quote>.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c12gk3_1" type="character">Lady Macbeth</ref> persuades <ref target="c12gk3_1" type="character">Macbeth</ref> to be a <choice><orig>murder</orig><reg>murderer</reg></choice> with a lot of speaking and not allowing him to have his own thoughts.</s>
+        <s>She uses stylistic devices like metaphors to show him that he should be a brave <choice><orig>men</orig><reg>man</reg></choice> and not a coward.</s>
+        <s>She is very ambitious for power as you can see in this extract.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

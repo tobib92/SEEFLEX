@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> written by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref> in year <date>2013</date>, is about the issues of Muslim immigrants in the <name type="geo">USA</name>.</s>
+      </p>
+      <p>
+        <s>With this excerpt the author wants to show the reader that the life of a Muslim can be easily <choice><orig>negativly</orig><reg>negatively</reg></choice> influenced and that they have a harder times in their job <choice><orig>then</orig><reg>than</reg></choice> others.</s>
+      </p>
+      <p>
+        <s>This is for example represented by the fact that because of an <choice><orig>articel</orig><reg>article</reg></choice> in the <name type="misc"><choice><orig>New Yorker times</orig><reg>New York Times</reg></choice></name> lost his chance of a promotion and later on even got fired <ref target="b11gk2_1" type="line">(p. 73, l. 4-13)</ref>.</s>
+        <s>The excerpt is also a turning point for <ref target="b11gk2_1" type="character">Amir</ref> because since the excerpt his life has only gone downhill.</s>
+      </p>
+      <p>
+        <s>This is supported by the fact, that he found out that his wife cheated on him <ref target="b11gk2_1" type="line">(p. 71, l. 12-13 + p. 73, l. 31 - p. 74, l. 4)</ref>.</s>
+        <s>Which in turn made him hit his wife which is something he finds bad in the <choice><orig>Quaran</orig><reg>Quran</reg></choice> and is one of the reasons he says before why he wants to cut his ties with his Muslim <choice><orig>heiritage</orig><reg>heritage</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Another example for this is also when <ref target="b11gk2_1" type="character">Amir</ref> spits in <ref target="b11gk2_1" type="character">Isaac's</ref> face which represents his hate for Jewish people, which is something he was taught to do by his <choice><orig>Mother</orig><reg>mother</reg></choice> and of which influence he wanted to get rid of <ref target="b11gk2_1" type="line">(p. 72, l. 39-40)</ref>.</s>
+        <s>With this situation the author wants to show the reader, that even if you think you got rid of an influence <choice><orig>completly</orig><reg>completely</reg></choice>, you still will return sometimes to your odl behaviour pattern.</s>
+      </p>
+      <p>
+        <s>After the analysis I believe I was somewhat right with my thesis but not <choice><orig>completly</orig><reg>completely</reg></choice>.</s>
+        <s>Since I now think the author <ref target="b11gk2_1" type="author">Ayad Akhtar</ref> wants to show the reader, that it is nearly impossible to <choice><orig>completly</orig><reg>completely</reg></choice> get rid of an influence.</s>
+        <s>That's because something you will get into situations where you will use your old behaviour pattern without thinking about it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

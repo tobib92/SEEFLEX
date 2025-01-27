@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g39_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After <choice><orig>Summarising</orig><reg>summarising</reg></choice> the extract it is important to analyse the argumentation of <ref target="c12gk3_1" type="character">Lady Macbeth</ref> and to look for the line of argumentation and the stylistic devices.</s>
+      </p>
+      <p>
+        <s>In the first part of <ref target="c12gk3_1" type="character">Lady Macbeth</ref> <ref target="c12gk3_1" type="line">(l. 8-18)</ref>, she answers to the thoughts of <ref target="c12gk3_1" type="character">Macbeth</ref> and he does not want to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>She asks if he was drunk when he made the plan and if this is the reason he does not want to do this.</s>
+        <s>With this <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions she wants <ref target="c12gk3_1" type="character">Macbeth</ref> to overthink his descision and to convince him of doing it.</s>
+        <s>After that she uses the fact that <choice><orig>males</orig><reg>males'</reg></choice> honor is pretty important to them <ref target="c12gk3_1" type="line">(l. 16)</ref>.</s>
+        <s>With line 18: <quote>Like the poor cat i'th'adage?</quote> she tells that sometimes it is okay to have blood on the own hands to achieve a thing you want.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> answers <ref target="c12gk3_1" type="line">(l. 20-22)</ref> and it is exactly what <ref target="c12gk3_1" type="character">Lady Macbeth</ref> wanted to create.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> is angry and wants to protect his honor <ref target="c12gk3_1" type="line">(l. 22)</ref>.</s>
+        <s>She argues again <choice><orig>an</orig><reg>and</reg></choice> says that he said once that he needs perfect timing and that now there is the perfect timing <ref target="c12gk3_1" type="line">(l. 24-31)</ref>.</s>
+        <s>After that she compares it with killing her own baby to achieve her dream.</s>
+        <s>And this heavy fact underlines how important it is for <ref target="c12gk3_1" type="character">Lady Macbeth</ref> that her husband is going to be king <ref target="c12gk3_1" type="line">(l. 31-35)</ref>.</s>
+        <s>And also that he made promise and that she would never break a promise.</s>
+        <s>From line 40 to 53 <ref target="c12gk3_1" type="character">Lady Macbeth</ref> explains the plan and tells it like it is so easy so convince <ref target="c12gk3_1" type="character">Macbeth</ref> to do it.</s>
+        <s>And in the end of the scene <ref target="c12gk3_1" type="character">Macbeth</ref> agrees and <ref target="c12gk3_1" type="character">Lady Macbeth</ref> succeeded.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> works with many <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions <ref target="c12gk3_1" type="line">(l. 9, 14, 25, 51)</ref>.</s>
+        <s>With this type of argumentation <ref target="c12gk3_1" type="character">Lady Macbeth</ref> always lets it seem to be so easy and normal.</s>
+        <s><choice><orig>also</orig><reg>Also</reg></choice> she attacks his honor again and again and asks him if he is not brave enough.</s>
+        <s>With this line of argumentation <ref target="c12gk3_1" type="character">Macbeth</ref> has to <choice><orig>proof</orig><reg>prove</reg></choice> that she is wrong.</s>
+        <s>The next big point is that she refers to the fact that she would kill her own baby for her dreams <ref target="c12gk3_1" type="line">(l. 31-36)</ref>.</s>
+        <s>And after this <ref target="c12gk3_1" type="character">Macbeth</ref> is under a lot of pressure.</s>
+        <s>Also the fact that he promised to kill <ref target="c12gk3_1" type="character">Duncan</ref> leaves him at a very bad point if he will not do it.</s>
+      </p>
+      <p>
+        <s>The last strategy of <ref target="c12gk3_1" type="character">Lady Macbeth</ref> works in the end.</s>
+        <s>It is, that she explains the whole plan and it looks like it is so easy <ref target="c12gk3_1" type="line">(l. 40-53)</ref>.</s>
+        <s>After this <ref target="c12gk3_1" type="character">Macbeth</ref> finally is convinced.</s>
+        <s>Also it is important to say that <ref target="c12gk3_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> ends the parts of <ref target="c12gk3_1" type="character">Lady Macbeth</ref> often with a question.</s>
+        <s>This <choice><orig>las</orig><reg>was</reg></choice> the reason that <ref target="c12gk3_1" type="character">Macbeth</ref> has to answer and that he <choice><orig>canot</orig><reg>cannot</reg></choice> leave the question unanswered.</s>
+        <s>Also there is one <choice><orig>Anaphora</orig><reg>anaphora</reg></choice> in this scene in line 31 to 33.</s>
+        <s>Both sentences start with <quote>I</quote> and this has the effect of underlining what she would do to get what she wants.</s>
+        <s>There also is a <choice><orig>klimax</orig><reg>climax</reg></choice> in line 28 to 31.</s>
+      </p>
+      <p>
+        <s>It is not a normal <choice><orig>klimax</orig><reg>climax</reg></choice> but the tension is <choice><orig>deffenetly</orig><reg>definitely</reg></choice> rising and with emphasizing that there is <quote>now</quote> the time and the place to do this crime she brings up a very big point.</s>
+      </p>
+      <p>
+        <s>All in all the author creates with <ref target="c12gk3_1" type="character">Lady Macbeth</ref> a strong <choice><orig>women</orig><reg>woman</reg></choice> that knows what she wants and who knows how to manipulate.</s>
+        <s>The author also does not work with many stylistic devices.</s>
+        <s>Just a few like mentioned.</s>
+        <s>For example <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions and comparisons.</s>
+        <s>Her language in general is very <gap reason="illegible" quantity="1" unit="word">demand</gap>.</s>
+        <s>She puts <ref target="c12gk3_1" type="character"> Macbeth</ref> under pressure or in a bad spot, so that he has to react like she wants him to.</s>
+      </p>
+      <p>
+        <s>In general there needs to be said that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is the one who presses on <ref target="c12gk3_1" type="character">Macbeth</ref> to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>She knows how to create a guilty conscience and uses that in the conversation with <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>She manipulates him.</s>
+      </p>
+      <p>
+        <s>After analysing the extract and looking for the line of <choice><orig>arguementation</orig><reg>argumentation</reg></choice> and the stylistic devices it may be important or useful to think of what <ref target="c12gk3_1" type="character">Macbeth</ref> is going to do or what he thinks after his conversation with his wife.</s>
+        <s>This part is written in <choice><orig>modern english</orig><reg>Modern English</reg></choice> to also create a contrast between <choice><orig>shakespearian english</orig><reg>Shakespearean English</reg></choice> and <choice><orig>modern englisch</orig><reg>Modern English</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

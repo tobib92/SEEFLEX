@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g30_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Jonathan,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+      </p>
+      <p>
+        <s>You remember last time we face timed?</s>
+        <s>You told me about your idea to spend a year in <choice><orig>germany</orig><reg>Germany</reg></choice> after school.</s>
+        <s>Yesterday I found an article about Berlin <choice><orig>wich</orig><reg>which</reg></choice> might interest you.</s>
+      </p>
+      <p>
+        <s>It is from <ref target="a12gk3_2" type="author">Marina Kormbaki</ref>, called <ref target="a12gk3_2" type="title">Berlin spricht Englisch</ref> , <choice><orig>wich</orig><reg>which</reg></choice> means Berlin speaks <choice><orig>english</orig><reg>English</reg></choice> and was published in the <name type="misc">Hannoversche Allgemeine</name>, a <choice><orig>german</orig><reg>German</reg></choice> newspaper at <date><choice><orig>july</orig><reg>July</reg></choice> 15, 2016</date>.</s>
+      </p>
+      <p>
+        <s>The article is about the live in <name type="geo">Berlin</name> and how it changed through the immigration mainly from <choice><orig>english-speaking</orig><reg>English-speaking</reg></choice> countries.</s>
+        <s><ref target="a12gk3_2" type="author">Marina Kormbaki</ref> describes how many people out of this countries come to Berlin to make holidays or do their course.</s>
+      </p>
+      <p>
+        <s>But many of these people stay in Berlin.</s>
+        <s>The author describes that especially if you walk through the big areas like <quote><name type="geo">Neukölln</name>, <name type="geo">Kreuzberg</name> and <name type="geo">Mitte</name></quote> that one will <choice><orig>acknoledge</orig><reg>acknowledge</reg></choice> <choice><orig>immediatly</orig><reg>immediately</reg></choice> next to influence of <choice><orig>turkish</orig><reg>Turkish</reg></choice> and <choice><orig>arabic</orig><reg>Arabic</reg></choice> culture there is a major influece out of the alsace countries.</s>
+      </p>
+      <p>
+        <s>she describes that often for example in restaurants the special meals our only written down in <choice><orig>english</orig><reg>English</reg></choice> and one may have a hard time without speaking <choice><orig>english</orig><reg>English</reg></choice> properly.</s>
+      </p>
+      <p>
+        <s>She relates to <name type="person">David Walker</name> <choice><orig>wich</orig><reg>which</reg></choice> says as much as Berlin has nothing to do with the rest of <choice><orig>germany</orig><reg>Germany</reg></choice> anymore.</s>
+        <s>The article describes Berlin as the world-city in <choice><orig>wich</orig><reg>which</reg></choice> multiple nations come together.</s>
+      </p>
+      <p>
+        <s>The Author describes the café <choice><orig>wich</orig><reg>which</reg></choice> could <choice><orig>basicly</orig><reg>basically</reg></choice> could stand in every of the big <choice><orig>english-speaking</orig><reg>English-speaking</reg></choice> <choice><orig>citys</orig><reg>cities</reg></choice> in the kind it is designed and <choice><orig>appears</orig><reg>appeares</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The main point is, that one get the full diversity of culture that one may get in the big <choice><orig>citys</orig><reg>cities</reg></choice> like <name type="geo">New York City</name>, <name type="geo">Los Angeles</name>, <name type="geo">Toronto</name>, <name type="geo">Sydney</name> or <name type="geo">London</name> but with very minimalistic taste in <choice><orig>comparinson</orig><reg>comparison</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Especially the art, culture and the nightlife are aspects that make <name type="geo">Berlin</name> very attractive and after all the rents are still in a low layer if compared to other world <choice><orig>citys</orig><reg>cities</reg></choice>.</s>
+        <s>So after all I found it very <choice><orig>intesting</orig><reg>interesting</reg></choice> for you and there were very many points that may speak for <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s>I hope I could give you something interesting with the article that may help you on your journey.</s>
+      </p>
+      <p>
+        <s>I hope to see you soon in Germany and maybe in Berlin.</s>
+      </p>
+      <p>
+        <s>I really love the city as well as the <choice><orig>autor</orig><reg>author</reg></choice> did.</s>
+      </p>
+      <p>
+        <s>I hope you do well!</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

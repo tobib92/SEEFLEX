@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> presents his view with many stylistic devices and a clear line of argument.</s>
+        <s>He starts with a comprehension of his view to settle the reader into the topic.</s>
+        <s>Then, he presents the situation using statistics and numbers like <quote>More than 10.000 fewer language <name type="misc">A-level</name> exams were taken last year than at the end of the 1990s</quote> <ref target="a12gk3_1" type="line">(l. 9-10)</ref>.</s>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> shows why learning languages would be essentional for the future of the country but mainly for oneself.</s>
+        <s>To illustrate this, he refutes con arguments by using irony: <quote>Perfectly intelligent people will tell you not to worry</quote> <ref target="a12gk3_1" type="line">(l. 12)</ref>.</s>
+        <s>He also uses the antithesis <quote>Everyone speaks English in the world of business (they don't), your iPhone will now translate road signes for you (but you may crash [...])</quote> <ref target="a12gk3_1" type="line">(ll. 12-13)</ref> for that purpose.</s>
+        <s>The enumeration <quote>Languages are essential for out trade, prosperity, culturalexports, diplomacy and national security</quote> <ref target="a12gk3_1" type="line">(ll. 17-18)</ref> emphasizes he importance of learning languages and supports the author's view.</s>
+        <s>The pronoun <quote>our</quote> creates a community feeling to involve the reader.</s>
+        <s>Authority arguments like <quote>The most recent <name>CBI/Pearson Education and Skills Survey</name> showed [...]</quote> <ref target="a12gk3_1" type="line">(l. 19)</ref> increases credibility.</s>
+      </p>
+      <p>
+        <s>The article is published in a quality paper which is apparent through complex sentence strucutures, the use of technical terms and the predominant use of formal language.</s>
+        <s>Nevertheless the article is not too hard to understand to address a larger audience.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>intentention</orig><reg>intention</reg></choice> of the author is to inform about the problem and to motivate parents to bring their children to learning foreign languages or motivate students to learn them by visiting language courses at university, for example.</s>
+      </p>
+      <p>
+        <s>To me, the author gives convincing arguments.</s>
+        <s>I agree with him that more students should learn languages in school or university.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

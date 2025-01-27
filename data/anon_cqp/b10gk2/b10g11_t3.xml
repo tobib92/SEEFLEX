@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g11_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I agree with <name type="person">Angie <choice><orig>Thomas</orig><reg>Thomas'</reg></choice></name> opinion about the power of story telling.</s>
+        <s>Because I really like reading and do it very often.</s>
+        <s>I had many good books with a big impact on me.</s>
+        <s>And this several times.</s>
+        <s>So in this point I <choice><orig>completly</orig><reg>completely</reg></choice> agree with her.</s>
+        <s>But it depends on the book.</s>
+        <s>I had luck because almost every book I had was amazing in my opinion.</s>
+        <s>But not every book.</s>
+        <s>I can't say if <ref target="b10gk2_1" type="title">The Hate U Give</ref>, would have a big impact on me because I didn't finish it yet.</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> because I don't really like the book so I have my doubts if it would have <choice><orig>a</orig><reg>an</reg></choice> impact on me.</s>
+        <s>The film is in my opinion better even a film I would watch if I could <choice><orig>dicide</orig><reg>decide</reg></choice>.</s>
+        <s>So I had to watch it in class but I also would watch it at home so I liked it.</s>
+        <s>The whole film didn't have an impact on me until the end.</s>
+        <s>In the end of the movie <ref target="b10gk2_1" type="character">Sekani</ref> pulled out the weapon and aimed for someone.</s>
+      </p>
+      <p>
+        <s>Honestly this scene opened my eyes.</s>
+        <s>Because I didn't get the meaning of <name type="person"><choice><orig>Tupacs</orig><reg>Tupac's</reg></choice></name> sentence <quote>The hate you give little infants fuck everyone</quote>.</s>
+        <s>In exactly this scene I got it suddenly.</s>
+        <s>I don't know why but as I read it in the book or <choice><orig>heared</orig><reg>heard</reg></choice> it earlier in the movie I really was frustrated.</s>
+        <s>Because I wasn't able to get the meaning.</s>
+        <s>I <choice><orig>rereaded</orig><reg>reread</reg></choice> in the book a lot but it wouldn't help.</s>
+        <s>And then suddenly in this scene I got it.</s>
+        <s>It was a happy end in the film.</s>
+        <s>And a little happy end for me too to be honest because I was really frustrated.</s>
+        <s>The rest of the film didn't have an impact on me.</s>
+        <s>But this scene.</s>
+        <s>This sentence really <choice><orig>have</orig><reg>has</reg></choice> a big impact on me.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

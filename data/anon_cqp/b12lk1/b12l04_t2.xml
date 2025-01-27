@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12lk1_1" type="author">Peter Daszak's</ref> goal is to convince his readers to protect nature and wildlife to pretend contact with infected animals living there and stop the spreading of diseases.</s>
+      </p>
+      <p>
+        <s>To convince his readers make a point, <ref target="b12lk1_1" type="author">Daszak</ref> creates a lot of images through examples and metaphoric language.</s>
+        <s>This is how he brings the importance of the topic and problems to his <choice><orig>readers</orig><reg>readers'</reg></choice> attention.</s>
+      </p>
+      <p>
+        <s>The article starts with a headline that confuses the reader and catches his attention through connecting the topics of pandemic and protection of the rainforests.</s>
+        <s>The author then starts his text with an example for a disease outbreak that was caused by disturbing the nature.</s>
+        <s>Through the many details the author uses, like the name of the child <ref target="b12lk1_1" type="line">(l. 8)</ref> the reader gets a very accurate image of the situation, just like while reading a story.</s>
+      </p>
+      <p>
+        <s>The author then goes on by <choice><orig>generalzing</orig><reg>generalizing</reg></choice> this example and states in a short sentence that <quote>Every pandemic starts like this</quote> <ref target="b12lk1_1" type="line">(l. 11)</ref>.</s>
+        <s>The two other examples he then goes on to write about contain many details as well.</s>
+        <s>Through naming well known viruses as <name type="misc">Ebola</name>, <name type="misc">HIV</name> and even the most current one, <name type="misc">Covid-19</name> the author of weeks the <choice><orig>readers</orig><reg>readers'</reg></choice> interest because he hopes to get a solution at the end of the text.</s>
+        <s>Also because nowadays nearly everyone is <choice><orig>personaly</orig><reg>personally</reg></choice> affected by <name type="misc">Covid-19</name>.</s>
+      </p>
+      <p>
+        <s>Following the author explains it is possible to be infected by animals and why rainforests are so important.</s>
+        <s>Here he uses many numbers.</s>
+        <s>He also repeats the pattern from line 11 when he states <quote>Most pandemics begin...</quote> <ref target="b12lk1_1" type="line">(l. 20)</ref> and stresses the importance of the matter by generalizing it.</s>
+        <s>After explaining how humans destroy the nature <choice><orig>imediately</orig><reg>immediately</reg></choice> connected to humans <choice><orig>beeing</orig><reg>being</reg></choice> infected.</s>
+      </p>
+      <p>
+        <s>Here he uses the personal example of <name type="misc">Covid-19</name> again as <quote>the latest of our foes</quote> which is transported <quote>to a city near you</quote> <ref target="b12lk1_1" type="line">(l. 35)</ref>.</s>
+      </p>
+      <p>
+        <s>Through using inclusive language he <choice><orig>adresses</orig><reg>addresses</reg></choice> the reader direct so he gets the feeling he is involved in the whole situation.</s>
+        <s>But by using <quote>we</quote> at the same time the author makes sure the reader does not feel blamed or gets offended but supported to change something.</s>
+        <s>Espcially when <ref target="b12lk1_1" type="author">Daszak</ref> explains <quote>our current approach</quote> <ref target="b12lk1_1" type="line">(l. 33)</ref> would not be enough and that it would be <choice><orig>neccessary</orig><reg>necessary</reg></choice> to stop the spreading from the beginning he uses a lot of inclusive language and dramatic contrasts such as <quote>while we wait [...] hundrets of people have died</quote> <ref target="b12lk1_1" type="line">(l. 38)</ref> and dramatic frightening numbers <ref target="b12lk1_1" type="line">(l. 41)</ref> to stress the importance to act together.</s>
+        <s>Following he gives solutions to the readers on what has to be changed.</s>
+        <s>He stresses the power of the consumers through giving a positive, <choice><orig>successfull</orig><reg>successful</reg></choice> example of campaigns against palm oil <ref target="b12lk1_1" type="line">(l. 48)</ref>.</s>
+      </p>
+      <p>
+        <s>And then even explains the <name type="misc">Corona</name> crisis should be seen as a chance for a new start.</s>
+        <s>By using the metaphor <quote>to green our economies</quote> he again refers to the importance of nature for the prevention of diseases.</s>
+      </p>
+      <p>
+        <s>He ends his article with the thesis only by accepting the influence humans and their behavior had on nature and then causing the pandemic things might change for the future.</s>
+      </p>
+      <p>
+        <s>All in all, the author starts his article with examples on how diseases spread, then gives <choice><orig>explenations</orig><reg>explanations</reg></choice> for these processes and <choice><orig>finaly</orig><reg>finally</reg></choice> names things people should <choice><orig>to</orig><reg>do</reg></choice> to prevent happenings like this for the future.</s>
+      </p>
+      <p>
+        <s>To convince the reader the author uses simple but professional language and explains terms like Anthropocene <ref target="b12lk1_1" type="line">(l. 29)</ref> so his readers can follow his argumentation easier and still get the <choice><orig>fealing</orig><reg>feeling</reg></choice> his text is professional.</s>
+        <s>For the same reason he also uses many numbers and facts, but at the same time gives many <choice><orig>detailled</orig><reg>detailed</reg></choice> examples that resemble little stories, so his readers can imagine the consequences of disturbing the nature better.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

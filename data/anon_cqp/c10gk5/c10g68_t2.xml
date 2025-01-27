@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g68_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In consequence of that that the author <choice><orig>tell</orig><reg>tells</reg></choice> the reader something about his life <choice><orig>expecially</orig><reg>especially</reg></choice> his life in school, it makes the reader closer <choice><orig>tho</orig><reg>to</reg></choice> the author, so I would say the text is written for younger people because he <choice><orig>tell</orig><reg>tells</reg></choice> us something about <surplus>about</surplus> his life in school.</s>
+        <s>In following of that is the language from the article easy to read but it's also formal.</s>
+        <s>The sentence are written in a length which is easy to read.</s>
+        <s>The article is from <date>2016</date> and in consequence that the author <choice><orig>tell</orig><reg>tells</reg></choice> something about the globalization you also can know that <choice><orig>its</orig><reg>it's</reg></choice> from a time later then <date>2000</date>.</s>
+        <s>To make clear that you often need more than one language, the author <choice><orig>use</orig><reg>uses</reg></choice> <choice><orig>a</orig><reg>an</reg></choice> alliteration <ref target="c10gk5_1" type="line">(ll. 13-14)</ref>.</s>
+        <s><ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> also <choice><orig>use</orig><reg>uses</reg></choice> a <choice><orig>methaphor</orig><reg>metaphor</reg></choice> in line 19 <quote>your own two feet</quote>.</s>
+        <s>Standing on your own two <choice><orig>feets</orig><reg>feet</reg></choice> is a normal thing but in this context it means not to stand it means that you need to sail down and do what you want and don't do what the other want.</s>
+        <s>In line 18 the author <choice><orig>say</orig><reg>says</reg></choice> that we all celebrate our diversity.</s>
+        <s>With this sentence the author <choice><orig>give</orig><reg>gives</reg></choice> the reader the feeling that <ref target="c10gk5_1" type="author">Zia</ref> <choice><orig>tell</orig><reg>tells</reg></choice> this from face to face to the reader.</s>
+        <s>The article is <choice><orig>devided</orig><reg>divided</reg></choice> in <choice><orig>for</orig><reg>four</reg></choice> paragraphs to make a structure.</s>
+        <s>It also <choice><orig>make</orig><reg>makes</reg></choice> it easier to read the text.</s>
+      </p>
+      <p>
+        <s>All in all I would say the article is an article which is easy to read and <choice><orig>give</orig><reg>gives</reg></choice> us good aspects of human being <ref target="c10gk5_1" type="line">(l. 18)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

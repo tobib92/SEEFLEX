@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g37_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>yesterday was the <date>25th August 2014</date> and I read an article from the <name type="misc">Zeit Online</name> from <ref target="a11gk3_2" type="author">Alexandra Endres</ref>.</s>
+        <s>I was really shocked when I saw this bad <choice><orig>informations</orig><reg>information</reg></choice>.</s>
+        <s>So let me tell you something about what I <choice><orig>learnd</orig><reg>learned</reg></choice>.</s>
+        <s>Did you know that black people are deprived?</s>
+      </p>
+      <p>
+        <s>And that although racism was forbidden <choice><orig>cince</orig><reg>since</reg></choice> 50 years.</s>
+        <s>For example two weeks ago there was <choice><orig>an</orig><reg>a</reg></choice> police officer who shot <choice><orig>an</orig><reg>a</reg></choice> dark skinned man.</s>
+        <s>And that was not because the man made something wrong.</s>
+        <s>It just happened because racism is almost a big problem in the society.</s>
+        <s>And even if this all is <choice><orig>officialy</orig><reg>officially</reg></choice> forbidden.</s>
+        <s>Black people mostly have a disadvantage in their <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>So I wanted from you to know if you have experience with situations like this one.</s>
+        <s>Maybe you saw someone who get problems because of his <choice><orig>skinn</orig><reg>skin</reg></choice> colour.</s>
+        <s>Or maybe you have experience on yourself.</s>
+        <s>Maybe some people said <choice><orig>somethig</orig><reg>something</reg></choice> bad to you.</s>
+        <s>So please tell me because I really want it to know.</s>
+      </p>
+      <p>
+        <s>The most of these black skinned people haven't the chance to make <choice><orig>her</orig><reg>their</reg></choice> graduation.</s>
+        <s>Most of these cannot go to work.</s>
+        <s>So many people living poor in criminal <choice><orig>nighboorhoods</orig><reg>neighborhoods</reg></choice>.</s>
+      </p>
+      <p>
+        <s>And it feels like nobody takes care of these people.</s>
+        <s><choice><orig>These</orig><reg>This</reg></choice> group of people is not allowed to live a normal or a good life.</s>
+        <s>The president banned the racism on a paper thought it is done with it.</s>
+        <s>But how we can see it is nothing happened.</s>
+        <s>Not even a little bit.</s>
+      </p>
+      <p>
+        <s>So please tell me how do you think about these problems.</s>
+      </p>
+      <p>
+        <signed>Faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

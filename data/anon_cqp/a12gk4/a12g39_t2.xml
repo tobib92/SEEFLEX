@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g39_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his comment, <ref target="a12gk4_1" type="author">John Worne</ref> uses a personal kind of language which will be <choice><orig>analized</orig><reg>analyzed</reg></choice> in the following.</s>
+      </p>
+      <p>
+        <s>The author starts with an <choice><orig>epipher</orig><reg>epiphora</reg></choice> <quote>can't, won't, don't</quote> <ref target="a12gk4_1" type="line">(l. 1)</ref> which summarizes what he thinks is the British view on foreign <choice><orig>language</orig><reg>languages</reg></choice>.</s>
+        <s>Besides the obvious effect of this being <choice><orig>easy</orig><reg>easily</reg></choice> memorizable, those three words actually summarize the problem the <name type="geo">UK</name> has from <ref target="a12gk4_1" type="author"><choice><orig>Wornes</orig><reg>Worne's</reg></choice></ref> point of view.</s>
+        <s>People can't speak other languages.</s>
+        <s>This is a harsh treatment but by using inclusive language, like one can see in the often used word <quote>our</quote> <ref target="a12gk4_1" type="line">(i.e. l. 1, 7, or 25,...)</ref>, he makes this <choice><orig>an</orig><reg>a</reg></choice> less insulting statement.</s>
+        <s>In combination with <choice><orig>an</orig><reg>a</reg></choice> slightly ironic <choice><orig>choise</orig><reg>choice</reg></choice> of words, like <quote>Perfectly intelligent people</quote> <ref target="a12gk4_1" type="line">(l. 18)</ref>, the inclusive language makes him seem more sympathetic.</s>
+        <s>By including counter argumentation <ref target="a12gk4_1" type="line">(cf. ll. 18-23)</ref>, even while using ironic language and negating them in short comments, <ref target="a12gk4_1" type="author">Worne</ref> seems to be involved in this topic and <gap reason="illegible" quantity="1" unit="word">mal</gap> adjective.</s>
+        <s>But besides the irony he still uses direct language to show his opinion, for example in <quote>Cobblers</quote> <ref target="a12gk4_1" type="line">(l. 23)</ref>.</s>
+        <s>In the next paragraph one can see an enumeration.</s>
+        <s>By calling all important states results of <quote>trade, prosperity, cultural exports, diplomacy and national security</quote> <ref target="a12gk4_1" type="line">(ll. 26f.)</ref>, <choice><orig>The</orig><reg>the</reg></choice> author makes this problem of language knowledge seem like an essential states matter and an almost globalized concern.</s>
+        <s>Through his mentioning <choice><orig>statistiks</orig><reg>statistics</reg></choice> which show the decrease of school qualifications in foreign languages <ref target="a12gk4_1" type="line">(cf. ll. 13-17)</ref> and the need of language skills in business <ref target="a12gk4_1" type="line">(cf. ll. 28-32)</ref> he even strengthens those effects and underlines his argumentation with numbers, which make it more credible.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> summarizes these <choice><orig>statistiks</orig><reg>statistics</reg></choice> by explaining that for a company it is much more efficient to have a worker being able to use foreign language instead of having a worker and needing a translator <ref target="a12gk4_1" type="line">(cf. ll. 40-43)</ref>.</s>
+        <s>He uses this example to underline the problem of companies hiring abroad, mentioned before <ref target="a12gk4_1" type="line">(cf. ll. 32-35)</ref>.</s>
+        <s>In his appeal to the <quote>parents of the UK (and I'm one)</quote> <ref target="a12gk4_1" type="line">(l. 46)</ref>, besides including himself again, he explains that schools can only offer to educate in language <ref target="a12gk4_1" type="line">(cf. l. 51)</ref> but it is the job of the parents to shift the view on language in the households <ref target="a12gk4_1" type="line">(cf. ll. 46-49)</ref> and make more students use these <choice><orig>oportunities</orig><reg>opportunities</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In his comment <ref target="a12gk4_1" type="author">John Worne</ref> uses a special combination of irony, inclusive language and serious argumentation which makes him on the one hand seem to be harsh and strict while on the other hand it also <gap reason="illegible" quantity="1" unit="word">softs</gap> his treatment and makes him seem sympathetic to the reader.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g31_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract is <ref target="c12gk2_1" type="scene">Act 1, Scene 7</ref> of the novel <ref target="c12gk2_1" type="title">Macbeth</ref>, written by <ref target="c12gk2_1" type="author">Shakespeare</ref> and deals with a <choice><orig>dialog</orig><reg>dialogue</reg></choice> between <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and her husband, where she tries to convince him of murdering <ref target="c12gk2_1" type="character">King Duncan</ref>.</s>
+      </p>
+      <p>
+        <s>In the first paragraph <ref target="c12gk2_1" type="line">(ll. 1-8)</ref> <ref target="c12gk2_1" type="character">Macbeth</ref> lefts the chamber and tells his wife that he thinks that it is not a good idea to murdering the King, because he feels insecure.</s>
+        <s>But in the second paragraph <ref target="c12gk2_1" type="line">(ll. 9-19)</ref> <ref target="c12gk2_1" type="character">Lady Macbeth</ref> relates that the convenient is favorable and that she supports him with all her love.</s>
+      </p>
+      <p>
+        <s>The next paragraph <ref target="c12gk2_1" type="line">(ll. 20-35)</ref> is about that <ref target="c12gk2_1" type="character">Macbeth</ref> <choice><orig>have</orig><reg>has</reg></choice> to reveal this plan, so that he can <choice><orig>shows</orig><reg>show</reg></choice> who he is.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> compares his assignment with her role as mother.</s>
+      </p>
+      <p>
+        <s>In the last paragraph <ref target="c12gk2_1" type="line">(ll. 36-53)</ref> his wife explains the plan and that it will worth it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

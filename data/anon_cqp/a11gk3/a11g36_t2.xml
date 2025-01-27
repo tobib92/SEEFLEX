@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author <ref target="a11gk3_1" type="author">Angie Thomas</ref> makes use of means of point of view and <choice><orig>differend</orig><reg>differend</reg></choice> narrative techniques in order to present <ref target="a11gk3_1" type="character">Starr's</ref> state of mind.</s>
+      </p>
+      <p>
+        <s>First, the given text extract is told by a first-person-protagonist-narrator, who is <ref target="a11gk3_1" type="character">Starr Carter</ref>.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> told the story from her own perspective which means that she has a limited point of view.</s>
+        <s>This first-person-protagonist-narrator helps the reader to feel <ref target="a11gk3_1" type="character">Starr's</ref> situation and for him it feels like he is a part of the crowd.</s>
+      </p>
+      <p>
+        <s>Furthermore the author <ref target="a11gk3_1" type="author">Angie Thomas</ref> makes use of <choice><orig>differend</orig><reg>differend</reg></choice> narrative techniques.</s>
+      </p>
+      <p>
+        <s>First of all, the text is written in a mode which makes the reader think he is a part of the situation because all is told detailed.</s>
+      </p>
+      <p>
+        <s>Besides, the author makes use of a flashback <ref target="a11gk3_1" type="line">(ll. 6-7, ll. 19-22)</ref> which is split in two sections.</s>
+      </p>
+      <p>
+        <s>This flashback <choice><orig>remind</orig><reg>reminds</reg></choice> the reader to the dramatic scene where <ref target="a11gk3_1" type="character">Khalil</ref> got shot by the police officer and <choice><orig>point</orig><reg>points</reg></choice> out again the dramatic circumstances.</s>
+      </p>
+      <p>
+        <s>Moreover there are many interior <choice><orig>monologes</orig><reg>monologues</reg></choice> <ref target="a11gk3_1" type="line">(cf. ll. 43-44, cf. l. 48)</ref> which state how much tension is in <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+        <s>This brings the reader more in <ref target="a11gk3_1" type="character">Starr's</ref> thoughts and feelings which helps the reader to be closer to the situation.</s>
+      </p>
+      <p>
+        <s>Furthermore there is a flash-forward at the end <ref target="a11gk3_1" type="line">(cf. l. 56)</ref> to underline that they will keep protesting, when the police doesn't give them a reason to think otherwise.</s>
+        <s>This has also an effect on the reader, who now <choice><orig>want</orig><reg>wants</reg></choice> to know whether it will be better or not.</s>
+      </p>
+      <p>
+        <s>At the end, the author makes use again of a flashback to emphasize that <ref target="a11gk3_1" type="character">Khalil</ref> lived and could still live if the <gap reason="illegible" quantity="1" unit="word">anariu</gap> doesn't have so a big problem with racism.</s>
+      </p>
+      <p>
+        <s>All in all, the author presents <ref target="a11gk3_1" type="character">Starr's</ref> state of mind in a way, that the reader <choice><orig>feel</orig><reg>feels</reg></choice> he is a part of this extract and he was in the crowd as participant.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

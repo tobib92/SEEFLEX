@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g51_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>from: <name type="person">Jane</name>
+		to: <name type="person">David</name>
+		<s>subject: Your plans to move to <name type="geo">Berlin</name></s>
+		date:<date>30/11/2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear David,</salute>
+      </p>
+      <p>
+        <s>how has it been?</s>
+        <s>I heard you won your tournament last weekend, how was it?</s>
+        <s>Anyway, I found this article called <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref> which was posted on the <name type="misc">Hannoversche Allgemeine Zeitung</name> on the <date>15th of July 2016</date> and was written by <ref target="a12gk4_2" type="author">Marina Kormbaki</ref>.</s>
+        <s>The title means <name type="geo">Berlin</name> speaks English and I thought that this could help you with your decision to move to <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s>So first of all <ref target="a12gk4_2" type="author">Kormbaki</ref> compares <name type="geo">Berlin</name> with <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name>.</s>
+        <s>This city is in a change as of <gap reason="illegible" quantity="1" unit="word">takylo</gap>.</s>
+        <s>A lot of tourists and students are coming to <name type="geo">Berlin</name> and although a lot of them leave eventually they helped in developing a surrounding that is attractive for English speaking people.</s>
+        <s>For example the fact, that you have the advantage when you want to go out eat something in <name type="geo">Neukölln</name> or <gap reason="illegible" quantity="1" unit="word">subillerkiez</gap> because a lot of the restaurants promote their dishes in <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Or that there are a lot of shops and cafés that are undistinguishable from ones in <name type="geo">Toronto</name>, <name type="geo">Hongkong</name> or <name type="geo">Los Angeles</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">David Walker</name>, an <choice><orig>english</orig><reg>English</reg></choice> programmer says that <name type="geo">Berlin</name> is different from the other parts of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> and that people at his work talk <choice><orig>english</orig><reg>English</reg></choice> all the time.</s>
+        <s>There are bookstores dedicated to <choice><orig>english</orig><reg>English</reg></choice> books only and countless other shops that have daily <choice><orig>english</orig><reg>English</reg></choice> cutsomers.</s>
+        <s>So you would have a good and easy time in <name type="geo">Berlin</name>, especially with the relatively low prizes for apartments but also every other imaginable things like café.</s>
+      </p>
+      <p>
+        <s>I hope I could help you out.</s>
+      </p>
+      <p>
+        <s>Text me back soon.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

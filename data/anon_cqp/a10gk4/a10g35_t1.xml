@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g35_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Text</orig><reg>text</reg></choice> is written by <ref target="a10gk4_1" type="author">Ankita Mitra</ref>, published on <date>February 5, 2014</date> is about environmental pollution and the consistent.</s>
+      </p>
+      <p>
+        <s>The causes for this problem are vapor or oxygen, nitrogen, which living beings have their sustanance.</s>
+      </p>
+      <p>
+        <s>At secondly over 2000 people including <choice><orig>woman</orig><reg>women</reg></choice> and children <choice><orig>wer</orig><reg>were</reg></choice> killed, and hundreds were severely hurt, because it is a result of gas from a multi-national union carbide.</s>
+      </p>
+      <p>
+        <s>Additionally a point is the fall-out.</s>
+      </p>
+      <p>
+        <s>In the world we produce <choice><orig>to</orig><reg>too</reg></choice> much of this.</s>
+      </p>
+      <p>
+        <s>The vehicular traffic and synthetic detergents is also not good for the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

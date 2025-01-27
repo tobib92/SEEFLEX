@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g42_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a12gk4_1" type="line">Language learning in the UK: can't, won't, don't</ref> published on <date>27 January 2015</date> the author <ref target="a12gk4_1" type="author">John Worne</ref> <choice><orig>critizieses</orig><reg>criticizes</reg></choice> the British <choice><orig>peoples</orig><reg>people's</reg></choice> standing with regard to the learning of languages.</s>
+        <s>In the following it will be analysed how <ref target="a12gk4_1" type="author">John Worne's</ref> text <choice><orig>influence</orig><reg>influences</reg></choice> the reader and which strategies he <choice><orig>use</orig><reg>uses</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The article of <ref target="a12gk4_1" type="author">John Worne</ref> has a lot of formal parts and also informal parts.</s>
+        <s>He takes for every train of thought <choice><orig>a</orig><reg>an</reg></choice> own paragraph, so the reader can follow his thoughts and arguments very easily.</s>
+        <s>To the beginning and to the end of the article <ref target="a12gk4_1" type="author">Worne</ref> uses inclusive language to make the reader take personally.</s>
+        <s><quote>Can't, won't, don't, three words which sum up our national view on speaking foreign languages</quote><ref target="a12gk4_1" type="line">(ll. 1)</ref> and <quote>the school and education system can't fic it without us</quote> <ref target="a12gk4_1" type="line">(l. 51)</ref>.</s>
+        <s>In <choice><orig>this</orig><reg>these</reg></choice> two sentences, there are a lot of informations about the article and especially the intention of the author.</s>
+        <s>In the first sentence the whole national view <ref target="a12gk4_1" type="author">Worne</ref> <choice><orig>critizieses</orig><reg>criticizes</reg></choice> to put the attention of the reader and <choice><orig>makes</orig><reg>make</reg></choice> him <choice><orig>thoughtly</orig><reg>thoughtful</reg></choice>.</s>
+        <s>To the end he wants the parents feel not alone and to be motivated to fix this conflict together.</s>
+      </p>
+      <p>
+        <s>In the second paragraph the author <choice><orig>connoteds</orig><reg>connotes</reg></choice> something <choice><orig>negativ</orig><reg>negative</reg></choice> <quote>our collective brains</quote> <ref target="a12gk4_1" type="line">(cf. ll. 5-7)</ref> to <choice><orig>shows</orig><reg>show</reg></choice> the reader the <choice><orig>problematic</orig><reg>problem</reg></choice> in front of their eyes.</s>
+        <s>Also his own opinion goes clear and the reader can decide, how he stands to this topic.</s>
+        <s>The reader can agree or disagree with the <choice><orig>authors</orig><reg>author's</reg></choice> opinion and builds his own.</s>
+      </p>
+      <p>
+        <s>In <ref target="a12gk4_1" type="line">line 10</ref> the author grows an argument up, which shows the reader, that the development goes a <choice><orig>negativ</orig><reg>negative</reg></choice> way and also many <choice><orig>peoples</orig><reg>people</reg></choice> <choice><orig>focusses</orig><reg>focus</reg></choice> on this theme.</s>
+        <s>He takes this argument till <ref target="a12gk4_1" type="line">line 17</ref>.</s>
+        <s>Especially the statistics <choice><orig>gives</orig><reg>give</reg></choice> the reader a reason to tackle with this topic.</s>
+      </p>
+      <p>
+        <s>Moreover the author shows his own opinion, which he takes round brackets to make it <choice><orig>lower</orig><reg>less</reg></choice> relevant <quote>(they don't)</quote> <ref target="a12gk4_1" type="line">(ll. 19-20)</ref> and <quote>(and I'm one)</quote> <ref target="a12gk4_1" type="line">(l. 46)</ref>.</s>
+        <s>He uses this way of <choice><orig>communicativ</orig><reg>communicative</reg></choice> <choice><orig>strategie</orig><reg>strategy</reg></choice> to convince the reader from his own experiences.</s>
+        <s>With this <choice><orig>strategie</orig><reg>strategy</reg></choice> he <choice><orig>cans</orig><reg>can</reg></choice> on the one hand build a personal touch with the reader up and <choice><orig>one</orig><reg>on</reg></choice> the other hand he <choice><orig>use</orig><reg>uses</reg></choice> the brackets, so the reader does not need to read it.</s>
+      </p>
+      <p>
+        <s>Furthermore the author points out the <choice><orig>problematic</orig><reg>problem</reg></choice>, that too <choice><orig>less</orig><reg>little</reg></choice> students use the chance to study a language alongside another subject <ref target="a12gk4_1" type="line">(cf. ll. 36-38)</ref>, so he uses a direct speech to <choice><orig>vividness</orig><reg>underline</reg></choice> the importance for the <choice><orig>reads</orig><reg>readers</reg></choice> <quote>... - more should</quote> <ref target="a12gk4_1" type="line">(l. 41)</ref>.</s>
+        <s>With this <choice><orig>strategie</orig><reg>strategy</reg></choice> he <choice><orig>commites</orig><reg>commits, combines</reg></choice> two goals in one.</s>
+        <s>The reader thinks about the learning and feels the influence of the author.</s>
+      </p>
+      <p>
+        <s>Although he uses a stylistic device in the third last paragraph.</s>
+        <s><quote>The tough reality in a tough <choice><orig>jobs</orig><reg>job</reg></choice> market is a lawyer with Chinese language skills is more in demand than a pure lawyer or a pure linguist</quote><ref target="a12gk4_1" type="line">(ll. 41-43)</ref>.</s>
+        <s>With this similar the author outlines the <choice><orig>clearly</orig><reg>clear</reg></choice> point, that to know more languages has only advantages for you.</s>
+        <s>Not only because of the globalization and the future.</s>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice><gap reason="illegible" quantity="1" unit="word">ligity</gap><choice><orig>a</orig><reg>an</reg></choice> advantage for every <choice><orig>buisness</orig><reg>business</reg></choice> and organisation.</s>
+        <s>The author is clearly convinced of learning languages.</s>
+      </p>
+      <p>
+        <s>All in all one can say, that the author uses a lot of communicative strategies to convince the reader from his opinion and wants to animate a lot of young people to <choice><orig>seperate</orig><reg>separate</reg></choice> with this topic.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g56_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>exerpt</orig><reg>excerpt</reg></choice> from the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> in <date>2018</date> is about <ref target="b10gk5_1" type="character">Chris</ref> trying to excuse himself with playing a selfmade beat to <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>The given sequence is placed after <ref target="b10gk5_1" type="character">Starr</ref> and <ref target="b10gk5_1" type="character">Chris</ref> had a conflict about <ref target="b10gk5_1" type="character">Chris</ref> having a condom with him, although <ref target="b10gk5_1" type="character">Starr</ref> doesn't want to sleep with him yet.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> is walking down the hallway in school and greeting all his friends.</s>
+        <s>After noticing <ref target="b10gk5_1" type="character">Starr</ref>, who watches him, he walks up to her but she turns away.</s>
+        <s>Then <ref target="b10gk5_1" type="character">Chris</ref> puts his headphones on <ref target="b10gk5_1" type="character">Starr</ref> and plays a self-made beat.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> blocks him again and they both talk about their conflict and their relationship.</s>
+        <s>After that, <ref target="b10gk5_1" type="character">Chris</ref> tries to convince <ref target="b10gk5_1" type="character">Starr</ref> that she likes his beat by dancing to it in the hallway <choice><orig>infront</orig><reg>in front</reg></choice> of the other students.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> laughs and they both walk away.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

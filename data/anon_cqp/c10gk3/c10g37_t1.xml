@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g37_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>I think <name type="person">Reece</name> means that many people judging people with no reason.</s>
+        <s>Because they hear prejudices and think that what they hear is true but it can very <choice><orig>ofte</orig><reg>often</reg></choice> be false.</s>
+        <s>People make prejudices about everything and about all cultures.</s>
+        <s>His grandparents had a hard life because they was in a such situation and the couldn't fight against prejudices.</s>
+        <s>So <name type="person">Reece</name> does fight harder his opinion is that people are judging you before they even see you.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>The memory of slavery impacts negatively upon black communities.</s>
+        <s>For this <name type="person">Reece</name> gives an example that at present day black <choice><orig>descendents</orig><reg>descendants</reg></choice> in Britain shows their how the generations followed slavery rebuilt their communities.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means that young black British people have to understanding their history and this could be <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>imperativ</orig><reg>imperative</reg></choice>.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>This organisation is to helping black Britain people to recognize their potential, talents and reach for their goals.</s>
+        <s>Because other people make prejudices about black Britain and not all black Britain can stand against the prejudices.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>It shows that all the prejudices are false.</s>
+        <s>It isn't important what skin colour people have, it is important where you are!</s>
+        <s>So when <name type="person">Reece</name> grew up it wasn't <q>cool</q> to be black, many people called they <q>nigger</q> and that isn't <choice><orig>respectfull</orig><reg>respectful</reg></choice>.</s>
+        <s>But now you can see that all people can be in the charts, sports and something else.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>Many black people remain positive about that journey and are hopeful about what the future holds because people like <name type="person">Martin Luther King</name> make something against racism and fight hard that people in the world <choice><orig>chance</orig><reg>change</reg></choice> something like racism because are people are the same it's not important what skin colour they have or where <choice><orig>the</orig><reg>they</reg></choice> come from.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

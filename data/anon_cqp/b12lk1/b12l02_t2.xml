@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author tries to convince his readers to accept the fact that humans are the cause of pandemics and that they have to act to prevent them.</s>
+      </p>
+      <p>
+        <s>He does so by giving many examples for pandemic outbreaks that were caused by human activity, such as <name type="misc">Ebola</name> <ref target="b12lk1_1" type="line">(l. 6-10)</ref>, <name type="misc">HIV</name> <ref target="b12lk1_1" type="line">(l. 12-14)</ref> or the most recent example of <name type="misc">Covid-19</name> <ref target="b12lk1_1" type="line">(l. 15f.)</ref>.</s>
+      </p>
+      <p>
+        <s>He then concludes from the fact that wild animals carry a lot of viruses <ref target="b12lk1_1" type="line">(l. 23)</ref> and that humans have invaded their habitat, which logically leads to more contact <ref target="b12lk1_1" type="line">(l. 31)</ref>, that human activity is responsible for pandemics.</s>
+        <s>To support these claims he uses statistics <ref target="b12lk1_1" type="line">(l. 23)</ref>.</s>
+        <s>The example of <name type="misc">Covid-19</name> is very convincing to the reader, as everyone has most likely had to deal with restrictions, or in the worst case even death of friends and relatives, which makes everyone aware of the consequences.</s>
+      </p>
+      <p>
+        <s>His suggestions on how to stop future pandemics <ref target="b12lk1_1" type="line">(l. 42ff.)</ref> sound very reasonable following the explanation of the cause of them and the example of <name type="misc">Covid-19</name> for the fact that our current way of dealing with them is not enough <ref target="b12lk1_1" type="line">(l. 36ff.)</ref>, which everyone has experienced, is very convincing.</s>
+        <s>He also uses an example for a <choice><orig>succesful</orig><reg>successful</reg></choice> attempt at changing the world for the better.</s>
+        <s><quote>Consumer-led campaigns against palm oil, for example, have had a ripple effect on sustainability</quote><ref target="b12lk1_1" type="line">(l. 48)</ref>.</s>
+        <s>This example makes the reader realise that they as an average consumer can have an impact on a large topic.</s>
+      </p>
+      <p>
+        <s>In his conclusion he gives the reader hope that despite of the current crisis we can use the opportunity to change our way of living to prevent future pandemics.</s>
+        <s>In addition to his line of argument he uses inclusive speech <ref target="b12lk1_1" type="line">(l. 55f.)</ref>, which creates a feeling of solidarity in the reader.</s>
+        <s>While it makes the reader feel guilty about the spread of viruses it also makes him want to prevent new pandemics, which they now can, with the solutions from the author.</s>
+      </p>
+      <p>
+        <s>He also directly <choice><orig>adresses</orig><reg>addresses</reg></choice> the reader <quote>...transported from the altered rural landscape of China to a city near you</quote> <ref target="b12lk1_1" type="line">(l. 34f.)</ref>.</s>
+        <s>This sentence makes the reader <choice><orig>realsie</orig><reg>realise</reg></choice> that viruses from lands that are far away and may seem like a completely different world to the reader can suddenly appear really close to them in a short period of time.</s>
+      </p>
+      <p>
+        <s>It makes the problem seem much more apparent to the reader.</s>
+      </p>
+      <p>
+        <s>He also uses an exaggeration in the title and in line 19 <quote>era of pandemics</quote>.</s>
+        <s>This intimidates the reader and makes them feel compelled to prevent it.</s>
+      </p>
+      <p>
+        <s>In conclusion one can say that the author uses a comprehensible line of arguments that is supported by statitics and facts, along with a relatable example and inclusive speech to convince his readers.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

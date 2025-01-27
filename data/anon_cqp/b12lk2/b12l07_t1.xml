@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l07_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> is an English broadcaster and natural historian and delivered his speech as a people's advocate, in the opening ceremony of <name type="misc">COP26</name> in <name type="geo">Glasgow</name>.</s>
+        <s>It deals with a confrontation with a climate crisis and spreading hope to motivate the assembled.</s>
+        <s>He talks about how mankind used advantage of the stabilized earth which leads to the destruction of the planet.</s>
+        <s>Furthermore <ref target="b12lk2_1" type="speaker">Attenborough</ref> solidarizes with the countries that did not cause the crisis but now are the most affected.</s>
+        <s>In addition to that, he mentions that countries have to work together in order to make progress.</s>
+        <s>At the end of his speech he states the importance of the conference and what impact it is supposed to have for future generations.</s>
+      </p>
+      <p>
+        <s>In order to convince the audience he uses repeatedly inclusive language to involve everybody and make them a part of his speech and that everyone feels individually addressed.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

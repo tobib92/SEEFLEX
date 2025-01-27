@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I am going to analyze the character of <ref target="b11gk1_1" type="character">Helen</ref> and how she is being described by <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is an eight <choice><orig>years</orig><reg>year</reg></choice> old girl that looks about five because of her little height <ref target="b11gk1_1" type="line">(cf. ll. 1-2)</ref>.</s>
+        <s>She smells like roasted <choice><orig>marshmellows</orig><reg>marhsmallows</reg></choice> <ref target="b11gk1_1" type="line">(cf. l. 3)</ref> and is a very talkative person, who smiles a lot <ref target="b11gk1_1" type="line">(cf. ll. 3-5)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> describes her as <quote>the true-blue foster child</quote> <ref target="b11gk1_1" type="line">(l. 11)</ref> because of the amount of different kinds of foster homes she has been living in and the fact that she doesn't know her real parents or where she came from <ref target="b11gk1_1" type="line">(cf. ll. 5-6)</ref>.</s>
+        <s>The changes in her life mix up her depiction of her own past as she tells <ref target="b11gk1_1" type="character">Pearl</ref> that she has <quote>a white and a black mommy</quote> <ref target="b11gk1_1" type="line">(l. 6)</ref>, <quote>ten brothers and eleven sisters</quote> <ref target="b11gk1_1" type="line">(l. 7)</ref> and is from both <name type="geo">Ethiopia</name> and <name type="geo">Finland</name> <ref target="b11gk1_1" type="line">(l. 8)</ref>.</s>
+        <s>She also says that she has <quote>two twin brothers and two twin sisters</quote> <ref target="b11gk1_1" type="line">(l. 9)</ref>, what is physically impossible and underlines the fact that she is confused about her past or that she maybe just gives the words a metaphoric meaning.</s>
+      </p>
+      <p>
+        <s>After that she tells <ref target="b11gk1_1" type="character">Pearl</ref> about the rough times she had to go through at her different homes.</s>
+        <s>For example that <quote>she was only given cereals to eat</quote> <ref target="b11gk1_1" type="line">(l. 14)</ref> or the times she had to sleep on the floor <ref target="b11gk1_1" type="line">(cf. l. 16)</ref>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Allthough</orig><reg>Although</reg></choice> she nearly tells only negative things about her past she mentions some friends she had at some of her old homes, which she wants to stay in contact with, through the cellphones she keeps in a plastic bag, each being connected with one of her past foster homes <ref target="b11gk1_1" type="line">(cf. ll. 25-27)</ref>.</s>
+        <s>Nobody teached <ref target="b11gk1_1" type="character">Helen</ref> how to do simple things <ref target="b11gk1_1" type="line">(cf. ll. 11-13)</ref> or how to behave in front of other people, what makes her a very honest person e.g. when she tells <ref target="b11gk1_1" type="character">Pearl</ref> that she <quote>smells like bug-off</quote> <ref target="b11gk1_1" type="line">(l. 42)</ref>.</s>
+        <s><choice><orig>Allthough</orig><reg>Although</reg></choice> her <choice><orig>lif</orig><reg>life</reg></choice> was hard and <choice><orig>difficuilt</orig><reg>difficult</reg></choice> <ref target="b11gk1_1" type="character">Helen</ref> seems like a very <choice><orig>hopefull</orig><reg>hopeful</reg></choice> person.</s>
+        <s>She has dreams about <quote>a white Christmas in Florida</quote> <ref target="b11gk1_1" type="line">(cf. ll. 18-19)</ref>, smiles and talks a lot <ref target="b11gk1_1" type="line">(cf. ll. 3-5)</ref> and likes to be kissed on the forehead <ref target="b11gk1_1" type="line">(cf. l. 19)</ref>.</s>
+        <s>She stays <choice><orig>hopefull</orig><reg>hopeful</reg></choice>, <choice><orig>allthough</orig><reg>although</reg></choice> nobody worries about her drinking enough water <ref target="b11gk1_1" type="line">(cf. 19)</ref> and her speaking to herself in the third person <ref target="b11gk1_1" type="line">(cf. l. 17)</ref>, what makes her a strong character.</s>
+      </p>
+      <p>
+        <s>Taking everything into <choice><orig>acount</orig><reg>account</reg></choice> you can see that <ref target="b11gk1_1" type="character">Helen</ref> is a strong and <choice><orig>hopefull</orig><reg>hopeful</reg></choice> girl, but her <choice><orig>difficuilt</orig><reg>difficult</reg></choice> past seems to affect her personality a lot.</s>
+      </p>
+      <p>
+        <s>It almost seems like each of the different foster homes she has been to represents a part of her mixed personality what confuses her and leads to her acting abnormal sometimes.</s>
+        <s>She needs love in her life to find a way to become really happy and to live a good life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

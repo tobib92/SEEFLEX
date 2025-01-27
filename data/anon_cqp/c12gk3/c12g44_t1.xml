@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g44_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is a drama extract of <ref target="c12gk3_1" type="author"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></ref> <ref target="c12gk3_1" type="title">Macbeth</ref> in <choice><orig>wich</orig><reg>which</reg></choice> <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref> argue about the plan <choice><orig>wether</orig><reg>whether</reg></choice> they should murder the current king <ref target="c12gk3_1" type="character">Duncan</ref> or not.</s>
+      </p>
+      <p>
+        <s>The scene starts out with <ref target="c12gk3_1" type="character">Macbeth</ref> opening up to <ref target="c12gk3_1" type="character">Lady Macbeth</ref> that he is willing to change the plan.</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> because he was recently honoured by the King and in addition to that now earns a good reputation from all kind of people.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> does not like what she is hearing from her husband and asks if he <choice><orig>wether</orig><reg>whether</reg></choice> was drunk making the plans and now is hungover or if he just is a coward not brave enough to fulfill the plan.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> argues that he just shows good behaviour as a proper man should.</s>
+        <s>But <ref target="c12gk3_1" type="character">Lady Macbeth</ref> replies that back when the plan was made he was a man and if would complete it he could be even more than that.</s>
+        <s>She also says that now is the perfect time for the plan.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> still <choice><orig>seemes</orig><reg>seems</reg></choice> to be concerned about what will happen in case they would fail.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> seems to be unbothered by that worry as long <ref target="c12gk3_1" type="character">Macbeth</ref> stops <choice><orig>beeing</orig><reg>being</reg></choice> a coward and sticks to <surplus>to</surplus> the plan of getting the chamberlains drunk as soon <ref target="c12gk3_1" type="character">Duncan</ref> falls asleep.</s>
+        <s>Once the guards are drunk and passed out it should be easy to kill the King.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> reacts strengthened by his <choice><orig>wifes</orig><reg>wife's</reg></choice> determination orders to bring fourth men-children only and agrees to the plan.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

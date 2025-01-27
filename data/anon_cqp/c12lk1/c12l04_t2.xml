@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first quatrain <ref target="c12lk1_1" type="line">(v. 1)</ref> there is a climax: <quote>nor stone, nor earth, nor boundless sea [...]</quote>.</s>
+        <s>It emphasizes that nothing can destroy the power of love.</s>
+        <s>Verse one is connected to Verse two with an enjambment.</s>
+        <s>The conjunction <quote>But</quote> in Verse two stops the effect of the climax about undestroyable Love because it is sad that the human mortality is the only thing in life which can destroy the power of love <ref target="c12lk1_1" type="line">(v. 2)</ref>.</s>
+        <s>On earth there is so much anger <ref target="c12lk1_1" type="line">(v. 3 <quote>rage</quote>)</ref> that's a beautiful things in life like love are forgotten quite easily.</s>
+        <s>The personification in verse three underlines that: <quote>How [...] shall beauty hold a plea [...]</quote>.</s>
+        <s>The personification shows that wonderful things in life cannot resist the anger concentrate on far <choice><orig>to</orig><reg>too</reg></choice> often.</s>
+        <s>The rhetorical question in verses 3 to 4, which are connected with an enjambment, contains the question how beauty can resist the anger.</s>
+        <s>With a simile <quote>no stronger than a flower</quote> this question is answered: it cannot!</s>
+      </p>
+      <p>
+        <s>The second <choice><orig>quartrain</orig><reg>quatrain</reg></choice> continues with the answered question of the first <choice><orig>quartrain</orig><reg>quatrain</reg></choice>.</s>
+        <s>When having a hard time with life and love because of days which are hard to go through it is even harder for good things coming to one's mind <ref target="c12lk1_1" type="line">(v. 5-6)</ref>.</s>
+        <s>These things which might help going through hard and difficult times are <choice><orig>circumscibed</orig><reg>circumscribed</reg></choice> with a metaphor in verse 5: <quote>summer's honey breath</quote>.</s>
+        <s>With summer people associate a happy, wonderful and amazing time.</s>
+        <s>The honey stands for sweet feelings.</s>
+        <s>But the <quote>summer's honey breath</quote> of course and this one day and the feelings it expressed are destroyed by the battering days <ref target="c12lk1_1" type="line">(v. 5)</ref>.</s>
+        <s>What does summer help when there are autumn and winter?</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> the question <choice><orig>quartrain</orig><reg>quatrain</reg></choice> two consists of.</s>
+        <s>Often even when people don't think about it good times do not last forever even when you seem to have the best time of your life.</s>
+        <s>This is emphasized by the metaphor and <foreign xml:lang="de">antithese</foreign> in verses 7-8.</s>
+        <s><quote>When rocks impregnable are not so stout, nor gates of steel so strong [...]</quote>.</s>
+      </p>
+      <p>
+        <s>In the third <choice><orig>quartrain</orig><reg>quatrain</reg></choice> it is said that often all good in life and time is hidden <ref target="c12lk1_1" type="line">(v. 10)</ref> but bad <choice><orig>thing</orig><reg>things</reg></choice> are not.</s>
+        <s>This is underlined by the exclamations in verse nine: <quote>alack</quote>.</s>
+        <s>This exclamation unites verse nine and verse 10.</s>
+        <s>Because you have to find your happiness which often lies hidden behind things that do not comfort one most people cannot do <choice><orig>anythin</orig><reg>anything</reg></choice> against getting overwhelmed by the back things they see and fear.</s>
+        <s>That is why I almost nobody can <quote>forbid his spoil of beauty</quote> <ref target="c12lk1_1" type="line">(v. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>The final couplet ends the sonnet.</s>
+        <s>When people write down their feelings and it does not matter which kind, they can <choice><orig>cath</orig><reg>catch</reg></choice> time and capture their love <ref target="c12lk1_1" type="line">(v. 14)</ref>.</s>
+        <s>Even when the times come closer and <quote>summer's honey breath</quote> ends you can remember and think about a time when life was better until the next good times find you.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="author"><choice><orig>Shakespearse</orig><reg>Shakespeare's</reg></choice></ref> sonnets deal with seems like love, the passing of time and death.</s>
+        <s>In between his sonnets <ref target="c12lk1_1" type="author">Shakespeare</ref> shows a big <choice><orig>variaty</orig><reg>variety</reg></choice> between those themes and also within one theme e.g. endless and happy love against heartbreaking and hurtful love.</s>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> is a good example for that because it deals with themes of love and the passing of time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g14_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Prime Minister,</salute>
+      </p>
+      <p>
+        <s>my name is Jane and I want to express my feelings about your speech in <date>2021</date> at the climate summit in <name type="geo">Glasgow</name> towards you.</s>
+      </p>
+      <p>
+        <s>Then you said it is possible to stop the climate change and if you do not act the following generations will be angry.</s>
+        <s>He said he will not let us down.</s>
+        <s>But in my opinion you let us down.</s>
+        <s>You and your colleagues were responsible to change something!</s>
+        <s>You had the chance to stop global warming and climate change.</s>
+        <s>But if we look how it is right now, we have to say it is worse than ever before: <choice><orig>tornados</orig><reg>tornadoes</reg></choice>, flood disasters, heat, climate <choice><orig>refugies</orig><reg>refugees</reg></choice>, pandemics and so on.</s>
+        <s>These are consequences the scientists of your time warrant you and your colleagues of.</s>
+        <s>But you just thought about the next elections and you were scared of the economy and its influence.</s>
+        <s>As you said the following generations ARE angry!</s>
+        <s>You are responsible for all the pain in this world, but WE have to live with that.</s>
+        <s>Think about that.</s>
+      </p>
+      <p>
+        <signed><choice><orig>Your's faitfully</orig><reg>Yours faithfully</reg></choice>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

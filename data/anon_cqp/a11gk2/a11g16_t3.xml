@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g16_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="hortatory exposition">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his last speech <ref target="a11gk2_1" type="speaker">Obama</ref> talks about the lack of barriers that lead to great <choice><orig>sucess</orig><reg>success</reg></choice> in <name type="geo">America</name>.</s>
+        <s>Many people think, that this is <choice><orig>a</orig><reg>an</reg></choice> important aspect of the core American values and the American Dream.</s>
+      </p>
+      <p>
+        <s>On the one hand, I think that this statement isn't very true, because in reality there are many equalities between the people in <name type="geo">America</name>, what makes it hard for people with another racial background or a not wealthy family to achieve great success.</s>
+      </p>
+      <p>
+        <s>On the other hand <ref target="a11gk2_1" type="speaker">Obama</ref> is talking about his grandparents and his mother about their background and about the things they already achieved.</s>
+        <s>This is a thing that stands for the <choice><orig>sucess</orig><reg>success</reg></choice> through the lack of barriers.</s>
+      </p>
+      <p>
+        <s>Additionally <ref target="a11gk2_1" type="speaker">Obama</ref> talks about his own experiences and his job as a community organizer <ref target="a11gk2_1" type="line">(l. 21f.)</ref>.</s>
+        <s>If you see that in the context of his election, this shows that you can achieve great success.</s>
+      </p>
+      <p>
+        <s>All in all I think that this statement is a core value of the American Dream and a great way of convincing the people to vote for him.</s>
+        <s>Also I would say that his statement is not completely false, but in the future there will be problems that the Americans have to face.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

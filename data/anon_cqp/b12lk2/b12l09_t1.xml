@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l09_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech at the opening ceremonies of <name type="misc">COP26</name> in <name type="geo">Glasgow</name>, as a <quote>people's advocate</quote>, <ref target="b12lk2_1" type="speaker">Sir David Frederick Attenborough</ref> tries to convince and urge his audience to act on climate change, by illustrating now it affects humankind nowadays.</s>
+        <s>Therefore he uses stylistic devices and communicative strategies.</s>
+      </p>
+      <p>
+        <s>In his introduction he starts off by defining what <choice><orig>need</orig><reg>needs</reg></choice> to be achieved at the end of <name type="misc">COP26</name>, which is to come to a conclusion by what percentage the carbon concentration on earth has to be lowered, and how to achieve that.</s>
+        <s>Furthermore explains how a stable climate enabled the civilization and evolution of the Homo sapiens in the past ten centuries.</s>
+        <s>And how the current climate crisis in dangers are <quote>stabilised</quote> modern world.</s>
+      </p>
+      <p>
+        <s>In his next paragraph he touches upon the topic of younger people living today, having to witness nature decaying under the <choice><orig>humans</orig><reg>humans'</reg></choice> hand, without being at fault for the start of climate change.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> acknowledges and declares that the older generation is responsible for this outcome, should be the ones to act now.</s>
+        <s>By pursuing unity and working as a <quote>team</quote> he states that he can imagine to achieve certain goals towards slowing down, and ending climate change.</s>
+      </p>
+      <p>
+        <s>In his conclusion he mentions the aspect of young <choice><orig>peoples</orig><reg>people's</reg></choice> expectations and reassuring his audience the change is possible.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

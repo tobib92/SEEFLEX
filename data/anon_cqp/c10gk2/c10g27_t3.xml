@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g27_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I'll discuss <choice><orig>wether</orig><reg>whether</reg></choice> simple exchanges can break down walls between us is a correct statement or <choice><orig>wether</orig><reg>whether</reg></choice> it's not.</s>
+      </p>
+      <p>
+        <s>In my opinion simple exchanges definitely are important when it comes to connect different countries with each other.</s>
+      </p>
+      <p>
+        <s>You learn the foreign <choice><orig>lenguage</orig><reg>language</reg></choice>, you learn things about the culture and <choice><orig>transisions</orig><reg>transitions</reg></choice> and you learn how to live your life in a completely different country.</s>
+      </p>
+      <p>
+        <s>You can take part in new and interesting things and start to love them and tell your friends and family about your experiences, which could make them also get interested in going abroad.</s>
+      </p>
+      <p>
+        <s>Also if you make friends in the other country, you could talk about so many interesting things in your life, which could possibly be the absolute opposite of the other person's life.</s>
+        <s>That's how you earn <choice><orig>lot's</orig><reg>lots</reg></choice> of new things in life and make it less boring.</s>
+        <s>On the other hand there's also a way you could do an exchange year without effecting it on the entire world.</s>
+      </p>
+      <p>
+        <s>If you don't make friends and also do not talk about your experiences or even take part in the different traditions, there's no way to bring these two cultures together.</s>
+        <s>You only experienced a lot for yourself and keep these experiences in mind but without actually conforming there's no chance to break the wall.</s>
+      </p>
+      <p>
+        <s>To sum up for me the statement by <ref target="c10gk2_1" type="speaker">Obama</ref> is absolutely true.</s>
+        <s>If you want to break the walls and use this attitude during your exchange you'll definitely have <choice><orig>an</orig><reg>a</reg></choice> positive effect on it.</s>
+      </p>
+      <p>
+        <s>The arguments are way more pro than cons, so I would recommend going abroad and break down the walls between us.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

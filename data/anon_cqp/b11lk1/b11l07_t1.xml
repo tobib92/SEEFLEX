@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l07_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt from chapter 6 at the end of part two from the book <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref> which was written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> in <date>1995</date> and deals with the contrast of the living conditions and moral views of illegal <choice><orig>mexican</orig><reg>Mexican</reg></choice> immigrants, opposed to a covert racist American, living in <name type="geo">California</name>.</s>
+      </p>
+      <p>
+        <s>This is shown by the <choice><orig>41 year old</orig><reg>41-year-old</reg></choice> American, <name type="person">Delaney Mossbacher</name>, who lives in a <choice><orig>spanish</orig><reg>Spanish</reg></choice> mission style house in <name type="geo">Arroyo Blanco</name> and takes pride in being a liberal humanist with an expensive car.</s>
+        <s>He lives with his second wife <name type="person">Kyra</name>, who is a real estate agent and her <choice><orig>six year old</orig><reg>six-year-old</reg></choice> <name type="person"><choice><orig>jordan</orig><reg>Jordan</reg></choice></name>.</s>
+        <s><name type="person">Delaney</name> works as a writer for a nature magazine where he calls himself a <q>pilgrim</q>.</s>
+        <s>He keeps his car in perfect condition, which makes it an even bigger hsock for him, when he hits the <choice><orig>33 year old</orig><reg>33-year-old</reg></choice> <name type="person">Cándido Rincon</name> with it, who lives with his <choice><orig>17 year old</orig><reg>17-year-old</reg></choice> pregnant girlfriend, <name type="person">América</name>, in a canyon near <name type="person">Arroyo Blanco</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">José Navidad</name>, who is also a <choice><orig>mexican</orig><reg>Mexican</reg></choice> illegal immigrant, lives in <choice><orig>similair</orig><reg>similar</reg></choice> conditions.</s>
+        <s>He also has a camp in the canyon, where <name type="person">Delaney</name> loves to go on hikes.</s>
+        <s>Since <name type="person">Delaney</name> values nature highly, he is shocked to see trash and garbage at <name type="person">José Navidad's</name> camp, whom he runs into while hiking.</s>
+        <s><name type="person">Kyra</name> also runs into <name type="person">José Navidad</name> at a house she is selling, and feels lucky to be left unscathed, since she feels threatened by him.</s>
+        <s>Due to the many illegal immigrants living in <name type="geo">California</name> <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> neighbours want to erect a wall around their community to keep criminals out.</s>
+        <s>Apart from <name type="person">Delaney</name> only <name type="person">Todd Sweets</name> is also against the idea of a wall being built.</s>
+      </p>
+      <p>
+        <s>In the given scene <name type="person">Delaney</name> tries to get rid of <name type="person">Todd Sweets</name>, who wants them to meet and discuss a plan, through which they can convince others against the wall.</s>
+        <s><name type="person">Delaney</name> tells him that he will hear from him and walks away while lost in thought.</s>
+        <s>When he reaches a <choice><orig>neighbours</orig><reg>neighbour's</reg></choice> house he sees a man walking across the lawn and <choice><orig>immidiately</orig><reg>immediately</reg></choice> assumes that he is a criminal, since he is Mexican.</s>
+        <s>When he asks the Mexican, why he is here the man does not answer him.</s>
+        <s>At this moment <name type="person">Delaney</name> recognizes him as <name type="person">José Navidad</name>, though he does not know his name.</s>
+        <s><name type="person">Delaney</name> realizes that this is the man who threatened his wife and repeats his question angrily.</s>
+        <s><name type="person">José</name> answers mockingly, which goads <name type="person">Delaney</name>, into saying a racist phrase and grabbing the <choice><orig>mans</orig><reg>man's</reg></choice> arm in a brutal motion.</s>
+        <s>The latter rips himself free and shouts at <name type="person">Delaney</name> that he is only giving our flyers.</s>
+        <s>When <name type="person">Delaney</name> does not believe him and threatens to call the police, <name type="person">José</name> shows <name type="person">Delaney</name> one of the flyers.</s>
+        <s>This leaves the latter shocked as well as <choice><orig>dumbfound</orig><reg>dumbfounded</reg></choice> and gives <name type="person">José</name> the chance to walk up to <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> own house and deliver one of the papers there.</s>
+        <s>The scene ends with <name type="person">Delaney</name> reading the flyer and seeing that it is an invitation to a community meeting, where the safety of the neighbourhood will be discussed.</s>
+      </p>
+      <p>
+        <s>This excerpt is relevant to the whole book since this is where <name type="person">Delaney</name> first <choice><orig>looses</orig><reg>loses</reg></choice> his self control and gives into his racist feelings.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

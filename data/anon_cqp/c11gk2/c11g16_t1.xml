@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g16_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech <choice><orig>delievered</orig><reg>delivered</reg></choice> by <ref target="c11gk2_1" type="speaker">Michel Barnier</ref>, the <name type="misc">EU</name> commissioner, in <name type="geo">New York</name> at the <name type="misc">European American Chamber of Commerce</name> on <date>10th July 2018</date> deals with the consequences of <name type="misc">Brexit</name> and the <name type="misc">Brexit</name> as well.</s>
+      </p>
+      <p>
+        <s>The speech <choice><orig>adresses</orig><reg>addresses</reg></choice> the <name type="geo">UK</name> and <name type="misc">EU</name> with the intention to <choice><orig>emphazise</orig><reg>emphasize</reg></choice> the <name type="misc">EU</name> will not change after the <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Michel Barnier</ref> starts with the leaving of the <name type="geo">UK</name> which he is deeply <choice><orig>regreting</orig><reg>regretting</reg></choice>.</s>
+        <s>The exit will have big consequences for the <name type="geo">UK</name> than for the <name type="misc">EU</name> but he does not wanted it to come in this way.</s>
+        <s>He thinks the <name type="geo">UK</name> and <name type="misc">EU</name> are better together and should stay together.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref><choice><orig>explaines</orig><reg>explains</reg></choice> that both sides <add>(<name type="misc">EU</name> and <name type="geo">UK</name>)</add> will suffer in the part business and they have to be prepare for a time where they will not have a deal.</s>
+        <s>The financial relationship between the <name type="geo">UK</name> and <name type="misc">EU</name> have to be closer and he knows how to do this.</s>
+        <s>The <name type="misc">Free Trade Agreement</name> with the <name type="geo">UK</name> should include the right of establishment, with <name type="misc">EU</name> rules applying.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

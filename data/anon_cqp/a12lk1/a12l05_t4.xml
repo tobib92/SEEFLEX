@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l05_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>How <name type="person">Shakespeare</name> came to <name type="geo">Germany</name>:</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>When researching about <name type="person">Shakespeare</name> and his connection to my home country <name type="geo">Germany</name>, I came across this very interesting newspaper article on how he first became known in <name type="geo">Germany</name>.</s>
+        <s>According to a <choice><orig>german</orig><reg>German</reg></choice> professor, <name type="person">Klaus Manger</name>, <name type="person">Shakespeare</name> was unknown in the <name type="geo">Germany</name> of the late 18th century.</s>
+        <s>There have been some of his influence in the works of <name type="person">Goethe</name> or <name type="person">Herder</name>, but <name type="person">Shakespeare</name> only truly made his way into <name type="geo">Germany</name> with a <choice><orig>german</orig><reg>German</reg></choice> writer <name type="person">Christoph Martin Wieland's</name> translations.</s>
+        <s>Between <date>1762</date> and <date>1766</date>, <name type="person">Wieland</name> published translation of 22 of <name type="person">Shakespeare's</name> dramas.</s>
+        <s>Especially present is and was <name type="person">Shakespeare</name> in <name type="geo">Weimar</name>, where on the <date>8th April 1864</date> <name type="person">Shakespeare</name> company was established.</s>
+        <s>This happened after a few of <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> histories were presented at the <name type="geo">Weimar</name> court in honour of his death.</s>
+      </p>
+      <p>
+        <s>40 years later, on the <date>23rd April 1904</date>, in celebration of the company and 340 years after <name type="person">Shakespeare</name> was born, a memorial was <choice><orig>build</orig><reg>built</reg></choice> for him in a park in <name type="geo">Weimar</name>.</s>
+      </p>
+      <p>
+        <s>today there are a variety of <choice><orig>german</orig><reg>German</reg></choice> <name type="person">Shakespeare</name> translations and he is still important not only in <name type="geo">Weimar</name> but everywhere in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>I hope this was interesting and informative and if you have any more good articles on this topic, do let me know in the comments.</s>
+        <s>And for those who can't understand German, I will put the link to the article below.</s>
+      </p>
+      <p>
+        <signed>Thanks for reading, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

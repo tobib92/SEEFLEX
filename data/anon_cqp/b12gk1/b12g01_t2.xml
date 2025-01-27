@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to persuade the listeners at the summit to act against climate change which he does by encouraging them to act and on the other hand scare them from the consequences.</s>
+      </p>
+      <p>
+        <s>In the very first segment he draws a comparison and says that we have to act like him, <choice><orig>therfore</orig><reg>therefore</reg></choice> like him deactivating the doomsday device.</s>
+        <s>Here he encourages the listener by comparing him to <name type="person">James Bond</name>, a fictional hero, and additionally he equals the threat of climate hange to a doomsday device that can end the world.</s>
+        <s>In the following section he alludes to previous summits where they made promises.</s>
+        <s>Here he uses the empty words <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref>, which then mentions the reaction of the world which will be uncentainably angry.</s>
+        <s>Thereafter he says that they can prevent this outcome of they at now.</s>
+        <s>Here in this segment his tactic of switching between fear making and encouraging.</s>
+        <s>He combines the rhetoric <choice><orig>devic</orig><reg>device</reg></choice> to his <gap reason="illegible" quantity="1" unit="word">fery</gap> making of the <gap reason="illegible" quantity="1" unit="word">populaces</gap> reaction, which deepens the emotional effect.</s>
+      </p>
+      <p>
+        <s>Now he encourages the listeners by presenting them areas on which they can work on which are <quote>coal, cars, cash and trees</quote> and they have the technology to act on these and <quote>deactivate the doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 17)</ref>.</s>
+      </p>
+      <p>
+        <s>This shows the listener that it is indeed not so difficult to act now and he mentions his <quote>doomsday device</quote> comparison again, which creates greater dread for the possible and urgent changers.</s>
+      </p>
+      <p>
+        <s>Then he further encourages the listener by stating that it is their duty, as the industrialized countries that <choice><orig>started</orig><reg>startet</reg></choice> it, to act.</s>
+        <s>This convinces the listener that he does not have a choice in acting against climate change but has to do it out of duty.</s>
+      </p>
+      <p>
+        <s>After that he gives practical advice on how to act.</s>
+        <s>He says that they cannot <choice><orig>succed</orig><reg>succeed</reg></choice> if they only rely on their spendings, they have to use the financial funds in cooperation with banks, to affect <quote>key-countries</quote>, furthermore they should de-risk the private sector, so that private investors and cooperations will let money in, which is just the same way how the <name type="geo">UK</name> gained its coal <choice><orig>independance</orig><reg>independence</reg></choice>.</s>
+        <s>Then he uses the metaphor <quote>the Saudi-Arabia of wind</quote> which alludes to that <choice><orig>nations</orig><reg>nation's</reg></choice> huge assets of oil.</s>
+        <s>This causes hope in the listeners.</s>
+        <s>His <choice><orig>advic</orig><reg>advice</reg></choice> will encourage the listener since they are now presented with a guideline on how to act, which makes taking action seem a whole lot easier, whicle the method is proven by the fact that it already worked in the UK.</s>
+        <s>After that he further scores the listener by hinting that if they do not act, it will anger the population and therefore their vorers, therefore if they want to stay in politics they have to appease the population or they will lose their jobs.</s>
+        <s>This is proven by the sentence <quote>we all talk about what we're going to do in 2050 or 2060</quote> which is followed by the argument of the angry population, which shows a clear connection between the two points.</s>
+        <s>By now it hass also <choice><orig>becom</orig><reg>become</reg></choice> obvious that he uses the pronoun <quote>we</quote> <ref target="b12gk1_1" type="line">(l. 30, 30, 30, 22, 10, 40...)</ref>, which creates a sense of unity that encourages the listeners since they don't have to face this crisis alone.</s>
+      </p>
+      <p>
+        <s>Then he talks about future generations that will harbor resentment if they do not act in this historic turning point.</s>
+        <s>He uses an <choice><orig>anummarition</orig><reg>enumeration</reg></choice> with the word <quote>children</quote> <ref target="b12gk1_1" type="line">(l. 38)</ref>, which creates a deep and heavy emotional resonance with the listeners, of which probably are a majority themselves parents.</s>
+      </p>
+      <p>
+        <s>This should scare the listener from the future while he encourages them by calling that summit a historic turning point, thus presenting the readers with the opportunity to carve their names into history.</s>
+      </p>
+      <p>
+        <s>In the second to last segment he reminds them that all requirements like <quote>ideas, technology and bankers</quote> <ref target="b12gk1_1" type="line">(l. 46-47)</ref> amit, that's <choice><orig>encouriging</orig><reg>encouraging</reg></choice> them further.</s>
+        <s>In the last segmen he revisits his <name type="person">Bond</name> allusion and rementions that this is a turning point in history, both encouraging and perhaps a little scaring them if they do not <gap reason="illegible" quantity="1" unit="word">sac</gap> the opportunity and closing the speech up.</s>
+      </p>
+      <p>
+        <s>All in all the hypothesis was pretty much correct, while it has to be mentioned that <ref target="b12gk1_1" type="speaker">Boris</ref> leaned more to the encouraging <choice><orig>side</orig><reg>site</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g28_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Tragedie</orig><reg>tragedy</reg></choice> of <ref target="c12gk2_1" type="title">Macbeth</ref> is a tragedy by <ref target="c12gk2_1" type="author">William Shakespeare</ref>.</s>
+        <s>It is thought to have been first performed in <date>1609</date>.</s>
+        <s>It dramatises the damaging physical and psychological effects of political ambition on those who seek power for its own sake.</s>
+      </p>
+      <p>
+        <s>A brave Scottish general named <ref target="c12gk2_1" type="character">Macbeth</ref> receives a prophecy from a <ref target="c12gk2_1" type="character">trio of witches</ref> that one day he will become King of <name type="geo">Scotland</name>.</s>
+        <s>Corrumped by ambition and spurred by his wife, <ref target="c12gk2_1" type="character">Macbeth</ref> murders <ref target="c12gk2_1" type="character">King Duncan</ref> and takes the Scottish throne for himself.</s>
+        <s>The following scene <ref target="c12gk2_1" type="scene">number seven of the first act</ref>  deals with a conversation between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, where she tries to persuade <ref target="c12gk2_1" type="character">Macbeth</ref>, that he must kill the actual <ref target="c12gk2_1" type="character">King Duncan</ref> to <choice><orig>fullfill</orig><reg>fulfill</reg></choice> his destiny.</s>
+      </p>
+      <p>
+        <s>At the beginning <ref target="c12gk2_1" type="character">Macbeth</ref> meets his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref> secretly after finishing the dinner in the chamber.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> states that he will not kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> does not understand why <ref target="c12gk2_1" type="character">Macbeth</ref> stops seeking for power and a better life, not only for himself, even for her because she thought he loves her.</s>
+      </p>
+      <p>
+        <s>At this point <ref target="c12gk2_1" type="character">Macbeth</ref> wants to end the conversation and says that he will gain power with the time.</s>
+      </p>
+      <p>
+        <s>In the following <ref target="c12gk2_1" type="character">Lady Macbeth</ref> states that she would do everything to gain power and improve both of their <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>Now she wants that <ref target="c12gk2_1" type="character">Macbeth</ref> takes the chance to act the same way.</s>
+        <s>He begins to think about the possibility, but is still insecure.</s>
+      </p>
+      <p>
+        <s>However, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> starts to create a plan how they could kill <ref target="c12gk2_1" type="character">King Duncan</ref> when he sleeps and make his chamberlains responsible for his death, because she will invite them to beer and wine so that they get drunk.</s>
+        <s>At the end <ref target="c12gk2_1" type="character">Macbeth</ref> accepts the plan even if he is not secure by one-hundred percent.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

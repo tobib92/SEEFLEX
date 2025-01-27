@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g06_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk1_1" type="title">Is the usefulness of unions coming to an end? sThe answer is yes</ref> written by <ref target="a10gk1_1" type="author">Brian Pollard</ref> and published in <name type="misc">The Gulf News</name> on <date>24 November, 2011</date> mentions that the unions do not protect the workers rights anymore <ref target="a10gk1_1" type="line">(l. 5-6)</ref>.</s>
+        <s>The author says that unions were the best thing that happened to the labour movement because unions were successful in giving a better working environment and a higher wage to <surplus>to</surplus> the workers <ref target="a10gk1_1" type="line">(l. 1-4)</ref>.</s>
+        <s>He thinks that unions are more about power and greed now.</s>
+        <s>Unions are not required to make the workers feels safe anymore since the laws as well as our moral values decide and regulate these factors <ref target="a10gk1_1" type="line">(l. 7-9)</ref>.</s>
+        <s>Another thing that the author points out is that the unions are against the competition between companies <ref target="a10gk1_1" type="line">(l. 10-11)</ref>.</s>
+        <s>Their products or services are also a lot more expensive that cheaper competitors can easily take their place <ref target="a10gk1_1" type="line">(l. 13)</ref>.</s>
+        <s>The author says that nowadays employers are being exploited by employees and the fact that unions have become more powerful than their employers <choice><orig>creates</orig><reg>create</reg></choice> an unhealthy business environment <ref target="a10gk1_1" type="line">(l. 17-19)</ref>.</s>
+        <s>Lastly he mentions that the unions are at fault when it comes to the economic mess the world is in <ref target="a10gk1_1" type="line">(l. 21-23)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g26_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence taken from the movie <ref target="b10gk3_1" type="title">The Hate U Give</ref> or in short <name type="misc">THUG</name>, directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> and published in the year <date>2018</date>.</s>
+      </p>
+      <p>
+        <s>It takes place right after <ref target="b10gk3_1" type="character">Starr</ref> gives her interview on <choice><abbr>TV</abbr><expan>television</expan></choice>.</s>
+        <s>One can say it is more or less at the end of the middle of the movie.</s>
+      </p>
+      <p>
+        <s>The sequence starts with the <ref target="b10gk3_1" type="character">Carter</ref> family having a happy dinner together.</s>
+        <s>They celebrate <ref target="b10gk3_1" type="character">Starr</ref>, the main character, for having the courage to speak up, for her dead friend who was shot from the police, on live <choice><abbr>TV</abbr><expan>television</expan></choice>.</s>
+        <s>Shortly after <ref target="b10gk3_1" type="character">King</ref>, the boss of a gang, makes his entrance.</s>
+        <s><ref target="b10gk3_1" type="character">Maverick</ref>, <ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> father, goes out to talk to him and ended up fighting him to protect his daughter <ref target="b10gk3_1" type="character">Starr</ref>.</s>
+        <s>Two police <choice><orig>man</orig><reg>men</reg></choice> pull over to stop the fight.</s>
+        <s>They interrogated <ref target="b10gk3_1" type="character">Maverick</ref> and pushed him on the glass.</s>
+        <s>This ended up with the family telling them to stop.</s>
+        <s>After they realised that <ref target="b10gk3_1" type="character">Starr</ref> is the witness and left.</s>
+        <s>The sequence ended with the <ref target="b10gk3_1" type="character">Carter</ref> family going back in the store.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

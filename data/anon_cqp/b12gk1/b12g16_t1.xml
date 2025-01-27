@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g16_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech <ref target="b12gk1_1" type="title">Boris Johnson, British Prime Minister address at COP26 World Leaders' Summit Opening Ceremony</ref> by <ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, delivered on <date>November 1 2021</date>, deals with <ref target="b12gk1_1" type="speaker">Johnson's</ref> view of climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> held his speech in <name type="geo">Glasgow</name> at <name type="misc">COP26</name>.</s>
+        <s>He says that the climate change is like a bomb which can detonate after a time of defusing.</s>
+        <s>In addition <ref target="b12gk1_1" type="speaker">Johnson</ref> compares us with <name type="person">James Bond</name>, who can <choice><orig>defuses</orig><reg>defuse</reg></choice> a bomb simply.</s>
+      </p>
+      <p>
+        <s>Novertheless the temperature of the planet is increasing without any countermeasures.</s>
+        <s>He tells the audience that the plan of 1.5 degree was in <name type="geo">Paris</name> just some useless words.</s>
+      </p>
+      <p>
+        <s>Furthermore <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> says that they have to spend more money to fight against the climate change and to help other poorer countries.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> thinks that they have the right technology and the devices to go against the climate change but they also need the will.</s>
+        <s>The importance of <name type="misc">COP26</name> is the start of a fight.</s>
+        <s>Fight against climate change to help the next generations and to offer them a better life.</s>
+        <s>In the end of his speech <ref target="b12gk1_1" type="speaker">Johnson</ref> goes back to his comparison of the climate change with a bomb.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

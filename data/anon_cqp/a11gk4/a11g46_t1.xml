@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g46_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Starr</name> finds herself in a demonstration protesting against police brutality and against the police officer who shot <name type="person">Khalil</name>.</s>
+        <s>The situation is especially hard for <name type="person">Starr</name> because the place this demonstration is carried out at is the first time she visits it after <name type="person">Khalil's</name> killing.</s>
+        <s>In the demonstration itself there is a large crowd of people holding up black <choice><orig>hair brushes</orig><reg>hairbrushes</reg></choice>.</s>
+        <s>The reason for this is because the officer who shot <name type="person">Khalil</name> said that he had mistaken <name type="person">Khalil's</name> hairbrush with a gun which is why he shot him.</s>
+        <s>The crowd is chanting the phrase <quote>A hairbrush is not a gun</quote> <ref target="a11gk4_1" type="line">(l. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>When <name type="person">Starr</name> arrives at the place she finds her attorney <name type="person">Ms. Ofrah</name> standing on top of a police car with a bullhorn.</s>
+        <s>When <name type="person">Ms. Ofrah</name> noticed <name type="person">Starr</name> she went up to her and <name type="person">Starr</name> explained how she wanted to do something now.</s>
+        <s>Ultimately leading up to her being given the bullhorn and telling her point of view of the killing and making clear that <name type="person">Khalil</name> was a decent human being and not a gang member.</s>
+        <s>With taht introduction she then starts chanting <quote><name type="person">Khalil</name> lived</quote>.</s>
+        <s>The fans gave her a rapturous round of applause which encouraged her to speak even more.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> arrived at the demonstration together with <name type="person">Seven</name>, her <choice><orig>half brother</orig><reg>half-brother</reg></choice>, <name type="person">Devante</name> and <name type="person">Chris</name>, her boyfriend.</s>
+        <s>Even though she wasn't much into taking action she decided she wants to after hearing that the officer, who shot <name type="person">Khalil</name> was considered unguilty by the court and the charges on him were dropped.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

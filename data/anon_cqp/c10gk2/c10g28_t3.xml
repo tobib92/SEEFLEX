@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g28_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>Simple exchanges can break down walls between us</quote> an often discussed topic by a lot of politicians which I will take a stand on in the following.</s>
+        <s>Is it really that important?</s>
+      </p>
+      <p>
+        <s>To begin with I would like to clearly position myself next to <ref target="c10gk2_1" type="speaker">Obama</ref> who phrases the mentioned quote.</s>
+        <s>I think losing our little differences is the only way our world can move further.</s>
+        <s>As <name type="person">Michelle Obama</name> says intercultural exchanges are the <quote>key to success</quote>.</s>
+      </p>
+      <p>
+        <s>Secondly I believe that crosscultural little exchanges are what bring <choice><orig>varietys</orig><reg>varieties</reg></choice> of food for example.</s>
+        <s>Food is something everybody connects.</s>
+        <s>It can be discussed whether it's delicious or not and now it's made which is a great way to lose problems.</s>
+      </p>
+      <p>
+        <s>To sum up I would like to say how right <ref target="c10gk2_1" type="speaker">Obama</ref> is when he formulates such a saying.</s>
+        <s>Simple exchanges as food e.g. are what makes us lose our differences.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

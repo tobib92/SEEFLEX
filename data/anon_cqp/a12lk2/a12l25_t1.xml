@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l25_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given extract from Act II Scene 2 from <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> deals with a conversation between <name type="person">Romeo</name> and <name type="person">Juliet</name> in the <name type="person">Capulet's</name> garden where <name type="person">Juliet</name> is standing on ther balcony and talks to <name type="person">Romeo</name> on the ground.</s>
+        <s>In the first part of the full scene they tlak about changing <name type="person">Romeo's</name> last name so that they can love each other without any feeling of anxiety.</s>
+        <s>The second part, the given extract, is about <name type="person">Juliet</name> who tells <name type="person">Romeo</name> that he needs to leave the garden because some of her family could see him.</s>
+        <s><name type="person">Romeo</name> disagrees and <choice><orig>want</orig><reg>wants</reg></choice> to stay because he would do everything to be with her.</s>
+      </p>
+      <p>
+        <s>In the following I will outline <name type="person">Juliet's</name> concerns about meeting <name type="person">Romeo</name> in this scene and <name type="person">Romeo's</name> reaction to these concerns.</s>
+      </p>
+      <p>
+        <s><name type="person">Juliet</name> is wondering how <name type="person">Romeo</name> got in her family's garden.</s>
+        <s>He just answers that with love is all possible.</s>
+        <s>Then <name type="person">Juliet</name> gets nervous because <name type="person">Romeo</name> could be <choice><orig>catched</orig><reg>caught</reg></choice> by her relatives and that they will kill him directly.</s>
+        <s>However <name type="person">Romeo</name> ignores her concerns and tells her that as long as she loves him nobody would have a chance to stop them.</s>
+        <s>Additionally it's night so that nobody can see them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

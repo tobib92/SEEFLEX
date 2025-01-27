@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g23_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk2_1" type="speaker">Boris Johnson</ref><choice><orig>use diffrent</orig><reg>uses different</reg></choice> stylistic devices and a specific structure on his argumentation to increase the audience's attention to the danger of climate change.</s>
+        <s>The comparison with the <name type="person">James Bond</name> movies makes the audience clear that the can take action to prevent climate change, because every protagonist in movies got the time to action on certain events and this is what <ref target="b12gk2_1" type="speaker">Johnson</ref> wants to show.</s>
+        <s>Three times in the speech he repeats sentences like <quote>We have the technology to deactivate that ticking doomsday device</quote> <ref target="b12gk2_1" type="line">(ll. 16f)</ref>.</s>
+        <s>This <choice><orig>repeatment</orig><reg>repetition</reg></choice> gives hope that things can be changed in the future.</s>
+        <s>His argumentation starts with things that could have happened in the past on other conferences then he goes over how to prevent the problem and finally what happens when they do not do anything about it.</s>
+        <s>It is brilliant to talk at the end over the people who will suffer.</s>
+        <s><quote>And let us think of the billions more of the unborn, whose anger will be all the greater if we fail</quote><ref target="b12gk2_1" type="line">(ll. 44f)</ref>.</s>
+        <s>This is a sentence that catches everyone of the audience because it is on a personal level and reaches specific <choice><orig>emotial</orig><reg>emotional</reg></choice> feeling when you have your own families.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

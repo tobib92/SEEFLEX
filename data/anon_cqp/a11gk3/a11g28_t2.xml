@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr's</ref> state of mind throughout this excerpt is visualized through narrative techniques and perspectives used by the author in order to successfully convey the significance of this part for the novel.</s>
+      </p>
+      <p>
+        <s>Just like throughout the whole novel, the events are told by the first person protagonist narrator, which means that we see the story through <ref target="a11gk3_1" type="character">Starr's</ref> eyes and are deeply emotionally involved with her.</s>
+        <s>This is very effective, since the reader experiences the story like she does and can <choice><orig>therfore</orig><reg>therefore</reg></choice> relate to her easily.</s>
+        <s>This is vivid at the beginning of the excerpt as we follow <ref target="a11gk3_1" type="character">Starr's</ref> interior monologue, which is suddenly cut off by direct speech <ref target="a11gk3_1" type="line">(ll. 5-8)</ref>.</s>
+      </p>
+      <p>
+        <s>The reader is experiencing her thoughts as if they are his own until a chant is heard and the reader gets thrown off the interior monologue just like <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>Inbetween <ref target="a11gk3_1" type="character">Starr</ref> is muttering the phrase <quote>A hairbrush is not a gun</quote> she has flashback of the incident, which makes <ref target="a11gk3_1" type="character">Khalil's</ref> death for her and the reader present again, which leads to her shouting the phrase <ref target="a11gk3_1" type="line">(ll. 18-23)</ref>.</s>
+        <s>This way the reader understands the sudden change in volume in her voice and feels for her.</s>
+      </p>
+      <p>
+        <s>Overall the different techniques used make an illusion of a first-hand experience of the reader, which is why the story is so effective and impactful.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

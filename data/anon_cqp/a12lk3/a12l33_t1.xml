@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l33_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt is from the play <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> which was written by <ref target="a12lk3_1" type="author">William Shakespeare</ref>.</s>
+        <s>It is about <name type="person">Shylock</name> having a conversation with his friend <name type="person">Tubal</name> about <name type="person">Shylock's</name> daughter and <name type="person">Antonio</name>.</s>
+        <s>In the following, <name type="person">Shylock's</name> situation will be outlined.</s>
+      </p>
+      <p>
+        <s>One can say that in general <name type="person">Shylock</name> experiences a lot of different emotions during this conversation because <name type="person">Tubal</name> gives him very good and very bad news.</s>
+        <s>It is important to know that before this scene, <name type="person">Shylock's</name> daughter who is <choice><orig>jewish</orig><reg>Jewish</reg></choice>, ran off with a Christian man: <choice><orig>Also</orig><reg>also</reg></choice> important to know is that <name type="person">Antonio</name> bullied and insulted <name type="person">Shylock</name> his whole life and then asked him for money and if he couldn't pay it back in time they made a bond which allowed <name type="person">Shylock</name> to take a pound of flesh from <name type="person">Antonio</name>.</s>
+      </p>
+      <p>
+        <s>The conversation starts with <name type="person">Shylock</name> asking <name type="person">Tubal</name>, who wasl ooking for <name type="person">Shylock's</name> daughter, about information on her.</s>
+        <s><name type="person">Tubal</name> says he didn't see them but heard of them.</s>
+        <s><name type="person">Shylock</name> responds to that in an angry monologue where he first complains about the money that his daughter took from him and about the money that the search for her will cost him.</s>
+        <s>After that he wishes that his own daughter were dead and that he could have his money back.</s>
+      </p>
+      <p>
+        <s>After <name type="person">Shylock's</name> outburst <name type="person">Tubal</name> tells him news that <name type="person">Shylock</name> interprets as good because of his joyful reaction.</s>
+        <s><name type="person">Tubal</name> says that <name type="person">Antonio's</name> ship with his money is lost.</s>
+        <s><name type="person">Shylock</name> responds to that by thanking god and <name type="person">Tubal</name> and making other joyful or happy remarks.</s>
+      </p>
+      <p>
+        <s>Directly after telling <name type="person">Shylock</name> these good news, <name type="person">Tubal</name> says that <name type="person">Shylock's</name> daughter spent 20 ducats in one night which makes <name type="person">Shylock</name> very sad and angry again.</s>
+      </p>
+      <p>
+        <s>Then <name type="person">Tubal</name> says that <name type="person">Antonio</name> has to declare <choice><orig>bankrupcy</orig><reg>bankruptcy</reg></choice> which again, brings out joy in <name type="person">Shylock</name> because he thinks that he can soon take a pound of flesh from <name type="person">Antonio</name>, who he hates.</s>
+      </p>
+      <p>
+        <s>Following to that <name type="person">Shylock's</name> mood swings again because <name type="person">Tubal</name> says more bad news about his daughter, only to tell him good news about <name type="person">Antonio</name> immediately after so <name type="person">Shylock</name> is in a good mood at the end of the conversation and says that he is in a <choice><orig>win-win situation</orig><reg>win-win-situation</reg></choice>.</s>
+        <s>If <name type="person">Antonio</name> stays, <name type="person">Shylock</name> can get a pound of flesh from him and if he leaves town, <name type="person">Shylock</name> can do business however he wants, because <name type="person">Antonio</name> was his closest competitor.</s>
+        <s>One can describe this conversation as bittersweet for <name type="person">Shylock</name> because he receives very bad and troubling news about his daughter but very good news about his situation with <name type="person">Antonio</name>, which leaves him thinking he is in a win-win-situation regarding the letter.</s>
+      </p>
+      <p>
+        <s>All in all one can say that <name type="person">Shylock</name> experiences many emotions during this conversation with <name type="person">Tubal</name> which leaves him in a bittersweet situation because of the aspects mentioned above.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l25_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, written by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref> published in <date>1925</date> is an <choice><orig>american</orig><reg>American</reg></choice> classic and is about the rise and fall of <ref target="b11lk2_1" type="character">Jay Gatsby</ref>.</s>
+        <s>The given excerpt deals with <ref target="b11lk2_1" type="character">Gatsby</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> meeting again after a long time without seeing.</s>
+      </p>
+      <p>
+        <s>The excerpt starts with <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Nick</ref> entering his house, where she asks him why she had to come alone.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> doesn't <choice><orig>answers</orig><reg>answer</reg></choice> her question.</s>
+        <s>When <ref target="b11lk2_1" type="character">Nick</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> arrive in the living room, <ref target="b11lk2_1" type="character">Gatsby</ref> is gone, which makes <ref target="b11lk2_1" type="character">Nick</ref> chuckle.</s>
+        <s>Since <ref target="b11lk2_1" type="character">Daisy</ref> doesn't know about <ref target="b11lk2_1" type="character">Gatsby</ref> and that he is also there.</s>
+        <s>So she wonders why <ref target="b11lk2_1" type="character">Nick</ref> was laughing.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> then enters the room from the front door.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> is really surprised to see him, but also excited.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> is excited too, so excited that he breaks <ref target="b11lk2_1" type="character">Nick's</ref> clock.</s>
+        <s>Then after some awkward silence between those three <ref target="b11lk2_1" type="character">Nick</ref> gets up to ask him for a quick talk.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref>, who is freaking out, tells <ref target="b11lk2_1" type="character">Nick</ref> that it was a mistake to invite <ref target="b11lk2_1" type="character">Daisy</ref> over.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> calms him down.</s>
+        <s>And then blames him for not treating <ref target="b11lk2_1" type="character">Daisy</ref> right.</s>
+        <s>After that <ref target="b11lk2_1" type="character">Nick</ref> leaves his own house <choice><orig>trough</orig><reg>through</reg></choice> the backdoor.</s>
+        <s>From there he starts to stare at <ref target="b11lk2_1" type="character">Gatsby's</ref> house.</s>
+        <s>After half an hour of looking at it, <ref target="b11lk2_1" type="character">Nick</ref> goes back to his house.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> are now sitting there talking.</s>
+        <s>As <ref target="b11lk2_1" type="character">Nick</ref> enters, <ref target="b11lk2_1" type="character">Gatsby</ref> gets up from the couch and suggest <ref target="b11lk2_1" type="character">Nick</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> should come visit his house, to which <ref target="b11lk2_1" type="character">Nick</ref> asks him, if he really wants him to come.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

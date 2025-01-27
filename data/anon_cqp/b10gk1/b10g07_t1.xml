@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g07_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence of the film <ref target="b10gk1_1" type="title">The Hate U Give</ref>, directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref> in year <date>2018</date> is about a conversation of <ref target="b10gk1_1" type="character">Chris</ref> and <ref target="b10gk1_1" type="character">Starr</ref> in school, they talk about their relationship.</s>
+      </p>
+      <p>
+        <s>At first <ref target="b10gk1_1" type="character">Chris</ref> walks the hallway in highschool while he looks happy and claps hands with his schoolmates.</s>
+      </p>
+      <p>
+        <s>In the next scene you can see <ref target="b10gk1_1" type="character">Starr</ref> at her locker, she looks at <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+        <s>As <ref target="b10gk1_1" type="character">Chris</ref> walks the hallway, <ref target="b10gk1_1" type="character">Starr</ref> describes details of <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> reaches <ref target="b10gk1_1" type="character">Starr</ref> at her locker and puts his earphones on <ref target="b10gk1_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> ears.</s>
+      </p>
+      <p>
+        <s>He <choice><orig>let</orig><reg>lets</reg></choice> her hear a song, at first <ref target="b10gk1_1" type="character">Starr</ref> enjoys it but then she seems pissed because of something that happened last days.</s>
+        <s>They have a conversation about what <choice><orig>happend</orig><reg>happened</reg></choice> in their relationship, <ref target="b10gk1_1" type="character">Starr</ref> tries to explain him how she feels about it.</s>
+      </p>
+      <p>
+        <s>Both see things different for <ref target="b10gk1_1" type="character">Chris</ref>, <ref target="b10gk1_1" type="character">Starr</ref> doesn't want the near, but <ref target="b10gk1_1" type="character">Chris</ref> wants to get closer.</s>
+      </p>
+      <p>
+        <s>The relationship shows that they have an understanding for both opinions.</s>
+      </p>
+      <p>
+        <s>After <ref target="b10gk1_1" type="character">Starr</ref> is okay with it, <ref target="b10gk1_1" type="character">Chris</ref> tries to impress her with his music and dances.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

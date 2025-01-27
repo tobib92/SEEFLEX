@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract from the speech <ref target="c10gk2_1" type="title">Remarks of president Barack Obama at student roundtable</ref> written in <date>April 2009</date> in <name type="geo">Istanbul</name>, deals with the arguments and the opinion from <ref target="c10gk2_1" type="speaker">Obama</ref> to make a student exchange and the topic, that it is important to know more about other cultures.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> starts with the topic why he <choice><orig>go</orig><reg>goes</reg></choice> to <name type="geo">Turkey</name> and he says <choice><orig>witch</orig><reg>which</reg></choice> goals he has <ref target="c10gk2_1" type="line">(l. 1-5)</ref>.</s>
+        <s>I think with a start like this he would become the <choice><orig>reades</orig><reg>readers'</reg></choice> attention.</s>
+        <s>He says that he is proud that more and more people know more about other <choice><orig>countrys</orig><reg>countries</reg></choice> and that the walls break down between them <add>(other and our country)</add> <ref target="c10gk2_1" type="line">(l. 4, 13)</ref>.</s>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> means that <choice><orig>studens</orig><reg>students</reg></choice> get advantages because they have a better chance to learn more languages and they can also learn it better <ref target="c10gk2_1" type="line">(l. 10)</ref>.</s>
+      </p>
+      <p>
+        <s>I think with this argument <choice><orig>make</orig><reg>makes</reg></choice> <ref target="c10gk2_1" type="speaker">Obama</ref> clear that students should <choice><orig>interessted</orig><reg>interested</reg></choice> to know more about other <choice><orig>countrys</orig><reg>countries</reg></choice>/cultures.</s>
+        <s>He says with the topic <quote>importance of intercultural understanding and student exchanges</quote> that it is very important to know what makes the other person in the world.</s>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> says that <choice><orig>studens</orig><reg>students</reg></choice> can study abroad and with them they can get experiences in languages or other important things.</s>
+      </p>
+      <p>
+        <s>He also says that everyone can have a good change for a good future when they are choose to advance a prosperity <ref target="c10gk2_1" type="line">(l. 20)</ref>.</s>
+      </p>
+      <p>
+        <s>In the end of the speech he says when people endeavor themself it doesn't difficult to <choice><orig>safe</orig><reg>save</reg></choice> a good future <ref target="c10gk2_1" type="line">(l. 21)</ref>.</s>
+        <s>I think with this <choice><orig>woards</orig><reg>words</reg></choice> he will motivation the <choice><orig>studens</orig><reg>students</reg></choice> that they are <choice><orig>interessted</orig><reg>interested</reg></choice> with the topic.</s>
+      </p>
+      <p>
+        <s><choice><orig>Studens</orig><reg>Students</reg></choice> should understand what it is about in the world and they make a picture of all themself and a student exchange is a good option and a good change for that.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c10gk2_1" type="speaker">Barack Obama</ref> uses often <quote>we</quote> and that gets the attention from the listeners.</s>
+      </p>
+      <p>
+        <s>I think he makes <choice><orig>somtimes</orig><reg>sometimes</reg></choice> a little break, because he will that the <choice><orig>listenes</orig><reg>listeners</reg></choice> can think about the topic and also understand it.</s>
+      </p>
+      <p>
+        <s>He told from his own experiences and that makes clear that he <choice><orig>find</orig><reg>finds</reg></choice> it very important and <choice><orig>studens</orig><reg>students</reg></choice> should go abroad to see the world, break walls down between cultures and get more experiences so they can <choice><orig>safe</orig><reg>save</reg></choice> his/her own future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

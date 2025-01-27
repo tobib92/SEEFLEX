@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g41_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After the decision <add>of the judge</add> is announced <name type="person">Starr</name> wants to show her disappointment, so she, <name type="person">Chris</name>, <name type="person">DeVante</name> and <name type="person">Seven</name> come to the neighbourhood to demonstrate their anger.</s>
+        <s>The first demonstration runs out of control and its participants begin to riot.</s>
+        <s><name type="person">Starr</name> and the three boys try to leave with <name type="person">Seven's</name> car, but they run out of gas.</s>
+        <s>They walk on foot and meet and peaceful demonstration.</s>
+        <s>Its participants point black hairbrushes into the air, as a symbol of why <name type="person">Khalil</name> got shot.</s>
+        <s><name type="person">Starr</name> recognizes her lawyer <name type="person">Ms. Ofrah</name>, the member of <name type="misc">Just Us for Justice</name>, standing on a police car and shouting into a bullhorn.</s>
+        <s><name type="person">Starr</name> is moved back and mixes the past with the present.</s>
+        <s>After she remembers the shots by <name type="person">Officer Cruise</name>, she is brought back.</s>
+        <s>That moment <name type="person">Ms. Ofrah</name> recognizes <name type="person">Starr</name> in the crowd and asks her if she wants to fight with her voice.</s>
+        <s><name type="person">Starr</name> agrees and is set on top of the car.</s>
+        <s><name type="person">Ofrah</name> gives her the bullhorn and <name type="person">Starr</name> thinks its effect is like one of a weapon.</s>
+        <s>At first <name type="person">Starr</name> is anxious, but after a cop says demonstrators need to exit the street immediately her fear gives way to anger and new courage.</s>
+        <s>She introduces herself to the crowd and says that this demonstration is about that <name type="person">Khalil</name> lived and his life mattered, not about how <name type="person">Khalil</name> died.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -67,6 +67,11 @@ CORPUS_NAME;
 
 ## my code
 SEEFLEX;
+
+## to run the cqp get_features.cqp script, exit cqp and run the following line
+
+cqp -c -r reg -D SEEFLEX -f get_features.cqp | perl featex.perl 20241127_SEEFLEX.tsv 
+
 ```
 
 </details>

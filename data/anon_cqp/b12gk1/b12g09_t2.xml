@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to introduce the present world leaders into the topic of climate change and give them a reason to fight against it, he uses diverse rhetorical devices to strengthen his position.</s>
+      </p>
+      <p>
+        <s>He gives a short welcome to the audience from which he immediatly leads into a comparison.</s>
+        <s>He compares this summit of leaders with a <name type="person">James Bond</name> movie and points out the <choice><orig>similaritys</orig><reg>similarities</reg></choice> in the seemingly very rough position in front of a doomsday device.</s>
+        <s>This comparison is making the current state of the world more graspable and also dramatizes it to put pressure on the audience <ref target="b12gk1_1" type="line">(l. 16)</ref>.</s>
+        <s>He keeps this attitude of pressuring the audience in the next paragraphs when he recalls to past meetings and how their promises were either ignored or partly fulfilled.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> sums up, that all this infuriated people all around the world and that all the built up rage will lash out on the present world leader if <name type="geo">Glasgow</name> comes to no conclusion or is another example for <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 10ff.)</ref>.</s>
+        <s>He used this term to <choice><orig>critizes</orig><reg>criticise</reg></choice> the failure of politicians around the globe regarding climate change because this expression of baby language says nothing different than that a baby could have done similar things.</s>
+        <s>After this <choice><orig>devasting</orig><reg>devastating</reg></choice> introduction he begins his advances on convincing the audience of the effectiveness that his plans will have.</s>
+        <s>Johnson therefore gives hope to the audience with the <choice><orig>elipsis</orig><reg>ellipsis</reg></choice> <quote>and we can</quote> <ref target="b12gk1_1" type="line">(l. 16)</ref> as answer to the rhetorical questions he used to end his introduction.</s>
+        <s>His intention behind it is to build up faith in his speech in the audience and also that everybody has an optimistic mindset on solving the issue of climate change going into this summit of leaders.</s>
+      </p>
+      <p>
+        <s>To support this he shortly enumerates in which crucial sectors we can achieve a massive effect on the development of climate change <ref target="b12gk1_1" type="line">(l. 16)</ref>.</s>
+        <s>It gives the impression that <ref target="b12gk1_1" type="speaker">Johnson</ref> is eager to not make any false promises again.</s>
+        <s>With the mindset of the audience being very positive about <choice><orig>alredy</orig><reg>already</reg></choice> having all answers <ref target="b12gk1_1" type="speaker">Johnson</ref> now tries to give reasons to perform the tasks at hand.</s>
+        <s>The reason behind it for <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> is based on his morale.</s>
+        <s>He sees a huge <gap reason="illegible" quantity="1" unit="word">cjul</gap> of action on his generation due to 200 hundred years of ignoring and catalyzing the issue <ref target="b12gk1_1" type="line">(l. 10f.)</ref>.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> states that they only need to fund the necessary actions which makes solving climate change look easy and <choice><orig>achieveable</orig><reg>achievable</reg></choice> <ref target="b12gk1_1" type="line">(l. 19ff)</ref>.</s>
+        <s>But <ref target="b12gk1_1" type="speaker">Johnson</ref> knows that this is only wishful thinking as all present world leaders do.</s>
+        <s>The problem is that the governments cannot afford it so <ref target="b12gk1_1" type="speaker">Johnson</ref> proposes that all present should do their best to cooperate with the market and the multilateral development banks behind it <ref target="b12gk1_1" type="line">(l. 22)</ref>.</s>
+        <s>The <choice><orig>incetivize</orig><reg>incentivize</reg></choice> this behaviour he gives the example of hw the <name type="geo">UK</name> quit their reliance on coal by working with the private sector to <choice><orig>built</orig><reg>build</reg></choice> up windparks <ref target="b12gk1_1" type="line">(l. 27)</ref>.</s>
+        <s>He compares the results with the <name type="geo">UK</name> becoming <quote>the Saudi-Arabia of wind</quote> which implies that other countries can have a huge global impact by adapting the <name type="geo">UK's</name> strategy <ref target="b12gk1_1" type="title">(l. 35)</ref>.</s>
+        <s>After that he brings the subject of guilt back up and warns that if they do not <choice><orig>achive</orig><reg>achieve</reg></choice> something big in <name type="geo">Glasgow</name> they will be jufged for it by the youth and the future generations <choice><orig>whoms</orig><reg>whose</reg></choice> lives got ravaged by the then unstoppable climate change.</s>
+        <s>Furthermore all this bitterness and hatred that will come in that case will be well-deserved <ref target="b12gk1_1" type="line">(l. 30ff.)</ref>.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> demands that <name type="misc">COP26</name> will not be the end of the story of climate change because this the last <choice><orig>oportunity</orig><reg>opportunity</reg></choice> to turn the tide and it would put all in an unmeasurable debt if there are no actions.</s>
+      </p>
+      <p>
+        <s>In conclusion <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> gave a brief introduction on the issue of climate change and formulates his reason to try solving it.</s>
+        <s>His speech focused on just a few aspects to not overwhelm anyone in the beginning of the summit.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

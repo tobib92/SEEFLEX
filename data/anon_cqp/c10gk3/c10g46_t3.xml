@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c10g46_t3</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+        <s>&gt;my name is <name type="person">Faraj al-Byarshan</name>, I am 41 years old and I came to <name type="geo">New York</name> in year <date>2005</date>.</s>
+        <s>My home country is the <name type="geo">Iraq</name> where I lived 25 years.</s>
+        <s>During this time I got a wife.</s>
+        <s>We have two sons.</s>
+        <s>First they couldn't come with me to <name type="geo">New York</name> because we had not enough money.</s>
+        <s>But two years later a friend of us took them with him.</s>
+        <s>In these two years I was really sad angry about myself.</s>
+        <s><quote>I shouldn't have gone to <name type="geo">New York</name> without my family</quote> I said to myself every day.</s>
+        <s>But I had no choice to do anything else.</s>
+        <s>In our country we had bad living conditions.</s>
+        <s>My parents died there because they had no money to buy food for <choice><orig>themselfs</orig><reg>themselves</reg></choice>.</s>
+        <s>As I said before we hadn't much money as well.</s>
+        <s>It was only enough to get me to <name type="geo">New York</name>.</s>
+        <s>We thought that I can get a job there and earn some money so I can send something to my family.</s>
+        <s>But it wasn't that easy.</s>
+        <s>I asked restaurants, supermarkets and everything else.</s>
+        <s>But no one wanted an immigrant who works for them.</s>
+        <s>I couldn't communicate with my family from <date>2005</date> to <date>2007</date>.</s>
+        <s>So I didn't know, if they are still alive or dead or maybe on the way to <name type="geo">New York</name> as well.</s>
+        <s>I was hoping that they are alive so I tried to get a job for two weeks.</s>
+        <s>After this time I finally got one at a cleaning company.</s>
+        <s>Every month I earned 200$.</s>
+        <s>I took 100 for myself and sent 100 to my family.</s>
+        <s>I wasn't <choice><orig>shure</orig><reg>sure</reg></choice> if they get it but I believed in God.</s>
+        <s>That's the only thing you can do in this situation.</s>
+        <s>In <date>2007</date> when my family finally came to <name type="geo">New York</name> I was the happiest man on earth.</s>
+        <s>My wife told me that they came in here with a little fishing boat.</s>
+        <s>They drove over the whole Atlantic with a fishing boat!</s>
+        <s>You can't imagine how scared you are at this time.</s>
+        <s>But they are alive and they are with me.</s>
+        <s>That's the only thing that counts.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

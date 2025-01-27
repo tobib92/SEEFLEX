@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g58_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech given by the former president of the <name type="geo">United States of America</name> <ref target="c10gk4_1" type="speaker">Barack Obama</ref> is called <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref>, it was given <choice><orig>infront</orig><reg>in front</reg></choice> of students from the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name> and it is about crosscultural understanding <choice><orig>aswell</orig><reg>as well</reg></choice> as the importance of student exchanges.</s>
+      </p>
+      <p>
+        <s>The president starts with the cause why he went to <name type="geo">Turkey</name>, he said that he wants to rebuild the relationship between the <name type="geo">US</name> and <name type="geo">Turkey</name>, because of the fact that we all share the same interests and should give each other proper respect <ref target="c10gk4_1" type="line">(ll. 1-3)</ref>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Text</orig><reg>text</reg></choice> can be splitted in two parts the first one deals with the plans of the president to connect young Americans to people all around the world <ref target="c10gk4_1" type="line">(ll. 9-10)</ref>.</s>
+        <s>To strengthen this argument he used different examples before and connect if all together by saying <quote>new spirit of activism and responsibility take root</quote> <ref target="c10gk4_1" type="line">(l. 4)</ref>, he then gives examples like that young people <choice><orig>gives</orig><reg>give</reg></choice> a lot of <choice><orig>Energy</orig><reg>energy</reg></choice> to make his presidential campaign happen <ref target="c10gk4_1" type="line">(ll. 5-7)</ref> or when he travels that he always finds passionate, engaged and deeply informed young people all over the world that is why he wants to give something back to the young <choice><orig>americans</orig><reg>Americans</reg></choice> by giving them the chance to meet new people <ref target="c10gk4_1" type="line">(ll. 9-10)</ref>.</s>
+        <s>But he admits that welcoming students is always critical for <name type="geo">America</name> when it comes to engage the world <ref target="c10gk4_1" type="line">(ll. 11-12)</ref>.</s>
+      </p>
+      <p>
+        <s>The second part is about the advantages of student exchanges, it is filled with two arguments which come straight at the beginning of this part.</s>
+        <s>The first argument promotes the opinion that student exchanges break down borders between us by letting people come together and sharing culture and experiences <ref target="c10gk4_1" type="line">(ll. 13-14)</ref>.</s>
+        <s>The next argument is about that we all have the instinct to move forward as the human race which we can only achieve by working together when this happens the mistrust is going to fade and we are going to achieve huge progress <ref target="c10gk4_1" type="line">(ll. 14-17)</ref>.</s>
+        <s>At the end the president reminds the people, that only they can choose to connect each other or to isolate <choice><orig>themself</orig><reg>themselves</reg></choice> because with a more connected world, they can achieve a world in which all people can live in peace but this only happens when everyone strains for a better world.</s>
+      </p>
+      <p>
+        <s>In conclusion I would say that the president  has used one big theme in the first part which he has strengthen with examples.</s>
+        <s>The second part is about student exchanges and their advantages for this he has used different arguments.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

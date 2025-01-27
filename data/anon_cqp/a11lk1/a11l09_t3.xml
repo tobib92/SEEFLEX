@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l09_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">diary</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear diary,</salute>
+      </p>
+      <p>
+        <s>I don't know what to say.</s>
+        <s>I've got no one to talk to, neither my mother nor my uncle, I pushed them all away.</s>
+        <s>What am I even doing?</s>
+        <s>I can't believe how I behaved today.</s>
+        <s>Even though I must admit that it felt good to finally say what's on my mind.</s>
+        <s>I know that I was in a rage, but I couldn't believe what my uncle did to aunt <ref target="a11lk1_1" type="character">Emily</ref>.</s>
+        <s>Because of behaviour like that, people are afraid of us and think that we're terrorists.</s>
+        <s>Uncle <ref target="a11lk1_1" type="character">Amir</ref> has always acted so mature and rational in front of me.</s>
+        <s>I turn 23 next year, when was he going to stop thinking of me like a naive teenager?</s>
+        <s>I can't take all those weird looks and comments anymore.</s>
+        <s>But there is one thing that I'm sure of: I'm not going to end up like my uncle.</s>
+        <s>Because of his coward behaviour, he lost everything and everyone in his life.</s>
+        <s>It is in our hand, in the hands of the young generation to achieve what the ones before us were too afraid to fight for: justice.</s>
+        <s>There is no way, that I will hide who I am my whole life, like my uncle did.</s>
+        <s>The weight of my voice is not going to be less if it is <name type="misc">Hussein</name> speaking and not <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s>But honestly, how are people like the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> authorities even surprised?</s>
+        <s>If they keep shaking us off the edges of society and treat us like a lower class, how are they not surprised that we switch sides to where we fell accepted?</s>
+        <s>I know that what I've said was over the line.</s>
+        <s>Still, I do intend to fight.</s>
+        <s>Not with weapons, but with my voice as an immigrated, Muslim person contributing to <choice><orig>american</orig><reg>American</reg></choice> society.</s>
+        <s>Isn't that what makes the <name type="geo">US</name> special?</s>
+        <s>Isn't that what they call the American Dream?</s>
+        <s>It is never too late to fulfill dreams.</s>
+        <s>Not even for my uncle <ref target="a11lk1_1" type="character">Amir</ref>.</s>
+        <s>If he achieves to get over his problems and starts all over again, even he can find happiness once more.</s>
+      </p>
+      <p>
+        <s>Oh, <ref target="a11lk1_1" type="character">Tariq</ref> just called me.</s>
+        <s>I'm sure that he would join me in fighting for our future.</s>
+        <s>This might even be the best idea of my life, as it could change everything.</s>
+      </p>
+      <p>
+        <signed>Yours, Amir</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

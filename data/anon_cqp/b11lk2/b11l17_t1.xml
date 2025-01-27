@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l17_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11lk2_1" type="title">The Great Gatsby</ref> was written by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref> and published in <date>1925</date>.</s>
+        <s>The book is <choice><orig>considerd</orig><reg>considered</reg></choice> and American classic and deals with the rise and fall of <ref target="b11lk2_1" type="character">Jay Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="b11lk2_1" type="character">Nick</ref> learns that <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> had a relationship 5 years ago, it's planned to arrange a meeting.</s>
+        <s>So they invite <ref target="b11lk2_1" type="character">Daisy</ref> over to <ref target="b11lk2_1" type="character">Nick's</ref> for tea, without her knowing that <ref target="b11lk2_1" type="character">Gatsby</ref> will be there.</s>
+        <s>The excerpt starts just when <ref target="b11lk2_1" type="character">Daisy</ref> arrived at <ref target="b11lk2_1" type="character">Nick's</ref>, and she is leaving the car.</s>
+        <s>Before they enter the house <ref target="b11lk2_1" type="character">Daisy</ref> believes that <ref target="b11lk2_1" type="character">Nick</ref> is in love with her, and that that's the reason is, for her having to come alone.</s>
+      </p>
+      <p>
+        <s>As they enter the living room <ref target="b11lk2_1" type="character">Nick</ref> is deserted, but his <choice><orig>suprise</orig><reg>surprise</reg></choice> get <choice><orig>interupted</orig><reg>interrupted</reg></choice> by <ref target="b11lk2_1" type="character">Gatsby</ref> knocking on the front door.</s>
+        <s>When <ref target="b11lk2_1" type="character">Gatsby</ref> comes in and enters the living room <ref target="b11lk2_1" type="character">Nick</ref> stays in the hall and doesn't hear any sounds.</s>
+        <s>As he enters the living room, the conversation slowly starts, but is again and again <choice><orig>interupted</orig><reg>interrupted</reg></choice> by awkward pauses or <ref target="b11lk2_1" type="character">Gatsby</ref> clumsiness.</s>
+        <s>So <ref target="b11lk2_1" type="character">Nick</ref> tries to leave again, to ease the situation and create a more personal environment for them.</s>
+        <s>But <ref target="b11lk2_1" type="character">Gatsby</ref> stops him and complains arranging this meeting was a mistake, <ref target="b11lk2_1" type="character">Nick</ref> then tries to calm <ref target="b11lk2_1" type="character">Gatsby</ref> by explaining to him that <ref target="b11lk2_1" type="character">Daisy</ref> is <choice><orig>embarassed</orig><reg>embarrassed</reg></choice> too.</s>
+      </p>
+      <p>
+        <s>While <ref target="b11lk2_1" type="character">Nick</ref> waits outside for one hour and a half <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> get to know each other again, and when <ref target="b11lk2_1" type="character">Nick</ref> enters again it's like they never split.</s>
+        <s>The excerpt <choice><orig>end</orig><reg>ends</reg></choice> with <ref target="b11lk2_1" type="character">Gatsby</ref> wanting to show <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Nick</ref> around his mansion.</s>
+        <s>This excerpt has a big meaning for the rest of the novel, because meeting <ref target="b11lk2_1" type="character">Daisy</ref> leads to him arguing and fighting with <ref target="b11lk2_1" type="character">Tom</ref> and finally <ref target="b11lk2_1" type="character">Gatsby's</ref> death, <choice><orig>wich</orig><reg>which</reg></choice> marks the end of the book.</s>
+      </p>
+      <p>
+        <s>Furthermore this excerpt marks the middle of the book and the rest from here on almost always circles around this meeting or evolved out of it.</s>
+      </p>
+      <p>
+        <s>One could even argue that it's the most important scene from the novel as <ref target="b11lk2_1" type="character">Gatsby</ref> is out protagonist.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

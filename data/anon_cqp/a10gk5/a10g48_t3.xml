@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g48_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>While we humans are supposedly polluting the environment, we cause the extinction of species, the destruction of nature and its balance and will, at some point, be victims ourselves.</s>
+        <s>Is this true, and if so, what could be done against it?</s>
+      </p>
+      <p>
+        <s>Firstly, it has to be considered that before humankind started the industrialization, the nature seemed to be fine and balanced.</s>
+      </p>
+      <p>
+        <s>Secondly, when you think about what causes pollution and track these <choice><orig>objets</orig><reg>objects</reg></choice> back, you will always end up with us humans.</s>
+        <s>For example our man-made vehicles produce plenty of <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice>, which results in polluted air or our synthetic plastic that lands in the oceans, is mistaken for food by animals, who then die of it.</s>
+      </p>
+      <p>
+        <s>It might seem cruel, but we humans are responsible for the environmental pollution and its destruction of earth.</s>
+      </p>
+      <p>
+        <s>The planet earth is the only known one to have allowed life to flourish on it.</s>
+        <s>There is no planet B for us.</s>
+        <s>So obviously, we urgently have to stop destroying it and ourselves.</s>
+        <s>To do so, there appear to be multiple measures.</s>
+      </p>
+      <p>
+        <s>Firstly, we should recycle our waste and preferably buy reusable products in the first place.</s>
+        <s>Like that, we limit our litter.</s>
+      </p>
+      <p>
+        <s>Secondly, we should use greener ways of transport, like public transports or electric vehicles, so as to reduce our air pollution.</s>
+      </p>
+      <p>
+        <s>Thirdly, we should find more environment friendly alternatives for our everyday activities.</s>
+        <s>For example, using solar energy instead of energy that origins from nuclear power plants.</s>
+      </p>
+      <p>
+        <s>To sum it up, we have to realise that it is us who are the reason for planet earth to be slowly <q>falling apart</q>.</s>
+        <s>There are many ways to try to stop this.</s>
+        <s>Clearly, this can however only be achieved if humankind unites and works towards this goal in unity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l25_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref> was published in <date>2012</date> and deals with racism towards <choice><orig>muslims</orig><reg>Muslims</reg></choice>.</s>
+      </p>
+      <p>
+        <s>It is about the lawyer <ref target="a11lk2_1" type="character">Amir Kapoor</ref>, who was born into a Muslim family, but has renounced his faith.</s>
+      </p>
+      <p>
+        <s>He is married to <ref target="a11lk2_1" type="character">Emily</ref>, a white artist who is extremely fascinated by the Islam and pushed <ref target="a11lk2_1" type="character">Amir</ref> into assisting an innocent Muslim at court.</s>
+      </p>
+      <p>
+        <s>The extract of scene 3 starts off with <ref target="a11lk2_1" type="character">Jory</ref>, the <choice><orig>african-american</orig><reg>African-American</reg></choice> <choice><orig>collegue</orig><reg>colleague</reg></choice> of <ref target="a11lk2_1" type="character">Amir</ref> and wife of <ref target="a11lk2_1" type="character">Isaac</ref>, <ref target="a11lk2_1" type="character"><choice><orig>Emilys</orig><reg>Emily's</reg></choice></ref> Jewish art dealer, who catches <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Emily</ref> kissing after an escalated dinner.</s>
+      </p>
+      <p>
+        <s>A few moments later, <ref target="a11lk2_1" type="character">Amir</ref> joins them after he just found out that the law firm he is working for is going to make <ref target="a11lk2_1" type="character">Jory</ref> partner instead of him.</s>
+      </p>
+      <p>
+        <s>He gets even more upset when <ref target="a11lk2_1" type="character">Jory</ref> points out that they were about to kiss and accuses them of having an affair with each other.</s>
+      </p>
+      <p>
+        <s>Afterwards, <ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> both try to deny, but not <ref target="a11lk2_1" type="character">Jory</ref> and <choice><orig>neigher</orig><reg>neither</reg></choice> <ref target="a11lk2_1" type="character">Amir</ref> believe them.</s>
+      </p>
+      <p>
+        <s><choice><orig>Completly</orig><reg>Completely</reg></choice> furious, <ref target="a11lk2_1" type="character">Amir</ref> yells at <ref target="a11lk2_1" type="character">Jory</ref> and calls her a racist slur.</s>
+      </p>
+      <p>
+        <s>Then he continues to scream at <ref target="a11lk2_1" type="character">Isaac</ref> and spits in his face, who then leaves.</s>
+      </p>
+      <p>
+        <s>After another argument with <ref target="a11lk2_1" type="character">Amir</ref>, <ref target="a11lk2_1" type="character">Jory</ref> walks out as well, leaving <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Emily</ref> by <choice><orig>themselfs</orig><reg>themselves</reg></choice>, who gets him a <choice><orig>coffe</orig><reg>coffee</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Then <ref target="a11lk2_1" type="character">Amir</ref> asks his wife if she is sleeping with <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> admits that she once did, on a trip to <name type="geo">London</name>, but that she regrets it.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> does not respond her and just slaps her in the face multiple times.</s>
+      </p>
+      <p>
+        <s>All in all, scene 3 is the climax of the story where the secret relationship/affair between <ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> is revealed and <ref target="a11lk2_1" type="character">Amir</ref> becomed violent.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

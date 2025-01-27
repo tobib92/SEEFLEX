@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>b11g10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As written before, the novel <ref target="b11gk1_1" type="title">Gun Love</ref> by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>, published in <date>2019</date> is about the story of <ref target="b11gk1_1" type="character">Pearl</ref> and her mother <ref target="b11gk1_1" type="character">Margot</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Pearl</ref> and <ref target="b11gk1_1" type="character">Margot</ref> are living since 14 years in bad conditions in a <name type="misc">Mercury</name> in the trailer park in <name type="geo">Florida</name>.</s>
+      </p>
+      <p>
+        <s>Now I want to analyse if the <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> should have taken <ref target="b11gk1_1" type="character">Pearl</ref> away from <ref target="b11gk1_1" type="character">Margot</ref>, to bring her into a foster home.</s>
+      </p>
+      <p>
+        <s>On the one <choice><orig>Hand</orig><reg>hand</reg></choice> <ref target="b11gk1_1" type="character">Pearl</ref> is everything for <ref target="b11gk1_1" type="character">Margot</ref>, so if you would take her away you take a big part from <ref target="b11gk1_1" type="character">Margot</ref> away.</s>
+        <s>So that <ref target="b11gk1_1" type="character">Margot</ref> doesn't get happy anymore.</s>
+        <s>But on the other <choice><orig>Hand</orig><reg>hand</reg></choice> <ref target="b11gk1_1" type="character">Pearl</ref> is a very intelligent student and likes to go to school.</s>
+        <s>She also <choice><orig>dream</orig><reg>dreams</reg></choice> of <choice><orig>finiture</orig><reg>furniture</reg></choice>.</s>
+        <s>So if the <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> would put her into a foster home she can <choice><orig>affort</orig><reg>afford</reg></choice> her dream of a chair and a desk and she has better <choice><orig>oppertunities</orig><reg>opportunities</reg></choice> of getting a good job in the future.</s>
+        <s>When we have a look on the American Dream you can notice that it is very hard to get in the upper class, when you born in a poor family.</s>
+        <s>But if <ref target="b11gk1_1" type="character">Pearl</ref> <choice><orig>start</orig><reg>starts</reg></choice> a new life now her chance of getting a good job with much money is much higher as when she <choice><orig>wait</orig><reg>waits</reg></choice> until she gets older.</s>
+      </p>
+      <p>
+        <s>But if you look with another view on this situation you can't be sure if she doesn't like it in the trailer park.</s>
+        <s>Maybe she <choice><orig>love</orig><reg>loves</reg></choice> it there and wants to <choice><orig>life</orig><reg>live</reg></choice> there forever.</s>
+      </p>
+      <p>
+        <s>But <ref target="b11gk1_1" type="character">Pearl</ref> is a child she <choice><orig>need</orig><reg>needs</reg></choice> friends.</s>
+        <s>She needs to play with others and communicate with more people in her age.</s>
+        <s>If she goes in a foster home she will make contacts to other children with the same age like her.</s>
+        <s>And if something would happen to <ref target="b11gk1_1" type="character">Margot</ref> she is safe.</s>
+        <s>She could live a child life without fear.</s>
+      </p>
+      <p>
+        <s>In my opinion it would be right, if the <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice> put <ref target="b11gk1_1" type="character">Pearl</ref> into a foster home.</s>
+        <s>She can <choice><orig>life</orig><reg>live</reg></choice> a life with more friends and later she <choice><orig>have</orig><reg>has</reg></choice> many opportunities for a good job and a good future.</s>
+        <s>Even <ref target="b11gk1_1" type="character">Margot</ref> would be very sad, I think she <choice><orig>want</orig><reg>wants</reg></choice> only the best for <ref target="b11gk1_1" type="character">Pearl</ref> and this would be the best in this situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

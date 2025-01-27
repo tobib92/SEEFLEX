@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g41_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Carlos,</salute>
+      </p>
+      <p>
+        <s>I have heard that you ignore the losers of globalisation and due to the fact that I read an article about it, I want to make you aware about the losers of globalisation.</s>
+      </p>
+      <p>
+        <s>The article shows the life of three people who visited an industry in <name type="geo"><choice><orig>Cambodscha</orig><reg>Cambodia</reg></choice></name>.</s>
+        <s>They were shocked about the bad working conditions and the life there.</s>
+        <s>Besides, they describe that the workers are sitting in almost the same position for hours and that they do the same procedure every day.</s>
+        <s>The article shows how desolate a life at those industries can be and that the workers often have no choice and hope.</s>
+        <s>Moreover they refer their lives to our, which underlines the shocking friction between human <choice><orig>lifes</orig><reg>lives</reg></choice> in our today's world.</s>
+        <s>For example, the workers need to eat the same food every day and they get paid very poorly, considering that they even work much more than we do.</s>
+        <s>Due to this shocking experience those three people had there in <name type="geo"><choice><orig>Cambodscha</orig><reg>Cambodia</reg></choice></name>, they decided to be more active to provide such catastrophical conditions in the future.</s>
+      </p>
+      <p>
+        <s>I hope this opened your eyes my dear friend and that you might rethink your daily behaviour in order to help those losers of globalisation.</s>
+      </p>
+      <p>
+        <signed>Best wishes, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

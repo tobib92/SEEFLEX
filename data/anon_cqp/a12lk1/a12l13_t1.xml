@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l13_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Sonnet 138, written by<ref target="a12lk1_1" type="author">Shakespeare</ref> is about the paradox nature of love and truthfulness.</s>
+      </p>
+      <p>
+        <s>The speaker begins by introducing the guiding idea of the sonnet.</s>
+        <s>His or her lover is untruthful, though he or she ignores the lies willingly.</s>
+        <s>This is because his or her lover might imagine the speaker to the caught up in ungenuine pleasenties.</s>
+        <s>In the second quatrain this idea gets further developed.</s>
+        <s>The beloved knows that her lover is not of inexperienced youth, yet persuades herself into believing the opposite and is thus lying to herself.</s>
+        <s>However, the speaker does not intervene and lets the deceit play on.</s>
+        <s>At this point the speaker arrives at the general conclusion, that both of them are <gap reason="illegible" quantity="1" unit="word">simoly</gap> <gap reason="illegible" quantity="1" unit="word">denrins</gap> the truth.</s>
+        <s>In the third quatrain the train of thought abruptly change as the speaker asks himself why the both of them <choice><orig>can not</orig><reg>cannot</reg></choice> simply tell their truths.</s>
+        <s>This is where the speaker establishes his or her thesis.</s>
+        <s>The essence of this <quote>seeming trust</quote> is what keeos the truth from coming out and is the foundation the love humans know best.</s>
+        <s>The speaker arrives at the moral of the story in the concluding couplet.</s>
+        <s>The couple will keep up with their untruthfulness and stay together.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

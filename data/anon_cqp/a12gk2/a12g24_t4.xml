@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g24_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <name type="person">Elias</name>,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>I found an interesting article with the title <ref target="a12gk2_2" type="title">Berlin spricht Englisch</ref> <add><name type="geo">Berlin</name> speaks English</add> by <ref target="a12gk2_2" type="author">Marina Kormbaki</ref> published in the <name type="misc">Hannoversche Allgmemeine Zeitung</name> on <date>15 July 2016</date> about life in <name type="geo">Berlin</name>.</s>
+        <s>When I read this article I instantly had to <gap reason="illegible" quantity="2" unit="word">ghihgle ab</gap> you <gap reason="illegible" quantity="1" unit="word">hurl</gap> email.</s>
+        <s>After I read <gap reason="illegible" quantity="1" unit="word">ghul</gap> I think a year in <name type="geo">Berlin</name> would be perfect for you.</s>
+      </p>
+      <p>
+        <s>Firstly, <name type="geo">Berlin</name> is vry <gap reason="illegible" quantity="1" unit="word">rundler</gap> city for <choice><orig>Tourists</orig><reg>tourists</reg></choice> and students, in many areas like <name type="geo">Schillerkiez</name> or <name type="geo">Flughafenstraße</name> are full with English stores, <choice><orig>restorants</orig><reg>restaurants</reg></choice> and <choice><orig>English speaking</orig><reg>English-speaking</reg></choice> people.</s>
+        <s>The article claims that you have there <choice><orig>an</orig><reg>a</reg></choice> disadvantage if you <choice><orig>can not</orig><reg>cannot</reg></choice> speak English.</s>
+        <s><name type="geo">Berlin</name><gap reason="illegible" quantity="1" unit="word">lock</gap> in some areas like other big <choice><orig>citys</orig><reg>cities</reg></choice> like <name type="geo">London</name>.</s>
+      </p>
+      <p>
+        <s><name type="misc">Papilles</name> is an example for a café that also could be <choice><orig>find</orig><reg>found</reg></choice> in <foreign xml:lang="de">Amerika</foreign>.</s>
+        <s>In the shop <name type="misc">Curious Fox</name> you can also buy English literature.</s>
+        <s>But the two best aspects in <name type="geo">Berlin</name> are the <choice><orig>relativ</orig><reg>relatively</reg></choice> low rents and the <foreign xml:lang="de">Kieze</foreign>.</s>
+        <s>That is an area where you find many clubs.</s>
+        <s>And I know that you love it to go on <choice><orig>partys</orig><reg>parties</reg></choice>.</s>
+        <s>And the best thing is that the prices in <name type="geo">Berlin</name> are lower than in other <choice><orig>citys</orig><reg>cities</reg></choice>.</s>
+        <s><gap reason="illegible" quantity="1" unit="word">I</gap> is the <gap reason="illegible" quantity="1" unit="word">gerb</gap> city for students like you.</s>
+        <s>You can speak English, don't have to be very rich and can make party whenever you want.</s>
+        <s>Please give me a speedy answer and I hope that I see you in one year in <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

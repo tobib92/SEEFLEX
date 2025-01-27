@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l07_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">diary</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>That selfish prick.</s>
+        <s>Thinks he can betray his people and live a better life without being him.</s>
+        <s>Never.</s>
+        <s>I'm so angry I didn't even write an entry.</s>
+        <s>Oh relax.</s>
+      </p>
+      <p>
+        <s>My dear diary, today I had a lot of experiences.</s>
+        <s>Starting at the beginning, I was captured by the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> because they thought I was a terrorist.</s>
+      </p>
+      <p>
+        <s>I can't even express how I feel about that I mean who has such clichees now.</s>
+        <s>However that wasn't the worst part.</s>
+        <s>I even had to laugh when they brought up my immigration status.</s>
+      </p>
+      <p>
+        <s>Like I said the worse came after it.</s>
+        <s>My uncle picked me up and as soon as we started talking about the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> thing, it got heated.</s>
+        <s>My uncle just doesn't share the same opinion, it's quite the opposite actually.</s>
+        <s>He told me I should become friends with those guys.</s>
+        <s>Yes the ones that just had racist clichees on me.</s>
+        <s>Never ever would I think of them as friends.</s>
+        <s>And that's his problem.</s>
+        <s>He doesn't have friends so he tries to make some with American racist authorities.</s>
+        <s>Oh sorry I didn't mean it like that but please.</s>
+      </p>
+      <p>
+        <s>He just thinks about the benefit he could get.</s>
+        <s>According to him that's probably a nice cup of coffee with those racists instead of being brought in.</s>
+        <s>I mean fair enough, the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> station is not pretty.</s>
+      </p>
+      <p>
+        <s>But no seriously I can't just be friends with my enemy.</s>
+        <s>What level of paradoxon is that?</s>
+      </p>
+      <p>
+        <s>He's just a traitor.</s>
+        <s>A traitor to his religion and his home country.</s>
+        <s>How can he live with that.</s>
+        <s>I will rather live in fear of being mistreated by a racist that I don't know and know I won't respect than living in the guilt of being a damn traitor.</s>
+        <s>Waking up always slipping into the role of someone I'm not.</s>
+      </p>
+      <p>
+        <s>I can't believe it.</s>
+      </p>
+      <p>
+        <s>Why does he have to be in my family.</s>
+        <s>Why can't he just be one of those racists guys on the street.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> didn't even stand by my side for a moment or at least tried to feel how I felt.</s>
+        <s>Did he completely lose his sense of sympathy?</s>
+      </p>
+      <p>
+        <s>And where did his way of life bring him?</s>
+        <s>Nowhere.</s>
+        <s>It has to be hard sticking to that opinion even though it failed.</s>
+      </p>
+      <p>
+        <s>He doesn't have a job, he doesn't have a wife and why?</s>
+        <s>Because of him.</s>
+        <s>See there isn't even need for me to explain it to him.</s>
+        <s>If he would honestly reflect on himself, he would see what I mean.</s>
+        <s>Loyalty brought me to a short visit to an <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> station.</s>
+        <s>How cool.</s>
+      </p>
+      <p>
+        <s>Some kids probably dream about that.</s>
+        <s>And it won't change much in the future wherever he goes there will be his true shadow in the background not letting him do what he wants to do.</s>
+        <s>And he will always have that conflict in himself, knowing he truly is someone else.</s>
+        <s><ref target="a11lk1_1" type="character">Abdullah</ref> a Pakistani boy raised as a muslim.</s>
+      </p>
+      <p>
+        <s>For instance how does he want to apply for a job when everyone knows that he faked his name and how does he want to live life with a woman who will soon or later find out that he punched his wife in the face?</s>
+      </p>
+      <p>
+        <s>And I will triumph as a popular supporter of the mosque and will live in peace.</s>
+        <s>I won't have to think about being haunted by my shadow.</s>
+        <s>I can live the life I want to live and I will do that in pride of my religion no matter what happens.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

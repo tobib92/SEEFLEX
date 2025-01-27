@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g03_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="a11gk1_1" type="title">The Hate U Give</ref>, written by <ref target="a11gk1_1" type="author">Angie Thomas</ref> and published in year <date>2017</date>, is about a 16 year old teenage girl, who has to deal with conflict of identity through growing up in a <gap reason="illegible" quantity="1" unit="word">munor</gap>, from gangs controlled, neighborhood, going on a school with primarily white children <add><name type="person">Starr</name>, the protagonist, is black</add>, while facing racism and discrimination of blacks and seeing two of her friends get murdered.</s>
+        <s>In this excerpt it is described how <name type="person">Starr</name> loses control <add>because the grand jury declared the police officers who had shot one of her friends as not guilty</add> and joins a riot with her friends.</s>
+        <s>From line 1 to line 19 it is described how <name type="person">Starr</name>, <gap reason="illegible" quantity="1" unit="word">deveocnt</gap>, <name type="person">Lauren</name> and <name type="person">Chris</name> arrive at <choice><orig>a</orig><reg>an</reg></choice> intersection in which protestors are standing at the location, where <name type="person">Khalil</name> was shot, while police officers try to clear that <gap reason="illegible" quantity="1" unit="word">sone</gap>.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> also sees <name type="person">Ms. Ofrah</name>, her attorney, who demonstrates on top of a police car, holding a bullhorn and leading the chant through screaming <quote>A hairbrush is not a gun</quote>.</s>
+      </p>
+      <p>
+        <s>After that it is mentioned how <name type="person">Starr</name> gets a flashback of <name type="person">Khalil's</name> murder then <ref target="a11gk1_1" type="line">(l. 22)</ref> <name type="person">Ms. Ofrah</name> recognizes <name type="person">Starr</name> and asks what she is doing in this area.</s>
+      </p>
+      <p>
+        <s><name type="person">Ms. Ofrah</name> realizes that <name type="person">Starr</name> wants to fight for guilty with her biggest weapon - her voice, as <name type="person">Ms. Ofrah</name> said and soon <name type="person">Starr</name> stands on the police car talking through the bullhorn towards the crowd.</s>
+      </p>
+      <p>
+        <s>First she is shy and insecure, but after a bit of approval <add>of the crowd</add> she gains confidence and then she turns around towards the cops, telling the story that <name type="person">Khalil</name> died and that his live matters.</s>
+      </p>
+      <p>
+        <s>To tome to conclusion one could say that this excverpt is a <add><gap reason="illegible" quantity="1" unit="word">spinming</gap></add> important point in the novel, because <name type="person">Starr</name> overcomes her fear with power and anger, while telling the story to the cops, which <add>not everyone</add> defended one-fifteen <add>police officer, who shot a friend of <name type="person">Starr</name></add>.</s>
+        <s>In this scene the whole tension, which was build up throughout the whole till this scene, refliefs, this is why this scene is also important in the novel.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g39_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a10gk5_1" type="author">Ankita Mitra</ref> exposes, that our fast change in the industry and growth of urbans do not increase our lifestyle - but put our health such as the future living on the earth down.</s>
+      </p>
+      <p>
+        <s>The environmental pollution is according to <ref target="a10gk5_1" type="author">Ankita</ref> a <choice><orig>menance</orig><reg>menace</reg></choice> , which rapidly destroys the healthy living conditions, for example the sea life, the plants - even more animals - and moreover human beings.</s>
+      </p>
+      <p>
+        <s>In fabrics it comes to accidents, where big areas are destroyed.</s>
+        <s>New technologies often put our environment in danger.</s>
+        <s>Our daily habit, to use transports and other inventions, which make our <choice><orig>live</orig><reg>life</reg></choice> easier, but tend more to reduce the life of the nature.</s>
+        <s>The industry is capable of producing or filtering poisonous materials, which after a certain use, land in lakes or earth.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

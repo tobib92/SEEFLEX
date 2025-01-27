@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to motivate his audience to act against climate change and he tries to get the responsibility toward the younger generations <choice><orig>accros</orig><reg>acros</reg></choice> to his listeners.</s>
+      </p>
+      <p>
+        <s>His speech is <choice><orig>devided</orig><reg>divided</reg></choice> into nine parts.</s>
+        <s>In the first part <ref target="b12gk1_1" type="line">(l. 1-9)</ref> <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> says welcome to everybody <ref target="b12gk1_1" type="line">(l. 1)</ref> and introducing them to the topic.</s>
+        <s>He welcomes them twice by using a parallelism <ref target="b12gk1_1" type="line">(l. 1)</ref> to connect the following metaphor about <name type="person">James Bond</name> to the beginning and <name type="geo">Glasgow</name>, where the climate summit takes place.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> compares the <name type="person">James Bond</name> movies and the <quote>doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 3)</ref> in it to the actual situation with the climate change right now <ref target="b12gk1_1" type="line">(ll. 2-8)</ref>.</s>
+      </p>
+      <p>
+        <s>The Second part is a look back into the past and what <choice><orig>happend</orig><reg>happened</reg></choice> before <ref target="b12gk1_1" type="line">(ll. 10-15)</ref>.</s>
+      </p>
+      <p>
+        <s>This paragraph is showing the history of the fight against climate change: first the acknowledgment <ref target="b12gk1_1" type="line">(l. 10)</ref>, then the promises the <choice><orig>politians</orig><reg>politicians</reg></choice> did not keep, which are <choice><orig>critizised</orig><reg>criticised</reg></choice> by <ref target="b12gk1_1" type="speaker">Johnson</ref>, who is making fun of them by using <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref>, and at last the present, where they have the opportunity to do something and have to do something <ref target="b12gk1_1" type="line">(ll. 14f.)</ref>.</s>
+      </p>
+      <p>
+        <s>The third part <ref target="b12gk1_1" type="line">(ll. 16f.)</ref> is short and is there to give hope (<quote>we can</quote> <ref target="b12gk1_1" type="line">(l. 6)</ref>).</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> uses a <choice><orig>anumeration</orig><reg>enumeration</reg></choice> <ref target="b12gk1_1" type="line">(l. 16)</ref> to show what they are capable of and he is also referring back to the beginning by using again the metaphor with the <quote>doomsday device</quote> <ref target="b12gk1_1" type="line">(ll. 16f.)</ref>.</s>
+      </p>
+      <p>
+        <s>In the next part <ref target="b12gk1_1" type="line">(ll. 18-21)</ref> he shows that the industrial countries are responsible to save the earth because they are guilty <ref target="b12gk1_1" type="line">(l. 19)</ref>.</s>
+        <s>In the following part <ref target="b12gk1_1" type="line">(ll. 22-29)</ref> he presents his idea to integrate the economy to the plans.</s>
+        <s>To convince his audience he starts this part with a repetition of <quote>not</quote> <ref target="b12gk1_1" type="line">(l. 22)</ref> to show that the <choice><orig>governement</orig><reg>government</reg></choice> <choice><orig>can not</orig><reg>cannot</reg></choice> solve this problem alone.</s>
+        <s>At the end of this part he gives an example where the <name type="geo">UK</name> changed their <choice><orig>energie</orig><reg>energy</reg></choice> sources because of the private sector <ref target="b12gk1_1" type="line">(ll. 28f.)</ref>.</s>
+        <s>He uses this example to prove the <choice><orig>effectivness</orig><reg>effectiveness</reg></choice> of his idea.</s>
+      </p>
+      <p>
+        <s>After that, a part <ref target="b12gk1_1" type="line">(ll. 30-37)</ref> about the present people follows.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> notices that most people in the room are over 60 <ref target="b12gk1_1" type="line">(l. 35)</ref> and is about to decide about the future of the young people outside <ref target="b12gk1_1" type="line">(l. 33)</ref>.</s>
+        <s>After that introduction of the problematic between the generations, <ref target="b12gk1_1" type="speaker">Johnson</ref> looks in the next part to the younger generations <ref target="b12gk1_1" type="line">(ll. 38-44)</ref>.</s>
+        <s>He starts in line 37 to repeat the word <quote>children</quote> four times, he does this to let the politicians focus on the young generations and their <choice><orig>judgement</orig><reg>judgment</reg></choice> <ref target="b12gk1_1" type="line">(ll. 38, 42)</ref>.</s>
+        <s>At the end of this paragraph he uses the metaphor <quote>end of the story</quote> <ref target="b12gk1_1" type="line">(l. 43)</ref> to express the urgency to act.</s>
+      </p>
+      <p>
+        <s>The next part <ref target="b12gk1_1" type="line">(ll. 45-47)</ref> shall motivate the audience to make concrete plans, so do the parallelism and the <choice><orig>anumeration</orig><reg>enumeration</reg></choice> in line 46 and 47.</s>
+      </p>
+      <p>
+        <s>In the last part <ref target="b12gk1_1" type="line">(ll. 48-52)</ref> he refers back to the beginning and the <name type="person">James Bond</name> metaphor <ref target="b12gk1_1" type="line">(ll. 48, 50 <quote>bomb</quote>)</ref>.</s>
+        <s>In line 48 he uses irony to make the audience laugh and stop the tightening.</s>
+        <s>But then he brings the tightening back by making clear <choice><orig>the</orig><reg>they</reg></choice> have to begin at least <ref target="b12gk1_1" type="line">(l. 50)</ref>.</s>
+      </p>
+      <p>
+        <s>In conclusion we have to say he wants the audience to feel <choice><orig>speacial</orig><reg>special</reg></choice> by comparing them to <name type="person">James Bond</name> but also wants to make them understand that they have to decide for the following generations.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

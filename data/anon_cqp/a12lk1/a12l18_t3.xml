@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12l18_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="NA" genre_family="NA">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>To: Ministry of Education</addrLine>
+      </address>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>allow me to introduce myself.</s>
+        <s>My name is <name type="person">Jane Smith</name>, I am 18 years old and  currently studying for my <name type="misc">Abitur</name>.</s>
+        <s>I recently found out that you, as an institution, want to take Shakespearean sonnets off the English School Curriculum.</s>
+        <s>Since I am a student myself, I would like to explain my view on that decision.</s>
+      </p>
+      <p>
+        <s>Firstly, even though <name type="person">Shakespeare's</name> 400th anniversary is marked in the 21st century, he is more topical than ever.</s>
+        <s>Shakespearean sonnets deal with timeless topics like love, time and <choice><orig>usally</orig><reg>usually</reg></choice> poetry itself.</s>
+        <s>We can often find ourselves in certain situations and project the sonnets onto out daily lives.</s>
+        <s><name type="person">Shakespeare</name> understands these topics like no other poet, which is why he is still relevant in our today's society.</s>
+        <s>He has influenced literature as a whole, especially modern work.</s>
+      </p>
+      <p>
+        <s>Another striking argument is the language used by <name type="person">Shakespeare</name>.</s>
+        <s>This might seem contradictory to the argument explained previously, since <choice><orig>although</orig><reg>allthough</reg></choice> <name type="person">Shakespeare's</name> work is relevant, his language might seem to be the complete opposite.</s>
+        <s>But that is what makes<name type="person">Shakespeare</name> great.</s>
+        <s>He has invented and introduced or to noew words, expanded out vocabulary and created pictures on our hands with a few single words.</s>
+        <s>I see this language barrier as a way of expanding my knowledge and learning to adapt to <name type="person">Shakespeare's</name> writing manners in order to illustrate written art myself.</s>
+      </p>
+      <p>
+        <s>Last but not least, I find it interesting to deal with sonnets which take place during the Elizabethan time period.</s>
+        <s>Literature is a form of art which capture certain events or society.</s>
+        <s>I find it interesting to see how our world has evolved since that time.</s>
+        <s>Meanwhile it helps to understand happenings of that time as well.</s>
+      </p>
+      <p>
+        <s>Lastly, why do I think it is important to deal with sonnets in particular?</s>
+        <s>Shakespearean sonnets are known to be addressed from sonnets one to 126 to a young man, while sonnets 126 to 154 one known to be addressed to a so-called dark lady.</s>
+        <s>One can truly understand the different loves<name type="person">Shakespeare</name> expresses throughout his sonnets.</s>
+        <s>It is fascinating how his writing evolves from a dreamy <choice><orig>romanticist</orig><reg>romanticiest</reg></choice> love to a realistic love.</s>
+        <s>Therefore it helps to find oneself in either sonnet sequence, which again expands <name type="person">Shakespeare's</name> audience.</s>
+      </p>
+      <p>
+        <s>All in all, I think it would be a tragic flaw to <choice><orig>cross out</orig><reg>crossout</reg></choice><name type="person">Shakespeare</name> from the English School Curriculum.</s>
+        <s>I hope you consider the points presented.</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

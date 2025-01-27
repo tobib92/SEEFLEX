@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g68_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> from <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> was <choice><orig>puplished</orig><reg>published</reg></choice> on <date>17th December 2016</date> in <name type="misc">The Sunday Times</name>.</s>
+        <s>The article is about the views of language learning and its consequence for the integration of immigrant communities in <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name>.</s>
+      </p>
+      <p>
+        <s>At the <choice><orig>beginn</orig><reg>beginning</reg></choice> of the text the author <choice><orig>introdunce</orig><reg>introduces</reg></choice> in the theme of learning language.</s>
+        <s>In the next paragraph the author <choice><orig>tell</orig><reg>tells</reg></choice> us something about his life.</s>
+        <s>After that the author <choice><orig>give</orig><reg>gives</reg></choice> <choice><orig>informations</orig><reg>information</reg></choice> against about his life above all the way of of learning <choice><orig>english</orig><reg>English</reg></choice> in school.</s>
+        <s>In the last paragraph the author <choice><orig>appeal</orig><reg>appeals</reg></choice> to learn languages and accept that we all are different.</s>
+      </p>
+      <p>
+        <s>All in all the author <choice><orig>give</orig><reg>gives</reg></choice> <choice><orig>informations</orig><reg>information</reg></choice> about learning languages and <choice><orig>tell</orig><reg>tells</reg></choice> the reader something about his life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

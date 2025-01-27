@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g15_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Prime Minister,</salute>
+      </p>
+      <p>
+        <s>Your time on this world is over soon but ours isn't.</s>
+        <s>The statement of you in <date>2021</date> was really revolutional and the turning point of global politics that year.</s>
+        <s>My generation thanks you for standing for us even we weren't born these days.</s>
+        <s>I can't imagine your power and wisdom to talk about us.</s>
+        <s>Your generation has had the duty to save the planet and they have but your statement is not only revolutional but it also has some points I want to discuss about.</s>
+        <s>I was born in <date>2028</date>, seven years after your speech and at this point my mom told me they tried to don't use coal and oil but it didn't work this well.</s>
+        <s>Nowadays we don't even use a drop of oil but we still have to handle with your use of oil.</s>
+        <s>The oceans are contaminated of plastic and this can't reversed.</s>
+        <s>Our anger hadn't be greater if you wouldn't have taken action, the planet would have been dead and our <choice><orig>lifes</orig><reg>lives</reg></choice> a pain.</s>
+        <s>What if the people went on like this?</s>
+        <s>I can't imagine this because I see the amount of rubbish everywhere I go and the contamination stopped a decades ago.</s>
+        <s>Your analysis wasn't this good but your message was the right to encourage the others to do something.</s>
+        <s>My question is why didn't you take action long before?</s>
+        <s>You stated that everything for taking action was there but <choice><orig>noone</orig><reg>no one</reg></choice> did anything.</s>
+        <s>That is a real shame.</s>
+        <s>Your generation did everything at the last possibility and that is the shame.</s>
+        <s>If you would've had this thought 15 years earlier it would be perfect now.</s>
+        <s>You were the man to talk about us when everyone focused on thereselves and this shows your big heart so I want to thank you for commitment.</s>
+      </p>
+      <p>
+        <s>You are a hero.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, John Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

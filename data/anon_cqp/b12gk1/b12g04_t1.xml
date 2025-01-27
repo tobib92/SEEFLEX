@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g04_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt of a political speech, which was given by <ref target="b12gk1_1" type="speaker">Boris Johnson</ref>, who is the British Prime Minister, on the <name type="misc">COP26</name>, which is a conference of the world leaders, on <date>November 1th 2021</date>, in <name type="geo">Glasgow</name>.</s>
+      </p>
+      <p>
+        <s>The speech is, also as the <name type="misc">COP26</name> in general, about the climate change and what we have to do <choice><orig>aggainst</orig><reg>against</reg></choice> it.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> points out his idea of climate crisis and the role and importance of <name type="misc">COP26</name>.</s>
+      </p>
+      <p>
+        <s>For <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> the climate change is <choice><orig>definelly</orig><reg>definitely</reg></choice> real and already happening <ref target="b12gk1_1" type="line">(cf. l. 6)</ref>.</s>
+        <s>The temperature is already raising and time, which is left, to do something against it, is running <ref target="b12gk1_1" type="line">(cf. l. 5)</ref>.</s>
+        <s>In addition, in his opinion the climate change is completely created by mankind, especially by the industrialized countries <ref target="b12gk1_1" type="line">(cf. l. 19)</ref>.</s>
+        <s>So in <ref target="b12gk1_1" type="speaker">Boris Johnson's</ref> opinion we have to act now, and stop just talking, what we did for the last years, as he claims.</s>
+        <s>He stresses that we have the duty to do something, as the following generations would suffer under the climate change, when we continue to do nothing.</s>
+        <s>Also the industrialized countries have the duty to help the other countries with financed funds, as they created this climate crisis.</s>
+        <s>But <ref target="b12gk1_1" type="speaker">Johnson</ref> is convinced that we are able and have the remedies and opportunities to fight against the climate change.</s>
+      </p>
+      <p>
+        <s>So we just have to show the wheel to this danger.</s>
+        <s>For <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> the <name type="misc">COP26</name> <choice><orig>playes</orig><reg>plays</reg></choice> a very important role in this fight against climate crisis.</s>
+      </p>
+      <p>
+        <s>If the world leaders would continue to do nothing and just talk and promise, it could be the historic point of failing <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+        <s>The climate change would go on <gap reason="illegible" quantity="1" unit="word">wivk</gap> is <choice><orig>rapetly</orig><reg>rapidly</reg></choice> speed, so the <name type="misc">COP26</name> has to be the point <choice><orig>were</orig><reg>where</reg></choice> the world leaders really start to fight <choice><orig>aggainst</orig><reg>against</reg></choice> the climate change <ref target="b12gk1_1" type="line">(cf. l. 14)</ref></s>
+      </p>
+      <p>
+        <s><name type="misc">COP26</name> has to be the beginning and the turning point of fighting <choice><orig>aggainst</orig><reg>against</reg></choice> climate change, as <ref target="b12gk1_1" type="speaker">Johnson</ref> says.</s>
+      </p>
+      <p>
+        <s>So in conclusion <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> has the opinion that climate change is a real danger and it is necessary to do some thing <choice><orig>aggainst</orig><reg>against</reg></choice> it as fast as possible and the <name type="misc">COP26</name> plays a very important role, for Johnson, as it has to be the beginning of fighting <choice><orig>aggainst</orig><reg>against</reg></choice> climate change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

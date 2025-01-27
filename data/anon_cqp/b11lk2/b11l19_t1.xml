@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l19_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt at hand is a scene from <ref target="b11lk2_1" type="author">F. Scott Fitzgerald's</ref> novel titled <ref target="b11lk2_1" type="title">The Great Gatsby</ref>.</s>
+        <s>This novel was published in <date>1925</date> and follows the story of <ref target="b11lk2_1" type="character">Jay Gatsby</ref>, a mysterious millionaire, and his pursuit of the American Dream, as well as the pursuit of his long lost love, <ref target="b11lk2_1" type="character">Daisy Buchanan</ref>, through the narrative perspective of his neighbor and good friend, <ref target="b11lk2_1" type="character">Nick Carraway</ref>.</s>
+        <s>This novel doesn't only focus on <ref target="b11lk2_1" type="character">Jay Gatsby's</ref> rise, but also on his fall.</s>
+      </p>
+      <p>
+        <s>The following excerpt is about <ref target="b11lk2_1" type="character">Daisy's</ref> and <ref target="b11lk2_1" type="character">Gatsby's</ref> reunion, after not seeing each other in almost five years.</s>
+      </p>
+      <p>
+        <s>The scene begins with <ref target="b11lk2_1" type="character">Daisy's</ref> arrival at <ref target="b11lk2_1" type="character">Nick's</ref> house.</s>
+        <s>She follows <ref target="b11lk2_1" type="character">Nick</ref> into the house, but as soon as they enter the living room, <ref target="b11lk2_1" type="character">Nick</ref> comes to find, that <ref target="b11lk2_1" type="character">Gatsby</ref>, who had been there when <ref target="b11lk2_1" type="character">Nick</ref> went to welcome <ref target="b11lk2_1" type="character">Daisy</ref>, is no longer there.</s>
+      </p>
+      <p>
+        <s>Almost <choice><orig>immediatly</orig><reg>immediately</reg></choice> after making this discovery there is a knock on the door.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> opens the door to find <ref target="b11lk2_1" type="character">Gatsby</ref>, who without saying a word walks past <ref target="b11lk2_1" type="character">Nick</ref> and goes into the living room.</s>
+        <s>A few words are said by <ref target="b11lk2_1" type="character">Daisy</ref> from the living room, that are followed by complete silence, which makes <ref target="b11lk2_1" type="character">Nick</ref> walk into the living room to join the conversation.</s>
+        <s>There are only a few words said between <ref target="b11lk2_1" type="character">Gatsby</ref> and <ref target="b11lk2_1" type="character">Daisy</ref>, so <ref target="b11lk2_1" type="character">Nick</ref> decides to leave the room.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> however follows him and voices his doubts about the situation.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Nick</ref><choice><orig>get's</orig><reg>gets</reg></choice> mad at <ref target="b11lk2_1" type="character">Gatsby</ref> and is able to persuade him into going back to <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>While <ref target="b11lk2_1" type="character">Gatsby</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> are in the living room <ref target="b11lk2_1" type="character">Nick</ref> decides to go outside.</s>
+        <s>As soon as he walks back into the house he is confronted with a crying <ref target="b11lk2_1" type="character">Daisy</ref> and a very happy <ref target="b11lk2_1" type="character">Mr. Gatsby</ref>.</s>
+        <s>The excerpt ends with <ref target="b11lk2_1" type="character">Gatsby</ref> inviting both <ref target="b11lk2_1" type="character">Nick</ref> and <ref target="b11lk2_1" type="character">Daisy</ref> to his house in order to show them around.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

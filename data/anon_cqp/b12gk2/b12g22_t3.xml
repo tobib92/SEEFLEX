@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g22_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>The last years were very hard for everybody on this planet.</s>
+        <s>The droughts on the beginning and the tide at the ending.</s>
+      </p>
+      <p>
+        <s>I'm not <choice><orig>quiet</orig><reg>quite</reg></choice> sure why I am writing this letter to you.</s>
+        <s>Maybe because I want to thank you.</s>
+        <s>Yesterday as I told my little daughter a story about the time before the world started to go down, I remembered your speech at <name type="misc">COP26</name> that I read in my <choice><orig>english</orig><reg>English</reg></choice> class.</s>
+        <s>I can't remember everything, but your statement.</s>
+        <s>I think it's fantastic that next to all of the most <choice><orig>politicans</orig><reg>politicians</reg></choice> that have failed with their climate politic, there are or were some that saw the problem coming to us and tried to fight against it.</s>
+        <s>This includes you.</s>
+        <s>If we go back on the timeline we will find the point where the governments let us down, otherwise as you <choice><orig>warnt</orig><reg>warned</reg></choice>, where our technology was at his highest level and couldn't change anything and where the most NGOs has left us alone.</s>
+        <s>Maybe everything could have went different and we weren't here where we are now.</s>
+        <s>Maybe if more people followed your warnings.</s>
+      </p>
+      <p>
+        <s>I hope there will b esomeone who sees and analyzed problems like you did and help us in our future.</s>
+        <s>Thank you.</s>
+      </p>
+      <p>
+        <signed>Your Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

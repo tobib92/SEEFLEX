@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g05_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>If the <name type="misc">Brexit</name> is a <quote>lose-lose</quote> situation for both the <name type="geo">UK</name> and the <name type="misc">EU</name> is a very <choice><orig>intresting</orig><reg>interesting</reg></choice> and often discussed topic.</s>
+        <s>In the following text I am going to comment on this and tell my opinion.</s>
+      </p>
+      <p>
+        <s>I personally think there are many pros and cons of leaving the <name type="misc">EU</name> but for me I think not leaving the <name type="misc">EU</name> is the better way.</s>
+        <s>The trading system in the <name type="misc">EU</name> is very good and it is the most legal open market that you could be in.</s>
+        <s>The <name type="geo">UK</name> would benefits very well from the <name type="misc">EU</name>.</s>
+        <s>Also the system is very good.</s>
+        <s>But I think it is not a complete lose-lose situation.</s>
+        <s>The <name type="geo">UK</name> gets many new chances and can find new trading partners.</s>
+        <s>Also they can invest more money for their system and decide over everything.</s>
+        <s>The <name type="misc">EU</name> <choice><orig>dosn't</orig><reg>doesn't</reg></choice> get very benefits from the <name type="misc">Brexit</name>.</s>
+      </p>
+      <p>
+        <s>To sum it up I would say that the <name type="geo">UK</name> also wins things from the <name type="misc">Brexit</name> and that it is not a complete lose-lose.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

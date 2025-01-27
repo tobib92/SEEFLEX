@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g77_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>The limits of my language are the limits of my world</quote> is this sentence right or is there any other limit?</s>
+      </p>
+      <p>
+        <s>I think the limit of the <choice><orig>languige</orig><reg>language</reg></choice> is not the limit of the world because everybody became the chance to work on his <choice><orig>languige</orig><reg>language</reg></choice> skills.</s>
+        <s><choice><orig>Becides</orig><reg>Besides</reg></choice> that everybody can do things with his <choice><orig>ands</orig><reg>hands</reg></choice> and <choice><orig>feets</orig><reg>feet</reg></choice> and show on something so there is also no limit.</s>
+        <s>In the position of nearly every European <choice><orig>Male</orig><reg>male</reg></choice> <choice><orig>ore</orig><reg>or</reg></choice> <choice><orig>Female</orig><reg>female</reg></choice> have a <choice><orig>Mobile Phone</orig><reg>mobile phone</reg></choice> with good working translation <choice><orig>Apps</orig><reg>apps</reg></choice> <choice><orig>ore</orig><reg>or</reg></choice> <choice><orig>Apps</orig><reg>apps</reg></choice> where you learn a <choice><orig>languige</orig><reg>language</reg></choice> <choice><orig>realy</orig><reg>really</reg></choice> fast and for a short trip to <name type="geo">England</name> the <choice><orig>english</orig><reg>English</reg></choice> of the most <choice><orig>poeple</orig><reg>people</reg></choice> is enough and if this is not the cause you have the translating <choice><orig>Apps</orig><reg>apps</reg></choice> or your hands to show on <choice><abbr>sth.</abbr><expan>something</expan></choice> <choice><orig>ore</orig><reg>or</reg></choice> to <choice><orig>Imitate</orig><reg>imitate</reg></choice> it.</s>
+        <s>It is also the fact that you can learn for <choice><orig>exampel</orig><reg>example</reg></choice> <choice><orig>englisch</orig><reg>English</reg></choice> in <choice><orig>scool</orig><reg>school</reg></choice> or if you don't go to school you can learn it <choice><orig>every were</orig><reg>everywhere</reg></choice> in the world with <name type="misc">Zoom</name> <choice><orig>ore</orig><reg>or</reg></choice> any other thing where you can talk to other <choice><orig>poeple</orig><reg>people</reg></choice>.</s>
+        <add>(<s>Maybe you can learn <choice><orig>englisch</orig><reg>English</reg></choice> with a native speaker</s>)</add>
+      </p>
+      <p>
+        <s>So for me the limit of the <choice><orig>languige</orig><reg>language</reg></choice> is not the limit of the world because of the mobile phone and the <choice><orig>knowlige</orig><reg>knowledge</reg></choice> of <choice><orig>Englisch</orig><reg>English</reg></choice> what I have.</s>
+        <s>So I don't panic if I went to <name type="geo">England</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

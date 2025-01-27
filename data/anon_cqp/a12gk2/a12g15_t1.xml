@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g15_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is called <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> and was written by <ref target="a12gk2_1" type="author">John Worne</ref> and was published in <name type="misc">The Telegraph</name> on <date>27th January 2015</date>.</s>
+        <s>The text is about the developing of foreign language learning within the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>The author points out that since the <date>1990s</date> the number of students which choose to study a foreign language at university has been steadily declining although it is now offered in more primary schools in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>He also mentions that many people think that it certainly isn't necessary for them to learn a foreign language because they think that due to technological progresst they can just translate everything with their phone.</s>
+      </p>
+      <p>
+        <s>At second, he points out his personal view on the topic.</s>
+        <s>He sees the language learning in the <name type="geo">UK</name> as something very important for the <choice><orig>countries</orig><reg>country's</reg></choice> future and <choice><orig>it's</orig><reg>its</reg></choice>position within the world; two thirds of <name type="geo">UK</name> businesses need those foreign language skills.</s>
+        <s>On the one hand, the author points out, <choice><orig>Universities</orig><reg>universities</reg></choice>try to make foreign language learning more attractive to students, on the other hand he thinks that it is also <choice><orig>upto</orig><reg>up to</reg></choice>the parents of the new generation to ensure that more foreign languages will be learned in the <name type="geo">UK</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

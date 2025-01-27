@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l16_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The reunion with <ref target="b11lk2_1" type="character">Daisy</ref> is what <ref target="b11lk2_1" type="character">Gatsby</ref> has been working on <choice><orig>desperatly</orig><reg>desperately</reg></choice> for the last five years, so when it finally happens he is <choice><orig>extremly</orig><reg>extremely</reg></choice> overwhelmed and very enthusiastic as well.</s>
+      </p>
+      <p>
+        <s>But looking at it from a more objective perspective, reviving a past relationship, especially in <ref target="b11lk2_1" type="character">Gatsby's</ref> case is a very complicated issue.</s>
+      </p>
+      <p>
+        <s>On the positive side, it is obvious, that after the rough start <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> seem to get along really well, especially with <ref target="b11lk2_1" type="character">Nick</ref> leaving them on the sofa, while they are holding hands.</s>
+        <s>While this creates a rather positive outlook for a possible reviving of their relationship, there are some difficulties which need to be considered.</s>
+      </p>
+      <p>
+        <s>The very obvious one: <ref target="b11lk2_1" type="character">Daisy</ref> is a married woman.</s>
+        <s>She is married to <ref target="b11lk2_1" type="character">Tom Buchanan</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> knows that.</s>
+        <s>Even though <ref target="b11lk2_1" type="character">Tom</ref> has an affair as well, that doesn't automatically mean that he wouldn't care if <ref target="b11lk2_1" type="character">Daisy</ref> had one looking at his <choice><orig>agressive</orig><reg>aggressive</reg></choice> and dominant character you can assume, that he would not approve of it and would probably be <choice><orig>extremly</orig><reg>extremely</reg></choice> angry.</s>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> knows how hurt she was and still his by <ref target="b11lk2_1" type="character">Tom's</ref> many affairs, so it could be difficult for her to do the same.</s>
+      </p>
+      <p>
+        <s>It is crucial to consider as well, that <ref target="b11lk2_1" type="character">Gatsby</ref> has an almost unhealthy obsession with <ref target="b11lk2_1" type="character">Daisy</ref>, collecting newspaper articles of her.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> describes this as well; <ref target="b11lk2_1" type="character">Gatsby</ref> is in love with the idea of <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>An idea which he's built up for five years, so that she simply just can't live up to his idea of her, as it is completely exaggerated.</s>
+        <s><ref target="b11lk2_1" type="character">Daisy</ref> is not the same person anymore and things might have changed, which could destroy <ref target="b11lk2_1" type="character"><choice><orig>Gatsbys</orig><reg>Gatsby's</reg></choice></ref> image of her, that he's been holding onto for so long.</s>
+      </p>
+      <p>
+        <s>In general you could say, why not just try it.</s>
+        <s>At least there wouldn't be anything to reget and this probably applies for many relationships.</s>
+      </p>
+      <p>
+        <s>But sometimes it is also important to just let go of something eventually and not force it.</s>
+        <s>It might not be that healthy for your mind to go back into the past all the time and try to change because of what happened in the past.</s>
+        <s>There is always a reason for why the relationship hasn't worked out in the past and it is quite probable that these same reasons could cause trouble in the present as well.</s>
+      </p>
+      <p>
+        <s>In my opinion it would be better for <ref target="b11lk2_1" type="character">Gatsby</ref> to let go of <ref target="b11lk2_1" type="character">Daisy</ref>, as she probably can't live up to his imagination anyways and reinforces his materialism.</s>
+        <s>But realistically there's a good chance of them getting back together, with <ref target="b11lk2_1" type="character">Gatsby</ref> being madly in love and <ref target="b11lk2_1" type="character">Daisy</ref> just not being the most loyal wife, as she has no reason to be.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

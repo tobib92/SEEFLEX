@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author uses communicative strategies in his text to persuade the reader of his opinion.</s>
+      </p>
+      <p>
+        <s>To be able to persuade the reader more the author tries to also explain the benefits of the unions and tries to come across as unbiased <ref target="a10gk1_1" type="line">(l. 1-5)</ref>.</s>
+        <s>In line two the author uses euphemism to make the reader feel like the kob of the unions are less important than it actually is.</s>
+        <s>The author achieves this goal by using the word <quote>mistreated</quote> instead of <quote>harassed</quote> or a stronger word.</s>
+      </p>
+      <p>
+        <s>In line five he uses the positively connoted word <quote>successful</quote> to keep the unbiased or honest image he creates for himself.</s>
+      </p>
+      <p>
+        <s>He also uses an elaborate and formal language to make it clear that he is an expert in this topic and also to keep the text serious <ref target="a10gk1_1" type="line">(l. 10)</ref> <quote>(obstructing)</quote> <ref target="a10gk1_1" type="line">(l. 9-10)</ref>, <quote>(... legislation and laws)</quote>.</s>
+      </p>
+      <p>
+        <s>In the last paragraph he makes use of the imperative form and <choice><orig>say</orig><reg>says</reg></choice> that the <choice><orig>goverment</orig><reg>government</reg></choice> should finally handle this situation which makes the reader think about how serious this topic is <ref target="a10gk1_1" type="line">(l. 21-22)</ref>.</s>
+      </p>
+      <p>
+        <s>With the help of those communicative strategies he makes the reader believe that the unions are not useful at all.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

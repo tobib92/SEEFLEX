@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g25_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref>, written by <ref target="a12gk2_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on <date>27th January 2015</date>, describes the phenomenon of a decreasing amount of students, learning a foreign language in the <name type="geo">UK</name>, which is interconnected with the national view on foreign languages.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> starts his article with an outline of the problem: <choice><orig>Fewer</orig><reg>fewer</reg></choice> students learn foreign languages and the count of students taking exams in these subjects decreased.</s>
+        <s>Also the idea of substituting these skills with machines or thinking that English is widespread enough, to avoid learning other languages, is for <ref target="a12gk2_1" type="author">Worne</ref> no solution.</s>
+        <s>So for global economy, trade or diplomacy, speaking foreign languages is a required skill.</s>
+        <s>Cause of the lack of foreign speakers, some companies started outsourcing these jobs.</s>
+      </p>
+      <p>
+        <s>A possible way to solve this problem may be the concept of studying a language alongside another subject.</s>
+        <s>Lastly, <ref target="a12gk2_1" type="author">Worne</ref> <gap reason="illegible" quantity="1" unit="word">expoenes</gap> his main solution and appeals to all parents: <choice><orig>Parents</orig><reg>parents</reg></choice> have to think about teaching their children cultural awareness, so that they think more about international experiences.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

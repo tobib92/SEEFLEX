@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g09_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="hortatory exposition">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr Rump,</salute>
+      </p>
+      <p>
+        <s>I have heard that the book <name type="misc">The Hate U Give</name> which we have finished reading in our English class recently was banned from school libraries in your school district some time ago.</s>
+        <s>This is a real shame in my opinion because the book is trying to spread a very important and relevant message.</s>
+        <s>It's pointing out issues that we currently have with racism all over the world and especially in the <name type="geo">US</name> and that people need to stand up for equality and their freedom.</s>
+        <s>I can understand that the offensive language, the sexual references, the depicted drug use and the vulgar content are not <choice><orig>apropriated</orig><reg>appropriate</reg></choice> for especially younger people, so I would suggest you to rather make this a 16+ book rather than banning it all together.</s>
+        <s>The negative depiction of the police is not a good reason to ban this book in my opinion because the things adressed in this book are realities and things we cannot close our eyes on by banning a piece of literature, especially because we really need to adress these <choice><orig>isues</orig><reg>issues</reg></choice> and <choice><orig>chang</orig><reg>change</reg></choice> something about that.</s>
+        <s>I hope I was able ot change your mind of the ban and see the book from a different perspective.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

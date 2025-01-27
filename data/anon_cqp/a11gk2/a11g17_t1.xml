@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g17_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech is taken from <ref target="a11gk2_1" type="speaker">Barack <choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> speech on the <choice><orig>american dream</orig><reg>American Dream</reg></choice> during his first election campaign on <date>November 7th 2007</date>.</s>
+        <s>The speech deals with the fight for the <choice><orig>american dream</orig><reg>American Dream</reg></choice>.</s>
+      </p>
+      <p>
+        <s>First <ref target="a11gk2_1" type="speaker">Obama</ref> <choice><orig>motivate</orig><reg>motivates</reg></choice> all the <choice><orig>listener</orig><reg>listeners</reg></choice> that together she can do all things.</s>
+        <s>She talks that she was not struck by the differences around <name type="geo">Iowa</name> and <name type="geo">Washington</name>.</s>
+        <s>She was more impressed that so many people share values and hope to each other.</s>
+        <s><ref target="a11gk2_1" type="speaker">Barack Obama</ref><choice><orig>talk</orig><reg>talks</reg></choice> about his experience with his family and says that everybody <choice><orig>have</orig><reg>has</reg></choice> the right to make a job with wages that can be support a family.</s>
+        <s>Everybody <choice><orig>have</orig><reg>has</reg></choice> the right for a retirement that is dignified and secre.</s>
+      </p>
+      <p>
+        <s>She says that is the education and opportunity for our kids, this is the <choice><orig>american dream</orig><reg>American Dream</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

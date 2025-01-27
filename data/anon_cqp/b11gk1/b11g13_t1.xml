@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g13_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref>, written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in the year <date>2019</date> tells the story of <ref target="b11gk1_1" type="character">Margot</ref> and her daughter <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Margot</ref> ran away from her home and her abusive father in order to protect her newborn daughter <ref target="b11gk1_1" type="character">Pearl</ref> when she was still in her teenage years.</s>
+        <s>Now they live in a trailer park in the middle of nowhere in <name type="geo">Florida</name>, sleeping in an old <name type="misc">Ford Mercury</name>.</s>
+      </p>
+      <p>
+        <s>The given part of the novel takes place after <ref target="b11gk1_1" type="character">Margot</ref> was shot and <ref target="b11gk1_1" type="character">Pearl</ref> was taken into a foster home by the Child Protective Service, also called CPS, and gives a lot of information about the situation of <ref target="b11gk1_1" type="character">Helen</ref>, a little girl <ref target="b11gk1_1" type="character">Pearl</ref> meets when she arrives in her new home.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is an eight <choice><orig>years</orig><reg>year</reg></choice> old girl that has been passed on to a lot of different homes in her life.</s>
+        <s>She can't remember her real parents and has been through very <choice><orig>difficuilt</orig><reg>difficult</reg></choice> times, that's why she seems confused and strange to the people surrounding her, especially when she talks so much that it is hard to follow her.</s>
+      </p>
+      <p>
+        <s><choice><orig>Allthough</orig><reg>Although</reg></choice> she must connect some bad memories with her old homes she has a bag full of cell phones, each being connected to one of the places she had been brought to.</s>
+      </p>
+      <p>
+        <s>Taking everything into <choice><orig>acount</orig><reg>account</reg></choice> her situation is very hard.</s>
+        <s>The fact that she had to go through a lot of changes in her life seems to be affecting her personality and life at her new home, the foster home of the <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

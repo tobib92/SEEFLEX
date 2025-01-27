@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12g49_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">soliloquy</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Context: <s><ref target="c12gk3_1" type="character">Macbeth</ref> is on the way to the place where horses stand in.</s> <s>There he will meet the <choice><orig>mans</orig><reg>men</reg></choice>, who want to help him.</s> <s>So here we go...</s></p>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>Oh!</s>
+          <s>The landscape is very beautiful, when I become king I want to <choice><orig>built</orig><reg>build</reg></choice> another <choice><orig>castel</orig><reg>castle</reg></choice> on exact this place.</s>
+        </p>
+        <p>
+          <s>But should I wait with murder <ref target="c12gk3_1" type="character">Duncan</ref> or should I murder him in a few <choice><orig>houres</orig><reg>hours</reg></choice> like my love says.</s>
+        </p>
+        <p>
+          <s>In the one hand I be the King over all of <name type="geo"><choice><orig>Scottland</orig><reg>Scotland</reg></choice></name>, but in the other hand I do not know how to be a good king.</s>
+          <s>All people in the <name type="geo">Scottish</name> land <choice><orig>where</orig><reg>were</reg></choice> sad, but I were the new King, with many money and a retinue, that <choice><orig>do</orig><reg>does</reg></choice> everything I want that they do.</s>
+          <s><choice><orig>More over</orig><reg>Moreover</reg></choice> my kids and my wife have such <choice><orig>an</orig><reg>a</reg></choice> better life than I have in my childhood.</s>
+        </p>
+        <p>
+          <s>And I become not the King only, my wife becomes my queen and <ref target="c12gk3_1" type="character"><choice><orig>Banqo</orig><reg>Banquo</reg></choice></ref> <choice><orig>get</orig><reg>gets</reg></choice> <choice><orig>prophesy</orig><reg>prophecy</reg></choice> that his children become kings too, so he has to marry a rich princess.</s>
+        </p>
+        <p>
+          <s>In the end all of my people I love are happy, so it is unimportant how the <name type="geo">Scottish</name> people live how long my people have a better <choice><orig>live</orig><reg>life</reg></choice> than before.</s>
+        </p>
+        <p>
+          <s>I will murder <ref target="c12gk3_1" type="character">King Duncan</ref> for my family, for the reputation a king <choice><orig>have</orig><reg>has</reg></choice> and at least for the money and the power.</s>
+        </p>
+        <p>
+          <s>So here we are at the stable.</s>
+          <s>Let me take a look, if the other <choice><orig>mans</orig><reg>men</reg></choice> are here.</s>
+        </p>
+      </sp>
+    </body>
+  </text>
+</TEI>

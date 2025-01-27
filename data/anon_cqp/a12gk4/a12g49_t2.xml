@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g49_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following, the given article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref> that is written by <ref target="a12gk4_1" type="author">John Worne</ref> in <date>2015</date> and published in <name type="misc">The Telegraph</name> will be <choice><orig>analized</orig><reg>analyzed</reg></choice> about <ref target="a12gk4_1" type="author"><choice><orig>John Wornes</orig><reg>John Worne's</reg></choice></ref> view and his <choice><orig>comunicative</orig><reg>communicative</reg></choice> strategies in combination with his use of language.</s>
+        <s>The given article is about him, <choice><orig>complainig</orig><reg>complaining</reg></choice> about the <name type="geo">UK's</name> school system not teaching foreign languages, and the effect this has to the children and their chances for <ref target="a12gk4_1" type="line">(cf. ll. 29-35)</ref> jobs.</s>
+        <s><choice><orig>Hanceforth</orig><reg>Henceforth</reg></choice> he is upset about the bad reputation the <name type="geo">UK</name> could get due that and the effect on its part of the globalisation <ref target="a12gk4_1" type="line">(cf. ll. 25-27)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author"><choice><orig>Wornes</orig><reg>Worne's</reg></choice></ref> text can be sortet to the genre article and his <choice><orig>audition</orig><reg>audience</reg></choice> should be the <choice><orig>UK's-children</orig><reg>British children's</reg></choice> parents.</s>
+        <s>Besides that the purpose of his article is to make the <name type="geo">UK's</name> <choice><orig>kids</orig><reg>kids'</reg></choice> parents stand up and change the school system to one, that includes learning foreign languages.</s>
+      </p>
+      <p>
+        <s>To reach this goal the author uses <choice><orig>diffrent</orig><reg>different</reg></choice> types of communicative strategies.</s>
+        <s>The first very obvious <choice><orig>strategie</orig><reg>strategy</reg></choice> is the use of inclusive pronouns and inclusive language.</s>
+        <s>An example for that you can directly find in <ref target="a12gk4_1" type="line">line 1</ref> <ref target="a12gk4_1" type="line">(l. 1</ref> <quote>which sum up our national)</quote>.</s>
+        <s>While doing that he includes the readers in the problem, so he <choice><orig>implys</orig><reg>implies</reg></choice> his readers, that this problematic view is also their own view.</s>
+        <s>So he makes them feel guilty.</s>
+        <s><choice><orig>Hanceforth</orig><reg>Henceforth</reg></choice> he does this again in <ref target="a12gk4_1" type="line">line 48</ref> <ref target="a12gk4_1" type="line">(l. 48</ref> <quote>we as parents)</quote> by appealing directly to the parents and including them with the inclusive pronoun <quote>we</quote>.</s>
+        <s>So they will feel directly <choice><orig>attaced</orig><reg>attacked</reg></choice> to get active, because the inclusive pronoun <choice><orig>incluses</orig><reg>includes</reg></choice> them to the problem.</s>
+        <s>In addition to that <ref target="a12gk4_1" type="author">Worne</ref> uses studies to support his view.</s>
+        <s>He reports about the results from national studies, that show that the grades are very alarming <ref target="a12gk4_1" type="line">(cf. ll. 14-18)</ref>.</s>
+        <s>Due telling the readers about that, he supports his own subjective opinion, so it is more convincing.</s>
+        <s>Moreover he makes this argument, that is based on facts even stronger with mentioning the difference <choice><orig>betwen</orig><reg>between</reg></choice> the results from the same study that has been made in <date>1990</date>.</s>
+        <s>He compares those to the ones from nowadays and shows, how alarming it <foreign xml:lang="de">ist</foreign>.</s>
+      </p>
+      <p>
+        <s>Furthermore he <choice><orig>exeggerates</orig><reg>exaggerates</reg></choice> in <ref target="a12gk4_1" type="line">line 18</ref> with calling people that have a <choice><orig>diffrent</orig><reg>different</reg></choice> <choice><orig>oppinion</orig><reg>opinion</reg></choice> <quote>Perfectly intelligent</quote>.</s>
+        <s>So he makes it a little bit sarcastic to convince the readers from his own <choice><orig>authencity</orig><reg>authenticity</reg></choice>.</s>
+        <s>He excludes these <quote>perfectly intelligent</quote> people from himself and the readers, and tries to make clear, that this <choice><orig>oppinion</orig><reg>opinion</reg></choice> is not justifiable.</s>
+      </p>
+      <p>
+        <s><choice><orig>Lateron</orig><reg>Later on</reg></choice> he communicates in an ironic way, he uses this <choice><orig>strategie</orig><reg>strategy</reg></choice> to make it seem, that the argument, that you don't need foreign languages because of the internet is not justifiable.</s>
+        <s>Because, the example he gives is very far from the reality <ref target="a12gk4_1" type="line">(ll. 22 <quote><qs>and the next generation of wearable tech will enable intercultural telepathy anyway.</qs></quote>)</ref>.</s>
+        <s>So the readers may think how unjustifiable opinions like <choice><orig>this</orig><reg>these</reg></choice> are and support his opinion.</s>
+      </p>
+      <p>
+        <s>Furthermore he makes the importance of foreign <choice><orig>language</orig><reg>languages</reg></choice> clear by giving an example for some fields, where they are very <choice><orig>helpfull</orig><reg>helpful</reg></choice> <ref target="a12gk4_1" type="line">(ll. 26 <quote>trade, prosperity, cultural exports, diplomacy and national security</quote>)</ref> and he shows the parents, what yould happen if <choice><orig>there</orig><reg>their</reg></choice> children <choice><orig>dont</orig><reg>don't</reg></choice> learn them.</s>
+        <s>He gives them the example of the latter attractive 2 <choice><orig>language</orig><reg>languages</reg></choice> speaking lawyer, than a perfect speaking only one language lawyer <ref target="a12gk4_1" type="line">(cf. ll. 40-44)</ref>.</s>
+        <s>With mentioning those problems for, on one hand the countries global state and on the other hand <choice><orig>the</orig><reg>their</reg></choice> own <choice><orig>childs</orig><reg>child's</reg></choice> chances he makes the parents anxious in a very illustrating way.</s>
+      </p>
+      <p>
+        <s>In addition to that, he supports his argument due telling that <quote>two-thirds of <name type="geo">UK's</name> <choice><orig>buissnesses</orig><reg>businesses</reg></choice> need foreign language skills</quote> <ref target="a12gk4_1" type="line">(l. 29-30)</ref>.</s>
+        <s>And <choice><orig>two thirds</orig><reg>two-thirds</reg></choice> is a big part so it underlines his opinion.</s>
+      </p>
+      <p>
+        <s>The last communicative <choice><orig>strategie</orig><reg>strategy</reg></choice> he uses is <choice><orig>sayin</orig><reg>saying</reg></choice>: the <quote>only really good piece</quote> in <ref target="a12gk4_1" type="line">line 36</ref>.</s>
+        <s>This shows how alarming all the other mentioned points should be.</s>
+      </p>
+      <p>
+        <s>But not only due communicative strategies he tries to convince the readers.</s>
+      </p>
+      <p>
+        <s>He also has a very special use of language.</s>
+        <s>The author uses 2 <choice><orig>diffrent</orig><reg>different</reg></choice> types of English.</s>
+        <s><choice><orig>One</orig><reg>On</reg></choice> one hand hew writes in a formal way in <ref target="a12gk4_1" type="line">line 10 till 17</ref>, where he mentions the facts from the <choice><orig>examinated</orig><reg>examined</reg></choice> studies.</s>
+        <s>With doing this he seems very professional and <choice><orig>its</orig><reg>it's</reg></choice> easy for the readers to believe <choice><orig>informations</orig><reg>information</reg></choice> that <choice><orig>are</orig><reg>is</reg></choice> based on facts and written in a formal and informational way.</s>
+        <s>But in contrast to that <ref target="a12gk4_1" type="author">Worne</ref> writes in <ref target="a12gk4_1" type="line">line 21-23</ref> in <choice><orig>a</orig><reg>an</reg></choice> ironic way, what makes him seem authentic and near by the readers.</s>
+        <s>Furthermore ironic and formal are not the only types of language he uses.</s>
+        <s>An emotional language you can find in <ref target="a12gk4_1" type="line">line 46</ref> <choice><orig>were</orig><reg>where</reg></choice> he appeals to the audience and <choice><orig>incluses</orig><reg>includes</reg></choice> himself.</s>
+        <s>Due all those types of languages he shows <choice><orig>diffrent</orig><reg>different</reg></choice> skills in his article, on one hand he makes clear how important it is for <choice><orig>him self</orig><reg>himself</reg></choice> due the emotionality, on the other he makes it seem <choice><orig>proffessional</orig><reg>professional</reg></choice> with the facts and authentic it gets due the <choice><orig>ironie</orig><reg>irony</reg></choice>.</s>
+        <s>In addition to that the author brings his own view with in the text.</s>
+        <s>He does this with calling something sad <ref target="a12gk4_1" type="line">(cf. ll. 5</ref> <quote>sadly</quote>), which is a personal view.</s>
+      </p>
+      <p>
+        <s>His tone you <choice><orig>can not</orig><reg>cannot</reg></choice> define in one <choice><orig>categorie</orig><reg>category</reg></choice>, he is on one hand formal <ref target="a12gk4_1" type="line">(cf. ll. 10-17)</ref> and on one hand emotional <ref target="a12gk4_1" type="line">(cf. l. 5, l. 45-55)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> uses <choice><orig>diffrent</orig><reg>different</reg></choice> types of <choice><orig>centences</orig><reg>sentences</reg></choice>, but the hypotactic ones predominate.</s>
+        <s>For example in <ref target="a12gk4_1" type="line">line 13 till 17</ref>.</s>
+        <s>It is a very long sentence that is partet in 2 compound sentences and one main clause.</s>
+        <s>Due this the author is able to put as many important information in one sentence as possible to make them very <choice><orig>meaningfull</orig><reg>meaningful</reg></choice>.</s>
+        <s>He does this often and uses very complex sentences.</s>
+      </p>
+      <p>
+        <s>All in all you can say, that the author uses very many <choice><orig>diffrent</orig><reg>different</reg></choice> communicative strategies, some are more formal and based on facts and some are very emotional to include the readers.</s>
+        <s>His use of language is in addition to that very similar, partly formal and partly sarcastic and emotional.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

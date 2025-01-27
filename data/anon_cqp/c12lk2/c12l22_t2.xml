@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Now that I wrote a paraphrase of <ref target="c12lk2_1" type="title">Sonnet 60</ref> I will continue to analyse it concerning content and form.</s>
+      </p>
+      <p>
+        <s>Like the most of <ref target="c12lk2_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> poems, this one has 14 lines whih can be divided into three quatrains and one couplet.</s>
+      </p>
+      <p>
+        <s>This indicates, that it is a sonnet, if there wasn't the totle <ref target="c12lk2_1" type="title">Sonnet 60</ref> to <choice><orig>beginn</orig><reg>begin</reg></choice> with.</s>
+        <s>The quatrains have a cross rhyme <name type="misc">(abab, ...)</name> and the couplet at the end has a couple rhyme <name type="misc">(aa)</name>.</s>
+        <s>This sonnet uses the iambic parameter, which <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> used in almost all of his creations.</s>
+      </p>
+      <p>
+        <s>The first quatrain begins with introducing the end.</s>
+        <s><ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> starts the sonnet with describing the waves at the beach and comapres it with the ending of life.</s>
+        <s>He starts with a <q>good</q> sentence that creates a picture in the mind of the readers and ends with a horrible and melancholic comparison.</s>
+      </p>
+      <p>
+        <s>In the second quatrain the beginning is the main focus and the course of a life is told through these lines.</s>
+        <s>Again, like in the first quatrain, the third talks about the end of life and the upcoming death.</s>
+      </p>
+      <p>
+        <s>The beauty of the youth and <choice><orig>elegancy</orig><reg>elegance</reg></choice> is described as well as the following death.</s>
+      </p>
+      <p>
+        <s>The ending couplet has the main topic, that verses should survive to praise the worth of the <choice><orig>adressed</orig><reg>addressed</reg></choice> person, so that even if they die, their worth can still be read by others.</s>
+      </p>
+      <p>
+        <s>The word fields of this sonnet mostly cater around time and death but most of the used words are worded in an elegant way like <quote>crowned</quote>, <quote>glory</quote>, <quote>rarities</quote> or <add>describe nature</add> could be used to describe nature as well.</s>
+      </p>
+      <p>
+        <s>The <quote>time</quote> in this sonnet is personalized because he wrote <quote>time does...</quote>, or <quote>minutes hasten</quote>.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> uses a lot of words that end with <q>s</q> in the first line, which gives this sonnet a melodic start, but in the same matter he tends to use more harsh sounds as the sonnet progresses to indicate that the life is very hard because it is used after the youth is described.</s>
+      </p>
+      <p>
+        <s><quote>And</quote> was used a lot as the <choice><orig>begginings</orig><reg>beginnings</reg></choice> of 4 lines and all of them were placed after the bottom half of the sonnet.</s>
+      </p>
+      <p>
+        <s>He uses the words <quote>And nothing stands but for his scythe to snow</quote> to indicate death with the metaphor of the grim reaper who is mostly depicted with a scythe.</s>
+        <s>S<ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> doesn't use the words <quote>death</quote> at all but to his visualizing language of the <quote><choice><orig>begginings</orig><reg>beginnings</reg></choice></quote> and the <quote>end of time</quote> he indirectly refers to it.</s>
+      </p>
+      <p>
+        <s>The second quatrain talks about the birth and maturing but also hints at the upcoming death with <quote>crooked eclipses 'gainst his glory fight, and time that gave doth now his gift confound</quote>.</s>
+        <s>Mostly with the last part where time is adressed, it becomes clear that what was <q>given</q> <add>life</add> is now coming to an end.</s>
+      </p>
+      <p>
+        <s>In the last few lines, the <choice><orig>oppinion</orig><reg>opinion</reg></choice> of the lyrical I, <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>, becomes very clear.</s>
+        <s>He is very frustrated and melancholic about the death of his beloved person that has a lot of worth to him and is furious about death.</s>
+        <s>This was because he used the words <quote>his cruel hand</quote>.</s>
+        <s>In the same way that he is mad, he kind of <choice><orig>excepts</orig><reg>accepts</reg></choice> that everything must come to an end.</s>
+        <s>Another hint is, that he griefs, because he even says, that he hopes his verses will survive.</s>
+      </p>
+      <p>
+        <s>In the end it still is a very interpretatin friendly sonnet so most <choice><orig>peoples</orig><reg>people's</reg></choice> perception will vary.</s>
+      </p>
+      <p>
+        <s>My personal interpretation is that this sonnet is meant to be addressed to a dying person that is loved by <ref target="c12lk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and although it's written in a sad situation, he still tries to use fancy words like <quote>glory</quote> or <quote>light</quote> or <quote>crowned</quote> that might brighten up the <choice><orig>adressed</orig><reg>addressed</reg></choice> persons mood.</s>
+      </p>
+      <p>
+        <s>Especially when he assures, that as long as this sonnet will be there, the <choice><orig>greatnes</orig><reg>greatness</reg></choice> and value of <quote>thy</quote> will be still there, even after their death.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -163,7 +163,7 @@ convert_all_files <- function(input_directory, output_directory, settings,
       output_directory = output_directory,
       filename = filename,
       ### CHANGE OUTPUT FORMAT IF DESIRED! ###
-      # output_format = "xml",
+      output_format = "xml",
       settings = settings
     )
   }
@@ -175,7 +175,7 @@ convert_all_files <- function(input_directory, output_directory, settings,
 ################################################################################
 
 convert_all_files(
-  input_directory = "../../data/anon_ref/",
-  output_directory = "../../output/20240904_output_xml/",
+  input_directory = "../../data/anon/",
+  output_directory = "../../output/20241127_SEEFLEX_orig/",
   settings = settings
 )

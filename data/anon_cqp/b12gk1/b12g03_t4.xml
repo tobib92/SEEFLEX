@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g03_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello Mr. Drane,</salute>
+      </p>
+      <p>
+        <s>I hope you are well in this time during COVID-19.</s>
+        <s>Yesterday you sent me or a newspaper article from our school homepage because you wanted to know what <name type="misc">KLS goes green</name> is exactly about.</s>
+        <s>I am sorry I couldn't write you already yesterday but I had to learn for my <choice><orig>english</orig><reg>English</reg></choice> exam.</s>
+        <s>But now to <name type="misc">KLS goes green</name>.</s>
+        <s><name type="misc">KLS goes green</name> is a day in our school where we are talking about climate change and what we can do against it.</s>
+      </p>
+      <p>
+        <s>But we are not making it in a boring way, through this day the school is offering to the students 40 different workshops in and out of school where we are talking in a fun way about the climate protection.</s>
+      </p>
+      <p>
+        <s>It all began that a lot of students were political interested in this topic and we're taking part of the <name type="misc">Fridays for future</name> movement.</s>
+      </p>
+      <p>
+        <s>Now we have on <name type="misc">KLS goes green</name> no school except for the workshops.</s>
+        <s>Because of this day children or more students get interested in this topic.</s>
+      </p>
+      <p>
+        <s>I hope I could help you!</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

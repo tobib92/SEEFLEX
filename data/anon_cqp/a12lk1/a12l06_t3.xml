@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12l06_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="NA" genre_family="NA">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>Severinstr. 241</addrLine>
+        <addrLine>Cologne</addrLine>
+      </address>
+      <date>27th September 2021</date>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Ministry of Education,</salute>
+      </p>
+      <p>
+        <s>I am a graduating student and am currently attending an advanced English class.</s>
+        <s>Our current topic is the work of<name type="person">Shakespeare</name> and it has come to my attention that the Shakespearean sonnets are to be taken off the English School Curriculum.</s>
+        <s>I am afraid I cannot agree with this decision nor understand <choice><orig>it's</orig><reg>its</reg></choice> reason.</s>
+      </p>
+      <p>
+        <s>Of course<name type="person">Shakespeare</name> has loved over 400 years ago and at first sight it might appear irrelevant to take a look at sonnets that old.</s>
+      </p>
+      <p>
+        <s>However, those sonnets are not only the work of one of the most famous poets but also of historical value.</s>
+      </p>
+      <p>
+        <s>They represent and illustrate the Elizabethan world view quite well and are at the same time very modern and rebellious because while presenting the ideal Petrarchan woman or object of love in for example sonnet 18,<name type="person">Shakespeare</name> criticized the superficiality of his own time later in sonnet 130 and presents love as a deepter emotion and that humans do not have to be perfect.</s>
+      </p>
+      <p>
+        <s>Another argument while Shakespearean sonnets are very relevant for English student is their language and formal features.</s>
+        <s>On the one hand I understand the struggle and distance that first comes up when reading lines without understanding them.</s>
+        <s>On the other hand I can say from my own experience that when taking the time to truly understand a sonnet it can improve one's feeling for the English language extremely.</s>
+        <s>Moreover, the students get a chance to see and experience <choice><orig>to</orig><reg>the</reg></choice> road the English language has taken and as regards the formal structure the Shakespearean sonnets prove so very <choice><orig>thourough</orig><reg>thorough</reg></choice> why a strict order, which we students have to learn on a daily basis, can make a huge difference in meaning.</s>
+      </p>
+      <p>
+        <s>Furthermore, I would like to address the topical value of the Shakespearean sonnets.</s>
+        <s>They are not to be seen as simple love poems but as an opportunity to promote critical thinking.</s>
+      </p>
+      <p>
+        <s>When speaking of love,<name type="person">Shakespeare</name> often goes under the surface of a relationship and describes what truly matters.</s>
+        <s>Values like trust, costency or loyalty are so much more important than outward appearances and social demands.</s>
+      </p>
+      <p>
+        <s>Furthermore, the topic and struggle with time and <choice><orig>it's</orig><reg>its</reg></choice> connection to the power of poetry is another important aspect.</s>
+        <s><name type="person">Shakespeare</name> describes struggles with the <choice><orig>knowlege</orig><reg>knowledge</reg></choice> of transcience and how hard it is to love knowing everything will fade away eventually.</s>
+        <s>He inspires not only to live in the moment like many Petrarchan poets do but also lets his audience think of the future and how to let a piece of one's self, or a beloved person as in sonnet 18, live on.</s>
+        <s>Therefore, he describes the power of poetry which enables one to stay in this world in at least one way.</s>
+        <s>I believe that those thoughts and views on the world can inspire so many students if introduced to the sonnets.</s>
+        <s>And therefore inspiration is the last of my arguments to support the sonnet's place in the curriculum.</s>
+      </p>
+      <p>
+        <s>I personally had the pleasure to deal with Shakespearean sonnets more extensive and I can only say that it inspired me to use my own creativity and write and present myself.</s>
+        <s>The sonnets led me to think on life and while reading how beautifully<name type="person">Shakespeare</name> puts so much meaning and just so few words one can only want to get creative as well.</s>
+      </p>
+      <p>
+        <s>And for me that is a striking aspect of English classes or at least should be.</s>
+        <s>Because there is no better use for language than using it not for analysing some text the teacher gives but to truly find meaning in words.</s>
+      </p>
+      <p>
+        <s>I would like to conclude by appealing to you to reconsider your decision based on the arguments I have just given.</s>
+      </p>
+      <p>
+        <s>Thank you very much.</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

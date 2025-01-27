@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g04_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the scene at hand from the teen coming of age film <ref target="b10gk1_1" type="title">The Hate U Give</ref>, short <choice><abbr>THUG</abbr><expan>The Hate You Give</expan></choice>, released in <date>2018</date>, directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref>, you see how <ref target="b10gk1_1" type="character">Starr</ref> and <ref target="b10gk1_1" type="character">Chris</ref>, her boyfriend, make up after the <q>condomegate</q> incident.</s>
+      </p>
+      <p>
+        <s>The scene starts <choice><orig>of</orig><reg>off</reg></choice> with <ref target="b10gk1_1" type="character">Chris</ref> walking through the hallway of <name type="misc">Williamson High</name> greeting his friends and <ref target="b10gk1_1" type="character">Starr</ref> being at her locker.</s>
+        <s>When <ref target="b10gk1_1" type="character">Chris</ref> sees her he walks up to her and put his headphones on her.</s>
+        <s>After <ref target="b10gk1_1" type="character">Starr</ref> taking the headphones <choice><orig>of</orig><reg>off</reg></choice> and turning to <ref target="b10gk1_1" type="character">Chris</ref> she confronts him about what happened with the condom.</s>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> starts to explain to her why he did that.</s>
+        <s>He wants to get closer to <ref target="b10gk1_1" type="character">Starr</ref> but didn't know how.</s>
+        <s>Turns out the beat that <ref target="b10gk1_1" type="character">Starr</ref> listened to over <ref target="b10gk1_1" type="character">Chris's</ref> headphones is an apology for the condom <choice><orig>incedint</orig><reg>incident</reg></choice>.</s>
+        <s>As a result to <ref target="b10gk1_1" type="character">Starr</ref> not clearly accepting his apology he disconnects his headphones from his phone so everyone can hear it and starts dancing.</s>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> is amused by this but pulls him away laughing.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

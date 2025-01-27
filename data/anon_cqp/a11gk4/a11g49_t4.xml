@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g49_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Snoop,</salute>
+      </p>
+      <p>
+        <s>how is life going?</s>
+      </p>
+      <p>
+        <s>Yesterday I did some research about racism in the <name type="geo">USA</name> and I found an article, which informations truly surprised me.</s>
+        <s>I want to ask you about your experiences.</s>
+        <s>How do you deal with this <add>big</add> problem?</s>
+      </p>
+      <p>
+        <s>The article is about some statistics which are showing that African Americans are deprived socially and economically.</s>
+        <s>The reason for this divide is the police, who stop-and-frisk African <choice><orig>American</orig><reg>Americans</reg></choice> way more often than white Americans and that is a reason why African Americans are getting arrested more often.</s>
+        <s>The education of African Americans is way more abd than of white Americans because they don't reach a graduation as easily as we can, they have to work harder because of the <choice><orig>unequality</orig><reg>inequality</reg></choice>, which is still there since more than 50 years after the <name type="misc">Civil Rights Movement</name>.</s>
+      </p>
+      <p>
+        <s>In the <name type="geo">USA</name> more than 1/4th of the African Americans are poor while <choice><orig>its</orig><reg>it's</reg></choice> not even 1/10th for white Americans.</s>
+      </p>
+      <p>
+        <s>I hope it's interesting for you, what do you think about it?</s>
+      </p>
+      <p>
+        <s>I'm waiting for your reply</s>
+      </p>
+      <p>
+        <signed>xoxo</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

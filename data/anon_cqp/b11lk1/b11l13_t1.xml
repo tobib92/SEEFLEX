@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l13_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt at hand is a passage from the sixth chapter in the second part of the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain </ref> written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref>.</s>
+        <s>The novel deals with the hardships in daily life and the fight for survival of two undocumented Mexicans that have escaped to the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>While the whole neighborhood is planning to construct a wall around their so far gated community, a man called <ref target="b11lk1_1" type="character">Todd Sweet</ref> is trying to convince his neighbors of the opposite.</s>
+        <s>Here his conversation with <ref target="b11lk1_1" type="character">Delaney</ref>, one of the two antagonists living in the community in question, is finished and <ref target="b11lk1_1" type="character">Delaney</ref> makes his way back home.</s>
+        <s>On his way he notices a man crossing his neighbors' lawn who turns out to be <ref target="b11lk1_1" type="character">José Navidad</ref>, a Mexican who he's already encountered while hiking and his wife <ref target="b11lk1_1" type="character">Kyra</ref>, has told him about being threatened by.</s>
+        <s><ref target="b11lk1_1" type="character">Delaney</ref> confronts him by asking what he's doing in their community and assumes he's up to comitting crime.</s>
+        <s>After not responding for a while, and being physically approached by <ref target="b11lk1_1" type="character">Delaney</ref>, <ref target="b11lk1_1" type="character">José</ref> assures that he's delivering fliers that are supposed to invite the inhabitants to a meeting in order to discuss the wall-issue.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g24_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><s>To convince her husband uses <ref target="c12gk2_1" type="character">Lady Macbeth</ref> some devices.</s><s>At first she uses rhetorical questions.</s><quote><s>Was the hope drunk?</s><s>Wherein you dressed yourself?</s><s>Hath it slept since?</s></quote><ref target="c12gk2_1" type="line">(l. 9-10)</ref>. <s>She asks him if this <choice><orig>prosphery</orig><reg>prophecy</reg></choice> is his desire and underlines that she wishes it becomes truth.</s></p>
+      <p>
+        <s>She also says that she will wait until he <choice><orig>accept</orig><reg>accepts</reg></choice> his <choice><orig>prosphery</orig><reg>prophecy</reg></choice> and <choice><orig>respect</orig><reg>respects</reg></choice> it and his new destiny.</s>
+        <s><quote>Letting I dare not wait upon I would</quote><ref target="c12gk2_1" type="line">(l. 18)</ref>.</s>
+        <s>After that she brings up a metaphor <quote>Like the poor cat i'th'adage</quote> <ref target="c12gk2_1" type="line">(l. 19)</ref> to <choice><orig>shows</orig><reg>show</reg></choice> him that without murdering he can't become king.</s>
+        <s>Or at first to <choice><orig>shows</orig><reg>show</reg></choice> him that he has to do something to become king.</s>
+        <s>He reacts with: <quote>I dare do all that may become a man</quote> <ref target="c12gk2_1" type="line">(l. 21)</ref>.</s>
+        <s>And tries to show her that she has to be quiet <ref target="c12gk2_1" type="line">(l. 20)</ref> and he understands her saying and is willing to dare his desire, but he also says that who dares more is not a man anymore <ref target="c12gk2_1" type="line">(l. 22)</ref> and shows her that he wants also that the <choice><orig>prosphery</orig><reg>prophecy</reg></choice> becomes true but is not ready to do more than to wish it.</s>
+        <s>At this point <ref target="c12gk2_1" type="character">Macbeth</ref> doesn't know about the murdering plan from <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>But his arguments <choice><orig>brings</orig><reg>bring</reg></choice> <ref target="c12gk2_1" type="character">Lady Macbeth</ref> the new basic for her next try to convince him.</s>
+        <s>At first she is angry about his reasons to don't follow a plan.</s>
+      </p>
+      <p>
+        <s><quote>What beast was't then, that made you break this enterprise to me?</quote><ref target="c12gk2_1" type="line">(l. 23, 24)</ref>.</s>
+        <s>But <choice><orig>than</orig><reg>then</reg></choice> she says that this plan is the only way for him to become a man.</s>
+        <s>After that she gets very personal to him and talks about their <choice><orig>death</orig><reg>dead</reg></choice> child and the pain she get <ref target="c12gk2_1" type="line">(ll. 30)</ref>.</s>
+        <s>But she tells him this to show what she would do for this <choice><orig>prosphery</orig><reg>prophecy</reg></choice>.</s>
+        <s><quote>And dashed the brains out, had I sworn as you have done to this</quote><ref target="c12gk2_1" type="line">(l. 34f.)</ref>.</s>
+        <s>With this she can convince him that the <choice><orig>prosphery</orig><reg>prophecy</reg></choice> has to become true, but he is still afraid <quote>If we should fail?</quote> <ref target="c12gk2_1" type="line">(l. 36)</ref>.</s>
+        <s>She takes his fear with the murdering plan to show him that she has the plan under control and he only has to carry the plan out <ref target="c12gk2_1" type="line">(ll. 40)</ref>.</s>
+        <s>Now <ref target="c12gk2_1" type="character">Macbeth</ref> is convinced but his only worry is that the chamberlains are <choice><orig>to</orig><reg>too</reg></choice> smart <quote>Bring forth men-children only</quote> <ref target="c12gk2_1" type="line">(l. 51)</ref>.</s>
+        <s>He is now ready for the plan and underlines it with <choice><orig>an</orig><reg>a</reg></choice> metaphor <quote>False face must hide what the false heart doth know</quote> <ref target="c12gk2_1" type="line">(l. 57)</ref>.</s>
+        <s>It means that he has to hide what he intends to behind a false face.</s>
+        <s>But he also admits that the plan is evil and says he has a <quote>false heart</quote>.</s>
+        <s>The relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is marked by <choice><orig>an</orig><reg>a</reg></choice> very dominant part from <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>First of all she has a much bigger part to say and she gets to put <ref target="c12gk2_1" type="character">Macbeth</ref> into the plan.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> follows what she wants and convinced her husband to get what she wants.</s>
+        <s>I think she gets this through manipulation and puts him a lot under pressure with rhetorical questions he can think about and personal stuff he has to deal with.</s>
+        <s>She also shows him her love and loyalty, because she makes the plan up, takes his fear and <choice><orig>support</orig><reg>supports</reg></choice> his <choice><orig>prosphery</orig><reg>prophecy</reg></choice>.</s>
+        <s>I think it is kind of a <choice><orig>feministic</orig><reg>feminist</reg></choice> act <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>play</orig><reg>plays</reg></choice>, because she is the dominant part and gets through <ref target="c12gk2_1" type="character">Macbeth</ref> what she wants.</s>
+        <s>She has her husband full under control.</s>
+        <s>And this <choice><orig>effects</orig><reg>affects</reg></choice> the relationship between them.</s>
+        <s>Also the <choice><orig>death</orig><reg>dead</reg></choice> child is an <choice><orig>affect</orig><reg>effect</reg></choice> on the relationship.</s>
+        <s>It is very personal and <choice><orig>painfull</orig><reg>painful</reg></choice> for both.</s>
+        <s>But the dominance from <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is also shown because of her arguments.</s>
+        <s>She takes their <choice><orig>death</orig><reg>dead</reg></choice> child as argument for her loyalty and convinces him with that.</s>
+        <s>All and all I think <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is a <choice><orig>powerfull</orig><reg>powerful</reg></choice> and manipulative part in their relationship.</s>
+        <s>Both of them speak in verse, which shows that they are in a higher position.</s>
+        <s>But the huge part from <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and her choice of words <choice><orig>shows</orig><reg>show</reg></choice> that in this scene she is in a higher
+position as <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>She has the conversation under control.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

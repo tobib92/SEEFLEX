@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c10g49_t3</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my country were war and me and my family were right in the middle of it.</s>
+        <s>We hadn't much food or water.</s>
+        <s>So I decided to immigrate in <name type="geo">New York</name>.</s>
+        <s>I went there by boat and my family don't want to come with me.</s>
+        <s>I said: <quote>I will get you here as soon as possible</quote>.</s>
+        <s>I started a new life in <name type="geo">New York</name> and went working.</s>
+        <s>After two years of hard work I had the money to get my family here.</s>
+        <s>So in <date>2007</date> we were together again.</s>
+        <s>Now we are living in <name type="geo">New York</name>, we have no problems and <choice><orig>life</orig><reg>live</reg></choice> a good life.</s>
+        <s>My sons aren't at home anymore <name type="person">Chiko</name> lives in <name type="geo">California</name> he <choice><orig>have</orig><reg>has</reg></choice> two daughters and a wife.</s>
+        <s><name type="person">Rahid</name> my other son is a professional football player now.</s>
+        <s>It was the best decision ever to leave <name type="geo">Iraq</name>.</s>
+        <s>The two yeats without my family were hard and it was a long way to get on legal immigrant but now I'm living my dream life.</s>
+        <s>The only thing I want to do before I die is visiting my home country.</s>
+        <s>I just want a last ride to <name type="geo">Iraq</name> <choice><orig>thats</orig><reg>that's</reg></choice> everything I'm dreaming of but I hope it's not that hard to get there like I've got here.</s>
+        <s>I don't want to sit on a boat for weeks or been scared of the terrorists.</s>
+        <s>I want a funny holiday with my family at beach.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

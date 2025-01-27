@@ -1,7 +1,7 @@
 current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
 setwd(current_working_dir)
 
-source("../data pipeline/meta_data.R")
+source("../data_pipeline/meta_data.R")
 
 
 # Data preparation

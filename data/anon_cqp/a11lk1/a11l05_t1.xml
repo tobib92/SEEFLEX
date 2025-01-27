@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l05_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After <ref target="a11lk1_1" type="character">Abe</ref> discussed Muslim repression in a <name type="misc">Starbucks</name> with a Kufi on his head and a friend who annoyed the barista who waited them, the barista suspected them both of terrorism and reported them to the police.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref>, who chose to change his name back to <name type="misc">Hussein</name>, was therefore interrogated by the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> and now his immigration status is back on discussion.</s>
+        <s>In his hearing or interrogation <ref target="a11lk1_1" type="character">Abe</ref> <add>(<name type="misc">Hussein</name>)</add> laughed out loud after the authorities announced that his status is up for renewal.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe's</ref> uncle, <ref target="a11lk1_1" type="character">Amir</ref>, reacts shocked to <ref target="a11lk1_1" type="character">Abe's</ref> behaviour and the situation he got himself in.</s>
+      </p>
+      <p>
+        <s>In <ref target="a11lk1_1" type="character">Amir's</ref> mind it would be the best to work together with the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> in case this could improve the current situation for <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s>He calls <ref target="a11lk1_1" type="character">Ken</ref>, a lawyer on <ref target="a11lk1_1" type="character">Imam Fareed's</ref> case, and asks for his help on the matter urgently.</s>
+      </p>
+      <p>
+        <s>A part of <ref target="a11lk1_1" type="character">Amir's</ref> ideas to support his nephew is to convince him to watch what he says and how he acts once he steps outside of his home.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> thinks it is important for <ref target="a11lk1_1" type="character">Abe</ref> to realize that they do not live in a neutral world and need to be cautious at all times.</s>
+      </p>
+      <p>
+        <s>For his help however, <ref target="a11lk1_1" type="character">Amir</ref> states that respect against him is a condition <ref target="a11lk1_1" type="character">Abe</ref> needs to follow.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a11lk1_1" type="character">Abe's</ref> situation is quite dangerous as he does not know what his future in the <name type="geo">US</name> will hold at all - or if there even is one - and <ref target="a11lk1_1" type="character">Amir's</ref> ideas to support him are generally defensive and trying to back down in front of the legal system in the <name type="geo">USA</name>.</s>
+      </p>
+    </body>
+    <add>
+      <s>info: because there is <choice><orig>a</orig><reg>an</reg></choice> <choice><orig>introductorary</orig><reg>introductory</reg></choice> sentence in no. 2 I left one out in this no.</s>
+    </add>
+  </text>
+</TEI>

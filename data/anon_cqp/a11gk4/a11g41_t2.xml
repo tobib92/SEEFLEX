@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g41_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sixteen-year-old African-American girl <name type="person">Starr</name> is the protagonist and narrator of the novel <ref target="a11gk4_1" type="title">The Hate U Give</ref> by <ref target="a11gk4_1" type="author">Angie Thomas</ref>, published in <date>2019</date>.</s>
+        <s>In chapter 24 <name type="person">Starr</name> tells her story as a <choice><orig>first person</orig><reg>first-person</reg></choice> narrator.</s>
+        <s>She narrates the events how she experiences them and shows the raeder her unfiltered emotion.</s>
+        <s><name type="person">Starr</name> does not know the feelings and thoughts, of her surroundings, but with confronting the reader with her point of view and her inner-acting, she is authentic.</s>
+        <s><name type="person">Starr</name> makes use of slang, because she has lost the control or does not want to control her outward appearance anymore: <quote><qs>I'm sick of this!</qs><qs>Just like y'all think all of us are bad because of some people, we think the same about y'all.</qs><qs>Until you give us a reason to think otherwise, we'll keep protesting.</qs></quote> <ref target="a11gk4_1" type="line">(ll. 55f)</ref>.</s>
+        <s>The reader recognizes, how upset the narrator is.</s>
+        <s>Because <name type="person">Starr</name> shows her experiencing her last moments with <name type="person">Khalil</name>, the reader feels like he is on the same level as <name type="person">Starr</name>: <quote><qs>'A hairbrush is not a gun' Khalil drops it into the side of the door.</qs><qs>'A hairbrush is not a gun' He opens the door to ask if I'm okay.</qs><qs>Then pow-pow - 'A hairbrush is not a gun!</qs><qs>I scream as loud as I can, fist high in the air, tears in my eyes</qs></quote> <ref target="a11gk4_1" type="line">(ll. 18-23)</ref>.</s>
+        <s><name type="person">Starr</name> also shows her inner attitude towards the police officers by using slang: <quote><qs>'You need to exit the street immediately', the cop says.</qs><qs>You know what?</qs><qs>Fuck it.</qs></quote> <ref target="a11gk4_1" type="line">(ll. 47f)</ref> The reader is able to understand the way she thinks and acts, because of knowing <name type="person">Starr's</name> emotions and inner-acting.</s>
+      </p>
+      <p>
+        <s>To sum it up one can say that because of using the first narator the reader feels connected with her.</s>
+        <s>This is because of <name type="person">Starr</name> narrating the events how she experiences them and showing her unfiltered emotions.</s>
+        <s>These narrative techniques <choice><orig>effects</orig><reg>affect</reg></choice> authenticity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

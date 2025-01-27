@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g13_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> said the <name type="misc">Brexit</name> will be <choice><orig>an</orig><reg>a</reg></choice> <quote>lose-lose situation</quote> for the <name type="misc">European Union</name> and the <name type="geo">United Kingdom</name>.</s>
+      </p>
+      <p>
+        <s>I agree with this statement and that are some <choice><orig>Arguments</orig><reg>arguments</reg></choice> which support my view.</s>
+      </p>
+      <p>
+        <s>First the problems with trading.</s>
+        <s>Importing and exporting thing to the <name type="geo">UK</name> got sometimes more expensive and take longer, because they need to do more paperwork and pay sometimes taxes.</s>
+        <s>This is for the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s>The second big problem is that if you want to work in the <name type="geo">UK</name> you need a visa.</s>
+        <s>The result is that there are missing truck drivers and other lower skilled workers, leading to missing petrol at <choice><orig>patrol</orig><reg>petrol</reg></choice> stations or rotten food in the fields as there are not enough people to harvest them.</s>
+      </p>
+      <p>
+        <s>As this problem is bigger for the <name type="geo">UK</name> it is also bad for people who want to immigrate to the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>Then a problem for the <name type="misc">EU</name> is the missing money that the <name type="geo">UK</name> <choice><orig>stop</orig><reg>stops</reg></choice> paying.</s>
+        <s>A smaller problem is for the <name type="geo">UK</name> that the <name type="misc">EU</name> stopped paying.</s>
+        <s>In theory the <name type="geo">UK</name> payed more for the <name type="misc">EU</name> than it got back, but some places needed that money from the <name type="misc">EU</name> and need hope they will get this money from the <name type="geo">UK</name> government.</s>
+      </p>
+      <p>
+        <s>I have only heard of <choice><orig>Arguments</orig><reg>arguments</reg></choice> supporting the <name type="misc">Brexit</name> when it came to <name type="geo">UK's</name> independence to be free from regulations.</s>
+      </p>
+      <p>
+        <s>But I would take these downsides for free trade and free travel.</s>
+      </p>
+      <p>
+        <s>So after listing the <choice><orig>Arguments</orig><reg>arguments</reg></choice> I still think the <name type="misc">Brexit</name> was a bad idea and a <quote>lose-lose situation</quote> how <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> called it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

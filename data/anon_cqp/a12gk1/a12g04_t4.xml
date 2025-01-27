@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g04_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Hanna,</salute>
+      </p>
+      <p>
+        <s>I hope you are fine in this crazy times.</s>
+        <s>How are you doing in Canada?</s>
+        <s>I know that you think about spending a year in <name type="geo">Germany</name> or <name type="geo">Berlin</name> after school.</s>
+        <s>Yesterday I found an article that deals exactly with this topic.</s>
+        <s>That is why I want to give you a short summary, in English obviously, of this article.</s>
+      </p>
+      <p>
+        <s>The article from the <name type="misc">Hannoversche Allgemeine Zeitung</name> and was written <date>2016</date> by <ref target="a12gk1_2" type="author">Marina Kormbaki</ref>.</s>
+        <s>In the beginning the author describes <name type="geo">Berlin</name> as a city that is similar to <name type="geo">London</name>, <name type="geo">Brooklyn</name> or <name type="geo">Sydney</name>.</s>
+        <s>Furthermore many <choice><orig>englishspeaking</orig><reg>English-speaking</reg></choice> tourists or students come to <name type="geo">Berlin</name>, but some of them stay in <name type="geo">Berlin</name>.</s>
+        <s>English is important for the everyday life in <name type="geo">Berlin</name>.</s>
+        <s>The author says that you have disadvantages, if you cannot speak English.</s>
+        <s>If you walk through <name type="geo">Berlin</name>, it would be not unusual to do not hear a word in German.</s>
+        <s><name type="geo">Berlin</name> is a world city.</s>
+      </p>
+      <p>
+        <s>Moreover the article describes the everyday life.</s>
+        <s>You have cafes that could be in Toronto, L. A. or Hongkong too.</s>
+        <s>Also bookstores exist, that sell <choice><orig>english</orig><reg>English</reg></choice> books.</s>
+        <s><choice><orig>Cultur</orig><reg>Culture</reg></choice> and nightlife are arguments for <name type="geo">Berlin</name> too.</s>
+        <s>One problem is the rent.</s>
+        <s>In the last 5 years it exploded.</s>
+      </p>
+      <p>
+        <s>I hope that this text was interesting for.</s>
+        <s>It will be very nice, if you come to <name type="geo">Germany</name>.</s>
+        <s>We could meet again after such a long time.</s>
+        <s>Maybe I convinced you.</s>
+      </p>
+      <p>
+        <s>See you soon</s>
+      </p>
+      <p>
+        <signed>Love Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

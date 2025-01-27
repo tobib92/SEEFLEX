@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g23_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref> wrote in his comment <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> published <date>27th January 2015</date>in <name type="misc">The Telegraph</name> about which benefits a foreign language has and how it needs to get enlarged by young people.</s>
+      </p>
+      <p>
+        <s>At first he reports the steady decline of studying foreign languages at university level based on studies of the past seven years.</s>
+        <s><choice><orig>Eventhough</orig><reg>Even though</reg></choice> this destabilization <choice><orig>exist</orig><reg>exists</reg></choice>, one can see some process now, because of getting <choice><orig>teached</orig><reg>taught</reg></choice> more and more languages in primary schools in the <name type="geo">UK</name>.</s>
+        <s>Exam results in the latest past years <choice><orig>displays</orig><reg>display</reg></choice> the increasing <name type="misc"><choice><orig>A-Level</orig><reg>A-Levels</reg></choice></name> and the uptake of language.</s>
+      </p>
+      <p>
+        <s>10,000 <name type="misc"><choice><orig>A-Level</orig><reg>A-Levels</reg></choice></name> exams more than in the 1990s were taken, which <choice><orig>show</orig><reg>shows</reg></choice> the sinking number of exams about foreign language.</s>
+        <s>After this, there is following couple years of increasing.</s>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref> lists arguments for the situation nowadays, which include speaking the foreign language.</s>
+        <s>He refutes all of them.</s>
+        <s>In the following he clarifies the reader about, why language is so important and useful for.</s>
+        <s>The main points are <name type="geo">UK's</name> future prosperity and their global standing.</s>
+        <s>Essential aspects are the ones, that are products of globalization, like trade, cultural exports and national security.</s>
+        <s>Furthermore, two-thirds of <name type="geo">UK</name>-businesses rely on foreign language skills.</s>
+        <s>That is, why <ref target="a12gk2_1" type="author">Worne</ref> expects the increasing development of the market, including trading.</s>
+        <s>The author's opinion is, that the <name type="geo">UK</name> is outsourcing, instead of believing in their work.</s>
+      </p>
+      <p>
+        <s>Something <ref target="a12gk2_1" type="author">Worne</ref> likes is the universities, which are giving the students an opportunity to study a degree subject in another language.</s>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref> mentions that a lawyer is a better seen lawyer than a <choice><orig>english speaking</orig><reg>English-speaking</reg></choice> one.</s>
+      </p>
+      <p>
+        <s>In the end he says that there is a need of young human <choice><orig>beeings</orig><reg>beings</reg></choice>, that have to develop their language skills.</s>
+        <s>He appeals the parent-being reader to think about international experience to expand the language skills of their children.</s>
+        <s>And that the school and education systems need the parents as their helping hand to fix the for him existing problem.</s>
+      </p>
+      <p>
+        <s>All in all it seems like the text is all about the need of a foreign language to fix national problems and even global problems.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

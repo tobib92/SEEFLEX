@@ -7,7 +7,7 @@ source("meta_utils.R")
 source("xml_utils.R")
 
 # Create a list of the meta data on each individual text
-WD <- gather_text_info(directory = "../../data/anon/")
+WD <- gather_text_info(directory = "../../data/anon_cqp/")
 
 # Include information on the curricular task and create different groups of
 # the operators.
@@ -15,7 +15,7 @@ WD <- gather_text_info(directory = "../../data/anon/")
 WD <- group_operators(meta = WD)
 
 # Read the raw meta data table
-MD <- read_delim("../../data/meta_data_anon.csv", delim = ",")
+MD <- read_delim("../../data/meta_data_anon2.csv", delim = ",")
 
 # Calculate the scores for the English LexTALE
 MD <- calculate_lextale(meta = MD, words = "LexTALE.eng.w",

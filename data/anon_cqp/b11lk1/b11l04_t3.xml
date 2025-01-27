@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l04_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Based on the things we learned about the relationship between Americans, mostly white Americans, mostly white Americans and Hispanics, we can say that they can't live together in peace together.</s>
+        <s>This has a couple reasons.</s>
+        <s>As we can see in this excerpt but also in other passages from the back a lot of the time people put all Hispanics into a drawer.</s>
+        <s>In this except he only knows that he is Mexican and <choice><orig>immideatly</orig><reg>immediately</reg></choice> thinks he is a criminal.</s>
+        <s>Another example would be <name type="person">Delaney</name> in the first chapter of the novel, where he hits <name type="person">Cándida</name>, who is Mexican with his car and he is more worried about his car than the guy he just ran over.</s>
+      </p>
+      <p>
+        <s>Furthermore Hispanics especially from Mexico are often illegal immigrants and most of the white Americans think they are bad.</s>
+      </p>
+      <p>
+        <s>Reasons for that are that they think they are takign away jobs from them and also affect their chances of getting a job.</s>
+      </p>
+      <p>
+        <s>Americans also think that Hispanics are often thieves so they are afraid that they take away things from them.</s>
+      </p>
+      <p>
+        <s>In conclusion the problem is that there are a lot of illegal Mexican immigrants in <name type="geo">California</name> and they are seen as bad people.</s>
+        <s>But therea re also legal immigrants which are put in the same spot as illegal immigrants because of they have the same origin.</s>
+        <s>The media is another big problem because they reach a lot of people and the media usually reports on bad things that happen which is why a lot of bad examples of Mexicans are published and spread across the whole country.</s>
+      </p>
+      <p>
+        <s>On the other hand there are also prejudice against white Americans, as Mexicans think that most of them are racist, selfish, and rude people.</s>
+        <s>To sum things up we can say that both Mexicans and white Americans hour their prejudice against each other, which leads to a never ending conflict.</s>
+        <s>This situation could only hardly be improved because racism and stereotypes will always affect how people think of each other.</s>
+        <s>A way to improve could be that everyone reflects on themselves and if the things they do and say are based on facts or simply on stereotypes.</s>
+      </p>
+      <p>
+        <s>Another way could be that the media also focuses more on the good things immigrants do and how they are not as bad as people see them.</s>
+      </p>
+      <p>
+        <s>If things get to improve each and everyone get to work on it and stop to judge books by their covers.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

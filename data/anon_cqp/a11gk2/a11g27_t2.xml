@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the first paragraph <ref target="a11gk2_1" type="line">(ll. 1-3)</ref> <ref target="a11gk2_1" type="speaker">Obama</ref> tells us how glad he is to be in <name type="geo">Bettendorf</name> and assures the audience that they have more in common than the <name type="misc"><choice><orig>Missisippi</orig><reg>Mississippi</reg></choice></name> pier, which shows that he is educated and competent about geopolitical issues and can identify with them, which causes empathy and sympathy in the audience for him.</s>
+        <s>In the next two paragraphs he creates an antithesis and makes clear, that <choice><orig>altough</orig><reg>although</reg></choice> people think that the nation is deeply <choice><orig>devided</orig><reg>divided</reg></choice> they all have basic needs and common interests, which once again creates sympathy for him <ref target="a11gk2_1" type="line">(ll. 5-12)</ref>.</s>
+        <s>One can find an anecdote in both the 4th and 5th paragraph, where he talks about his family background and that his family also has struggled but <choice><orig>throug</orig><reg>through</reg></choice> work and <quote>the magical power</quote> of the American Dream they put enough effort in it to not only survive, but also to help others and get highly educated which causes that the audience, which may also struggle for survival can better identify with him and feel touched by his story and feel proud of him.</s>
+        <s>He also speaks directly to the audience and talks more oftenly about the problems in his country and doesn't hide the truth.</s>
+      </p>
+      <p>
+        <s>In my opinion, it was a very good speech and I can identify with him and his points, even <choice><orig>altough</orig><reg>although</reg></choice> I'm not from <name type="geo">Iowa</name>, not the <name type="geo">USA</name>, because one can easily follow his words and they create a <choice><orig>generall</orig><reg>general</reg></choice> feeling of unity.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

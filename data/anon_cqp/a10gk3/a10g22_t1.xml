@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g22_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk3_1" type="author">Ankita Mitra</ref>, published on <name type="misc">Blog on Environment</name> focuses on environmental pollution and its effects.</s>
+        <s>In the <choice><orig>authors</orig><reg>author's</reg></choice> opinion climate change results from the growing wealth and industrialization.</s>
+        <s>The growing number of cars, hazardous fertilizers and other things used to make our <choice><orig>lifes</orig><reg>lives</reg></choice> faster and more comfortable, influence the environment in a dangerous way.</s>
+        <s>This can be seen in changes in our climate like the growing number of bad weather like flood disasters or drought.</s>
+        <s>He appeals to the reader to change something, because we just have this planet and we can't pollute the air and our water any longer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

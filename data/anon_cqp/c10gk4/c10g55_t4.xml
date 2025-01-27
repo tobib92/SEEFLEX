@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g55_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Her common day course during the week was the same.</s>
+        <s>Breakfast was at 8:30 o'clock leaving the flat before 10 and ride with a bike to the <name type="misc">Education Center</name>.</s>
+        <s>From 10:30 o'clock to 11:30 o'clock or 12 teaching the boys <choice><orig>english</orig><reg>English</reg></choice> grammar, from 12 to 14 o'clock lunch break and from 14 to 16 o'clock teaching the girls <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+        <s>She liked the kids the most during that time.</s>
+        <s>They were very lovely and tolerant to her and also curious about your life and background.</s>
+        <s>She worked in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> in many kindergartens but she has never seen kids that had such a joy of life, even <choice><orig>tough</orig><reg>though</reg></choice> their bad situation.</s>
+        <s>They <choice><orig>fullfilled</orig><reg>fulfilled</reg></choice> my friend with love, hope and gratitude for her even <choice><orig>tough</orig><reg>though</reg></choice> she was sometimes tired and frustrated.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

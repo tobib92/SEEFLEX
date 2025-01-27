@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g32_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>You can see, that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> has <choice><orig>lager</orig><reg>larger</reg></choice> parts than <ref target="c12gk2_1" type="character">Macbeth</ref>, so she has the superiority in this dialogue.</s>
+        <s>At the beginning, from line 10 to 19, she also <choice><orig>askes</orig><reg>asks</reg></choice> a lot of rhetorical questions to make <ref target="c12gk2_1" type="character">Macbeth</ref> unsure.</s>
+        <s>The metaphor in line 6 <quote>(golden opinions)</quote> depicts that when <ref target="c12gk2_1" type="character">Macbeth</ref> would become King, the naiton and all people receive a new characteristics.</s>
+        <s>In addition, his reign could have a <choice><orig>positiv</orig><reg>positive</reg></choice> effect on the society.</s>
+        <s>With the sentence in line 8, <ref target="c12gk2_1" type="character">Macbeth</ref> could <choice><orig>critizise</orig><reg>criticise</reg></choice> <ref target="c12gk2_1" type="character"><choice><orig>Duncans</orig><reg>Duncan's</reg></choice></ref> power.</s>
+        <s>The phrase <quote>hope drunk</quote> in line 9 is also a metaphor which puts <choice><orig>emphazise</orig><reg>emphasis</reg></choice> on the fact that <ref target="c12gk2_1" type="character">Macbeth's</ref> reign could have positive effects on the society lays on the existance of the empire in the future.</s>
+        <s>In line 10, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> addresses her husband indirectly <quote>(Hath it slept since?)</quote>.</s>
+        <s>In this way, she constructs distance to his husband, because at the moment he doesn't agree to her plan.</s>
+        <s>There is also a conflict between <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, because all the time, she believes that <ref target="c12gk2_1" type="character">Macbeth</ref> should become King as soon as possible.</s>
+        <s>She also uses the informal form of <quote>you</quote> to underline the differences.</s>
+      </p>
+      <p>
+        <s>In line 10 <quote>(Wherein you dressed yourself? Hath it slept since?)</quote> you can also see that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> calls the manliness of her husband into question.</s>
+        <s>From line 15 to 17, she underlines the unreasonableness of <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>When he would be the King, more people would respect him and his reputation could increase.</s>
+        <s>Here, you can also find a contrast, because <ref target="c12gk2_1" type="character">Lady Macbeth</ref> counts the opportunity <ref target="c12gk2_1" type="character">Macbeth</ref> could have if he becomes King and compares this with his current life.</s>
+        <s>There is also an antithesis in line 17 <quote>(... coward in thine own esteeem...)</quote> which shows that <ref target="c12gk2_1" type="character">Macbeth</ref> could be proud to what he has done, but on the other hand, he is not strong enough to fight for his goals.</s>
+        <s>You can also suspect that <ref target="c12gk2_1" type="character">Macbeth</ref> sometimes isn't self-confident and he is suppressed by his wife.</s>
+        <s>The alliteration in line 20 <quote>(Prithee, peace)</quote> expresses that <ref target="c12gk2_1" type="character">Macbeth</ref> wants to decide for himself and doesn't like that his wife tries to <choice><orig>influences</orig><reg>influence</reg></choice> him and is very dominant all the time.</s>
+        <s>The conflict changes in line 24, because here, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses the formal form of <quote>you</quote>.</s>
+        <s>The distance between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife increases rapidly.</s>
+      </p>
+      <p>
+        <s>In the following lines due to line 34, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> swears at <ref target="c12gk2_1" type="character">Macbeth</ref> and reproaches him for his lack of masculinity.</s>
+        <s>He also enumerates lots of character <choice><orig>traids</orig><reg>traits</reg></choice> a <choice><orig>men</orig><reg>man</reg></choice> normally has to fulfill, but <ref target="c12gk2_1" type="character">Macbeth</ref> doesn't seem to <choice><orig>possesses</orig><reg>possess</reg></choice> these qualities.</s>
+        <s>From line 30 to 34, she compares him with a baby to <choice><orig>depicts</orig><reg>depict</reg></choice> his dependency from other people, especially his wife.</s>
+        <s>With the metaphor in line 34 <quote>(dashed the brains out)</quote> she <choice><orig>put</orig><reg>puts</reg></choice> <choice><orig>emphazise</orig><reg>emphasis</reg></choice> on <choice><orig>there</orig><reg>their</reg></choice> power and influence, she has on other people.</s>
+        <s>At the end of the scene, she <choice><orig>explaines</orig><reg>explains</reg></choice> the plan again, but much more detailed.</s>
+        <s>This has the effect that <ref target="c12gk2_1" type="character">Macbeth</ref> shall get out of his insecurity and <choice><orig>trust</orig><reg>trusts</reg></choice> <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>With the personal pronoun <quote>I</quote> and the alliteration <quote>wine and wassail</quote> in line 42, she expresses that the plan was her idea and reveals the weakness of the chamberlains.</s>
+        <s>The metaphor <quote>warder of the brain</quote> in line 43 describes the memory as a strong power of humanity, they have to turn off when they kill <ref target="c12gk2_1" type="character">Duncan</ref> and the <choice><orig>chamberlanes</orig><reg>chamberlains</reg></choice>.</s>
+        <s>With the simile in line 46 <quote>(... drenched natures lie as in death...)</quote>, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>stress</orig><reg>stresses</reg></choice> that when they kill the chamberlains, <choice><orig>the</orig><reg>they</reg></choice> have a direct access to <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> wants to kill <ref target="c12gk2_1" type="character">Duncan</ref>, because she thinks that <ref target="c12gk2_1" type="character">Macbeth</ref> has not the <choice><orig>strengthen</orig><reg>strength</reg></choice> to do it.</s>
+        <s>At the last part of <ref target="c12gk2_1" type="character">Macbeth</ref> when he said that his wife only has to beget males, he sees that he is not brave enough to kill <ref target="c12gk2_1" type="character">Duncan</ref>, so he agrees his wife that he is a coward.</s>
+        <s>This also shows the suppression of <ref target="c12gk2_1" type="character">Lady Macbeth</ref> and the influence she has on <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> life.</s>
+      </p>
+      <p>
+        <s>To sum up, you can say that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is a very dominant speaker in this dialogue and in the beginning, she asks many questions to insecure <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>To convince his husband of murdering <ref target="c12gk2_1" type="character">Duncan</ref>, she suppresses <ref target="c12gk2_1" type="character">Duncan</ref> and counts what character <choice><orig>trades</orig><reg>traits</reg></choice> a real <choice><orig>men</orig><reg>man</reg></choice> has, that <ref target="c12gk2_1" type="character">Macbeth</ref> cannot fulfill.</s>
+        <s>To strengthen her husband agreeing her plan, she <choice><orig>explaines</orig><reg>explains</reg></choice> it more <choice><orig>detailled</orig><reg>detailed</reg></choice> than the way before and <choice><orig>emphazises</orig><reg>emphasizes</reg></choice> that the plan is very safe and doesn't fail when <ref target="c12gk2_1" type="character">Macbeth</ref> finds his courage.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

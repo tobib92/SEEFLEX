@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following, I am going to <choice><orig>analize</orig><reg>analyze</reg></choice> the dialogue between <ref target="c11gk3_1" type="character">Walter</ref> and <ref target="c11gk3_1" type="character">Ruth</ref> with a special focus on <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> dream and how he wants to achieve it.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk3_1" type="character">Walter</ref> seems to be really unhappy with his living conditions and status <quote>[...] I got a boy who sleeps in the living room [...] and all I got to give him is stories about how rich white people live</quote> <ref target="c11gk3_1" type="line">(l. 41ff.)</ref>.</s>
+        <s>He thinks that he is worth less than the white <choice><orig>buisnessmen</orig><reg>businessmen</reg></choice> he drives around in his job as a chauffeur without upwards mobility.</s>
+        <s>So he wants to escape this lower position and be a masculine role model for his son that can offer him anything.</s>
+      </p>
+      <p>
+        <s>He regrets that he missed a job <choice><orig>oppurtunity</orig><reg>opportunity</reg></choice> once that could have made him independent <quote><qs>When [Charlie Atkins] wanted me to go in the dry-cleaning business with him.</qs><qs>And now- he's grossing a hundred thousand a year</qs></quote> <ref target="c11gk3_1" type="line">(l. 7f.)</ref> he is tired of their life in poorness and thinks that <ref target="c11gk3_1" type="character">Ruth</ref> sees it the same way <quote><qs>You tired, ain't you?</qs><qs>Tired of everything</qs></quote> <ref target="c11gk3_1" type="line">(l. 11)</ref>.</s>
+        <s>But <ref target="c11gk3_1" type="character">Ruth</ref> doesn't react to this <quote><qs>Walter, please leave me alone</qs></quote> <ref target="c11gk3_1" type="line">(l. 15)</ref>.</s>
+        <s>Even while she basicly has the same wish of better living conditions she delines <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> ambitioned <choice><orig>buisness</orig><reg>business</reg></choice> plans because she thinks his need to make money is way <choice><orig>to</orig><reg>too</reg></choice> desperate.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> plan to realize his dream is a liquor store.</s>
+        <s>He wants to invest the insurance money into buying it and lead it with his friends <ref target="c11gk3_1" type="character">Bobo</ref> and <ref target="c11gk3_1" type="character">Willy</ref>.</s>
+        <s>This seems really risky because he would even need to bribe somebody for the license <quote>Course there's a couple hundreds you got to pay so's you don't spend your life just waiting for them clowns to let your license get approved</quote> <ref target="c11gk3_1" type="line">(l. 29f.)</ref>.</s>
+        <s>But <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> will of self <choice><orig>fulfillment</orig><reg>fulfilment</reg></choice> is so strong that committing this crime doesn't seem like a problem for him.</s>
+        <s>He even glosses over when telling his plans until <ref target="c11gk3_1" type="character">Ruth</ref> realizes it <quote>you mean graft?</quote> <ref target="c11gk3_1" type="line">(l. 31)</ref> and wants to manipulate her to talk to <ref target="c11gk3_1" type="character">Mama</ref> about it <ref target="c11gk3_1" type="line">(l. 18)</ref>.</s>
+      </p>
+      <p>
+        <s>From <ref target="c11gk3_1" type="character">Ruth's</ref> perspective this is nonsense and an unnecessary risk.</s>
+        <s>She wants <ref target="c11gk3_1" type="character">Walter</ref> to stop talking <quote>Walter-</quote> <ref target="c11gk3_1" type="line">(l. 17)</ref> and wants to end the conversation by telling him to eat his eggs <quote>Eat your eggs, they gonna be cold</quote> <ref target="c11gk3_1" type="line">(l. 34)</ref>.</s>
+        <s>This request can be seen symbolic for the relation of a <surplus>a</surplus> man's dreams <choice><orig>beeing</orig><reg>being</reg></choice> destroyed by a modest black <choice><orig>women</orig><reg>woman</reg></choice>.</s>
+        <s><ref target="c11gk3_1" type="character">Walter</ref> takes this personal because his own wife doesn't even support his highly desired lifegoal <quote><qs>Man say to his woman: I got me a dream.</qs><qs>His woman say: Eat your eggs.</qs><qs>[...] I got to change my life, I'm choking to death, baby!</qs></quote> <ref target="c11gk3_1" type="line">(l. 35ff.)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all one could say that <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> dream is to be independent, escape his depressing life and make money with his own liquor store that gives him back his masculine pride and self <choice><orig>fulfillment</orig><reg>fulfilment</reg></choice>.</s>
+        <s>But is stopped by the modest wife that rationally doesn't want to take this risk, because she safely wants to invest it in their life by buying a house what is also <ref target="c11gk3_1" type="character">Mama's</ref> wish.</s>
+        <s>So in this way <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> manipulation of <ref target="c11gk3_1" type="character">Ruth</ref> speaks about her own <choice><orig>mothers</orig><reg>mother's</reg></choice> wish since she is the person the money belongs to.</s>
+        <s>By needing <choice><orig>All</orig><reg>all</reg></choice> the money for himself even <ref target="c11gk3_1" type="character"><choice><orig>Beneathas</orig><reg>Beneatha's</reg></choice></ref> dream of medical school even seems more realistic because it is also selfish but doesn't require all the money.</s>
+        <s>In this way <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> dream is hard and almost impossible to realize but he holds on to it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

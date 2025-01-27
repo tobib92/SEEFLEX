@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g42_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>Since <name type="person">Reece</name> knows what his grandparents gone through, he's still aware from the people who surround him with pressure.</s>
+        <s>He knows that it's not that hard for him to grow up in <name type="geo">England</name>, since it was way more harder for his grandparents.</s>
+        <s>He feels like he's getting stronger and braver since he knows what young black boys need to go through.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>The most people look to the black community down.</s>
+        <s>They don't see them as hard working humans since they know their history.</s>
+        <s>Black people gone through a really hard time and instead of that they should feel free and don't like they still get educated, people still reflect their history on them.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>Even if they're not slavery anymore since it was abolished, people still attack young black people.</s>
+        <s>They still try to give black people the fault.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>Some young black people <choice><orig>helps</orig><reg>help</reg></choice> when they get support and consolation.</s>
+        <s>They feel like they'll get stronger and braver with this support from also maybe their idols.</s>
+        <s>Young black people can't go through this situation alone again, now they're supporting each other no matter if they're blood related or not.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>Now white kids see how much young black people can be <choice><orig>succesful</orig><reg>successful</reg></choice> without white kids racism.</s>
+        <s>When young black people got bullied nobody wanted to be them but now since they got bullied, everyone wants to get their <choice><orig>succes</orig><reg>success</reg></choice>.</s>
+        <s>Maybe now since the white kids saw the <choice><orig>succes</orig><reg>success</reg></choice> from the black people and want to be them, maybe now they will understand how much they wanted to be white back then because of the daily racism they got.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>They don't want to see the negativity in their history again, they try to look with positivity to make their future the best.</s>
+        <s>They're not afraid anymore, they stand up for their names and history which makes them stronger than they ever were.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

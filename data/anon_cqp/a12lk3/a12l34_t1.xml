@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l34_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt from <ref target="a12lk3_1" type="author">William Shakespeare</ref>'s <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> deals with the <choice><orig>jewish</orig><reg>Jewish</reg></choice> moneylender <name type="person">Shylock</name> and his <choice><orig>jewish</orig><reg>Jewish</reg></choice> friend <name type="person">Tubal</name>.</s>
+        <s><name type="person">Tubal</name> has been trying to find <name type="person">Shylock's</name> daughter <name type="person">Jessica</name> who ran away with a Christian man.</s>
+      </p>
+      <p>
+        <s>After <name type="person">Tubal</name> confesses that he was not able to find <name type="person">Shylock's</name> daughter, <name type="person">Shylock</name> strats grieving for his lost fortunes that <name type="person">Jessica</name> took with her.</s>
+        <s>He is frustrated because he will not get revenge and has to pay lots of money for the search, so he wishes that his daughter was dead.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> is cheered up when <name type="person">Tubal</name> tells him that <name type="person">Antonio</name> will probably be alte to pay.</s>
+        <s><name type="person">Antonio</name> is a Christian man that lend 3000 ducats from <name type="person">Shylock</name>.</s>
+        <s>He did this for his best friend <name type="person">Bossanio</name> so he could meet <name type="person">Portia</name>, who he wishes to marry.</s>
+        <s>In the past <name type="person">Antonio</name> has insulted and spat on <name type="person">Shylock</name>, just because he is <choice><orig>jewish</orig><reg>Jewish</reg></choice>.</s>
+        <s><name type="person">Shylock</name> hates <name type="person">Antonio</name> for his anti-semetic behaviour on one condition and agreed to lend him the ducats interest-free on one condition: <choice><orig>If</orig><reg>if</reg></choice> <name type="person">Antonio</name> is late to pay the money back, he owes <name type="person">Shylock</name> a pound of his own flesh.</s>
+        <s><name type="person">Shylock</name> is excited now because <name type="person">Antonio</name> will have to stay true to his word.</s>
+      </p>
+      <p>
+        <s>When <name type="person">Tubal</name> mentions how much money <name type="person">Jessica</name> has spent, <name type="person">Shylock's</name> mood quickly changes to anger.</s>
+        <s>But when talking about a specific ring that <name type="person">Jessica</name> exchanged for a monkey it becomes clear that this ring was of great importance for <name type="person">Shylock</name> since he had gotten it from his dead wife <name type="person">Leah</name>.</s>
+      </p>
+      <p>
+        <s>But soon he is distracted by <name type="person">Antonio's</name> approaching bankruptcy and <name type="person">Shylock</name> sends <name type="person">Tubal</name> to hire an officer to get <name type="person">Antonio</name> arrested.</s>
+      </p>
+      <p>
+        <s>All in all, <name type="person">Shylock</name> is mourning for his lost fortunes.</s>
+        <s>He is told about <name type="person">Antonio</name> being late, leading to him being excited to get <name type="person">Antonio's</name> flesh.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

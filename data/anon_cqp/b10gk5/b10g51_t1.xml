@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g51_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is an excerpt from the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref>, directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> and <choice><orig>relased</orig><reg>released</reg></choice> in <date>2018</date>.</s>
+        <s>In the scene at hand the <choice><orig>Protagonist</orig><reg>protagonist</reg></choice> <ref target="b10gk5_1" type="character">Starr</ref>, gets into an <choice><orig>argumment</orig><reg>argument</reg></choice> with her boyfriend.</s>
+      </p>
+      <p>
+        <s>The sequence starts with <ref target="b10gk5_1" type="character">Chris</ref>, <ref target="b10gk5_1" type="character">Starr's</ref> <choice><orig>Boyfriend</orig><reg>boyfriend</reg></choice>, walking <choice><orig>throug</orig><reg>through</reg></choice> the school hall, up to <ref target="b10gk5_1" type="character">Starr</ref>, who is standing at her locker.</s>
+        <s>While he is walking <choice><orig>throught</orig><reg>through</reg></choice> the hall, <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>greats</orig><reg>greets</reg></choice> his friends.</s>
+        <s>Meanwhile <ref target="b10gk5_1" type="character">Starr</ref> is thinking about all the things, she likes about him.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk5_1" type="character">Chris</ref> stands behind <ref target="b10gk5_1" type="character">Starr</ref>, she ignores him.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> then puts earpear over <ref target="b10gk5_1" type="character"><choice><orig>Stars</orig><reg>Starr's</reg></choice></ref> ears, so she listens to his music.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> gives his earpear back and tells him she is still mad at him for what he did.</s>
+        <s>After that they get into an <choice><orig>argumment</orig><reg>argument</reg></choice>.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> tells <ref target="b10gk5_1" type="character">Starr</ref> that he misses her and that he didn't want to hurt his feelings.</s>
+        <s>At the end of the <choice><orig>sequnce</orig><reg>sequence</reg></choice> <ref target="b10gk5_1" type="character">Chris</ref> asks <ref target="b10gk5_1" type="character">Starr</ref> if she likes the beats he made for.</s>
+        <s>To which she <choice><orig>response</orig><reg>responses</reg></choice> that it is alright.</s>
+        <s>This leads to <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>turnig</orig><reg>turning</reg></choice> the music up, so that everyone can hear it and dancing to it, in the <choice><orig>middel</orig><reg>middle</reg></choice> of the school hallway.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

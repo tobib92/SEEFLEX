@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g47_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt shows the final decision of <name type="person">Starr</name> to make her voice the biggest weapon.</s>
+        <s>Therefore it is written in <name type="person">Starr's</name> point of view to emphasize the importance of the situation and her decision.</s>
+        <s>The reader only sees limited happenings of the situation but the most important ones for <name type="person">Starr</name>.</s>
+        <s><choice><orig>Throug</orig><reg>Through</reg></choice><name type="person"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></name> eyes and thoughts the reader can relate to her and understand her aims and thoughts.</s>
+        <s><name type="person">Starr's</name> state of mind is at a peek where she can decide what to do with her voice and her consciousness.</s>
+        <s>Her mind is chaotic and needs more space because of the <choice><orig>occurances</orig><reg>occurences</reg></choice> that had happened.</s>
+        <s>She witnesses the death of a close childhood friend named <name type="person">Khalil</name>, she and one of her best friends at <name type="geo">Williamsen Prep</name> have a fight going on and the worst that grand jury returned the verdict not to indict <name type="person">Officer Cruise</name>.</s>
+        <s>That a police officer show a close childhood friend and she herself saw it but everything she tried was not good enough.</s>
+      </p>
+      <p>
+        <s>This <gap reason="illegible" quantity="1" unit="word">choas</gap> in her mind and the fact taht she wants to clear it and use her voice is being shown by narrative techniques and stylistic devices it starts with an allusion.</s>
+        <s><quote>Black hairbrushes</quote><ref target="a11gk4_1" type="line">(ll. 2f)</ref>, which are pointed in the air by the protestors.</s>
+        <s>This helps the reader to know what is going to happen.</s>
+        <s><quote>Where it happened</quote><ref target="a11gk4_1" type="line">(l. 4)</ref>, a scenic mode, to describe where <name type="person">Starr's</name> mind is in combination with an inner monologue which shows a flashback of the night <name type="person">Khalil</name> was killed <ref target="a11gk4_1" type="line">(ll. 5-7)</ref>, makes <name type="person">Starr</name> authentic and closer to the reader it shows the chaos in her head, that she needs to get snapped out of her daze <ref target="a11gk4_1" type="line">(l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>The crowd yells <quote>A hairbrush is not a gun</quote>, a phrase that is described as <quote>contagious</quote> <ref target="a11gk4_1" type="line">(l. 17)</ref>.</s>
+        <s>This phrase is also used like a slogan and seems even more important and strong.</s>
+        <s>The person who yells the loudest and even holds the bullhorn is <name type="person">Starr's</name> attorney, <name type="person">Ms. Ofrah</name>, who leads the chant <ref target="a11gk4_1" type="line">(l. 16)</ref> and helps <name type="person">Starr</name> find her voice.</s>
+      </p>
+      <p>
+        <s>Even <name type="person">Seven</name>, <name type="person">DeVante</name> and <name type="person">Chris</name> have rows started saying the slogan which <choice><orig>support</orig><reg>supports</reg></choice> that it really is contagious and <choice><orig>have</orig><reg>has</reg></choice> an even stronger effect on the reader <ref target="a11gk4_1" type="line">(ll. 16-17)</ref>.</s>
+      </p>
+      <p>
+        <s><name type="person">Starr</name> joins in a stream of consciousness.</s>
+        <s>At first she mutters which shows her indecisiveness.</s>
+        <s>This is supported by stream of consciousnesses to give this an even stronger image to the reader.</s>
+      </p>
+      <p>
+        <s>As soon as <name type="person">Ms. Ofrah</name> sees <name type="person">Starr</name> is making her way over to <name type="person">Starr</name> and states what exactly <name type="person">Starr's</name> most productive weapon is <ref target="a11gk4_1" type="line">(ll. 26-33)</ref>.</s>
+        <s>The fact that <name type="person">Starr's</name> voice is the most effective <choice><orig>an</orig><reg>and</reg></choice> productive weapon shows the protests <choice><orig>peacefullness</orig><reg>peacefulness</reg></choice>.</s>
+        <s><name type="person">Starr</name>, encouraged by <name type="person">Ms. Ofrah</name> and the protestors uses her voice through the bullhorn.</s>
+        <s>With the antithetical simile <quote>The bullhorn is as heavy as a gun</quote> <ref target="a11gk4_1" type="line">(l. 43)</ref> a clear line is made.</s>
+        <s>It shows the contrast between the <choice><orig>peacefullness</orig><reg>peacefulness</reg></choice> of the protestors that is still as heavy and meaningful as the brutality of the police.</s>
+        <s>This wants the reader to get a negative image of the police and the <choice><orig>peacefullness</orig><reg>peacefulness</reg></choice> of the crowd.</s>
+      </p>
+      <p>
+        <s>The final decision is made in line 48, <quote>You know what? Fuck it.</quote>  At this point, with the scenic mode as a narrative technique, <name type="person">Starr</name> sheds all her anxiety and raises her voice.</s>
+        <s>She clears her throat, her heart and her mind and has a breakthrough in her character.</s>
+        <s>The <name type="person">Starr</name> who wanted to be quiet and <gap reason="illegible" quantity="1" unit="word">bluired</gap> out is now gone, now she is <choice><orig>determinded</orig><reg>determined</reg></choice> and brave.</s>
+      </p>
+      <p>
+        <s>This is what the reader is meant to understand in this scene.</s>
+        <s><quote>His live mattered</quote> is the last message she wants to  give <choice><orig>becaus</orig><reg>because</reg></choice> even <choice><orig>thought</orig><reg>though</reg></choice> he is dead he too just like any other teenager lived and could have had a family and career.</s>
+        <s>To give those messages to the reader the excerpt uses many narrative techniques and <name type="person">Starr's</name> point of view.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

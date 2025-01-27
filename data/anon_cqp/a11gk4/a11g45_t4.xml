@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g45_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>I found a <choice><orig>german</orig><reg>German</reg></choice> article about racism and disadvantages of black people in the <name type="geo">US</name>.</s>
+        <s>I have to tell you about some really interesting statistics about the differences of black and white citizens in <name type="geo">America</name>.</s>
+      </p>
+      <p>
+        <s>For example getting arrested or getting in a car control is more likely as a black man.</s>
+      </p>
+      <p>
+        <s>The social and economic position of black people is fifty years after the <name type="misc">Civil Rights Act</name> still worse than white people.</s>
+      </p>
+      <p>
+        <s>More than twenty-five percent of black people in <name type="geo">America</name> live in poverty.</s>
+        <s>The percentage of unemployment of black people is worse too.</s>
+        <s>Even the ending of school and their future is in average worse than white people.</s>
+      </p>
+      <p>
+        <s>More white citizens go to college or end up at a university.</s>
+      </p>
+      <p>
+        <s>That is not fair is it?</s>
+      </p>
+      <p>
+        <s>Why is there so less change in our world?</s>
+      </p>
+      <p>
+        <s>Do you have any idea?</s>
+      </p>
+      <p>
+        <s>I was definitely shocked.</s>
+      </p>
+      <p>
+        <s>I would love to hear your answer.</s>
+      </p>
+      <p>
+        <s>Have a great weekend!</s>
+      </p>
+      <p>
+        <s>Bye Bye!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

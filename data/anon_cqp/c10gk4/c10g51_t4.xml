@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g51_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text written by <name type="person">Bianca L.</name> is about her experience in <name type="geo">Delhi</name>.</s>
+        <s>She worked in an <name type="misc">Education Center</name> for Indian children in the slum of <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s>Every day started lunch at 8:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> and leaving the flat with a <choice><orig>Rikscha</orig><reg>rickshaw</reg></choice>, a few minutes later she arrived at the education center and teaches the boys <choice><orig>english</orig><reg>English</reg></choice> grammar from 10:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> to 11:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> or 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice>.</s>
+        <s>Lunch break has been from 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> till 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>The girls experienced the teaching of <choice><orig>english</orig><reg>English</reg></choice> grammar every day between 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> and 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>The best part of the whole time in <name type="geo">Delhi</name> was the lust to live which she felled in every child.</s>
+        <s>They also were very interested in her background, why she was there and how it is to live in <name type="geo">Germany</name>.</s>
+        <s>For <name type="person">Bianca</name> it is remarkable how much happiness the children have it you know about their fate.</s>
+        <s>Every day has been wonderful and the <surplus>the</surplus> most valuable day of her <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca L.</name><choice><orig>have</orig><reg>has</reg></choice> made <choice><orig>a</orig><reg>an</reg></choice> unbelievable experience in <name type="geo">Delhi</name> and will never forget these days with the happy children there.</s>
+        <s>She won't regret doing this and recommend this to everyone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

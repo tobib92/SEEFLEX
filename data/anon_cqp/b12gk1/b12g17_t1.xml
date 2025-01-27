@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g17_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the text <ref target="b12gk1_1" type="title">British Prime Minister address at COP26 World Leaders' Summit Opening Ceremony</ref> from the <date>November 1st of 2021</date>, <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> talks about our possibility and our duty to take action now in stopping climate change in order to rescue our future and within our future generations.</s>
+        <s>The perception of climate change is still <choice><orig>quiet</orig><reg>quite</reg></choice> unreal.</s>
+        <s>It is hard to invest money and work into a problem that is not a visual threat to someone, but still: talking was yesterday and today the time has come to act.</s>
+        <s>We have to pay climate fonds to countries that need it in order take action theirselfes, but not only money is needed: we need to work joint and offer development assistance.</s>
+        <s>We can use green energy to become a wealthy country.</s>
+        <s>All our actions should intend preserving our future from destruction.</s>
+        <s>Our future generations will depend on dad and will also be <choice><orig>thankfull</orig><reg>thankful</reg></choice>.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris</ref> has already made impressions on how these big events like <name type="geo">Glasgow</name> ended and surely the talking should be converted into action.</s>
+        <s>Since 200 years industrial countries only offered <choice><orig>ignorace</orig><reg>ignorance</reg></choice> of the problem and this is still taking place when we look at the promised fonds from the <name type="geo">Paris</name> agreement.</s>
+        <s>Despite that decarbonization is needed in order to reach the goal of 1.5 degrees per century.</s>
+        <s><name type="misc">COP26</name> is the last <choice><orig>oportunity</orig><reg>opportunity</reg></choice> to shift our mindset into preserving out earth from great danger and working joint as we got the same enemy: climate change.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>My hypothesis is, that <ref target="b11lk2_1" type="character">Gatsby</ref>, who always acts like everything is under control, shows his real nature in this excerpt: A childish, nervous man, who is scared to lose <ref target="b11lk2_1" type="character">Daisy</ref> again.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Jay Gatsby</ref> is, together with <ref target="b11lk2_1" type="character">Nick</ref>, one of the two protagonists of <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, even though he does not narrate the story.</s>
+        <s>He was first mentioned by <ref target="b11lk2_1" type="character">Jordan Baker</ref> <ref target="b11lk2_1" type="line">(p. 16, l. 1)</ref>, and is kind of mysterious.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Jay Gatsby</ref> is a man, who is about 30 years old.</s>
+        <s>He often appears, wearing a suit, talks in an elaborate way and picks his words with care <ref target="b11lk2_1" type="line">(p. 50, ll. 6-10)</ref>.</s>
+        <s>He is the neighbour of <ref target="b11lk2_1" type="character">Nick</ref> and seems to be very rich and wealthy.</s>
+        <s>This you can see because he throws parties 2-3 times a week, has a huge mansion, a beautiful car, a pool and things like that.</s>
+      </p>
+      <p>
+        <s>No one knows, where all his money comes from.</s>
+        <s>He tells others, <ref target="b11lk2_1" type="character">Nick</ref> too, that he is the son of some wealthy people in the <name type="geo"><choice><orig>middle-west</orig><reg>Midwest</reg></choice></name> <ref target="b11lk2_1" type="line">(p. 64, ll. 31-32)</ref>, who all died.</s>
+        <s>He also likes to tells, that he was educated in <name type="geo">Oxford</name>, was a hero in the war and travelled through <name type="geo">Europe</name> <ref target="b11lk2_1" type="line">(p. 65-66)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> finds out that <choice><orig>thats</orig><reg>that's</reg></choice> a lie.</s>
+      </p>
+      <p>
+        <s>There are some rumors about him too: Some say, that he killed a man once, others say, that he is a German spy.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Jay Gatsby</ref> also seems to be materialistic.</s>
+        <s>This you can see because he wants to give <ref target="b11lk2_1" type="character">Nick</ref> some money to thank him, even though <ref target="b11lk2_1" type="character">Nick</ref> wanted it to be a favour <ref target="b11lk2_1" type="line">(p. 81)</ref>.</s>
+      </p>
+      <p>
+        <s>He also seems to have everything planned out: The first meeting with <ref target="b11lk2_1" type="character">Nick</ref>, the first reunion with <ref target="b11lk2_1" type="character">Daisy</ref>, the talk in the car, where he wants to tell <ref target="b11lk2_1" type="character">Nick</ref> about his past.</s>
+        <s>The most important thing about him is, that he is in love with <ref target="b11lk2_1" type="character">Daisy</ref>, even though they have not seen each other in almost 5 years.</s>
+        <s>It is really important to him.</s>
+        <s>He threw all these parties only, so maybe <ref target="b11lk2_1" type="character">Daisy</ref> would visit one of them one day.</s>
+      </p>
+      <p>
+        <s>In this excerpt <choice><orig>tho</orig><reg>though</reg></choice>, he is nervous because, as he said, this is the first time meeting <ref target="b11lk2_1" type="character">Daisy</ref> again, after almost five years <ref target="b11lk2_1" type="line">(p. 85, ll. 15-17)</ref>.</s>
+        <s>He breaks <ref target="b11lk2_1" type="character"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></ref> clock, walks outside in the rain, just to arrive after <ref target="b11lk2_1" type="character">Daisy</ref> and there is always this weird silence.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> kind of acts like a child, which <ref target="b11lk2_1" type="character">Nick</ref> tells him <ref target="b11lk2_1" type="line">(p. 86, l. 8)</ref> because he is afraid, that anything could go wrong, nervous and a little bit unsure, if this was the right decision.</s>
+      </p>
+      <p>
+        <s>In the end of the excerpt he is very happy because everything went so well and he could finally show his house to <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+      </p>
+      <p>
+        <s>The nervousness gets underlined, by that awkward silence, that appeared here and there.</s>
+        <s>Moreover the fact, that <ref target="b11lk2_1" type="character">Nick</ref>, the only one of the three, who is not that nervous, is the narrator, makes it even worse.</s>
+      </p>
+      <p>
+        <s>In addition to that, the childishness of <ref target="b11lk2_1" type="character">Gatsby</ref> is especially shown, when he ran after <ref target="b11lk2_1" type="character">Nick</ref>, just to tell him, how <quote>terrible</quote> this situation was <ref target="b11lk2_1" type="line">(p. 85, l. 26 - p. 86, l. 9)</ref>.</s>
+        <s>His <choice><orig>happyness</orig><reg>happiness</reg></choice> shows, when he begins to smile because the sun was shining <ref target="b11lk2_1" type="line">(p. 87, 20-22)</ref>.</s>
+      </p>
+      <p>
+        <s>So in this excerpt there were bad and good moments.</s>
+        <s>Those were parted by <ref target="b11lk2_1" type="character">Nick Carraway</ref> going outside, which underlines that contrast even more.</s>
+      </p>
+      <p>
+        <s>All in all I think <ref target="b11lk2_1" type="character">Gatsby</ref> let his real emotions out and he was <q>just a human</q> in that moment.</s>
+        <s>Not a rich man, who has everything and everyone under control.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

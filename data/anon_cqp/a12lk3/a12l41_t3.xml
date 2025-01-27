@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12l41_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>My opinion on does <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> <choice><orig>fuels</orig><reg>fuel</reg></choice> or <choice><orig>raises</orig><reg>raise</reg></choice> awareness on <choice><orig>Antisemetic</orig><reg>anti-semetic</reg></choice> behavior is that it can be both ways, from <choice><orig>Person</orig><reg>person</reg></choice> to <choice><orig>Person</orig><reg>person</reg></choice>.</s>
+        <s>Some <choice><orig>People</orig><reg>people</reg></choice> like making fun of people, mocking them, humiliating them, as seen that <name type="person">Shakespeare</name> himself rated it as comedy some people have to ahve that black sheep in society, someone who is getting all the hate for no reason of something went wrong.</s>
+        <s>People who like that maybe now have the <choice><orig>Picture</orig><reg>picture</reg></choice> that Jews are easy to <choice><orig>bullie</orig><reg>bully</reg></choice>.</s>
+        <s>I think the majority who have seen <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> has raised their awareness of <choice><orig>Antisemetic</orig><reg>anti-semetic</reg></choice> because <name type="person">Shylock</name> seems to be more like a victim in the <choice><orig>Modern</orig><reg>modern</reg></choice> times not like the <choice><orig>Villain</orig><reg>villain</reg></choice>.</s>
+        <s>Through the whole court scene <name type="person">Shylock</name> is only seeking his right, his deal and like none other he isn't buyable, he stands his ground, his moral and ethics to get what he's sworn to do.</s>
+        <s>His famous speech where he talks to <name type="person">Solanio</name> and the other guy especially raises awareness.</s>
+        <s><choice><orig>i</orig><reg>I</reg></choice> think he makes clear that Jews are humans just like Christians, have the same desires and passions, feelings.</s>
+        <s><choice><orig>in</orig><reg>In</reg></choice> conclusion <choice><orig>its</orig><reg>it's</reg></choice> more likely to raise awareness because <name type="person">Shylock</name> is such a miserably guy, which hurt someone seeing what he has turned to because of the <choice><orig>Hate</orig><reg>hate</reg></choice>, the mockery, the fun and <choice><orig>Humiliations</orig><reg>humiliations</reg></choice> he hasto live with.</s>
+        <s>I think <name type="person">Shylock</name> could have been a happy <choice><orig>men</orig><reg>man</reg></choice> but he turned into this grumpy guy filled with hatred, always looking angry just because all the bad things he has to endure in this <choice><orig>antisemetic</orig><reg>anti-semetic</reg></choice> society.</s>
+      </p>
+      <p>
+        <s>Also as <choice><orig>i</orig><reg>I</reg></choice> was writing this <choice><orig>i</orig><reg>I</reg></choice> about that this is you look from another point of view could raise <quote>hate</quote> against Christians, you see that this Jewish man who is in the right gets mocked and humiliated by Christians who think that they are way better and smarter which isn't true.</s>
+        <s>The <choice><orig>Picture</orig><reg>picture</reg></choice> that Christians are bad <choice><orig>People</orig><reg>people</reg></choice> humiliating <choice><orig>People</orig><reg>people</reg></choice> because of their ethics which the Jews in the movie / play don't do.</s>
+        <s>They are jus trying to live their life but the <quote>bad</quote> <choice><orig>christian</orig><reg>Christian</reg></choice> men is making their life much harder just because they feel <choice><orig>suporior</orig><reg>superior</reg></choice> of other human beings.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

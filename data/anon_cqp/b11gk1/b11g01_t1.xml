@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g01_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt from the book <ref target="b11gk1_1" type="title">Gun Love</ref>, which was written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and was published in <date>2019</date> and the excerpt with the introduction of a foster child named <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+      </p>
+      <p>
+        <s>In this scene <ref target="b11gk1_1" type="character">Helen</ref> tries to explain her life to <ref target="b11gk1_1" type="character">Pearl</ref>, which is really hard to describe or understand.</s>
+        <s>She tells <ref target="b11gk1_1" type="character">Pearl</ref> about her <q><choice><orig>familys</orig><reg>families</reg></choice></q>, she was living with.</s>
+        <s>Then she tells her about the conditions she had in those houses.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> even had to sleep on the floor in a hallway in one of her <q>homes</q>.</s>
+        <s>The narrator points out that she sometimes only got cereals to eat or that she speaks in the third person to herself and that nobody corrected her.</s>
+        <s>After telling <ref target="b11gk1_1" type="character">Pearl</ref> about her situation, she shows <ref target="b11gk1_1" type="character">Pearls</ref> her collection of telephones and chargers she got from her <choice><orig>familys</orig><reg>families</reg></choice>.</s>
+        <s>She uses those phones to call her family and her friends.</s>
+      </p>
+      <p>
+        <s>In this part of the novel you can see that <ref target="b11gk1_1" type="character">Helen</ref> has a very sad life.</s>
+        <s>She never met her real parents and she got from one foster home to another.</s>
+        <s>She also didn't become enough education by her <choice><orig>familys</orig><reg>families</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g29_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The question about <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> <choice><orig>relevancy</orig><reg>relevance</reg></choice> today and <choice><orig>wether</orig><reg>whether</reg></choice> or not he should be taught in schools is frequently discussed around the world.</s>
+        <s>That is why I will be discussing the statement <quote><qs><name type="person">Shakespeare</name> never grows old.</qs><qs>He continues to inspire each new generation</qs></quote>, by <name type="person">Norman J. Lund</name>.</s>
+      </p>
+      <p>
+        <s>I think this statement holds true for a long time now, but it nevertheless does not mean that <name type="person">Shakespeare</name> should be taught in school.</s>
+      </p>
+      <p>
+        <s>It is certainly true that <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> pieces have time and time inspired people around the world.</s>
+        <s>This can be attributed to the topics <name type="person">Shakespeare</name> writes about, which all are of timeless essence like for example tragic love in <name type="misc">Romeo and Juliet</name> or greed for power in <name type="misc">Macbeth</name>.</s>
+        <s>These topics are part of the human existence which makes them relevant throughout all times, but this also gives <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> works the ability to be adapted to all kinds of settings and not just the original ones.</s>
+        <s>While a lot of the great characteristics of these works can be attributed to <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> skill in writing, this doesn't mean one should only focus on the <choice><orig>languange</orig><reg>language</reg></choice> he uses.</s>
+        <s>This is however what a lot of schools do, they focus on teaching the students how to analyze <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> writings.</s>
+        <s>This however takes away the focus from the stories, which were meant to be watched and not interpreted, leaving behind a lot of cultural value contained in these pieces.</s>
+        <s>Especially for students in non-English speaking countries it is questionable <choice><orig>wether</orig><reg>whether</reg></choice> students benefit from analyzing the oftentimes even for native English speakers hard to understand writings.</s>
+        <s>Rather, such a heavy task would be better fitting in literature or theatre class, which are more specialized on such topics.</s>
+        <s>One cannot however deny neither the proficiency with which <name type="person">Shakespeare</name> writes, nor the cultural and language-historic value his pieces contain.</s>
+      </p>
+      <p>
+        <s>This is why I think that even though <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> works might be a seriously hard topic for most students in school, the value they hold is too large to not teach them, so while not abandoning them, schools should definitely redesign the way <name type="person">Shakespeare</name> gets taught, in order to properly get the important cultural and language-historic content across to students instead of dwelling on topics like scene analysis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

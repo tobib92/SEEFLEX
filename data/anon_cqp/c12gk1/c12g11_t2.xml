@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sonnet is <choice><orig>build</orig><reg>built</reg></choice> in three <choice><orig>quartrains</orig><reg>quatrains</reg></choice> and one couplet.</s>
+        <s>The <foreign xml:lang="de">metrum</foreign> is the iambic pentameter and the rhyme is <name type="misc">ABABCDCDEFEFGG</name>.</s>
+        <s>The first <choice><orig>quartrains</orig><reg>quatrains</reg></choice> deals with the alteration of love.</s>
+      </p>
+      <p>
+        <s>The poet works with similies.</s>
+        <s>He compares the love as <quote>wandering bark</quote> <ref target="c12gk1_1" type="line">(l .7)</ref>, or a never shaken tempest <ref target="c12gk1_1" type="line">(<foreign xml:lang="de">vgl.</foreign> l. 6)</ref>.</s>
+        <s>This shows that the love always <choice><orig>change</orig><reg>changes</reg></choice> and it's never be the same.</s>
+        <s>He also <choice><orig>describe</orig><reg>describes</reg></choice> it as an <quote>ever-fixed mark</quote> <ref target="c12gk1_1" type="line">(<foreign xml:lang="de">vgl.</foreign> l. 5)</ref>.</s>
+        <s>In one sentence the poet says that you can bend the love with the <quote>remover to remove</quote> <ref target="c12gk1_1" type="line">(l. 4)</ref>.</s>
+        <s>I think it should say that you have <choice><orig>a</orig><reg>an</reg></choice> influence on you emotions and feelings.</s>
+        <s>But the next sentence says the opposite.</s>
+        <s>This is a <foreign xml:lang="de">antithese</foreign>.</s>
+        <s>How I metioned earlier in my analyses is the love described as <quote>ever-fixed mark</quote>.</s>
+        <s>This has the effect that if you have to do with love, there is always a hurt, but every time in a different way.</s>
+      </p>
+      <p>
+        <s>To describe the love, the poet personificated objects.</s>
+        <s>Love has not only bad sides.</s>
+        <s>She is not a time fool, so if you love someone you get <quote>rosy lips and cheeks</quote> <ref target="c12gk1_1" type="line">(l. 9)</ref>.</s>
+        <s>There is a personification in line 7.</s>
+        <s>The star to every wandring bark stands for a person, where you in love with, and this person <choice><orig>lead</orig><reg>leads</reg></choice> you in you feelings.</s>
+      </p>
+      <p>
+        <s>In one couplet <ref target="c12gk1_1" type="line">(ll. 13-14)</ref> the poet realises that if it be an error that he never have written and never loved the man.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

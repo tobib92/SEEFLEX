@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l08_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="review">news</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>great news from <name type="geo">Glasgow</name></s>
+        <s>the German perspective on the outcome of <name type="misc">COP26</name> in <name type="geo">Glasgow</name> and what <surplus>and what</surplus> this means for us</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>This weekend we have all been following <name type="misc">COP26</name>, the most important conference concerning one of our biggest global issues: climate change!</s>
+        <s>World leaders have come together in order to find new ways and arrangements to fight climate change.</s>
+        <s>But what have they actually discussed and do different countries still have differing opinions on climate change?</s>
+      </p>
+      <p>
+        <s>From a German perspective, <name type="misc">COP26</name> has been a great success.</s>
+        <s>We were finally able to lay the groundwork of our fight against climate change.</s>
+        <s>Only by working together with other nations, we can make a difference.</s>
+        <s>As I said <name type="misc">COP26</name> has laid the groundwork of climate agreements and it has to be seen that way.</s>
+        <s>Some critical voices like to point out that climate change cannot be solved by holding one conference after another.</s>
+        <s>They said that the outcome of <name type="misc">COP26</name> could have been stronger regulations in order to stop climate change.</s>
+      </p>
+      <p>
+        <s>But only through these conferences we were able to agree on certain aims concerning climate change, for example in <name type="geo">Paris</name>.</s>
+      </p>
+      <p>
+        <s>And now we can see it in <name type="geo">Glasgow</name>.</s>
+        <s>We are moving forward, step-by-step, into a future without coal-fired power stations.</s>
+        <s>Only through <name type="misc">COP26</name> we have been able to increasingly put pressure on states like <name type="geo">China</name> and <name type="geo">India</name> which are responsible for most damage done to our environment by mining and using coal.</s>
+        <s><name type="misc">COP26</name> send a message to the world <quote>The era of coal is over!</quote></s>
+      </p>
+      <p>
+        <s>So now we know why <name type="misc">COP26</name> has been a success by why has it been a success for <name type="geo">Germany</name> in particular?</s>
+        <s>German representatives have attended the conference together with a representative from other <choice><abbr>EU</abbr><expan>European Union</expan></choice> member states to represent <name type="geo">Europe</name> as a unity.</s>
+      </p>
+      <p>
+        <s>And the <choice><abbr>EU</abbr><expan>European Union</expan></choice> has been the reason why the abolishion of coal has been put on the agenda of <name type="misc">COP26</name>.</s>
+        <s>Without the <choice><abbr>EU</abbr><expan>European Union</expan></choice>, the issue of coal would not have been discussed at all.</s>
+        <s>Without our courage and determination for a change of minds, this agreement would not have been made.</s>
+      </p>
+      <p>
+        <s>I am aware of the fact that there is more to be done and that even after this conference we will still not need the 1.5° aim of the <name type="geo">Paris</name> agreement.</s>
+        <s>Currently we are facing about 2.7° of global warming.</s>
+        <s>In comparison to the 1.5° which we hope to reach this still seems like way <choice><orig>to</orig><reg>too</reg></choice> much.</s>
+        <s>But if we compare those to the scientific projections from the time of the <name type="geo">Paris</name> agreement would have been about 5-6°, you can see that we have already taking measures in order to reduce global warming and we have been successful.</s>
+      </p>
+      <p>
+        <s>This shows that we are <gap reason="illegible" quantity="1" unit="word">moking</gap> in the right direction and that we are aiming for progress.</s>
+        <s><name type="misc">COP26</name> has been another step on our path to a greener future and that is why we can see it as a success.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

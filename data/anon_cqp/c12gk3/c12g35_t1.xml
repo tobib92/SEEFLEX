@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g35_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The present excerpt is the seventh scene of the first act from the play <ref target="c12gk3_1" type="title">Macbeth</ref> which was written by the famous dramatist <ref target="c12gk3_1" type="author">William Shakespeare</ref> and was first performed in <date>1611</date>.</s>
+        <s>The scene takes place after the desperate soliloquy of <ref target="c12gk3_1" type="character">Macbeth</ref> and is about an argument between him and his wife in which she tries to talk her husband out of his doubts and to convince him of committing the murder of <ref target="c12gk3_1" type="character">King Duncan</ref> in order to make the witches' prophecy come true.</s>
+      </p>
+      <p>
+        <s>The scene begins with <ref target="c12gk3_1" type="character">Macbeth</ref> who explains to his wife that he does not want to commit the planned murder after all.</s>
+        <s>He is concerned because <ref target="c12gk3_1" type="character">Duncan</ref> thinks good about him and even honors him with a private visit and explains that he does not want to immediately lose the prestige he recently gained.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> then shows no understanding for her husband's <choice><orig>concearns</orig><reg>concerns</reg></choice>.</s>
+        <s>She relates his <q>jumpiness</q> regarding their plan to his love for her and portrays him as cowardly and unable to fight for his goals.</s>
+        <s>After <ref target="c12gk3_1" type="character">Macbeth</ref> tries to calm her down and to defend himself by saying that no real man should do something dishonorable she clarifies that he will not be a real man until he fulfills the plan.</s>
+        <s>She does not understand why he changed his mind so unexpectedly and explains that she would even kill her own child if she promised it before.</s>
+        <s>About <ref target="c12gk3_1" type="character">Macbeth's</ref> doubt that they might not be successful with their plan <ref target="c12gk3_1" type="character">Lady Macbeth</ref> says that everything will work out if he will be brave enough and describes her full plan of getting the king's guards drunk, then killing him in his sleep and blaming the two innocent, <q>drugged</q> men for the crime.</s>
+      </p>
+      <p>
+        <s>Finally, <ref target="c12gk3_1" type="character">Macbeth</ref> is a bit shocked but also convinced and says that she should pass on her ruthless nature to strong, male children who are able to deal with it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

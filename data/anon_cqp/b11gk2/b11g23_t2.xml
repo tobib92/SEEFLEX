@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g23_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the novel <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref> written by <ref target="b11gk2_1" type="author">Ayad Akhtar</ref>, published in <date>2010</date>, is about the question if <choice><orig>u</orig><reg>you</reg></choice> can get rid of <choice><orig>ur</orig><reg>your</reg></choice> religion and about the effect islamophobia and racism can have on persons in general.</s>
+      </p>
+      <p>
+        <s>The excerpt is the final part of scene 3 and it can be seen as the turning point of the play as everything which was built up in this novel concludes in this scene and we end up with a disgraced <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+        <s>There are many events in the book which lead to this scene and not only was islamophobia the reason for it but also <ref target="b11gk2_1" type="character">Amir</ref> himself because he <choice><orig>denys</orig><reg>denies</reg></choice> his heritage and suppresses his feeling.</s>
+        <s>The reason why <ref target="b11gk2_1" type="character">Amir</ref> denies his heritage is his hatred of Islam itself because of the experience he has with it, for an example <ref target="b11gk2_1" type="character">Amir</ref> had a crush on a Jewish girl named <ref target="b11gk2_1" type="character">Rivkah</ref> and after his mom found out of it she not only threatens to break all his bones but also spit in his face.</s>
+        <s>Which deeply traumatized him.</s>
+        <s>Because of that, this antisemitic gesture stuck with as we can see in the end of scene 3 because he also spits <ref target="b11gk2_1" type="character">Isaac</ref> in the face who is Jewish.</s>
+        <s>And because of that and probably more experience which <ref target="b11gk2_1" type="character">Amir</ref> had for the Islam he is ashamed of his religion and maybe the reason why he tries to suppress his feelings which lead to him being emotional unstable as we can see in the book by <ref target="b11gk2_1" type="character">Amir</ref> having outbursts for example smashing of anger a whiskey bottle at the floor or yelling at the phone or beating up his wife.</s>
+        <s>Also he was often unfairly treated and confronted by Islamophobia.</s>
+        <s>As an example he didn't got his job and the reason is that <ref target="b11gk2_1" type="character">Amir</ref> attended a hearing in which <choice><orig>a</orig><reg>an</reg></choice> Imam is <choice><orig>a</orig><reg>an</reg></choice> alleged terrorist and his <choice><orig>jewish</orig><reg>Jewish</reg></choice> boss in the company found out by this and began to make some research about <ref target="b11gk2_1" type="character">Amir</ref> because he looks South Asian and was in that hearing.</s>
+        <s>Afterwards <ref target="b11gk2_1" type="character">Steven</ref> finds out that <ref target="b11gk2_1" type="character">Amir</ref> is in reality a Pakistani and they had an agreement in which <ref target="b11gk2_1" type="character">Amir</ref> made a comment about a Rabbi which <ref target="b11gk2_1" type="character">Steven</ref> thought to be antisemitic meanwhile being Islamophobic all the time.</s>
+        <s><choice><orig>An</orig><reg>And</reg></choice> because of the events moreover his heritage instead of <ref target="b11gk2_1" type="character">Amir</ref> <ref target="b11gk2_1" type="character">Jory</ref> got promoted which shows that the company isn't racist in <choice><orig>generall</orig><reg>general</reg></choice> because they promoted a black <choice><orig>women</orig><reg>woman</reg></choice> but just Islamophobic.</s>
+        <s>Also I think <ref target="b11gk2_1" type="character">Mort</ref> lied that the reason why <ref target="b11gk2_1" type="character">Amir</ref> wasn't promoted wasn't that he is dulicitous but because of his heritage.</s>
+        <s>Furtermore, <ref target="b11gk2_1" type="character">Amir's</ref> hate of the Islam maybe grow stronger because of that and maybe he was also mad with <ref target="b11gk2_1" type="character">Emily</ref> as she pushed him to attend at the hearing but he didn't show his <choice><orig>ange</orig><reg>anger</reg></choice> to <ref target="b11gk2_1" type="character">Emily</ref> and probably suppressed it which maybe made him distance himself away from <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>All of these Islamophobic events which treated him unfairly denying his heritage and suppressing his feeling and also finding out that <ref target="b11gk2_1" type="character">Emily</ref> cheated lead to him to <choice><orig>emitional</orig><reg>emotional</reg></choice> burst out and let out his anger andhatred on 
+<ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>In the end he lost his job, friends and family.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

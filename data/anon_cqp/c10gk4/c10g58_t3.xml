@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g58_t3</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>to: <email>john@gymnasium.herzogenrath.de</email>
+		from: <email>somefriend@Britain.com</email>
+		<s>sub: student exchanges are definitely worth</s>
+		<date>16th of December 2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>I have read your last <choice><orig>E-mail</orig><reg>e-mail</reg></choice> you have sent to me, about student exchanges I personally couldn't withstand so that I write you back and give you some arguments for an exchange.</s>
+      </p>
+      <p>
+        <s>So first of all you don't have to take a gap year so if you have already finished school and applied to a university you can try to get a semester abroad there this way you can study while exploring cultures and meeting new people and you don't have ro revise a whole year.</s>
+        <s>So where is the wasted time.</s>
+      </p>
+      <p>
+        <s>I personally would try to experience as much cultures as possibly so that when you apply for a job or a university you are way ahead of the others when it comes to intercultural understandings which in my opinion is a key ingredient in our connected world.</s>
+        <s>So even when you do an exchange year in High School and have to revise the class I wouldn't say that you have wasted your time you just invested it in something different.</s>
+        <s>By the way I think that such an exchange year is also a fun way to escape your current life and just see it in another perspective.</s>
+      </p>
+      <p>
+        <s>However I hope I've changed your view on exchange years a bit and that you write me back soon.</s>
+      </p>
+      <p>
+        <s>Cheers</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

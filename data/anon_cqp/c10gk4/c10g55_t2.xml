@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g55_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The political speech of <ref target="c10gk4_1" type="speaker">Barack Obama</ref> <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> which was hold in <name type="geo">Istanbul</name> on the <date>7th April 2009</date> is about the importance of student exchanges and the pursuit to prosperity from young people.</s>
+        <s>Also, the text is an <choice><orig>apell</orig><reg>appeal</reg></choice> to young people and is divided into 5 paragraphs.</s>
+      </p>
+      <p>
+        <s>At the beginning <ref target="c10gk4_1" type="speaker">Obama</ref> immediately says that the reason he came to <name type="geo"><choice><orig>turkey</orig><reg>Turkey</reg></choice></name> is because he is interested to rebuild the relationship between the <name type="geo">US</name> and the Muslim world <ref target="c10gk4_1" type="line">(l. 1-2)</ref>.</s>
+        <s>This shows his <choice><orig>opennes</orig><reg>openness</reg></choice> to different countries, but also his <choice><orig>coorperative</orig><reg>cooperative</reg></choice> mindset.</s>
+      </p>
+      <p>
+        <s>After that <ref target="c10gk4_1" type="speaker">Obama</ref> mentions his pride of the young people in <name type="geo">America</name> for example for teaching in their school or volunteering abroad <ref target="c10gk4_1" type="line">(l. 4-5)</ref>.</s>
+      </p>
+      <p>
+        <s>He also says that he sees young, passionate, engaged but also informed people all around the world <ref target="c10gk4_1" type="line">(ll. 7-8)</ref>.</s>
+        <s>For this reason <ref target="c10gk4_1" type="speaker">Obama</ref> wants to connect young Americans to young people all around the world <ref target="c10gk4_1" type="line">(ll. 9-10)</ref>.</s>
+        <s><quote>Simple exchanges can break down walls between us, for when people come together and speak to one another and share a common experience, then their common humanity is revealed</quote><ref target="c10gk4_1" type="line">(l. 13-14)</ref>.</s>
+        <s>This again underlines how important it is for <ref target="c10gk4_1" type="speaker">Obama</ref> to connect people around the world.</s>
+      </p>
+      <p>
+        <s>In the following text he <choice><orig>appells</orig><reg>appeals</reg></choice> again to young people to always work hard <ref target="c10gk4_1" type="line">(l. 18-20)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last sentence <ref target="c10gk4_1" type="speaker">Obama</ref> says if you are in endeavor, you will always find a supporter in the <name type="geo">US</name>.</s>
+        <s>This shows that he describes the <name type="geo">US</name> as a helpful country.</s>
+      </p>
+      <p>
+        <s>All in all is the text well structured and informative.</s>
+        <s>It also can help people who are unsure to do a student exchange in the <name type="geo">US</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

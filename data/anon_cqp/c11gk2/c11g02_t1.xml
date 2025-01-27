@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g02_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech from <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> which has been held up at the <name type="misc">European American Chamber of Commerce</name> in <name type="geo">New York</name> of the <date>10th July 2018</date>, is about the consequences that could happen when the <name type="geo">UK</name> leave the <name type="misc">EU</name> and the problems that can be included to it.</s>
+      </p>
+      <p>
+        <s>At the beginning <ref target="c11gk2_1" type="speaker">Barnier</ref> mentioned that the <name type="misc">Brexit</name>, there will be a conflict between the <name type="misc">EU</name> and <name type="geo">UK</name> about trading etc., <choice><orig>wich</orig><reg>which</reg></choice> will have a huge impact at a lot of sectors, for example the food sector, which also includes to a lose-lose situation for both sides but more for the <name type="geo">UK</name> than the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s><name type="geo">US</name> companies are affected <choice><orig>to</orig><reg>too</reg></choice>, because when both sides are in conflict, the companies <choice><orig>can not</orig><reg>cannot</reg></choice> trade with both sides and in the worst case they will have to make a decision to which part they want to belong to.</s>
+      </p>
+      <p>
+        <s>Later on <ref target="c11gk2_1" type="speaker">Barnier</ref> gives as a suggestion to help against this conflict and help to build a closer relationship with the <name type="geo">UK</name>, is to open the <name type="misc">Single Market</name> to the <name type="geo">UK</name> and to <name type="geo">US</name>.</s>
+        <s>However the <name type="geo">UK</name> <choice><orig>have</orig><reg>has</reg></choice> first to accept the rules of the <name type="misc">EU</name>.</s>
+        <s>But in past the has been relying a lot of regulation of third countries in there market.</s>
+      </p>
+      <p>
+        <s>To come to an <choice><orig>End</orig><reg>end</reg></choice>, <ref target="c11gk2_1" type="speaker">Barnier</ref> shows the consequences and he warns for a conflict and huge problems that can be <gap reason="illegible" quantity="1" unit="word">huppa</gap> after the <name type="geo">UK</name> leaving the <name type="misc">EU</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11g24_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the interview with <name type="misc">Ayad Akhtar</name> which was only recently been <choice><orig>puplished</orig><reg>published</reg></choice> in <name type="misc">Guernica Magazine</name>.</s>
+        <s>I have just read <name type="misc">Disgraced</name> in school and I would agree with <name type="misc">Ayad Akhtar</name> that it is an issue if faith is your main identity marker.</s>
+        <s>You can't <choice><orig>devide</orig><reg>divide</reg></choice> people only in nationalities, religions or ethnicities.</s>
+        <s>It's wrong to say that people's appearance automatically they are from this religion or this nationality.</s>
+        <s>Of course the appearance gives you a first impression about a human.</s>
+        <s>Another point is that people might feel forced to hide her or his religion because they feel uncomfortable in the society.</s>
+      </p>
+      <p>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> why you should always see the human <q>behind the mask</q>.</s>
+      </p>
+      <p>
+        <s>I loved to read your interview with <name type="misc">Ayad Akhtar</name>.</s>
+      </p>
+      <p>
+        <signed><choice><orig>Sincerly</orig><reg>Sincerely</reg></choice> John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

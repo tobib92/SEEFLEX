@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l15_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Throughout the whole sonnet <ref target="c12lk1_1" type="author">Shakespeare</ref> uses many different stylistic devices to create a certain atmosphere which helps to deliver the message of the sonnet better.</s>
+      </p>
+      <p>
+        <s>In the first line, the author uses an <choice><orig>anaphor</orig><reg>anaphora</reg></choice> of the word <quote>nor</quote> to express how neither rocks, earth or the sea or a serious competitors against the time.</s>
+        <s>This delivers the atmosphere of a hopeless situation, because the audience immediately assumes that there is no solution.</s>
+        <s>With the metaphor <quote>sad mortality</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref> the poet wants to underline the weakness against time.</s>
+        <s>The whole sentence, especially the part <quote>o'er-sways their power</quote>, describes how powerful the time is.</s>
+        <s>With that first lines the reader is animated to think about his own mortality.</s>
+        <s>The poet uses the word <quote>rage</quote> <ref target="c12lk1_1" type="line">(l. 3)</ref> to characterize the time.</s>
+        <s>The reader gets asked how <quote>beauty can hold a plea</quote> <ref target="c12lk1_1" type="line">(l. 3)</ref>, which is another metaphor against the power of the time.</s>
+        <s>In the following line the poet uses a personification to describe the strength of the beauty.</s>
+        <s>When the strength is described as weaker than a flower, the importance of the mortality is underlined.</s>
+      </p>
+      <p>
+        <s>The metaphor <quote>summer's honey breath</quote> <ref target="c12lk1_1" type="line">(l. 5)</ref> should show the weakness of everything else than the time once again.</s>
+        <s>Also the metaphor in the following line, <quote>wrackful siege</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref>, is there to make clear that the time is and will always be superior.</s>
+        <s>The poet wants to underline that everything we think is strong, hard or powerful cannot compete to the decay of time.</s>
+        <s>As well as in line four, Shakespeare uses another rhetorical question in the last line of the second quatrain to make the reader think about the meaning of everything on the earth and <choice><orig>it's</orig><reg>its</reg></choice> mortality.</s>
+      </p>
+      <p>
+        <s>In the beginning of the last <choice><orig>quartrain</orig><reg>quatrain</reg></choice>, the poet seems kind of desperate because he says that the meditation is fearful <ref target="c12lk1_1" type="line">(l. 9)</ref>.</s>
+        <s>The combination of the metaphors <quote>time's best jewel</quote> <ref target="c12lk1_1" type="line">(l. 10)</ref> and <quote>time's chest</quote> <ref target="c12lk1_1" type="line">(l. 10)</ref> with a rhetorical question at the end of the sentence, clarifies that the author worries about the future and thinks about how it is to be old.</s>
+        <s>Besides that, the two lines of the third quatrain contain an alliteration of the word <quote>or</quote> <ref target="c12lk1_1" type="line">(l. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>In addition to that both of the lines contain a rhetorical question.</s>
+        <s>Thise questions are if something could stop the time from destroying the <choice><orig>worlds</orig><reg>world's</reg></choice> beauty.</s>
+        <s>Once again, the author seems kind of helpless and <choice><orig>desparate</orig><reg>desperate</reg></choice> to show the reader how powerful time can be and that not a single person can compete with it.</s>
+      </p>
+      <p>
+        <s>The last two lines of the sonnet bring up something like a solution for the devastating situation.</s>
+        <s><ref target="c12lk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> uses another metaphor in the last line.</s>
+        <s>He says that his love will shine bright even after his death through the things he wrote.</s>
+        <s>The poet wants to explain that through his sonnets the love will always be remembered even after his death.</s>
+      </p>
+      <p>
+        <s>The whole sonnet is written in a <choice><orig>dramatical</orig><reg>dramatic</reg></choice> way because the author uses many badly connotated adjectives such as <quote>sad</quote> <ref target="c12lk1_1" type="line">(l. 2)</ref>, <quote>wrackful</quote> <ref target="c12lk1_1" type="line">(l. 6)</ref>, <quote>fearful</quote> <ref target="c12lk1_1" type="line">(l. 9)</ref> or <quote>swift</quote> <ref target="c12lk1_1" type="line">(l. 11)</ref>.</s>
+        <s>Throughout the whole sonnet the poet creates a kind of discouraging atmosphere to make the contrast in the<gap reason="illegible" quantity="1" unit="word">doptain</gap> more important.</s>
+      </p>
+      <p>
+        <s>If you compare <ref target="c12lk1_1" type="title">Sonnet 65</ref> to <ref target="c12lk1_1" type="author">Shakespeare's</ref> other sonnets you don't find huge differences.</s>
+        <s>The majority of <ref target="c12lk1_1" type="author">Shakespeare's</ref> sonnets deal with timeless topics like love, youth and the passage of time.</s>
+        <s>Besides the fact that the formal constitution is exactly the same like in the other sonnets, this sonnet rows in perfectly in the rest of <ref target="c12lk1_1" type="author">Shakespeare's</ref> <choice><orig>catalouge</orig><reg>catalogue</reg></choice>.</s>
+        <s>It's written in a typical way and continues the topics from the first 64 sonnets.</s>
+      </p>
+      <p>
+        <s>All in all you could say that <ref target="c12lk1_1" type="title">Sonnet 65</ref> is a typical <ref target="c12lk1_1" type="author">Shakespeare</ref> sonnet which deals with the timeless question how powerful time can really be and if everything on the earth is mortal.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

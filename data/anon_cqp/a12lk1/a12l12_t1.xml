@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l12_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <ref target="a12lk1_1" type="title">Sonnet 138</ref>, written by <ref target="a12lk1_1" type="author">William Shakespeare</ref>, the speaker introduces the train of thought by describing his relationship to his beloved.</s>
+      </p>
+      <p>
+        <s>In the first quatrain he explains that he is aware of the lies of his beloved person.</s>
+        <s><choice><orig>Eventhough</orig><reg>Even though</reg></choice> the narrator knows about his partner lying, he still <gap reason="illegible" quantity="1" unit="word">burts</gap> and accepts his/her behavior.</s>
+      </p>
+      <p>
+        <s>In the following quatrain, the speaker explains that he is also not <choice><orig>completly</orig><reg>completely</reg></choice> honest.</s>
+        <s>The partner also pretends not to know about the narrator's age, acting like he is young.</s>
+        <s>One can detect, that both are hiding the truth, pretending that they do not know the real age of <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the last quatrain, the act of lying is questioned.</s>
+        <s>However, it does not demonstrate a negative connotation.</s>
+        <s>Quite the reverse, with the turning point, the Volta in line 9, the speaker claims that this false trust is helpful and existential, as love is against age differences.</s>
+        <s>The age difference is problematic for love, which is why it is acceptable to be unhonest.</s>
+      </p>
+      <p>
+        <s>Lastly, in the final couplet, the sonnet is ending with the lovers laying together and sharing the same lie and feeling of unhonesty.</s>
+      </p>
+      <p>
+        <s>It bonds the two and together they express the same feeling, the same problem, but rather than being <choice><orig>completly</orig><reg>completely</reg></choice> honest, they secretly hide true emotions from each other.</s>
+      </p>
+      <p>
+        <s>To sum it up, the persona of the poem talks about his relationship and the lies that are bothering in the situation.</s>
+        <s>However, he is still convinced that this way of living with his love is better for them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

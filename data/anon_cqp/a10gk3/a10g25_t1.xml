@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g25_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk3_1" type="author">Mitra, Ankita</ref> published at <date>February 5, 2014</date>, is about the environmental pollution of the world.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk3_1" type="author">Mitra, Ankita</ref> describes, that the pollution, can have terrible effects on the natural world and on the people.</s>
+        <s>In addition, she says, that without the water and the air, our planet would be like the <choice><orig>others</orig><reg>other</reg></choice> planets.</s>
+        <s>No people, no animals and no plants.</s>
+        <s>She also said, that the technology and the industrialization put the plants and the air in danger.</s>
+      </p>
+      <p>
+        <s>Furthermore, the sea life is also in danger.</s>
+        <s>Also automobiles and other traffic contaminate both air and water.</s>
+        <s><ref target="a10gk3_1" type="author">Mitra <choice><orig>Annika</orig><reg>Ankita</reg></choice></ref> says, that the pollution is getting more bad.</s>
+        <s>She wants to tell us, that we have to do something against the environmental pollution.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g46_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I really liked the film <ref target="b10gk4_1" type="title">The Hate U Give</ref> because it concentrates on many important aspects of teenage life such as love, friendship, family, personality etc.</s>
+        <s>In some situations you can emphasize with the <choice><orig>maincharacter</orig><reg>main character</reg></choice> <ref target="b10gk4_1" type="character">Starr</ref> for example combining family life and friends.</s>
+        <s>It also shows the character development of <ref target="b10gk4_1" type="character">Starr</ref> and you can see her journey from a girl who does not know who she is to a strong and brave <choice><orig>joung</orig><reg>young</reg></choice> woman.</s>
+        <s>This showed me the importance of raising your voice when someone does you wrong.</s>
+        <s>It also highlights the process of finding yourself and what is really important to you, for example that you have to realize if someone is not good for you.</s>
+        <s>In the movie <ref target="b10gk4_1" type="character">Starr</ref> needed to let <ref target="b10gk4_1" type="character">Hailey</ref> go to develop her character.</s>
+        <s>The importance of the family is also foreshadowed which I think is also something that most teenagers often forget.</s>
+        <s>Of course this is the age where you get independent but a healthy and loving family is something that I think everybody still needs.</s>
+      </p>
+      <p>
+        <s>All in all the film puctures the challenges of teenage life really good because of the difficulties that <ref target="b10gk4_1" type="character">Starr</ref> has to overcome.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

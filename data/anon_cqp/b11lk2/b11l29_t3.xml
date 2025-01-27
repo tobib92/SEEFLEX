@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>b11l29_t3</author>
+        <name>interior_monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">interior_monologue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>On my way to <name type="person">Nick</name>, I wondered why he said I should come alone to him.</s>
+        <s>I sometimes saw that he looked at me, but I never intrepreted it this way.</s>
+        <s>I also knew that he likes <name type="person">Jordan</name> and he is kind of a good friend of <name type="person">Tom</name>, but the situation was strange.</s>
+      </p>
+      <p>
+        <s>Anyways, it was a good way to escape from <name type="person">Tom</name> and I like <name type="person">Nick</name>.</s>
+        <s>He is very friendly.</s>
+        <s>When I arrived at his house, I directly noticed the house next to <name type="person">Nick's</name> house.</s>
+        <s>It was enormous and beautiful.</s>
+        <s>I wondered who lived there, but I was late and <name type="person">Nick</name> already came into the yard.</s>
+        <s>After I sent away <name type="person">Ferdie</name>, we went in.</s>
+      </p>
+      <p>
+        <s>I was shocked how tiny the house was.</s>
+        <s>No place I would like to live in.</s>
+        <s><name type="person">Nick</name> acted strange, like something was wrong or missing.</s>
+        <s>I noticed that someone was in front of the door, but <name type="person">Nick</name> already went in the direction to open it, so I just stayed in the living room.</s>
+        <s>After a few minutes a man came into the room, when I saw him, I right away knew, who he was: <name type="person">Jay Gatsby</name>.</s>
+        <s>I was in shock, because I have never thought that I might see him today.</s>
+        <s>I wasn't even sure if I would see him again any time.</s>
+        <s>I mean, I imagined seeing him again a lot, but in my imaginations we were at his place.</s>
+        <s>I imagined it being a big house with a huge garden and many rooms.</s>
+        <s>I wondered if he owns the house next to <name type="person">Nick's</name> house.</s>
+        <s>This would suit him.</s>
+        <s><choice><orig>Eventhough</orig><reg>Even though</reg></choice> this was a shock, I was really glad to see him.</s>
+        <s>I thought a lot about him, lately and got really excited.</s>
+        <s>He seemed kind of self-confident, but I could tell that he was really nervous, too.</s>
+      </p>
+      <p>
+        <s>The situation in general was really <choice><orig>embarassing</orig><reg>embarrassing</reg></choice>.</s>
+        <s>I searched in my head for something to say, but I didn't really know what I had so many questions but they all seemed a bit strange to ask after not seeing <choice><orig>eachother</orig><reg>each other</reg></choice> for many years.</s>
+        <s>After some smalltalk <name type="person">Nick</name> wanted to leave the room and I noticed that <name type="person">Jay</name> got really nervous about the fact that he would be alone with me in a room then.</s>
+        <s>I was also nervous but I liked the idea of being alone with him.</s>
+        <s>But <name type="person">Jay</name> followed <name type="person">Nick</name> out of the room.</s>
+        <s>I heard voices from them and I was feeling <choice><orig>uncomftarbel</orig><reg>uncomfortable</reg></choice> alone in this room.</s>
+        <s>After a few minutes <name type="person">Jay</name> came back, alone.</s>
+        <s>He looked at me with shy eyes and sat next to me.</s>
+        <s>I wanted to know what is going on in his life and he told me a bit about his <choice><orig>buisness</orig><reg>business</reg></choice> and his big parties with all his friends.</s>
+        <s><name type="person">Jordan</name> told me about them, they always seemed fun, but I didn't want to talk about the people he brings to his parties.</s>
+        <s>He didn't ask much about my life, maybe he didn't want me to talk about <name type="person">Tom</name> or the fact that I am married.</s>
+        <s>I didn't know what to say and an <choice><orig>embarassing</orig><reg>embarrassing</reg></choice> silence distributed in the room again.</s>
+        <s>Suddenly, <name type="person">Jay</name> got closer to me and looked my right in the eyes.</s>
+        <s>He told me that he was really happy to see me and that he missed me.</s>
+        <s>I smiled.</s>
+        <s>I was really happy about the fact that he missed me.</s>
+        <s>I missed him, too and I enjoyed spending time with him.</s>
+        <s>He made me feel <choice><orig>comftarble</orig><reg>comfortable</reg></choice> and let me forget <name type="person">Tom</name> and this sad life.</s>
+        <s><name type="person">Jay</name> gave me hope and made me feel happier than most of the time.</s>
+        <s>I got really emotional about the fact that this is not the reality and I had to go back to <name type="person">Tom</name> after this day but I tried to just enjoy the moment of joy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

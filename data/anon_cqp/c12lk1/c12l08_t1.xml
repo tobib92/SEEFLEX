@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l08_t1</author>
+        <name>present</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">present</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12lk1_1" type="author">William Shakespeare's</ref> sonnet <ref target="c12lk1_1" type="title">No. 65</ref> was written about <date>1806</date> and is about transcience of beauty and nature within the time.</s>
+      </p>
+      <p>
+        <s>The sonnet has the typical structure, this consists of three quatrains and a rhyming couplet.</s>
+        <s>Each quatrain has a cross rhyme and the sonnet is written in lines of iambic pentameter.</s>
+      </p>
+      <p>
+        <s><ref target="c12lk1_1" type="title">Sonnet 65</ref> is part of the first segment of <ref target="c12lk1_1" type="author">Shakespeare's</ref> sonnets, which is known as the <quote>Fair Youth</quote> sonnets.</s>
+        <s>The poet <choice><orig>dots</orig><reg>dotes</reg></choice> on an attractive young man and assures that his beauty will everlast through the sonnets words no matter if he ages or eventually dies.</s>
+      </p>
+      <p>
+        <s>The first quatrain is about the question how beauty is able to withstand decay when even nature cannot.</s>
+      </p>
+      <p>
+        <s>The second quatrain deals with the <choice><orig>paradoxy</orig><reg>paradox</reg></choice> of the <choice><orig>strengh</orig><reg>strength</reg></choice> of rocks and steel which decays within the time.</s>
+      </p>
+      <p>
+        <s>The third quatrain is questionaing if hiding beauty is a solution to protect it from <choice><orig>transcience</orig><reg>transience</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the final couplet there is a turning point, this the solution of preserving the Fair Youth's beauty throughout the words of the sonnet seems effective.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

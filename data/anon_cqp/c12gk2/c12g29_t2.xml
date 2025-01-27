@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g29_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is a manipulative one, stemming from <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, wherein she uses <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices and chooses her words, such that she is able to manipulate <ref target="c12gk2_1" type="character">Macbeth</ref> into doing her bidding while disguising it under his own desires.</s>
+      </p>
+      <p>
+        <s>That the relationship is manipulative can be seen in the way <ref target="c12gk2_1" type="character">Lady Macbeth</ref> convinces <ref target="c12gk2_1" type="character">Macbeth</ref> to kill <ref target="c12gk2_1" type="character">King Duncan</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> seems to be sure he should not attempt to kill the King supported by the imagery <quote>I have bought Golden opinions from all sorts of people, which would be worn now in their newest gloss, not cast aside so soon</quote> <ref target="c12gk2_1" type="line">(ll. 5-8)</ref>, meaning the public opinion about him is currently good and that he does not want it to become worse yet.</s>
+        <s>Later on <ref target="c12gk2_1" type="character">Macbeth</ref> clarifies his opinion by using the contrast <quote>I dare do all that may become a man, who dares do more is none</quote> <ref target="c12gk2_1" type="line">(ll. 21-22)</ref>, which means he should not take more than he is able to and calls upon his honour as a man.</s>
+        <s>In order to convince <ref target="c12gk2_1" type="character">Macbeth</ref> <ref target="c12gk2_1" type="character">Lady Macbeth</ref> uses several <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> and language devices.</s>
+      </p>
+      <p>
+        <s>Firstly she directly <choice><orig>adresses</orig><reg>addresses</reg></choice> him by using the word <quote>you</quote> a lot <ref target="c12gk2_1" type="line">(cf. ll. 10, 13, 15, 24, 25)</ref> making the conversation about him and more personal.</s>
+        <s>Secondly she uses <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions and imagery to convince him.</s>
+        <s>The personification and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions <quote><qs>Was the hope drunk wherein you dressed yourself?</qs><qs>Hath it slept since?</qs><qs>And wakes it now, to look so green and pale at what it did so freely?</qs></quote> <ref target="c12gk2_1" type="line">(ll. 9-12)</ref>, implies that <ref target="c12gk2_1" type="character">Macbeth</ref> is ashamed and afraid of his own desires and mocks him for this.</s>
+        <s>The <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>Art thou afeared to be the same in thine own act and valour as thou art in desire?</quote> <ref target="c12gk2_1" type="line">(ll. 13-15)</ref> as well as the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>Wouldst thou have that which thou esteem'st the ornament of life, and live a coward in thine own esteem, letting 'I dare not' wait upon 'I would', like the poor cat i'the adage?</quote> <ref target="c12gk2_1" type="line">(ll. 15-19)</ref>, which also contains a comparison with a proverb, both elaborate on this view of <ref target="c12gk2_1" type="character">Macbeth</ref> and are amplified in their way of mocking him, by <ref target="c12gk2_1" type="character">Lady Macbeth</ref> changing her choice of words from <quote>you</quote> to <quote>thou</quote> <ref target="c12gk2_1" type="line">(ll. 13-17)</ref>.</s>
+      </p>
+      <p>
+        <s>The imagery and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>What beast was't then, that made you break this enterprise to me?</quote> <ref target="c12gk2_1" type="line">(ll. 23 f.)</ref>, support this view of becoming King being <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> true desire.</s>
+        <s>Furthermore the imagery <quote>Nor time nor place did then adhere, and yet you would make both: They have made themselves, and that their fitness now does unmake you</quote> <ref target="c12gk2_1" type="line">(ll. 27-30)</ref>, amplifies the argument of <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, that the right time has come.</s>
+        <s>To further reinforce her argument, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> draws a comparison between herself and <ref target="c12gk2_1" type="character">Macbeth</ref> using imagery: <quote>I have given suck, and know how tender 'tis to love the babe that milks me: I would, while it was smiling in my face, have plucked my nipple from his boneless gums, and dashed the brains out, had I so sworn as you have done to this</quote> <ref target="c12gk2_1" type="line">(ll. 30-35)</ref>, as well as examplifying her sheer conviction with the power of the chosen image.</s>
+      </p>
+      <p>
+        <s>To reinforce the perceived safety of her plan, <ref target="c12gk2_1" type="character">Lady Macbeth</ref> further uses stylistic devices.</s>
+        <s>The personification <quote>Whereto the rather shall his day's hard journey soundly invite him</quote> <ref target="c12gk2_1" type="line">(ll. 40 f.)</ref> as well as the imagery <quote>Will I with wine and wassail so convince that memory, the warder of the brain, shall be a fume, and the receipt of reason a limbeck only</quote> <ref target="c12gk2_1" type="line">(ll. 42-45)</ref> and the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions <quote><qs>when in swinish sleep their drenched nature lie as in death, what cannot you and I perform upon the unguarded <ref target="c12gk2_1" type="character">Duncan</ref>?</qs><qs>What not put upon his spongy officers, who shall bear the guilt of our great quell?</qs></quote>, she uses greatly amplify the effect of the arguments speaking for the execution of her plan.</s>
+      </p>
+      <p>
+        <s>There however seems to still be respect from <ref target="c12gk2_1" type="character">Lady Macbeth's</ref> side toward <ref target="c12gk2_1" type="character">Macbeth</ref>, seen as she stops mocking him with <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions and <choice><orig>adressees</orig><reg>addresses</reg></choice> him with <quote>you</quote> instead of <quote>thou</quote> again <ref target="c12gk2_1" type="line">(e.g. cf. ll. 24, 25, 26, etc.)</ref>, after he asks her to be quiet: <quote>Prithee, peace</quote> <ref target="c12gk2_1" type="line">(l. 20)</ref>.</s>
+      </p>
+      <p>
+        <s>The imagery <quote>I am settled and bend up each corporal agent to this terrible feat</quote> <ref target="c12gk2_1" type="line">(ll. 53 f.)</ref> and the metaphor <quote>false face must hide what the false heart doth know</quote> <ref target="c12gk2_1" type="line">(l. 55)</ref>, which means that a <choice><orig>liars</orig><reg>liar's</reg></choice> face must not show his feelings, both show that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> managed to convince <ref target="c12gk2_1" type="character">Macbeth</ref> and reinforce the effect that she has on him.</s>
+      </p>
+      <p>
+        <s>So in the end, the relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife seems somewhat manipulative, since she uses lots of stylistic and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices in order to get him to do her bidding, but even so she seems to still have respect for him, since she lets him speak without interrupting and stops mocking him after he tells her to be quiet.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

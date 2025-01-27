@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12l28_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion <name type="person">Shakespeare</name> should still be taught in German English class because he is still relevant in our time.</s>
+        <s>He was ahead of its time when it comes to his literature because he discussed topics which everyone could relate to, and the way people 400 years later can still understand.</s>
+        <s>He brings to the point what it is to be human.</s>
+        <s>Added to that <name type="person">Shakespeare</name> created 1700 words, which are partly still used till this day.</s>
+      </p>
+      <p>
+        <s>In his plays, poems and sonnets he talks or displays themes that will always be talked about no matter how old society gets.</s>
+      </p>
+      <p>
+        <s>Whoever published <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> sonnets without his consent did a great job because it had a great impact in <choice><orig>english</orig><reg>English</reg></choice> literature.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

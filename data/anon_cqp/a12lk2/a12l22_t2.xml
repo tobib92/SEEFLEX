@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Romeo's</name> and <name type="person">Juliet's</name> love for eachother is not any ordinary love.</s>
+        <s>Their first interaction lead to a kiss, although <name type="person">Juliet</name> has <name type="person">Paris</name> as a <quote>date</quote> and leda to both of them comitting the love for eachother.</s>
+      </p>
+      <p>
+        <s>While <name type="person">Juliet</name> experiences her first love as a very intense one, without as she says <quote>not yet drunk a hundred words <choice><orig>of</orig><reg>Of</reg></choice> that tongue's utterance</quote> meaning <ref target="a12lk2_1" type="line">(l. 58)</ref> that she fell in love with <name type="person">Romeo</name> without having spoken much with him.</s>
+      </p>
+      <p>
+        <s>This is not only very special, as a phenomenon itself, but also because it contradicts two key aspects.</s>
+        <s><name type="person">Juliet</name> is not only part of the <name type="person">Capulets</name>, the rivaling family of the <name type="person">Montagues</name> and <name type="person">Romeo</name> as their son, but she also is supposed to marry <name type="person">Paris</name>, the rich governor's son.</s>
+      </p>
+      <p>
+        <s>Her love towards <name type="person">Romeo</name>, which contradicts both original interests, <name type="person">Paris</name> and <name type="person">Rosaline</name>, is shared by her love.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> is ready to ignore the family feud for their love's sake <quote>Art thou not Romeo and a Montague?</quote><ref target="a12lk2_1" type="line">(l. 60)</ref> <quote>Neither, fair saint, if either thee dislike</quote><ref target="a12lk2_1" type="line">(l. 61)</ref>, as is <name type="person">Juliet</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> then says that love leads to attempts, which are dangerous and boundaries cannot stop true love: <quote>For stony limits cannot hold love out, <choice><orig>And</orig><reg>and</reg></choice> what love can do that dares love attempt</quote><ref target="a12lk2_1" type="line">(l. 67)</ref>.</s>
+        <s><name type="person">Romeo</name> talks about two things representative for boundaries, firstly he talks about the wall as a boundary, that he has had to climb, and metaphorically he speaks about the family feud against their families as a confining boundary.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> is also raving to <name type="person"><choice><orig>Juliets</orig><reg>Juliet's</reg></choice></name> and using very Christian language, such as <quote>fair saint</quote><ref target="a12lk2_1" type="line">(l. 61)</ref>, which shows that he sees her and his love as something godly and very special, which, in his eyes, is a reason to rebel against their families and their feud <quote>And I am proof against their enmity</quote><ref target="a12lk2_1" type="line">(l. 73)</ref>.</s>
+      </p>
+      <p>
+        <s>He even goes further and accepts the risk of death for her love <ref target="a12lk2_1" type="line">(ll. 78 + 83)</ref>.</s>
+      </p>
+      <p>
+        <s>Then in line 98 <name type="person">Juliet</name> accepts to rebel against all conventions if <name type="person">Romeo</name> swears that his love is real.</s>
+        <s>Even <name type="person">Juliet</name> recognises her irrationality <ref target="a12lk2_1" type="line">(l. 98)</ref> <quote>I am too fond</quote> even though she is, compared to <name type="person">Romeo</name>; not as emotional but rather precautious.</s>
+      </p>
+      <p>
+        <s>Although <name type="person">Romeo</name> swears his real love, <ref target="a12lk2_1" type="author">Shakespeare</ref> intentionally put the act about <name type="person">Romeo</name> being sad about <name type="person">Rosaline</name> before this act.</s>
+        <s>It is questionable if <name type="person">Romeo</name> <choice><orig>is really loving</orig><reg>really loves</reg></choice> <name type="person">Juliet</name>, as he claims, or if he experiences only lust as in the prior indicdent regarding <name type="person">Rosaline</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

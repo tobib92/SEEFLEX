@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g30_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the seventh scene of the first act of <ref target="c12gk2_1" type="title">Macbeth</ref> from <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>, called <quote><ref target="c12gk2_1" type="character">Lady Macbeth</ref> persuades her husband</quote>, <ref target="c12gk2_1" type="character"><choice><orig>MacBeth</orig><reg>Macbeth</reg></choice></ref> came home and <choice><orig>discuss</orig><reg>discusses</reg></choice> with his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref> about a <choice><orig>prophesy</orig><reg>prophecy</reg></choice> were <ref target="c12gk2_1" type="character">Macbeth</ref> be the King of <name type="geo">Scotland</name> and what they should do.</s>
+      </p>
+      <p>
+        <s>The first thing <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>say</orig><reg>says</reg></choice> is that someone finished the supper and the <choice><orig>askes</orig><reg>asks</reg></choice> why <ref target="c12gk2_1" type="character">Macbeth</ref> left the chamber.</s>
+        <s>He <choice><orig>awnsered</orig><reg>answered</reg></choice> with <choice><orig>an</orig><reg>a</reg></choice> question where he wants to know if he asked for him.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> also <choice><orig>awnsered</orig><reg>answered</reg></choice> with <choice><orig>an</orig><reg>a</reg></choice> question if he not know that he asked.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> tells her that he honored him, but late, and he bought Golden opinions which are not thrown away yet.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref><choice><orig>ask</orig><reg>asks</reg></choice> then if <ref target="c12gk2_1" type="character">Macbeth</ref> is drunk or sick, because he pale.</s>
+        <s>Since that she also <choice><orig>consider</orig><reg>considers</reg></choice> about her love.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> wants that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> should be quiet and says that he would become a man and more isn't possible to do.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> remembered him what a beast he was then and why he decides to reveal the plan and the <choice><orig>prophesy</orig><reg>prophecy</reg></choice>.</s>
+        <s>Then she tells him that he would be a man if he does it and now he is no like the other.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> tells that he's scared to fail, but <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>mean</orig><reg>means</reg></choice> that they already fail but they do not fail anymore if <choice><orig>the</orig><reg>they</reg></choice> kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>Then she <choice><orig>admit</orig><reg>admits</reg></choice> him to the plan.</s>
+        <s>They want to invite <ref target="c12gk2_1" type="character">Duncan</ref> and his chamberlain and fill them up with wine and beer so they're drunk.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> should kill <ref target="c12gk2_1" type="character">Duncan</ref> and the rest can't remember because of being drunk.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> says that for her fearless character she should only get males as children because they fit to her.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

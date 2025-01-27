@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12l10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion, the speech by <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> is wisely chosen to be held at the <name type="misc">COP26</name> opening.</s>
+      </p>
+      <p>
+        <s>He directly mentions the urgency and importance of climate change and highlights the responsibility each government has.</s>
+      </p>
+      <p>
+        <s>Because the problem is, that the United Nations cannot set up laws which help to prevent any further rise in global warming.</s>
+        <s>The only thing they can do is to agree on a decision and to take it into practice in their homeland.</s>
+        <s>This is the reason why there is a yearly conference to discuss on how much process has been done.</s>
+      </p>
+      <p>
+        <s>However, I think that I would be good to state the drastic consequences of climate change in an opening speech, to highlight the importance even more.</s>
+        <s>The pictures shown at his speech, which I probably pictures of natural <choice><orig>diseasters</orig><reg>disasters</reg></choice> caused by climate change, are a great way to demonstrate and visualize the effect.</s>
+        <s>In my opinion, it would be better if <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> would describe the pictures in detail or at least draw a parallel to them.</s>
+        <s>Therefore the consequences especially in developing countries would play an important role too in the opening speech.</s>
+        <s>Especially the consequences for developing countries have not been mention enough in the speech, in my opinion.</s>
+      </p>
+      <p>
+        <s>Personally, I think that this is one of the biggest problems caused by climate change.</s>
+        <s>Developing countries are mostly affected by it, but at the same time produced the lowest emission.</s>
+        <s>I do not think this is fair.</s>
+        <s>I know that there has been an agreement about developed nations paying developing countries a yearly amount to adapt to climate change and reduce their emission, but the amount of money is not enough.</s>
+      </p>
+      <p>
+        <s>In the speech by <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref> he does not mention developing nations as much as needed and does not mention what <quote>normal people</quote> could do.</s>
+      </p>
+      <p>
+        <s>I mean, yes it is a climate conference for the governments of each country but if he only <choice><orig>adresses</orig><reg>addresses</reg></choice> the government who have the responsibility and opportunity to propose laws and change some thing, <quote>normal</quote> people do not feel <choice><orig>adressed</orig><reg>addressed</reg></choice>.</s>
+        <s>This will lead to them not caring about the urgency because they might think <quote>my government will know what to do</quote>.</s>
+      </p>
+      <p>
+        <s>But it does depend on what everyone does.</s>
+        <s>Even small things, like stop using plastic bags or taking the bike will have a huge impact in the future.</s>
+      </p>
+      <p>
+        <s>Overall, I think that the speech has an impact on the audience attending it at <name type="misc">COP26</name>, because they are directly <choice><orig>adresses</orig><reg>addressed</reg></choice> and the speech underlines the responsibility the importance to implement the decisions in their homeland and to start acting.</s>
+        <s>However, I do not think that a broader public will feel <choice><orig>adressed</orig><reg>addressed</reg></choice> by it.</s>
+        <s>Firstly, because they are not directly <choice><orig>adressed</orig><reg>addressed</reg></choice> in the speech.</s>
+        <s>Secondly, because the consequences for developing nations and for everyone or not mentioned enough.</s>
+        <s>And thirdly, because he mentions that action has to be taken but he is not concrete about what to do.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

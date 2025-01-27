@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l18_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given excerpts <ref target="b11lk2_1" type="character">Gatsby</ref> wants to revive his past relationship with <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+        <s>As we can see, the <choice><orig>embarassment</orig><reg>embarrassment</reg></choice> changes to joy, which is a good first sign, especially of <ref target="b11lk2_1" type="character">Daisy</ref>, as she is the pursued person.</s>
+        <s>Even <choice><orig>thought</orig><reg>though</reg></choice> they haven't met each other for five years, it seems like they still get along well and are building up the good chemistry that they probably had.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> mentions that he has the impression that <ref target="b11lk2_1" type="character">Daisy</ref> doesn't <choice><orig>fullfill</orig><reg>fulfill</reg></choice> <ref target="b11lk2_1" type="character">Gatsby's</ref> <choice><orig>expetations</orig><reg>expectations</reg></choice> regarding her, but this aspect doesn't seem to dull his joy, since he's still in love with her.</s>
+        <s>From <ref target="b11lk2_1" type="character">Daisy's</ref> past we get the information that she probably still has feelings for him, because she has serious doubts before marrying <ref target="b11lk2_1" type="character">Tom</ref>, crying over a letter of <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+        <s>This leads to the assumptions that both figures have feelings for each other.</s>
+        <s>The main aspects that interrupting the simple revival of their relationship are <ref target="b11lk2_1" type="character">Tom Buchanan</ref> and her daughter.</s>
+        <s>Because of them, she can't just live a life with <ref target="b11lk2_1" type="character">Gatsby</ref>, especially because a divorce wasn't well looked at in society.</s>
+        <s>Additionally, <ref target="b11lk2_1" type="character">Tom Buchanan</ref>, that we got to know as unfriendly and brutal probably wouldn't let his wife go, even if he himself has an affair, which would also be an option for <ref target="b11lk2_1" type="character">Daisy</ref> <add>(with <ref target="b11lk2_1" type="character">Gatsby</ref>)</add>.</s>
+      </p>
+      <p>
+        <s>In general many people have similar circumstances.</s>
+        <s>They already are in a relationship, have children or have other things that they can't leave easily behind.</s>
+        <s>Furthermore the majority of people change in a long or short amount of time which could mean that getting along or revive old feelings, if they are still there, is difficult.</s>
+        <s>Another option is, that while one person still has feelings, the other person doesn't.</s>
+        <s>Because of that one could say that a revival in general isn't very likely, while the relationship in the novel might has a good chance despite <ref target="b11lk2_1" type="character">Daisy's</ref> marriage.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

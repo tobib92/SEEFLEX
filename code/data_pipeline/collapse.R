@@ -12,12 +12,14 @@ source("xml_utils.R")
 #'
 #' For CQP, nested <s> tags need to be renamed because nesting is not supported.
 #' The following lines create a new directory "anon_cqp" in the "data" folder
-#' and renames all nested <s> tags to <qs> (quoted sentence) as nesting only
+#' and rename all nested <s> tags to <qs> (quoted sentence) as nesting only
 #' occurs inside <quote> tags.
+#' 
+#' The function rename_xml_files_in_directory() in xml_manipulation.R needs to be 
+#' adjusted before running the lines below.
 
-# rename_nodes(input_directory = "../../data/anon/",
-#              output_directory = "../../data/anon_cqp/", node_old = "s//d1:s",
-#              node_new = "qs", type = "node")
+rename_xml_files_in_directory(input_directory = "../../data/anon/",
+                              output_directory = "../../data/anon_cqp/")
 
 
 #' Clean the strings from unnecessary spaces, tabs and linebreaks.
@@ -105,4 +107,4 @@ concatenate_all_files <- function(directory, pattern = "*.xml", output_file = NU
 
 concatenate_all_files(
   directory = "../../data/anon_cqp/",
-  output_file = "../../output/collapse/20240831_SEEFLEX.txt")
+  output_file = "../../output/collapse/20250117_SEEFLEX.txt")

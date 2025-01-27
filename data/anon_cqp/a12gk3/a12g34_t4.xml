@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g34_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Daniel,</salute>
+      </p>
+      <p>
+        <s>I've heard you think about a year in <name type="geo">Germany</name> after school?</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> great, and I heard also do you think about living in <name type="geo">Berlin</name>.</s>
+        <s><name type="geo">Berlin</name> is a nice place, especially for <choice><orig>English speaking</orig><reg>Englishspeaking</reg></choice> people, because <name type="geo">Berlin</name> is very <choice><orig>multi-cultural</orig><reg>multicultural</reg></choice>.</s>
+        <s>The city has changed to a great metropol in the last years.</s>
+        <s>Very much people from other countries are living in <name type="geo">Berlin</name> and they speak also English.</s>
+      </p>
+      <p>
+        <s>many cultures are present in Berlin, but <choice><orig>its</orig><reg>it's</reg></choice> more affordable than <name type="geo">Brooklyn</name> or <name type="geo">London</name>.</s>
+        <s>Especially for students is <name type="geo">Berlin</name> financial attractive.</s>
+      </p>
+      <p>
+        <s>I hope I helped you and your decisions will be nice for me!</s>
+      </p>
+      <p>
+        <signed>Your Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

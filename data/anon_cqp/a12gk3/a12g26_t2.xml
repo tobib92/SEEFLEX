@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author <ref target="a12gk3_1" type="author">John Worne</ref> tries to convince the reader by using several stylistic devices.</s>
+        <s>The headline <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't</ref> is memorable because of the alliteration <quote>language learning</quote> and the parallelism <quote>can't, won't, don't</quote>, which words all end the same way.</s>
+        <s>The introduction a part of the headline is used to explain its meaning and to make it more interesting and eye-catching for the reader.</s>
+        <s>In this part <ref target="a12gk3_1" type="author">Worne</ref> uses inclusive language and writes about <quote>our national view</quote> to include the reader and appeal to them directly.</s>
+      </p>
+      <p>
+        <s>Through the whole article <ref target="a12gk3_1" type="author">Worne</ref> a lot of studies and presents evidence to his theses, for example the exam results <ref target="a12gk3_1" type="line">(l. 7)</ref> or the most <choice><orig>recen</orig><reg>recent</reg></choice> <name type="misc">CBI/Pearson Education and Skills Survey</name> <ref target="a12gk3_1" type="line">(l. 19)</ref>.</s>
+        <s>This persuades the reader into thinking the article is more valid, because of the presented evidence and the opinion of the author is justified by something logical.</s>
+        <s>Therefore the reader might believe <ref target="a12gk3_1" type="author">Worne</ref> more easily.</s>
+      </p>
+      <p>
+        <s>To make the editorial more interesting the author uses an <choice><orig>Alliteration</orig><reg>alliteration</reg></choice> <quote>menu in more</quote> <ref target="a12gk3_1" type="line">(l. 6)</ref>.</s>
+      </p>
+      <p>
+        <s>The arguments of his possible opponents are weakened by using irony and a hyperbole in line 15 <quote>wearable tech will enable intercultural telepathy anyway</quote>.</s>
+        <s>This witty tone is strengthened by short comments of the author, which builds and antithesis to the thesis mentioned before, for example <quote>everyone speaks English in the world of business <add>(they don't)</add></quote> <ref target="a12gk3_1" type="line">(l. 13)</ref>.</s>
+      </p>
+      <p>
+        <s>To emphasise the importance of learning foreign languages, <ref target="a12gk3_1" type="author">John Worne</ref> uses an <choice><orig>Anaphora</orig><reg>anaphora</reg></choice> and <choice><orig>Alliteration</orig><reg>alliteration</reg></choice> <quote>language learning...language</quote> <ref target="a12gk3_1" type="line">(l. 16-17)</ref>.</s>
+        <s>Furthermore he strengthens his point by using <choice><orig>repititions</orig><reg>repetitions</reg></choice>, for example <quote> the tough reality in a tough job</quote> <ref target="a12gk3_1" type="line">(l. 27)</ref> or <quote>a pure lawyer or a pure linguist</quote> <ref target="a12gk3_1" type="line">(l. 28-29)</ref>.</s>
+      </p>
+      <p>
+        <s>the next part the antithesis is used to emphasize <ref target="a12gk3_1" type="line">John Worne's</ref> view.</s>
+        <s>He states <quote>the UK needs more of our young people, not fewer</quote> <ref target="a12gk3_1" type="line">(l. 30)</ref>.</s>
+        <s>In the ending the author appeals to the reader or to be more specific the parents directly.</s>
+        <s>He claims that the parents are responsible for shifting the culture at home.</s>
+        <s>This can lead to an emotional reaction like guilt and by appealing the reader directly they get included and might believe <ref target="a12gk3_1" type="author">John Worne</ref> more easily.</s>
+        <s>Through the whole text the author uses formal language to show the reader he is valid.</s>
+        <s>In a few parts he switches to colloquial language to address more people and to simplify his arguments, for example <quote>Cobblers</quote> <ref target="a12gk3_1" type="line">(l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all the author uses many stylistic devices and persuasive techniques to make his article more interesting and believable.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g40_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the scene <choice><orig>discribed</orig><reg>described</reg></choice> in the text <name type="person">Starr</name> is <choice><orig>comming</orig><reg>coming</reg></choice> back to the place <choice><orig>were</orig><reg>where</reg></choice> <name type="person">Khalil</name> was shot when <name type="person">Officer Cruise</name> was discharged.</s>
+      </p>
+      <p>
+        <s>At this place she finds a crowd of protesters who raise black hairbrushes and shout <quote>A hairbrush is not a gun</quote>.</s>
+        <s>But she is <choice><orig>overwhelmt</orig><reg>overwhelmed</reg></choice> by her feelings and remembers the day when <name type="person">Khalil</name> was <choice><orig>shoot</orig><reg>shot</reg></choice>.</s>
+      </p>
+      <p>
+        <s>She snaps out of her <choice><orig>memorie</orig><reg>memory</reg></choice> and sees her attorney in front of the crowd standing on a police car with a bullhorn.</s>
+      </p>
+      <p>
+        <s>A police officer tries to get the protesters away but <name type="person">Starr</name> starts shouting along with them.</s>
+      </p>
+      <p>
+        <s>Then <name type="person">Ms. Ofrah</name> <name type="person"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></name> attorney is there and <name type="person">Starr</name> explains to her that she wants to do something.</s>
+        <s><name type="person">Ms. Ofrah</name> explains to her that she <choice><orig>shoult</orig><reg>should</reg></choice> use it.</s>
+        <s>Then she gives <name type="person">Starr</name> the bullhorn and <name type="person">Starr</name> is lifted up to the police car.</s>
+        <s><name type="person">Starr</name> starts talking aobut <name type="person">Khalil</name> and the crowd encourages her to go on.</s>
+        <s><name type="person">Starr</name> realizes that she is happy while talking to the crowd and that it gives her power to better the world for black people even if <name type="person">Khalil</name> is already dead.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

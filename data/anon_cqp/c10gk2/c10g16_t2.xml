@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>How I wrote in the summary, President <ref target="c10gk2_1" type="speaker">Obama</ref> gave a speech at a student roundtable in <name type="geo">Istanbul</name> in <date>2009</date>.</s>
+      </p>
+      <p>
+        <s>In the entire speech <choice><orig>excert</orig><reg>excerpt</reg></choice> <ref target="c10gk2_1" type="speaker">Obama</ref> tries to build bridges between the young people in the world and their relationships.</s>
+      </p>
+      <p>
+        <s>At the beginning of the <choice><orig>excert</orig><reg>excerpt</reg></choice> <ref target="c10gk2_1" type="speaker">Obama</ref> <choice><orig>sais</orig><reg>says</reg></choice> that he is <quote>deeply committed to rebuilding a relationship between the United States and the people of the Muslim world</quote>.</s>
+        <s>That means that <ref target="c10gk2_1" type="speaker">Obama</ref> wants to open the door to more respect and multiculturalism and close the door for racism.</s>
+        <s>To make this better understandable he chose a direct binding to himself <quote>I'm deeply committed</quote> <ref target="c10gk2_1" type="line">(l. 1)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> makes the statement more <choice><orig>powerfull</orig><reg>powerful</reg></choice> by adding another short sentence <quote>- one that's grounded in mutual interest and mutual respect</quote>.</s>
+        <s>That shows very direct what <ref target="c10gk2_1" type="speaker">Obama</ref> <choice><orig>want</orig><reg>wants</reg></choice> to reach with this speech.</s>
+      </p>
+      <p>
+        <s>From line four to line seven.</s>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> uses a kind of an <choice><orig>Anaphor</orig><reg>anaphora</reg></choice>.</s>
+      </p>
+      <p>
+        <s>He doesn't say exactly the same but he uses the context.</s>
+        <s>In the first sentence he <choice><orig>emphasizes</orig><reg>emphatics</reg></choice> that he is proud to <quote>see a new spirit of activism [...]</quote> <ref target="c10gk2_1" type="line">(l. 4)</ref>.</s>
+        <s>So he claims that in the <name type="geo">USA</name> is a new spirit.</s>
+        <s>In the second, third and <choice><orig>fouth</orig><reg>fourth</reg></choice> sentences he gives some covers for that.</s>
+        <s>An argument nobody can dement <quote>I've seen</quote>, <quote>I saw it (with my own presidential campaign)</quote>, <quote>And I've seen</quote>.</s>
+      </p>
+      <p>
+        <s>In line 13 the <name type="geo">US</name> president uses a linguistic average when he <choice><orig>sais</orig><reg>says</reg></choice> that simple <choice><orig>exchananges</orig><reg>exchanges</reg></choice> can break down walls between us.</s>
+        <s>It shows very good that relationships are very important how <ref target="c10gk2_1" type="speaker">Obama</ref> pointed in <ref target="c10gk2_1" type="line">(ll. 1, 2)</ref>.</s>
+        <s>Another linguistic average you can find in <ref target="c10gk2_1" type="line">(ll. 18-20)</ref>.</s>
+        <s>In <choice><orig>these</orig><reg>this</reg></choice> passage <ref target="c10gk2_1" type="speaker">Obama</ref> <choice><orig>sais</orig><reg>says</reg></choice> that we can choose between building new bridges or building new walls.</s>
+        <s>Here he wants to say that bridges can help us, can dress us and walls would <choice><orig>seperate</orig><reg>separate</reg></choice> us like the <choice><orig>innergerman</orig><reg>inner German</reg></choice> border.</s>
+      </p>
+      <p>
+        <s>A bit before he appeals that small different should not <quote>overshadow the things we share</quote>.</s>
+        <s>With this quote <ref target="c10gk2_1" type="speaker">Obama</ref> wants to say that things like our religion or the skin colour shouldn't be a reason for racism and hate.</s>
+        <s>Even <name type="person">Donald Trump</name> as first clown.</s>
+        <s>In the entire speech <ref target="c10gk2_1" type="speaker">Obama</ref> uses <choice><orig>pronounces</orig><reg>pronouns</reg></choice> describe the listeners and him: we.</s>
+        <s>Only a few examples are: lines, 16, 13.</s>
+        <s>That includes <quote>us</quote> and other kinds of these <choice><orig>pronounces</orig><reg>pronouns</reg></choice>.</s>
+      </p>
+      <p>
+        <s>It shows the very typic relaxed and slack attitude <ref target="c10gk2_1" type="speaker">Obama</ref> has.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c10gk2_1" type="speaker">Obama</ref> seeks very <choice><orig>recocidable</orig><reg>reconcilable</reg></choice> words to stop the splitting in the world.</s>
+        <s>He gave a speech as a good start to a discussion <choice><orig>abut</orig><reg>about</reg></choice> the wide theme student exchange.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

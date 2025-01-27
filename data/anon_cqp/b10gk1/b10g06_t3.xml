@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g06_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk1_1" type="title">The Hate U Give</ref> is inspired from the book by <ref target="b10gk1_1" type="author">Angie Thomas</ref>.</s>
+        <s>Although I think that the book is better than the film, it still had some eye opening points.</s>
+      </p>
+      <p>
+        <s>In my opinion, the film didn't exactly manage to convey the main factors about the <name type="misc">black lives matter</name> problem.</s>
+        <s>Even if the fight between <ref target="b10gk1_1" type="character">Starr</ref> and <ref target="b10gk1_1" type="character">Hailey</ref> was quite an eye opener because of the facts which <ref target="b10gk1_1" type="character">Starr</ref> said, that you don't have to say the n-word to be racist, the book had more and better points which were left out in the film.</s>
+        <s>I don't think that the film did a good enough job to prove the points of an <choice><orig>african-american</orig><reg>African-American</reg></choice> life in the <name type="geo">US</name>, because they didn't go into detail of the drug life they have.</s>
+        <s>It's like they ignored those facts because it isn't <q>child friendly</q>.</s>
+        <s>But this is the main problem.</s>
+        <s>They aren't giving the whole picture of their lives and don't acknowledge the most important facts.</s>
+        <s>The film just touched the surface of the drug problem.</s>
+      </p>
+      <p>
+        <s>To sum everything up, I would say, that the film could have done it better and focus on the real life problems than a happy-ending which doesn't exist in the real world get.</s>
+        <s>Even if there were some eye-opening facts in the film.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

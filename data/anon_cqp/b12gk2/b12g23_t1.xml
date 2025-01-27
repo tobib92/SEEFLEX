@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g23_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following analysis is about the speech <ref target="b12gk2_1" type="speaker">Boris Johnson</ref>, the <choice><orig>british</orig><reg>British</reg></choice> <foreign xml:lang="de">Premierminister</foreign>, <choice><orig>was holding</orig><reg>held</reg></choice> during the opening ceremony at the <name type="misc">COP26</name> in <name type="geo">Glasgow</name> at the <date>1st November of 2021</date>.</s>
+        <s>He tells the participants to take action on climate change, because it is the last time they could save the world.</s>
+      </p>
+      <p>
+        <s>The speech can be parted into six paragraphs.</s>
+        <s>The first paragraph <ref target="b12gk2_1" type="line">(ll. 1-9)</ref> is the beginning of the speech, <ref target="b12gk2_1" type="speaker">Johnson</ref> starts into the topic of climate change with a comparison.</s>
+        <s>He compares a <name type="person">James Bond</name> movie to the actual state of climate change and that the global leaders need to stop the doomsday device like <name type="person">James Bond</name>.</s>
+        <s>He goes over all the climate conferences that already happened and says this one here in <name type="geo">Glasgow</name> is the most important one <ref target="b12gk2_1" type="line">(ll. 10-15)</ref>.</s>
+        <s>Furthemore <ref target="b12gk2_1" type="speaker">Johnson</ref> points out that the technologies are existing and the <choice><orig>moneys</orig><reg>money</reg></choice> to engage the project to get climate-neutral in <name type="geo">Europe</name> and all over the world is also there <ref target="b12gk2_1" type="line">(ll. 16-29)</ref>.</s>
+        <s>But the will of the leaders is missing.</s>
+        <s>Although they might not be alive at the point climate begins to get critical, says <ref target="b12gk2_1" type="speaker">Johnson</ref> <ref target="b12gk2_1" type="line">(ll. 30-36)</ref>.</s>
+        <s>He makes clear that younger generations not born will judge them when they fail the historic turning point: this conference.</s>
+        <s>And he goes back to his statement that we all god the things to stop climate change <ref target="b12gk2_1" type="line">(ll. 37-46)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last paragraph he ends his speech by telling the audience that together they can work like <name type="person">James Bond</name> and defuse the climate change <ref target="b12gk2_1" type="line">(l. 47-51)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

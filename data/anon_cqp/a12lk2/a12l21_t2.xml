@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given extract from Act II scene 2 from <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> from <date>1597</date> the author makes use of several stylistic devices and a specific choice of language.</s>
+      </p>
+      <p>
+        <s>At first, <name type="person">Juliet</name> does not seem as in love as <name type="person">Romeo</name> does, but more worried and fearing someone of her family will find out she has kissed a <name type="person">Montague</name> who is now sneaking into her <choice><orig>families'</orig><reg>family's</reg></choice> garden at night.</s>
+      </p>
+      <p>
+        <s>During the scene she develops less fear which is finally overwhelmed by her feelings for <name type="person">Romeo</name> and she starts to be mad about him too and shares her loving feelings.</s>
+      </p>
+      <p>
+        <s>In line 58 one can find a <choice><orig>metaphora</orig><reg>metaphor</reg></choice> as <name type="person">Juliet</name> states <quote>My ears have not yet drunk a hundred words</quote>.</s>
+        <s>It explains how <name type="person">Juliet</name> has not even heard <name type="person">Romeo's</name> voice a lot, but still recognized it as he comes out of hiding in her garden right before the beginning of the extract.</s>
+        <s>The use of this <choice><orig>metaphora</orig><reg>metaphor</reg></choice> makes the description of their new, fresh relationship more powerful for the reader.</s>
+        <s>In line 64 <quote>if any of my kinsmen find thee here</quote> and line 78 <quote>if they do see thee, ...</quote> the author makes use of a <choice><orig>repetion</orig><reg>repetition</reg></choice>.</s>
+        <s><name type="person">Juliet</name> points out the danger of the situation, as her relatives would kill <name type="person">Romeo</name> if they saw him in the <name type="person">Capulet's</name> garden.</s>
+        <s>This <choice><orig>repition</orig><reg>repetition</reg></choice> of the phrase enriches the meaning and emotional appeal as it is very dangerous for <name type="person">Romeo</name> to stay there.</s>
+        <s>In line 66 <quote>with love's light wings</quote> <name type="person">Shakespeare</name> uses another <choice><orig>metaphora</orig><reg>metaphor</reg></choice>.</s>
+        <s><name type="person">Romeo</name> states how it was easy for him to climb the wall to get into the <name type="person">Capulet's</name> garden.</s>
+        <s>Although this wall is really high, as <name type="person">Juliet</name> says, he was so motivated by love to see <name type="person">Juliet</name> that it was easy for him to climb that wall.</s>
+        <s>The use of this specific <choice><orig>metaphora</orig><reg>metaphor</reg></choice> creates an image in the reader's mind of <name type="person">Romeo</name> flying over the wall with wings spreading over him.</s>
+      </p>
+      <p>
+        <s>In line 75 <quote>I have night's cloak to hide me</quote> <name type="person">Romeo</name> tries to calm <name type="person">Juliet</name> down who is worried he will be seen, by <choice><orig>refering</orig><reg>referring</reg></choice> to the darkness of the night, which makes it easy for <name type="person">Romeo</name> to hide from <name type="person">Juliet's</name> relatives.</s>
+        <s>This <choice><orig>metaphora</orig><reg>metaphor</reg></choice> lets the reader weel emphasized by the thought of safety and creates another image.</s>
+        <s>Last but not least in line 85 one can find another <choice><orig>metaphora</orig><reg>metaphor</reg></choice> <quote>mask of the night is on my face</quote> in which <name type="person">Juliet</name> is thankful and charmed by <name type="person">Romeo's</name> words and assures him she is blushing, which he cannot see as it is dark at night.</s>
+        <s>Again, the image of <name type="person">Romeo</name> and <name type="person">Juliet</name> in the <name type="person">Capulet's</name> garden at night is created.</s>
+        <s>This <choice><orig>Stylistic Device</orig><reg>stylistic device</reg></choice> could also be interpreted as a <choice><orig>repition</orig><reg>repetition</reg></choice>, as in line 75 <name type="person">Shakespeare</name> already focused on the darkness of the night.</s>
+      </p>
+      <p>
+        <s>To sum up, one can say that <name type="person">Shakespeare</name> obviously has a very unique style of writing.</s>
+        <s>The creation of new words and grammar is typical for the Elizabethan time, <name type="person">Shakespeare</name> lived in.</s>
+      </p>
+      <p>
+        <s>I personally recognized a big number of <choice><orig>metaphoras</orig><reg>metaphors</reg></choice> throughout the scene which is nice for the reader, because he can create a lot of images in his mind which makes reading this cene more entertaining.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

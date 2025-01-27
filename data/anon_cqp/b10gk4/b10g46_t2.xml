@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g46_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given scene the director highlights the relationship between <ref target="b10gk4_1" type="character">Chris</ref> and <ref target="b10gk4_1" type="character">Starr</ref> and <ref target="b10gk4_1" type="character">Chris'</ref> importance in <ref target="b10gk4_1" type="character">Starr's</ref> life.</s>
+        <s>In the course of the scene, the viewer can see that there are certain problems in their relationship for example that <ref target="b10gk4_1" type="character">Chris</ref> thinks, that <ref target="b10gk4_1" type="character">Starr</ref> is excluding him from her life.</s>
+        <s>The scene starts with a medium-eye-level-shot which shows <ref target="b10gk4_1" type="character">Chris</ref> walking down the hallway in slow-motion.</s>
+        <s>The camera follows him as he <choice><orig>greats</orig><reg>greets</reg></choice> everybody.</s>
+        <s>Slow and melancholic music is played in the background and <ref target="b10gk4_1" type="character">Starr</ref> tells the viewer that she really likes <ref target="b10gk4_1" type="character">Chris</ref>.</s>
+        <s>With that, he is presented as the cool, popular guy that takes everyhing easy.</s>
+        <s>Next, there is a close up on <ref target="b10gk4_1" type="character">Chris'</ref> shoes and <ref target="b10gk4_1" type="character">Starr</ref> says that she has the same and that <ref target="b10gk4_1" type="character">Chris</ref> looks very good with them.</s>
+        <s>The slow-motion and the music let the viewer think that everything in their relationship is perfect and they really love each other.</s>
+        <s>An eye-level-close-up on <ref target="b10gk4_1" type="character">Starr</ref> shows how <ref target="b10gk4_1" type="character">Chris</ref> gives her his headphones.</s>
+        <s>This foreshadows her positive reaction to the music.</s>
+        <s>She then takes them off, telling <ref target="b10gk4_1" type="character">Chris</ref> that she doesn't like it and their conversation gets serious.</s>
+        <s>They are shown in medium-over-the-shoulder and reversed-angle-shots to highlight their facial expressions and their reactions to each other.</s>
+        <s>Between these shots there are a few close-ups on their faces to show the importance of their conversation.</s>
+        <s>When <ref target="b10gk4_1" type="character">Chris</ref> walked down the hallway, everything seemd perfect and okay but then the slow music stops and during their conversation their relationship starts to look fragile.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref> thinks that their relationship is too slow because they know each other for six months.</s>
+        <s>He also thinks that <ref target="b10gk4_1" type="character">Starr</ref> wants to exclude him from her life because she hasn't introduced him to her parents <choice><orig>jet</orig><reg>yet</reg></choice>.</s>
+        <s>This shows that he thinks about their relationship and that it is serious to him.</s>
+        <s>On the other hand, <ref target="b10gk4_1" type="character">Starr</ref> thinks that <ref target="b10gk4_1" type="character">Chris</ref> just wants to sleep with her and that he isn't interested into having a real relationship.</s>
+        <s>Because the tension between them gets more and more, <ref target="b10gk4_1" type="character">Chris</ref> asks her about her opinion about his music.</s>
+        <s>He feels that their conversation won't come to a solution so he changes the subject.</s>
+        <s>He says that he wants to <choice><orig>proof</orig><reg>prove</reg></choice> that his music is good so he turns the volume up and starts dancing in the hallway.</s>
+      </p>
+      <p>
+        <s>While dancing, <ref target="b10gk4_1" type="character">Chris</ref> is shown in a full shot and then is slow-motion while hte camera zooms in.</s>
+      </p>
+      <p>
+        <s>This shows again that they have a really good relationship if they forget their problems.</s>
+      </p>
+      <p>
+        <s>The scene is framed from slow-motion shots, which highlights the special relationship and the conflict of them.</s>
+        <s>At the beginning and at the end of the scene, <ref target="b10gk4_1" type="character">Starr</ref> doesn't speak directly, you can just hear her voice.</s>
+        <s>This underlines her thoughts about <ref target="b10gk4_1" type="character">Chris</ref> and that she does not want to share them with him.</s>
+        <s>She does not want to admit to him that she is not angry anymore.</s>
+        <s>When she talks to him, the music stops playing and the viewer can only hear her talking so the viewer is excluded from her thoughts.</s>
+        <s>With that, the director <choice><orig>want's</orig><reg>wants</reg></choice> the viewer to see <ref target="b10gk4_1" type="character">Chris</ref> with <ref target="b10gk4_1" type="character">Starr's</ref> eyes.</s>
+        <s><ref target="b10gk4_1" type="character">Starr's</ref> split opinion about <ref target="b10gk4_1" type="character">Chris</ref> is underlined and her trust issues that she has about everybody in her school.</s>
+        <s>In conclusion you can say that <ref target="b10gk4_1" type="character">Chris</ref> is presented as a cool, popular boy who wants to be included in the life of his girlfriend.</s>
+        <s>But the relationship with <ref target="b10gk4_1" type="character">Starr</ref> is not as perfect as it seems because <ref target="b10gk4_1" type="character">Starr</ref> does not trust <ref target="b10gk4_1" type="character">Chris</ref> completely and does not want to share too much of her personality with him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l06_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his <ref target="a12lk1_1" type="title">Sonnet 138</ref>, published in <date>1609</date>,<ref target="a12lk1_1" type="author">Shakespeare</ref> addresses the problem of dishonesty and ignoring the truth of time because it is easier in a relationship.</s>
+      </p>
+      <p>
+        <s>The first two lines introduce the speaker's thesis that even though he knows of the lover's lies he pretends or wants to trust her.</s>
+      </p>
+      <p>
+        <s>The first quatrain ends with the first clue to his reasons because the speaker describes his hopes that false <choice><orig>believe</orig><reg>belief</reg></choice> might make him appear younger.</s>
+      </p>
+      <p>
+        <s>However, in the next quatrain the persona of the poem admits that it really is hopeless because his lover knows of his old age and they both try to ignore the truth becuase they enjoy the lies more.</s>
+      </p>
+      <p>
+        <s>After that diagnosis he starts to question the situation in the third quatrain with a volta in line nine.</s>
+        <s>The speaker wonders why both cannot simply tell the truth but quickly finds the reason in love's nature because pretending is the more attractive and easier way to go.</s>
+        <s>Finally, he concludes that argued knowledge in the heroic couplet by accepting the situation and stating that they simply go on and keep pretending to be happy and content through the lies they are telling.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

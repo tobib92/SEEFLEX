@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12l32_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to discuss why the work of the English poet <name type="person">Shakespeare</name> should still be taught in German English classes.</s>
+      </p>
+      <p>
+        <s>First of all it should be mentioned that <name type="person">Shakespeare</name> deals with timeless topics like love, nature, <choice><orig>eternality</orig><reg>eternity</reg></choice>, humanity and death.</s>
+        <s>These topics are still important in <choice><orig>todays</orig><reg>today's</reg></choice> day.</s>
+        <s>Additionally one can see that his imaginative language can be a good point when it comes to education.</s>
+        <s>Students who become workers do not need to know anything about <name type="person">Shakespeare</name>.</s>
+        <s><name type="person">Shakespeare</name> outlines fundamental experiences which sometimes are not problems people are concerned with nowadays.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> invented 1400 words and they still use in every day English so maybe it is helpful or also <choice><orig>neccessary</orig><reg>necessary</reg></choice> to know who <name type="person">Shakespeare</name> was.</s>
+      </p>
+      <p>
+        <s>People may think that the work of the English poet should not still be taught in classes because his language is very old and difficult to understand.</s>
+        <s>After discussing the pros and cons I think that it is very important to know who <name type="person">Shakespeare</name> was and have a good look at his work.</s>
+      </p>
+      <p>
+        <s>Many television series and movies are adoptions of his work.</s>
+        <s>Students maybe can relate to <name type="person">Shakespeare's</name> characters.</s>
+        <s>Another point could be that is wonderful and lovely poems about soul can be hopeful for people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

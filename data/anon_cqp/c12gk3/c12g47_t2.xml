@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g47_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> the whole argument <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to convince her husband of killing the King.</s>
+        <s>Her choice of language is very important at this position.</s>
+      </p>
+      <p>
+        <s>She starts the argument by using many rhetorical questions in the lines 9-18.</s>
+        <s>For example she says <quote>Was the hope drunk wherein you dressed yourself?</quote> <ref target="c12gk3_1" type="line">(ll. 8-9)</ref>, which means if he was drunk while <choice><orig>planing</orig><reg>planning</reg></choice> all this.</s>
+        <s>By all <choice><orig>this</orig><reg>these</reg></choice> <choice><orig>retorical</orig><reg>rhetorical</reg></choice> questions she tries to insecure <ref target="c12gk3_1" type="character">Macbeth</ref> which causes him to get angry.</s>
+        <s>She also compares him in line 18 with a <quote>poor cat i'th'adage</quote>.</s>
+        <s>This means that he is like a cat which wants fish, but would not get his paws wet.</s>
+        <s>This comparison also causes him to get angry.</s>
+        <s>After <ref target="c12gk3_1" type="character">Macbeth</ref> is still not convinced, <ref target="c12gk3_1" type="character">Lady Macbeth</ref> begins her statement again with a rhetorical question <ref target="c12gk3_1" type="line">(ll. 24-25)</ref>.</s>
+      </p>
+      <p><s>To start her statement with a rhetorical question causes her to be more convincing.</s><s>She says that he could be more than a man <ref target="c12gk3_1" type="line">(l. 28)</ref> which causes her to be more convincing because <ref target="c12gk3_1" type="character">Macbeth</ref> is power-crazed.</s><s>Afterwards <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses a comparison in the lines 31-36.</s><s>She tells <ref target="c12gk3_1" type="character">Macbeth</ref> that if she made a promise like him she even would stop breastfeeding her baby and dash his brain out.</s><s>This comparison should show that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> would bewilling to do what <ref target="c12gk3_1" type="character">Macbeth</ref> is scared of.</s><s>This should cause to convince <ref target="c12gk3_1" type="character">Macbeth</ref> by using his ego.</s><s>After <ref target="c12gk3_1" type="character">Macbeth</ref> asks what they should do if they fail, she answers with <quote>We fail!</quote> <ref target="c12gk3_1" type="line">(l. 39)</ref>.</s><s>This shows that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> does not even think about failing because she is so confident.</s><s>She also says that he <quote>should screw ... (his) ... courage to the sticking place, and we'll not fail</quote> <ref target="c12gk3_1" type="line">(ll. 40-41)</ref>.</s><s>This means that if he is brave, they won't fail.</s><s>This should convince <ref target="c12gk3_1" type="character">Macbeth</ref> again by using his ego.</s><s>Afterwards <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses some rhetorical question again in the lines 50-53.</s><quote><s>What cannot you and I perform upon the unguarded Duncan?</s><s>What no put upon his spongy officers, who shall bear the guilt of our great quell?</s></quote>. <s>These two rhetorical questions shall show that they only have to kill one man who is only guarded by drunken servants.</s><s>Also <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses <choice><orig>a</orig><reg>an</reg></choice> anaphora between these two rhetorical questions.</s><quote><s>What ...?</s><s>What ...?</s></quote><ref target="c12gk3_1" type="line">(ll. 50-51)</ref>. <s>This anaphora <choice><orig>cause</orig><reg>causes</reg></choice> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> to be more convincing.</s></p>
+      <p>
+        <s>Overall <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses many stylistic devices to convince <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>She also talks way more than <ref target="c12gk3_1" type="character">Macbeth</ref> in this argument, while <ref target="c12gk3_1" type="character">Macbeth</ref> is only answering with one sentence now and then.</s>
+        <s>This <choice><orig>cause</orig><reg>causes</reg></choice> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> to <choice><orig>dominat</orig><reg>dominate</reg></choice> this argument and convince <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

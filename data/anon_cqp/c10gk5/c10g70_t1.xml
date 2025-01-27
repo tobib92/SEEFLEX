@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g70_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and first published in <name type="misc">The Sunday Times</name> on <date>17th December 2016</date> deals with the problem that a lot of people coming from <name type="geo">Bangladesh</name> into <name type="geo">Great Britain</name> does not learn the English language and that they stay close with other people from <name type="geo">Bangladesh</name> and does not integrate in the British culture.</s>
+      </p>
+      <p>
+        <s>The text is divided in four paragraphs.</s>
+      </p>
+      <p>
+        <s>The first paragraph <ref target="c10gk5_1" type="line">(cf. ll. 1-4)</ref> is about that there is spend much money for people who <choice><orig>does</orig><reg>do</reg></choice> not speak English on translating important information for them, than helping them to learn English or to integrate.</s>
+      </p>
+      <p>
+        <s>Then, the next paragraph <ref target="c10gk5_1" type="line">(cf. ll. 5-10)</ref> deals with the <name type="misc">Brick Lane</name> in the <name type="misc">East End</name> of <name type="geo">London</name> with a high level of criminality.</s>
+      </p>
+      <p>
+        <s>The following paragraph <ref target="c10gk5_1" type="line">(cf. ll. 11-17)</ref> tells us something about the author's life.</s>
+        <s>He does not have to grow up in <name type="misc">Brick Lane</name>, when he arrived in <name type="geo">Britain</name>.</s>
+        <s>He and his parents wanted to learn English and so they did.</s>
+        <s>He goes to a normal school and had a normal life.</s>
+      </p>
+      <p>
+        <s>The fourth and last paragraph is about that <choice><orig>everone</orig><reg>everyone</reg></choice> should get the chance to learn by curbing the translation and making English compulsory for all citizens.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

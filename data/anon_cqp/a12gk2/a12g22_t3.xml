@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g22_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> states that <quote>language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote>.</s>
+        <s>Because prosperity and global standing are basically the result of the economy, the question is, if language learning benefits the economy, and I would <choice><orig>defenetly</orig><reg>definitely</reg></choice> say yes.</s>
+      </p>
+      <p>
+        <s>Every country is racing against each other for advantages and the resulting independence and <choice><orig>prosterity</orig><reg>prosperity</reg></choice>.</s>
+        <s><choice><orig>it</orig><reg>It</reg></choice> would be bad ot leave the race by not learning foreign languages.</s>
+      </p>
+      <p>
+        <s>One could argue that no other language than <choice><orig>english</orig><reg>English</reg></choice> is <choice><orig>needet</orig><reg>needed</reg></choice> for the race for global <gap reason="illegible" quantity="1" unit="word">sandiug</gap> because many countries teach <choice><orig>english</orig><reg>English</reg></choice> in their schools, and if not, the people who have the job to internationally <choice><orig>comunicate</orig><reg>communicate</reg></choice> can speak <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>The problem is that today nearly everyone is in a position of international communication in some or the other way.</s>
+        <s>This means there is a demand, and if the <name type="geo">UK</name> can deliver what is needed, the <name type="geo">UK's</name> economy would benefit.</s>
+        <s>Furthermore is it not only about communication, but effective communication: <choice><orig>Although</orig><reg>although</reg></choice> most Germans speak <choice><orig>english</orig><reg>English</reg></choice>, effectiveness is often <choice><orig>to</orig><reg>too</reg></choice> low to be efficient.</s>
+        <s>That foreign languages are important shows <name type="geo">China</name>, the greatest influence in the <name type="geo">UK's</name> economy because the demand, like <ref target="a12gk2_1" type="author">Worne</ref> mentioned, is very high when it comes to <choice><orig>chinese speaking</orig><reg>Chinese-speaking</reg></choice> <name type="geo">UK</name> citizens.</s>
+        <s>Unfortunately, one has to admit that it is very hard to learn <choice><orig>chinese</orig><reg>Chinese</reg></choice>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Ofcourse</orig><reg>Of course</reg></choice> is it clear that <choice><orig>english</orig><reg>English</reg></choice> is getting more and more represented, especially in countries like <name type="geo">India</name>... but until not everyone speaks <choice><orig>english</orig><reg>English</reg></choice> and highly skilled <add>on high <foreign xml:lang="de">niveau</foreign></add> there will always be <choice><orig>demant</orig><reg>demand</reg></choice> if the majority is not willing to learn more languages.</s>
+      </p>
+      <p>
+        <s>Language knowledge gives also insight into other countries and cultures, thus providing security <add>inclusion</add>, like <ref target="a12gk2_1" type="author">Worne</ref> mentions.</s>
+      </p>
+      <p>
+        <s>All in all, the benefits seem to be overwhelming, but it might be smart to only learn what is especially needed in <choice><orig>ones</orig><reg>one's</reg></choice> life because learning <choice><orig>chinese</orig><reg>Chinese</reg></choice> for example could be <choice><orig>to</orig><reg>too</reg></choice> much effort for the actual benefits, personally and regarding the economy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

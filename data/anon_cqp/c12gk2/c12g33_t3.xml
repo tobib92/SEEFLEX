@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g33_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>At least I comment on the statement <quote><qs><name type="person">Shakespeare</name> never grows old.</qs><qs>He continues to inspire each new generation</qs></quote> from <name type="person">Norman J. Lund</name>.</s>
+      </p>
+      <p>
+        <s>On the one hand <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is <choice><orig>an</orig><reg>a</reg></choice> traditional writer, which <choice><orig>convince</orig><reg>convinces</reg></choice> our language since today, so he <choice><orig>inspire</orig><reg>inspires</reg></choice> every new generation and never grows old, but on the other hand are his texts very difficult to understand <choice><orig>espacially</orig><reg>especially</reg></choice> for no native speaker.</s>
+      </p>
+      <p>
+        <s>For native speaker is it a good chance to understand where some words come from and how <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> <choice><orig>influence</orig><reg>influences</reg></choice> our theatres and normal life today.</s>
+      </p>
+      <p>
+        <s>Because of the most very difficult <choice><orig>speach</orig><reg>speech</reg></choice> which is very old, <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is grows old with his original texts and the new generation <choice><orig>have</orig><reg>has</reg></choice> not so much <gap reason="illegible" quantity="1" unit="word">oover</gap> to him.</s>
+      </p>
+      <p>
+        <s>Also for people who are no native speaker is it very difficult to understand his <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices like metaphors.</s>
+        <s>You find many of them in <choice><orig>annother</orig><reg>another</reg></choice> form for example in movies or songs, but there is it easier to understand, what the author means.</s>
+      </p>
+      <p>
+        <s>All in all <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> grows old, because of his choice of words, but he continues to inspire each new generation, but not with his old texts, but with his <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices especially metaphors which we can find in our normal life for example in movies or songtexts.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g58_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi</salute>
+        <s>my name is <name type="person">John</name> I'm going to write a report about the experience my friend <name type="person">Bianca</name> got while volunteering in <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s>So she worked at an <name type="misc">Education Center</name> which is <choice><orig>basicly</orig><reg>basically</reg></choice> a place in which <choice><orig>indian</orig><reg>Indian</reg></choice> kids learn <choice><orig>english</orig><reg>English</reg></choice> it was located in a let's say area which isn't that beautiful, an Indian slum, but even though they lived in a not so positive situation they always had a smile on their face which just showed their love and acceptance of their life.</s>
+        <s>They showed a lot of curiosity for <name type="person"><choice><orig>Biancas</orig><reg>Bianca's</reg></choice></name> background and her experiences.</s>
+        <s>Even though <name type="person">Bianca</name> only just spent 2 hours with them they always were thankful.</s>
+        <s>I think <choice><orig>altough</orig><reg>although</reg></choice> <name type="person">Bianca</name> had a complicated life there she <choice><orig>definitly</orig><reg>definitely</reg></choice> experienced incredible moments.</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

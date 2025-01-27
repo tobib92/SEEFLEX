@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l33_t2</author>
+        <name>characterize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">characterize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given <choice><orig>exerpt</orig><reg>excerpt</reg></choice> from the play <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> written by <ref target="a12lk3_1" type="author">William Shakespeare</ref> <name type="person">Shylock</name> is characterized directly and indirectly on many different occasions.</s>
+      </p>
+      <p>
+        <s>To start off one can say that <name type="person">Shylock</name> is a Jew.</s>
+        <s>This becomes clear to the audience when <name type="person">Shylock</name> speaks of their synagogue with his friend <name type="person">Tubal</name> <ref target="a12lk3_1" type="line">(l. 30)</ref>.</s>
+        <s>Also one of <name type="person">Shylock's</name> main character traits is that he loves money.</s>
+        <s>He does that maybe even more than he loves his daughter because after <name type="person">Tubal</name> tells him that he cant find his daughter, <name type="person">Shylock</name> mentions his money and his jewels that his daughter took, before mentioning her <ref target="a12lk3_1" type="line">(ll. 3-5)</ref>.</s>
+        <s>That makes the audience think that <name type="person">Shylock</name> is more angry and worried about him losing money and jewels than aobut losing his daughter, which makes him unsympathetic.</s>
+      </p>
+      <p>
+        <s>This love for materialistic things is underlined by an alliteration in line 5: <quote>... and other precious, precious jewels</quote>.</s>
+        <s>This makes <name type="person">Shylock</name> seem like he loves money.</s>
+        <s><name type="person">Shylock</name> can also be described as very angry and hectic.</s>
+        <s>This is made clear by a <choice><orig>repitition</orig><reg>repetition</reg></choice> / alliteration in line 3: <quote>Why, there, there, there, there!</quote> This underlines the said character trait and gives the audience an example of how <name type="person">Shylock</name> reacts to bad news: he gets angry and hectic.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> can also be characterized as thinking of himself as being very unlucky because in line 9 he says that <quote>there is no bad luck that won't land on my shoulders</quote> <ref target="a12lk3_1" type="line">(l. 9)</ref>.</s>
+        <s>This sentence can be seen as a stylistic device at the same time because there are two <quote>no</quote>s in it.</s>
+        <s>This makes <name type="person">Shylock</name> seem even more unlucky than he is to the audience.</s>
+        <s>In addition to loving money more than his daughter, one can also say that he doesn't even love his daughter or even hates her.</s>
+        <s>The audience could interpet it in that way because <name type="person">Shylock</name> wishes that his daughter was dead twice in one monologue <ref target="a12lk3_1" type="line">(l. 5-7)</ref>.</s>
+        <s>This makes him even more unsympathetic to the audience than any of the other aspects.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> is also a very gleeful person because he is joyful after <name type="person">Tubal</name> tells him that <name type="person"><choice><orig>Antonios</orig><reg>Antonio's</reg></choice></name> ships have gone missing: <quote>I thank god, I thank god</quote> <ref target="a12lk3_1" type="line">(l. 14)</ref>.</s>
+        <s>This is again a <choice><orig>repitition</orig><reg>repetition</reg></choice> and not a vey positive character trait which makes him unlikable for the audience.</s>
+      </p>
+      <p>
+        <s>Another one of <name type="person">Shylock's</name> character traits is that he has mood swings.</s>
+        <s>This happens throughout the entire conversation with <name type="person">Tubal</name> and can be happening because of the different news he receives.</s>
+        <s>This makes him seem indecisive and unstable to the audience.</s>
+        <s><name type="person">Shylock</name> is also very hungry for revenge against <name type="person">Antonio</name> which can also be seen in his positive reaction to the bad news for <name type="person">Antonio</name> <ref target="a12lk3_1" type="line">(l. 14)</ref>.</s>
+        <s>This revenge can be traced back to <name type="person">Antonio</name> abusing and insulting <name type="person">Shylock</name> his entire life.</s>
+        <s>This makes <name type="person">Shylock</name> seem more human but could also make him seem as villanous depending on what perspective one sees it from.</s>
+      </p>
+      <p>
+        <s>This is again made clear in line 27: <quote>I will have the heart of him</quote>.</s>
+        <s>This could also be seen as a metaphor for not only killing <name type="person">Antonio</name> but also for taking his spirit and his will so <name type="person">Shylock</name> can be satisfied after all he had to endure.</s>
+      </p>
+      <p>
+        <s>In addition to being hungry for revenge, <name type="person">Shylock</name> is also very violent and brutal because he wants to torture and plague <name type="person">Antonio</name> <ref target="a12lk3_1" type="line">(l. 22)</ref>.</s>
+      </p>
+      <p>
+        <s>In the same line there is an anaphora which underlines the said character traits: <quote>... I'll plague him; I'll torture him</quote> <ref target="a12lk3_1" type="line">(l. 22)</ref>.</s>
+      </p>
+      <p>
+        <s>The last character trait one can take away from the given excerpt is that <name type="person">Shylock</name> exploits his friends.</s>
+        <s>He for example sends <name type="person">Tubal</name> to look afer his daughter instead of doing it himself <ref target="a12lk3_1" type="line">(l. 1)</ref> and orders <name type="person">Tubal</name> to hire an officer for him instead of doing it himself: <quote>Go <name type="person">Tubal</name> , fee me an officer</quote> <ref target="a12lk3_1" type="line">(l. 27)</ref>.</s>
+        <s>This makes <name type="person">Shylock</name> seem very commanding and unthankful to the audience.</s>
+      </p>
+      <p>
+        <s>The use of language in <choice><orig>General</orig><reg>general</reg></choice> is very old fashioned due to the time the play as written in: <quote>Thou tortourest me ...</quote> <ref target="a12lk3_1" type="line">(l. 24)</ref>.</s>
+        <s>This could be difficult for audiences today but was no problem at the time the play was written.</s>
+        <s><name type="person">Shylock</name> also speaks in blanc verse which was typical for villains at that time.</s>
+        <s>This can be seen in his monologue from lines 3 to 10.</s>
+        <s>This makes the audience think of him as the villain of the story.</s>
+      </p>
+      <p>
+        <s>All in all one can say that most of the character traits that can be detected in this excerpt are rather negative and make <name type="person">Shylock</name> seem unsympathetic and abd in general to the audience.</s>
+        <s>This is also underlined by many repetitions and other stylistic devices such as anaphoras.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

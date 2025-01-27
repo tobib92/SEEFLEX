@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The use of narrative techniques, in this excerpt, shows the reader the inner conflict in <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> mind and his further development into a racist.</s>
+      </p>
+      <p>
+        <s>The narrator is a limited third-person narrator who, in this excerpt shows <name type="person">Delaney's</name> point of view.</s>
+        <s>This, of course, helps the reader understand <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> thought process while still having some distance allowing the narrator to comment.</s>
+        <s>This distance allows the reader to judge the current character <add>who's point of view it is</add> and prevents the reader from fully empathizing with them.</s>
+      </p>
+      <p>
+        <s>To show the inner conflict going on in <name type="person">Delaney</name>, between his <add>liberal-humanist</add> ideals and his <choice><orig>racist-tendencies</orig><reg>racist tendencies</reg></choice> a lot of rhetorical questions are used.</s>
+        <s>In the beginning <ref target="b11lk1_1" type="line">(ll. 1f)</ref> a rhetorical question is used to show <name type="person">Delaney's</name> inner rebellion against the gate and <choice><orig>unwillingnes</orig><reg>unwillingness</reg></choice> for starting conflicts.</s>
+        <s>However, the further use of <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions, is to show his <choice><orig>racist-tendencies</orig><reg>racist tendencies</reg></choice> <ref target="b11lk1_1" type="line">(ll. 25f, 35f)</ref>.</s>
+        <s>Those questions show inner accusations, made by him, at the mexican <add><name type="person">José</name></add>.</s>
+        <s>He almost characterises him as a criminal, thinking of him to bother his wife and maybe break in a house.</s>
+        <s>At the beginning of the last paragraph <ref target="b11lk1_1" type="line">(ll. 60f)</ref> a <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question is used to show <name type="person">Delaney</name> questioning his current behaviour and morals, seeing as though it doesn't fit his self-image of a self-proclaimed <add>liberal-humanist</add> but rather the opposite.</s>
+        <s>This meaning, <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> development into a racist is <add>still</add> not far, he is still feeling regret and guilt and he seems to fear what he could become.</s>
+      </p>
+      <p>
+        <s>In this excerpt, specifically the first 6 paragraphs, <name type="person">Delaney's</name> rage for the <choice><orig>mexican</orig><reg>Mexican</reg></choice> is shown through <choice><orig>climatic-kind</orig><reg>climatic kind</reg></choice> of structures.</s>
+        <s>The first structure <ref target="b11lk1_1" type="line">(l. 7)</ref> underlines him only focusing on the car and his obsession with it.</s>
+        <s>The next <choice><orig>climatic-structure</orig><reg>climatic structure</reg></choice> shows the way <name type="person">Delaney</name> almost arranging happenings to fit his image of immigrants.</s>
+        <s>This time <ref target="b11lk1_1" type="line">(l. 19)</ref> it makes the <choice><orig>mexican</orig><reg>Mexican</reg></choice> look more like a criminal than he <add>in that moment</add> is.</s>
+        <s>Also <ref target="b11lk1_1" type="line">(l. 48)</ref> <name type="person">Delaney</name> is getting more and more enraged by persuading himself that his current situation is important and how respectless the <choice><orig>mexican</orig><reg>Mexican</reg></choice> is <ref target="b11lk1_1" type="line">(l. 31, 33f, 40f, 48)</ref>.</s>
+        <s>He practically makes himself feel less than he is and making him wanting to proof that he's able to defend his neighborhood.</s>
+        <s>This could relate to him not wanting a gate and trying to show himself that he can protect himself and that the <choice><orig>outside-world</orig><reg>outside world</reg></choice> is not a dangerous as he thinks it is <ref target="b11lk1_1" type="line">(ll. 56f)</ref>.</s>
+        <s>Although the reader is able to see him feeling unsure of himself wishing for other people's help <ref target="b11lk1_1" type="line">(l. 52f)</ref>.</s>
+      </p>
+      <p>
+        <s>Through making himself ready for a fight and more enraged, the realisation of him being wrong and becoming the opposite of what he thinks himself to be, hits him hard.</s>
+        <s>This has the effect of him only doubting himself even more.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

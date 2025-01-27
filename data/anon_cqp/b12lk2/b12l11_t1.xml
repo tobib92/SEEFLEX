@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l11_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following speech delivered at the <name type="misc">COP26</name> conference in <name type="geo">Glasgow</name> on <date>1 November 21</date> by the people's advocate <ref target="b12lk2_1" type="speaker">Sir David Attenborough</ref>, he talks about the urgency of acting now to reverse the consequences of climate change.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>beginng</orig><reg>beginning</reg></choice> he reminds the politicians of the reason of the conference and of the importance of the results.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> talks about human history and the fact the temperatures and the concentration of carbon in our atmosphere used to be <choice><orig>instable</orig><reg>unstable</reg></choice>.</s>
+        <s>The temperatures and their stability where are the reason why humans were able to achieve all this thing, but this can change now to wavering degrees.</s>
+        <s>We are responsible for that, due to burning fossil fuels and the destruction of nature.</s>
+        <s>The stability humans need is falling apart and we all will feel the impact.</s>
+        <s>The <choice><orig>speaker</orig><reg>speakers</reg></choice> tells their perspective, fate and opinions.</s>
+        <s>The people affected by climate change are young people who are alive today and no longer some future generation.</s>
+        <s><ref target="b12lk2_1" type="speaker">Attenborough</ref> emphasizes how important it is to act now and then everybody would benefit from nature restoring <choice><orig>it-self</orig><reg>itself</reg></choice> and brought back balance on our planet.</s>
+        <s>No nation is <choice><orig>completly</orig><reg>completely</reg></choice> developed because they are not sustainable yet, but according to <ref target="b12lk2_1" type="speaker">Attenborough</ref> this can be achieved with learning together.</s>
+        <s>Three other <choice><orig>speaker</orig><reg>speakers</reg></choice> speak again and they present their hopeful attitude.</s>
+        <s>He <choice><orig>finishs</orig><reg>finishes</reg></choice> his speech with appealing to the emotions of the politicians and underlining the urgency of this matter.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

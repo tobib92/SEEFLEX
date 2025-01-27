@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g46_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Many people have the question if English is important, especially foreign <choice><orig>language</orig><reg>languages</reg></choice> for the <name type="geo">UK's</name> future and global standing.</s>
+        <s>In the following this is going to be discussed.</s>
+      </p>
+      <p>
+        <s>On the one hand foreign <choice><orig>language</orig><reg>languages</reg></choice> is <choice><orig>enorm</orig><reg>enormously</reg></choice> important, because you need those skills in the <name type="geo">UK</name> for example for <choice><orig>Businesses</orig><reg>businesses</reg></choice>.</s>
+        <s>Moreover it is essential for the trade, property, cultural exports, diplomacy and national security.</s>
+        <s>A negative point is that other subjects must be important too as maths for example.</s>
+        <s>Moreover those foreign languages could be studied together with another subject degree in the university.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the foreign language is important for the future life <gap reason="illegible" quantity="2" unit="word">an/on/in Job fair</gap> <choice><orig>communicatchy</orig><reg>communication</reg></choice> in a globalised world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

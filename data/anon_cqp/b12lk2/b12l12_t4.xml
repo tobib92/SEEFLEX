@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l12_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="review">news</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="geo">Glasgow</name> a step in the right direction - <choice><orig>Eventhough</orig><reg>Even though</reg></choice> the feelings on <name type="misc">COP26</name> were mostly mixed <name type="geo">Germany's</name> chief negotiator views the outcome as a success</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>The <choice><abbr>UN</abbr><expan>United Nations</expan></choice> Secretary-General <name type="person">António Guterres</name> was not pleased with the result of the climate change conference <name type="misc">COP26</name> in <name type="geo">Glasgow</name> but the <choice><orig>german</orig><reg>German</reg></choice> chief negotiator <ref target="b12lk2_2" type="speaker">Jochen Flasbarth</ref> are use this conference as a success, a small one, but still a success.</s>
+        <s>According to him no one should think that with one conference that will be a solution to the climate crisis.</s>
+        <s>This will never happen, even in the future, but <name type="geo">Glasgow</name> manage to make better conditions in climate politics.</s>
+        <s><ref target="b12lk2_2" type="speaker">Flasbarth</ref> has a <choice><orig>weakend</orig><reg>weakened</reg></choice> perspective on the weekend phrasing in the coal exit <choice><orig>then</orig><reg>than</reg></choice> most people and politicians do.</s>
+        <s>He was surprised that the <choice><abbr>EU</abbr><expan>European Union</expan></choice> was ready to discuss this topic.</s>
+        <s>Just like everybody else he hoped for an exit but he is <choice><orig>satified</orig><reg>satisfied</reg></choice> that it sends the right signal, that the age of coal use is finally over.</s>
+      </p>
+      <p>
+        <s>The question how much time is left was cleverly answered by <ref target="b12lk2_2" type="speaker">Flasbarth</ref> he said that we have to act even faster but did not give a specific due date.</s>
+        <s>And his point of view the politicians acted a lot faster the last couple years <choice><orig>then</orig><reg>than</reg></choice> before.</s>
+        <s>He says that during the <name type="geo">Paris</name> agreement, which is a climate contract to minimize man-made climate change so the earth will not get warmer than 2 degrees, it was signed in <date>2016</date> by 196 countries, climate scientist talked about 5 to 6 degrees of global warming.</s>
+        <s>This leads to him saying that the 2.7 degrees in <name type="geo">Glasgow</name> was a <choice><orig>sucess</orig><reg>success</reg></choice>.</s>
+      </p>
+      <p>
+        <s><name type="geo">Glasgow</name> is a step in the right direction because now contracts and agreements exist which makes things a lot easier.</s>
+        <s>It was a small <choice><orig>sucess</orig><reg>success</reg></choice> for our future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

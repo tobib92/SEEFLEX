@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g14_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref> was published in the year <date>2019</date> and it was written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>.</s>
+        <s>The novel deals with the life of a girl named <ref target="b11gk1_1" type="character">Pearl</ref>, who lives together with her mother in a trailer park in <name type="geo">Florida</name>.</s>
+      </p>
+      <p>
+        <s>In this part of novel, it gives many characters.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is one of them.</s>
+        <s><ref target="b11gk1_1" type="character">Helen's</ref> situation isn't the life, which has everyone.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> was in so many different houses.</s>
+        <s>She <choice><orig>don't</orig><reg>doesn't</reg></choice> know who she is and where she came from.</s>
+        <s>Of course she has parents but she doesn't live with them together.</s>
+        <s>She was in so many houses, saw too many people and she had many changes in her life too.</s>
+        <s>So <ref target="b11gk1_1" type="character">Helen</ref> is a foster child but because of her young age she doesn't realize her situation and she isn't angry or sad too but under <choice><orig>this</orig><reg>these</reg></choice> conditions but under bad conditions she has many friends, which makes her happy too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l06_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt from <choice><orig>Part Two, Chapter</orig><reg>part two, chapter</reg></choice> 6 of the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref> by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> deals with <name type="person">Delaney</name> accusing a <choice><orig>mexican</orig><reg>Mexican</reg></choice> for criminal actions, despite he has no evidence, which shows his character development.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney</name> is the protagonist of the novel.</s>
+        <s>At the beginning of the story he called himself a liberal-humanist, right after he offered just 20$, to <name type="person">Candido</name>, a man he just hit with his car.</s>
+        <s>In the neighborhood of <name type="person">Delaney</name> is an ongoing deabte about becoming a gated community.</s>
+        <s>At first <name type="person">Delaney</name> is against it but within the time of the story he changes his attitude towards <choice><orig>mexicans</orig><reg>Mexicans</reg></choice> and becoming a gated community.</s>
+        <s><name type="person">Todd Sweet</name> is the only neighbor of <name type="person">Delaney</name>, who is against the idea of a gated community, he tries but fails convincing <name type="person">Delaney</name> to stand with him.</s>
+        <s><name type="person">José Navidad</name> is the villain of the novel <name type="person">José</name> once met <name type="person">Delaney</name> right before <name type="person">Delaney's</name> car got stolen.</s>
+        <s>Already this time <name type="person">Delaney</name> suspected him to be a criminal, without any evidence.</s>
+      </p>
+      <p>
+        <s>The excerpt starts with <name type="person">Delaney</name> <choice><orig>argueing</orig><reg>arguing</reg></choice> with <name type="person">Todd Sweet</name> about the gate, but <name type="person">Delaney</name> has already chosen <choice><orig>wheather</orig><reg>whether</reg></choice> he is pro or con, though he does not clearly <choice><orig>tells</orig><reg>tell</reg></choice> <name type="person">Todd</name> as he went into his street.</s>
+        <s><name type="person">Delaney</name> recognizes a man crossing his <choice><orig>neighbors</orig><reg>neighbor's</reg></choice> lawn, in fact that he knows his nieghbor is not home.</s>
+        <s>In the moment when he realizes that the man is <choice><orig>mexican</orig><reg>Mexican</reg></choice> he <choice><orig>immediatly</orig><reg>immediately</reg></choice> thinks he has a criminal aim.</s>
+        <s>He gets omre sure about that as he recognize him as a man he knew.</s>
+        <s><name type="person">Delaney</name> offends and threatens him by calling the police.</s>
+        <s><name type="person">José</name> seems to not care, though he is a criminal in this case he is just delivering <choice><orig>fliers</orig><reg>flyers</reg></choice>.</s>
+        <s>As <name type="person">Delaney</name> realizes what he did he is questioning himself what was he becoming.</s>
+        <s>The excerpt ends with <name type="person">Delaney</name> reading the <choice><orig>fliers</orig><reg>flyers</reg></choice> <name type="person">José</name> inserted in every home in <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> street.</s>
+        <s>It is a message from the president of the <name type="geo">Arroyo Blanco Estates</name> property owners association.</s>
+      </p>
+      <p>
+        <s>This excerpt is important for the character development <name type="person">Delaney</name> undergoes.</s>
+        <s>After this scene <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> attitude does not change <choice><orig>its</orig><reg>it's</reg></choice> getting even more racist, despite <name type="person">Delaney</name> rethinks his mindset.</s>
+        <s>Under the <foreign xml:lang="de">Influenz</foreign> of his neighbors and wife his racial prejudices manifest more and more over the time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g03_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his <quote>opening ceremony</quote> at <name type="misc">COP26</name> in <name type="geo">Glasgow</name> on <date>1 November 2021</date>, the <choice><orig>british</orig><reg>British</reg></choice> Prime Minister <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> addresses his speech specifically to the <name type="misc">COP26</name> World leaders and talks about having the duty to help to solve the problem about the climate crisis and to help to make a progress in next time for the future generations.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> has a specific picture of the climate crisis.</s>
+      </p>
+      <p>
+        <s>He thinks it is a big problem of the world and compares the rising temperature to the doomsday device.</s>
+      </p>
+      <p>
+        <s>He points out that in the last assemblies about the climate change the world did not really have made a progress except of the goal to stay under 1.5 degrees <choice><orig>temperatur</orig><reg>temperature</reg></choice> of the planet.</s>
+        <s>He points out that <name type="misc">COP26</name> should be a turning point and that we have the technology and the possibility to finance to solve this problem.</s>
+        <s>He thinks specifically everybody on the <name type="misc">COP26</name> conference can help by financing solutions for the climate crisis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

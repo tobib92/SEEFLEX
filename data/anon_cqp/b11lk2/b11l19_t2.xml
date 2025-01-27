@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given excerpt from the novel <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, that was written by <ref target="b11lk2_1" type="author">F. Scott Fitzgerald</ref> and published in <date>1925</date>, tells <ref target="b11lk2_1" type="character">Gatsby's</ref> and <ref target="b11lk2_1" type="character">Daisy Buchanan's</ref> reunion from <ref target="b11lk2_1" type="character">Nick Carraway's</ref> narrative perspective.</s>
+      </p>
+      <p>
+        <s>Compared to prior chapters and taking into consideration how <ref target="b11lk2_1" type="character">Jay Gatsby</ref> was presented in them, there is no doubt that his personality is drastically different in this scene.</s>
+      </p>
+      <p>
+        <s>The most important aspect, that characterizes <ref target="b11lk2_1" type="character">Gatsby</ref> in this particular scene, is his obvious nervousness when being around <ref target="b11lk2_1" type="character">Daisy Buchanan</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Nick's</ref> narrative perspective provides many examples, in which <ref target="b11lk2_1" type="character">Jay Gatsby</ref> is clearly nervous and perhaps even uncomfortable.</s>
+        <s>A very obvious example would be his constant use of exaggerations, in order to dramatise the situation at hand.</s>
+        <s>He uses these exaggerations, when <ref target="b11lk2_1" type="character">Gatsby</ref> shows up at his door after having fled the living room in fear and worry of having to reunite with <ref target="b11lk2_1" type="character">Daisy</ref>.</s>
+      </p>
+      <p>
+        <s>In this moment <ref target="b11lk2_1" type="character">Nick</ref> describes <ref target="b11lk2_1" type="character">Gatsby's</ref> apparence as <quote>pale as death</quote> <ref target="b11lk2_1" type="line">(p. 84, l. 14)</ref> and refers to his glance as tragic <ref target="b11lk2_1" type="line">(p. 84, l. 16)</ref>.</s>
+        <s>The use of the words death and tragically in the same sentence <choice><orig>remind</orig><reg>reminds</reg></choice> the reader of tragedy and death, which allows the reader to comprehend the suffering of <ref target="b11lk2_1" type="character">Gatsby</ref> as well as the drama and the gravity of the scene.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby's</ref> nervousness is also highlighted through other factors, such as him almost making the clock fall.</s>
+        <s>This is a sign of clumsiness, that we have not seen in any previous chapters <ref target="b11lk2_1" type="line">(p. 85, l. 5-7)</ref>.</s>
+        <s>If you put <ref target="b11lk2_1" type="character">Gatsby's</ref> behavior in this in contrast to his behavior in prior chapters, you will be able to see a meaningful change.</s>
+        <s>For one, he was depicted as a confident person, as he didn't care about the assumptions being made about him behind his back <ref target="b11lk2_1" type="line">(p. 64 l. 26-27)</ref>.</s>
+        <s>Yet in this scene, he's not only the complete opposite as he is clearly nervous which you can tell by his running out on <ref target="b11lk2_1" type="character">Daisy</ref> <ref target="b11lk2_1" type="line">(p. 84 l. 9-10)</ref> or by keeping his hands in his pockets the entire time <ref target="b11lk2_1" type="line">(p. 84 l. 27)</ref>, but he also shows that he cares about what <ref target="b11lk2_1" type="character">Daisy</ref> thinks of him.</s>
+        <s>As he invites her to take a look at his house it is perfectly clear that he wants her to like the house <ref target="b11lk2_1" type="line">(p. 87 l. 25-26)</ref>, yet as I mentioned before, he has never seemed to care about other <choice><orig>peoples</orig><reg>people's</reg></choice> opinion of him before.</s>
+      </p>
+      <p>
+        <s>It is also said in a previous chapter, that <ref target="b11lk2_1" type="character">Gatsby</ref> is a man who picks his words with care <ref target="b11lk2_1" type="line">(p. 50 l. 9-10)</ref>.</s>
+      </p>
+      <p>
+        <s>Comparing that characterisation of <ref target="b11lk2_1" type="character">Gatsby</ref> to his way of acting in this particular excerpt, there is a clear difference, as <ref target="b11lk2_1" type="character">Gatsby</ref> doesn't seem to talk much at all.</s>
+      </p>
+      <p>
+        <s>All throughout the excerpt there are pauses that <quote>endure horribly</quote> <ref target="b11lk2_1" type="line">(p. 84 l. 25)</ref>, as well as a lot of silence: <quote>I felt that silence had fallen within the house too</quote> <ref target="b11lk2_1" type="line">(p. 87 l. 5-6)</ref>, <quote>set us all back for at least another minute</quote> <ref target="b11lk2_1" type="line">(p. 85 l. 18-19)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby's</ref> incapability to pick any words, let alone with care, once again highlights his change in character and his nervousness.</s>
+      </p>
+      <p>
+        <s>Although there are plenty of differences between <ref target="b11lk2_1" type="character">Gatsby</ref> in other chapters and <ref target="b11lk2_1" type="character">Gatsby</ref> in this specific excerpt, there also happen to be some things, that these two characterizations of <ref target="b11lk2_1" type="character">Gatsby</ref> have in common.</s>
+      </p>
+      <p>
+        <s>A fairly obvious example would be his shyness or him being a quiet person.</s>
+        <s>As mentioned beforehand, <ref target="b11lk2_1" type="character">Gatsby</ref> does not talk a lot in this scene, as it is dominated by silence and pauses.</s>
+        <s>And eventhough there are high expectations for <ref target="b11lk2_1" type="character">Jay Gatsby</ref>, as so many people speculate about him, <ref target="b11lk2_1" type="character">Nick</ref> characterizes <ref target="b11lk2_1" type="character">Gatsby</ref> in the following way: <quote>I had talked with him perhaps half a dozen times in the past month and found, to my disappointment, that he had little to say</quote> <ref target="b11lk2_1" type="line">(p. 64 l. 12-14)</ref>.</s>
+        <s>This quotation from a previous chapter, shows how <ref target="b11lk2_1" type="character">Gatsby</ref> being quiet is not something, that is brought upon by <ref target="b11lk2_1" type="character">Daisy</ref> or newly introduced in this scene, but that it's just part of his character and has been for a few chapters.</s>
+        <s>However once <ref target="b11lk2_1" type="character">Gatsby</ref> <choice><orig>get's</orig><reg>gets</reg></choice> to know a person and actually feels comfortable around them, he tends to be very open and share a lot of thoughts, feelings or stories.</s>
+        <s>This can be seen in chapter 4, as <ref target="b11lk2_1" type="character">Gatsby</ref> opens up about his past, as well as traumatic experiences <ref target="b11lk2_1" type="line">(p. 65 l. 9)</ref>.</s>
+        <s>He is also open about his feelings in this scene, as he voices his doubts about reuniting with <ref target="b11lk2_1" type="character">Daisy</ref> to <ref target="b11lk2_1" type="character">Nick</ref>, by <choice><orig>sayin</orig><reg>saying</reg></choice> <quote>This is a terrible mistake</quote> <ref target="b11lk2_1" type="line">(p. 86 l. 1)</ref>.</s>
+      </p>
+      <p>
+        <s>Apart from that, he also opens up to <ref target="b11lk2_1" type="character">Daisy</ref> at the end of the excerpt.</s>
+      </p>
+      <p>
+        <s>By the end of the chapter <ref target="b11lk2_1" type="character">Nick</ref> finds <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> in the living room as <ref target="b11lk2_1" type="character">Daisy</ref> is crying.</s>
+      </p>
+      <p>
+        <s>However later on it is revealed, that <ref target="b11lk2_1" type="character">Daisy</ref> is crying out of joy, as <ref target="b11lk2_1" type="character">Nick</ref> says: <quote>Her throat, full of aching, grieving and beauty, told only of her unexpected joy</quote> <ref target="b11lk2_1" type="line">(p. 87 l. 23-24)</ref>.</s>
+      </p>
+      <p>
+        <s>Taking into consideration, that after being left alone with <ref target="b11lk2_1" type="character">Gatsby</ref>, <ref target="b11lk2_1" type="character">Daisy</ref> came out crying tears of joy, it can be speculated, that <ref target="b11lk2_1" type="character">Gatsby</ref> must've opened up his heart to her.</s>
+        <s><ref target="b11lk2_1" type="character">Nick's</ref> narrative perspective is very helpful and contributes a lot to <ref target="b11lk2_1" type="character">Gatsby's</ref> characterisation.</s>
+        <s>An important moment, that takes place in the given excerpt, that also shows how helpful <ref target="b11lk2_1" type="character">Nick's</ref> narrative perspective is, is the scene in which <ref target="b11lk2_1" type="character">Gatsby</ref> starts having second thoughts.</s>
+        <s>In this scene <ref target="b11lk2_1" type="character">Gatsby</ref> decides to voice these to <ref target="b11lk2_1" type="character">Nick</ref>, as he considers him a friend.</s>
+        <s>Had the story not been narrated by <ref target="b11lk2_1" type="character">Nick</ref>, we might not have been able to feel <ref target="b11lk2_1" type="character">Gatsby's</ref> doubts and worries in such a comfortable space.</s>
+        <s>Another important aspect of the chosen narrative perspective, is the effect of mystery.</s>
+        <s>Since this scene is told through <ref target="b11lk2_1" type="character">Nick's</ref> perspective, the reader has no way of knowing, what <ref target="b11lk2_1" type="character">Daisy</ref> and <ref target="b11lk2_1" type="character">Gatsby</ref> talked about in private, which is very important in order to keep a certain mystery and to intrigue the reader.</s>
+      </p>
+      <p>
+        <s>In conclusion it is fairly obvious, that <ref target="b11lk2_1" type="character">Gatsby's</ref> character goes through a lot of changes in personality in the given excerpt, yet he stays true to many characteristics, that he had in previous chapters.</s>
+        <s>This leads to the conclusion, that these significant changes are brought upon by <ref target="b11lk2_1" type="character">Daisy Buchanan's</ref> presence.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

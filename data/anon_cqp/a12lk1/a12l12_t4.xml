@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l12_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">William Shakespeare</name>? How Germans adore <name type="person">Shakespeare</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>We all know <name type="person">William Shakespeare</name> as a crosscultural literary figure famous for tragedies like <name type="misc">Romeo and Julia</name> or <name type="misc">Macbeth</name>.</s>
+        <s>But how does the English writer and poet got his universal appeal?</s>
+        <s>How does <name type="person">Shakespeare</name> become the most frequently performed playwright in the whole world?</s>
+      </p>
+      <p>
+        <s>Today, we will be discussing how his work become famous in central Europe, particularly in Germany.</s>
+        <s>I found an informative article dealing how <name type="person">Shakespeare</name> carved his way into German literature.</s>
+      </p>
+      <p>
+        <s>Firstly, the most important <choice><orig>contibutions</orig><reg>contributions</reg></choice> for the Shakespearean rise in German speaking countries made <name type="person">Christoph Martin Wieland</name>.</s>
+        <s><name type="person">Klaus Manger</name>, professor from <name type="geo">Jena</name> for Germanistikstates that <name type="person">Wieland</name> was the first ever German to translate various Shakespearean dramas.</s>
+        <s>Even though there already awere hints of other famous German writers like <name type="person">Goethe</name> or <name type="person">Herder</name> of reading the work of the English writer, <name type="person">Wieland</name> was primarily the one who contributed to <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> being well-known.</s>
+        <s>Between <date>1762</date> and <date>1766</date> 22 of his <choice><orig>translation</orig><reg>translations</reg></choice> were published in <name type="geo">Zurich</name>, marking the beginning of the rise.</s>
+        <s>The translation was slightly different from the original, <name type="person">Wieland</name> left some unpropriate parts out, in order to <quote>protect</quote> the high society.</s>
+        <s>However, it only brought more attention to the unique work of <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>Some years later, particularly, on the <date>8 April 1864</date> the <name type="misc">Shakespearean Society</name> was born.</s>
+        <s>In higher ranked society people like to read the Shakespearean comedies, tragedies, sonnets or narrative poem.</s>
+        <s>Together they created the <name type="misc">union of Shakespeare friends</name> and on his birthday they gatehred together to celebrate his <choice><orig>exellence</orig><reg>excellence</reg></choice>.</s>
+        <s>As some histories were presented by actors it inspired the people to found an <choice><orig>offical</orig><reg>official</reg></choice> union, the <name type="misc">Shakespeare society</name> which now is the oldest literary club in Germany.</s>
+      </p>
+      <p>
+        <s>All this happened in the cultural city <name type="geo">Weimar</name>.</s>
+        <s><name type="geo">Weimar</name> is now seen as the birth place of Shakespearean work spreading in Germany.</s>
+        <s>340 years later a statue of the famous writer was placed in the <name type="geo">Weimarer <choice><orig>parc</orig><reg>park</reg></choice></name>.</s>
+        <s>We can see how the author <gap reason="illegible" quantity="1" unit="word">oveseas</gap> influenced the city, even though he was already dead.</s>
+      </p>
+      <p>
+        <s>Today this club of classical literature is a part of <name type="misc">Unesco inheritance</name>.</s>
+      </p>
+      <p>
+        <s>I hope you found this <choice><orig>weeks</orig><reg>week's</reg></choice> blog interesting.</s>
+        <s>But what about you?</s>
+        <s>Is <name type="person">Shakespeare</name> well-known in your country?</s>
+        <s>Does he also have a statue in your hometown?</s>
+        <s>You can tell me and we will inform others about your story in the next <name type="misc">Global Shakespeare</name> post!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

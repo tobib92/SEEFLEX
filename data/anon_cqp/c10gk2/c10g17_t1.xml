@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g17_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the excerpt of his speech, he gave before a discussion <choice><orig>rond</orig><reg>round</reg></choice> with a students' roundtable in <choice><orig>april</orig><reg>April</reg></choice> <date>2009</date> in <name type="geo">Istanbul</name>, former president of the <name type="geo">United States of America</name>, <ref target="c10gk2_1" type="speaker">Barack Obama</ref>, talks about the importance of student exchanges.</s>
+        <s>In the beginning, he <choice><orig>menshions</orig><reg>mentions</reg></choice>, that his main goal is to make the relationship between the <name type="geo">US</name> and the <choice><orig>muslim</orig><reg>Muslim</reg></choice> world even stronger.</s>
+        <s>After that, he talks about the positive effects, like Americans who volunteer abroad that are willing to learn more about the world around them.</s>
+      </p>
+      <p>
+        <s>Then, he explains, that student exchanges lead to the reveal of common humanity what results in less mistrust we have against each other.</s>
+      </p>
+      <p>
+        <s>In the end he encourages the listener to change something and that the choice is up to them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Analyzing the article one can say that the author urges us to be more careful with our nature because the way we touch it, the more we have contact with wildlife and it's viruses.</s>
+        <s>He also urges us to see the pattern <gap reason="illegible" quantity="1" unit="word">whis</gap> is constantly repeating itself and to be less ignorant and change.</s>
+        <s>In order to deliver his message he uses <choice><orig>stricing</orig><reg>striking</reg></choice> stylistic devices such as references to the past and many <choice><orig>ennumerations</orig><reg>enumerations</reg></choice> as well as a clear line of argumentation.</s>
+        <s>First and foremost the <choice><orig>auther</orig><reg>author</reg></choice> refers to the <name type="misc">Ebola</name> virus and the story of how it spread back in <date>2013</date> in lines 7-10.</s>
+        <s>Knowing that we currently line in a similara situation this reference or allusion to the past <choice><orig>provoces</orig><reg>provokes</reg></choice> a feeling of nostalgia.</s>
+        <s>By saying that <quote>scientists think that</quote> <ref target="b12lk1_1" type="line">(l. 8)</ref> he refers to specialist which makes the article make serious and persuasive.</s>
+      </p>
+      <p>
+        <s>The author starts his next argument with the claim that <quote>Every pandemic starts like this</quote> <ref target="b12lk1_1" type="line">(l. 11)</ref>.</s>
+        <s>Using this very short sentence as paratax allows the reader to memorize this phrase in a better way and also makes the situation seem more dramatic.</s>
+      </p>
+      <p>
+        <s>He underlines this argument with many examples in lines 11-19.</s>
+        <s>For instance he refers to past viruses from the <date>1920s</date> such as <name type="misc">HIV</name> <ref target="b12lk1_1" type="line">(l. 12)</ref> as well as the current virus <name type="misc">Covid-19</name> <ref target="b12lk1_1" type="line">(l. 16)</ref>.</s>
+        <s>By putting this very similar situtions from different historical epochs next to each other the author puts emphasis on the big similarity of the start of pandemics, which makes his argument even more striking.</s>
+        <s>Moreover, he also ends his argument even more striking.</s>
+        <s>Moreover, he also ends his argument with the statement that because of our globalized world, which makes it easy for us to travel <ref target="b12lk1_1" type="line">(ll. 17-19)</ref>, viruses can spread more easily than in the past.</s>
+        <s>He ends this paragraph again with a short sentence, <quote>We're entering a new pandemic era</quote> <ref target="b12lk1_1" type="line">(l. 19)</ref>, which structures his argumentation between this and the first paratax.</s>
+        <s>Again, because it is such a short sentence it is more dramatic and has a bigger impact on the reader.</s>
+        <s>Furthermore, in his next argument he wants to make the point that viruses start in rural areas such as forests in <name type="geo">Africa</name> or the Amazon and that there people make contact with animals that carry for more viruses them we do <ref target="b12lk1_1" type="line">(ll. 20-26)</ref>.</s>
+        <s>He uses the metaphor <quote>edges of the forests</quote> <ref target="b12lk1_1" type="line">(l. 20)</ref>, by which he wants to say that these viruses start from very rural areas that should normally not be <choice><orig>accesable</orig><reg>accessible</reg></choice> for humans.</s>
+        <s>By using this metaphor he intensifies the picture of the fact that it seems very far away from us.</s>
+        <s>He also uses many numbers from statistics, for instance, <quote>1.7m viruses</quote> that exists in the animal world <ref target="b12lk1_1" type="line">(l. 23)</ref> or the fact that we know only <quote>0.1%</quote> of them <ref target="b12lk1_1" type="line">(l. 24)</ref>.</s>
+        <s>Using numbers from statistics makes this article more srious and also makes the author seem like an expert that knows the numbers and statistics which all <choice><orig>togeather</orig><reg>together</reg></choice> make his argument convincing.</s>
+        <s>Additionally, he makes the point that because there are only that little viruses that have been transmitted to humans we are actually lucky.</s>
+        <s>This contrast shows how drastic the situation is.</s>
+      </p>
+      <p>
+        <s>In addition to that, he argues that because of globalization and the fact our world is so networked and connected viruses can spread more easily <ref target="b12lk1_1" type="line">(ll. 27-29)</ref>.</s>
+        <s>According to hum, this is due to the <quote>acceleration of acticity</quote> <ref target="b12lk1_1" type="line">(ll. 29-30)</ref>.</s>
+        <s>To underline this so called <quote>acceleration of human activity</quote> <ref target="b12lk1_1" type="line">(l. 29f.)</ref> the author uses an enumeration in line 30 <quote>landscapes, oceans and athmospheres</quote>.</s>
+        <s>This <choice><orig>ennumeration</orig><reg>enumeration</reg></choice> of many various places gives us a more intense picture of how much humans have spread in order to settle and do agriculture.</s>
+        <s>The use of the specific key term <quote>Anthropocere</quote> <ref target="b12lk1_1" type="line">(l. 29)</ref> which he then <choice><orig>explaines</orig><reg>explains</reg></choice>, make the impressions that he is an expert and makes the article again more serious and convincing.</s>
+      </p>
+      <p>
+        <s>In the next paragraph he continues the argument he made before by saying that because humans have contact with wildlife viruses spread <ref target="b12lk1_1" type="line">(ll. 32-35)</ref>.</s>
+        <s>To illustrate this claim he uses the <choice><orig>ennumeration</orig><reg>enumeration</reg></choice> of many <choice><orig>diffent</orig><reg>different</reg></choice> viruses from the past, such as <quote>Zika, Ebola and Nipah</quote> <ref target="b12lk1_1" type="line">(l. 34)</ref> as well as the current <name type="misc">Covid-19</name>, which was transmitted inthe same way.</s>
+        <s>This makes the argument more intense and persuasive.</s>
+        <s>He also uses direct address by saying <quote>from [...] China to a city near you</quote> <ref target="b12lk1_1" type="line">(ll. 34f.)</ref>.</s>
+        <s>By directly addressing the reader, we feel nearer to the article and author and because it is such an <choice><orig>essencial</orig><reg>essential</reg></choice> topic in our current life he could perhaps appeal to the readers emotions.</s>
+      </p>
+      <p>
+        <s>In the following, the author explains that <quote>our current approach is to wait</quote> <ref target="b12lk1_1" type="line">(l. 37)</ref> and then look for solutions when it is already to late.</s>
+        <s>To intensify this argument he uses the big number of <quote>hundreds of thousands</quote> <ref target="b12lk1_1" type="line">(l. 38)</ref> in order to show how dramatic our way with dealing with <choice><orig>pandamics</orig><reg>pandemics</reg></choice> is.</s>
+        <s>To illustrate this picture he again refers to an older virus <quote>H1N1</quote> <ref target="b12lk1_1" type="line">(l. 40)</ref> from <date>2009</date> to give the reader an example.</s>
+      </p>
+      <p>
+        <s>He also uses <choice><orig>inclusiv</orig><reg>inclusive</reg></choice> language in l. 36 <quote>our current approach is...</quote> which creates the feeling of <choice><orig>inclusiv</orig><reg>inclusive</reg></choice> guilt.</s>
+        <s>In the last two paragraphs he invocates to the readers and tells them that we need to keep distance between us and nature to prevent us from being contaminated with animal viruses.</s>
+        <s>To make this clear he uses direct address in <quote>we will</quote> <ref target="b12lk1_1" type="line">(l. 42)</ref> and <quote>we should</quote> <ref target="b12lk1_1" type="line">(l. 46)</ref> so that he appeals to the readers and make them feel included.</s>
+        <s>To give hope he uses the example of campaigns against palm oil <ref target="b12lk1_1" type="line">(l. 49)</ref> to show what we have already achieved.</s>
+      </p>
+      <p>
+        <s>Last but not least he states that we should see this pandemic as an opportunity to learn from our mistakes and that this pandemic has shown us how <choice><orig>fragil</orig><reg>fragile</reg></choice> our world is and that we have to start to respect nature and be less ignorant.</s>
+        <s>Therefore he uses the <choice><orig>ennumeration</orig><reg>enumeration</reg></choice> of the small animals <quote>butterfly, frog or fish</quote> <ref target="b12lk1_1" type="line">(l. 54)</ref> to show that even small things can have huge impacts.</s>
+        <s>The author uses a very elevated language level but also short forms and his tone foes from neutral at the beginning to hopeful.</s>
+      </p>
+      <p>
+        <s>To sum this line of argumentation up, one can say that the author delivers a clear message, of that we should lower our contacts with nature by destroying it and using it for ourselves, by using especially <choice><orig>ennumerations</orig><reg>enumerations</reg></choice> and examples to appeal to the reader and convince him of his statements.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l01_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="explaining" genre_family="factorial explanation">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="b12lk1_1" type="title">We are entering an era of pandemics - it will end only when we protect the rainforest</ref> by <ref target="b12lk1_1" type="author">Peter Daszak</ref> published <date>28. July 2020</date> on the website <name type="misc">The Guardian</name> is about the arise, spread and prevention of pandemics.</s>
+        <s>The text can be divided into 3 parts, the arise <ref target="b12lk1_1" type="line">(l. 7-26)</ref>, the spread <ref target="b12lk1_1" type="line">(l. 27-35)</ref> and the prevention <ref target="b12lk1_1" type="line">(l. 36-56)</ref>.</s>
+      </p>
+      <p>
+        <s>The author states, that pandemics can arise very easily for example by eating or being near wildlife.</s>
+      </p>
+      <p>
+        <s>The arise is most likely to happen in so called <quote>disease hotspots</quote> like edges of forests with a variety of wildlife which carry viruses.</s>
+      </p>
+      <p>
+        <s>Due to globalization, which changed a lot of wildlife habitat into human agriculture makes humans much more likely to encounter a disease and spread it.</s>
+      </p>
+      <p>
+        <s>The spreading also happends in a much faster pace since globalization enables us to travel around the world and communicate with everyone, which makes the virus travel around the world as well.</s>
+      </p>
+      <p>
+        <s>The author describes out current methods of preventing pandemics as waiting for outbreaks to start and then creating vaccines or drugs to stop them which is inefficient since the virus spreads until a vaccine is created.</s>
+      </p>
+      <p>
+        <s>He suggests that we stop the <choice><orig>arrise</orig><reg>arise</reg></choice> of a pandemic from the start which means protecting wildlife and nature and therefore ourselves.</s>
+      </p>
+      <p>
+        <s>He says that consumption needs to be reduced and to stop deforestation and wildlife exploitation.</s>
+      </p>
+      <p>
+        <s>As well as protecting risk species, stop illegal wildlife trades and put pressure on industries that don't follow those rules.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

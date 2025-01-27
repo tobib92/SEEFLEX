@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12l33_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>There are, just as with most things two sides to the question <choice><orig>wether</orig><reg>whether</reg></choice> <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> should be part of the curriculum in school.</s>
+      </p>
+      <p>
+        <s>On the one hand one could argue that it is quite hard to understand since the <choice><orig>english</orig><reg>English</reg></choice> of the Elizabethan era is quite different from today's modern <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Additionally <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> talks through symbols and metaphors which makes it extra hard for a student to understand him.</s>
+        <s>Another argument one could bring up is that he does not discuss modern problems that concern <choice><orig>todays</orig><reg>today's</reg></choice> generations <add>the climate crisis for example</add>.</s>
+        <s>Making the Contant seem useless for some.</s>
+        <s>A third argument would be that the younger generation does not care about poetry which means they will not pay attention during the time <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is taught.</s>
+      </p>
+      <p>
+        <s>On the other hand you could argue that although climate change is not a topic he talks about, nature itself in fact is.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> discusses timeless <choice><orig>topic's</orig><reg>topics</reg></choice> which are relevant to every generation such as love, time, beauty and death.</s>
+        <s>Additionally although the language and symbols <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> uses or not the easiest to understand they are much more effective at getting the message across.</s>
+        <s>Since they are open for interpretation everyone can find something that speaks to him/her in <name type="person"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></name> poetry.</s>
+        <s>Last but not least the argument that school is possibly the only point in our busy <choice><orig>lifes</orig><reg>lives</reg></choice> where one is able to come in contact with his poetry can be brought up.</s>
+        <s>Which would mean that if he was not taught in school lesson less people will know about him.</s>
+        <s>And if <choice><orig>noone</orig><reg>no one</reg></choice> reads <name type="person"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></name> poetry anymore the immortality would fade away and the hopes that his poetry will stand the test of time will be let down which would be quite a shame honestly.</s>
+      </p>
+      <p>
+        <s>Which brings me to the conclusion that in my opinion <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> is still to this day very relevant and helpful for the development of <choice><orig>ones</orig><reg>one's</reg></choice> persona and should therefore be taught in school.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

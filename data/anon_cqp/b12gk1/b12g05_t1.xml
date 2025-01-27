@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g05_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is an excerpt of <ref target="b12gk1_1" type="speaker">Boris Johnson's</ref> speech at <name type="misc">COP26 World Leader's Summit Opening Ceremony, 2021</name>.</s>
+        <s>He talks about the importance of finally beginning to act against climate change, as the governments.</s>
+      </p>
+      <p>
+        <s>He compare is the climate change to a doomsday device in a <name type="person">James Bond</name> movie.</s>
+        <s>While saying that they have to deactivate the device and act against climate change, he also points out that he thinks the 1.5 degree goal or the net zero aren't enough to stop it.</s>
+        <s>The ability to make a change regarding problems like coal, cars and decoration is given.</s>
+        <s><ref target="b12gk1_1" type="speaker">Johnson</ref> thinks that it is the will to make a change, that is lacking.</s>
+        <s>But the future generations need them to find that will.</s>
+        <s>He states hour postponing the problem to <date>2050</date> or <date>2060</date> want help, saying that it will be too late.</s>
+        <s>He sees the <name type="misc">COP26</name> as an opportunity to finally take action against climate change.</s>
+        <s>That it is the last chance to not let the future generations down, which will be in anger if they fail.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

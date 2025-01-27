@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g29_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="hortatory exposition">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>to: <name type="person">Mr. Rump</name>
+		school district, <name type="geo">Texas</name>
+		from: <name type="person">John Smith</name>
+		<name type="geo">school in Cologne, NRW</name>
+		<date>8th of December 2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I recently read the novel <name type="misc">The Hate U Give</name> by <ref target="a11gk3_1" type="author">Angie Thomas</ref> which seems to be banned in your school.</s>
+        <s>The reasons given are the language used in the book and the sexual references.</s>
+      </p>
+      <p>
+        <s>But I believe those are invalid reasons to ban a book it they are just as minor as they are in this novel.</s>
+      </p>
+      <p>
+        <s>The only real sexual references are situations where one wants to do it and the other does not.</s>
+        <s>And because the person who wanted to do it accepts this decision it is totally acceptable to put these scenes in a book because it is really important to know that you have to respect each other in a relationship like that.</s>
+      </p>
+      <p>
+        <s>I can understand why you and others might be offended or irritated by the offensive and sometimes vulgar language but I think it is not reasonable to ban a book for language as minor as in this novel.</s>
+      </p>
+      <p>
+        <s>But the most important aspect is the subject of racism that is described <choice><orig>beautyfully</orig><reg>beautifully</reg></choice> in this novel.</s>
+        <s>The struggles prejudices and differences can be understood by everyone and I think it is important to at least understand why and how black people feel so we can change the world for the better.</s>
+        <s>I do not necessarily want to call you a racist but you would definitely show that you are not a racist if you would allow the book in the library of your school.</s>
+      </p>
+      <p>
+        <s>I also think that we should show and tell the children not only in <name type="geo">America</name> but worldwide what the problems of our society are so they do not even start to ignore them and this novel is a <choice><orig>beautyful</orig><reg>beautiful</reg></choice> way of doing this.</s>
+      </p>
+      <p>
+        <s>In a <choice><orig>Nutshell</orig><reg>nutshell</reg></choice> I would recommend allowing this novel not only because of the theme but also because it is a very well written book.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, John Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12l25_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The question that should be answered in the end of this discussion is <quote>Are the works from Shakespeare still relevant today or outdated</quote>?</s>
+      </p>
+      <p>
+        <s>So first we can say that <name type="person">Shakespeare's</name> works are full of emotions like love, hate, fear, etc.</s>
+        <s>It makes the text nice to read and to understand.</s>
+        <s>The reader will get <choice><orig>catched</orig><reg>caught</reg></choice> in the <choice><orig>characters</orig><reg>characters'</reg></choice> feelings and in the action.</s>
+        <s>Today, theatres are still performing <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> plays, on the one hand because of <choice><orig>it's</orig><reg>its</reg></choice> entertainment to the audience and on the other hand because of the different setting of <name type="person">Shakespeare's</name> stage.</s>
+        <s>The stage is built in three parts.</s>
+        <s>Under the stage is the hell located, on the stage the earth and up to roof there's the heaven.</s>
+        <s>Additionally are <name type="person">Shakespeare's</name> plays historical for the whole world of theatres.</s>
+        <s>Many actors and directors today are flashed of his work and the playwrights write down the modern plays in <name type="person">Shakespeare</name> style.</s>
+      </p>
+      <p>
+        <s>The modern schools also discuss the plays of <name type="person">Shakespeare</name> in class because of the historical meaning.</s>
+      </p>
+      <p>
+        <s>But there also are facts to concentrate why the <choice><orig>play's</orig><reg>plays</reg></choice> of <name type="person">Shakespeare</name> are outdated today.</s>
+      </p>
+      <p>
+        <s>For the first point the language of his plays is very old and hard to understand for people from the ninety and twenty century.</s>
+        <s>So young people are bored byreading <name type="person">Shakespeare</name> or are not interested to read it.</s>
+        <s>Therefore, some other playwrights wrote <name type="person">Shakespeare's</name> plays in modernized versions, that young people could read it.</s>
+        <s>The problem of that is that the original meaning of the text will get forgotten, so young people would think the modernised version is the original.</s>
+      </p>
+      <p>
+        <s>The choice of the different species of the modern theatres is huge.</s>
+        <s>The <name type="person">Shakespeare</name> theatre could therefore be forgotten as well for many people.</s>
+      </p>
+      <p>
+        <s>To conclude this discussion it is to say that both arguments are strong enough to give the reader an own opinion.</s>
+      </p>
+      <p>
+        <s>So in my opinion the works of <name type="person">Shakespeare</name> are still relevant because of the historic importance and the variety of his works.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

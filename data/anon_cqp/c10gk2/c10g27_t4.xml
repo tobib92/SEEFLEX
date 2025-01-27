@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g27_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Being a volunteer in <name type="geo">India</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>This is out of an extract from a text written by an 18-year-old German volunteer who worked in an <name type="misc">Education Center</name> for children, located in a slum of <name type="geo">Delhi</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca's</name> week started with breakfast at 8:30, every day.</s>
+        <s>At 10:00 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> <name type="person">Bianca</name> needed to leave her flat to drive to the education centre and teached the <choice><orig>boy's</orig><reg>boys</reg></choice> the <choice><orig>english</orig><reg>English</reg></choice> grammatics between 10:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> and 11:30 or 12:00 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>Her break was between 12 and 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>, where she was able to eat or just take some time for herself.</s>
+      </p>
+      <p>
+        <s>Then it was the <choice><orig>girls</orig><reg>girls'</reg></choice> part to learn grammatics from 2 to 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>What she liked the most was spending time with the Indian children.</s>
+        <s>She instantly loved them from the first second.</s>
+        <s>They were filled with love and curiousity for her way of life.</s>
+        <s>She said, that she will always keep them in mind, because they were so special and have had so much <choice><orig>Happiness</orig><reg>happiness</reg></choice> in them.</s>
+        <s>Even though they went through so much in their past, they were the happiest, <name type="person">Bianca</name> told.</s>
+        <s>Of course it wasn't always easy, because she also was tired sometimes, but it was <name type="person"><choice><orig>Biancas</orig><reg>Bianca's</reg></choice></name> favourite thing to do in <name type="geo">India</name>.</s>
+        <s>Just spending time with them, because they gave her so much love and peace.</s>
+        <s>Different <choice><orig>then</orig><reg>than</reg></choice> in <name type="geo">Germany</name>.</s>
+        <s>She loved those days.</s>
+        <s>They must have been very <choice><orig>thankfull</orig><reg>thankful</reg></choice>, that's what <name type="person">Bianca</name> mentions very often.</s>
+      </p>
+      <p>
+        <s>So all in all it must have been such a nice journey and <name type="person">Bianca</name> definitely seems like she would always do that again, because she had such a great time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g48_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Now I will comment on the impact the film <ref target="b10gk5_1" type="title">The Hate U Give</ref> had on me.</s>
+        <s>The story is in my eyes a very strong and emotional one and really impactes the viewer but in my eyes the use of dramatic stylistic devices in so many scenes was <choice><orig>to</orig><reg>too</reg></choice> much and didn't support the story telling.</s>
+      </p>
+      <p>
+        <s>I think the presentation of teenage life was very accurate and helped me to identify with <ref target="b10gk5_1" type="character">Starr</ref> as a person.</s>
+        <s>Another very good thing about the film was <ref target="b10gk5_1" type="character">Chris</ref> as a character because he in some way he represents my situation with the topic racism and police brutality because I'm not the white person that isn't aware of the problem and makes racist comments like <ref target="b10gk5_1" type="character">Hailey</ref> but I also had a distance to <ref target="b10gk5_1" type="character">Starr's</ref> character or couldn't fully identify with her because I don't experience the same problems as she does.</s>
+        <s>But <ref target="b10gk5_1" type="character">Chris</ref> is in the middle.</s>
+        <s>He is white and sometimes isn't aware of every problem or problematic comment but he tries to understand <ref target="b10gk5_1" type="character">Starr</ref> and help her.</s>
+        <s>So his character helps me to understand the problem but alos learn more things about racism.</s>
+        <s>I also think that some people might be able to identify with <ref target="b10gk5_1" type="character">Maya</ref> because she doesn't always experience racism at school but also understands why <ref target="b10gk5_1" type="character">Starr</ref> <choice><orig>get's</orig><reg>gets</reg></choice> angry at some points.</s>
+        <s>So the film really educated me on racism and really helps to understand the problem because you experience it from a character's perspective and that makes it more <choice><orig>lifely</orig><reg>lively</reg></choice> and more interesting than just watching a documentary or the news.</s>
+        <s>At some points I thought that the changes that were made in comparison to the book <choice><orig>where</orig><reg>were</reg></choice> <choice><orig>unnecesarry</orig><reg>unnecessary</reg></choice> or even very bad because in the scene where <ref target="b10gk5_1" type="character">Khalil</ref> <choice><orig>get's</orig><reg>gets</reg></choice> shot and he takes a hairbrush out of the car.</s>
+        <s>This gave the officer more of a reason to kill him and might justify it a little bit and with that would tell the story of <ref target="b10gk5_1" type="character">Khalil's</ref> death very <choice><orig>diffrently</orig><reg>differently</reg></choice>.</s>
+        <s>But all in all the film really tells the <choice><orig>storry</orig><reg>story</reg></choice> in an <choice><orig>impactfull</orig><reg>impactful</reg></choice> moving way that makes the viewer think about the topics a little more and might change some <choice><orig>peoples</orig><reg>people's</reg></choice> mindsets or behavior.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

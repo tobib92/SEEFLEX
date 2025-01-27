@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g51_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will comment on the impact that books can have on people and <choice><orig>espacally</orig><reg>especially</reg></choice> how <ref target="b10gk5_1" type="title">The Hate U Give</ref> changed my <choice><orig>perspectiv</orig><reg>perspective</reg></choice> on <choice><orig>certan</orig><reg>certain</reg></choice> things.</s>
+        <s>In my opinion the <choice><orig>Book</orig><reg>book</reg></choice> is very good in showing how racism can <choice><orig>effect</orig><reg>affect</reg></choice> people and how <choice><orig>racim</orig><reg>racism</reg></choice> still to this day takes place in out society.</s>
+        <s>It showed that police brutality still exists and how unfair people can become when it comes to race.</s>
+        <s>I already knew how racism is <choice><orig>an</orig><reg>a</reg></choice> big problem in society, but before <ref target="b10gk5_1" type="title">The Hate U Give</ref> I didn't <choice><orig>realis</orig><reg>realize</reg></choice> so many people suffer so much over it.</s>
+        <s>I also hadn't realised that people who you can call <choice><orig>Friends</orig><reg>friends</reg></choice> or even family can do racist things even if they don't want to or if they think they did nothing wrong.</s>
+        <s>I think the <choice><orig>Author</orig><reg>author</reg></choice> of the book did a great job at writing it, because the book has lots of <choice><orig>potentciall</orig><reg>potential</reg></choice> on changing <choice><orig>peoples</orig><reg>people's</reg></choice> views on racism and even helping them to <choice><orig>aknowlig</orig><reg>acknowledge</reg></choice> big as well as small racist things and making them fight against them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

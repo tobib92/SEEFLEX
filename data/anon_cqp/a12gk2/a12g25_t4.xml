@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g25_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey <name type="person">Michael</name>,</salute>
+      </p>
+      <p>
+        <s><choice><orig>yesterday</orig><reg>Yesterday</reg></choice><add>written on <date>16th July 2015</date></add> I came across an article in the newspaper <name type="misc">Hannoversche Allgemeine Zeitung</name>.</s>
+        <s>The author <ref target="a12gk2_2" type="author">Marina Kormbaki</ref> <choice><orig>descibes</orig><reg>describes</reg></choice> the development of more and more English-speaking people coming to <name type="geo">Berlin</name>.</s>
+        <s>I thought you might be interested what she gives as reasons since you thought of spending a year in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>As already mentioned, <ref target="a12gk2_2" type="author">Kormbaki</ref> describes the immigration of <choice><orig>hundred-thousands</orig><reg>hundred thousands</reg></choice> of Englishmen, Americans, Canadians etc to <name type="geo">Berlin</name>.</s>
+        <s>In some parts of <name type="geo">Berlin</name>, almost nobody speaks German, but English or <choice><orig>Turkey</orig><reg>Turkish</reg></choice>.</s>
+        <s>Also the food of the shops are influenced by English culture.</s>
+      </p>
+      <p>
+        <s><name type="person">Orla Baumgarten</name> is woman from <name type="geo">Ireland</name> and gets interviewed by <ref target="a12gk2_2" type="author">Kormbaki</ref>.</s>
+        <s>She opened a bookshop and sells used English books there.</s>
+        <s>Her main reasons for moving to Berlin is the flaire of <choice><orig>a</orig><reg>an</reg></choice> international city combined with the payable prices.</s>
+      </p>
+      <p>
+        <s>After all, she describes a quite welcome, <quote>open</quote> affordable, but still international portray of <name type="geo">Berlin</name>.</s>
+        <s>I hope the article helps you with your decision.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

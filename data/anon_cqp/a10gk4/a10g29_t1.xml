@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g29_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text by <ref target="a10gk4_1" type="author">Ankita Mitra</ref> published on the <date>5th February 2014</date> on a blog on <choice><orig>Environment</orig><reg>environment</reg></choice> is about the harmful products that people use and the pollution through these products.</s>
+      </p>
+      <p>
+        <s>In the first paragraph the author <choice><orig>entlightnes</orig><reg>enlightens</reg></choice> the reader from the pollution in the air, soil and water.</s>
+        <s>Mostly it is plastic waste, toxic substances and automobiles or other traffic.</s>
+        <s>She explains that there has been a huge growth with urbanization and industrialization.</s>
+        <s>We are using many <choice><orig>rescources</orig><reg>resources</reg></choice> to live and we are <choice><orig>loosing</orig><reg>losing</reg></choice> control.</s>
+        <s>We all need water and sustenance to live and the waste of these living standards is <choice><orig>extremly</orig><reg>extremely</reg></choice> high.</s>
+      </p>
+      <p>
+        <s>The author explains that all products are contaminated today and the biggest pollution is from the gases from cars or other traffic.</s>
+        <s>In the last paragraph she shows <choice><orig>a</orig><reg>an</reg></choice> example of a follow from <choice><orig>to</orig><reg>too</reg></choice> much toxic and poison leakage, because a manufactury exploded.</s>
+        <s>Some countries reset their consumption and the whole world <choice><orig>have</orig><reg>has</reg></choice> to work on this problem.</s>
+      </p>
+      <p>
+        <s>To conclude the author states that the environment is <choice><orig>extremly</orig><reg>extremely</reg></choice> <foreign xml:lang="de">belastet</foreign> and <foreign xml:lang="de">verschmutzt</foreign>, through the people and <choice><orig>factorys</orig><reg>factories</reg></choice>.</s>
+      </p>
+      <p>
+        <s>She also states that we need to change our consumption, because <choice><orig>other wise</orig><reg>otherwise</reg></choice> it's getting worser.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

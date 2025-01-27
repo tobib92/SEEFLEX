@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g03_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The character <ref target="b11gk1_1" type="character">Helen</ref>, from the novel <ref target="b11gk1_1" type="title">Gun Love</ref>, written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>, published in <date>2019</date>, is a very confused and pitiful character because has been through too many foster homes.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is <choice><orig>a</orig><reg>an</reg></choice> eight <choice><orig>years</orig><reg>year</reg></choice> old female foster child.</s>
+        <s>She doesn't look like eight, she <quote>looks about five</quote> <ref target="b11gk1_1" type="line">(l. 2)</ref>, this is also a reason why she is tinier than <ref target="b11gk1_1" type="character">Pearl</ref>, who is very tiny too.</s>
+        <s>The information where she was born, or if she got any siblings, is unclear because she lived all her life at a foster home and she thinks that she is from <name type="geo">Ethiopia</name> and <name type="geo">Finland</name>, she was born in a house, and in a hospital, and she got ten brothers, a twin brother, eleven sisters and two twin sisters <ref target="b11gk1_1" type="line">(comparatively l. 7-9)</ref>.</s>
+      </p>
+      <p>
+        <s>All beside this <ref target="b11gk1_1" type="character">Helen</ref> is loyal and likes cats and forehead kisses <ref target="b11gk1_1" type="line">(l. 14, l. 19, l. 34-35)</ref>.</s>
+        <s>She likes cats that much that she behaves sometimes like a cat, for example she crawls over to <ref target="b11gk1_1" type="character">Pearl</ref> and rubbs her forehead against <ref target="b11gk1_1" type="character">Pearl's</ref> upper arm <ref target="b11gk1_1" type="line">(l. 41-42)</ref>.</s>
+        <s>Maybe she behaves like a cat because many people like cats and she also wants to be liked or accepted.</s>
+        <s>Everyone treats cats good and she was treated very badly, so she tries to behave like a cat to get treated better.</s>
+        <s>She often speaks about her in the third <choice><orig>pearson</orig><reg>person</reg></choice> what causes a mental illness <ref target="b11gk1_1" type="line">(l. 17)</ref>.</s>
+      </p>
+      <p>
+        <s>She also knows some tricks to get a big effect for nearly no money, like putting clothers with bugs into the microwave to kill the bugs.</s>
+        <s>This shows the hard things she lived <choice><orig>trough</orig><reg>through</reg></choice> and the bad living conditions at the foster homes before.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> got a good relationship to <ref target="b11gk1_1" type="character">Leo</ref>, <ref target="b11gk1_1" type="character">Pearl</ref>, <ref target="b11gk1_1" type="character">Lulu</ref>, <ref target="b11gk1_1" type="character">Gina</ref> and <ref target="b11gk1_1" type="character">Romey</ref>, so she isn't <choice><orig>compleately</orig><reg>completely</reg></choice> alone.</s>
+        <s>These friends give her a sense of life.</s>
+        <s>Poorly beside these friends she hasn't got any sense of life, like <ref target="b11gk1_1" type="character">Pearl</ref> analyses <ref target="b11gk1_1" type="line">(l. 23)</ref>.</s>
+      </p>
+      <p>
+        <s>To sum it up <ref target="b11gk1_1" type="character">Helen</ref> is a <choice><orig>pearson</orig><reg>person</reg></choice> with a good soul living a cracked <choice><orig>live</orig><reg>life</reg></choice> she doesn't <choice><orig>deserves</orig><reg>deserve</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Through this characterisation I can point out <ref target="b11gk1_1" type="character">Helen's</ref> problems now.</s>
+      </p>
+      <p>
+        <s>At first she is undernourished because she never got something to eat because she was treated so badly and also because of this she drinks not enough <ref target="b11gk1_1" type="line">(l. 19)</ref>.</s>
+      </p>
+      <p>
+        <s>The second, also very big, problem is her mental illness.</s>
+        <s>She had been <choice><orig>trough</orig><reg>through</reg></choice> too many foster homes that dulled <add>(hat abgestumpft S. 875 im Wörterbuch)</add> her personality.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> the bad treatening she tries to be a cat what underlines her mental illness.</s>
+        <s>How bad the mental illness is shows the thought of <ref target="b11gk1_1" type="character">Pearl</ref>: <quote>There was no way to follow her and attempt to make sense of her life</quote> <ref target="b11gk1_1" type="line">(l. 22-23)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

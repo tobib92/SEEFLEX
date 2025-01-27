@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g71_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author starts with a shocking fact to get the <choice><orig>readers</orig><reg>reader's</reg></choice> attention and attract the right target group: The middle-right conservastists of <name type="geo">Great Britain</name> who are looking at the immigrants with a suspicious look.</s>
+        <s>It's <choice><orig>conspiciuous</orig><reg>conspicious</reg></choice> that the author puts in the end of every paragraph a controversial statement or argument to either scare the readers or to underline his arguments of the paragraph.</s>
+      </p>
+      <p>
+        <s>The metaphor <quote>Every year Bangladeshis sit at the bottom of educational achievement</quote> <ref target="c10gk5_1" type="line">(l. 7)</ref> explains the bad and unchanging level of education in a pictorial way to get the message better to the reader.</s>
+        <s>The <choice><orig>metapher</orig><reg>metaphor</reg></choice> in line 9 and 10 <quote>extremists in the mosque or the gangs in the streets</quote> is a again a good way to deliver the message <choice><orig>succesfully</orig><reg>successfully</reg></choice> to the reader.</s>
+        <s>The majority of us had no experience with extremists or gangs but we all know mosque or some dangerous streets.</s>
+        <s>What the author does here is to link the dangerous and scary organisations with ordinary, normal things in our <choice><orig>everydays</orig><reg>everyday</reg></choice> life to connect the fear to something we all know.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>metapher</orig><reg>metaphor</reg></choice> <quote>you don't learn to stand on your own two feet if someone is holding you up</quote> <ref target="c10gk5_1" type="line">(l. 18-19)</ref> is a simple and easy way to say that you can't learn to live in <name type="geo">Great Britain</name> with all the rules and culture you have to acknowledge when someone gives you a way to avoid such things.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

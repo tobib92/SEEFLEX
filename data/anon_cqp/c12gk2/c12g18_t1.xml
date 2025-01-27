@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g18_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract <name type="misc">Lady Macbeth persuades her husband</name> is from <ref target="c12gk2_1" type="title">Macbeth</ref>, <choice><orig>Act</orig><reg>act</reg></choice> 1, <choice><orig>Scene</orig><reg>scene</reg></choice> 7 and is written from <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Scene</orig><reg>scene</reg></choice> shows a conversation between <name type="person">Lady Macbeth</name> and her husband <name type="person">Macbeth</name>, the future king of <name type="geo">Scotland</name>.</s>
+        <s>But <name type="person">Macbeth</name> wants to be <choice><orig>King</orig><reg>king</reg></choice> now so he has to kill <name type="person">Duncan</name>.</s>
+        <s><name type="person">Macbeth</name> though if it's right to kill him so <name type="person">Lady Macbeth</name> wants to convince <name type="person">Macbeth</name> to do it.</s>
+      </p>
+      <p>
+        <s>She makes a plan, how her husband can do it.</s>
+        <s>She wants to invite <name type="person">Duncan</name> and his chamberlains.</s>
+        <s><name type="person">Lady Macbeth</name> wants to make them drunk, so it is more easy for <name type="person">Macbeth</name> to kill <name type="person">Duncan</name>.</s>
+        <s><name type="person">Macbeth</name> stays undecided, but he <choice><orig>know</orig><reg>knows</reg></choice> he must kill <name type="person">Duncan</name> at this evening to be the new <choice><orig>King</orig><reg>king</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

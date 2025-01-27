@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l38_t2</author>
+        <name>characterize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">characterize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following, <name type="person">Shylock</name> will be characterized in the given scene concentrating on the use of language and stylistic devices.</s>
+      </p>
+      <p>
+        <s>Throughout the excerpt, <name type="person">Shylock</name> talks much longer than <name type="person">Tubal</name>.</s>
+        <s>Moreover, he interrupts him <ref target="a12lk3_1" type="line">(l. 11)</ref> and generally leads the conversation by questioning <name type="person">Tubal</name> and in the end also ordering him to get an officer <ref target="a12lk3_1" type="line">(l. 27)</ref>.</s>
+        <s>This portrays him superior to <name type="person">Tubal</name> and shows that <name type="person">Tubal</name> respects <name type="person">Shylock</name> for he does not complain or say anything against <name type="person">Shylock</name>.</s>
+      </p>
+      <p>
+        <s>Furthermore, <name type="person">Shylock</name> appears very angry about <name type="person">Jessica's</name> eloping which he shows in the parallelism in line 5-7.</s>
+        <s>There, he says that he wishes her dead at his foot with the things she took from him in her and in her coffin.</s>
+        <s>He seems very harsh and hateful towards <name type="person">Jessica</name> because he wishes his own daughter nothing but death.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> uses a reversed parallelism <quote>The thief ... so much ... so much ... the thief</quote> <ref target="a12lk3_1" type="line">(l. 8)</ref>.</s>
+        <s>This also shows his hate for <name type="person">Jessica</name> as he does not call her by her name or <quote>my daughter</quote> but calls her a thief.</s>
+        <s>In this, one also sees how he does not count <name type="person">Jessica</name> as a personal loss anymore but instead as a financial loss because she has taken his money and belongings and his search for her costs him a lot as well.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> expresses his hurt and frustration about <name type="person">Jessica</name> eloping with the anaphora <quote>no satisfaction, ... of my shedding</quote> <ref target="a12lk3_1" type="line">(ll. 8-10)</ref> showing that he feels taht he has lost everything and is very sad.</s>
+        <s>He does not see an option to make his situation better.</s>
+      </p>
+      <p>
+        <s>When <name type="person">Tubal</name> tells him about <name type="person">Antonio</name>, <name type="person">Shylock</name> drops out of his grievance of his own situation and with the repetition <quote><qs>What, what, what?</qs><qs>Ill luck, Ill luck</qs></quote> <ref target="a12lk3_1" type="line">(l. 12)</ref> one sees that he is very impatient to hear about <name type="person">Antonio's</name> loss and that this seemingly really moves him.</s>
+        <s>This manifests in his next repetition in line 14 where he seems very relieved and happy to hear that <name type="person">Antonio</name> has lost his ship due to him thinking god and is so overwhelmed that he cannot believe it.</s>
+        <s>In line 16, he even calls it <quote>good news</quote> and this portrays <name type="person">Shylock</name> as very gleeful towards <name type="person">Antonio</name> which also reflects his known hatred for <name type="person">Antonio</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> uses the metaphor <quote>thou stickest a dagger in me</quote> <ref target="a12lk3_1" type="line">(l. 18)</ref> when talking about <name type="person">Jessica</name> spending lots of money in <name type="geo">Genua</name> which, again, shows his deep hurt but also his rage because he compares the physical pain of being stabbed to his pain of having lost money.</s>
+        <s>This also reflects <name type="person">Shylock</name> seeing his daughter as a financial rather than a personal loss from the beginning of the excerpt and him being mean.</s>
+      </p>
+      <p>
+        <s>In line 22, <name type="person">Shylock</name> uses the strong parallelism <quote>I am very glad of it: I'll plague him, I'll torture him: I am glad of it</quote> which makes him seem very harsh because he gleefully talks about <name type="person">Antonio's</name> loss but more than that is revengeseeking for his bond and looking forward to being able to carry out the bond.</s>
+      </p>
+      <p>
+        <s>His deep hurt about his family also shows itself in his parallelism to <name type="person">Tubal's</name> <quote>... he had of your daughter for a monkey</quote> and him saying <quote>... not have given it for a wilderness of monkeys</quote> <ref target="a12lk3_1" type="line">(ll. 23 + 25)</ref>.</s>
+        <s>He deeply cares about the ring his wife gave him and is beyond frustrated and hurt that <name type="person">Jessica</name> firstly stole it and then gave it away.</s>
+      </p>
+      <p>
+        <s>Moreover, in his last expression <name type="person">Shylock</name> comes across very hurried and energetic as he orders <name type="person">Tubal</name> to get an officer because he wants to take revenge on <name type="person">Antonio</name>.</s>
+        <s>This is created by his repetition of <quote>Go, Tubal ...</quote> <ref target="a12lk3_1" type="line">(ll. 27-30)</ref> stressing <name type="person">Tubal</name> to quickly fulfill his task.</s>
+        <s>It also shows <name type="person">Shylock's</name> strategic way of thinking as he sees <name type="person">Antonio's</name> loss as his big chance to take revenge on him and also on his, again, thinking and planning about business whilst playing <name type="person">Antonio's</name> death.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock's</name> cruelness also shows itself in him saying <quote>I will have the heart of him, if he forfeit</quote> <ref target="a12lk3_1" type="line">(l. 28)</ref>.</s>
+        <s>His bond with <name type="person">Antonio</name> is not that <name type="person">Shylock</name> will kill him or tkae out his heart but just take one pound of flesh but <name type="person">Shylock</name> sees this as a clear opportunity where <name type="person">Antonio</name> will die.</s>
+        <s>He is very serious about taking revenge on <name type="person">Antonio</name> and feels as if he is, after all, able to carry out his plan.</s>
+        <s>This manifests in him telling <name type="person">Tubal</name> to get him an officer two weeks before the bond is due <ref target="a12lk3_1" type="line">(ll. 27f)</ref> because he, already in that situation, believes that <name type="person">Antonio</name> will not pay back his debts and therefore forfeit the bonds.</s>
+      </p>
+      <p>
+        <s>Concludingly, <name type="person">Shylock</name> is shown in two main aspects  in this scene: <choice><orig>Firstly</orig><reg>firstly</reg></choice>, he is very hurt but at the same time disappointed and angry about <name type="person">Jessica</name> eloping.</s>
+        <s>He does not see her as a personal loss anymore and just sees his financial loss for which he hates her.</s>
+        <s>Secondly, <name type="person">Shylock</name> also appears very hateful towards <name type="person">Antonio</name> and is very gleeful about <name type="person">Antonio's</name> loss.</s>
+        <s>He is strongly demanding revenge from <name type="person">Antonio</name> and feels as if he has defeated him.</s>
+        <s>In talking about his revenge, <name type="person">Shylock</name> is portrayed very cruel and harsh because wishes <name type="person">Antonio</name> as well as his daughter dead.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

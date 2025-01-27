@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g47_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>There are <choice><orig>diffrent</orig><reg>different</reg></choice> influences in a multicultural society.</s>
+      </p>
+      <p>
+        <s>On the one side hand it is positive because there are many <choice><orig>diffrent</orig><reg>different</reg></choice> cultures <choice><orig>comming</orig><reg>coming</reg></choice> together they can learn a lot from each other.</s>
+        <s>Many people become so <choice><orig>mutch</orig><reg>much</reg></choice> more tolerant for people from <choice><orig>diffrent</orig><reg>different</reg></choice> countries and other cultures.</s>
+        <s>But on the other side there are also some negative points.</s>
+        <s>For example there are still many intolerant people who <choice><orig>dont</orig><reg>don't</reg></choice> accept people from <choice><orig>diffrent</orig><reg>different</reg></choice> countries or <choice><orig>diffrent</orig><reg>different</reg></choice> cultures.</s>
+        <s>Especially because of the history where for example black people <choice><orig>werent</orig><reg>weren't</reg></choice> <choice><orig>acceptet</orig><reg>accepted</reg></choice> and where slavery was a big thing.</s>
+        <s>Also a problem for many people is that they want to keep their traditions and they want to have their country just like how it was and they <choice><orig>dont</orig><reg>don't</reg></choice> <choice><orig>eccept</orig><reg>accept</reg></choice> immigrants with other cultures in their country.</s>
+        <s>So there is still a lot racism in many countries.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

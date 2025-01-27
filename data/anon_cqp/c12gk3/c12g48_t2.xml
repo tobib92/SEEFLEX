@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g48_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After summarising the arguments of <ref target="c12gk3_1" type="character">Macbeth</ref> and <ref target="c12gk3_1" type="character">Lady Macbeth</ref> it is interesting to analyse how <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to persuade her husband especially with regard to her choice of language, including stylistic devices.</s>
+      </p>
+      <p>
+        <s>From line 8 to 18 <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is only using questions to convince <ref target="c12gk3_1" type="character">Macbeth</ref> about her opinion.</s>
+        <s>She does it to provoke him by mocking his fear or killing <ref target="c12gk3_1" type="character"><choice><orig>Ducan</orig><reg>Duncan</reg></choice></ref>.</s>
+      </p>
+      <p>
+        <s>There is a metaphor in line 18: <quote>Like the poor cat i'th'adage?</quote>.</s>
+        <s>This sentence should illustrate <ref target="c12gk3_1" type="character">Macbeth's</ref> behavior, that he is too lazy or too cowardly to work for his dreams.</s>
+      </p>
+      <p>
+        <s><quote>Neither time nor the place were right then, yet you said you wished they were, so you said you could act</quote><ref target="c12gk3_1" type="line">(ll. 28)</ref> is an antithesis, which the <ref target="c12gk3_1" type="character">Lady</ref> uses to highlight how contradictory his actions and sayings are.</s>
+      </p>
+      <p>
+        <s>He says he will do it if the time is right but will not do it if the time is right.</s>
+        <s>She makes him clear that he should not promise something he would never do.</s>
+      </p>
+      <p>
+        <s>By telling him that she would do anything she promised him if he would also do <ref target="c12gk3_1" type="line">(ll. 33)</ref> she puts him under pressure and shows that she is a very loyal person to <ref target="c12gk3_1" type="character">Macbeth</ref> but he does not give his best to be also loyal to her.</s>
+        <s>It also gives the man the feeling of connection that he is not alone and always has his woman on his side.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> repeats her man's sentence in line 26 as a parallelism <quote>When you durst to do it, then you were a man, and, to be more than what you were, you would be so much more the man</quote>.</s>
+        <s>It is also a kind of <choice><orig>klimax</orig><reg>climax</reg></choice> because she increases <quote>the man</quote> <ref target="c12gk3_1" type="line">(l. 26)</ref> to <quote>more than a man</quote> <ref target="c12gk3_1" type="line">(l. 28)</ref>.</s>
+        <s>With this she manipulates his husband, by telling him he would be more man if he kills <ref target="c12gk3_1" type="character"><choice><orig>Docan</orig><reg>Duncan</reg></choice></ref>.</s>
+        <s>So <ref target="c12gk3_1" type="character">Macbeth</ref> really wants to get this nomination of <quote>more than a man</quote> and thinks it is okay to <choice><orig>proof</orig><reg>prove</reg></choice> his <choice><orig>abilitys</orig><reg>abilities</reg></choice> as a man.</s>
+        <s>The woman also <choice><orig>weaks</orig><reg>weakens</reg></choice> his argument from line 21 following.</s>
+      </p>
+      <p>
+        <s>In line 39 <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tells him they fail but if he is brave then they will not fail.</s>
+        <s>It is an antithesis and it tells <ref target="c12gk3_1" type="character">Macbeth</ref> that it is in his force to not make this plan fail by risking some things.</s>
+        <s>So she lets the question open to him if they fail or not and gives him the feeling that he has the chance to decide if the plan will work or not.</s>
+      </p>
+      <p>
+        <s>The woman uses a parenthesis in line 42 following.</s>
+        <s>It <choice><orig>emphasize</orig><reg>emphasizes</reg></choice> that <ref target="c12gk3_1" type="character"><choice><orig>Duncans</orig><reg>Duncan's</reg></choice></ref> sleep has to be very deep because of the hard journey he has behind him.</s>
+        <s>She wants to take <ref target="c12gk3_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> fear of failing by telling him that <ref target="c12gk3_1" type="character">Duncan</ref> sleeps and <choice><orig>wont</orig><reg>won't</reg></choice> notice him while he kills him.</s>
+        <s>The simile in line 49 <quote>Their drenched nature lie as in a death</quote> should also calm the <ref target="c12gk3_1" type="character"><choice><orig>thrane</orig><reg>Thane</reg></choice></ref> down of his fear of getting caught because she means with this, that the servants seem like they are <choice><orig>death</orig><reg>dead</reg></choice> when they are drunk, so again the husband has no reason to worry about them.</s>
+      </p>
+      <p>
+        <s>In many parts of her talking she uses her language to manipulate <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>She puts her opinion and the reproaches into questions so she does not directly insults her husband but <choice><orig>put</orig><reg>puts</reg></choice> him in mind he will be very cowardly and not a real man if he <choice><orig>wont</orig><reg>won't</reg></choice> do what he said.</s>
+      </p>
+      <p>
+        <s>All in all it can be sum up that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to convince his partner by manipulating his mindset.</s>
+        <s>She makes him feel safe with the situation and persuades him with telling him he is not brave if he <choice><orig>wont</orig><reg>won't</reg></choice> kill the King.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

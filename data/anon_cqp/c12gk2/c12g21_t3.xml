@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g21_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote>. <s>Is this true?</s><s>Is <name type="person">Shakespeare</name> really never getting old and always interesting to a new generation?</s></p>
+      <p>
+        <s>The most argument you will hear against this will be, that <name type="person">Shakespeare</name> is simply boring to the new generations.</s>
+        <s>They more like things like video games or action movies.</s>
+        <s>But, <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> plays cover mostly timeless topics like love or funny stuff.</s>
+        <s>Of course, things that were funny back then probably are not funny anymore today, but topics like love are still relevant in <choice><orig>todays</orig><reg>today's</reg></choice> movies or books.</s>
+        <s>Also, many modern things already include things from <name type="person">Shakespeare</name> without us knowing.</s>
+        <s>For example, he integrated many words into the modern <choice><orig>english</orig><reg>English</reg></choice> <q><choice><orig>assasin</orig><reg>assassin</reg></choice></q>, used in the video game <name type="misc"><choice><orig>Assasins Creed</orig><reg>Assassin's Creed</reg></choice></name>.</s>
+        <s>You can encounter now, that <name type="person">Shakespeare</name> is way harder to understand while reading or consuming in any way, because of the old grammar and the old language used.</s>
+        <s>This is totally correct, but you are given a lot of help while trying to understand it.</s>
+        <s>Most of the old phrases or words are explained to you in modern English.</s>
+        <s>Another argument against still teaching <name type="person">Shakespeare</name> in school is that it does not really <choice><orig>brings</orig><reg>bring</reg></choice> the students forward.</s>
+        <s>What are the benefits of reading that old plays or books?</s>
+        <s>They could help you to understand other older plays or books.</s>
+        <s>Also, if you once understood how to read or understand the old grammar and language, you could use it somewhere else.</s>
+      </p>
+      <p>
+        <s>For me as a student, it is not really super important or boring.</s>
+        <s>Of course it is interesting to see where in our modern language <name type="person">Shakespeare</name> hides but otherwise I also could image more interesting topics.</s>
+        <s>To answer the question, I think <name type="person">Shakespeare</name> should be teached in school, but maybe in a more interesting way like searching for <name type="person">Shakespeare</name> signs in modern movies etc.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

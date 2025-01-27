@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g09_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref> by <ref target="c12gk1_1" type="author">William Shakespeare</ref> was published in the collection with others in <date>1609</date>.</s>
+        <s><ref target="c12gk1_1" type="title">Sonnet 116</ref> is placed in the sequence that is <choice><orig>adressed</orig><reg>addressed</reg></choice> to or concerns a young man.</s>
+        <s>He is loved by the speaker but the society doesn't support this relationship so it must stay a secret.</s>
+      </p>
+      <p>
+        <s>The first quatrain says there are two ways to experience love.</s>
+        <s>One time does not forever and can change or disappear.</s>
+        <s>The speaker thinks the other kind of love that is constant and true is difficult to reach and rear and he only wants this love.</s>
+        <s>The second quatrain is about the features and signs of this true love.</s>
+        <s>It is great and like a landmark always there and unbreakable.</s>
+      </p>
+      <p>
+        <s>In the third quatrain, the speaker says that the true love can survive the death, even if the loved one is not living anymore.</s>
+        <s>Also times of <choice><orig>seperation</orig><reg>separation</reg></choice> only cause this love to grow and become stronger.</s>
+      </p>
+      <p>
+        <s>In the final couplet, the speaker confirms he has the experience of true love with a young man and states if he is not right with this thesis, the sonnet and his other writings would tell lies and true love has never exist.</s>
+        <s>The topic of this sonnet is the difference between two ways of loving someone.</s>
+        <s>The speaker thinks the second way, the true love, is beautiful and the highest thing or feeling humans can reach.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

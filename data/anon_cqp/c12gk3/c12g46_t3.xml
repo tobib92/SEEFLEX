@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12g46_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">soliloquy</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>I'm going to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>Why?</s>
+          <s>He is King of <name type="geo">Scotland</name> and he has a lot of servants?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>I know, that is the problem.</s>
+          <s>I want to be King of <name type="geo">Scotland</name> - so <ref target="c12gk3_1" type="character">Duncan</ref> must be killed.</s>
+          <s>The servants are not a big problem for me.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>I want to know how you do it.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>No, you know that <choice><orig>i'm</orig><reg>I'm</reg></choice> going to do it with my Lady.</s>
+          <s>I don't need you for that.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>Are <choice><orig>u</orig><reg>you</reg></choice> sure?</s>
+          <s>I don't know if you do it really.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>Well, <ref target="c12gk3_1" type="character">Lady Macbeth</ref> is helping me.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>Yes, but are <choice><orig>u</orig><reg>you</reg></choice> sure that this is right?</s>
+          <s>I mean he is King of <name type="geo">Scotland</name>.</s>
+          <s>If you kill him and anybody knows it, nobody <choice><orig>want</orig><reg>wants</reg></choice> you to be King of <name type="geo">Scotland</name>.</s>
+          <s>The witches also say that this is not a good idea.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <kinesic>
+            <desc>hmm</desc>
+          </kinesic>
+          <s>Maybe you're right, but can you tell me another idea that <choice><orig>i</orig><reg>I</reg></choice> can be King of <name type="geo">Scotland</name>?</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>You will never be King of <name type="geo">Scotland</name>.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>I'm going to be King of <name type="geo">Scotland</name>, Macduff!</s>
+          <s>I promise!</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <s>Sure, then show me your plan or wait no.</s>
+          <s>Do your plan and after that <choice><orig>i</orig><reg>I</reg></choice> tell everyone that <ref target="c12gk3_1" type="character">Macbeth</ref> has killed <ref target="c12gk3_1" type="character">Duncan</ref>, the King of <name type="geo">Scotland</name>.</s>
+          <s>Good luck, <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>I don't tell you anything more about that.</s>
+          <s>I'm going to kill him when nobody knows.</s>
+          <s>I promise.</s>
+          <s>Bye, <ref target="c12gk3_1" type="character">Macduff</ref>!</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macduff</ref>
+        </speaker>
+        <p>
+          <kinesic>
+            <desc>laugh</desc>
+          </kinesic>
+          <s>Bye</s>
+        </p>
+      </sp>
+      <sp>
+        <speaker>
+          <ref target="c12gk3_1" type="character">Macbeth</ref>
+        </speaker>
+        <p>
+          <s>Maybe I'm doing it on another day...</s>
+        </p>
+      </sp>
+    </body>
+  </text>
+</TEI>

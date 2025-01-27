@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g12_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> uses the structure and the language to support the idea of love.</s>
+      </p>
+      <p>
+        <s>The structure is a typical <ref target="c12gk1_1" type="author">Shakespeare</ref> structure.</s>
+      </p>
+      <p>
+        <s>The sonnet is <choice><orig>devided</orig><reg>divided</reg></choice> into the quatrains, with <choice><orig>for</orig><reg>four</reg></choice> lines each and one couplet at the end, with <choice><orig>to</orig><reg>two</reg></choice> lines.</s>
+      </p>
+      <p>
+        <s>This structure <choice><orig>support</orig><reg>supports</reg></choice> his opinion.</s>
+        <s>At first he says that love is uncontrollable and can turn in any directions.</s>
+        <s>But then he describes love as <choice><orig>a</orig><reg>an</reg></choice> ever-fixed mark that will always be there and has your back.</s>
+        <s>After that he shows how unlimited love is.</s>
+        <s>The coulet s a <choice><orig>diffrent</orig><reg>different</reg></choice> than the quatrains, because he isn't describing love anymore.</s>
+        <s>It's more like an ending of the sonnet and a conclusion.</s>
+        <s>He makes clear that he stands by his opinion.</s>
+      </p>
+      <p>
+        <s>In the <ref target="c12gk1_1" type="title">Sonnet 116</ref> are many stylistic devices to support his idea.</s>
+      </p>
+      <p>
+        <s>In line one is a metaphor which shows that marriage is not only symbolic.</s>
+        <s>It's a process where <choice><orig>too</orig><reg>two</reg></choice> people get together and sare <choice><orig>there</orig><reg>their</reg></choice> <choice><orig>lifes</orig><reg>lives</reg></choice> forever <ref target="c12gk1_1" type="line">(l. 1)</ref>.</s>
+      </p>
+      <p>
+        <s>The enjambment in line two and three outlines that even if there are alterations, love never ends.</s>
+      </p>
+      <p>
+        <s>The personification shows also that you can't change your feelings for love <ref target="c12gk1_1" type="line">(l. 4)</ref>.</s>
+      </p>
+      <p>
+        <s>The exclamation mark in line five makes clear how important love is for him.</s>
+        <s>But is also shows that the negative things in line three or four are not right.</s>
+      </p>
+      <p>
+        <s>The metaphor underlines that it isn't important what's going on in your life, even if it feels like a storm the love is still there <ref target="c12gk1_1" type="line">(l. 6)</ref>.</s>
+      </p>
+      <p>
+        <s>This message gets also supported by the next metaphor where the message is that the love leads you to the right things, like star to the wondering bark <ref target="c12gk1_1" type="line">(l. 7)</ref>.</s>
+      </p>
+      <p>
+        <s>The personification that love is not a time fool <choice><orig>descibes</orig><reg>describes</reg></choice> what love has a <choice><orig>mening</orig><reg>meaning</reg></choice> for <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and that for him isn't just a feeling <ref target="c12gk1_1" type="line">(l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>The metaphor in lines 10 and 12 shows that love is a never ending process and that it <choice><orig>accompany</orig><reg>accompanies</reg></choice> you till your death.</s>
+      </p>
+      <p>
+        <s>In line 14 is <choice><orig>a</orig><reg>an</reg></choice> alliteration which underlines that if anybody can <choice><orig>proof</orig><reg>prove</reg></choice> that he is wrong with his idea of love no man ever loved.</s>
+        <s>With that he makes clear that it is nearly impossible that he is wrong.</s>
+      </p>
+      <p>
+        <s>The words he uses are very positive.</s>
+        <s>This also corresponde with his idea of love, because for him there are many positive things about love.</s>
+      </p>
+      <p>
+        <s>There aren't many negative words in this sonnet.</s>
+        <s>But there are a few to show what love is not.</s>
+        <s>With that he supports his positive idea of love.</s>
+      </p>
+      <p>
+        <s>All in all you can see that <ref target="c12gk1_1" type="author">Shakespeare</ref> uses his structure and the language to support his idea of love and influence the reader to have positive thoughts about love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

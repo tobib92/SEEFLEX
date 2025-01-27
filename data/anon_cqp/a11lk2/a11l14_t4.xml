@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l14_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi John,</salute>
+      </p>
+      <p>
+        <s>So knowing that you saw the <name type="misc"><choice><abbr>FGW's</abbr><expan>Friedrich-Wilhelm-Gymnasium's</expan></choice></name>label <name type="misc">school without racism, school with courage</name> and want to visit our school but doubt the credibility of this phrase, I would like to share my thought on this with you.</s>
+      </p>
+      <p>
+        <s>I recently came across this <choice><orig>Interview</orig><reg>interview</reg></choice> online where <name type="person">Karim Fereidooni</name>, an activist was interviewed.</s>
+      </p>
+      <p>
+        <s>There were quite some things to take away from this article the main quote being: <quote>there <choice><orig>can not</orig><reg>cannot</reg></choice> be a school without racism</quote>.</s>
+        <s>These structures are so deeply rooted in our society, that they do not stop at the entrance of a school.</s>
+        <s>Studies have proven, that children with a <choice><orig>turkish</orig><reg>Turkish</reg></choice> name get graded worse for the same amount of mistakes than a kid with a <choice><orig>german</orig><reg>German</reg></choice> name.</s>
+        <s>In fact, we are all socialized to become racists and by not calling out this phenomenon, we reproduce it.</s>
+      </p>
+      <p>
+        <s>Therefore, schools should educate on this topic, especially because many teachers are not even aware of their subconscious racism.</s>
+        <s>And racism is taught, we learn it everywhere around us, as for example in some <choice><orig>childrens</orig><reg>children's</reg></choice> books that paint a negative and unrealistic picture of black people.</s>
+      </p>
+      <p>
+        <s>I for myself have learned, that personal and institutional racism are far more intertwined than I thought they were.</s>
+        <s>And that it exists intercontinentally.</s>
+        <s>As a biracial girl, I am a minority at the <name type="misc"><choice><abbr>FGW</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name>, however still live in <name type="geo">Cologne</name> a big diverse city with many cultures and ethnicities.</s>
+        <s>Still, I have witnessed some racism at the <name type="misc"><choice><abbr>FGW</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> around me and also experiences it myself once.</s>
+      </p>
+      <p>
+        <s>By that time it became clear, that a banner won't do.</s>
+        <s>Educating is key in order to combat this, every child of color should feel seen, heard and included.</s>
+        <s>So I agree with you <name type="person">John</name>, it's absolutely necessary to question the banner, the intentions are important and good but with words actions should follow.</s>
+        <s>However, I must say that despite these individual incidences, the good times <choice><orig>definetly</orig><reg>definitely</reg></choice> overweigh and I had an overall positive experience at this school so far.</s>
+        <s>So, if you are willing to take the step and visit you should <choice><orig>definetly</orig><reg>definitely</reg></choice> do it.</s>
+        <s>Stay conscious of your surroundings, help others when they need it and continue to seek change.</s>
+        <s>Maybe we can start a project on the topic when you're over here!</s>
+        <s>I am looking forward to you!</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

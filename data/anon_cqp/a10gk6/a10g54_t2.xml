@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g54_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author <choice><orig>use</orig><reg>uses</reg></choice> certain stylistic devices to make clear how huge the problems are which humanity will have in the next centuries and she <choice><orig>want</orig><reg>wants</reg></choice> to make clear, that time of action is now.</s>
+      </p>
+      <p>
+        <s>The author writes <quote>no man, no animals, no plants</quote>.</s>
+        <s>With this <choice><orig>anaphor</orig><reg>anaphora</reg></choice> she points out the importance of the planet earth.</s>
+        <s>First she describes the earth as the only planet which <choice><orig>have</orig><reg>has</reg></choice> water and air, a biosphere.</s>
+        <s>Then she makes clear <choice><orig>dramaticly</orig><reg>dramatically</reg></choice> how earth would <choice><orig>louk</orig><reg>look</reg></choice> like without these natural elements.</s>
+      </p>
+      <p>
+        <s>In the sentence before the author <choice><orig>use</orig><reg>uses</reg></choice> the word <quote>we</quote> <ref target="a10gk6_1" type="line">(l. 4)</ref>.</s>
+        <s>This pronoun is used in the <choice><orig>hole</orig><reg>whole</reg></choice> text in sentences like <quote>If we fail [...]</quote> <ref target="a10gk6_1" type="line">(l. 36)</ref>, <quote>[...] we are living in an era of mass extinction</quote> <ref target="a10gk6_1" type="line">(l. 27)</ref>, <quote>The water we drink [...] is contaminated today</quote> <ref target="a10gk6_1" type="line">(l. 25)</ref>.</s>
+        <s>The pronoun is a motive and <choice><orig>adress</orig><reg>addresses</reg></choice> the speaker directly.</s>
+        <s>The reader has a <choice><orig>diffrent</orig><reg>different</reg></choice> view on the massive problematic because he is a part of it and the problems have an effect on the personal life of the reader.</s>
+      </p>
+      <p>
+        <s>Words like <quote>worried experts</quote>, <quote>right now</quote>, <quote>too late</quote> etc <choice><orig>makes</orig><reg>make</reg></choice> the problem to an important topic and let the reader no other way than be worried too.</s>
+      </p>
+      <p>
+        <s>The author uses a bunch of stylistic devices and dramatic words to <choice><orig>adress</orig><reg>address</reg></choice> the reader in a personal way.</s>
+        <s>The tragic situation is clear and the reader understands that time of taking action is now, not how the author says <quote>tomorrow</quote> <ref target="a10gk6_1" type="line">(l. 37)</ref> <add>(a metaphor to make the problem more important on the one hand and break the difficulty of the problem down to <choice><orig>an</orig><reg>a</reg></choice> few words on the other hand)</add>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

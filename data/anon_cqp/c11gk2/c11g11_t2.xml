@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g11_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I am going to analyse <ref target="c11gk2_1" type="speaker">Barnier's</ref> speech focusing on the way he conveys his criticism of <name type="misc">Brexit</name> considering <choice><orig>serval</orig><reg>several</reg></choice> <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> and stylistic factors.</s>
+      </p>
+      <p>
+        <s>He starts <choice><orig>of</orig><reg>off</reg></choice> his argumentation with his personal opinion.</s>
+        <s>He makes clear that he thinks the <name type="misc">Brexit</name> is a major mistake <ref target="c11gk2_1" type="line">(ll. 1f.)</ref> and that the <name type="geo">UK</name> will suffer from this decision <ref target="c11gk2_1" type="line">(ll. 2f.)</ref>.</s>
+        <s>To strengthen his argumentation he uses including pronouns like we and our <ref target="c11gk2_1" type="line">(l. 2, l. 15, l. 16)</ref>.</s>
+        <s>He uses these to create a relationship with his audience, but also to convince them of having the same political aims and <choice><orig>intrests</orig><reg>interests</reg></choice> as he does.</s>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> sticks to strong <choice><orig>negativly</orig><reg>negatively</reg></choice> affected words, such as <quote>deeply regret</quote> <ref target="c11gk2_1" type="line">(l. 1)</ref>, while talking about <name type="misc">Brexit</name>, you can find these in the whole <choice><orig>exerpt</orig><reg>excerpt</reg></choice>.</s>
+        <s>With this stylistic device the speaker <choice><orig>trys</orig><reg>tries</reg></choice> to create a bad image of the <name type="misc">Brexit</name>.</s>
+        <s>When talking about the <name type="misc">EU</name> as an open jurisdiction for financial services, he uses quite positive words and many superlatives, like <quote>most open</quote> <ref target="c11gk2_1" type="line">(l. 24)</ref> or <quote>comprehensive and rule-based</quote> <ref target="c11gk2_1" type="line">(l. 24)</ref>.</s>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> therefore creates a positive and strong image of the <name type="misc">EU</name> as a market.</s>
+        <s>To strengthen the images the speaker uses many <choice><orig>enoumerations</orig><reg>enumerations</reg></choice> <ref target="c11gk2_1" type="line">(e.g. ll. 6ff., ll. 11ff., ll. 28ff.)</ref>.</s>
+      </p>
+      <p>
+        <s>To go on with his line of argument <ref target="c11gk2_1" type="speaker">Barnier</ref> focuses on the bad aspects the <name type="misc">Brexit</name> has and will have on trading for the <name type="misc">EU</name> and the <name type="geo">UK</name>.</s>
+        <s>He states it as a <quote>lose-lose situation</quote>.</s>
+      </p>
+      <p>
+        <s>The commissioner then continues by pointing out the consequences of the <name type="misc">Brexit</name> for firms.</s>
+        <s>He especially <choice><orig>meantions</orig><reg>mentions</reg></choice> that these also count for subsidiaries of <name type="geo">US</name> firms.</s>
+        <s>He therefore appeals to all the firms affected to be prepared and ready to act.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> then argues that having a close relationship with the <name type="geo">UK</name> would benefit both the <name type="misc">EU</name> and the <name type="geo">US</name>, especially financially and therefore is a shared goal in the <name type="misc"><choice><abbr>EACC</abbr><expan>European American Chamber of Commerce</expan></choice></name>.</s>
+        <s>He then instantainiously shows up <choice><orig>serveral</orig><reg>several</reg></choice> ways to <choice><orig>achive</orig><reg>achieve</reg></choice> this goal.</s>
+      </p>
+      <p>
+        <s>The commissioner then focuses on the <name type="misc">EU</name> as a market and goes on with a <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <ref target="c11gk2_1" type="line">(l. 25f.)</ref> trying to get his audience to think about, why the <name type="geo">UK</name> will need another system for trading with <name type="misc">EU</name> members than the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>He then finishes his argumentation by stating that the <name type="misc">EU</name> will not change because of the <name type="misc">Brexit</name> and will remain open for other countries and this is well known for the <name type="geo">US</name> and <choice><orig>it's</orig><reg>its</reg></choice> companies, which are and shall remain shaping for the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s>He ends his speech like this to have a remaining image of a strong <name type="misc">EU</name> market, but also to show how <choice><orig>locrative</orig><reg>lucrative</reg></choice> the market is for the <name type="geo">US</name> and will stay in the future.</s>
+      </p>
+      <p>
+        <s>The language is quite argumentative as it is <ref target="c11gk2_1" type="speaker">Barnier's</ref> aim to convince the members of the <name type="misc"><choice><abbr>EACC</abbr><expan>European American Chamber of Commerce</expan></choice></name> and the public of a strong <choice><orig>locrative</orig><reg>lucrative</reg></choice> <name type="misc">EU</name> market.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

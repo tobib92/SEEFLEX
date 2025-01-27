@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g05_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p><s>Subject: discrimination against African Americans in the <name type="geo">USA</name></s>
+		date: <date>08.12.2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hey Gabriella,</salute>
+      </p>
+      <p>
+        <s>how are you?</s>
+        <s>I am doing great.</s>
+        <s>Maybe you are wondering why I am writing to you.</s>
+        <s>Here is why: <choice><orig>Maybe</orig><reg>maybe</reg></choice> you know the novel <name type="misc">The Hate U Give</name>.</s>
+        <s>I read it in my English class and now I wonder whether racism is really a topical problem in the <name type="geo">USA</name>.</s>
+        <s>Then I found an <choice><orig>articel</orig><reg>article</reg></choice>, which I find very interesting and want to share these <choice><orig>information</orig><reg>informations</reg></choice> with you.</s>
+      </p>
+      <p>
+        <s>57 years ago president <name type="person">Lyndon B. Johnson</name> declared the <name type="misc">Civil Rights Act</name>.</s>
+        <s>That means that in front of the law everyone has equal rights.</s>
+        <s>But out of the economical and social perspective black people have more difficulties.</s>
+        <s>And also the differences between black and white <choice><orig>is</orig><reg>are</reg></choice> getting bigger by time.</s>
+        <s>Police violence is one fo the biggest differences.</s>
+        <s>Black men have a higher chance to get arrested than white men.</s>
+        <s>The police suspects black people way more too.</s>
+        <s>That is why the police inspects black people more often.</s>
+        <s>This is called <q>stop-and-frisk</q>.</s>
+        <s>One example for police violence is the shooting of <name type="person">Michael Brown</name>.</s>
+        <s>7 years ago the <choice><orig>18 year old</orig><reg>18-year-old</reg></choice> African American <name type="person">Michael Brown</name> got shot by a police officer.</s>
+        <s>This underlines the seperation of black and white even more.</s>
+        <s>Black people are also aat a great disadvantage when it comes to education.</s>
+        <s>Often black people <choice><orig>can not</orig><reg>cannot</reg></choice> achieve their qualification and leave the school without one.</s>
+        <s>When they get the qualification they end their education <choice><orig>carreer</orig><reg>career</reg></choice> after <choice><orig>High-School</orig><reg>high school</reg></choice> or <choice><orig>College</orig><reg>college</reg></choice>.</s>
+        <s>Although someof them get a good qualificataion they are more likely to stay unemployed.</s>
+        <s>That is why more than 25% of the black people live in poverty.</s>
+        <s>From the white people live only less than 10% in poverty.</s>
+      </p>
+      <p>
+        <s>Now I have a question for you.</s>
+        <s>Do you ever <choice><orig>experienced</orig><reg>experience</reg></choice> racial injustice?</s>
+      </p>
+      <p>
+        <s>I would like to hear about that and maybe you can tell me your opinion on this <choice><orig>articel</orig><reg>article</reg></choice> whether you think it is the truth or not.</s>
+      </p>
+      <p>
+        <s>I am looking forward to <choice><orig>hear</orig><reg>hearing</reg></choice> from you.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

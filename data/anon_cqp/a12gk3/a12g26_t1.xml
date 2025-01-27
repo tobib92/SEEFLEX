@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g26_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The editorial <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> written by <ref target="a12gk3_1" type="author">John Worne</ref> was published in the quality paper <name type="misc">The Telegraph</name> on the <date>27th of January in 2015</date>.</s>
+        <s>The author presents the development of UK students learning foreign languages and why, in his opinion, it's still important to do so.</s>
+      </p>
+      <p>
+        <s>The main thesis that is presented in the article is the importance of learning foreign languages in the UK.</s>
+        <s>The author justifies this by giving examples where and evidence that foreign languages are still needed.</s>
+        <s>On one hand, he claims, that English isn't the only language spoken in the business world and on the other hand that the translation of foreign languages into English by using your mobile phone uses a lot of roaming data, which can be <choice><orig>expansive</orig><reg>expensive</reg></choice> as a long term.</s>
+        <s>Furthermore he quotes a study, which came to the conclusion that two-thirds of UK businesses need foreign language skills <ref target="a12gk3_1" type="line">(l. 19-20)</ref>.</s>
+        <s>Because of this argument the dropping number of students learning foreign languages in universities as well as the stalling number of pupils writing exams in these languages in the <name type="misc">GCSE</name> and <name>A-level</name> the author judges this development as negative.</s>
+      </p>
+      <p>
+        <s>But there are also a few developments that indicate that this might increase the numbers again.</s>
+        <s>For example the opportunity to learn a language while studying another degree subject, at least at some universities.</s>
+        <s>The <choice><orig>couse</orig><reg>cause</reg></choice> of the dropping numbers I mentioned before is according to <ref target="a12gk3_1" type="author">John Worne</ref> the national view on speaking foreign languages.</s>
+        <s>This can only be changed by a cultural shift at home by the parents as well as the school and education system, states the author.</s>
+      </p>
+      <p>
+        <s>All in all the article presents mainly why it's still important to learn foreign languages in the UK and shows the decreasing numbers of UK students studying or learning these languages.</s>
+        <s>Furthermore <ref target="a12gk3_1" type="author">John Worne</ref> States that the cars of all this is the national view on speaking foreign languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

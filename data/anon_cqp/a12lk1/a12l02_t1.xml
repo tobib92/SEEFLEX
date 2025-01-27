@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l02_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this Sonnet called <quote>Sonnet 27</quote>, written by <ref target="a12lk1_1" type="author">Shakespeare</ref>, the speaker wants to express his feelings towards someone he adores.</s>
+        <s>He doscribes his life, working hard day by day, and how exhausted he is.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Person</orig><reg>person</reg></choice> he adores is like an anchor for him, brightens up his life and as he says: <quote>Makes black night beauteous, and her old face new</quote> <ref target="a12lk1_1" type="line">(v. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>The speaker wants the person, he loves, to know, that she/he is in his thoughts almost <choice><orig>everyday</orig><reg>every day</reg></choice> and <choice><orig>everynight</orig><reg>every night</reg></choice>.</s>
+        <s>Their connection is so deep, that not his mind shows him her/his shadow, but his soul does.</s>
+        <s><ref target="a12lk1_1" type="line">(comp. v. 9)</ref> The message of the Sonnet is clearly, it's the true love, deeply imbedded in the <choice><orig>speakers</orig><reg>speaker's</reg></choice> soul, that he expresses towards his soulmate.</s>
+      </p>
+      <p>
+        <s>He expresses his love by explaining their importance to his own life.</s>
+        <s>The importance in his hard <choice><orig>workin</orig><reg>working</reg></choice> life.</s>
+        <s>Expressing that even when he is too tired to keep his eyes open, he still finds time, and the will, to think about this special person.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

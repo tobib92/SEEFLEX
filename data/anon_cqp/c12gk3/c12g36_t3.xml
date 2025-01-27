@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c12g36_t3</author>
+        <name>soliloquy</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">soliloquy</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This argument with my wife let me struggling about my decision that I would not kill <ref target="c12gk3_1" type="character">Duncan</ref> anymore.</s>
+        <s>She influences me a lot because she would like that I kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s>I mean she really has made a plan for it!</s>
+        <s>I could understand her point of view but on the other hand I do not want to be a <choice><orig>murder</orig><reg>murderer</reg></choice> because then my high reputation by the people would sink rapidly, especially when they get to know that it was me who killed <ref target="c12gk3_1" type="character"><choice><orig>king</orig><reg>King</reg></choice> Duncan</ref>.</s>
+        <s>But it is also not so easy to argue with my wife, she had a <choice><orig>lots</orig><reg>lot</reg></choice> of arguments which making me think about my own point of view.</s>
+        <s>But at least I say the right thing that makes her speechless.</s>
+      </p>
+      <p>
+        <s>I think everything what I said to her was fair, also that I said that I will only kill <ref target="c12gk3_1" type="character">Duncan</ref> when she born four men-children.</s>
+        <s>She was the first one who said that she has promised she would give suck to our baby.</s>
+        <s>Nevermind!</s>
+      </p>
+      <p>
+        <s>Thinking about her plan to kill <ref target="c12gk3_1" type="character">Duncan</ref> makes me feel good because after that I have after a long time the chance to become <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Cawdor</name> and this is what my dreams are about.</s>
+        <s>I did not want to be a coward for my wife.</s>
+        <s>I would be brave and I would be strong and I would become the <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Cawdor</name>.</s>
+        <s>Then I would make everyone happy with my acting.</s>
+        <s>My wife is true, I am not a coward, I am a future king!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

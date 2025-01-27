@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g28_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>from: <email>janesmith@gmail.com</email>
+		to: <email>smitherwin@gmail.com</email>
+		RE: Racism in the USA
+		<date>Dec. 8th, 2021</date></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Erwin,</salute>
+      </p>
+      <p>
+        <s>How have you been?</s>
+        <s>I hope your school project went well.</s>
+        <s>After we read <name type="misc">The Hate U Give</name> in our English class, which I already told you about, I've actually become really interested in whether racism is a topical problem in the <name type="geo">USA</name>.</s>
+      </p>
+      <p>
+        <s>I stumbled across this article from a famous and established German online newspaper magazine, which I want to tell you about.</s>
+        <s>It says that <choice><orig>they</orig><reg>there</reg></choice> are statistics that show how black men are significantly more likely to get arrested than white men.</s>
+        <s>It's also common for black people to not be able to graduate high school, or generally don't have degrees as high as white people on the average.</s>
+        <s>But even in the cases, where they do have a degree the possibility of them being unemployed is higher than for white people.</s>
+        <s>Reading all these factors I'm not surprised that the number of poor black residents is more than double as much the number of poor white residents.</s>
+      </p>
+      <p>
+        <s>I'm honestly shocked about the extent of inequality in all these different aspects.</s>
+        <s>I'm curious if your experience matches what is said in the article, Erwin.</s>
+        <s>And I hope this was somewhat eduactional to you as well.</s>
+      </p>
+      <p>
+        <s>I hope to hear from you soon.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

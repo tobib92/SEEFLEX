@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g27_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>you were right.</s>
+        <s>The <name type="misc">COP26</name> were the last chance, the world had to stop climate change.</s>
+        <s>My children have to live with consequences of climate change.</s>
+        <s>In winter we have 30 degrees so that my children need to play outside.</s>
+        <s>As we can see none of the other countries did something against climate change, <choice><orig>eventhough</orig><reg>even though</reg></choice> they had the technology and enough money.</s>
+        <s>In <name type="geo">Africa</name> humans and wild animals have to face new challenges for survival, because of climate change.</s>
+        <s>I watched TV, where I could see that the <name type="geo">Netherlands</name> does not exist anymore, because of the rising sea levels.</s>
+        <s>My husband died last yera because of cancer, he ate a lot of fish and the fish was filled by plastic.</s>
+        <s>We have intense drought and storms.</s>
+        <s>I do not know what I should do now I am <choice><orig>completly</orig><reg>completely</reg></choice> confused and I lost all of my hope that there is a way to change something.</s>
+        <s>I feel like I am drowning in all of my negative emotions.</s>
+        <s>I feel like I will never, ever see my grandchildren become university students.</s>
+        <s>Why was it so hard to do something against climate <choice><orig>chang</orig><reg>change</reg></choice> 20 years ago?</s>
+        <s>Why did they not care about us?</s>
+        <s>I <choice><orig>can not</orig><reg>cannot</reg></choice> understand why it is so hard to work together.</s>
+        <s>But maybe I am different than others, maybe if the countries could look back then in the future I would <choice><orig>life</orig><reg>live</reg></choice> better.</s>
+        <s>But I do not know I hope you are doing well.</s>
+        <s>At least you wanted to change the world.</s>
+        <s>But as we can see, humans are so stubborn.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

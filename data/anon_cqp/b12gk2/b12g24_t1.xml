@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g24_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The British prime minister <ref target="b12gk2_1" type="speaker">Boris Johnson</ref> delivered a speech for the opening ceremony of the <name type="misc">World Leaders Summit COP26</name> the <date>1 November 2021</date> in <name type="geo">Glasgow</name>.</s>
+        <s>The topic of the speech is the climate crisis and the urgency to act upon it.</s>
+        <s>The speech was held in front of the assembled state leaders from all around the world and a televised audience.</s>
+        <s>In the beginning of his speech, <ref target="b12gk2_1" type="speaker">Johnson</ref> adresses the <choice><orig>immeadiate</orig><reg>immediate</reg></choice> threat, that is climate change.</s>
+        <s>He describes it as an impending menace, that the crisis is completely man-made and a result of about 200 years of industrialization.</s>
+        <s>He then goes on describing the importance and the role of the conference.</s>
+        <s>According to him <name type="misc">COP26</name> is of extreme importance, because it can change the course of history.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> predicts the yet unborn generations to be very angry, if the conference fails.</s>
+        <s>He also mentions, that the world leaders leave to reach an agreement and come to a decision now, otherwise the promises and achievements of climate conferences in the past will be worth nothing.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

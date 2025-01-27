@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12l06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Further analysing the text by <ref target="b12lk1_1" type="author">Peter Daszak</ref>, he used a specific and directed language and a lot of stylistic devices to convince the readers of his state of mind.</s>
+      </p>
+      <p>
+        <s>Firstly, one can divide the text into eight passages, where each one deals with a <choice><orig>distingt</orig><reg>distinct</reg></choice> topic.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk1_1" type="author">Peter Daszak</ref><choice><orig>start</orig><reg>starts</reg></choice> his article <choice><orig>of</orig><reg>off</reg></choice>, by shortly introducing the readers to the topic.</s>
+        <s>Since he is talking about pandemics and virus outbreaks, he makes sure to name examples, so the readers will know in which direction <ref target="b12lk1_1" type="author">Daszak</ref> article goes.</s>
+        <s>He points out the <name type="misc">HIV</name> virus from the <date>1920s</date> and also brings up the current <name type="misc">Covid-19</name> pandemic <ref target="b12lk1_1" type="line">(ll. 12-16)</ref>.</s>
+        <s>Through these examples he can visualize his point of view and make it clear for the readers.</s>
+        <s><ref target="b12lk1_1" type="author">Peter Daszak</ref> also start his article with a very impactful short sentence, <quote>Every pandemic starts like this</quote> <ref target="b12lk1_1" type="line">(l. 11)</ref>.</s>
+        <s>This way he sounds very confident in his opinion and influences the readers as well.</s>
+        <s>Additionally <ref target="b12lk1_1" type="author">Daszak</ref> uses inclusive language to appeal even more to his readers.</s>
+        <s>Throughout his text he refers to all humans as <quote>we</quote>.</s>
+        <s>For example <quote>we're entering a new pandemic era'</quote> <ref target="b12lk1_1" type="line">(l. 19)</ref>, <quote>..., our new geological epoch, has changed everything</quote> <ref target="b12lk1_1" type="line">(l. 29)</ref> or <quote>... while we wait for vaccine, hundres o thousands of people have died, ...</quote> <ref target="b12lk1_1" type="line">(ll. 38-39)</ref>.</s>
+        <s>By doing this, <ref target="b12lk1_1" type="author">Daszak</ref> makes sure to speak directly to his readers.</s>
+        <s>The author also blends in many <choice><orig>negativly</orig><reg>negatively</reg></choice> connotated words in these sentences to make the readers be aware of the seriousness of this problem and feel guilty about their actions.</s>
+        <s>For instance <ref target="b12lk1_1" type="author">Daszak</ref> <choice><orig>use</orig><reg>uses</reg></choice> words like <quote>pandemic era</quote> <ref target="b12lk1_1" type="line">(l. 19)</ref> or <quote>dramitacally altered</quote> <ref target="b12lk1_1" type="line">(l. 30)</ref>.</s>
+        <s>These words are <choice><orig>exagerating</orig><reg>exaggerating</reg></choice>, but make the readers feel guilt and directly affected by the outbreak of the global pandemic.</s>
+      </p>
+      <p>
+        <s>The author continues to name examples to prove his point.</s>
+        <s>He is of the opinion that humans get in contact with wildlife and wild animals too often <choice><orig>nowdays</orig><reg>nowadays</reg></choice>.</s>
+        <s>Humans get into a lot of contact with tropical rainforests that carry a large amount of viruses <ref target="b12lk1_1" type="line">(ll. 20ff)</ref>.</s>
+        <s>To underline his point he lists various examples and makes use of an accumulation.</s>
+        <s>For example he brings up that about 1.7 million virus can be found in animals in the rainforest which are also in most cases the cause for many outbreaks <ref target="b12lk1_1" type="line">(l. 23)</ref>.</s>
+        <s>Right after that he <choice><orig>highlight</orig><reg>highlights</reg></choice> that only 0.1% of the 1.7 million viruses have been described <ref target="b12lk1_1" type="line">(l. 24)</ref>, which furthermore empathizes the seriousness of his topic.</s>
+      </p>
+      <p>
+        <s>Later on in the <choice><orig>secont</orig><reg>second</reg></choice> half of his text <ref target="b12lk1_1" type="author">Peter Daszak</ref> describes how vaccines and other drugs cannot always be the solution to all those viruses and pandemics <ref target="b12lk1_1" type="line">(l. 38ff.)</ref>.</s>
+        <s>According to him we should not rely on vaccines because producing them takes a long time.</s>
+        <s>In between many people die, which means we need to prevent pandemics in other ways like <ref target="b12lk1_1" type="author">Daszak</ref> says <ref target="b12lk1_1" type="line">(ll. 40-41)</ref>.</s>
+      </p>
+      <p>
+        <s>To support this argument he uses an anaphora by starting the sentences with the word <quote>we</quote> <ref target="b12lk1_1" type="line">(ll. 42, 44, 46)</ref>.</s>
+        <s>Here he creates hammering-in effects and also speaks to the readers directly.</s>
+        <s>As already mentioned he tries to make thereaders feel guilty about their actions that <choice><orig>suposedly</orig><reg>supposedly</reg></choice> caused the current pandemic.</s>
+        <s>In order to make the readesr feel less guilty he gives a lot of solutions on how to prevent future virus pandemics.</s>
+      </p>
+      <p>
+        <s>He says that we should stop overconsumption, wildlife exploitation and trading <choice><orig>illegely</orig><reg>illegally</reg></choice> at wildlife markets <ref target="b12lk1_1" type="line">(l. 43ff.)</ref>.</s>
+        <s>He is of the opinion that more pressure should be practiced on industries in order to achieve more <choice><orig>sustainanability</orig><reg>sustainability</reg></choice> in our consumption behaviour <ref target="b12lk1_1" type="line">(l. 46ff)</ref>.</s>
+      </p>
+      <p>
+        <s>Lastly <ref target="b12lk1_1" type="author">Peter Daszak</ref> ends his article with the sentence <quote>once we accepted that human activity is what let to this, we may finally be empowered to escape the pandemic era</quote> <ref target="b12lk1_1" type="line">(ll. 55-56)</ref>.</s>
+        <s>Only by working together as mankind we can get away from the <quote>new pandemic era</quote> <ref target="b12lk1_1" type="author">Daszak</ref> describes.</s>
+        <s>Through his <choice><orig>choise</orig><reg>choice</reg></choice> of words he creates hope among the readers and <choice><orig>let</orig><reg>lets</reg></choice> them think about their own opinion and to convince them even more of his opinion.</s>
+      </p>
+      <p>
+        <s>All in all it can be said that <ref target="b12lk1_1" type="author">Peter Daszak</ref> uses numerous stylistic devices and directed language to convince the readers of his opinion.</s>
+        <s>He listed a lot of examples to prove his points.</s>
+        <s>The inclusive language helped involving the readers into the text and being able to relate to what <ref target="b12lk1_1" type="author">Peter Daszak</ref> is saying.</s>
+        <s>The author made his point clear and informed about the seriousness of the <quote>new pandemic era</quote> and <choice><orig>it's</orig><reg>its</reg></choice> consequences.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

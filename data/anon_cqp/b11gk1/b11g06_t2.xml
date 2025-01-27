@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>One can say <ref target="b11gk1_1" type="character">Helen</ref> is a looser of the common <choice><orig>american dream</orig><reg>American Dream</reg></choice> and a child with many social problems.</s>
+      </p>
+      <p>
+        <s>The eight year old <ref target="b11gk1_1" type="character">Helen</ref> looks like she is five <ref target="b11gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>It seems as if she is stuck on a former phase of life.</s>
+        <s>One of the most important aspects to say about <ref target="b11gk1_1" type="character">Helen</ref> is that she used to be broken inside but she is still a happy child <quote>Helen smiled</quote> <ref target="b11gk1_1" type="line">(l. 3)</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> was raised up in such bad living conditions, where she needed to <quote>reuse dental floss</quote> <ref target="b11gk1_1" type="line">(l. 15)</ref> or <choice><orig>wher</orig><reg>where</reg></choice> she <quote>was given one square of toilet paper a day</quote> <ref target="b11gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>Normally people that <choice><orig>experiences</orig><reg>experience</reg></choice> this kind of treatment want to give up but <ref target="b11gk1_1" type="character">Helen</ref> with her positive, innocent way of thinking still makes the best out of her life.</s>
+        <s>With this information the author tries to point out her strong character.</s>
+        <s>She sets focuses on her past to underline this.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a confused child.</s>
+        <s>She is overburden with a background story therefore she talks nonstop <ref target="b11gk1_1" type="line">(l. 5)</ref>.</s>
+        <s>Because of her at least seventeen different foster homes <ref target="b11gk1_1" type="character">Helen</ref> had never a clear point to return or to talk with, so it comes up to mind that taking is her way to deal with it.</s>
+        <s>She never had one person to trust that showed her how to live so <ref target="b11gk1_1" type="character">Helen</ref> finds her own way <ref target="b11gk1_1" type="line">(l. 12-13)</ref>.</s>
+        <s>The fact that <ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen</reg></choice></ref> speaks <quote>to herself in third person</quote> <ref target="b11gk1_1" type="line">(l. 17)</ref> and the fact that nobody corrects her <ref target="b11gk1_1" type="line">(l. 17)</ref> is especially chosen from the author to underline this characteristic traits.</s>
+        <s>There was never a safety place for her.</s>
+        <s>It is almost like there is no <choice><orig>sons</orig><reg>sense</reg></choice> in her life <ref target="b11gk1_1" type="line">(l. 23)</ref>.</s>
+        <s>Despite all of this negative social background information <ref target="b11gk1_1" type="character">Helen</ref> has no negative feelings.</s>
+        <s>And that is an amazing character trait which is pointed out.</s>
+        <s><ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen's</reg></choice></ref> huge telephone collection is a symbol for her relationships to her former life <ref target="b11gk1_1" type="line">(l. 24)</ref>.</s>
+        <s>The reader is astonished about the number of phones <ref target="b11gk1_1" type="character">Helen</ref> keeps.</s>
+        <s>But on the other hand the reader feels how important these phones are to her because <ref target="b11gk1_1" type="character">Leo</ref> needs to repair them: <quote>I promised her I'll try and sort out on day</quote> <ref target="b11gk1_1" type="line">(ll. 28-29)</ref>.</s>
+        <s>Of course one can say <ref target="b11gk1_1" type="character">Helen</ref> never called so her foster families mean nothing to her but you can see a sort of relationship here that is underlined because <ref target="b11gk1_1" type="character">Helen</ref> speaks of her own houses <ref target="b11gk1_1" type="line">(l. 30)</ref> not of something bad.</s>
+      </p>
+      <p>
+        <s>Another important information is that <ref target="b11gk1_1" type="character">Helen</ref> says she does have three more closer friends <ref target="b11gk1_1" type="line">(ll. 32-33)</ref> so it is clearly said by the author that she still <choice><orig>have</orig><reg>has</reg></choice> a sort of relationship to her former homes and a positive way of thinking.</s>
+      </p>
+      <p>
+        <s>To put it all in a nutshell one can say that <ref target="b11gk1_1" type="author">Jennifer Clement</ref> really created an interesting new character with <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+        <s>The true foster child lives a dot-to-dot life with too many changes and families for her young age.</s>
+        <s>But <ref target="b11gk1_1" type="character">Helen</ref> herself isn't clear about it so her innocent way of thinking only <choice><orig>allow</orig><reg>allows</reg></choice> positive aspects of her former life.</s>
+        <s>But in her way of speaking one can still see that in her childhood was not everything right.</s>
+        <s>Even <choice><orig>tho</orig><reg>though</reg></choice> <ref target="b11gk1_1" type="character">Helen</ref> has had such bad living conditions she will not give up what shows her strong character traits.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g35_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In multicultural <choice><orig>societys</orig><reg>societies</reg></choice> are a lot of <choice><orig>differen</orig><reg>different</reg></choice> influences.</s>
+        <s>But are they positive?</s>
+        <s><choice><orig>are</orig><reg>Are</reg></choice> they negative?</s>
+        <s>Or even both?</s>
+      </p>
+      <p>
+        <s>When living in a multicultural society you are going to learn a lot about other cultures and some people might say you will forget your own culture but that isn't true.</s>
+        <s>Culture is what we make out of it it isn't set in stone and changing <choice><orig>throug</orig><reg>through</reg></choice> the time.</s>
+        <s>By living in multicultural society you <choice><orig>wont</orig><reg>won't</reg></choice> forget your own, but you will probably <choice><orig>ad</orig><reg>add</reg></choice> something to it.</s>
+        <s>So if you are very conservative and don't want any change it is a negative <choice><orig>aspekt</orig><reg>aspect</reg></choice> but if you want to succeed in <choice><orig>live</orig><reg>life</reg></choice> and have a career in <choice><orig>todays</orig><reg>today's</reg></choice> world you will need to do it on an international level and you will have to manage to get along with people from different origins either way and the earlier you <choice><orig>lern</orig><reg>learn</reg></choice> how to do it the easier it is.</s>
+        <s>So it is also a positive thing.</s>
+        <s>For smaller ethnic groups it is hard to live in an other society because of things like racism.</s>
+        <s>So the influences from racist people are 100% <choice><orig>negativ</orig><reg>negative</reg></choice> because they have others that did no harm to them.</s>
+        <s>Also a lot of immigrants change a lot of parts in their lifestyle to fit in better because they want to <choice><orig>liv</orig><reg>live</reg></choice> a life there.</s>
+        <s>They still partly hold on to their origin, but they try to fit in, <choice><orig>wich</orig><reg>which</reg></choice> is also a positive <choice><orig>aspekt</orig><reg>aspect</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In conclusion I would say that there are some negative <choice><orig>aspekts</orig><reg>aspects</reg></choice> like gangs for example, but they alos exist in non multicultural <choice><orig>societys</orig><reg>societies</reg></choice>, ot the hate against the people that make it into a multicultural society.</s>
+        <s>But there are very stronger positive <choice><orig>Arguments</orig><reg>arguments</reg></choice>, so the influences in a multicultural society are more positive <choice><orig>then</orig><reg>than</reg></choice> negative.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

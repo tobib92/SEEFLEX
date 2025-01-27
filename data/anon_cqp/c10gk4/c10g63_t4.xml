@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g63_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Experiences as a volunteer in <name type="misc">Education Center</name> in <name type="geo">India, Delhi</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Bianca L.</name> is an 18-year-old German volunteer who worked in an <name type="misc">Education Center</name> for children in a slum of <name type="geo">Delhi</name> in <name type="geo">India</name>.</s>
+        <s>The following report is about the experiences she made there working with children.</s>
+      </p>
+      <p>
+        <s>A normal day in her life there looked like this: At first she had breakfast at 8:30.</s>
+        <s>At 10 o'clock she left the apartment and went to the Center by a <choice><orig>Rikscha</orig><reg>rickshaw</reg></choice>.</s>
+        <s>Then she gave English grammar lesson for the boys from 10:30 and more or less until 12 o'clock.</s>
+        <s>The next two hours she had lunch break and then she went on with teaching the girls the <choice><orig>english</orig><reg>English</reg></choice> grammar from 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> until 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> said that the children were the most important thing for her there.</s>
+        <s>She was surprised by and enthusiastic about the kids.</s>
+        <s>She told that she never met anyone who had so much love in their <choice><orig>heards</orig><reg>hearts</reg></choice> than these children had eventhough they were in such a bad situation and had not a good fate.</s>
+        <s>She enjoyed every day she could spend with these children who were full of love and <choice><orig>a</orig><reg>an</reg></choice> acceptance.</s>
+        <s><name type="person">Bianca</name> also described those children she really loved as curious and <choice><orig>ful</orig><reg>full</reg></choice> of joy and she was very impressed by the love for life that they had.</s>
+        <s>For her it were the best days of life there in the slum with the children.</s>
+        <s>She loved the job she did and every single day she was with the kids she laughed eventhough she <choice><orig>migh</orig><reg>might</reg></choice> was a bit tires and frustrated.</s>
+        <s>The children gave her love, hope, patience, confidence and she was so thankful and glad she could gain this experience.</s>
+      </p>
+      <p>
+        <s>Because <name type="person">Bianca</name> is a good friend of mine I am happy for her and I wish this is going to be the best time of your <choice><orig>lifes</orig><reg>lives</reg></choice> too when you decide to take part in a volunteer program too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

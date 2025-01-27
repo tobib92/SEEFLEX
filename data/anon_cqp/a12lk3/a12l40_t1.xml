@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l40_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene of the given excerpt from <ref target="a12lk3_1" type="author">William Shakespeare</ref>'s comedy <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> takes place on a street in <name type="geo">Venice</name> where <name type="person">Shylock</name> meets <name type="person">Tubal</name>, a Jewish friend of his, and they start talking about <name type="person">Shylock's</name> daughter and his bond with <name type="person">Antonio</name>.</s>
+      </p>
+      <p>
+        <s>The scene is part of the rising action of this play for it follows the exhibition which includes the introduction of the character but is still happening before <name type="person">Shylock's</name> and <name type="person">Antonio's</name> case goes to court.</s>
+        <s>Shortly before, <name type="person">Jessica</name>, <name type="person">Shylock's</name> daughter, ran away with a Christian man and took money and jewelry of her father with her.</s>
+      </p>
+      <p>
+        <s>Now, <name type="person">Shylock</name> encounters <name type="person">Tubal</name> and asks him hopefully whether he was able to find his daughter.</s>
+        <s>As <name type="person">Tubal</name> has to answer this question in the negative <name type="person">Shylock</name> finds himself in misery and starts ranting about his daughter's misbehaviour and his sadness about her actions.</s>
+        <s><name type="person">Tubal</name> tries to lift him up by telling him that <name type="person">Antonio</name> is miserable as well because his ships are said of to have been cast away.</s>
+        <s>For <name type="person">Shylock</name> these are good news and he delights in his hope to finally get revenge for all the bad things tha have happened to him.</s>
+        <s>Still, his daughter took a lot of money from him and even a ring that <name type="person">Shylock's</name> dead wife had given to him which puts him into an interior conflict between grief about <name type="person">Jessica</name> and enthusiasm about <name type="person">Antonio</name>.</s>
+        <s>The conversation between <name type="person">Shylock</name> and <name type="person">Tubal</name> ends with their hope for justice for <name type="person">Shylock</name> as they both leave the scenery.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

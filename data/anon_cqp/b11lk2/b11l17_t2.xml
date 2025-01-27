@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l17_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The way <ref target="b11lk2_1" type="character">Gatsby</ref> is portrayed in this excerpt <choice><orig>his</orig><reg>is</reg></choice> different to what we know him as before.</s>
+      </p>
+      <p>
+        <s>When <ref target="b11lk2_1" type="character">Gatsby</ref> is always shown as this great, confident man, this is the first time we see him struggle and asking <ref target="b11lk2_1" type="character">Nick</ref> for help.</s>
+      </p>
+      <p>
+        <s>This is especially remarkable since a few pages earlier <ref target="b11lk2_1" type="character">Gatsby</ref> offers a job to <ref target="b11lk2_1" type="character">Nick</ref>.</s>
+      </p>
+      <p>
+        <s>Apart from that the novel itself is called <ref target="b11lk2_1" type="title">The Great Gatsby</ref>, underlining this <choice><orig>fassade</orig><reg>facade</reg></choice> of greatness and pure wealth.</s>
+      </p>
+      <p>
+        <s>We also learn that all this wealth, glamour and the parties were just arranged to impress <ref target="b11lk2_1" type="character">Daisy</ref>, even the house he lives in was jsut bought because it lays at <name type="geo">West Egg</name> directly oppsite to <ref target="b11lk2_1" type="character"><choice><orig>Toms</orig><reg>Tom's</reg></choice></ref> and <ref target="b11lk2_1" type="character"><choice><orig>Daisys</orig><reg>Daisy's</reg></choice></ref> house laying at <name type="geo">East Egg</name>.</s>
+      </p>
+      <p>
+        <s>When the meeting is arranged <ref target="b11lk2_1" type="character">Gatsby</ref> wants everything to be perfect.</s>
+      </p>
+      <p>
+        <s>Furthermore he is really nervous and hasn't slept the night or at least not much <ref target="b11lk2_1" type="line">(p. 82, l. 21f.)</ref>.</s>
+        <s>Also he seems really lost in his mind and not attentive at all, example for that are in lines 23 to 25 on page 82, <quote>Is everything alright?</quote> he asked immediately, <quote>the grass looks fine if that's what you meant</quote>.</s>
+        <s><quote>What grass?</quote>.</s>
+      </p>
+      <p>
+        <s>In this scene he really just seems like a shell of himself.</s>
+      </p>
+      <p>
+        <s>Two times this anxiety leads to him almost leaving early, without even seeing <ref target="b11lk2_1" type="character">Daisy</ref> in one occasion <ref target="b11lk2_1" type="line">(p. 83, l. 13)</ref> and <ref target="b11lk2_1" type="line">(p. 85, l. 29)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> calms <ref target="b11lk2_1" type="character">Gatsby</ref> down by reassuring him that <ref target="b11lk2_1" type="character"><choice><orig>Daisys</orig><reg>Daisy's</reg></choice></ref> is just as nervous and <choice><orig>embarassed</orig><reg>embarrassed</reg></choice> as <ref target="b11lk2_1" type="character">Gatsby</ref> himself.</s>
+        <s>An indicator for that can be found in line 17 on page 85, as she remembers the exact month <ref target="b11lk2_1" type="character">Gatsby</ref> and her met.</s>
+        <s>This proof that that he is important to her.</s>
+      </p>
+      <p>
+        <s>Like often in this book, colours play a big role.</s>
+        <s>An example for that is <ref target="b11lk2_1" type="character"><choice><orig>Daisys</orig><reg>Daisy's</reg></choice></ref> lavender hat, as purple is often associated with wealth and financial stability.</s>
+      </p>
+      <p>
+        <s>Another example is <ref target="b11lk2_1" type="character"><choice><orig>Gatsbys</orig><reg>Gatsby's</reg></choice></ref> suit, white is the color of purity, innocence, cleanness, gold and silver on the other hand are symbols of wealth and richness.</s>
+      </p>
+      <p>
+        <s>These interpretations really fit <ref target="b11lk2_1" type="character"><choice><orig>Gatsbys</orig><reg>Gatsby's</reg></choice></ref> character in this excerpt: although he is the insecure, pure person for once, his wealth is always present.</s>
+      </p>
+      <p>
+        <s>The silver shirt could also be viewed as his love for <ref target="b11lk2_1" type="character">Daisy</ref> as his love for <ref target="b11lk2_1" type="character">Daisy</ref> as it's lurking from his jacket, not really visible but still present.</s>
+      </p>
+      <p>
+        <s>This would be fitting through silver being a really special and glamourous colour.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

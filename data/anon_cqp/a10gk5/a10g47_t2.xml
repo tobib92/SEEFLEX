@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g47_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following the <choice><orig>authors</orig><reg>author's</reg></choice> intention will be analysed by focusing on stylistic devices and communicative strategies.</s>
+      </p>
+      <p>
+        <s>She uses a lot of bad adjectives (<ref target="a10gk5_1" type="line">l. 1</ref> <quote>harmful</quote>; <ref target="a10gk5_1" type="line">l. 2</ref> <quote>hazardous</quote>) to underline the environmental pollution and the human behaviour.</s>
+        <s>She wants the reader realize how bad the situation.</s>
+      </p>
+      <p>
+        <s>Line 4 <quote>only planet</quote> shows that there are no other ways but save the earth.</s>
+        <s>The reader should appreciate this planet and use his resources carefully.</s>
+        <s>The <choice><orig>numeration</orig><reg>enumeration</reg></choice> <quote>oxygen, nitrogen, carbon dioxide, argon and water vapor</quote> <ref target="a10gk5_1" type="line">(l. 7)</ref> shows how many resources only this planet <choice><orig>have</orig><reg>has</reg></choice>.</s>
+        <s>But everything <choice><orig>are</orig><reg>is</reg></choice> in danger now.</s>
+      </p>
+      <p>
+        <s>The plot twist <quote>became victim of his own creations</quote> <ref target="a10gk5_1" type="line">(l. 12)</ref> shows that human are not perfect though they discover science or technology.</s>
+        <s>They are smart but don't know the <choice><orig>affects</orig><reg>effects</reg></choice> of their progress.</s>
+      </p>
+      <p>
+        <s>She also speaks personal to the reader for example <ref target="a10gk5_1" type="line">(l. 14)</ref> <quote>our gains</quote>, <ref target="a10gk5_1" type="line">(l. 17)</ref> <quote>leaves us</quote> to make clear the <surplus>the</surplus> <choice><orig>Globalisation</orig><reg>globalisation</reg></choice> is relevant to everyone so also her, though she knows all the <choice><orig>affects</orig><reg>effects</reg></choice>.</s>
+        <s>She wants to create a relationship to its reader so the reader is more ready to do something.</s>
+      </p>
+      <p>
+        <s>The example in <name type="geo">Bhopal</name> on <date>December 3 in 1984</date> shows firstly the tragedy and secondly how current it is.</s>
+        <s>It informs about dangerous gas on plant and thousands of people <quote>were killed</quote> <ref target="a10gk5_1" type="line">(l. 31)</ref>.</s>
+        <s>She chooses the verb <quote>kill</quote> to express that this isn't nature, so these deaths are caused by human behaviour.</s>
+      </p>
+      <p>
+        <s>The comparison <quote>like Hiroshima</quote> <ref target="a10gk5_1" type="line">(l. 34)</ref> shows how the planet will look or would like.</s>
+        <s>The author chooses this example because nearly everyone knows about <name type="geo">Hiroshima</name>, so the reader has an image of the world in future.</s>
+        <s>At the end she appeals <quote>If we fail to restore the ecological balance right now</quote> <ref target="a10gk5_1" type="line">(l. 36)</ref>.</s>
+        <s>She warns the reader and say that the time to behave is now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g32_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie is based on a book, in which the given scene is a little bit different.</s>
+        <s>But I think the scene in the movie describes it very well and the most important things are in it.</s>
+        <s>In a movie it's normal or good to leave out some thing or make some situation go different because otherwise it would take too long, but the important things of the scene shouldn't get lost.</s>
+        <s>I think the most important here is the cohesion in the family which is shown very well in the movie-scene and the moment when <ref target="b10gk3_1" type="character">Starr</ref> starts recording the police and speaks up against unfairness and racism of the police officers.</s>
+        <s>She takes her remedies against the police officers and uses them.</s>
+      </p>
+      <p>
+        <s>I think the scene in the movie is done very well and nothing important from the novel got lost.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

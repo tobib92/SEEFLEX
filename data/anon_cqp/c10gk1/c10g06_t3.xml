@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g06_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>The limits of my language are the limits of my world</quote>.</s>
+        <s>This was a statement from <name type="person">Ludwig Wittgenstein</name>, German linguist philosopher, <date>1889</date>-<date>1951</date>.</s>
+        <s>But is this true?</s>
+      </p>
+      <p>
+        <s><quote>The limits of my language</quote>.</s>
+        <s>You can learn a lot of languages but sometimes you will forget about a word or you will change a word with <choice><orig>a</orig><reg>an</reg></choice> other word from a language because you know a <choice><orig>loads</orig><reg>lot</reg></choice> of different languages.</s>
+        <s>But for other people <choice><orig>its</orig><reg>it's</reg></choice> perhaps simple to learn a new language.</s>
+      </p>
+      <p>
+        <s><quote>... the limits of the world</quote>.</s>
+        <s>You can get sometimes on your limits when you learn a <choice><orig>knew</orig><reg>new</reg></choice> language because the grammar are for some people very hard but some people have fun to learn it and are interests in it.</s>
+        <s>In a globalized world where everybody <choice><orig>speek</orig><reg>speaks</reg></choice> the same language you will learn quickly.</s>
+      </p>
+      <p>
+        <s>All in all, I can say that this statement is true because <choice><orig>its</orig><reg>it's</reg></choice> really hard to learn a new language.</s>
+      </p>
+      <p>
+        <s>Sometimes you will get on your limits.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

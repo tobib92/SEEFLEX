@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12l05_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="explaining" genre_family="factorial explanation">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="b12lk1_1" type="title">We are entering an era of pandemics - it will end only when we protect the rainforest</ref> was written by <ref target="b12lk1_1" type="author">Peter Daszak</ref>, the president of the non-profit organization <name type="misc">Eco-Health Alliance</name>.</s>
+        <s>It was published on <date>July 28th 2020</date> in the <name type="misc">Guardian</name> and deals with the topic of global pandemics being a result of humans interfering with eco systems, like the rainforest.</s>
+      </p>
+      <p>
+        <s>The point, <ref target="b12lk1_1" type="author">Peter Daszak</ref> tries to bring acriss in his article is that every disease or virus, has <choice><orig>it's</orig><reg>its</reg></choice> beginning in the circle of nature.</s>
+        <s>He argues, that post global pandemics like <name type="misc">Ebola</name> or diseases like <name type="misc">HIV</name> had their origin in <choice><orig>wild life</orig><reg>wildlife</reg></choice>.</s>
+        <s>The global pandemic <name type="misc">Covid-19</name> might have come from a wet market in <name type="geo">China</name> selling wild meat.</s>
+      </p>
+      <p>
+        <s>According to <ref target="b12lk1_1" type="author">Daszak</ref> we are entering an era of pandemics, which resolutes through how we interact with our nature, for example by deforesting large parts of wild habitats and in that way increasing the risks of getting in direct contact with viruses that exist naturally in the animal world.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk1_1" type="author">Daszak</ref> adds that the viruses and diseases themselves are not the problem when it comes to global pandemics.</s>
+        <s>He says that before there was a world, as globalized as today, pandemics would not have been a topic, because the chance of preading would have been limited to a small circle.</s>
+        <s>For example the fmaily or the hunting groups infected people were in.</s>
+        <s><choice><orig>Nowdays</orig><reg>Nowadays</reg></choice>, things have changed, as every spot on our planet is connected with each other.</s>
+        <s>Humans aren't settled in one place but instead more constantly.</s>
+        <s>Therefore it has become much easier for a disease to <choice><orig>spred</orig><reg>spread</reg></choice> across the planet, infecting dozens of people and mutating, making the control of them much harder than before.</s>
+      </p>
+      <p>
+        <s><ref target="b12lk1_1" type="author">Peter Daszak</ref> concludes, that pandemics will be a major topic in our future if we do not change our habits.</s>
+        <s>He argues, that ony by reducing human <choice><orig>interferance</orig><reg>interference</reg></choice> with wildlife, pandemics can be stopped in the future, otherwise the harm, that is caused to humans by pandemics will not stop.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g47_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <name type="misc">The Telegraph</name>
+        <date>30th November 2021</date>
+        <s>In reference to the article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>regarding to your article about learning foreign languages in the <name type="geo">UK</name>, I would like to give you some critical feedback.</s>
+      </p>
+      <p>
+        <s>At the beginning I can say that I do not agree that much with your opinion to improve the language skills.</s>
+      </p>
+      <p>
+        <s>I understand your motivation for <choice><orig>globalizational</orig><reg>globalization</reg></choice> aspect, but you forgot to mention that having the skill to talk and write in foreign languages will not make you instantly successful.</s>
+      </p>
+      <p>
+        <s>You have to work hard anyways to be successful, <choice><orig>The</orig><reg>the</reg></choice> career is not influenced by talking more or less languages.</s>
+      </p>
+      <p>
+        <s>I support your opinion about taking responsibility for educational chances, but opportunities of different and many perspectives.</s>
+        <s>It is not <choice><orig>neccessarely</orig><reg>necessarily</reg></choice> important to know a foreign language to be successful, as I mentioned before, but maybe a chance for diversity in universities or schools to be happy and improve the career aspect.</s>
+      </p>
+      <p>
+        <s>Many people in the world got the best career they could have, but are not happy for what they are working for.</s>
+        <s>So I think the aspect to grow the opportunity for language studying as good for itself is superfluous, but for the diversity in the work place and business career it is a good influence for living <choice><orig>happy</orig><reg>happily</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

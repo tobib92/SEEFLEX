@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g30_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The final part of scene 3 can be considered the turning point of <ref target="b11gk2_1" type="title">Disgraced, Scene 3</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> is, somewhat involuntary, adopting his <choice><orig>mothers</orig><reg>mother's</reg></choice> teachings and culminates his anger in violence.</s>
+      </p>
+      <p>
+        <s>In the following I will analyze, how this scene can be considered the turning point and which previous events lead to <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> outburst of violence.</s>
+      </p>
+      <p>
+        <s>This scene can <choice><orig>definitly</orig><reg>definitely</reg></choice> be considered the <choice><orig>tourning</orig><reg>turning</reg></choice> point of this play, as scene 3 and 2 display, <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> <choice><orig>oppinions</orig><reg>opinions</reg></choice> and background and lead up to the dinner and this final part of scene 3.</s>
+      </p>
+      <p>
+        <s>Scene 3 <choice><orig>show</orig><reg>shows</reg></choice> the consequences of <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> actions, as he lost his job and divorced with <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>Another important factor of this turning point is the tension falling greatly, as <ref target="b11gk2_1" type="character">Amir</ref> seems very toned down in scene 4 as if all his anger has been released with the end of the dinner.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> is clearly contradicting himself in this scene.</s>
+        <s>He often argued about how he thinks, that Islam is a source of hate and actively tries to get rid of his <choice><orig>muslim</orig><reg>Muslim</reg></choice> background <ref target="b11gk2_1" type="line">(p. 39, l. 41-43)</ref>.</s>
+      </p>
+      <p>
+        <s>But in this scene <ref target="b11gk2_1" type="character">Amir</ref> shows that he is still influenced by his <choice><orig>mothers</orig><reg>mother's</reg></choice> education, as he spits in <ref target="b11gk2_1" type="character"><choice><orig>Isaacs</orig><reg>Isaac's</reg></choice></ref> face, just like his mother, who spat in his face because he was in love with a <choice><orig>jewish</orig><reg>Jewish</reg></choice> girl.</s>
+        <s>He also hits <ref target="b11gk2_1" type="character">Emily</ref> after she told him of her affair, just like he thinks the Quran is promoting.</s>
+        <s>A lot of previous events and conflicts have led to <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> outburst of anger in this scene.</s>
+        <s>As described above his mother threatened him because of his love of a <choice><orig>jewish</orig><reg>Jewish</reg></choice> girl <ref target="b11gk2_1" type="line">(p. 34 l. 28-30)</ref>, which probably led to a <choice><orig>subcontious</orig><reg>subconscious</reg></choice> antisemitism and acceptance of violence.</s>
+      </p>
+      <p>
+        <s>After he tried to get rid of his <choice><orig>islamic</orig><reg>Islamic</reg></choice> background he is also angered by <ref target="b11gk2_1" type="character">Emily</ref> being interested in Islam, as she tries to replicate the art <ref target="b11gk2_1" type="line">(p. 47, l. 17-20)</ref>.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> also <choice><orig>feel</orig><reg>feels</reg></choice> he is disadvantaged at his place of work, as <ref target="b11gk2_1" type="character">Jory</ref> is promoted instead of him, <choice><orig>altough</orig><reg>although</reg></choice> he works more and has worked longer at this company than her, which he is informed about right before he sees <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> nearly kissing, which turned the end of the dinner party into a heated discussion and a short outburst of anger of <ref target="b11gk2_1" type="character">Amir</ref>, spitting into <ref target="b11gk2_1" type="character"><choice><orig>Isaacs</orig><reg>Isaac's</reg></choice></ref> face, right before the longer outburst of violence against <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+        <s>The promotion of <ref target="b11gk2_1" type="character">Jory</ref> and the affair of <ref target="b11gk2_1" type="character">Isaac</ref> and <ref target="b11gk2_1" type="character">Emily</ref> had a huge factor in this, as well as the other things if mentioned before and also the discussions at the dinner about the interpretation of the Quran.</s>
+      </p>
+      <p>
+        <s>To sum up, you could say that this scene is <choice><orig>definitly</orig><reg>definitely</reg></choice> the turning point in this play and that this outburst of violence and anger was influenced by his <choice><orig>mothers</orig><reg>mother's</reg></choice> teachings.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

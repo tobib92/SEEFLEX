@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g08_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text is a comment by <ref target="a12gk1_1" type="author">John Worne</ref> named <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref> in which he focuses on the problem that less <name type="geo">UK</name> students gain the ability of speaking, foreign languages.</s>
+      </p>
+      <p>
+        <s>He states the problem to be just like the title says and backs up his claim by giving statistics on a decline of foreign language studies in national school exams and universities.</s>
+      </p>
+      <p>
+        <s>Although more primary schools now offer foreign languages this development remains.</s>
+      </p>
+      <p>
+        <s>On the possibility that in a modern globalised world it is sufficient to rely on the English language he reacts rejective and gives the example of data charges abroad.</s>
+        <s>Also foreign languages are a necessity for various interests on a national level like getting to set foot in the world's fast-growing economies.</s>
+        <s>A study showing that about <choice><orig>two-thirds</orig><reg>two thirds</reg></choice> of businesses based in the <name type="geo">UK</name> are in need of foreign language skills aids <ref target="a12gk1_1" type="author">Worne's</ref> argument.</s>
+        <s>These companies often have to rely on translators or even hore abroad because there is no local capacity to choose from even though <name type="geo">UK</name> universities now offer you to learn a foreign language in addition to your normal degree subject.</s>
+        <s><ref target="a12gk1_1" type="author">Worne</ref> thinks that the combined abilities are the most demanded and it is now the <name type="geo">UK</name> <choice><orig>parent's</orig><reg>parents'</reg></choice> task to ensure their children's foreign language skills.</s>
+        <s>In summary <ref target="a12gk1_1" type="author">John Worne</ref> has the opinion that the <choice><orig>dedline</orig><reg>deadline</reg></choice> of foreign language studies in the <name type="geo">UK</name> even though the offerings of educational institutions and demand from employers have risen have to be stopped by the parents as the educational system cannot fix the problem on <choice><orig>it's</orig><reg>its</reg></choice> own also considering the <name type="geo">UK's</name> economy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

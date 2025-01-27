@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g53_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text, I will express my opinion on the question whether the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> changed my perspective on certain things or not.</s>
+      </p>
+      <p>
+        <s>From my point of view, I can clearly say that the movie did a great job at spreading awareness and visualizing the problem for everyone in the world to see.</s>
+        <s>Racism is a common problem many people see as annoying as it occurs more and more in the news and in conversations.</s>
+        <s>But it is clear that this is in the virtue of the people not being affected by racism.</s>
+        <s>I can say that I'm sadly also affected by daily racism and I too try to spread as much awareness on it as I can.</s>
+        <s>I can't really say that the movie changed my perspective of the problem but that doesn't mean it didn't change it for other people.</s>
+        <s>I fully support how the movie/director showed the systematic discriminating issue towards black people in the perspective of a young black girl who goes to school, has a family and is just trying to live a normal teenage life as white teenagers.</s>
+        <s>Thus I like the way the film slowly and easily educates on the problem for everyone to understand.</s>
+        <s>It shows the challenges a black teenage girl has to go through when other teenagers have it way more easy <choice><orig>then</orig><reg>than</reg></choice> her.</s>
+        <s>Racism is still a problem and not only in <name type="geo">America</name>.</s>
+        <s>That's why I appreciate the often silenced topic that <choice><abbr>POC</abbr><expan>people of colour</expan></choice>/black people are even discriminated by the government and nothing is done about it.</s>
+      </p>
+      <p>
+        <s>Considering every aspect I said, one can say that the movie is perfect for educating people all over the world and spreading awareness.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

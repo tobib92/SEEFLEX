@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l01_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>the relation between <name type="geo">Germany</name> and <name type="person">Shakespeare</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>Have you ever asked yourself, <quote>how did <name type="person">Shakespeare's</name> work get so famous around Europe?</quote>.</s>
+        <s>In the following I am going to describe to you how <name type="person">Shakespeare's</name> work made it to <name type="geo">Germany</name> and his relation with the city <name type="geo">Weimar</name>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>german</orig><reg>German</reg></choice> article <ref target="a12lk1_2" type="title">wie Shakespeares Denkmal in den Weimarer Ilmpark kam</ref> written by <ref target="a12lk1_2" type="author">Wolfgang Hirsch</ref> from <date>24th April 2016</date> and published by the <name type="misc">Thüringer Allgemeine</name>, will be the source I am going to focus on.</s>
+        <s>In <name type="geo">Great Britain</name> <name type="person">Shakespeare</name> is a national hero and you can see statues or read his work all over the country.</s>
+      </p>
+      <p>
+        <s>Even in <name type="geo">Germany</name> there is a <name type="person">Shakespeare</name> society which was founded 450 years ago in <date>1864</date>.</s>
+        <s>Deep into the 18th century the English author was unknown due to the lack of translation.</s>
+        <s>A German language professor named <name type="person">Klaus Manger</name> States that the first person to publish <name type="person">Shakespeare</name> translated work what is a well-known person in <choice><orig>german</orig><reg>German</reg></choice> literature with the name <name type="person">Christoph Martin Wieland</name>.</s>
+        <s>He published 22 dramas from <date>1762</date> to <date>1766</date> and even though he was the first one to publish <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> work, there were others before him that used <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> pattern.</s>
+        <s><name type="person"><choice><orig>Wielands</orig><reg>Wieland's</reg></choice></name> translation of course got some negative critics but that doesn't matter because nowadays there are many different and more modern translations.</s>
+        <s>On <date>tthe 8th of <choice><orig>april</orig><reg>April</reg></choice> 1864</date> <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> dramas were played in a theater in <name type="geo">Weimar</name> which led to the foundation of the earlier mentioned society.</s>
+        <s>40 years later, to celebrate <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> 390 birthday, the society build a statue of the <choice><orig>english</orig><reg>English</reg></choice> author in one of their parks which remains there to this day.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

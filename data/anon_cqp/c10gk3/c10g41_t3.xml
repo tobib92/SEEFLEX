@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c10g41_t3</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Welcome.</s>
+        <s>My name is <name type="person">Faraj al-Byarshan</name> and I am immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in <date>2005</date>.</s>
+        <s>I am now 41 years old and became an engineer.</s>
+        <s>My journey was in contrast to other immigrations safer and better but I was without my family.</s>
+        <s>My two sons and my wife came 2 years later to <name type="geo">New York</name> <choice><orig>thats</orig><reg>that's</reg></choice> why I was the whole journey alone without anybody I knew.</s>
+        <s>I immigrated to <name type="geo">New York</name> because in my country was war and here in the <name type="geo">US</name> are better living conditions and especially for my children better education chances.</s>
+        <s>On my way I met another guy who was in the same situation as me and we understood each other really well.</s>
+        <s>We decided to become friends but we were lost each other in front of the border to the <name type="geo">US</name> because the gorvernment took us to different places to check our identity.</s>
+        <s>At this time I felt alone again but I knew it was getting better when I am in the <name type="geo">US</name> and can get a <name type="geo">US</name> citizenship.</s>
+        <s>Back to my journey.</s>
+        <s>First of all my friend and I travelled with a boat across a sea which was not that good but we have the chance to go on another boat from people who were educated so <choice><orig>safe</orig><reg>save</reg></choice> migrants like us.</s>
+        <s>That is why I said at the begin that my journey was a safe one.</s>
+        <s>We did not think we were dying or fall into the water like other refugees do.</s>
+        <s>When I was the first day here in the <name type="geo">US</name> I get a timeline in which I had to go after certain years but this does not make me feel sad.</s>
+        <s>I knew when my family arrive this does not matter then because we have a right to stay here with our <choice><orig>childs</orig><reg>children</reg></choice>.</s>
+        <s>For my future or for our future I hope my sons get a good education to find a job where they earn enough money that we all can stay here for our <choice><orig>lifes</orig><reg>lives</reg></choice> and that we all stay healthy and getting part of the <choice><orig>american</orig><reg>American</reg></choice> society.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

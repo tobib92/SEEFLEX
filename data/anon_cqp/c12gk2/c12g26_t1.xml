@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g26_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This extract from <ref target="c12gk2_1" type="author">William Shakespeare's</ref> play <ref target="c12gk2_1" type="title">Macbeth</ref>, first performed <date>1606</date> in the <name type="misc">London Globe Theatre</name>, contains the <ref target="c12gk2_1" type="scene">seventh scene out of the first act</ref>.</s>
+        <s>In that scene <ref target="c12gk2_1" type="author">Shakespeare</ref> describes <ref target="c12gk2_1" type="character">Macbeth's</ref> conviction by his wife <ref target="c12gk2_1" type="character">Lady Macbeth</ref> to kill his King <ref target="c12gk2_1" type="character">Duncan</ref> and therefore <choice><orig>fullfil</orig><reg>fulfil</reg></choice> the prophecy about his future as <name type="geo">Scottish</name> <choice><orig>king</orig><reg>King</reg></choice> given by three old witches before.</s>
+        <s>This scene leads towards the decisive point of the play because <ref target="c12gk2_1" type="character">Macbeth's</ref> loyalty to his king is <choice><orig>proofen</orig><reg>proven</reg></choice> very hard.</s>
+        <s>He needs to decide whether to take action and and try to gain more power or to stay loyal and wait for his fate to come.</s>
+        <s>That is why that scene is one of the most important ones throughout the play which has its historical base on the fights for the <name type="geo">Scottish</name> throne in the <date>eleventh century</date>.</s>
+      </p>
+      <p>
+        <s>The scene starts with a question from <ref target="c12gk2_1" type="character">Lady Macbeth</ref> who asks why <ref target="c12gk2_1" type="character">Macbeth</ref> already has left the feast even if <ref target="c12gk2_1" type="character">Duncan</ref> is still not ready with his meal.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> questions whether <ref target="c12gk2_1" type="character">Duncan</ref> has asked for him and his wife gives another question instead of an answer in which she asks <ref target="c12gk2_1" type="character">Macbeth</ref> why he would know that the <choice><orig>king</orig><reg>King</reg></choice> <choice><orig>have</orig><reg>has</reg></choice> not asked for him.</s>
+      </p>
+      <p>
+        <s>Next, <ref target="c12gk2_1" type="character">Macbeth</ref> states that he would not like to follow their plan anymore to kill the <choice><orig>king</orig><reg>King</reg></choice> because <ref target="c12gk2_1" type="character">Macbeth</ref> has already achieved an honor due to his new title, <ref target="c12gk2_1" type="character">Thane of <name type="geo">Cawdor</name></ref>, and he would like to use the situation as it is right now for his benefit.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref>, instead of agreeing on his decision, illustrates that he obviously lost his manliness and hope on the kingship, so that he would still like to achieve the title but not by using <gap reason="illegible" quantity="1" unit="word">shuner</gap> strategies.</s>
+        <s>She shows him that he could reach everything he wants, if he shows steadfastness and that is why he reacts by stating that noone could be more like a man than him.</s>
+      </p>
+      <p>
+        <s>His wife goes on and examines that only if he will participate in killing <ref target="c12gk2_1" type="character">Duncan</ref>, he will be a real man.</s>
+        <s>She cannot understand why the visceral appealing situation due to the <choice><orig>King</orig><reg>King</reg></choice> in their house and the prophecy does not convince <ref target="c12gk2_1" type="character">Macbeth</ref> to take action.</s>
+      </p>
+      <p>
+        <s>Hence, she also demonstrates her decisiveness and simply neglects <ref target="c12gk2_1" type="character">Macbeth's</ref> doubts about a possible failure by saying that a failure is possible but must be accepted.</s>
+        <s>She also states that if <ref target="c12gk2_1" type="character">Macbeth</ref> decides to find his bravery again, <choice><orig>the</orig><reg>they</reg></choice> will not fail.</s>
+      </p>
+      <p>
+        <s>Furthermore, she supports her previously named point that the situation is very inciting by explaining how her plan should work and how defenseless <ref target="c12gk2_1" type="character">Duncan</ref> will be during the night, after the chamberlains are drunk.</s>
+      </p>
+      <p>
+        <s>The scene ends with a <choice><orig>whish</orig><reg>wish</reg></choice> by <ref target="c12gk2_1" type="character">Macbeth</ref> how would like his wife only to give birth to male <choice><orig>childrens</orig><reg>children</reg></choice> due to her fearless character.</s>
+      </p>
+      <p>
+        <s>Additionally, he also sums up his thoughts after his wife's words and explains that he is persuaded to take action, even if he must hide his purpose before <ref target="c12gk2_1" type="character">Duncan</ref> is sleeping.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

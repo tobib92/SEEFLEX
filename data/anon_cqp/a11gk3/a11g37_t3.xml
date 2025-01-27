@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g37_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="hortatory exposition">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I've heard that the <name type="misc">The Hate U Give</name> is banned from your libraries.</s>
+        <s>And that I cannot understand.</s>
+        <s>Racism is a huge problem in the world.</s>
+        <s>Not only in the <name type="geo">USA</name>.</s>
+        <s>I think it is so important to teach students because that makes the world a better place.</s>
+        <s>And yes maybe in the book there are sexual references and it's sometimes vulgar.</s>
+        <s>But the sad thing is that it is not just in the book.</s>
+        <s>It is the real life.</s>
+        <s>These things which happen in the book are happening everyday in real life.</s>
+        <s>And <name type="person">Starr</name> is in the book the person who <choice><orig>try</orig><reg>tries</reg></choice> to tell us that we have to act against those situations.</s>
+        <s>She is a good example for so many people on this planet.</s>
+        <s>Her father get arrested because he was in a drug-gang by a guy named <name type="person">King</name>.</s>
+        <s>The people which are in this gang were all bad and good at the same time.</s>
+        <s><choice><orig>Fore</orig><reg>For</reg></choice> example <name type="person"><choice><orig>DeVaunt</orig><reg>DeVante</reg></choice></name>.</s>
+        <s>He sells drugs but only because he <choice><orig>need</orig><reg>needs</reg></choice> this money for his family because he didn't get work.</s>
+        <s>So <choice><orig>wat</orig><reg>what</reg></choice> I am trying to tell you is that every student <choice><orig>have</orig><reg>has</reg></choice> to read this book because only though reading it the people <choice><orig>starts</orig><reg>start</reg></choice> to think about problems in the world like this.</s>
+        <s>And I understand the point with the police.</s>
+        <s>But you have to understand that in the book <name type="person">One-Fifteen</name> is an example for some cops out there who make differences between peoples.</s>
+        <s>And I know not every police officer is bad but we have to work on it.</s>
+        <s>I hope I can tell you how I think about it.</s>
+      </p>
+      <p>
+        <signed>Faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

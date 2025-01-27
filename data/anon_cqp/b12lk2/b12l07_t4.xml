@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l07_t4</author>
+        <name>news</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="review">news</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Effective or Problematic? vol. 26 - the German perspective on the outcome of <name type="misc">COP26</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>The <name type="geo">Glasgow</name> conference which was aiming to solve the global challenges that we are facing right now was not held long ago.</s>
+        <s>But it was enough to have an opinion about it.</s>
+      </p>
+      <p>
+        <s>So has <name type="person">António Guterrez</name>, known as the Secretary-General of the United Nations, because even though she wants to spread hope regarding the climate crisis, he is quite skeptical about the outcome of the conference.</s>
+        <s><ref target="b12lk2_2" type="speaker">Jochen Flasbarth</ref>, State secretary Ministry for the Environment and Nature Protection in <name type="geo">Germany</name> does not agree with <name type="person">Guterrez</name>.</s>
+        <s>In his opinion the conference room a step forward.</s>
+        <s>According to <ref target="b12lk2_2" type="speaker">Flasbarth</ref>, many people overestimate the conference because there are not able to solve everything immediately.</s>
+        <s>It is quite time consuming.</s>
+        <s>But how much time do we have left?</s>
+        <s>This question cannot only scientist answer but especially smaller countries that are suffering from the global warming.</s>
+        <s>Because they cannot afford to talk any longer about the issue but need help for the action.</s>
+      </p>
+      <p>
+        <s>In order to change something the countries have to make concrete plans, that are realistic.</s>
+        <s>It did not work out very well as we can see the result of stopping the promotion of coal which has been weakened.</s>
+        <s>Because <name type="geo">India</name> and <name type="geo">China</name> do not want to stop their coal production.</s>
+        <s>The actual aim is to <quote>phase down</quote> the production.</s>
+        <s><ref target="b12lk2_2" type="speaker">Flasbarth</ref> still sees it optimistic because it was not even planned to discuss the abandonment of coal, so for him is it one step in the right direction.</s>
+        <s>He sees <name type="geo">Glasgow</name> as a success.</s>
+        <s>But not everybody agrees, many people see it as a <quote>show</quote> because the countries blame each other and do not want to take responsibility.</s>
+        <s>We can see that with <name type="geo">France</name>, who arm themselves with more nuclear power.</s>
+        <s><name type="geo">Germany</name> has also ambitious goals for the future such as only using renewable energy for electricity.</s>
+        <s>If there are able to realize this plan, we will see.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

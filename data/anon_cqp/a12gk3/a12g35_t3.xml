@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>a12g35_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John Worne,</salute>
+      </p>
+      <p>
+        <s>I just read the article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> published in <name type="misc">The Telegraph</name> on the <date>27th January 2015</date>.</s>
+      </p>
+      <p>
+        <s>In your text you wrote about the importance of foreign languages for the <name type="geo">UK</name> and why we should learn them.</s>
+      </p>
+      <p>
+        <s>First some informations about me I am a <choice><orig>british</orig><reg>British</reg></choice> student and I disagree with your conveyed opinion.</s>
+        <s>I think learning foreign languages as a British or <choice><orig>english</orig><reg>English</reg></choice> student is superfluous.</s>
+        <s>In your text there is a lack of contra arguments and only statistic that show that the number of people who learn foreign languages dropped not the effect it has.</s>
+        <s>One of your points was that it is vital for the <name type="geo">UK's</name> future and prosperity but you don't prove it with any statistics or an example.</s>
+      </p>
+      <p>
+        <s>Another point wars the two-thirds of businesses need for language skills which is true but only two-thirds of businesses need them not two-thirds of jobs which leads to the conclusion that you don't need foreign language skills to compete in jobs market because there are enough jobs where you don't need the skills.</s>
+        <s>Also foreign language skills get less and less <choice><orig>importan</orig><reg>important</reg></choice> due to the globalisation more <choice><orig>english</orig><reg>English</reg></choice> is spoken in all countries and <choice><orig>english</orig><reg>English</reg></choice> words find their way into the foreign languages and are there used on a daily basis.</s>
+        <s>For example Denglish which means when in a <choice><orig>german</orig><reg>German</reg></choice> sentence many <choice><orig>english</orig><reg>English</reg></choice> words are used.</s>
+        <s>I would appreciate it if you would name more contra arguments so you are actually arguing and not just pointing out.</s>
+        <s>With this structure you are thinking <choice><orig>every-body</orig><reg>everybody</reg></choice> agrees with your opinion.</s>
+      </p>
+      <p>
+        <s>I hope you take my words in consideration.</s>
+      </p>
+      <p>
+        <signed>
+          <choice>
+            <orig>Sincerly</orig>
+            <reg>Sincerely, Jane</reg>
+          </choice>
+        </signed>
+      </p>
+    </body>
+  </text>
+</TEI>

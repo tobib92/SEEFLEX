@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g05_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt of the novel <ref target="b11gk1_1" type="title">Gun Love</ref> written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>, published in <date>2019</date> is about a fourteen year old girl named <ref target="b11gk1_1" type="character">Pearl</ref>.</s>
+        <s>She is the first-person narrator and lives together with her mother in a <date>1994</date> <name type="misc">Ford Mercury</name> until her mother dies.</s>
+        <s>After this the <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> takes <ref target="b11gk1_1" type="character">Pearl</ref> away from the trailer park and puts her in a foster home.</s>
+        <s>There live two other children named <ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is the youngest of them.</s>
+        <s>She is eight years old and lives since six months in this foster home.</s>
+        <s>Before she came here she lived a dot-to-dot life and got moved from one foster home to another one.</s>
+        <s>So she lived in more than 17 foster homes.</s>
+        <s>In some of them she got only cereals to eat or hard to reuse her <quote>dental floss and tea bags</quote> <ref target="b11gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>In one of them she had to sleep on the hallway and got only one piece of toilet paper a day <ref target="b11gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>In every home she lived on bad circumstances as explained in the upper part.</s>
+        <s>Compared to that her current situation is very good.</s>
+        <s>She has everything she needs has friends and a good surrounding.</s>
+        <s>Her location is now very good but the mental situation of <ref target="b11gk1_1" type="character">Helen</ref> is really bad.</s>
+        <s>This will be explained more <choice><orig>detailed</orig><reg>detailled</reg></choice> in Assignment 2.</s>
+      </p>
+      <p>
+        <s>To sum up, <ref target="b11gk1_1" type="character"><choice><orig>Helens</orig><reg>Helen's</reg></choice></ref> situation has changed positive and the current foster home is good but her mental health is not as good as it should be.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

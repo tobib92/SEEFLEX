@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g45_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Blogpost</orig><reg>blogpost</reg></choice> <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> and published in <date>2014</date> on <date>Febraury 5</date> is about.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk5_1" type="author">Ankita Mitra</ref> writes in her <choice><orig>Blog</orig><reg>blog</reg></choice> that <choice><orig>Environmental</orig><reg>environmental</reg></choice> pollution has very dangerous effects on our lives.</s>
+        <s>We only have one <choice><orig>Planet</orig><reg>planet</reg></choice> where we can live because we have there water and air and without the biosphere we wouldn't exist.</s>
+        <s>Our <choice><orig>Knowledge</orig><reg>knowledge</reg></choice> of industry and urban growth and maybe we are <choice><orig>gonna</orig><reg>going to</reg></choice> lose control.</s>
+        <s>Furthermore industry destroys our lives, because the effects on our health are devastating.</s>
+        <s>And is it really worth that we destroy our planet only of science and technology.</s>
+        <s>Every car has also make and because of the toxic air many people died already.</s>
+        <s>We have to do something.</s>
+        <s>Maybe later it would be <choice><orig>to</orig><reg>too</reg></choice> late.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

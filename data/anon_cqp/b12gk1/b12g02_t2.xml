@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> wants to make clear what the aim of the <name type="misc">COP25</name> in <name type="geo">Glasgow</name> is.</s>
+        <s>He wants the audience to understand, which power and historical after their decisions at this point of history <gap reason="illegible" quantity="1" unit="word">ran</gap> home.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> put his whole speech between the comparison to <name type="person">James Bond</name> and the climate change.</s>
+        <s>He starts his speeh with the <gap reason="illegible" quantity="1" unit="word">referend</gap> and comes back o it at the end.</s>
+        <s>Betweenthe this he <choice><orig>mainly</orig><reg>mainley</reg></choice> <choice><orig>critizeded</orig><reg>criticized</reg></choice> the previous acting of the global leader doing the climate change, but also mentions what they could do better.</s>
+        <s>He points out, what could go wrong, but also that it's the most <choice><orig>importance</orig><reg>important</reg></choice> thing to do a change now.</s>
+        <s>The comparison to <name type="person">James Bond</name> is a reference.</s>
+        <s>Everybody knows the movies of <name type="person">James Bond</name> and his nearly impossible missions, it's somehow ironical to compare it to something important as the climate change.</s>
+        <s>But the biggest difference he <choice><orig>contrast</orig><reg>contrasts</reg></choice> also the climate change is real, with real consequences highlights the importance of acting now.</s>
+        <s>By mentioning <name type="geo">Copenhagen</name> or <name type="geo">Paris</name> he just wants to prove his qualifications and knowledge for the topic.</s>
+      </p>
+      <p>
+        <s>The real point he wants to make is, that the plans and aims, which were created at these summits, are <choice><orig>to</orig><reg>too</reg></choice> low.</s>
+      </p>
+      <p>
+        <s>They didn't affect a change.</s>
+        <s>They are just <quote>blah, blah, blah</quote> <ref target="b12gk1_1" type="line">(l. 13)</ref>.</s>
+        <s>Just talking, no acting.</s>
+      </p>
+      <p>
+        <s>But the <name type="misc">COP26</name> in Glasgow is an opportunity.</s>
+        <s>A opportunity to start to get <quote>real</quote> with the climate <ref target="b12gk1_1" type="line">(l. 15)</ref>: that means to create better and drastical aims to fight against the climate crisis.</s>
+        <s>At this point he starts to use inclusive language <add>(f.e.<quote>we</quote>, <ref target="b12gk1_1" type="line">l. 16</ref>)</add>.</s>
+        <s>He put the audience on the same level like him.</s>
+        <s>He wants to point out that their all are in leading positions in <name type="misc">COP26</name> and that they have to act together to really start a turning point.</s>
+      </p>
+      <p>
+        <s>But he not only <choice><orig>critizise</orig><reg>criticizes</reg></choice> the audiences and the other global leaders, he also have ideas and strategies to fight climate change just to say <quote>The others are doing everything wrong</quote> is easy, but giving examples how to act better is very difficult.</s>
+      </p>
+      <p>
+        <s>But that's what <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> is doing, he has a strategy.</s>
+        <s>He wants to put even more money into countries, who mostly need it.</s>
+      </p>
+      <p>
+        <s>To proe, that his plans will work, is that the <name type="geo">UK</name> already did the same once in history and it worked out, so he gives historical proves.</s>
+        <s><gap reason="illegible" quantity="1" unit="word">Looing</gap> on he wants to make the audience, the global leaders, that the thing they do now, have afect on all the future generations.</s>
+        <s>On their <quote>children</quote> and grandkids <ref target="b12gk1_1" type="line">(l. 38)</ref>.</s>
+        <s>He is <choice><orig>apealing</orig><reg>appealing</reg></choice> to the emotional love of the leaders.</s>
+      </p>
+      <p>
+        <s>If they <gap reason="illegible" quantity="1" unit="word">choke</gap> doing the <name type="misc">COP26</name> or their decisions won't be drastic enough the future generations, all the childrens <quote>will not forgive</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+      </p>
+      <p>
+        <s>At the end he puts all this in perspective.</s>
+      </p>
+      <p>
+        <s>The <name type="misc">COP26</name> is just the start, that means the governments have to fight against the climate change also after the <name type="misc">COP26</name>.</s>
+        <s><choice><orig>The</orig><reg>They</reg></choice> will need more power, (<foreign xml:lang="de">German</foreign>).</s>
+      </p>
+      <p>
+        <s>The possibilities are given, the will to act is needed.</s>
+      </p>
+      <p>
+        <s>Coming back to the <name type="person">James Bond</name> referend <ref target="b12gk1_1" type="line">(l. 48)</ref> he closes the circle.</s>
+        <s>He <choice><orig>telled</orig><reg>told</reg></choice> the audience everything that is important.</s>
+        <s>By saying <quote>when humanity finally began</quote> <ref target="b12gk1_1" type="line">(l. 99)</ref> he also includes us, to start doing a change in our <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+        <s>And the <name type="misc">COP26</name> will be out <quote>idol</quote>.</s>
+      </p>
+      <p><s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> uses in his speech a lot of ellipsis.</s><s>Mostly in his comparison of the climate crisis and <name type="person">James Bond</name>.</s><s>F.e.</s><quote><s>We may not feel much like James Bond.</s><s>Not all of us necessary look like James Bond</s></quote><ref target="b12gk1_1" type="line">(l. 48)</ref>.</p>
+      <p>
+        <s>He wants to point out, that he <choice><orig>don't</orig><reg>doesn't</reg></choice> say that we have to be strong and as good as <name type="person">James Bond</name>, we only have to act like him namely saving the world.</s>
+        <s>The power to save the world is in our hands.</s>
+      </p>
+      <p>
+        <s>But he also uses in his arguments ellipses, f.e. <quote><qs>And we can.</qs><qs>We can get real on coal, cars, cash and trees</qs></quote> <ref target="b12gk1_1" type="line">(l. 16)</ref>, what is also an <gap reason="illegible" quantity="1" unit="word">Epipan</gap>.</s>
+      </p>
+      <p>
+        <s>He puts meaning on the central aspects of his speech and that it's possible to do a change in the mentioned topics.</s>
+      </p>
+      <p>
+        <s>Also metaphors are used.</s>
+        <s>Again mainly at the <name type="person">James Bond</name> reference.</s>
+      </p>
+      <p>
+        <s>F.e.</s>
+        <s>line 50 <quote>to defuse the bomb</quote> so to save the world again, some high pressure on the global leaders, like the <foreign xml:lang="de">Ellipse</foreign>.</s>
+      </p>
+      <p>
+        <s>He already mentioned inclusive language or highlighting the importance of teamwork.</s>
+        <s>By using enumarations like in line 46-47 <quote>We have the ideas and the NGOs</quote>, he <choice><orig>enumerate</orig><reg>enumerates</reg></choice> on the one hand the topics, the issues and problems climate change brings with it, on the other hand like in this case he enumerates the opportunities, the <choice><orig>remedys</orig><reg>remedies</reg></choice>, and their aims.</s>
+      </p>
+      <p>
+        <s>Coming back to the theses, that <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> wants to make the audience clear, which importance their decisions have, it can underline this He <gap reason="illegible" quantity="1" unit="word">futes</gap> to convince the readers on factical and emotional <foreign xml:lang="de">Ebene</foreign>.</s>
+        <s>But then under pressure and givem new options.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

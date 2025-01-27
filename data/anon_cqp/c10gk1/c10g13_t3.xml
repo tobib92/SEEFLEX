@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g13_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I agree with the quote <quote>The limits of my language are the limits of my world</quote>, said by <name type="person">Ludwig Wittgenstein</name>, a German linguist philosopher from <date>1889</date>-<date>1951</date>, because in a globalized world you just come as far as your language skills reach.</s>
+        <s>You come way more often in contact with other cultures and other languages and it is very difficult to communicate with others if you just speaks one language.</s>
+        <s>Today some argue that you have many ways to communicate with others without having to speak the same language.</s>
+        <s>The translation possibilities are better than they were.</s>
+        <s>But so are the possibilities to learn a language.</s>
+        <s>It is way more difficult to always translate in a globalized world then to download an app and just learn a <choice><orig>diffrent</orig><reg>different</reg></choice> language.</s>
+        <s>When you are learning a foreign language your <choice><orig>horizont</orig><reg>horizon</reg></choice> bridens and you understand other cultures in a <choice><orig>diffrent</orig><reg>different</reg></choice> way.</s>
+        <s>You have way more opportunities and it even helps you in your daily life.</s>
+        <s>Many things you have not thought of before are connected to another language.</s>
+        <s>Especially in a globalized world.</s>
+        <s>In the internet, on <choice><abbr>TV</abbr><expan>television</expan></choice> or books.</s>
+        <s>Other languages are presented in many <choice><orig>diffrent</orig><reg>different</reg></choice> parts of your life.</s>
+        <s>You do not have to rely on others but can read the book exactly like it is written or communicate with others without the perspective of a third one.</s>
+      </p>
+      <p>
+        <s>So I would agree with <name type="person">Ludwig Wittgenstein's</name> quote especially now in a globalized world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

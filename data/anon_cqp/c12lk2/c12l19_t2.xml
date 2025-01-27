@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12l19_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Like all <choice><orig>Shakespearan</orig><reg>Shakespearean</reg></choice> sonnets, <ref target="c12lk2_1" type="title">number 60</ref> consists of 14 verses, so that there are four stanzas, namely three quatrains and at the end, one couplet.</s>
+      </p>
+      <p>
+        <s>The rhyme scheme in the quatrains is always the crossed rhyme <name type="misc">abab cdcd efef</name> and in the couplet, it is the pair rhyme <name type="misc">gg</name>.</s>
+      </p>
+      <p>
+        <s>The metre is an iambic pentametre.</s>
+      </p>
+      <p>
+        <s>All sonnets of <ref target="c12lk2_1" type="author">Shakespeare</ref> are structured in the same <choice><orig>manier</orig><reg>manner</reg></choice>, so that a big worth of recognizing comes into being.</s>
+        <s>The permanant metre creates a flow that makes the poem very succinct.</s>
+      </p>
+      <p>
+        <s>The first quatrain leads into the topic.</s>
+        <s>The reader gets straight into it because of the simile <quote>like as the waves</quote> <ref target="c12lk2_1" type="line">(l. 1)</ref>.</s>
+        <s>Words from the <choice><orig>worldfield</orig><reg>word field</reg></choice> <q>sea</q> like <quote>waves</quote> <ref target="c12lk2_1" type="line">(l. 1)</ref> and <quote>pebbled shore</quote> <ref target="c12lk2_1" type="line">(l. 1)</ref> get used to symbolize freedom.</s>
+      </p>
+      <p>
+        <s>The second line is full of words about time like <quote>minutes</quote> <ref target="c12lk2_1" type="line">(l. 2)</ref> and <quote>end</quote> <ref target="c12lk2_1" type="line">(l. 2)</ref> to show that time is an important factor of life, too.</s>
+      </p>
+      <p>
+        <s>For this reason, the third and fourth line indicate that everything passes by using examples like <quote>[e]ach changing place</quote> <ref target="c12lk2_1" type="line">(l. 3)</ref>.</s>
+      </p>
+      <p>
+        <s>The second quatrain portrays the topic with help of images.</s>
+        <s>The metaphors <quote>main of light</quote> <ref target="c12lk2_1" type="line">(l. 5)</ref> and <quote>crawls to maturity</quote> <ref target="c12lk2_1" type="line">(l. 6)</ref> explain that the centre of life is to become an adult.</s>
+        <s>The <quote>crooked eclipses</quote> <ref target="c12lk2_1" type="line">(l. 7)</ref> are a symbol for the negative sides of life to show that the time is a possibility or rather <quote>gift</quote> <ref target="c12lk2_1" type="line">(l. 8)</ref> to explore how life works.</s>
+      </p>
+      <p>
+        <s>To show his own opinion, <ref target="c12lk2_1" type="author">Shakespeare</ref> uses the third quatrain.</s>
+      </p>
+      <p>
+        <s>He explains that there is enough time in the youth to create yourself by using the metaphor <quote>Time doth transfix the flurish set on youth</quote> <ref target="c12lk2_1" type="line">(l. 9)</ref>.</s>
+        <s>To stay in contact with the second quatrain, he repeats the word <quote>time</quote> <ref target="c12lk2_1" type="line">(l. 8, l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>Following, he comes to the topic <quote>love</quote> in connection to the youth by talking about <quote>beauty's brow</quote> <ref target="c12lk2_1" type="line">(l. 10)</ref>.</s>
+        <s>Here, the metaphor <quote>Feeds on the rarities of nature's truth</quote> helps <ref target="c12lk2_1" type="author">Shakespeare</ref> to express that love needs to be cared.</s>
+      </p>
+      <p>
+        <s>That the death is never far away, is shown by the metaphor <quote>And nothing stands but for his scythe to mow</quote> <ref target="c12lk2_1" type="line">(l. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>The couplet expresses <ref target="c12lk2_1" type="author">Shakespeare's</ref> wish that his words get the recognition they deserve.</s>
+        <s>The symbol <quote>cruel hand</quote> <ref target="c12lk2_1" type="line">(l. 14)</ref> at the end asks the readers to remind that the death can be everywhere, so that they should use their time.</s>
+      </p>
+      <p>
+        <s>Probably, the lyrical I, that speaks to us, is <ref target="c12lk2_1" type="author">Shakespeare</ref> self.</s>
+        <s>His poems are namely very private and he probably never wanted them to be published.</s>
+        <s>Although there are theories that <ref target="c12lk2_1" type="author">Shakespeare</ref> never existed, whoever wrote his poems, was very smart, because he invented more than 1500 new words and expressed better than everyone else what it is like to be a human being.</s>
+      </p>
+      <p>
+        <s>His <choice><orig>addressee</orig><reg>addressees</reg></choice> are all human, especially the younger ones, because he gives a general advise for life.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="c12lk2_1" type="author">Shakespeare</ref> <choice><orig>want</orig><reg>wants</reg></choice> to teach people that they have to love their life.</s>
+      </p>
+      <p>
+        <s>So, my assumption from the beginning is right.</s>
+        <s><ref target="c12lk2_1" type="author">Shakespeare</ref> is an artist, whose words are so powerful that he can bring an important message in only 14 strong verses to millions of people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

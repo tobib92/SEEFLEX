@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g25_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Text</orig><reg>text</reg></choice> <ref target="c12gk2_1" type="scene">Lady Macbeth persuades her husband</ref> is a cutting of the novel <ref target="c12gk2_1" type="title">Macbeth</ref> by <ref target="c12gk2_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and is about the first act and the senventh scene.</s>
+        <s>In this scene <ref target="c12gk2_1" type="character">Lady Macbeth</ref> tries to convince <ref target="c12gk2_1" type="character">Macbeth</ref>, who isn't ready to kill the King <ref target="c12gk2_1" type="character">Duncan</ref>, to commit this crime and uses arguments and <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> devices to convince him.</s>
+      </p>
+      <p>
+        <s>At the beginning of the story <ref target="c12gk2_1" type="character">Macbeth</ref> meets suddenly <ref target="c12gk2_1" type="character">three <choice><orig>whiches</orig><reg>witches</reg></choice></ref>, who are giving <ref target="c12gk2_1" type="character">Macbeth</ref> the <choice><orig>profecy</orig><reg>prophecy</reg></choice>, that he would get the <choice><orig>king</orig><reg>King</reg></choice> of <name type="geo">Scotland</name>.</s>
+        <s>In a letter <ref target="c12gk2_1" type="character">Macbeth</ref> told his wife, <ref target="c12gk2_1" type="character">Lady Macbeth</ref>, the <choice><orig>profecy</orig><reg>prophecy</reg></choice> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>planed</orig><reg>planned</reg></choice> how to kill <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>They invited <ref target="c12gk2_1" type="character">Duncan</ref> to a dinner at their <choice><orig>castel</orig><reg>castle</reg></choice> to thank <ref target="c12gk2_1" type="character">Duncan</ref> for granting <ref target="c12gk2_1" type="character">Macbeth</ref> to the <ref target="c12gk2_1" type="character">Thane of Cawdor</ref>.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref>, <ref target="c12gk2_1" type="character">Duncan</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> have a dinner at <ref target="c12gk2_1" type="character">Macbeth's</ref> castle and <ref target="c12gk2_1" type="character">Macbeth</ref> walked out of the chamber to think about the plan.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> is not ready to kill <ref target="c12gk2_1" type="character">Duncan</ref> yet but <ref target="c12gk2_1" type="character">Lady Macbeth</ref> follows him and tries to convince him to do it.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> wants to offer alcohol to the guards to get them drunk and then she wants <ref target="c12gk2_1" type="character">Macbeth</ref> to kill the unprotected <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>When the guards are <choice><orig>Drunk</orig><reg>drunk</reg></choice> <ref target="c12gk2_1" type="character">Macbeth</ref> could kill <ref target="c12gk2_1" type="character">Duncan</ref> and would get the power he and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> wanted.</s>
+        <s>This argument convinced <ref target="c12gk2_1" type="character">Macbeth</ref>, who was unsure and the scene ends.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This scene and <choice><orig>especialy</orig><reg>especially</reg></choice> the given excerpt can be seen as the turning point of the play.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref>, who hold back his old strict <choice><orig>islamic</orig><reg>Islamic</reg></choice> education and antisemitism point of view, his mother teached him, falls back in old behaviour patterns.</s>
+      </p>
+      <p>
+        <s>A parallel is spitting in face of <choice><orig>jewish</orig><reg>Jewish</reg></choice> people.</s>
+        <s>When he was a child and had a crush on a <choice><orig>jewish</orig><reg>Jewish</reg></choice> girl, his mother saw a letter of them and spit <ref target="b11gk2_1" type="character">Amir</ref> in his face.</s>
+        <s>Next day in school <ref target="b11gk2_1" type="character">Amir</ref> spit his crush in her face <ref target="b11gk2_1" type="line">)p. 39, l. 9</ref>.</s>
+        <s>Now this behaviour <choice><orig>repetates</orig><reg>repeats</reg></choice> again against <ref target="b11gk2_1" type="character">Isaac</ref> <ref target="b11gk2_1" type="line">(p. 72, l. 40)</ref>.</s>
+        <s>This shows the influence his mother had on him and that there is still this antisemitism enshrined in <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> mind.</s>
+        <s>In this excerpt also <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> relationship to <ref target="b11gk2_1" type="character">Jory</ref>, <ref target="b11gk2_1" type="character">Isaac</ref> and especially to <ref target="b11gk2_1" type="character">Emily</ref> changes.</s>
+        <s>Both couples had a good relationship and often met each other.</s>
+        <s>After this scene it changed and they nearly fight.</s>
+        <s>One reason is of course the affair between <ref target="b11gk2_1" type="character">Emily</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> <ref target="b11gk2_1" type="line">(p. 31, l. 6-9)</ref>.</s>
+        <s>Besides of it <ref target="b11gk2_1" type="character">Amir</ref> spitting in <ref target="b11gk2_1" type="character">Isaac's</ref> face and <ref target="b11gk2_1" type="character">Jory</ref> getting <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> promotion <ref target="b11gk2_1" type="line">(p. 31, l. 4)</ref> lead to a heavy confrontation.</s>
+        <s>After this night the <ref target="b11gk2_1" type="character">Amir</ref> won't have <gap reason="illegible" quantity="1" unit="word">conded</gap> to <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Isaac</ref>.</s>
+        <s>The relationship with <ref target="b11gk2_1" type="character">Emily</ref> becomes very difficult.</s>
+        <s>After hitting in her face <ref target="b11gk2_1" type="line">(p. 34 l. 5)</ref> and trust issues because of <ref target="b11gk2_1" type="character">Emily's</ref> affair it is nearly impossible that they will stay together.</s>
+        <s>To sum up, <ref target="b11gk2_1" type="character">Amir</ref> will lose all his good relationship to his friends <ref target="b11gk2_1" type="character">Jory</ref> and <ref target="b11gk2_1" type="character">Isaac</ref> and her wife <ref target="b11gk2_1" type="character">Emily</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> emotional outburst has his origin in previous events and incidences.</s>
+        <s>One factor is the situation in the restaurant before scene one.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> was racial profiled by a waiter of a restaurant <ref target="b11gk2_1" type="line">(p. 34, l. 5)</ref>.</s>
+        <s>Then it was not really a problem, <ref target="b11gk2_1" type="character">Amir</ref> reacted <choice><orig>souveran</orig><reg>sovereign</reg></choice> and convinced with his perfect <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>The next event was a newspaper article about him helping the supposed <choice><orig>muslim</orig><reg>Muslim</reg></choice> imam <ref target="b11gk2_1" type="line">(p. 43, l. 5)</ref>.</s>
+        <s>He feared that his <choice><orig>bosse</orig><reg>boss</reg></choice> could find out about his real identity, but he had not have lawyer reservation.</s>
+        <s>The third event in scene three was much more dramatic for his job.</s>
+        <s>His boss did a background check on him and found out that he changed his <choice><orig>muslim</orig><reg>Muslim</reg></choice> identity <ref target="b11gk2_1" type="line">(p. 30, l. 10)</ref>.</s>
+      </p>
+      <p>
+        <s>This trilogy of events in which he was disadvantaged because of his religion and ethnic background had a huge mental effect on <ref target="b11gk2_1" type="character">Amir</ref>.</s>
+      </p>
+      <p>
+        <s>Now in this scene he fears to lose something again because of his religion and culture and this is why he becomes so emotional and aggressive.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> doesn't want to lose his wife to a <choice><orig>jewish</orig><reg>Jewish</reg></choice> person.</s>
+        <s>This three events bring back his antisemitism he learned as a child.</s>
+      </p>
+      <p>
+        <s>To conclude this key scene is the turning point of the play.</s>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> falls back to old behavior patterns and antisemitism he was educated.</s>
+        <s>He loses relationships to his friends and his wife.</s>
+        <s>This happened because of prejudices to <choice><orig>islamic</orig><reg>Islamic</reg></choice> people and the fear of being racial profiled.</s>
+        <s>You can say that these three incidents and the prejudicing society ruined <ref target="b11gk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> life as an upper class and wealthy lawyer.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

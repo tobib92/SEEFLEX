@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g21_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract from the speech <ref target="c10gk2_1" type="title">Remarks of president Barack Obama at student roundtable</ref> by <ref target="c10gk2_1" type="speaker">Barack Obama</ref>, was published in <date>April 2009</date> in <name type="geo">Istanbul</name>.</s>
+        <s>The speech is about the effects from doing a student exchange.</s>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref><choice><orig>see</orig><reg>sees</reg></choice> a lot of positive aspects in the young Americans.</s>
+        <s>He would like to connect young Americans to young people from all over the world to <quote>break down walls</quote> all over the world.</s>
+        <s>Doing a student exchange, many people come together and learn something about the other language and culture, so that they join together and that should happen all over the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

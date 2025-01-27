@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g19_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Working conditions in a globalised world are a very important thing, because of that I will now comment on the <choice><orig>statment</orig><reg>statement</reg></choice> of <ref target="a10gk2_1" type="author">Brian Pollard</ref>, that <quote>[...] in the twenty-first century the situation has changed workers are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+      </p>
+      <p>
+        <s>I think that in rich <choice><orig>countrys</orig><reg>countries</reg></choice> like the <name type="geo">USA</name> that might sometimes be the case, but I think that there are more than enough people who are exploited by their employers, an example of this would be <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name> where many workers get nearly no pay and are working in inhuman conditions.</s>
+        <s>Even in rich countries there are many people who don't get enough money to live <choice><orig>normaly</orig><reg>normally</reg></choice>.</s>
+        <s>Also it seems like the exploiting of employees will ever fully disappear.</s>
+      </p>
+      <p>
+        <s>In my opinion the statement of <ref target="a10gk2_1" type="author">Brian Pollard</ref> is wrong because there are still so many workers getting exploited while the employers make a lot of money.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

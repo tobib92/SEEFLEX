@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g24_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><choice><orig>Enviroment</orig><reg>Environment</reg></choice> pollution is today a very serious topic, every day.</s>
+        <s>A lot of <surplus>of</surplus> the troubles have we people caused.</s>
+        <s>Is it possible to do something about it.</s>
+        <s>What could be done against all the terrible troubles of the <choice><orig>enviroment</orig><reg>environment</reg></choice> pollution, what is a consequence to our and about the <choice><orig>animals</orig><reg>animals'</reg></choice> and <choice><orig>plants</orig><reg>plants'</reg></choice> health.</s>
+        <s>What is going to help, <choice><orig>i</orig><reg>I</reg></choice> will suggest in this comment with reference to the text <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> of <ref target="a10gk3_1" type="author">Ankita Mitra</ref>.</s>
+      </p>
+      <p>
+        <s>I think it is unbelievable how massive the consequences of the <choice><orig>peoples</orig><reg>people's</reg></choice> actions are.</s>
+        <s>It is terrible how egoistic the people seem.</s>
+        <s>They ignore that not only they have troubles, but the animals.</s>
+      </p>
+      <p>
+        <s>First it is, as <choice><orig>i</orig><reg>I</reg></choice> already said, <q>going</q> on our health and those of animals and plants.</s>
+        <s>Many animals die, because for example the plastic that is given into the ocean.</s>
+      </p>
+      <p>
+        <s>Second, we can take here the example <name type="geo">Bhopal</name>, also happen to us if it is not under control.</s>
+      </p>
+      <p>
+        <s>I think it is to look on the things which already happened like <name type="geo">Hiroshima</name> and <name type="geo"><choice><orig>Bophal</orig><reg>Bhopal</reg></choice></name>, we should be not so <foreign xml:lang="de">(verschwenderisch)</foreign> with our actions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

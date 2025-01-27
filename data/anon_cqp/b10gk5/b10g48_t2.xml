@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g48_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Next I will analyse the use of film-stylistic devices in this scene that are used to show <ref target="b10gk5_1" type="character">Chris</ref> and his relationship with <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>In the scene there are especially many close <choice><orig>up's</orig><reg>ups</reg></choice> and big close <choice><orig>up's</orig><reg>ups</reg></choice> to show <ref target="b10gk5_1" type="character">Chris</ref> and <ref target="b10gk5_1" type="character">Starr's</ref> facial expression and <choice><orig>theirfor</orig><reg>therefore</reg></choice> their feelings.</s>
+      </p>
+      <p>
+        <s>The scene starts with <ref target="b10gk5_1" type="character">Chris</ref> walking through the school corridor and it is the first expression the viewer gets of him.</s>
+        <s>He is shown very confident because he walks very related and greets everyone.</s>
+        <s>This confidence is also underlined with the switching medium shots from the side or front of <ref target="b10gk5_1" type="character">Chris</ref> while he walks.</s>
+        <s>Especially the one medium long shot where <ref target="b10gk5_1" type="character">Chris</ref> stands in the middle of the corridor shows also his popularity.</s>
+        <s>The music also plays a big part in the presentation of <ref target="b10gk5_1" type="character">Chris</ref> because it is a happy song.</s>
+        <s>When <ref target="b10gk5_1" type="character">Starr's</ref> narrative voice over tells the viewer about <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> shoes the camera shows a medium shot of <ref target="b10gk5_1" type="character">Chris</ref> <name type="misc">Jordans</name>.</s>
+        <s>The first shots are partly shown in slow motion to make it easier for the viewer to get introduced to and remember him and additionally to give <ref target="b10gk5_1" type="character">Starr's</ref> voice over more time to talk about <ref target="b10gk5_1" type="character">Chris</ref> and give the viewer some information they don't get from just looking at <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>When <ref target="b10gk5_1" type="character">Chris</ref> sees <ref target="b10gk5_1" type="character">Starr</ref> the camera moves very fast from a medium shot of him to a long shot of <ref target="b10gk5_1" type="character">Starr</ref> that is shown from <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> perspective on <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>She turns away and is shown in the next shot, a big close up of her face with an angry expression.</s>
+        <s>This changes when <ref target="b10gk5_1" type="character">Chris</ref> puts his headphones on her ears.</s>
+        <s>The viewer then sees a big close up of her smiling.</s>
+        <s>But these close ups are from the front and <ref target="b10gk5_1" type="character">Starr</ref> is looking at her locker so <ref target="b10gk5_1" type="character">Chris</ref> doesn't see <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> facial expression.</s>
+        <s>So in the next shot <ref target="b10gk5_1" type="character">Starr</ref> turns around and tells <ref target="b10gk5_1" type="character">Chris</ref> that she is still not okay with what he did yesterday.</s>
+        <s>So <ref target="b10gk5_1" type="character">Chris</ref> explains his motivation for his action and the <choice><orig>dialoge</orig><reg>dialogue</reg></choice> between them is shown in close <choice><orig>up's</orig><reg>ups</reg></choice> of their faces to see their reaction, especially <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> on what <ref target="b10gk5_1" type="character">Chris</ref> says.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> dancing is shown in a medium close up that partly shows the reaction of the group of students behind him.</s>
+        <s><ref target="b10gk5_1" type="character"><choice><orig>Starr</orig><reg>Starr's</reg></choice></ref> reaction to <ref target="b10gk5_1" type="character">Chris</ref> dancing is shown in a medium close up while hte camera moves towards her face.</s>
+        <s>This underlines her smiling and <choice><orig>happieness</orig><reg>happiness</reg></choice> and that she is now okay with <ref target="b10gk5_1" type="character">Chris</ref> and has forgiven him.</s>
+      </p>
+      <p>
+        <s>In conclusion the many close-ups and other film-stylistic devices in this scene are used to first introduce <ref target="b10gk5_1" type="character">Chris</ref> to the viewer and to secondly show <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> and <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> <choice><orig>realationship</orig><reg>relationship</reg></choice> as a happy and good one although they had a disagreement.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g15_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the <choice><orig>Movie</orig><reg>movie</reg></choice> <ref target="b10gk2_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> and published in <date>2018</date> is about systematic racism by a 16-year-old girl called <ref target="b10gk2_1" type="character">Starr Carter</ref>.</s>
+        <s>The given scene deals with <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref>, who are in a <choice><orig>Relationship</orig><reg>relationship</reg></choice>, in the school and <ref target="b10gk2_1" type="character">Chris</ref> makes <ref target="b10gk2_1" type="character">Starr</ref> laugh.</s>
+        <s>The given sequence could be divided into four parts.</s>
+        <s>In the first part <ref target="b10gk2_1" type="character">Chris</ref> goes on the school <choice><orig>flour</orig><reg>floor</reg></choice> and <ref target="b10gk2_1" type="character">Starr</ref> looks at him.</s>
+        <s>But she looks away, after he saw <ref target="b10gk2_1" type="character">Starr</ref>, because she was still angry about the argument before.</s>
+        <s>In the next part <ref target="b10gk2_1" type="character">Chris</ref> puts his earphones on <ref target="b10gk2_1" type="character">Starr</ref> and he is sorry about the passage, <add>(where he got in an argument with her)</add>.</s>
+        <s>In the third part <ref target="b10gk2_1" type="character">Chris</ref> makes <ref target="b10gk2_1" type="character">Starr</ref> laugh, because he dances to his music and he is just himself <add>(he does not change)</add>.</s>
+        <s>In the last part <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref> are alone and laugh.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

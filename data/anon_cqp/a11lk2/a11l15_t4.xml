@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l15_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John</salute>
+      </p>
+      <p>
+        <s>I hope your fine and had a good day.</s>
+        <s>I read your email that you sent to our school.</s>
+        <s>Your question were if a school can really exist without racism and I'll will answer this question to you now.</s>
+      </p>
+      <p>
+        <s>First of all, there is no school without racism.</s>
+      </p>
+      <p>
+        <s>The title <name type="misc">school without racism, school with courage</name> is a good first stept in the right direction to make a school less racist but you <choice><orig>can not</orig><reg>cannot</reg></choice> fully abolish racism at school.</s>
+      </p>
+      <p>
+        <s>A massive problem is the unfair distribution of exam grades.</s>
+      </p>
+      <p>
+        <s>Teachers do not correct fair if there is a for example <choice><orig>turkish</orig><reg>Turkish</reg></choice> kid and a German kid.</s>
+      </p>
+      <p>
+        <s>Teachers prefer <choice><orig>german</orig><reg>German</reg></choice> students over Turkish or black students.</s>
+      </p>
+      <p>
+        <s>The university at <name type="geo">Mannheim</name> proved that.</s>
+      </p>
+      <p>
+        <s>Teachers (<add>or people who will soon be a teacher</add>) did judge people with <choice><orig>turkish</orig><reg>Turkish</reg></choice> names bad and exams with <choice><orig>german</orig><reg>German</reg></choice> names much better and the amount of mistake was the exact same.</s>
+      </p>
+      <p>
+        <s>The problem is here that those teachers <choice><orig>doesn't</orig><reg>don't</reg></choice> even realize that they are racist.</s>
+      </p>
+      <p>
+        <s>But in my personal opinion I think it would be a good choice if you're coming to the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> because I never experienced racist acts in the school and all of my friends never had to deal with it and they do have other nationalities <choice><orig>then</orig><reg>than</reg></choice> German.</s>
+      </p>
+      <p>
+        <s>Also if someone will abuse you, nearly everybody will help you and have your back so you do not have to worry at all especailly here at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name>.</s>
+      </p>
+      <p>
+        <s>Many greetings from <name type="geo">Germany</name></s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

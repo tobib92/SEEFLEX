@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>b11l08_t3</author>
+        <name>story</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">story</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><q>Thank you so much for the job, you will not regret it, giving it to me</q>, he thinks and <choice><orig>get's</orig><reg>gets</reg></choice> ready to hand out the flies, after <choice><orig>reciving</orig><reg>receiving</reg></choice> them from <ref target="b11lk1_1" type="character">Todd Sweet</ref>.</s>
+        <s>He was happy, that he <choice><orig>finianly</orig><reg>finally</reg></choice> got a job again after he had to starve the past days.</s>
+        <s>While walking from house to <choice><orig>hous</orig><reg>house</reg></choice>, he <choice><orig>observs</orig><reg>observes</reg></choice> his surroundings, <choice><orig>barley</orig><reg>barely</reg></choice> noticing the man coming up to him.</s>
+        <s>When he moves foreward to the next house, he <choice><orig>get's</orig><reg>gets</reg></choice> a glance of a person behind him.</s>
+        <s>The man was <choice><orig>withe</orig><reg>white</reg></choice>, had comfortable <choice><orig>cloth</orig><reg>clothes</reg></choice> on and the newest phone in his hand, looking like he belongs perfectly in this neighbourhood.</s>
+        <s><q>Hey</q>, he called, <q>can I help you?</q>.</s>
+        <s>Help?</s>
+        <s>How could a man like this help him?</s>
+        <s>He starts to get angry, because all he wanted to do was work in peace and now this middle-class <choice><orig>withe</orig><reg>white</reg></choice> man interrupted him.</s>
+        <s><q>Help me?</q> he echoed.</s>
+        <s>But he starts to grin, when he sees how this white man is scared of him.</s>
+        <s>He looks uncomfortable, not that he would care, because the man has everything he needs to have, a good life and he has nothing, not even enough to eat for the next day.</s>
+        <s>He was nothing, a nameless immigrant, a helpless person.</s>
+        <s><q>I'm talking to you</q> the <choice><orig>Man</orig><reg>man</reg></choice> said, but again he didn't care, he just wanted to be alone, he was bored, but he didn't liked it when <choice><orig>withe</orig><reg>white</reg></choice> people, who think that they are better, <choice><orig>harrase</orig><reg>harass</reg></choice> him, so he spat <choice><orig>infront</orig><reg>in front</reg></choice> of the <choice><orig>mans</orig><reg>man's</reg></choice> feet.</s>
+        <s>Now he could really see the panic in his eyes and that was for once an enjoyable moment when he sees that people who have everything, are scared of him.</s>
+        <s>The man <choice><orig>continious</orig><reg>continues</reg></choice> to shout at him, but again he didn't care, he knew that he was right.</s>
+        <s><q>I know who you are, you're not fooling anybody</q> he screams, but still has this <choice><orig>paniced</orig><reg>panicked</reg></choice> look in his eyes.</s>
+        <s><q>Flies</q>, he said <q>I deliver these flies</q> but the man still didn't believed him, so he reached for the bag and showed them to him.</s>
+        <s>The man first looked scared and then <choice><orig>suprised</orig><reg>surprised</reg></choice>, taking a step back, but he didn't care, he just walked away <choice><orig>continuins</orig><reg>continues</reg></choice> his work, and leaving the <choice><orig>suprised</orig><reg>surprised</reg></choice> man alone <choice><orig>behinde</orig><reg>behind</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

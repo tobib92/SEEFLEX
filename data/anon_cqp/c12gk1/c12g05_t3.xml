@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g05_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> is one of the greatest if not even the greatest writers from England, but he is been gone for <choice><orig>centurys</orig><reg>centuries</reg></choice> and doubt is creeping up about his relevance for the younger generation.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> is deeply <choice><orig>embeded</orig><reg>embedded</reg></choice> in <choice><orig>english</orig><reg>English</reg></choice> <choice><orig>kulture</orig><reg>culture</reg></choice> and it is hard to imagine the English language without him.</s>
+        <s>He is responsible for countless phrases and even more words yet his plays and poems are difficult to understand as the English language is constantly changing.</s>
+        <s>So it takes a lot of effort to understand his work and if not it is obviously impossible to understand the greatness and the elegance of his work, but if you put in the effort you can read <choice><orig>storys</orig><reg>stories</reg></choice> with topics that are still relevant in this day and age.</s>
+      </p>
+      <p>
+        <s><choice><orig>Ofcourse</orig><reg>Of course</reg></choice> you could say you get the same benefits of reading great contemporary work but with <ref target="c12gk1_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> work you get a view into a different century.</s>
+      </p>
+      <p>
+        <s>Some phrases and <choice><orig>word</orig><reg>words</reg></choice> have been lost on the new generation and some therefore argue <ref target="c12gk1_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> influence is slowly <choice><orig>disapering</orig><reg>disappearing</reg></choice>, but <choice><orig>i</orig><reg>I</reg></choice> disagree as plenty of phrases and words are still being used and more importantly the basic plot has been the <choice><orig>insperation</orig><reg>inspiration</reg></choice> for other <choice><orig>storys</orig><reg>stories</reg></choice> written.</s>
+      </p>
+      <p>
+        <s>It is also true that most young people <choice><orig>dont</orig><reg>don't</reg></choice> educate <choice><orig>themself</orig><reg>themselves</reg></choice> about <ref target="c12gk1_1" type="author">Shakespeare</ref> in their free time because it takes a lot of effort to understand old <choice><orig>english</orig><reg>english</reg></choice>, but schools help us overcome this barrier and help us to see the relevance in his work.</s>
+      </p>
+      <p>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> why I firmly <choice><orig>belive</orig><reg>believe</reg></choice> <ref target="c12gk1_1" type="author">Shakespeare</ref> is still relevant <choice><orig>especally</orig><reg>especially</reg></choice> in <choice><orig>england</orig><reg>England</reg></choice> where his work has a strong <choice><orig>kultural</orig><reg>cultural</reg></choice> impact and his vocabulary is <choice><orig>imbeded</orig><reg>embedded</reg></choice> in daily life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

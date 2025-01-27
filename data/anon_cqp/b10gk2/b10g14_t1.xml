@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g14_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is taken from the feature film <ref target="b10gk2_1" type="title">The Hate U Give</ref>.</s>
+        <s>It was directed by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> and published in <date>2018</date>.</s>
+        <s>The film is about a black teenage girl, named <ref target="b10gk2_1" type="character">Starr Carter</ref>, who lives in two worlds: her primary black neighborhood and her white school.</s>
+        <s>Her best friend <ref target="b10gk2_1" type="character">Khalil</ref> got killed from a police officer and after that she <choice><orig>notice</orig><reg>notices</reg></choice> the <choice><orig>rasim</orig><reg>racism</reg></choice> everywhere.</s>
+      </p>
+      <p>
+        <s>The given scene is about her white boyfriend <ref target="b10gk2_1" type="character">Chris</ref>, who is from her school.</s>
+        <s>You can <choice><orig>devide</orig><reg>divide</reg></choice> the scene in three parts.</s>
+        <s>The first part is <ref target="b10gk2_1" type="character">Chris</ref> entering the school and <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref> looking at <choice><orig>eachother</orig><reg>each other</reg></choice>.</s>
+        <s>The second is <ref target="b10gk2_1" type="character">Chris</ref> and her talking about the problems in their <choice><orig>Relationship</orig><reg>relationship</reg></choice>.</s>
+        <s>And the last one, is <ref target="b10gk2_1" type="character">Chris</ref> dancing for <ref target="b10gk2_1" type="character">Starr</ref> and both laughing.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>begining</orig><reg>beginning</reg></choice> is <ref target="b10gk2_1" type="character">Chris</ref> entering the school and saying everybody <quote>Hi</quote>.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is standing on her locker and looking at him.</s>
+        <s>Then you can only see <ref target="b10gk2_1" type="character"><choice><orig>Chris's</orig><reg>Chris'</reg></choice></ref> shoes and after that his whole body.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> looking at him, the whole time.</s>
+        <s>When <ref target="b10gk2_1" type="character">Chris</ref> <choice><orig>notice</orig><reg>notices</reg></choice> her, she looks away.</s>
+        <s>He comes behind her and putting music on her ears.</s>
+        <s>She likes it, but doesn't show it.</s>
+        <s>Then they talk to <choice><orig>eachother</orig><reg>each other</reg></choice>, standing on <ref target="b10gk2_1" type="character">Starr's</ref> locker.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> tells <ref target="b10gk2_1" type="character">Chris</ref> that she <choice><orig>don't</orig><reg>doesn't</reg></choice> liked what he did and is very mean.</s>
+        <s>He knows it and wants to make it better, but she tells him that she's busy.</s>
+        <s>He talks about their relationship and <choice><orig>ask</orig><reg>asks</reg></choice> her why she <choice><orig>don't</orig><reg>doesn't</reg></choice> want him to know her parents.</s>
+        <s>She's still mean and <choice><orig>don't</orig><reg>doesn't</reg></choice> want to talk about it.</s>
+        <s>He looks at her very lovely and tells her he <choice><orig>miss</orig><reg>misses</reg></choice> her.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> tells her that he made a beat for her and she smiles.</s>
+        <s>After they finished talking, <ref target="b10gk2_1" type="character">Chris</ref> goes in the middle of the corridor and <choice><orig>dance</orig><reg>dances</reg></choice> for <ref target="b10gk2_1" type="character">Starr</ref>.</s>
+        <s>Both laughing and going out of the pic.</s>
+        <s>At the end you can see how they standing at a wall.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

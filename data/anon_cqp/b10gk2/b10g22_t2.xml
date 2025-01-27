@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the sequence <ref target="b10gk2_1" type="character">Chris</ref> is shown as a cool and popular boy at his school, you can tell by how many people he shortly talked to by only passing the hall.</s>
+        <s>This is shown in slow motion and to the song <name type="misc">Ocean Eyes</name> by <name type="person">Billie Eilish</name>, which makes him <choice><orig>apper</orig><reg>appear</reg></choice> confident and liked by people around him.</s>
+        <s>By using a camera <choice><orig>perspectives</orig><reg>perspective</reg></choice> that <choice><orig>showes</orig><reg>shows</reg></choice> him from the front and is also slowly moving with his directing, the director <choice><orig>get</orig><reg>gets</reg></choice> the impression on <ref target="b10gk2_1" type="character">Chris</ref> like he <choice><orig>roules</orig><reg>rules</reg></choice> the school but not in a cruel way, but in a way that because of his sympathy everyone loves him.</s>
+        <s>In confront with <ref target="b10gk2_1" type="character">Starr</ref> he seems very charming and also really confident while still only wanting her to feel good, so he puts her need over his, most of the time, anyways.</s>
+        <s>While <ref target="b10gk2_1" type="character">Starr</ref> tries not to show how affected she is by <ref target="b10gk2_1" type="character">Chris</ref>, because <choice><orig>see</orig><reg>she</reg></choice> doesn't want to seem easy.</s>
+        <s>When in reality she had already forgave him for his behavior, the moment she stared at him, he was crossing the hallway.</s>
+        <s>That <ref target="b10gk2_1" type="character">Starr</ref> really likes <ref target="b10gk2_1" type="character">Chris</ref>, is also <choice><orig>showen</orig><reg>shown</reg></choice> in the voiceovers from <ref target="b10gk2_1" type="character">Starr</ref> perspective of <ref target="b10gk2_1" type="character">Chris</ref>, where she tells the audience how <name type="misc">Spacejam 11</name>, the shoes <ref target="b10gk2_1" type="character">Chris</ref> were wearing were her <choice><orig>weakniss</orig><reg>weakness</reg></choice> or how she <choice><orig>generealy</orig><reg>generally</reg></choice> <choice><orig>swarm</orig><reg>swarms</reg></choice> about his <choice><orig>apperence</orig><reg>appearance</reg></choice>.</s>
+        <s>The <choice><orig>realationship</orig><reg>relationship</reg></choice> between <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref> could be really simple without any arguments, but <ref target="b10gk2_1" type="character">Starr</ref> has a <choice><orig>hart</orig><reg>hard</reg></choice> time on <choice><orig>openig</orig><reg>opening</reg></choice> up to <ref target="b10gk2_1" type="character">Chris</ref> about her family, but really <ref target="b10gk2_1" type="character">Chris</ref> would fit pretty good in her family and neighbourhood.</s>
+        <s>As <ref target="b10gk2_1" type="character">Starr</ref> herself is telling us in a voiceover while <ref target="b10gk2_1" type="character">Chris</ref> is dancing to the beat he <choice><orig>desinged</orig><reg>designed</reg></choice> for <ref target="b10gk2_1" type="character">Starr</ref>, some people might think he is acting <q>black</q> with how he dances or the shoes he is wearing.</s>
+        <s>But maybe <ref target="b10gk2_1" type="character">Starr</ref> only likes him more because of this side of his personality, because she is used to this behavior from her family and her friend in the black neighbourhood he lives in.</s>
+        <s>The sequence where <ref target="b10gk2_1" type="character">Chris</ref> is dancing is once again <choice><orig>showen</orig><reg>shown</reg></choice> in slow motion and with music.</s>
+      </p>
+      <p>
+        <s>By this the director shows how <ref target="b10gk2_1" type="character">Starr</ref> sees <ref target="b10gk2_1" type="character">Chris</ref>, because the story is from her point of view.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> sees <ref target="b10gk2_1" type="character">Chris</ref> as confident and funny even if she <choice><orig>woun't</orig><reg>won't</reg></choice> <choice><orig>atmid</orig><reg>admid</reg></choice> it to herself.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

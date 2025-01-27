@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g06_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> is part of the curriculum in schools, but is it still relevant for young people today to know about Shakespeare?</s>
+      </p>
+      <p>
+        <s>For many students is the answer to this <choice><orig>questin</orig><reg>question</reg></choice> no because <ref target="c12gk1_1" type="author">Shakespeare</ref> has an outdated world picture and oldated vales, for example what the <choice><orig>rol</orig><reg>role</reg></choice> of a <choice><orig>women</orig><reg>woman</reg></choice> is.</s>
+        <s>Moreover are the idioms that <ref target="c12gk1_1" type="author">Shakespeare</ref> invented and commonly used before not anymore used today.</s>
+        <s>Furthermore is the language of <ref target="c12gk1_1" type="author">Shakespeare</ref> hard to understand because it is also outdated.</s>
+        <s>The problem is if the students don't understand the language then they are not <choice><orig>intrested</orig><reg>interested</reg></choice> and will like <ref target="c12gk1_1" type="author">Shakespeare</ref> because they will not know the meanings behind the words.</s>
+      </p>
+      <p>
+        <s>An argument against the relevance of <ref target="c12gk1_1" type="author">Shakespeare</ref> is that he could be replaced by other writers with the same topic is his poems or texts and with similar meaning, but which are better to understand because of an easier language.</s>
+        <s>So why is he still relevant and teached in school?</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare's</ref> sonnets deal with timeless topics, for example love, revenge, jealousy, disappointment.</s>
+        <s>These topics are still relevant today, so students can draw a line between themselves and the speaker.</s>
+        <s>Because of the timeless topics also the characters are authentic and understandable, you can put yourself in the position.</s>
+        <s>Furthermore is <ref target="c12gk1_1" type="author">Shakespeare</ref> an important part of the English culture and <choice><orig>belong</orig><reg>belongs</reg></choice> to the cultural knowledge.</s>
+        <s>This means when you learn about <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> you learn simultaneously something about culture and history.</s>
+        <s>For example the history of word, because <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> invented many words to the English language, you may use them without knowing.</s>
+      </p>
+      <p>
+        <s>Moreover you can say that the language is hard to understand, but if you understand it you will see hoe <choice><orig>astethic</orig><reg>aestethic</reg></choice> it is.</s>
+        <s>In addition they are many modern adaptions of <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and many plays have a plot line based on his plays.</s>
+        <s>So this means <ref target="c12gk1_1" type="author">Shakespeare</ref> had a huge <choice><orig>influend</orig><reg>influence</reg></choice> an has in new wroters, because he can be an inspiration.</s>
+      </p>
+      <p>
+        <s>All in all I think it is clear that <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> had and has a long <choice><orig>influend</orig><reg>influence</reg></choice> especially in Great Britain but also in other countries.</s>
+        <s>Because of that I think <ref target="c12gk1_1" type="author">Shakespeare</ref> is still relevant for young people today.</s>
+        <s>But I think you have to differ in school, normal classes should have basic knowledge about <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> and talk about his plays, but it can be more focused in advanced classes because the students are more interested in the language and culture and will understand more, so will like it more.</s>
+      </p>
+      <p>
+        <s>In addition there could be clubs, study groups for interested people to talk and learn in detail about Shakespeare.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say <ref target="c12gk1_1" type="author">Shakespeare</ref> is still relevant today.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

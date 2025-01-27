@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g35_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk3_1" type="author">Angie Thomas</ref> presents <ref target="a11gk3_1" type="character">Starr's</ref> state of mind by using a certain point of view and different narrative techniques.</s>
+      </p>
+      <p>
+        <s>The excerpt's perspective is a first person protagonist.</s>
+      </p>
+      <p>
+        <s>By using this point of view we, the readers can identify <choice><orig>ourselfs</orig><reg>ourselves</reg></choice> in <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>We also see through her eyes and experience and relive the actions in her perspective.</s>
+      </p>
+      <p>
+        <s>The reader only knows <ref target="a11gk3_1" type="character">Starr's</ref> thoughts, it is a limited point of view.</s>
+      </p>
+      <p>
+        <s>By that the reader can understand <ref target="a11gk3_1" type="character">Starr's</ref> decisions and feelings.</s>
+      </p>
+      <p>
+        <s>This shows by the use of first person pronouns, such as <quote>I</quote> and <quote>We</quote> in line one, five, 13...</s>
+      </p>
+      <p>
+        <s>The scene begins by presenting place and situation in a panoramic mode.</s>
+      </p>
+      <p>
+        <s>The author just lists the things <ref target="a11gk3_1" type="character">Starr</ref> is seeing.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11gk3_1" type="character">Starr</ref> recognizes the place a flashback starts <ref target="a11gk3_1" type="line">(l. 5- l. 9 and l. 19- l. 22)</ref>.</s>
+      </p>
+      <p>
+        <s>The reader sees through <ref target="a11gk3_1" type="character">Starr's</ref> eyes and is reliving the situation, when <ref target="a11gk3_1" type="character">Khalil</ref> was shot to <choice><orig>dead</orig><reg>death</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the flashbacks a past action is written in present and here partly cursive.</s>
+        <s>By the time <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> spots <ref target="a11gk3_1" type="character">Starr</ref> in the crowd <choice><orig>an</orig><reg>and</reg></choice> heads towards her, the narrative technique switches to a scenic mode <ref target="a11gk3_1" type="line">(l. 25)</ref>.</s>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> and <ref target="a11gk3_1" type="character">Starr</ref> are having a conversation and <ref target="a11gk3_1" type="character">Starr</ref> tells her attorney, why she is out and protesting.</s>
+      </p>
+      <p>
+        <s>In <ref target="a11gk3_1" type="character">Starr's</ref> opinion talking, doing and interview and going to the court, didn't change the court's decision on not penalizing the police officer, that killed <ref target="a11gk3_1" type="character">Khalil</ref>, that is why she wanted to go protest.</s>
+      </p>
+      <p>
+        <s>This part is written in a dialogue between <ref target="a11gk3_1" type="character">Starr</ref> and <ref target="a11gk3_1" type="character">Ms. Ofrah</ref>, it is portrayed with direct speech, <choice><orig>wich</orig><reg>which</reg></choice> contributes to the reader identifying with <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>The scene continues in a scenic mode, when <ref target="a11gk3_1" type="character">Starr</ref> is given the bullhorn and she is speaking to the crowd.</s>
+      </p>
+      <p>
+        <s>In the following part it seems like <ref target="a11gk3_1" type="character">Starr</ref> is nervous <ref target="a11gk3_1" type="line">(l. 41-49)</ref>.</s>
+      </p>
+      <p>
+        <s>This is because <ref target="a11gk3_1" type="character">Starr's</ref> thought in this moment are all written down, this moment is presented detailed.</s>
+      </p>
+      <p>
+        <s>It feels like we are in the situation of <ref target="a11gk3_1" type="character">Starr</ref>, e.g. <quote>Shit, I have no idea what to say</quote>.</s>
+      </p>
+      <p>
+        <s>This writing style evokes the same thoughts on being in <ref target="a11gk3_1" type="character">Starr's</ref> position, being her.</s>
+      </p>
+      <p>
+        <s>After <ref target="a11gk3_1" type="character">Starr</ref> is encouraged by the crowd, she is no longer nervous, e.g. <quote>You know what, fuck it</quote>.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> speaking to the activists and protesters is also written as direct speech, with the use of quotation marks, <choice><orig>interupted</orig><reg>interrupted</reg></choice> by <ref target="a11gk3_1" type="character">Starr's</ref> thoughts.</s>
+      </p>
+      <p>
+        <s>She says that <ref target="a11gk3_1" type="character">Khalil's</ref> <choice><orig>dead</orig><reg>death</reg></choice> is unjustified, that the police officers are biased and that <quote>we'll keep protesting</quote>.</s>
+      </p>
+      <p>
+        <s>Written as direct speech and as a first person protagonist the reader has the same opinion as <ref target="a11gk3_1" type="character">Starr</ref> and wants to support her.</s>
+      </p>
+      <p>
+        <s>Overall the use of narrative techniques and the point of view in this chapter are used to making <ref target="a11gk3_1" type="character">Starr's</ref> position and feelings clear.</s>
+        <s>The reader should understand and <choice><orig>aggree</orig><reg>agree</reg></choice> to <ref target="a11gk3_1" type="character">Starr's</ref> actions after the decision of the court has been announced.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

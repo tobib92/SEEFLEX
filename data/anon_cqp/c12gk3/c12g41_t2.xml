@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g41_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211123</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract <ref target="c12gk3_1" type="scene">Act 1 Scene 7</ref> from <ref target="c12gk3_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> <choice><orig>Drama</orig><reg>drama</reg></choice> <ref target="c12gk3_1" type="title">Macbeth</ref> is about <ref target="c12gk3_1" type="character">Macbeth</ref> and his wife <ref target="c12gk3_1" type="character">Lady Macbeth</ref> talking about the plan to kill <ref target="c12gk3_1" type="character">Duncan</ref> so <ref target="c12gk3_1" type="character">Macbeth</ref> becomes the new King of <name type="geo">Scotland</name>.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> hesitates because he feels sorry for the man who just honoured him.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to persuade him to get the <choice><orig>Job</orig><reg>job</reg></choice> done with <choice><orig>succes</orig><reg>success</reg></choice>.</s>
+        <s>By motivating him <ref target="c12gk3_1" type="character">Lady Macbeth</ref> uses a specific choice of words and stylistic devices to underline her point of view.</s>
+      </p>
+      <p>
+        <s>After <ref target="c12gk3_1" type="character">Macbeth</ref> told her he <choice><orig>don't</orig><reg>doesn't</reg></choice> want kill <ref target="c12gk3_1" type="character">Duncan</ref> <ref target="c12gk3_1" type="character">Lady Macbeth</ref> reacts really <choice><orig>shoked</orig><reg>shocked</reg></choice> and harsh.</s>
+        <s>She wants to make clear that his ideas are idiotic and that <choice><orig>their</orig><reg>there</reg></choice> is <choice><orig>now</orig><reg>no</reg></choice> way back now.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> tells his husband a rhetorical <choice><orig>questions</orig><reg>question</reg></choice>: <quote><qs>Was the hope drunk?</qs><qs>Wherein you dressed yourself?</qs><qs>Hath it slept since?</qs></quote>.</s>
+        <s>This should suggest that his newest thoughts are completely different from what he told her <choice><orig>yesterdy</orig><reg>yesterday</reg></choice>.</s>
+        <s>After that she underlines that if he wants something he should get it and not wait till it's fall in his lap.</s>
+        <s><choice><orig>Futhermore</orig><reg>Furthermore</reg></choice> she plays a bit with the fear of <ref target="c12gk3_1" type="character">Macbeth</ref> that he would <choice><orig>seem</orig><reg>see</reg></choice> <choice><orig>hisself</orig><reg>himself</reg></choice> as a coward for the rest of his lifetime if he doesn't act now.</s>
+        <s>She <choice><orig>highlightes</orig><reg>highlights</reg></choice> her further argument by using the metaphor <quote>Letting I dare not wait upon I would like a poor cat i'th'adage?</quote> <ref target="c12gk3_1" type="line">(l. 17,18)</ref>.</s>
+        <s>That means that someone who wants something but is not ready to do something for it is a coward.</s>
+        <s>Her line of argumentation shows effect at <ref target="c12gk3_1" type="character">Macbeth</ref>.</s>
+        <s>In line 20 you can see clearly that <ref target="c12gk3_1" type="character">Macbeth</ref> is <choice><orig>overwhelm</orig><reg>overwhelmed</reg></choice> by his wife.</s>
+      </p>
+      <p>
+        <s>After <ref target="c12gk3_1" type="character">Macbeth</ref> explains his sight of things <ref target="c12gk3_1" type="character">Lady Macbeth</ref> again uses rhetorical questions to make <ref target="c12gk3_1" type="character">Macbeth</ref> think about his surprising decisions.</s>
+        <s>She underlines how important it is to make the <choice><orig>Job</orig><reg>job</reg></choice> done now and the time and place just is right.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref> does that to push <ref target="c12gk3_1" type="character">Macbeth</ref> into the decision to kill <ref target="c12gk3_1" type="character">Duncan</ref>.</s>
+        <s><choice><orig>Futhermore</orig><reg>Furthermore</reg></choice> she compares giving a birth to a baby to kill <ref target="c12gk3_1" type="character">King Duncan</ref>.</s>
+        <s>She says something like on one hand I sacrifice everything to give birth and take care of our baby and on the other hand you must do this now to make <choice><orig>or</orig><reg>our</reg></choice> family the royal family <ref target="c12gk3_1" type="line">(l. 32-36)</ref>.</s>
+        <s>She does that to make <ref target="c12gk3_1" type="character">Macbeth</ref> feel guilty.</s>
+        <s>You can <choice><orig>clerly</orig><reg>clearly</reg></choice> see how <ref target="c12gk3_1" type="character"><choice><orig>Lady Macbeths</orig><reg>Lady Macbeth's</reg></choice></ref> line of argumentation shows effect on her husband.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref><choice><orig>answeres</orig><reg>answers</reg></choice><quote>If we should fail?</quote><ref target="c12gk3_1" type="line">(l. 38)</ref>.</s>
+        <s>That shows how much more ready he is to kill <ref target="c12gk3_1" type="character">Duncan</ref> because he <choice><orig>don't</orig><reg>doesn't</reg></choice> <choice><orig>thinks</orig><reg>think</reg></choice> about if he will do this he thinks about the consequences.</s>
+        <s><ref target="c12gk3_1" type="character">Lady Macbeth</ref><choice><orig>respons</orig><reg>responds</reg></choice> with <quote>We fail!</quote> that should show how irrelevant it's going to be if they fail.</s>
+        <s>She wants to make clear that the only thing that matters is that they should try.</s>
+        <s>In the next step <ref target="c12gk3_1" type="character">Lady Macbeth</ref> explains the plan really detailed to create a safe atmosphere that <ref target="c12gk3_1" type="character">Macbeth</ref> feels safe in what he will do.</s>
+        <s>Her choice of words shows the safety of the plan.</s>
+        <s>She is sure that everything will happen exactly how she <choice><orig>imagine</orig><reg>imagines</reg></choice>.</s>
+        <s><quote>We'll not fail</quote><ref target="c12gk3_1" type="line">(l. 41)</ref> or <quote>when <ref target="c12gk3_1" type="character">Duncan</ref> is <choice><orig>assleep</orig><reg>asleep</reg></choice></quote> <ref target="c12gk3_1" type="line">(l. 41)</ref>.</s>
+        <s>This <choice><orig>suggest</orig><reg>suggests</reg></choice> that he will 100 percently will be asleep, which gives <ref target="c12gk3_1" type="character">Macbeth</ref> the confidence he <choice><orig>need</orig><reg>needs</reg></choice>.</s>
+        <s>At the end <ref target="c12gk3_1" type="character">Lady Macbeth</ref> underlines that killing an <choice><orig>uguarded</orig><reg>unguarded</reg></choice> or helpless person is not a blame.</s>
+        <s><ref target="c12gk3_1" type="character">Macbeth</ref> agrees which shows that her line of argumentation worked exactly how she wanted.</s>
+      </p>
+      <p>
+        <s>Overall you can say that <ref target="c12gk3_1" type="character">Lady Macbeth</ref> tries to <choice><orig>manipulates</orig><reg>manipulate</reg></choice> her husband by confronting him with the fact that they must try it and if he <choice><orig>don't</orig><reg>doesn't</reg></choice> he will always be a coward.</s>
+        <s>She also tries to make him feel guilty and tries to make clear that it is no shame to kill a helpless person.</s>
+        <s>The reactions of <ref target="c12gk3_1" type="character">Macbeth</ref> highlight how <ref target="c12gk3_1" type="character"><choice><orig>Lady Macbeth</orig><reg>Lady Macbeth's</reg></choice></ref> choice of words work.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g26_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr Johnson,</salute>
+      </p>
+      <p>
+        <s>I'm writing this letter 29 years after your <choice><orig>speach</orig><reg>speech</reg></choice> at the <name type="misc">COP26</name> in the year <date>2021</date> and back in the days the speech made me happy because you gave me a good feeling.</s>
+        <s>The words you speak were all true and this gave me hope that something will change but from then on nothing had changed and the world is close before collapsing.</s>
+        <s>In winter we have 35 degrees in summer we have 45-55 degrees and evceryday I see pictures of <gap reason="illegible" quantity="1" unit="word">furivisions</gap> and <gap reason="illegible" quantity="1" unit="word">cushfeiners</gap> in the news.</s>
+        <s>In this speech 29 years ago you said taht you have everything to do something against it but why <choice><orig>than</orig><reg>then</reg></choice> you did not do it?</s>
+      </p>
+      <p>
+        <s>I think it is the fault of the politicians and you are one of them so it is also your fault.</s>
+        <s>How is live knowing that you destroyed the world?</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -90,7 +90,7 @@ parse_file <- function(directory, filename) {
 #' @param output_directory A directory where the new files are saved.
 
 gather_files <- function(input_directory, pattern = "*.xml",
-                                        output_directory = NULL) {
+                         output_directory = NULL) {
 
   # Get a list of all files in "directory"
   all_filenames <- list.files(path = input_directory,
@@ -114,6 +114,27 @@ gather_files <- function(input_directory, pattern = "*.xml",
   return(all_filenames)
 
 }
+
+
+#' This function picks and parses one random file from an input directory for
+#' testing.
+#'
+#' @param input_directory A directory that contains the XML files
+
+pick_and_parse_random_file <- function(input_directory = "../../data/anon/") {
+
+  all_filenames <- gather_files(input_directory = input_directory)
+
+  # Select one random file from the list
+  random_file <- sample(all_filenames, 1)
+
+  #Read in the file as an XML object
+  parsed_file <- parse_file(directory = input_directory,
+                            filename = random_file)
+
+  return(parsed_file)
+}
+
 
 #' This function creates an output filepath from an input directory.
 #'
@@ -249,10 +270,8 @@ rename_xml_content <- function(xml_nodes, namespaces, node_old,
       print("File ignored. Nodes or attributes not in file.")
     }
 
-    print(paste("Renaming XML nodes", node_old, "to", node_new, "in file",
-                output_file))
+    print(paste("Renaming XML nodes", node_old, "to", node_new))
 
-    print("All nodes were renamed in the corpus files.")
 }
 
 
@@ -340,7 +359,7 @@ replace_xml_content <- function(xml_nodes, namespaces, node,
 
   print(paste0("Replacing content in: ", "'", ifelse(type == "node",
                                                      node, attr),
-               "' ", "with '", content, "' in file", output_file))
+               "' ", "with '", content))
 
 }
 

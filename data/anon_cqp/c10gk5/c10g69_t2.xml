@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g69_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article is <choice><orig>seperated</orig><reg>separated</reg></choice> into four paragraph.</s>
+        <s>The first <choice><orig>ist</orig><reg>is</reg></choice> informative, it has convincing numbers like £100<choice><abbr>m</abbr><expan>million</expan></choice>, the amount of money, that was spent in one year on translating for not English speaking residents, who live in <name type="geo"><choice><abbr>GB</abbr><expan>Great Britain</expan></choice></name> <ref target="c10gk5_1" type="line">(l. 1-4)</ref>.</s>
+      </p>
+      <p>
+        <s>The second paragraph is informative too <ref target="c10gk5_1" type="line">(l. 5-10)</ref>.</s>
+        <s>The third paragraph is also informative and the fourth paragraph is appealing.</s>
+        <s>You can see this for example by the expressions <quote>we should</quote> <ref target="c10gk5_1" type="line">(l. 20)</ref> or <quote>we have to celebrate [...]</quote> <ref target="c10gk5_1" type="line">(l. 18)</ref>.</s>
+        <s>It's also clear in line 18 to 19 <quote>But you [...] is holding you up</quote>.</s>
+      </p>
+      <p>
+        <s>With his choice of words creates the author in the second paragraph a dramatic atmosphere.</s>
+        <s>For example <quote>no hope [...]</quote> <ref target="c10gk5_1" type="line">(l. 9)</ref> or <quote>drugs abuse and crime</quote> <ref target="c10gk5_1" type="line">(l. 8)</ref>.</s>
+      </p>
+      <p>
+        <s>In this paragraph are also some stylistic devices, which strengthen this dramatic, negative atmosphere like the metaphor <quote>at the bottom of educational achievement</quote> <ref target="c10gk5_1" type="line">(l. 7)</ref> or the personification <quote>Their society persists in [...]</quote> <ref target="c10gk5_1" type="line">(ll. 7-8)</ref>.</s>
+      </p>
+      <p>
+        <s>Not only in the second paragraph but also in the fourth are stylistic devices like the metaphor <quote>If someone is holding you up</quote>.</s>
+      </p>
+      <p>
+        <s>The author convinces the reader by including him and giving him a personal connection.</s>
+        <s>This happens when he uses for example <quote><qs>My parents [...].</qs><qs>My parents [...].</qs><qs>My parents [...]</qs></quote> <ref target="c10gk5_1" type="line">(ll. 11-12)</ref> or with the expressions <quote>we</quote>, <quote>us</quote> <ref target="c10gk5_1" type="line">(cf. l. 3, l. 4, 18, l. 20, l. 23)</ref>.</s>
+        <s>He gives the reader the feeling to be a part of the article.</s>
+      </p>
+      <p>
+        <s>To sum everything up.</s>
+        <s>The author convinces the reader with his choice of words and letting him feel like he is a part of the article.</s>
+        <s>Besides he creates a dramatic, negative and appealing atmosphere by using different stylistic devices and special expressions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g39_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>My dear friend!</salute>
+      </p>
+      <p>
+        <s>I heard, that globalisation is for us a big benefit, which is also you own opinion.</s>
+        <s>But don't you know, that each coin has two sides, as after a winner always follows a loser?</s>
+      </p>
+      <p>
+        <s>I did a research about the negative effects of the globalisation, and you won't believe how catastrophical this <choice><orig>vicous</orig><reg>vicious</reg></choice> circle is.</s>
+      </p>
+      <p>
+        <s>I've read a newspaper from <name type="misc">Der Spiegel</name> you <choice><orig>probabbly</orig><reg>probably</reg></choice> heard of.</s>
+        <s>On Thursday <date>22.01.2015</date> was a documentary about a social experiment published, which consits of an adventure in <name type="geo"><choice><orig>Kambodscha</orig><reg>Cambodia</reg></choice></name>.</s>
+        <s>Three persons went on a trip to <name type="geo">Asia</name> for one day and wanted to get an impression, of how the <choice><orig>texturefabricants</orig><reg>texture fabricants'</reg></choice> life was there.</s>
+        <s>They lived in the baddest conditions they could not even imagine, the three explained in the newspaper.</s>
+        <s>The food consisted only of rice - not unique like in industry countries.</s>
+        <s>The sleep conditions were also very bad - they had only a hard <choice><orig>matress</orig><reg>mattress</reg></choice> to share with each other.</s>
+        <s>The atmosphere between the workers was depressed, <choice><orig>everythig</orig><reg>everything</reg></choice> spoke for suffering many years.</s>
+        <s>The experience of the work itself was also a very sad adventure.</s>
+        <s>Sitting for hours in the same position and do the same job for these hours was boring for them and nobody of the workers enjoyed it either.</s>
+      </p>
+      <p>
+        <s>At the end of the day, all three of them came to the conclusion, that the <choice><orig>asian</orig><reg>Asian</reg></choice> workers have the same rights to live lucky and <choice><orig>posess</orig><reg>possess</reg></choice> all choices in the world, because they are humans, a part of our civilisation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

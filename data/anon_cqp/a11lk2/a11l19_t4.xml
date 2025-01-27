@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l19_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sam,</salute>
+      </p>
+      <p>
+        <s>thank you for reaching out to us.</s>
+        <s>You asked about the label <name type="misc">School without racism and school with courage</name> the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> received and I am happy to help out.</s>
+        <s>I found an article on <link>https://deutsches-schulportal.de</link> and have a lot to share.</s>
+      </p>
+      <p>
+        <s>To cut straight to the chose: there <choice><orig>can not</orig><reg>cannot</reg></choice> be a school without racism and thus shape a <q>racism-sensitised school</q>.</s>
+      </p>
+      <p>
+        <s>Many schools that hold the title <name type="misc">school without racism</name> are on a good road towards this <q>racism-sensitised school</q>.</s>
+        <s>It is the greatest network of schools in <name type="geo">Germany</name> and over 3000 schools have the label.</s>
+      </p>
+      <p>
+        <s>The study <name type="misc">Max versus Murat</name> of the <name type="misc">University of Mannheim</name> examined whether students of color get lower grades in spite of performing as well as Caucasians.</s>
+        <s>The study established that teachers graded the dictation of a child with a German name, in spite of the fact that they had the same amount of mistakes.</s>
+        <s>So apparently, the racist ideas one learns in the course of socialisation are not <choice><orig>problematised</orig><reg>problemized</reg></choice> by schools in many cases.</s>
+      </p>
+      <p>
+        <s>The first step to successfully criticise racism in school is to not deny it.</s>
+        <s>Racism needs to be talked about and must be subject of lessons.</s>
+        <s>However, many teachers do not acknowledge racism in everyday life because they apply the racist ideas they were taught and do not realise it in many cases.</s>
+      </p>
+      <p>
+        <s>These racist ideas which are taught even to teachers are not manifested genetically.</s>
+        <s>It actually starts when you are a child because children's books display migrants in positions that are not prestige-worthy.</s>
+        <s>Furthermore people of color are shown as dumb even in <name type="misc">Walt-Disney</name> movies.</s>
+      </p>
+      <p>
+        <s>I hope I could help you out and wish you nothing but the best.</s>
+        <s>If you have any furher questions, please do not hesitate to reach out.</s>
+      </p>
+      <p>
+        <signed>Sincerely yours, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

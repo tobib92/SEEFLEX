@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l36_t2</author>
+        <name>characterize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">characterize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to analyze <name type="person">Shylock</name>, the Jewish <choice><orig>money-lender</orig><reg>moneylender</reg></choice>.</s>
+        <s><name type="person">Shylock</name> is a wealthy man living in <name type="geo">Venice</name>.</s>
+        <s>He is not very respected by a lot of people in <name type="geo">Venice</name>, since he is a <choice><orig>jew</orig><reg>Jew</reg></choice> among a lot of Christians.</s>
+        <s><name type="person">Shylock</name> is a father of his daughter <name type="person">Jessica</name>, who ran away with a Christian and had a wife named <name type="person">Leah</name>, who passed away.</s>
+      </p>
+      <p>
+        <s>In the beginning of the extract <name type="person">Shylock</name> <choice><orig>appeares</orig><reg>appears</reg></choice> to be a good father worrying about his daughter since he even sent his friend <name type="person">Tubal</name> off to look for her.</s>
+        <s>This first impression however changes quickly when complaining about <choice><orig>loosing</orig><reg>losing</reg></choice> a lot of money and jewels.</s>
+        <s><name type="person">Shylock</name> then adds that he wishes his daughter <quote><qs>were dead at his foot and the jewels in her aer!</qs><qs>Would she were hearsed at my foot, and the ducats in her coffin...</qs></quote> in lines 5 to 7.</s>
+        <s>This shows that <name type="person">Shylock</name> cares more about the money than his own daughter.</s>
+        <s>He would not mind if she were dead if that would bring back his lost treasures.</s>
+        <s><name type="person">Shylock</name><choice><orig>appreares</orig><reg>appears</reg></choice> to be very greedy in this extract which is underlined by stylistic devices.</s>
+        <s>In line 5 he calls the treasures he lost <quote>precious, precious jewels</quote> underlining how much he cares about them by saying precious twice.</s>
+        <s>He does the same when talking about the amount of money he has lost saying <quote>two thousand ducats</quote> twice.</s>
+        <s><name type="person">Shylock</name> also has a lot of self-pity when saying <quote>no satisfaction, no revenge: nor no in luck stirring but what lights on my shoulders; no sighs but of my breathing; no tears but of my shedding</quote> in lines 8-10.</s>
+        <s>Since self-pity is often not liked this makes <name type="person">Shylock</name> seem even less sympathetic.</s>
+      </p>
+      <p>
+        <s>Another trait of <name type="person">Shylock</name> is that he is very mean and wishes bad things for other people.</s>
+        <s>When <name type="person">Tubal</name> tells him that <name type="person">Antonio</name> has had bad luck, <name type="person">Shylock</name>  gets very excited <quote><qs>What, what, what?</qs><qs>Ill luck, ill luck?</qs></quote> <ref target="a12lk3_1" type="line">(l. 12)</ref>.</s>
+        <s>He completely forgets about his own problems and wishes the worst for <name type="person">Antonio</name>.</s>
+        <s>He even thanks god when hearing about <name type="person">Antonio's</name> problem.</s>
+        <s>Here again he says all the things twice, which agin underlines what he is saying.</s>
+        <s><name type="person">Tubal</name> then goes on telling about <name type="person">Jessica</name> who had spent <quote>fourscore ducats in one night</quote>.</s>
+        <s>Again <name type="person">Shylock</name> gets very angry, again showing how greedy he is and that the only thing he cares about is money.</s>
+        <s>Another time you can see how mean <name type="person">Shylock</name> is, is in line 22.</s>
+        <s>After finding out that <name type="person">Antonio</name> is ruined, <name type="person">Shylock</name> says <quote>I am very glad of it: I'll plague him, I'll torture him: I am glad of it</quote>.</s>
+        <s>Again <name type="person">Shylock</name> is repeating himself which underlines how much he enjoys other people having problems and being able to hurt them.</s>
+      </p>
+      <p>
+        <s><name type="person">Shylock</name> is clearly looking forward to hurting <name type="person">Antonio</name> which makes him appear as a very unpleasant man.</s>
+      </p>
+      <p>
+        <s>All in all <name type="person">Shylock</name> is portrayed as a very mean guy.</s>
+        <s>He seems to be a terrible father who doesn't care about the wellbeing of his daughter but only wants her back so that she doesn't stay with the Christian man.</s>
+        <s>He cares more about material thins like money and jewels than his daughter and would not care about her death if that would bring back his goods.</s>
+        <s><name type="person">Shylock</name> is a very greedy man who cannot wait to hurt <name type="person">Antonio</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

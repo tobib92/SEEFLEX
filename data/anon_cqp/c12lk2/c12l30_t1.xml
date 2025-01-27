@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l30_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">paraphrase_sonnet</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>While the waves pound on the stony beach</l>
+            <l>our remaining time keeps running one minute after the other one gets lost</l>
+            <l>one minute after the other one gets lost</l>
+          </s>
+          <s>
+            <l>That way the toil gets spread.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>Cribs were once the center of hope</l>
+            <l>trying to become mature to get crowned</l>
+          </s>
+          <s>
+            <l>The darkness fights this marvellous event</l>
+            <l>and time which already passed by shows its surprising talent.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>Time hardens the youth's process of growing up</l>
+            <l>and makes them becoming beautiful,</l>
+            <l>time is <choice><orig>dependant</orig><reg>dependent</reg></choice> on natural rarities</l>
+            <l>it just waits for us to grow so it can cut us down.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>Still, my sonnet should keep existing and bring hope to make sure you know</l>
+            <l>your worth although time never stops running.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

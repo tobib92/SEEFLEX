@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g04_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given excerpt <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> uses a lot of stylistical devices, <choice><orig>wich</orig><reg>which</reg></choice> makes it worth to take a closer look on them by analysing the excerpt.</s>
+      </p>
+      <p>
+        <s>The main argument is that the <name type="misc">EU</name> has <quote>the most open market in the world</quote> <ref target="c11gk2_1" type="line">(l. 20)</ref>, so <name type="geo">UK</name> will be able to take part in it after the <name type="misc">Brexit</name>, <choice><orig>wich</orig><reg>which</reg></choice> will create great costs <ref target="c11gk2_1" type="line">(l. 3)</ref>.</s>
+      </p>
+      <p>
+        <s>His line of arguments starts with the great effect of the <name type="misc">Brexit</name>on <name type="geo">UK's</name> and <name type="misc">EU's</name> economy <ref target="c11gk2_1" type="line">(l. 9f)</ref>.</s>
+      </p>
+      <p>
+        <s>He goes on with a sidenote, a recommendation for <choice><orig>buisnesses</orig><reg>businesses</reg></choice> to <quote>prepare for the worst case</quote>.</s>
+        <s>After this, he explains that the <name type="misc">EU</name> is open for third countries in the financial sector, also for the <name type="geo">UK</name> <ref target="c11gk2_1" type="line">(l. 17)</ref> if they accept the regulations of the <name type="misc">EU</name> <ref target="c11gk2_1" type="line">(l. 21f.)</ref>.</s>
+        <s>To prove his point, he repeatedly gives the example of the <name type="geo">USA</name>, with <choice><orig>wich</orig><reg>which</reg></choice> it works <ref target="c11gk2_1" type="line">(l. 27)</ref>.</s>
+        <s>He finishes his speech with the promise of not changing the <name type="misc">EU</name> because of the <name type="misc">Brexit</name>.</s>
+        <s>He also calls the <name type="misc">EU</name> <quote>the most open market in the world</quote> <ref target="c11gk2_1" type="line">(l. 28)</ref>.</s>
+        <s>With this line of argumentats, <ref target="c11gk2_1" type="speaker">Barnier</ref> wants to show the listeners the way to a bright future for <name type="geo">UK</name> and <name type="misc">EU</name> and that prove that this future is possible to achieve, after the <name type="misc">Brexit</name> creating new difficulties and costs.</s>
+      </p>
+      <p>
+        <s>His choice of words refers to the place where the speech is held.</s>
+        <s>Him <choice><orig>beeing</orig><reg>being</reg></choice> in the <name type="misc">European American Chamber of Commerce</name> leads him to often use the <name type="geo">USA</name> and its companies as an example <ref target="c11gk2_1" type="line">(e.g. l. 24)</ref> and to using many terms out of trading like <quote>agricultural... sector</quote> <ref target="c11gk2_1" type="line">(l. 8)</ref>, <quote>subsidiaries</quote> <ref target="c11gk2_1" type="line">(l. 11)</ref> or <quote>substituted compliance</quote> <ref target="c11gk2_1" type="line">(l. 23)</ref>.</s>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> uses the enumeration <quote>manufacturing and logistics, as well as the agricultural and food sectors</quote> <ref target="c11gk2_1" type="line">(l. 8)</ref> to show that the <name type="misc">Brexit</name> will have a great effect on many sectors.</s>
+        <s>The little contrast of sectors with engines and food or nature, <choice><orig>wich</orig><reg>which</reg></choice> are split with the <quote>as well as</quote> underlines that there are very many sectors affected and also them not having a connection.</s>
+      </p>
+      <p>
+        <s>With the a little informal saying <quote>lose-lose situation</quote> <ref target="c11gk2_1" type="line">(l. 9f.)</ref> <ref target="c11gk2_1" type="speaker">Barnier</ref> points out that nothing good comes from the <name type="misc">Brexit</name> and that it will only damage all parties in a very clear and fast way.</s>
+      </p>
+      <p>
+        <s>The speaker also shows how many things companies need to change and adapt because of the <name type="misc">Brexit</name>, implying the great costs and work for every company operating there with the enumeration: <quote>to adapt their logistical channels, supply chains and existing contracts</quote> <ref target="c11gk2_1" type="line">(l. 12f.)</ref>.</s>
+      </p>
+      <p>
+        <s>The enumeration <quote>G20 calls deference, what you call US substituted compliance and what we call in the EU equivalence</quote> <ref target="c11gk2_1" type="line">(l. 22f.)</ref> shows that the regulation on supervision of third countries in trading is normed and done in many countries.</s>
+      </p>
+      <p>
+        <s>The example out of the <name type="geo">USA</name> also creates a connection to the listeners out of the <name type="geo">USA</name> where the speech was held.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> uses the two <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> questions <ref target="c11gk2_1" type="line">(ll. 25f.)</ref> to emphasize that the <name type="geo">UK</name> can still take part in the financial sector of the <name type="misc">EU</name> with the help of the equivalence system.</s>
+        <s>The example of the <name type="geo">USA</name> creates a connection with listeners from the <name type="geo">USA</name> again, <choice><orig>wich</orig><reg>which</reg></choice> is important because <ref target="c11gk2_1" type="speaker">Barnier</ref> held a speech about the <name type="misc">Brexit</name>in the <name type="geo">USA</name>, where this topic is not very important.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="c11gk2_1" type="speaker">Barnier</ref> points out the bad effects of the <name type="misc">Brexit</name> on <name type="misc">EU</name> and <name type="geo">UK</name>, but also shows the way for trading and the financial sector in cooperation in the future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g39_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> claims that the knowledge of other languages is essential for the <name type="geo">UK</name>'s future prosperity and global reputation and in my opinion especially in a globalized world this is true.</s>
+      </p>
+      <p>
+        <s>English is a <choice><orig>socalled</orig><reg>so-called</reg></choice> lingua franca, a language which is used <choice><orig>allover</orig><reg>all over</reg></choice> the world.</s>
+        <s>But <choice><orig>thats</orig><reg>that's</reg></choice> only theory.</s>
+        <s>Even in well educated central <choice><orig>european</orig><reg>European</reg></choice> countries like <name type="geo">France</name>, a use of <choice><orig>english</orig><reg>English</reg></choice> language is not really spread among the people.</s>
+        <s>So instead of hiring an <choice><orig>english</orig><reg>English</reg></choice> business worker and <choice><orig>an</orig><reg>a</reg></choice> French translator it is much more efficient to hire a for example Canadian worker, who can speak <choice><orig>english</orig><reg>English</reg></choice>, <choice><orig>french</orig><reg>French</reg></choice> and maybe even has some bands to <choice><orig>canadian</orig><reg>Canadian</reg></choice> business.</s>
+        <s>And even in countries like <name type="geo">Sweden</name>, whose <choice><orig>english</orig><reg>English</reg></choice> is very well <choice><orig>spreaded</orig><reg>spread</reg></choice> among the people, local companies prefer to work with persons these workers can speak with in their native language.</s>
+        <s>And because nobody in the <name type="geo">UK's</name> business could speak <choice><orig>swedish</orig><reg>Swedish</reg></choice>, the companies instead hire a <choice><orig>swedish</orig><reg>Swedish</reg></choice> worker who can also speak <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>In my opinion, even if <choice><orig>english</orig><reg>English</reg></choice> is a lingua franca, it is extremely arrogant and ignorant to think other languages are useless.</s>
+        <s>The same mistake has been made by the French.</s>
+        <s>Their language was the most important language in the world from 900 AD until 1800 AD.</s>
+        <s>But with the foundation of the <name type="geo">USA</name> and of <name type="geo"><choice><orig>the British empire</orig><reg>the British Empire</reg></choice></name>, <choice><orig>english</orig><reg>English</reg></choice> became the most important language in the world.</s>
+        <s>It is a not that much untrue stereotype that the French can't speak <choice><orig>english</orig><reg>English</reg></choice> because <choice><orig>They</orig><reg>they</reg></choice> are <choice><orig>to</orig><reg>too</reg></choice> arrogant to learn it.</s>
+        <s><choice><orig>These</orig><reg>This</reg></choice> arrogance made them eventually lose their position in the top five countries of the world.</s>
+        <s>If the <name type="geo">UK</name> does not want to end up as <choice><orig>france</orig><reg>France</reg></choice> did, still powerful but mediocre compared to others, they should overthink their relationship with foreign languages.</s>
+      </p>
+      <p>
+        <s>Everyone in the <name type="geo">UK</name> has to ask themselves a question: Why should only the others learn a new language <add>English</add>, if we are not willing to do so too.</s>
+        <s>We are not in the age of Imperialism <choice><orig>any more</orig><reg>anymore</reg></choice>, so no one should force their language over others.</s>
+        <s>Instead there should be <choice><orig>an</orig><reg>a</reg></choice> cultural exchange based on respect for the <choice><orig>others</orig><reg>other's</reg></choice> culture and especially the most important part, the language.</s>
+      </p>
+      <p>
+        <s>In conclusion I think that <ref target="a12gk4_1" type="author">John Worne</ref> is absolutely right.</s>
+        <s>If the <name type="geo">UK</name> does not want to lose its global standing in economy and culture, especially after the <name type="misc">Brexit</name>, they need more and better qualified workers, so they need more and better foreign language skills.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

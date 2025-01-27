@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g43_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Josh</salute>
+        <s><choice><orig>its</orig><reg>it's</reg></choice> me again,</s>
+      </p>
+      <p>
+        <s>I read this article about the racism against black people in the <name type="geo">US</name> and was shocked about the fact how deprived black people are <choice><orig>allthough</orig><reg>although</reg></choice> the racial segregation was stopped.</s>
+      </p>
+      <p>
+        <s>I was confused when I Hear that this racial <choice><orig>segration</orig><reg>segregation</reg></choice> is constant today indirectly.</s>
+        <s>The fact that the most black people have no</s>
+      </p>
+    </body>
+  </text>
+</TEI>

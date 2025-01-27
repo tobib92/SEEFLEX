@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g50_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>How we already know this movie deals with police brutality and police power.</s>
+      </p>
+      <p>
+        <s>During the movie I could see a development of <ref target="b10gk5_1" type="character">Starr</ref> and what racism does to the black community.</s>
+      </p>
+      <p>
+        <s><quote>THUG life - The Hate u give little infants fucks everybody</quote>.</s>
+        <s>This means something like, the hat you give to your <choice><orig>babys</orig><reg>babies</reg></choice> falls to everyone.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Maverick</ref> told this his daughter and is the opinion that <name type="person">2pac</name> wanted to show the system against <choice><orig>Afro-americans</orig><reg>Afro-Americans</reg></choice> with this slogan.</s>
+        <s><ref target="b10gk5_1" type="character">Maverick</ref> gives reasons for his statement namely that many guys sell drugs in <name type="geo">Garden Heights</name> because poverty and lack of education <choice><orig>leads</orig><reg>lead</reg></choice> to crime and violence.</s>
+      </p>
+      <p>
+        <s>A lot of teenagers have no other chance than joining gangs to get respect and opportunities for easier prospects.</s>
+      </p>
+      <p>
+        <s>I like the movie a lot and it opens the <choice><orig>audiances</orig><reg>audience's</reg></choice> eyes, because this <choice><orig>realy</orig><reg>really</reg></choice> <choice><orig>show</orig><reg>shows</reg></choice> hot the black community deals with this injustice.</s>
+        <s>But it comes to same situations, like with <name type="person">George Floyd</name>.</s>
+        <s>If much more people are against racism we could change a lot.</s>
+        <s>But if there are a lot of racist couples, who <choice><orig>gets</orig><reg>get</reg></choice> child and saying black people are dangerous, they will be injustice to black people for forever.</s>
+      </p>
+      <p>
+        <s>It began all with this racism, when black people <foreign xml:lang="de">wurden versklavt</foreign>.</s>
+        <s>If we compare this scene with the book, <ref target="b10gk5_1" type="character">Hailey</ref> and <ref target="b10gk5_1" type="character">Maya</ref> were with <ref target="b10gk5_1" type="character">Starr</ref> when <ref target="b10gk5_1" type="character">Chris</ref> came over.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

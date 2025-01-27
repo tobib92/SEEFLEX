@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g49_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk5_1" type="title">The Hate U Give</ref> had <choice><orig>an</orig><reg>a</reg></choice> big impact to me.</s>
+        <s>People should think good about what they say.</s>
+        <s>Maybe you say something and your intention is not to hurt anybody, but maybe it <choice><orig>stills</orig><reg>still</reg></choice> defends somebody.</s>
+        <s>It is important to talk about it because then you know it and you will not say it again.</s>
+        <s>I think there are many racist comments in the daily life but not so many talk about it.</s>
+        <s>Also if you are white is important to say something <choice><orig>agains</orig><reg>against</reg></choice> a racist comment if <choice><orig>your</orig><reg>you</reg></choice> heard it.</s>
+        <s>I could very <choice><orig>emphazize</orig><reg>emphasize</reg></choice> how <ref target="b10gk5_1" type="character">Starr</ref> was feeling in this emotional movie and it's <choice><orig>impotant</orig><reg>important</reg></choice> that you speak out against racist comments.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

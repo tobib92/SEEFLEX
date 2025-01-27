@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g08_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b10gk1_1" type="author">Angie Thomas</ref> talked about the impact a book can make on the reader.</s>
+        <s>I will give my opinion regarding to the film <ref target="b10gk1_1" type="title">The Hate U Give</ref> in this text.</s>
+      </p>
+      <p>
+        <s>This movie had a big impact on me.</s>
+        <s>It shows the main problems of racism and the life of these victims in this situation.</s>
+      </p>
+      <p>
+        <s>It is interesting for me, that a movie can have a big impact, without using many special effects, but only the reality.</s>
+      </p>
+      <p>
+        <s>It is also interesting, that many things <name type="person">Maverick</name> said are the truth.</s>
+        <s>In general <name type="person">Maverick</name> as a person, who wanted to break the circle for his kids, is an interesting character.</s>
+      </p>
+      <p>
+        <s>In summary it can be said, that I think the movie had a big impact on me, by opening my eyes when it comes to racism and/or systematic racism.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

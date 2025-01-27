@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l24_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>I hope you're doing fine.</s>
+        <s>I <choice><orig>heared</orig><reg>heard</reg></choice> about you wanting to visit our school, probably because you read our school website about our received label <name type="misc">school without racism and school with courage</name>.</s>
+        <s>I never really thought about it, until I recently read this article <name type="misc">Es gibt keine Schule ohne Rassismus</name> <add>in <choice><orig>english</orig><reg>English</reg></choice> <name type="misc">There's no school without racism</name></add> on the internet, which basically assumes the opposite of what the label seems to mean.</s>
+        <s>In the article <choice><orig>roll</orig><reg>role</reg></choice> at schools, because places where different people of different cultures, sexualities etc. gather, racism and <choice><orig>discrimmination</orig><reg>discrimination</reg></choice> automatically are included.</s>
+        <s>The reason for our racist behavior, which often isn't even on purpose, is that we early on get <choice><orig>thaught</orig><reg>taught</reg></choice> about <choice><orig>stereotyps</orig><reg>stereotypes</reg></choice> by watching <name type="misc">Walt Disney</name> movies of children's books, where people of a specific ethnicity get portrayed negatively.</s>
+      </p>
+      <p>
+        <s>This has valid effects on how we treat others and is shown at schools as well.</s>
+        <s>A study called <name type="misc">Max versus Murat</name> shows that dictates from <choice><orig>turcish</orig><reg>Turkish</reg></choice> students aren't graded as good as those from <choice><orig>german</orig><reg>German</reg></choice> students, even though they have the exact same amount of mistakes.</s>
+        <s>Another example which is that racist <choice><orig>aknowlagde</orig><reg>acknowledge</reg></choice> isn't treated right, and therefore leads to racism in the everyday life, underlines <name type="person">Fereidooni's</name> statement about racism at school.</s>
+        <s>Those schools that have the label still are affected by racism, but the difference they have towards other schools is that they actively do something to fight it.</s>
+        <s>For example not denying its <add>(racism)</add> existance and talking about it.</s>
+        <s>One of the reasons why this is so important is that most of the time people don't even realize that they are <choice><orig>discrimminating</orig><reg>discriminating</reg></choice> others, so talking about it could help being aware of it.</s>
+        <s>Talking about my own experience, I realize how lucky I am to not have to deal with racism at school, and I hope you and others don't have to as well.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

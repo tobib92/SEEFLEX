@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l03_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref> was written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and published in <date>1995</date>.</s>
+        <s>The topic of this book is the immigration in <name type="geo">America</name> from two perspectives, the <choice><orig>mexican</orig><reg>Mexican</reg></choice> perspective and the <choice><orig>american</orig><reg>American</reg></choice> perspective.</s>
+        <s>In this excerpt of <choice><orig>Chapter</orig><reg>chapter</reg></choice> six <name type="person">Delaney</name> <choice><orig>can not</orig><reg>cannot</reg></choice> escape from his own prejudice against Mexicans.</s>
+      </p>
+      <p>
+        <s>Before this scene <name type="person">Delaney</name> had an argument with <name type="person">Kyra</name> about the gate that will be build around their residential area for safety reasons.</s>
+        <s><name type="person">Kyra</name> argued that their dog got eaten by the <choice><orig>cyote</orig><reg>coyote</reg></choice> and that a gate would preview something like that.</s>
+        <s>This <choice><orig>disput</orig><reg>dispute</reg></choice> is important to <name type="person">Delaney</name>, because <name type="person">Kyra</name> is his wife.</s>
+        <s>Back, the president of their residential commitee, is also strictly pro gate for the same reasons as <name type="person">Kyra</name>.</s>
+        <s>Immediately, <name type="person">Delaney</name> tries to explain that this idea is undemocratic.</s>
+        <s>In general <name type="person">Delaney</name>, one of the protagonists, is portrayed as a democratic humanist and naturalist or at least he would like to be like this.</s>
+        <s>A contrast to this image is a car crash he had, where he hurt a Mexican and gave him 20 dollars instead of helping him.</s>
+        <s><name type="person">Kyra</name> and <name type="person">Delaney</name> also meet Mexicans  for example on a hiking trip or at a home that <name type="person">Kyra</name> tries to sell to potential buyers.</s>
+      </p>
+      <p>
+        <s>In the beginning of part two from <choice><orig>Chapter</orig><reg>chapter</reg></choice> six <name type="person">Delaney</name> walks through his neighbourhood and sees a Mexican who stands at his neighbours' door <add>the <name type="person">Cherrystones</name></add>.</s>
+        <s><name type="person">Delaney</name> suspects that the man tries to steal something.</s>
+        <s>As he asks the Mexican what he is doing there, the Mexican explains that he delivers <choice><orig>flies</orig><reg>flyers</reg></choice>.</s>
+        <s><name type="person">Delaney</name> does not believe him but later on he sees that the man is really delivering <choice><orig>flies</orig><reg>flyers</reg></choice>.</s>
+        <s>At the end of the excerpt <name type="person">Delaney</name> gets an urgent message where the next residential is announced.</s>
+      </p>
+      <p>
+        <s>The incidents fit perfectly into the plot of the book because they show how divided the <name type="geo">Arrayo Blanco</name> community is and how <name type="person">Delaney</name> slowly realises that he is powerless against his own prejudice.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

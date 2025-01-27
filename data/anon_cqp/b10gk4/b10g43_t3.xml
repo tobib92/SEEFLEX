@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g43_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I want to write a comment, about how the novel <ref target="b10gk4_1" type="title">The Hate U Give</ref>, that is written by <ref target="b10gk4_1" type="author">Angie Thomas</ref>, impacted on me and my <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The novel deals with the story of a teenage girl, who starts to fight against racism.</s>
+        <s>The novel impacted me and my perspective in many ways.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> is shown as a small teenaged girl in the first part of the novel, who goes to a <choice><orig>privileget</orig><reg>privileged</reg></choice> school and doesn't <choice><orig>has</orig><reg>have</reg></choice> much to say.</s>
+        <s>But the fact, that <ref target="b10gk4_1" type="character">Starr</ref> gains the power only with the huge willing to change the world, <choice><orig>whith</orig><reg>with</reg></choice> fighting against racism, shows, that teenagers can change the <choice><orig>word</orig><reg>world</reg></choice> <choice><orig>to</orig><reg>too</reg></choice>.</s>
+        <s><choice><orig>Additionaly</orig><reg>Additionally</reg></choice>, it <choice><orig>clearfyes</orig><reg>clarifies</reg></choice>, that people, who <choice><orig>sheme</orig><reg>seem</reg></choice><choice><orig>smal</orig><reg>small</reg></choice> and weak to everyone, also can be able to do something moving, what is a very good <choice><orig>massage</orig><reg>message</reg></choice> in my eyes.</s>
+        <s><ref target="b10gk4_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref><choice><orig>akting</orig><reg>acting</reg></choice> of standing up for change, has similarities with the <name type="misc">Fridays for future</name> <choice><orig>comunity</orig><reg>community</reg></choice>, which is also build up by teenagers.</s>
+        <s>The novel <ref target="b10gk4_1" type="title">The Hate U Give</ref>, shows that it's not hopeless to do something against something even if you are just one human, what <choice><orig>effected</orig><reg>affected</reg></choice> me in that way, that I also don't have a <choice><orig>hopless</orig><reg>hopeless</reg></choice> view on actions like that, because the start <choice><orig>smal</orig><reg>small</reg></choice>, but can become very big.</s>
+      </p>
+      <p>
+        <s>As a conclusion I can say, that the novel <ref target="b10gk4_1" type="title">The Hate U Give</ref> changed my perspective in that way, that everyone can start something big, like <ref target="b10gk4_1" type="character">Starr</ref> did in the novel and it doesn't matter, in which age you are, what high you have or what your nationality is.</s>
+        <s>You should never give up, because even if it <choice><orig>sheems</orig><reg>seems</reg></choice> to be <choice><orig>hopless</orig><reg>hopeless</reg></choice> first, it can grow someday.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

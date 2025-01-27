@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g50_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In <date>2009, April 7</date> <ref target="c10gk4_1" type="speaker">Barack Obama</ref> came to <name type="geo">Turkey</name> and joined a student's roundtable at <choice><orig>an</orig><reg>a</reg></choice> university in <name type="geo">Tophane</name>.</s>
+        <s>His goal was to encourage young people to take part in intercultural exchanges.</s>
+      </p>
+      <p>
+        <s>He started his speech with the few reasons he came <ref target="c10gk4_1" type="line">(ll. 1-3)</ref>, being that he feels like it's of a high importance to regain the trust and peace that the <name type="geo">US</name> and <name type="geo">Turkey</name> had.</s>
+        <s>He talks about the young people in <name type="geo">America</name> that motivated him to find ways to create and form new bonds between them and other people all around the world.</s>
+        <s>Their activism, idealism and their deeply rooted wish for interaction with all kinds of humas <ref target="c10gk4_1" type="line">(ll. 5-8)</ref>, were the reason he tries to support opportunities to learn new languages or welcome students from other countries in the <name type="geo">US</name> <ref target="c10gk4_1" type="line">(ll. 10-11)</ref>.</s>
+      </p>
+      <p>
+        <s>He ends his speech with some motivational sentences <ref target="c10gk4_1" type="line">(ll. 18-22)</ref> that are supposed to give the audience strength and hope for the future.</s>
+      </p>
+      <p>
+        <s>All in all he uses a language that's not <choice><orig>to</orig><reg>too</reg></choice> abstract to understand but his words still hold a lot of power and positivity.</s>
+      </p>
+      <p>
+        <s>He gives his goals even more importance, by <choice><orig>saing</orig><reg>saying</reg></choice> sentences like <quote>You can choose to build new bridges instead of building new walls</quote> <ref target="c10gk4_1" type="line">(ll. 18-19)</ref> which emphasize the importance of intercultural understanding.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

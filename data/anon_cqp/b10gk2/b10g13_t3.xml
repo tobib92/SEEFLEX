@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g13_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The impact when I watched the movie was incredible.</s>
+        <s>My perspective on racism was the same as before watching the movie but after watching it, it <choice><orig>strengthed</orig><reg>strengthened</reg></choice> my perspective.</s>
+        <s>When seeing the actor cry and scream I could <choice><orig>emphatize</orig><reg>empathize</reg></choice> with her even more.</s>
+        <s>The music and all the dramatic effects supported this impact too.</s>
+      </p>
+      <p>
+        <s>My idea about challenges of a teenager is that probably every teenager has different challenges.</s>
+        <s>Some may be easy but some difficult.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref>, who is the main character in the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref> works at a Jewish <choice><orig>Law</orig><reg>law</reg></choice> firm even <choice><orig>tho</orig><reg>though</reg></choice> he is <choice><orig>muslim</orig><reg>Muslim</reg></choice>.</s>
+      </p>
+      <p>
+        <s>He hides his religion because of which he gets discriminated.</s>
+        <s>His wife <ref target="a11lk2_1" type="character">Emily</ref>, is <choice><orig>an</orig><reg>a</reg></choice> white <choice><orig>Artist</orig><reg>artist</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> who experiences racism because of his religion, still <choice><orig>managet</orig><reg>managed</reg></choice> to become a <choice><orig>succesfull</orig><reg>successful</reg></choice> lawyer in <name type="geo">New York</name>.</s>
+      </p>
+      <p>
+        <s>After finding out that <ref target="a11lk2_1" type="character">Jory</ref> got the job he wanted, he gets into rage <ref target="a11lk2_1" type="line">(p. 72, l. 17)</ref> and explained how hard he had to work.</s>
+        <s><quote>were you at work <choice><orig>befor</orig><reg>before</reg></choice> anyone else in the morning?</quote> This shows how ambitious he is and that he didn't complain towards <ref target="a11lk2_1" type="character">Jory</ref> until this point.</s>
+        <s>He also realised that this was because of the <choice><orig>companies</orig><reg>company's</reg></choice> racism towards him and not because of his knowledge and expertise.</s>
+        <s>This makes him very self reflecting and mature.</s>
+      </p>
+      <p>
+        <s>This stands in contrast to his action after the fight with <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>He spits him in his face <ref target="a11lk2_1" type="line">(p. 72, l. 40)</ref>.</s>
+        <s>This is, a reference to the first scene of the play where <ref target="a11lk2_1" type="character">Amir</ref> tells his nephew the story of his first crush.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> spit in the <choice><orig>girls</orig><reg>girl's</reg></choice> face after finding out she is Jewish.</s>
+        <s>This makes him look immature.</s>
+      </p>
+      <p>
+        <s>His relationship to <ref target="a11lk2_1" type="character">Emily</ref> is from his side very strong, he immediately trusts her when she said she didn't cheat on him and doesn't want to make a big deal out of it when their friends are there.</s>
+      </p>
+      <p>
+        <s>However his emotions build up, towards the end and he releases them all at once <ref target="a11lk2_1" type="line">(p. 74, l. 5)</ref>.</s>
+      </p>
+      <p>
+        <s>For him, his relationship to <ref target="a11lk2_1" type="character">Emily</ref> is very important <quote><ref target="a11lk2_1" type="character">Amir's</ref> tone-vulnerable, intense</quote> <ref target="a11lk2_1" type="line">(p. 73, l. 26)</ref>.</s>
+        <s>But he doesn't <choice><orig>has</orig><reg>have</reg></choice> his <choice><orig>radge</orig><reg>rage</reg></choice> under control.</s>
+        <s>He hits <ref target="a11lk2_1" type="character">Emily</ref> several times in the face <ref target="a11lk2_1" type="line">(p. 74, l. 7)</ref>.</s>
+      </p>
+      <p>
+        <s>After realising what he had done <quote>Oh my God</quote> <ref target="a11lk2_1" type="line">(p. 74, l. 15)</ref> he <choice><orig>immidiately</orig><reg>immediately</reg></choice> regrets it and is shocked by his own action.</s>
+      </p>
+      <p>
+        <s>To <choice><orig>condlud</orig><reg>conclude</reg></choice>, <ref target="a11lk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> relationship with <ref target="a11lk2_1" type="character">Emily</ref> is very important to him, but he isn't able to <choice><orig>controle</orig><reg>control</reg></choice> his emotions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

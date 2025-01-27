@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g25_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Barack Obama</ref> gave a speech at the <name type="misc">Culture and Arts Center of Mimar Sinan Fine Arts University</name> in <name type="geo">Tophane</name> in <name type="geo">Istanbul</name>, the <date>7 April 2009</date>.</s>
+      </p>
+      <p>
+        <s>In his speech, he mentions that he sees a new spirit of activism and responsibility.</s>
+        <s>He likes it that more and more young Americans teach in schools or volunteer abroad.</s>
+      </p>
+      <p>
+        <s>Furthermore he makes clear that as the President, he'd like it to find new ways to connect young Americans to young people all around the world by learning new languages, serve and study, welcoming students from other countries.</s>
+      </p>
+      <p>
+        <s>In the end of his speech, <ref target="c10gk2_1" type="speaker">Obama</ref> says that simple exchanges can break down walls and if young people come together and speak to each other, then their common humanity is revealed.</s>
+      </p>
+      <p>
+        <s>In the very end, he mentions that everyone will find a partner and a friend in the <name type="geo">USA</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g35_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text excerpt from chapter 24 pp. 328-332, from the book <ref target="a11gk3_1" type="title">The Hate U Give</ref> is written by <ref target="a11gk3_1" type="author">Angie Thomas</ref> and published in <date>2019</date>.</s>
+      </p>
+      <p>
+        <s>The scene begins with presenting the place, it happens.</s>
+      </p>
+      <p>
+        <s>The place, where <ref target="a11gk3_1" type="character">Khalil</ref> was killed <ref target="a11gk3_1" type="line">(ll. 1-4)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> recognizes this place and immediately sees herself experiencing <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> <choice><orig>dead</orig><reg>death</reg></choice> again <ref target="a11gk3_1" type="line">(ll. 5-8)</ref>.</s>
+      </p>
+      <p>
+        <s>The scene goes back to the present and <ref target="a11gk3_1" type="character">Starr</ref> sees her attorney <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> standing on a police car with a bullhorn <ref target="a11gk3_1" type="line">(ll. 9-14)</ref>.</s>
+        <s>When <ref target="a11gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> friends and family and the crowd shout: <quote>A hairbrush is not a gun</quote>, <ref target="a11gk3_1" type="character">Starr</ref> remembers <ref target="a11gk3_1" type="character">Khalil</ref> holding his hairbrush and him getting shot <ref target="a11gk3_1" type="line">(l. 15-l. 23)</ref>.</s>
+        <s><ref target="a11gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> attorney recognizes her and <ref target="a11gk3_1" type="character">Starr</ref> needs to explain, why she wants to protest <ref target="a11gk3_1" type="line">(l. 24-38)</ref>.</s>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> takes <ref target="a11gk3_1" type="character">Starr</ref> to the police car and gives her the bullhorn.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> tells <ref target="a11gk3_1" type="character">Starr</ref>, that she should use her voice, her weapon <ref target="a11gk3_1" type="line">(l. 39-44)</ref>.</s>
+      </p>
+      <p>
+        <s>At first <ref target="a11gk3_1" type="character">Starr</ref> is scared to speak but after getting encouraged by the crowd she loosens herself up <ref target="a11gk3_1" type="line">(l. 45-49)</ref>.</s>
+      </p>
+      <p>
+        <s>She then <choice><orig>speak</orig><reg>speaks</reg></choice> to the crowd against the warning of the police officers nearby <ref target="a11gk3_1" type="line">(l. 50)</ref>.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> reveals herself witnessing <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> murder and why it was not right.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>End</orig><reg>end</reg></choice> she says, that it is not about how <ref target="a11gk3_1" type="character">Khalil</ref> died, but that he lived <ref target="a11gk3_1" type="line">(ll. 55)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

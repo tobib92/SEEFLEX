@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g50_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following scene of the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> and produced by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> is based on the novel by <ref target="b10gk5_1" type="author">Angie Thomas</ref> and was published in <date>2018</date>.</s>
+      </p>
+      <p>
+        <s>It deals with the relationship between <ref target="b10gk5_1" type="character">Starr</ref> and <ref target="b10gk5_1" type="character">Chris</ref> after an <choice><orig>arguement</orig><reg>argument</reg></choice>, because of <q>condom game</q> <add>(?)</add> and how these characters are <choice><orig>handeling</orig><reg>handling</reg></choice> with it.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> and <ref target="b10gk5_1" type="character">Chris</ref> are both at school.</s>
+        <s>After the break, <ref target="b10gk5_1" type="character">Starr</ref> is standing at her locker and preparing for the next lessons, packing some books.</s>
+        <s>She sees her boyfriend <ref target="b10gk5_1" type="character">Chris</ref>, coming towards her.</s>
+      </p>
+      <p>
+        <s>Later they speak about their dispute and <ref target="b10gk5_1" type="character">Chris</ref> excuses for his behaviour.</s>
+        <s>However <ref target="b10gk5_1" type="character">Starr</ref> didn't like what he had done.</s>
+      </p>
+      <p>
+        <s>Then <ref target="b10gk5_1" type="character">Chris</ref> <choice><orig>put</orig><reg>puts</reg></choice> his earphones on his girlfriend's head, so she <choice><orig>listen</orig><reg>listens</reg></choice> to his new <quote>DJ composition</quote>.</s>
+      </p>
+      <p>
+        <s>However they also talk about this relationship, especially <ref target="b10gk5_1" type="character">Chris</ref> is questioning why he can't present hisself at <ref target="b10gk5_1" type="character">Carters</ref>.</s>
+        <s>The response of <ref target="b10gk5_1" type="character">Starr</ref> was, that they are always busy.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

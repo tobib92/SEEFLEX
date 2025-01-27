@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g33_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>This abridged blog entry, made by <ref target="a10gk4_1" type="author">Ankita Mitra</ref> on the <date>5th February 2014</date>, is about the problem of environmental pollution and it causes and effects.</s>
+      </p>
+      <p>
+        <s>The author underlines, that the pollution has big and devastating effects on the earth.</s>
+        <s>Animals, plants and humanity will be in danger.</s>
+        <s>Due to the environmental pollution many plants and animals will get extinct and the earth will have to face enormous health problems.</s>
+      </p>
+      <p>
+        <s>The pollution is caused by nuclear tests and the industry, but car, <choice><orig>treffic</orig><reg>traffic</reg></choice>, synthetic detergents and contaminating plants are cause too.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

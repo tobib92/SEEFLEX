@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g11_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref>, by <ref target="b11gk1_1" type="author">Jennifer Clement</ref>, published in <date>2019</date>, is about 14-year old <ref target="b11gk1_1" type="character">Pearl</ref>, who lived in a car with her mother for her whole life.</s>
+        <s>After her mother got shot she is brought to a foster home by <choice><abbr>CPS</abbr><expan>Child Protective Service</expan></choice>.</s>
+      </p>
+      <p>
+        <s>In her new foster home she meets two other foster children, <ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> has no idea where she came from.</s>
+        <s>She was in many different foster homes, even though she is only 8 years old.</s>
+        <s>She talks a lot, so she tells <ref target="b11gk1_1" type="character">Pearl</ref> about her different homes, different ethnics, brothers, sisters, twins, places she was born in and different religions her families practiced.</s>
+        <s>Every foster home gave her a phone and charger to keep in touch with them.</s>
+        <s>She has at least 17 phones and no idea which phone belongs to which foster home.</s>
+        <s><ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Pearl</ref> offer to help her find out who the phones belong to.</s>
+      </p>
+      <p>
+        <s>Altogether <ref target="b11gk1_1" type="character">Pearl</ref> meets this little girl, who is completely the opposite of her.</s>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> does not know the truth about her past and <choice><orig>belives</orig><reg>believes</reg></choice> everything the foster homes tell her.</s>
+        <s>She probably does not even understand that she is a foster <choice><orig>children</orig><reg>child</reg></choice> or she does not understand the true meaning of being a foster <choice><orig>children</orig><reg>child</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

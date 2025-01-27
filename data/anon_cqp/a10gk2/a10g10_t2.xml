@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> written by <ref target="a10gk2_1" type="author">Brian Pollard</ref> and published in form of an extract in <name type="misc">The Gulf News</name> on <date>24 November 2011</date> grabs up the problem of the issue of labour relations between employers and employees, the <choice><orig>usefullness</orig><reg>usefulness</reg></choice> of unions in general and the main goal unions have in the modern industry.</s>
+      </p>
+      <p>
+        <s>The article extract has 24 lines and <choice><orig>an</orig><reg>a</reg></choice> total of 310 words.</s>
+      </p>
+      <p>
+        <s>It has six paragraphs with long sentences being used.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> uses enumerations like <quote>(better working conditions, shorter working days</quote>: line 7 and also in lines 13-14) to show how important the points, tha the brings in, such as better working conditions for the first one and the competition between foreign competitors and normal factories for the second one, are.</s>
+      </p>
+      <p>
+        <s>He also uses a negation in lines 4-5 <quote>(... no longer about the protection of workers' rights but about power and greed)</quote> to underline his opinion, that unions are not longer saving the workers, but using them as their <quote>money machine</quote> and while they do that not caring about the people in <choice><orig>geeral</orig><reg>general</reg></choice>.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Pollard</ref> makes use of another enumeration in lines 8-9 <quote>(good working conditions, good wages, and safe working environment)</quote> to express the amount of aspects in terms of safety for the workers, union had to deliver.</s>
+      </p>
+      <p>
+        <s><choice><orig>A</orig><reg>An</reg></choice><choice><orig>Anticlimax</orig><reg>anticlimax</reg></choice> is used in lines 10-13 <quote><qs>(Today unions are obstructing companies' abilities to compete and prosper.</qs><qs>Unions are anticompetitiveness; they have become victims of their own success ...)</qs></quote> to show, that the <choice><orig>sucess</orig><reg>success</reg></choice> not only has advantages but also disadvantages, that are the result of a competition, that don't <choice><orig>knows</orig><reg>know</reg></choice> a limit of every aspect, that is linked to humanity.</s>
+      </p>
+      <p>
+        <s>In lines 18-19 you can find <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>Prallelismn</orig><reg>parallelism</reg></choice> <quote>(workers are not being exploited by employers, now employers are being exploited by employees)</quote> to clear up the fact, that the competition of fashion brands brings disadvantages for both sides and not only the employees, but also the employers are effected.</s>
+      </p>
+      <p>
+        <s>The author also brings in a simile in line 20 <quote>(... become more powerful than their employers ...)</quote> to express the fact, that employees have all together have a big impact on the fashion idustry and have a big impact on the industry in general.</s>
+      </p>
+      <p>
+        <s>A <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> is used in the line 22 <quote>(... to take a hard look)</quote> to make clear, that the look governments should take, is not only scrabbing the surface of the problem but goes deeper into it to find a solution.</s>
+      </p>
+      <p>
+        <s>All in all you can say, that the author, <ref target="a10gk2_1" type="author">Brian Pollard</ref>, uses countless enumerations and enjambements to make the importance of the topics, he brings in, clear.</s>
+        <s>For that he uses long sentences and stylistic devices to underline his thesis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

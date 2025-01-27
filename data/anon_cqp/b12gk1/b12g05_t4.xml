@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g05_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello my English-speaking e-pal,</salute>
+      </p>
+      <p>
+        <s>I hope <choice><orig>your</orig><reg>you're</reg></choice> doing well.</s>
+        <s>I read the article about <name type="misc">KLS goes green</name> you sent me and I am happy to tell you about it.</s>
+        <s><name type="misc">KLS goes green</name> is a project at my school, that was started because more and more students showed interest in protecting the environment and acting against climate change.</s>
+        <s>Especially through protests like <name type="misc">Fridays-for-future</name> the topic gained more popularity.</s>
+        <s>The school thought it would be nice to deal with questions like <quote>how does my acting affect the environment</quote> inside of school workshops.</s>
+        <s>Students, parents and teachers had the opportunity to request workshops, that they think could be interesting.</s>
+        <s>All the workshops, that they think could be interesting.</s>
+        <s>All the workshops will then take place at one day and there will be not normal lessons.</s>
+      </p>
+      <p>
+        <s>Examples for workshops that existed are discussing how to save water or a second hand flea market.</s>
+        <s>Another thing they did is making sure, that the trash is more environment friendly and they made a café with vegan waffles and coffee.</s>
+      </p>
+      <p>
+        <s>One special thing they did is invite two poetry-slammers, one of which taught kids how to properly use their voice, helping them in discussions etc.</s>
+        <s>The teachers were very pleased with the event and it will probably take place again if it's possible due to COVID-19.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

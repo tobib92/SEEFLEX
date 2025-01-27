@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g24_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John</salute>
+      </p>
+      <p>
+        <s>I've noticed often that you're very proud of the globalisation of the world.</s>
+        <s>You're right, it is a very very good progress for you and me, but not for everyone.</s>
+        <s>I've done some researches and came onto that website, which is about 3 people who went for a newspaper article to <name type="geo"><choice><orig>Kambodscha</orig><reg>Cambodia</reg></choice></name> in a <choice><orig>textic</orig><reg>textile</reg></choice> fabric to know how the people live and that not <choice><orig>everthing</orig><reg>everything</reg></choice> in the world is like we have.</s>
+        <s>All the progresses with technologies made people rich.</s>
+        <s>The three people <foreign xml:lang="de">(erlebten)</foreign> how bad it is.</s>
+        <s>All the day they had to sit in a fabric and do the same thing all day.</s>
+        <s>They lived in a very little house and had only rice to eat.</s>
+        <s>They felt very <foreign xml:lang="de">(unterdrückt)</foreign> and <choice><orig>kinda</orig><reg>kind of</reg></choice> depressed and felt sorry for the people.</s>
+        <s>Not <choice><orig>everthing</orig><reg>everything</reg></choice> is like you have it or me.</s>
+        <s>Think more about it.</s>
+        <s>Just to know that it is not <choice><orig>everthing</orig><reg>everything</reg></choice> perfect, that you're aware of it.</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

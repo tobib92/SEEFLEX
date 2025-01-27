@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g27_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>What can and should we do to stop the environmental pollution?</s>
+        <s>Our earth is destroying as a result of the huge growth and development of science and technology.</s>
+        <s>We have to act <choice><orig>immediatly</orig><reg>immediately</reg></choice> - before we lost the ecological balance and earth destroy.</s>
+      </p>
+      <p>
+        <s>As <choice><orig>a</orig><reg>an</reg></choice> easy first step, we could stop driving cars and use bicycles.</s>
+        <s>Through the lower fuel consumption, the atmosphere will getting fewer effects.</s>
+        <s>Furthermore, it is also good for ourselves, to do more sport and train our muscles.</s>
+      </p>
+      <p>
+        <s>As an another idea, we could try to buy no plastic or too many clothes.</s>
+      </p>
+      <p>
+        <s>These ideas are small steps, you can do in your all day life.</s>
+        <s>Try this to make the environmental <choice><orig>pollusion</orig><reg>pollution</reg></choice> smaller!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

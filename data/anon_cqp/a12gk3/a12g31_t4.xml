@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g31_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+      </p>
+      <p>
+        <s>in the following I will mediate the text for you in English.</s>
+      </p>
+      <p>
+        <s><name type="geo">Berlin</name> is in some aspects nearly like <choice><orig>citys</orig><reg>cities</reg></choice> like <name type="geo">London</name>, <name type="geo">Brooklyn</name> or <name type="geo">Sydney</name>.</s>
+        <s>That's because many tourists from the <name type="geo">UK</name>, <name type="geo">Australia</name> or <name type="geo">America</name> come to Berlin.</s>
+        <s>But some of them also come to <name type="geo">Berlin</name> to stay and live there.</s>
+        <s>Maybe in <name type="geo">Neukölln</name> or <name type="geo">Kreuzberg</name> they <choice><orig>doesn't</orig><reg>don't</reg></choice> hear any <choice><orig>german</orig><reg>German</reg></choice> word.</s>
+        <s>Especially in this regions of <name type="geo">Berlin</name> are many people from English-speaking countries.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

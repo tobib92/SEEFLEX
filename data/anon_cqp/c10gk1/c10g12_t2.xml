@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g12_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I am <choice><orig>gonna</orig><reg>going to</reg></choice> tell you how the author tries to convince the readers of her opinion in the article <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> and published in <name type="misc">The Sunday Times</name> on the <date>17th December 2016</date>.</s>
+      </p>
+      <p>
+        <s>In the first paragraph she tells us how important it is that the immigrants learn English and do not integrate alone.</s>
+        <s>This argument is <choice><orig>prooved</orig><reg>proved</reg></choice> with facts how expensive translation is.</s>
+      </p>
+      <p>
+        <s>Later we get to know the bad conditions from <name type="geo">Bangladesh</name>.</s>
+        <s>She tells us her story and so it is easier to understand and identify with immigrants.</s>
+      </p>
+      <p>
+        <s>Additionally <ref target="c10gk1_1" type="author">Zia</ref> makes the differences between the past and nowadays clear to strengthen her opinion.</s>
+      </p>
+      <p>
+        <s>In the last paragraph she underlines her opinion that you should not help immigrants <choice><orig>to</orig><reg>too</reg></choice> much so they <choice><orig>can not</orig><reg>cannot</reg></choice> integrate and appeals to us how important it is to speak up and learn English.</s>
+      </p>
+      <p>
+        <s>There are many stylistic devices in the text.</s>
+      </p>
+      <p>
+        <s>For example an alliteration <quote>My parents</quote> <ref target="c10gk1_1" type="line">(ll. 11-14)</ref>.</s>
+        <s>Here it becomes clear how important the family is to immigrate.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk1_1" type="author">Zia</ref> uses a metaphor <quote>But you don't learn to stand on your own two feet if someone is holding you up</quote> <ref target="c10gk1_1" type="line">(ll. 18-19)</ref> to illustrate her opinion.</s>
+      </p>
+      <p>
+        <s>She also writes <quote>we</quote> and <quote>us</quote> <ref target="c10gk1_1" type="line">(ll. 3, 18, 20, 23)</ref> many times.</s>
+        <s>This has the affect that it is easier to identify with the author and understand the text.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

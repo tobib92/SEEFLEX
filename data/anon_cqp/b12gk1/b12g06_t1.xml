@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g06_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech, given on <date>1 November 2021</date> at the <name type="misc">COP26 World Leaders' Summit Opening Ceremony</name> the British Prime Minister <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> explains the importance of this agreement in order to fight against the climate change.</s>
+        <s>His idea of the climate crisis is that it is man-made and that we ignore it even though scientists warn us.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> also sees the responsibility the conclave of world leaders have towards young people and the posterity, because the climate crisis with its speed and <choice><orig>aburptness</orig><reg>abruptness</reg></choice> will not <choice><orig>stopp</orig><reg>stop</reg></choice>.</s>
+        <s>The British Prime Minister points out the huge role of the <name type="misc">COP26</name> for this crisis.</s>
+      </p>
+      <p>
+        <s>In comparison to other agreements <name type="geo">Glasgow</name> needs to take action.</s>
+        <s>He claims that they have the technology, the ideas and the opportunity to get finances to change things.</s>
+        <s>But they only will have the finances and the opportunities to change something if all countries work together and help each other.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> reminds the members of the <name type="misc">COP26</name> of their responsibility to achieve something against climate change and stresses out which impact this crisis already has on the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

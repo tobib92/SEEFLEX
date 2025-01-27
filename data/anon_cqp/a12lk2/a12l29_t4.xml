@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l29_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Jonathan,</salute>
+      </p>
+      <p>
+        <s><choice><orig>how</orig><reg>How</reg></choice> are you, mate?</s>
+        <s>Your last <choice><orig>E-Mail</orig><reg>e-mail</reg></choice> sounded pretty happy, I'm glad you're doing so well and I was excited when you told me about your current topic in English class right now because I just read an article about <name type="person">Shakespeare</name> on German stages by the <name type="misc">Märkische Allgemeine Zeitung</name> <add>a newspaper</add> a ocuple of days ago.</s>
+      </p>
+      <p>
+        <s>The article is called <ref target="a12lk2_2" type="title">Darum spielen wir Shakespeare</ref>, written by <ref target="a12lk2_2" type="author">Karim Saab</ref> and was published on the <date>23rd April 2016</date>.</s>
+      </p>
+      <p>
+        <s>In it they ask major playors in the <name type="geo">Brandenburg</name> theatre scene while they still perform <name type="person">Shakespeare</name>.</s>
+        <s>The author himself argues that <name type="person">Shakespeare</name> groups the depth of the human emotions and modern inventions can't change that and the experts agree with him; all of them say that he wrote beautiful plays and sonnets that still understand the faults and interests of our emotions.</s>
+        <s>The first one, <name type="person">Mario Holetzeck</name>, a director at the <name type="misc">Statetheatre Cottbus</name> emphasizes how <name type="person">Shakespeare</name> portrays the dark and twisted side of people that surprises and is still relevant to us.</s>
+        <s>By experiencing the past we are confronting the present and discover new aspects and interpretations of <name type="person">Shakespeare's</name> work.</s>
+      </p>
+      <p>
+        <s><name type="person">Tobias Wellemeyer</name>, artistic director at the <name type="misc">Hans-Otto-Theatre</name> in <name type="geo">Potsdam</name> explains as well what was said before but also compliments <name type="person">Shakespeare's</name> characters that were surprising and human and how without him literature wouldn't be where it is now.</s>
+      </p>
+      <p>
+        <s>Another artistic director, <name type="person">Reinhard Simon</name> from the <name type="misc">Uckermärkischen Bühnen Schwedt</name> points out <name type="person">Shakespeare's</name> complexity and intricacies, how every drama also ahd humour and vice versa, how there was always light and shadow which lead to discussions, even nowadays.</s>
+      </p>
+      <p>
+        <s>The last one, from the <name type="misc">Neuen Bühne Senftenberg</name>, a literary director called <name type="person">Igor Holland-Moritz</name> states that <name type="person">Shakespeare</name> wrote so much and got translated into so many languages that you can't really dodge him.</s>
+        <s>Every generation tackles him again and he stays timeless.</s>
+      </p>
+      <p>
+        <s>I hope those are some good arguments you can use in class, maybe write me about interesting stuff some other students said!</s>
+      </p>
+      <p>
+        <signed>Sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

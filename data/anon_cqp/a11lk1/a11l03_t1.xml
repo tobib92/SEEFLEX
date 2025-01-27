@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l03_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text scene takes part in the fourth scene of the play <ref target="a11lk1_1" type="title">Disgraced, Scene 4</ref>.</s>
+        <s>After the divorce of the two main characters <ref target="a11lk1_1" type="character">Emily</ref> and <ref target="a11lk1_1" type="character">Amir</ref>, <ref target="a11lk1_1" type="character">Emily</ref> and <ref target="a11lk1_1" type="character">Amir's</ref> nephew <ref target="a11lk1_1" type="character">Abe</ref> came to visit because of an urgent situation.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref>, who in contrast to the beginning of the play is now again fully commited to the Islam, went to a <choice><orig>coffeshop</orig><reg>coffeeshop</reg></choice> with one of his <choice><orig>muslim</orig><reg>Muslim</reg></choice> friends.</s>
+        <s>They then started an argument about their opinion on <name type="misc">Al-Quaida</name>, a terroristic group of the Islam.</s>
+        <s>After they stated that <name type="geo">America</name> and their society is the origin of the group the worker eventually calls the police and <ref target="a11lk1_1" type="character">Abe</ref> is being arrested.</s>
+      </p>
+      <p>
+        <s>Talking to his uncle he admits, that they brought up his immigration status which is now up to renewal <ref target="a11lk1_1" type="line">(cf. l. 1-3)</ref>.</s>
+        <s>But instead of being serious about this problem, he actually laughed when he talked to the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>.</s>
+      </p>
+      <p>
+        <s>Because <ref target="a11lk1_1" type="character">Amir</ref> is speechless because of his nephew attitude, <ref target="a11lk1_1" type="character">Abe</ref> explains that they deliberately look for people like him, <choice><orig>whos</orig><reg>whose</reg></choice> immigration status is vulnerable <ref target="a11lk1_1" type="line">(l. 10f.)</ref>.</s>
+      </p>
+      <p>
+        <s>They use this as a <choice><orig>methode</orig><reg>method</reg></choice> to make those immigrant work for them <ref target="a11lk1_1" type="line">(cf. l. 11)</ref>.</s>
+        <s>Even though he got himself in that situation <ref target="a11lk1_1" type="character">Abe</ref> is scared his mother finds out as she's probably going to freak out <ref target="a11lk1_1" type="line">(l. 16)</ref>.</s>
+        <s>But because <ref target="a11lk1_1" type="character">Amir</ref> seems sceptical throughout their whole conversation.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> doesn't feel understood and asks him what he'd do, if the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> asks him to work for them <ref target="a11lk1_1" type="line">(cf. l. 28)</ref>.</s>
+        <s>Even though <ref target="a11lk1_1" type="character">Amir</ref> doesn't seem to understand his nephew and his acts, he provides solutions and ideas to support him.</s>
+        <s>To help him on a legal base, he decides to call <ref target="a11lk1_1" type="character">Ken</ref>, the lawyer of <ref target="a11lk1_1" type="character">Imam Fareed</ref> who played a part earlier in the play <ref target="a11lk1_1" type="line">(cf. l. 19f.)</ref>.</s>
+      </p>
+      <p>
+        <s>Moreover <ref target="a11lk1_1" type="character">Amir</ref> also gives personal advice to <ref target="a11lk1_1" type="character">Abe</ref>.</s>
+        <s>He highlights that <ref target="a11lk1_1" type="character">Abe</ref> has to change his behaviour in order to fit in society of <name type="geo">America</name>.</s>
+        <s>He states his disbelief about <ref target="a11lk1_1" type="character">Abe</ref> laughing at the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> and amplifies that this behaviour was stupid.</s>
+        <s>Additionally, he tries to provide another point of view for <ref target="a11lk1_1" type="character">Abe</ref>, as this world isn't neutral <ref target="a11lk1_1" type="line">(l. 21)</ref> and he as an immigrant especially has to give a positive picture of his behaviour.</s>
+      </p>
+      <p>
+        <s>He doesn't answer <ref target="a11lk1_1" type="character">Abe's</ref> question about the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>, as he doesn't want to.</s>
+        <s>Probably because he is focused on supporting his nephew.</s>
+        <s>He also critizises his nephew though.</s>
+        <s>He highlights that he needs to show that he is on the side of the authorities even though he isn't.</s>
+        <s>Otherwise he won't win the case.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

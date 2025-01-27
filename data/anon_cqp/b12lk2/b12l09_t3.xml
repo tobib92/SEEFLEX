@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12l09_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>With analyzing <ref target="b12lk2_1" type="speaker">Sir David Attenborough's</ref> speech at <name type="misc">COP26</name>, a certain question arises.</s>
+      </p>
+      <p>
+        <s>Could this speech have had the intended impact on the audience attending?</s>
+      </p>
+      <p>
+        <s>Considering the way the text is structured and filled with empowering and unifying phrasework I would answer with a yes.</s>
+        <s>He validates each <choice><orig>persons</orig><reg>person's</reg></choice> position in this room, preaching that they know all the solutions and how they just need to act.</s>
+        <s>Let us go more into detail and focus on the second paragraph, where he talks about the much needed stability that they all crave.</s>
+        <s>But which kind stability is displayed here?</s>
+        <s>Clearly the author explains how the stability of the climate is important for basic human survival, but it's also important for the stability of the economy.</s>
+        <s>And that right there is <choice><orig>pressumably</orig><reg>presumably</reg></choice> the most important to the room of people that is mostly filled with middle-aged, wealthy and cisgender men, that are about to dispute for two weeks straight how they could possibly manage to lower the carbon concentration by a minimum.</s>
+        <s>Of course it is important to keep the economy going, as there are many jobs that could lost for example, but the statement <quote>the stability we all depend on is breaking</quote> <ref target="b12lk2_1" type="line">(l. 17)</ref> jut goes on to show in what classist and capitalist world we live.</s>
+        <s>This may be <choice><orig>far fetched</orig><reg>far-fetched</reg></choice> as the author maybe it's <choice><orig>soley</orig><reg>solely</reg></choice> aimed at the climate stability and not the economical, but I got a bit enraged while thinking about the second question, if the speech had an impact on the broader public, because realistically it doesn't have an impact on those, at least not the intended one.</s>
+        <s>Most people don't have stability in their lives, a lot of them never have.</s>
+        <s>The speech probably makes a lot of people feel helpless, as the author only <choice><orig>adresses</orig><reg>addresses</reg></choice> his then current audience in the room, and feel like they have no chance but I hope for these politicians to make reasonable decisions because as said before he states that <quote>we know how to...</quote> <ref target="b12lk2_1" type="line">(l. 30)</ref> only including him and the people at the conference.</s>
+        <s>And the ones that have an under-average income are one of the first ones affected by climate change: to think that these rich politicians that are inherently unworldly to a low-income <choice><orig>persons</orig><reg>person</reg></choice>, life, and are mostly driven by keeping up the economy, are the ones deciding for their future, is quote frankly scary.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l41_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the play <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> by the <choice><orig>International</orig><reg>internationally</reg></choice> known <ref target="a12lk3_1" type="author">Shakespeare</ref> written in the 15th century <choice><orig>its</orig><reg>it's</reg></choice> about two Christian friends who borrow money from a Jew in exchange for a pound of flesh if they are late for the deadline.</s>
+      </p>
+      <p>
+        <s>In the given scene <name type="person">Shylock</name> meets up with his friend <name type="person">Tubal</name> who is looking for his daughter, who ran away.</s>
+        <s>As <name type="person">Shylock</name> hears that <name type="person">Tubal</name> has been looking everywhere someone could be hearing from her, but no results has been shown he feels unlucky.</s>
+        <s>He even <choice><orig>wish</orig><reg>wishes</reg></choice> his daughter her death.</s>
+        <s>His friend <name type="person">Tubal</name> who is looking for <name type="person"><choice><orig>Shylock</orig><reg>Shylock's</reg></choice></name> daughter also got some other interesting information for <name type="person">Shylock</name>, his daughter <choice><orig>spend</orig><reg>spent</reg></choice> eighty ducats in one night and exchanged the ring, of <name type="person">Shylock's</name> dead wife, for a <choice><orig>Monkey</orig><reg>monkey</reg></choice> and that <name type="person">Antonio</name> lost one ship.</s>
+        <s>As he <choice><orig>heard</orig><reg>hears</reg></choice> the last news, <name type="person">Shylock</name> is glad that he can finally hurt <name type="person">Antonio</name> who's been humiliating <name type="person">Shylock</name> a few times already.</s>
+        <s>In the end <name type="person">Shylock</name> tells <name type="person">Tubal</name> to hire an officer and that they will meet again at their synagogue.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

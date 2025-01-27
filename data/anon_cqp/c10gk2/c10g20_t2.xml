@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g20_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As stated in the summary, the speech is about the importance of intercultural understanding and student exchanges.</s>
+        <s>Now I will analyse the speech.</s>
+      </p>
+      <p>
+        <s>As already said in the summary, the speech is divided into three paragraphs.</s>
+      </p>
+      <p>
+        <s>In the first paragraph, he explains briefly why he came to <name type="geo">Turkey</name>.</s>
+        <s>In the second paragraph, he names reasons which confirm his thesis.</s>
+        <s>Apart from that he gives insights in his own experiences, which helps the reader to understand his point of view.</s>
+        <s>For example l. 5 <quote>I saw it in my own presidential campaign where young people provided the energy and the idealism that made effort possible</quote>.</s>
+      </p>
+      <p>
+        <s>In the last section he appeals to young people to cross their borders.</s>
+      </p>
+      <p>
+        <s>His choice of words is formal, but he uses many adjectives which makes it vivid for the reader.</s>
+      </p>
+      <p>
+        <s>In line 18 it says <quote>to all of you</quote>, this personal call, gives the reader a new feeling of being part of the group.</s>
+      </p>
+      <p>
+        <s>In line 19 <ref target="c10gk2_1" type="speaker">Obama</ref> says <quote>build new bridges instead of building new walls</quote> this contrast makes the importance of the topic clear.</s>
+        <s>During the <choice><orig>hole</orig><reg>whole</reg></choice> speech, he argues pro his thesis.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

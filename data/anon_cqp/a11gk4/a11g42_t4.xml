@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g42_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear penpal,</salute>
+      </p>
+      <p>
+        <s>we read the novel <name type="misc">THUG</name> in my English class and I did some reserach and <choice><orig>find</orig><reg>found</reg></choice> an article about the discrimination against African Americans in the <name type="geo">USA</name>.</s>
+        <s>There was written, some facts that black people have more chance to be a suspect, than white people.</s>
+        <s>There are deprived in many <choice><orig>thinks</orig><reg>things</reg></choice>, like school, work, and <choice><orig>sozial</orig><reg>social</reg></choice> living.</s>
+        <s>This is so unfair!</s>
+        <s>There is written, that 50 years ago the discrimination against black people was <choice><orig>endet</orig><reg>ended</reg></choice> on paper, but really?</s>
+        <s>Nothing was <choice><orig>endet</orig><reg>ended</reg></choice>, there control them more than white people and there got more into the prison.</s>
+        <s>The most black people is <foreign xml:lang="de">arm</foreign>, because they don't eat a job, although they had and the school.</s>
+        <s>Most of them can't end the school, because of racism.</s>
+        <s>This is so bad, I hope this will end one day.</s>
+        <s>Please read also the book <name type="misc">THUG</name>, it shows the life of a 16-years-old girl who fights against racism!</s>
+      </p>
+      <p>
+        <s>I hope you're good.</s>
+      </p>
+      <p>
+        <s>Hear from you!</s>
+      </p>
+      <p>
+        <signed>Your Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>By starting his speech with a metaphor <quote>strapped to a doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 3)</ref> he wants to show how important the topic of the climate crisis is and that we want our planet to be still alive.</s>
+        <s>He also compares the role of the global leaders to the role of <name type="person">James Bond</name> <ref target="b12gk1_1" type="line">(l. 6)</ref>, which <choice><orig>determinds</orig><reg>determines</reg></choice> that they are in the position to provide our world from the climate change.</s>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> also uses inclusive language in his whole speech <ref target="b12gk1_1" type="line">(for example l. 10, l. 30, l. 46)</ref>.</s>
+        <s>Through that he wants to show that we are all affected by the climate change and that we all have to do something about that.</s>
+        <s>By referring to <name type="geo">Copenhagen</name> <ref target="b12gk1_1" type="line">(l. 10)</ref> and <name type="geo">Paris</name> <ref target="b12gk1_1" type="line">(l. 11)</ref> he wants to express that we know the problem and also made promises but did not change anything.</s>
+        <s>In addition to that he also stands out that we <quote>will not succeed by government spending alone</quote> <ref target="b12gk1_1" type="line">(l. 22)</ref>, which shows that the cliamte crisis is a huge problem that can't be solved by a single state alone so that all leaders have to <choice><orig>wory</orig><reg>worry</reg></choice> together.</s>
+        <s>Furthermore he stresses that the following generation will judge us and will also know that <name type="geo">Glasgow</name> was the turning point <ref target="b12gk1_1" type="line">(l. 38 ff.)</ref>.</s>
+        <s>Through this he wants to make clear that <name type="geo">Glasgow</name>.</s>
+        <s>Through this he wants to make clear that <name type="geo">Glasgow</name> is the last opportunity to provide the worst of the climate change, so we have to start taking climate crisis for real so the following generations <choice><orig>can not</orig><reg>cannot</reg></choice> judge us for doing nothing.</s>
+        <s>With the anaphora <quote><qs>we have the ideas.</qs><qs>We have the technology.</qs><qs>We have the bankers.</qs><qs>We have the corporations and the NGOs</qs></quote> <ref target="b12gk1_1" type="line">(l. 46 f.)</ref>, <ref target="b12gk1_1" type="speaker">Johnson</ref> wants to show that we have all the opportunities we need to change something.</s>
+        <s>But it is also an appeal that we have the opportunities so we have to take action.</s>
+        <s>In his last paragraph he <choice><orig>reffers</orig><reg>refers</reg></choice> back to his <choice><orig>comparism</orig><reg>comparison</reg></choice> with <name type="misc">James Bond</name> <ref target="b12gk1_1" type="line">(l. 48)</ref>.</s>
+        <s>Additionally he says that we have the duty to change something <ref target="b12gk1_1" type="line">(l. 49f.)</ref> which is an appeal to the other leaders that we have to take action.</s>
+        <s>He ends his speech with the appeal <quote><qs>Yes, it's going to be hard.</qs><qs>But yes, we can do it</qs></quote> <ref target="b12gk1_1" type="line">(l. 51f.)</ref> which should encourage the other leaders to take the climate crises real and take action.</s>
+      </p>
+      <p>
+        <s>All in all you can say that <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> wants to get the other leaders also the point that the start to change something about the climate change so that they can work together against it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

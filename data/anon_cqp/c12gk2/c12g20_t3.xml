@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g20_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In this little comment of mine I am going to discuss whether <ref target="c12gk2_1" type="author">Shakespeare</ref> and his works should still be taught in school.</s>
+        <s>For me being a <choice><orig>german</orig><reg>German</reg></choice> student, I am going to look at <choice><orig>english</orig><reg>English</reg></choice> class as a foreign language class, oposed to how a <choice><orig>british</orig><reg>British</reg></choice> might view it.</s>
+      </p>
+      <p>
+        <s>Taking this into consideration I may ask you to follow my argumentation.</s>
+        <s>Now starting with the first <choice><orig>argumment</orig><reg>argument</reg></choice>.</s>
+        <s>For this we have to look at the cultural and historic value of <name type="person">Shakespeare's</name> plays and poems; which is without a doubt <choice><orig>immens</orig><reg>immense</reg></choice>, for both the <choice><orig>english</orig><reg>English</reg></choice> language and <choice><orig>britan</orig><reg>Britain</reg></choice>, but for other countries with other languages I think the relevance of <name type="person">Shakespeare</name> is to be questioned.</s>
+        <s>Now you are surely <choice><orig>argueing</orig><reg>arguing</reg></choice> that the impact especially plays like <name type="misc">Romeo and Juliet</name> with its tragic lovestory and <name type="misc">Macbeth</name> with its story of treason, deception and fate had on <choice><orig>lititure</orig><reg>literature</reg></choice> and storytelling all over the globe.</s>
+        <s>But <choice><orig>fist</orig><reg>first</reg></choice> it is to state, that <name type="person">Shakespeare</name> surely did not invent storytelling and <choice><orig>lititure</orig><reg>literature</reg></choice>.</s>
+        <s>What he did is nearly a modernisation and a bit of <choice><orig>expandation</orig><reg>expansion</reg></choice> of old <choice><orig>roman</orig><reg>Roman</reg></choice> and <choice><orig>greek</orig><reg>Greek</reg></choice> plots to better fit his time.</s>
+        <s>The <choice><orig>secound</orig><reg>second</reg></choice> to name is that only because something was before our modern and much more advanced - more on that later - storytelling does not mean that everybody should now, do you know how an <gap reason="illegible" quantity="1" unit="word">elektropipe</gap> computer - computer that came before the modern semiconductor computer - works?</s>
+        <s>See, neither do I.</s>
+      </p>
+      <p>
+        <s>Something that some uneducated politicians might say is that <name type="person">Shakespeare</name> is a part of culture and therefore has to be taught to maintain it.</s>
+        <s>Out in this very thinking itself is a significant problem: <choice><orig>In</orig><reg>in</reg></choice> modern time, where information is available to everyone, cultural phenomenon should not be needed to be taught.</s>
+        <s>If they are superior to other people should want to learn about them, learn about <name type="person">Shakespeare</name>.</s>
+        <s>And if not that is to be accepted and <name type="person">Shakespeare</name> to be put in the endless archives of history.</s>
+      </p>
+      <p>
+        <s>A third argument against teaching is especially if English is a foreign language class, that it does not benefit learning the language due to <name type="person">Shakespeare</name> using a language, that, by modern <choice><orig>standarts</orig><reg>standards</reg></choice> is simply outdated.</s>
+      </p>
+      <p>
+        <s>At the end we have to look at the argument, that his plays have value to learn from again.</s>
+        <s>Because you might still insist that his work of art is <gap reason="illegible" quantity="1" unit="word">exeplinaly</gap> and therefore worth teaching just for the sake of learning about it.</s>
+        <s>But is it really that <gap reason="illegible" quantity="1" unit="word">exeplinaly</gap>?</s>
+        <s>If you compare it to modern works of art like <name type="misc">Netflix</name> series like <name type="misc">Dark</name> or <name type="misc">Arcane</name> or literature like <name type="misc">Harry Potter</name> or <name type="misc">Lord of the Rings</name>.</s>
+        <s>The plot especially in the <name type="misc">Netflix</name> series is much more advanced for example compare the plot of <name type="misc">Romeo and Juliet</name> to that of <name type="misc">Arcane</name>, the one is about a man and a woman being in forbidden love and ultimately <choice><orig>dieing</orig><reg>dying</reg></choice>, the other is about two sisters that lost their parents due to a riot against the rich ruling class <add><name type="misc">Piltover</name></add> being estranged and split due to a traumatic event spiraling down a walk of tragedy.</s>
+        <s>Not to mention difference in both characters and world <choice><orig>deapht</orig><reg>depth</reg></choice> between the two.</s>
+      </p>
+      <p>
+        <s>So in th end I say we should be learning <name type="person">Shakespeare</name> in school.</s>
+        <s>But mabye in an optional <choice><orig>litriture</orig><reg>literature</reg></choice> class.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

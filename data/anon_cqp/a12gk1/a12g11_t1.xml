@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g11_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given article <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref> written by <ref target="a12gk1_1" type="author">John Worne</ref> in <name type="misc">The Telegraph</name> on <date>27 January 2015</date> the author tells about the problem in the <name type="geo">UK</name> that more and more people just know <choice><orig>english</orig><reg>English</reg></choice> as their only language.</s>
+      </p>
+      <p>
+        <s>The author tells the number of students in the <name type="geo">UK</name> which choose to study an other language than <choice><orig>english</orig><reg>English</reg></choice> goes significantly down <ref target="a12gk1_1" type="line">(ll. 3-5)</ref>.</s>
+        <s>Also the uptake of languages are stopped <ref target="a12gk1_1" type="line">(ll. 7-8)</ref> and fewer language <name type="misc">A-level</name> exams are taken then in <date>1990</date> <ref target="a12gk1_1" type="line">(ll. 9-12)</ref>.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>authors</orig><reg>author's</reg></choice> opinion this is a huge problem because on the one hand not everybody in the world can speak <choice><orig>english</orig><reg>English</reg></choice> <ref target="a12gk1_1" type="line">(ll. 12-15)</ref> and on the other hand you need more than one language to be <choice><orig>successfull</orig><reg>successful</reg></choice> in the future <ref target="a12gk1_1" type="line">(ll. 19-23; ll. 27-29)</ref>.</s>
+      </p>
+      <p>
+        <s>Admittedly there are some progress like that students should start to learn an other language in primary school <ref target="a12gk1_1" type="line">(ll. 6-7)</ref> or that  universities offer students to study a language besides their degree subject <ref target="a12gk1_1" type="line">(ll. 24-26)</ref> but more people should learn another language to safe their future <ref target="a12gk1_1" type="line">(ll. 30-31)</ref> and their parents should help to do something for it <ref target="a12gk1_1" type="line">(ll. 32-35)</ref>.</s>
+        <s>In short the author thinks that in the <name type="geo">UK</name> too little young people speak a second language.</s>
+        <s>So he wants to expand the language learning in schools and universities with the help from other parents because the education system <choice><orig>can not</orig><reg>cannot</reg></choice> fix this alone.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

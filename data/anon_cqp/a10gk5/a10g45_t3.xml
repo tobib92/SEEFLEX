@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g45_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Have you ever talkes to your parents or to friends because of the environmental pollution?</s>
+        <s>In this comment I will tell you why we are the reason for pollution and we could do to solve this problem.</s>
+      </p>
+      <p>
+        <s>Starting with the first and also important argument.</s>
+        <s>Our industry is one of main reason.</s>
+        <s>Every fabric has fall-outs.</s>
+        <s>But maybe much important are the automobiles.</s>
+        <s>On <choice><orig>Earth</orig><reg>earth</reg></choice> we have millions of cars and each <gap reason="illegible" quantity="1" unit="word">excurpt</gap> e-cars, is blowing our smokes.</s>
+      </p>
+      <p>
+        <s>Maybe we don't think about <foreign xml:lang="de"><choice><abbr>ÖPNV</abbr><expan>Öffentlicher Personennahverkehr</expan></choice></foreign> but the buses are a reason for pollution.</s>
+        <s>Trains are of course the best <choice><orig>automobil</orig><reg>automobile</reg></choice>, but instead of sitting in a bus or in a train, you can ride with a bike.</s>
+      </p>
+      <p>
+        <s>We are of course the reason for pollution, but we could be more ecological.</s>
+        <s>We would drive with a bike or go for walk.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

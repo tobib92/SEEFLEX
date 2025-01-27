@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g12_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref>, which was published in <name type="misc">The Telegraph</name> on <date>January 27th, 2015</date>, the author <ref target="a12gk1_1" type="author">John Worne</ref> writes about the problem but less and less people in the <name type="geo">UK</name> learn foreign languages.</s>
+      </p>
+      <p>
+        <s>in lines three and four he says that less and less foreign languages are studied at university level.</s>
+        <s>In lines six and seven he points out that more primary schools teach foreign languages, then, in lines seven to eleven, he talks about the declining number of exams taken for foreign languages at <name type="misc">GCSE</name> and <name type="misc">A-levels</name>.</s>
+        <s>The importance of knowing foreign languages is pointed out in lines 12 to 23.</s>
+        <s>After that, in lines 24 to 29, he talks about the possibility of studying a language while studying something else and the advantages someone <choice><orig>recieves</orig><reg>receives</reg></choice> in the job market from doing so.</s>
+      </p>
+      <p>
+        <s>He points out his own opinion in lines 30 to 35.</s>
+        <s>More young people should grow their knowledge about languages, also, the parents of the children should care more about languages since they are an important part of their lives which schools and the education system can't fix on their own.</s>
+      </p>
+      <p>
+        <s>All in all you can say that languages are not cared about as much as they should be in the <name type="geo">UK</name> and that exactly this development is bad for the future of the <name type="geo">UK</name> their inhabitants.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l24_t1</author>
+        <name>paraphrase_sonnet</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">paraphrase_sonnet</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Like waves float to the shore,</l>
+            <l>ends our time together now,</l>
+            <l>Everything swaps with what was before,</l>
+            <l>In discharge of hard work it will fight forward.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>The birth of <name type="person">Jesus</name>, first time arriving,</l>
+            <l>on his way, to grow up being crowned,</l>
+            <l>Betrayed decline against his actions,</l>
+            <l>Through time his actions confuse people.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>Time destroys his short peak of influence.</l>
+          </s>
+          <s>
+            <l>Hard Search for former beautiful facial expressions</l>
+            <l>Just loves on rare things.</l>
+          </s>
+          <s>
+            <l>Nothing works, just his scythe.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>In hopeful times, my words will work,</l>
+            <l>esteeming your worth, though his brutal actions.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

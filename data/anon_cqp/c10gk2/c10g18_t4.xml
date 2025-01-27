@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g18_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I am going to sum up an extract from a text written by <choice><orig>an</orig><reg>a</reg></choice> German volunteer who tells us about her experience working in an <name type="misc">Education Center</name> located in <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s>In <name type="geo">India</name> she had a full day, starting up at 08:30 and being at the center all day was normal for her, at the center she taught the children <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>She enjoyed working with the kids there the most, the kids were full of love and <choice><orig>acceptence</orig><reg>acceptance</reg></choice>, which they showed her a lot.</s>
+      </p>
+      <p>
+        <s>What was also really special was their love for life, even though they have terrible life conditions and go <choice><orig>trough</orig><reg>through</reg></choice> so much on daily basis, you can't see that in <name type="geo">Germany</name> as much.</s>
+        <s>Especially when she was tired they made her happy, she says, those days are the most amazing and valuable days of her life.</s>
+        <s>After volunteering she was filled with love, patience, hope, <choice><orig>thankfullness</orig><reg>thankfulness</reg></choice> and confidence.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

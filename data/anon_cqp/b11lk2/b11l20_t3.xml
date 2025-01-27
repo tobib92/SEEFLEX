@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>b11l20_t3</author>
+        <name>interior_monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">interior_monologue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>What in <choice><orig>Gods</orig><reg>God's</reg></choice> name am I supposed to do now.</s>
+        <s>I have successfully managed to keep my distance to <name type="person">Gatsby</name> for all those years because I know how much distress it would cause me.</s>
+        <s>How am I supposed to talk to <name type="person">Tom</name> about this?</s>
+        <s>Would he even care to listen to me?</s>
+        <s>I bet <name type="person">Jay</name> would.</s>
+        <s>I remember all the talks we used to have.</s>
+        <s>We got along so good!</s>
+        <s>But this cannot happen, not after all that has happened those years ago.</s>
+        <s>Why would he want to meet me so suddenly after leaving me?</s>
+        <s>What has my life become so that I am sitting here, married with a kid and think about the possibility of getting back to my teenage lover.</s>
+        <s>Why did <name type="person">Jay</name> had to leave me in the first place and why did I have to marry a <choice><orig>men</orig><reg>man</reg></choice> that does not love me.</s>
+      </p>
+      <p>
+        <s>I let myself get torn apart by two men of which one loves me and the other one does not.</s>
+        <s>Am I capable of getting into a healthy relationship that won't leave me shattered in pieces.</s>
+        <s>They both took the happiness out of me by treating my like a choice.</s>
+        <s><name type="person">Tom</name> is the worst man to ever be married to.</s>
+        <s>He left me alone at our <choice><orig>daughters</orig><reg>daughter's</reg></choice> birth and now he has a <choice><orig>misstress</orig><reg>mistress</reg></choice>.</s>
+        <s>Maybe it would not be so bad after all to get back into contact with <name type="person">Jay</name> again.</s>
+        <s>I am sure he could bring back a little piece of my lost happiness.</s>
+        <s>God, I am still in love with him!</s>
+        <s>I wonder if he has changed a lot since I last saw him.</s>
+        <s>He is acting strange right now and I do not know if I like this behaviour.</s>
+        <s>Do I even know him anymore?</s>
+        <s>He could have changed so much.</s>
+        <s>I heard several different rumours about how he got wealthy and how he got to <name type="geo">New York</name> and I do not like any of them.</s>
+        <s>Is he inflicted in a shady business?</s>
+        <s>What if the war changed him.</s>
+        <s>No one really knows anything about him these days.</s>
+        <s>He is so <choice><orig>misterious</orig><reg>mysterious</reg></choice>!</s>
+        <s>I have to get to know him again and hear his story.</s>
+        <s>I want to know every little detail about him and I want to listen to him talk for hours like in the old days.</s>
+        <s><name type="person">Tom</name> probably would not notice me being away for so long.</s>
+        <s>I finally want to be loved again and I want to be treated like I deserve to be treated.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

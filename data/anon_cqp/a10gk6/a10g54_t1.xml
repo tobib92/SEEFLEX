@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g54_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk6_1" type="author">Ankita Mitra</ref> which came out on <date>February 5, 2014</date> in <name type="misc">Blog on Evironment</name> is about the massive problematic humanity will have with environmental pollution.</s>
+      </p>
+      <p>
+        <s>The author makes clear, that humanity is responsible for global warming and environmental pollution.</s>
+        <s>Traffic, industries and other sectors are the main reason.</s>
+        <s><ref target="a10gk6_1" type="author">Ankita Mitra</ref> sees huge effects and problems upcoming and some disasters which already <choice><orig>happend</orig><reg>happened</reg></choice>.</s>
+        <s>E.g. the leakage of <choice><abbr>MIC</abbr><expan>methyl isocyanate</expan></choice> in <name type="geo">India</name> in the last decade.</s>
+        <s>Many people were killed.</s>
+      </p>
+      <p>
+        <s>Mrs. <ref target="a10gk6_1" type="author">Mitra</ref> worries about future disasters and problems humanity will have as a result of their activities.</s>
+        <s>It is time to act or it will be <choice><orig>to</orig><reg>too</reg></choice> late.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

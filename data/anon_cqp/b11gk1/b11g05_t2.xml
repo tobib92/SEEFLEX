@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11g05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The first-person narrator describes <ref target="b11gk1_1" type="character">Helen</ref> in a very <choice><orig>detailed</orig><reg>detailled</reg></choice> way.</s>
+        <s>She is an eight year old girl that <choice><orig>lookes</orig><reg>looks</reg></choice> about five <ref target="b11gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>She has one black and one white parent.</s>
+        <s>That's why her skin color is a little darker.</s>
+        <s>She smells like bug-off and acts very unmature for her age <ref target="b11gk1_1" type="line">(l. 42)</ref>.</s>
+      </p>
+      <p>
+        <s>She <choice><orig>crawles</orig><reg>crawls</reg></choice> on the floor and never stops to talk.</s>
+        <s>She talks about herself in the third-person what lets her look like a shizophren.</s>
+        <s>Furthermore she had no <choice><orig>consistance</orig><reg>consistence</reg></choice> in her life.</s>
+        <s>She got moved from one foster home to another one.</s>
+        <s>There she was treated very bad.</s>
+        <s>She lived under conditions nobody should have to live on until she came to this foster home.</s>
+        <s>Til that she stayed in 17 <choice><orig>diferent</orig><reg>different</reg></choice> bad foster homes.</s>
+        <s>The bad conditions there were for example sleeping on the floor or <choice><orig>reeusing</orig><reg>reusing</reg></choice> dental floss <ref target="b11gk1_1" type="line">(l. 15)</ref>.</s>
+        <s>Because of <choice><orig>this</orig><reg>these</reg></choice> bad circumstances <ref target="b11gk1_1" type="character">Helen's</ref> mental health is in no good state.</s>
+        <s>She is traumatized.</s>
+        <s>She never got love or something positive in her life.</s>
+        <s>She likes <choice><orig>forehad</orig><reg>forehead</reg></choice> kisses because they give her the feeling of getting love.</s>
+        <s>Now <ref target="b11gk1_1" type="character">Helen</ref> has <choice><orig>consitance</orig><reg>consistence</reg></choice> and friends.</s>
+        <s>If she gets moved into another house she will get a mental breakdown.</s>
+        <s>Her mental health is very <foreign xml:lang="de">instabil</foreign>.</s>
+        <s>So it is very important for her to keep in touch with them to get <choice><orig>sozial</orig><reg>social</reg></choice> experience and become normal.</s>
+      </p>
+      <p>
+        <s>To sum up, <ref target="b11gk1_1" type="character">Helen's</ref> problem is that she is mental damaged.</s>
+        <s>The narrator of this book describes her in a way that is typical for a traumatic child.</s>
+        <s>She talks over herself in the third person, acts childish and <choice><orig>speeks</orig><reg>speaks</reg></choice> without an ending.</s>
+        <s>Her problem is that she got no love and no good upbringing.</s>
+        <s>She wants to get <choice><orig>this</orig><reg>these</reg></choice> things by the people there.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

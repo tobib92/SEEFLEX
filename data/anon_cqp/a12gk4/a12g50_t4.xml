@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g50_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <name type="person">Robin</name>,</salute>
+      </p>
+      <p>
+        <s>regarding your thinking <choice><orig>wether</orig><reg>whether</reg></choice> you want to <choice><orig>spent</orig><reg>spend</reg></choice> a year in <name type="geo">Germany</name> I read the article <ref target="a12gk4_2" type="title">Berlin spricht English</ref> published in <name type="misc">Hannoversche Allgemeine Zeitung</name> on <date>15th July 2016</date> written by <ref target="a12gk4_2" type="author">Marina Kormbaki</ref> which deals with the significant role of speaking English or more languages to live and communicate here.</s>
+      </p>
+      <p>
+        <s>Firstly I want to say that I really <choice><orig>looking</orig><reg>look</reg></choice> forward if you would come here!</s>
+        <s>But I also have to say that especially <name type="geo">Berlin</name> with its many cultural diversities is a city where you do not improve your <choice><orig>german</orig><reg>German</reg></choice> language skills if this is your goal.</s>
+        <s>We live here in a big mix of different cultures what maybe is a solution of the globalization.</s>
+        <s>The author states on the quote from <name type="person">David Walker</name> that Berlin <choice><orig>do</orig><reg>does</reg></choice> not <choice><orig>seems</orig><reg>seem</reg></choice> like other <choice><orig>german</orig><reg>German</reg></choice> cities so overthink your decision <choice><orig>wether</orig><reg>whether</reg></choice> you want to come to <name type="geo">Berlin</name> or maybe to another city?</s>
+        <s>Do not understand it wrong, nevertheless <name type="geo">Berlin</name> is also pretty and has its own special sights.</s>
+      </p>
+      <p>
+        <s>But my personal loveliest city is it not.</s>
+        <s>But I would be glad about to hear from you how you decide.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

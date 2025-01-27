@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>c10g44_t3</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="NA" genre_family="NA">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Ladies and gentleman,</salute>
+      </p>
+      <p>
+        <s>my name is <name type="person">Faraj al-Byarshan</name>, I am 41 years old and I live in the <name type="geo">USA</name> since <date>2005</date>.</s>
+        <s>I came to the <name type="geo">USA</name> for a chance of a better life.</s>
+        <s>A better life for me and of course for my family.</s>
+        <s>I have a beautiful wife and two beautiful sons.</s>
+        <s>I'm happy with them.</s>
+        <s>And I'm happy to be here and of course to live here.</s>
+        <s>I have no fear to get arrested because I have a different opinion or <choice><orig>an</orig><reg>a</reg></choice> religion.</s>
+        <s>I feel safe, without the fear to get killed in a war.</s>
+        <s>But that is a gift and very rare.</s>
+        <s>Many people live in war or under other bad conditions <choice><orig>lik</orig><reg>like</reg></choice> I did.</s>
+        <s>In <name type="geo">Iraq</name> I lived in war.</s>
+        <s>I am <choice><orig>a</orig><reg>an</reg></choice> engineer and I worked and lived a while in <name type="geo">Iraq</name>.</s>
+        <s>But then the war <choice><orig>cames</orig><reg>came</reg></choice> and destroyed everything we had.</s>
+        <s>So I decided to flee to the <name type="geo">USA</name>, because I heard that it is a free and multicultural country.</s>
+        <s>I left my family back at my old home.</s>
+        <s>I was sad and I feared that something could happen to them.</s>
+        <s>Luckily it did not.</s>
+        <s>And luckily it worked.</s>
+        <s>So when I arrived, after a hard trip across the sea, I felt <choice><orig>relieft</orig><reg>relieved</reg></choice>.</s>
+        <s>I felt good.</s>
+        <s>I felt free!</s>
+        <s>But then I thought, what to do now?</s>
+        <s>I'm in a new country and I had no idea what to do next.</s>
+        <s>I arrived by a ship in <name type="geo">Boston</name> and directly deported to <name type="geo">New York</name>.</s>
+        <s>The government told me I had better chances to live in <name type="geo">New York</name> than in <name type="geo">Boston</name>.</s>
+        <s>It was <date>2005</date>.</s>
+        <s>I had problems to immigrate because I was a muslim.</s>
+        <s>Some people called me a terrorist.</s>
+        <s>It hurts but I needed to make something.</s>
+        <s>My family counts on me.</s>
+        <s>Luckily I met a nice woman called <name type="person">Jenna</name> who helped me to immigrate.</s>
+        <s>She also helped me to find a job and a small apartment.</s>
+        <s>But I was still illegal.</s>
+        <s>Two years, I worked and lived like a normal citizen.</s>
+        <s>And then I got accepted.</s>
+        <s>I was so happy and excited.</s>
+        <s>But after the short pleasure, I felt sad.</s>
+        <s>I still got my family in <name type="geo">Iraq</name>.</s>
+        <s>So I asked the government if I could import my family.</s>
+        <s>My wife and my two sons.</s>
+        <s>After three weeks of hoping and praying they accepted my request and <date>2007</date> arrived my family.</s>
+        <s>I was so happy and <choice><orig>relieft</orig><reg>relieved</reg></choice>.</s>
+        <s>I still can't believe it.</s>
+        <s>After two years of hoping and fearing, my family arrived at the harbour.</s>
+        <s>I kissed my wife and my sons and I sweared to god that I won't leave them anymore.</s>
+        <s>After that we went eating and sleeping after that.</s>
+        <s><choice><orig>An</orig><reg>A</reg></choice> happy-end you all might think.</s>
+        <s>Maybe it is.</s>
+        <s>But many people still get discriminated because of their skin colour or their religion or ethnic.</s>
+        <s>It's terrible.</s>
+        <s>The fact that I was called a terrorist, just because I am a muslim, makes me sad and angry at the same time.</s>
+        <s>We need to stand against racism.</s>
+        <s>Everyone of us.</s>
+        <s>If we don't, we will split our society.</s>
+        <s>And that would be terrible.</s>
+        <s>For us and the democracy.</s>
+      </p>
+      <p>
+        <s>Thank you all for listening.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

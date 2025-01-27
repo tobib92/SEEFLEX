@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12g05_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author"><choice><orig>William Shakespears</orig><reg>William Shakespeare's</reg></choice></ref><ref target="c12gk1_1" type="title">Sonnet 116</ref> is part of the first grouping and therefore <choice><orig>adresses</orig><reg>addresses</reg></choice> the young man he loves.</s>
+        <s>The poem focusses on <ref target="c12gk1_1" type="author"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></ref> unwavering love for this young man <choice><orig>wich</orig><reg>which</reg></choice> can't even be broken by <choice><orig>natures</orig><reg>nature's</reg></choice> strongest forces or death itself.</s>
+      </p>
+      <p>
+        <s>In the opening quatrain <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> defines what he <choice><orig>belives</orig><reg>believes</reg></choice> to be love.</s>
+        <s>He ues the second to define the strength and value of love, <choice><orig>befor</orig><reg>before</reg></choice> explaining its everlasting nature in the third quatrain.</s>
+        <s>He uses the closing couplet to assure the reader how firmly he <choice><orig>belives</orig><reg>believes</reg></choice> in his ideas.</s>
+      </p>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> thinks he and his lover understand their thoughts and are deeply connected <ref target="c12gk1_1" type="line">(l. 1)</ref>.</s>
+        <s>He continues and proclaims true love, like he is able to deal with <choice><orig>obstacals</orig><reg>obstacles</reg></choice> and overcome these <ref target="c12gk1_1" type="line">(l. 2)</ref>.</s>
+        <s>He adds love <choice><orig>shoudn't</orig><reg>shouldn't</reg></choice> waver after a fight or if one of the people changes, instead it should stay strong and <choice><orig>stirdy</orig><reg>sturdy</reg></choice> forever <ref target="c12gk1_1" type="line">(l. 3-6)</ref>.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> continues to say love is much more it gives you guidance of lost and because of the reasons listed above its worth is undefinable <choice><orig>jet</orig><reg>yet</reg></choice> <choice><orig>unbelivebly</orig><reg>unbelieveably</reg></choice> high <ref target="c12gk1_1" type="line">(l. 7-8)</ref>.</s>
+        <s>In line 10 he expresses that beauty might fade but love <choice><orig>wont</orig><reg>won't</reg></choice> fade or degrade <ref target="c12gk1_1" type="line">(l. 9)</ref>.</s>
+      </p>
+      <p>
+        <s>He uses the following three lines to explain how love even out <choice><orig>laugst</orig><reg>lasts</reg></choice> death.</s>
+        <s>The love is so strong and deep that it can survive anything <ref target="c12gk1_1" type="line">(l. 10-13)</ref>.</s>
+        <s>He uses the closing couplet to state that he firmly <choice><orig>belives</orig><reg>believes</reg></choice> in his interpretation of love <ref target="c12gk1_1" type="line">(l. 13-14)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

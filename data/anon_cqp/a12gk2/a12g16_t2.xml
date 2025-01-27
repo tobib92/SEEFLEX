@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyse how the author uses communicative strategies and use of languages.</s>
+      </p>
+      <p>
+        <s>First the author <choice><orig>pickd</orig><reg>picked</reg></choice> up a part of the headline in the first sentence <quote>can't, won't, don't</quote>.</s>
+        <s>So he tries to connect the headline with his comment.</s>
+        <s>Through this stylistic device the reader thinks more about the headline and the first sentence.</s>
+        <s>Also the author uses personal pronouns like <quote>our</quote><ref target="a12gk2_1">(l. 1)</ref>.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> points out that he is also a part of the <name type="geo">UK</name> and because of this the reader identifies with the author and the comment.</s>
+        <s>Furthermore there is a <choice><orig>repition</orig><reg>repetition</reg></choice> of <quote>foreign language</quote> <ref target="a12gk2_1">(ll. 1-2, 3-4, 20)</ref>.</s>
+        <s>It <choice><orig>tourns</orig><reg>turns</reg></choice> out that this is the central topic and the importance of the article.</s>
+        <s>Besides the author writes <choice><orig>emotinal</orig><reg>emotional</reg></choice> in line 4 <quote>sadly</quote>.</s>
+        <s>So he judges the problem that the number of students who learn a foreign language have decline.</s>
+        <s>Moreover <ref target="a12gk2_1" type="author">Worne</ref> gives the reader a simile and numbers <ref target="a12gk2_1">(ll. 9-10)</ref>.</s>
+        <s>He emphasizes that the number of exams get on in <choice><orig>comprasion</orig><reg>comparison</reg></choice> to the <date>1990s</date>.</s>
+        <s>After that the writes in a sarcastic tone.</s>
+        <s><quote>Perfectly intelligent people will tell you not to worry</quote><ref target="a12gk2_1">(l. 12)</ref>.</s>
+        <s>Through this tone the author will turn this meaning into a joke.</s>
+        <s>Next he weakens arguments <ref target="a12gk2_1">(ll. 12-14)</ref>.</s>
+        <s>So he tries to show the reader that his opinion is the right opinion.</s>
+        <s>Then the author writes informal <quote>cobbler</quote><ref target="a12gk2_1">(l. 15)</ref>.</s>
+        <s>Again he will turn this meaning into a joke.</s>
+        <s>Besides he gives <choice><orig>a</orig><reg>an</reg></choice> enumeration <quote>trade, prosperity, cultural exports, diplomacy and national security</quote><ref target="a12gk2_1">(ll. 17-18)</ref>.</s>
+        <s>It presents the advantages to learn a foreign language.</s>
+        <s>Then the author uses <choice><orig>a</orig><reg>an</reg></choice> example <ref target="a12gk2_1">(ll. 27-29)</ref>.</s>
+        <s>The author illustrates the importance to <gap reason="illegible" quantity="1" unit="word">apeach</gap> foreign languages.</s>
+        <s>At the end he writes that he is also a parent <ref target="a12gk2_1">(l. 32)</ref>.</s>
+        <s>Through this personal information the author tries to convince the reader.</s>
+        <s>There is also an <gap reason="illegible" quantity="1" unit="word">uppreni</gap> to the parents that they must <choice><orig>thinking</orig><reg>think</reg></choice> about languages <ref target="a12gk2_1">(ll. 32-35)</ref>.</s>
+        <s>Again he shows the importance of foreign languages.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a12gk2_1" type="author">John Worne</ref> tries to convince the reader of his own view through emotional and personal language and through different stylistic devices.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

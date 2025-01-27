@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g52_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think we all can help to help by the problems of environmental pollution, but <choice><orig>everybudy</orig><reg>everybody</reg></choice> has to start by <choice><orig>him self</orig><reg>himself</reg></choice>, because you <choice><orig>can not</orig><reg>cannot</reg></choice> say to someone do that or that.</s>
+      </p>
+      <p>
+        <s>Everybody has to help to make his <choice><orig>on</orig><reg>own</reg></choice> <choice><orig>desicions</orig><reg>decisions</reg></choice> to help the planet and when someone <choice><orig>do</orig><reg>does</reg></choice> not do this <choice><orig>than</orig><reg>then</reg></choice> <choice><orig>a</orig><reg>an</reg></choice> other person helps more better.</s>
+        <s>But we all have to start now before it is <choice><orig>to</orig><reg>too</reg></choice> late and we <choice><orig>can not</orig><reg>cannot</reg></choice> do anything for the <choice><orig>pleace</orig><reg>place</reg></choice> where we all live.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

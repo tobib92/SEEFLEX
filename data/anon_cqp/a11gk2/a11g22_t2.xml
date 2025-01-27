@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Many experienced speakers use rhetorical devices to more <choice><orig>succesfully</orig><reg>successfully</reg></choice> convince the audience, they're right.</s>
+        <s>In the following, it will be analyzed how <ref target="a11gk2_1" type="speaker">Barack Obama</ref> used them in his <date>2007</date> speech in <name type="geo">Bettendorf, Iowa</name> to convince his audience that the American <choice><orig>dream</orig><reg>Dream</reg></choice> is worth fighting for.</s>
+      </p>
+      <p>
+        <s>He starts off by establishing a connection to his audience using a fun metaphor, saying he grew up <quote>just a stone's throw</quote> from their town and saying he shares a lot with them.</s>
+        <s>This makes him feel more relatable and the locals automatically want to hear more from him, even before he said anything political.</s>
+      </p>
+      <p>
+        <s>The next part uses several negatively connotated phrases <add>(<quote>division</quote> <ref target="a11gk2_1" type="line">l. 9</ref>, <quote>separated</quote> <ref target="a11gk2_1" type="line">l. 5</ref>)</add>, pointing out the idea that Americans are divided by race, religion etc. <ref target="a11gk2_1" type="speaker">Obama</ref> deliberately mentions <name type="geo">Washington</name> as a place where these ideas originate to automatically distance the <choice><orig>cocepts</orig><reg>concepts</reg></choice> from the people in <name type="geo">Iowa</name>.</s>
+      </p>
+      <p>
+        <s>He follows up these divisions with his antithesis - after travelling around <name type="geo">America</name>, he's been more impressed by <quote>the values and hopes we share</quote> he says.</s>
+        <s>This is followed by an enumeration of contrasts like <quote>men and women, young and old</quote> that, disregarding their differences, still share the same dreams.</s>
+        <s>The enumeration also creates a parallelism to the enumeration of divisions in the paragraph before.</s>
+      </p>
+      <p>
+        <s>The paragraph finishes by climaxing the apparent dreams and wishes he encountered - and incidentally also supports in his presidential campaign - to the concept of the American Dream <ref target="a11gk2_1" type="line">(l. 12)</ref>.</s>
+      </p>
+      <p>
+        <s>Next up, <ref target="a11gk2_1" type="speaker">Obama</ref> connects these dreams to himself, specifically mentioning government support while retelling his grandparent's life.</s>
+        <s>He <choice><orig>concidentally</orig><reg>coincidentally</reg></choice> also mentions government support during his sister's life, creating a link to his campaign having to give more government support to poor people.</s>
+        <s>This paragraph also repeats the formulation <quote>no matter</quote> before listing factors that <q>Washington</q> says divide the people <ref target="a11gk2_1" type="line">(l. 15f.)</ref> to create a feeling of equality.</s>
+      </p>
+      <p>
+        <s>Finally, <ref target="a11gk2_1" type="speaker">Obama</ref> explains how he fought for American Dreams in the past.</s>
+        <s>In this part, a lot of personal pronouns for himself (<quote>me</quote>, <quote>I</quote>) are used to finally put a focus on himself.</s>
+        <s>Another metaphor (<quote>forgotten corner</quote>, <quote>dream was slipping away</quote>) comes up, signifying the danger the American Dream is in, and concluding that the dreams of the people are worth fighting for and that he knows it.</s>
+      </p>
+      <p>
+        <s>All in all, this speech is filled to the brim with rhetorical devices like climaxes, enumerations and <choice><orig>Anaphoras</orig><reg>anaphoras</reg></choice>, all used to firstly convince his audience that Americans have good dreams that are worth fighting for and secondly, that <ref target="a11gk2_1" type="speaker">Barack Obama</ref> is the president to do it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

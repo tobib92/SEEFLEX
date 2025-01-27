@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g02_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene from the film <ref target="b10gk1_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>, is about <ref target="b10gk1_1" type="character">Starr</ref>, the main character, and her best friend <ref target="b10gk1_1" type="character">Chris</ref> and their <choice><orig>realationship</orig><reg>relationship</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The scene takes place at <name type="misc">Williamson</name> school where the viewer is introduced to the inside of the school, where <ref target="b10gk1_1" type="character">Starr</ref> stands at her locker and noticed <ref target="b10gk1_1" type="character">Chris</ref> coming <choice><orig>trough</orig><reg>through</reg></choice> the hallway to her.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> is not interested in talking, then <ref target="b10gk1_1" type="character">Chris</ref> puts his headphones on her head, presenting her a dynamic beat.</s>
+        <s>She smiles, but as she <choice><orig>turnes</orig><reg>turns</reg></choice> around her happy face <choice><orig>dissapears</orig><reg>disappears</reg></choice> and they start talking about that <ref target="b10gk1_1" type="character">Starr</ref> didn't like what <ref target="b10gk1_1" type="character">Chris</ref> did the other day.</s>
+        <s>They continue talking serious about if <ref target="b10gk1_1" type="character">Chris</ref> should meet <ref target="b10gk1_1" type="character">Starr's</ref> parents.</s>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> asks if <ref target="b10gk1_1" type="character">Starr</ref> wants to skip the beginning romantic part of a <choice><orig>realationship</orig><reg>relationship</reg></choice>, but <ref target="b10gk1_1" type="character">Starr</ref> makes clear that she is interested in a serious <choice><orig>realationship</orig><reg>relationship</reg></choice>.</s>
+        <s>After, <ref target="b10gk1_1" type="character">Chris</ref> says that she missed her and they start smiling again.</s>
+        <s>The scene ends with <ref target="b10gk1_1" type="character">Chris</ref> wanting to <choice><orig>proove</orig><reg>prove</reg></choice> <ref target="b10gk1_1" type="character">Starr</ref> that his beat he made for her is <quote>cool</quote> and starts dancing in the hallway with the loud beat on his phone, both laughing and smiling with them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

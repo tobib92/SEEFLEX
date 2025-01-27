@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g18_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech of the British Prime Minister <ref target="b12gk1_1" type="speaker">Boris Johnson</ref> addressed at <name type="misc">COP26 World Leaders' Summit Opening Ceremony</name> is about the need to get real about climate change.</s>
+      </p>
+      <p>
+        <s>At the beginning of his speech he compares the climate crisis as a tragedy like in <name type="misc">James Bond</name> but climate crisis is not a movie, so he says we have to listen to the scientists.</s>
+        <s>He also mentions that all the promises they made before will all be nothing when we are not getting real about climate change.</s>
+        <s>Furthermore he addresses to the industrialized countries that they have to help the rest of the world to green technology.</s>
+        <s>In addition to that he makes clear that we can only succeed against climate change by working together.</s>
+        <s>He also says that we have the opportunities to change something but the question is if we do not change something the unborn children will judge us and will know that <name type="geo">Glasgow</name> was the turning point.</s>
+        <s>Thus he says we <choice><orig>can not</orig><reg>cannot</reg></choice> let the future generations down.</s>
+        <s>When we have the opportunities to change something.</s>
+        <s>So he appeals at the end of the speech that we have the duty to take this opportunities and that we can do it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

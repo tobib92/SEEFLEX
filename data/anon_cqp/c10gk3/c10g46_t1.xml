@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g46_t1</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Reece</name> realises that he has an easier childhood than his grandparents had.</s>
+        <s>He understands, that it's easier to grow up in another country than it was 60 years ago.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>The black communities remind the times where slavery was legal and then they get scared.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>The slavery won't go out of the <choice><orig>peoples</orig><reg>people's</reg></choice> mind.</s>
+        <s>Never!</s>
+        <s>Although it has been abolished the people will remind this time forever.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>They help these young black <choice><orig>childs</orig><reg>children</reg></choice> because they want them to have a better childhood.</s>
+        <s>Maybe a few of them know how it is to grow up with much problems like bullying.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>The society has changed in the last 30 or 40 years.</s>
+        <s>Now black people are in sports teams or are important <choice><orig>politicans</orig><reg>politicians</reg></choice>.</s>
+        <s>Because of that you can see that they get more respect of the society.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>When the black people look into the past, they see that their <choice><orig>live</orig><reg>life</reg></choice> conditions are better now and they hope that they will get much better in the future.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

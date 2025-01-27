@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g50_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>By informing the reader about the terrible environmental pollution with its causes and effects, the author who has written the article <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> wants to persuade the reader that he or she has to do something against this huge threat.</s>
+      </p>
+      <p>
+        <s>There are many stylistic devices and communicative strategies the author tries to influence the reader's mind.</s>
+      </p>
+      <p>
+        <s>Negative connotations like <quote>harmful</quote> <ref target="a10gk6_1" type="line">(l. 1)</ref>, <quote>contaminate</quote> <ref target="a10gk6_1" type="line">(l. 2)</ref>, <quote>hazardous</quote> <ref target="a10gk6_1" type="line">(l. 2)</ref>, <quote>devastating</quote> <ref target="a10gk6_1" type="line">(l. 13)</ref>, <quote>destructive</quote> <ref target="a10gk6_1" type="line">(l. 14)</ref>, <quote>threatened</quote> <ref target="a10gk6_1" type="line">(l. 16)</ref>, <quote>extinction</quote> <ref target="a10gk6_1" type="line">(l. 16)</ref>, <quote>indiscriminate violations</quote> <ref target="a10gk6_1" type="line">(l. 21)</ref>, <quote>mass extinction</quote> <ref target="a10gk6_1" type="line">(l. 27)</ref>, <quote>tragedy</quote> <ref target="a10gk6_1" type="line">(l. 31)</ref> and <quote>uninhabitable</quote> <ref target="a10gk6_1" type="line">(l. 34)</ref> are influencing the reader's mind to think with a much more negative attitude about this topic.</s>
+      </p>
+      <p>
+        <s>Sentences like <quote>And, it is here that man first began losing control and became victim of his own creations</quote> <ref target="a10gk6_1" type="line">(l. 12)</ref> in the context of scientific technologies, <quote>It is for balance that the human life and other forms of existence have flourished on earth for so many thousands of years</quote> <ref target="a10gk6_1" type="line">(ll. 7-8)</ref> and <quote>Many scientists believe that we are living in an era of mass extinction due to human made environmental pollution</quote> have emotive elements, so the reader thinks about what we are all doing incorrect, giving him or her a guilty feeling about losing control and destroying our own habit.</s>
+      </p>
+      <p>
+        <s>Documented facts like <quote>the only planet known to have an environment</quote> <ref target="a10gk6_1" type="line">(l. 4)</ref> and <quote>The worst industrial environment tragedy ... severely hurt</quote> <ref target="a10gk6_1" type="line">(ll. 29-32)</ref> are presenting the text more trustful and because of that more convincing.</s>
+      </p>
+      <p>
+        <s>Furthermore, the contrast in lines four to six <quote>We all live on planet earth ... no man, no animals, no plants</quote> <choice><orig>empaphizes</orig><reg>emphasizes</reg></choice> the earth as more special than other planets because of its characteristics.</s>
+        <s>The included repetition, parallelism and enumeration in line six <quote>no man, no animals, no plants</quote> highlights the importance of our atmosphere as we know it.</s>
+      </p>
+      <p>
+        <s>Finally, the contrast <quote>If we fail to restore the ecological balance right now, it would be too late tomorrow</quote> presents the reader directly the fatal consequence of pollution which causes fear and enthusiasm to have to do something.</s>
+      </p>
+      <p>
+        <s>As conclusion, the author is managing really good to influence the reader and somehow to force the reader to do something against pollution, also by mentioning the earth as something fantastic destroyed by us.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

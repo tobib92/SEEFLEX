@@ -1,6 +1,9 @@
 library(shiny)
 library(magrittr)
 
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(current_working_dir)
+
 source("../shiny_scatterplot/app_setup.R")
 source("../shiny_scatterplot/ui.R")
 source("../shiny_scatterplot/server.R")

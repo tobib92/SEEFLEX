@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g74_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="c10gk5_1" type="title">Hope of escape lost in translation</ref> written by <ref target="c10gk5_1" type="author">Zia Haider Rahman</ref> and published on the <date>17th December 2016</date> is about the huge problems, which immigrants have in <name type="geo">Great Britain</name>.</s>
+      </p>
+      <p>
+        <s>The article gives information on how immigrants are treated in <name type="geo">Great Britain</name>.</s>
+        <s>If these people <choice><orig>can not</orig><reg>cannot</reg></choice> speak English they get absorbed into the east part of the country.</s>
+        <s>There most of the people have not good chances for their future.</s>
+        <s>Most of them end up as extremists in the mosque or in gangs in the streets.</s>
+      </p>
+      <p>
+        <s>To sum up everything, the text <choice><orig>critize</orig><reg>criticises</reg></choice> how immigrants are treated and that we are sending them confusing signals, which are saying they do not have to learn English or integrate.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

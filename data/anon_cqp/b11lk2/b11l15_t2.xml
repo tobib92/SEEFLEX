@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l15_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> is characterized as hopeful and loving.</s>
+        <s>He is finally not alone anymore.</s>
+      </p>
+      <p>
+        <s>The weather functions as a symbol.</s>
+        <s>The scene reveals a new side of <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>Up to this point <ref target="b11lk2_1" type="character">Nick's</ref> perception and opinion of <ref target="b11lk2_1" type="character">Gatsby</ref> fluently changes.</s>
+        <s>Firstly <ref target="b11lk2_1" type="character">Gatsby</ref> is characterized as very mysterious and gossiped about.</s>
+        <s>At his first appearance in the novel, he is merely seen from the behind standing alone on his lawn, reaching out towards the green light on the dock on the other side.</s>
+        <s>In the third chapter is revealed, that there are many rumours and much gossip about him, causing <ref target="b11lk2_1" type="character">Nick</ref> to be suspicious of him and wanting to meet him.</s>
+        <s>At the party <ref target="b11lk2_1" type="character">Nick</ref> has a conversation with <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+        <s>Even amongst so many people, <ref target="b11lk2_1" type="character">Gatsby</ref> is portrayed as alone: <quote>my eyes fell on <ref target="b11lk2_1" type="character">Gatsby</ref>, standing alone [...] looking from one group to another</quote> <ref target="b11lk2_1" type="line">(p. 51 l. 19f.)</ref>.</s>
+        <s>At that moment <ref target="b11lk2_1" type="character">Nick</ref> <quote>could see nothing sinister about him</quote> <ref target="b11lk2_1" type="line">(p. 51 l. 22)</ref>.</s>
+        <s>Later his opinion of <ref target="b11lk2_1" type="character">Gatsby</ref> changes, when <ref target="b11lk2_1" type="character">Gatsby</ref> tells him about his apparent past: <quote>I was sorry I'd ever set foot upon his overpopulated lawn</quote> <ref target="b11lk2_1" type="line">(p. 67 l. 19f.)</ref>, regretting having met <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+        <s>At the end of the given excerpt <ref target="b11lk2_1" type="character">Gatsby</ref> is described very positive and happy in such a way, that is has an effect on his surroundings.</s>
+      </p>
+      <p>
+        <s><quote>He literally glowed; without a word or a gesture of exultation a new well-being radiated from him and filled out the little room</quote><ref target="b11lk2_1" type="line">(p. 87 l. 14f.)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character"><choice><orig>Gatsbys</orig><reg>Gatsby's</reg></choice></ref> characterization in this chapter stands in contrast to the previous ones.</s>
+        <s>He is described as alone twice and he lives alone in his mansion.</s>
+        <s>Even at parties he doesn't drink: <quote>I wondered if the fact that he was not drinking helped to set him off from his guests</quote> <ref target="b11lk2_1" type="line">(p. 51, l. 23f.)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby</ref> is shown as different from his guest and <choice><orig>seperated</orig><reg>separated</reg></choice> from them.</s>
+        <s>In contrast to this in the fifth chapter, where he is with <ref target="b11lk2_1" type="character">Daisy</ref> he is characterized very differently.</s>
+        <s>In the beginning of the scene he is very nervous, why he leaves <ref target="b11lk2_1" type="character"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></ref> house.</s>
+        <s>This extreme nervousness is underlined by the simile <quote>pale as death</quote> <ref target="b11lk2_1" type="line">(p. 84 l. 14)</ref>.</s>
+        <s>Later in the room he is still nervous and tries to build a facade of calm and ease to conceal how unsure he is: <quote>his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom</quote> <ref target="b11lk2_1" type="line">(p. 84 l. 27f.)</ref>.</s>
+        <s>When he is alone with <ref target="b11lk2_1" type="character">Nick</ref> he drops his facade: <quote>and whispered 'Oh God' in a terrible way</quote> <ref target="b11lk2_1" type="line">(p. 85 l. 30f.)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character"><choice><orig>Gatsby's</orig><reg>Gatsby's</reg></choice></ref> plan is not working out exactly as he had planned so he is stressed.</s>
+        <s><quote>This is a terrible mistake [...] a terrible, terrible mistake</quote><ref target="b11lk2_1" type="line">(p. 87 l. 1f.)</ref>.</s>
+        <s><ref target="b11lk2_1" type="character">Gatsby's</ref> repetition of the term <quote>terrible mistake</quote> highlights his desperation and <choice><orig>reveal</orig><reg>reveals</reg></choice> his facade to <ref target="b11lk2_1" type="character">Nick</ref> and the reader.</s>
+        <s>The fact that <ref target="b11lk2_1" type="character">Daisy</ref> might be embarrassed as well, never crossed his mind and astonishes him.</s>
+        <s><quote>'She's embarrassed?' he repeated incredulously</quote><ref target="b11lk2_1" type="line">(p. 86 l. 5)</ref>, shows that <ref target="b11lk2_1" type="character">Gatsby</ref> is overwhelmed with the situation and takes the blame for the awkwardness of the situation.</s>
+        <s>When <ref target="b11lk2_1" type="character">Nick</ref> leaves and later comes back <ref target="b11lk2_1" type="character">Gatsby</ref> is characterized very differently: <quote>He literally glowed</quote> <ref target="b11lk2_1" type="line">(p. 87 l. 14)</ref>.</s>
+        <s>He has overcome the tension and has reconnected with <ref target="b11lk2_1" type="character">Daisy</ref>, which he has been waiting to do for years.</s>
+        <s>With this he has partly achieved what he wanted to achieve.</s>
+        <s>In contrast to the former presentations of <ref target="b11lk2_1" type="character">Gatsby</ref>, he now is happy and also not alone anymore.</s>
+        <s>This is underlined by the setting and the weather.</s>
+        <s>The rain has stopped, as well as the tension between the two.</s>
+        <s>But not only that, he has also reconnected with <ref target="b11lk2_1" type="character">Daisy</ref> again after five years.</s>
+        <s>The sun and light stand for optimism.</s>
+        <s>But later on in the chapter the rains continues again implicating that this time with <ref target="b11lk2_1" type="character">Daisy</ref> was only temporary.</s>
+        <s><ref target="b11lk2_1" type="character"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></ref> cottage symbolizes a place, where wealth doesn't matter, apart from the mansion.</s>
+        <s>The stories narrator is <ref target="b11lk2_1" type="character">Nick</ref> and he characterizes <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+        <s>So the reader can only view <ref target="b11lk2_1" type="character">Gatsby</ref> through his eyes.</s>
+        <s>In this case his narration contributes to the way <ref target="b11lk2_1" type="character">Gatsby</ref> is characterized, because if <ref target="b11lk2_1" type="character">Daisy</ref> was the narrator, <ref target="b11lk2_1" type="character">Gatsby</ref> would be <choice><orig>percieved</orig><reg>perceived</reg></choice> very differently, as she was very overwhelmed with the situation.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> is not part of the reunion, so he can judge the event as an outstander.</s>
+        <s>One scene he is not in the room but eavesdroppes and so the reader can only <choice><orig>percieve</orig><reg>perceive</reg></choice> the scene through hearing.</s>
+        <s>Here emphasis is put on the sound and not the visual elements leading the reader to concentrate on different things.</s>
+        <s><ref target="b11lk2_1" type="character">Nick</ref> claims to be very honest: <quote>I am one of the few honest people that I have ever known</quote> <ref target="b11lk2_1" type="line">(p. 60 l. 11f.)</ref> but this statement is contradicted a few times as he is sugarcoating events <choice><orig>an</orig><reg>and</reg></choice> leaving things out.</s>
+        <s>So the reader still has to reflect <ref target="b11lk2_1" type="character">Nick's</ref> perception of <ref target="b11lk2_1" type="character">Gatsby</ref>.</s>
+      </p>
+      <p>
+        <s>In this excerpt <ref target="b11lk2_1" type="character">Gatsby</ref> reunites with <ref target="b11lk2_1" type="character">Daisy</ref> and is characterized as very happy.</s>
+        <s>he can finally show his true colours and has achieved, what he has been waiting for.</s>
+        <s>The setting aswell as <ref target="b11lk2_1" type="character">Nick</ref> as the narrator play into the <choice><orig>peception</orig><reg>perception</reg></choice> of <ref target="b11lk2_1" type="character">Gatsby</ref> in this scene.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

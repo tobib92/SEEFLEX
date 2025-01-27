@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l33_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Tony,</salute>
+      </p>
+      <p>
+        <s>I'm doing <choice><orig>all right</orig><reg>alright</reg></choice> here in <name type="geo">Cologne</name>, how are you doing?</s>
+        <s>When I saw your e-mail I was very happy to hear from you and I instantly had to think about an article I read a few weeks ago.</s>
+      </p>
+      <p>
+        <s>It is from June of last year and was published in the <name type="misc">taz</name> which is a credible source <add>newspaper</add> here.</s>
+        <s>It's about chess being a subject in school.</s>
+      </p>
+      <p>
+        <s>Just for you to understand: <choice><orig>It</orig><reg>it</reg></choice>'s not usual to ahve chess as a school subject here in <name type="geo">Germany</name>.</s>
+        <s>But the state in which most people take up chess in school is <name type="geo">Bremen</name>, where about 2400 elementary school students took up chess in their school.</s>
+      </p>
+      <p>
+        <s>They have chess class once a week.</s>
+        <s>But not only elementary schools teach chess.</s>
+        <s>Also <choice><orig>eighth</orig><reg>eighth-</reg></choice> and <choice><orig>ninth graders</orig><reg>ninth-graders</reg></choice> can choose the subject <quote>strategic thinking</quote> in which they play a lot of chess.</s>
+      </p>
+      <p>
+        <s>How school is handful is different all around <name type="geo">Germany</name> so other students have to attend chess class in all of elementary school in <name type="geo">Hamburg</name>.</s>
+        <s>So I think with these three examples you get the picture of how it is taught.</s>
+      </p>
+      <p>
+        <s>But the article also states what positive effects the teaching of chess has on the children.</s>
+        <s>For example almost half of the teachers that oversaw the project in <name type="geo">Bremen</name> think that the <choice><orig>childrens'</orig><reg>children's</reg></choice> logic and strategic thinking improved.</s>
+        <s>And about 37 percent of them think that concentration and the sense of community improved due to the project.</s>
+        <s>Other positive effects mentioned in the article are that the kids can think about the consequences of an action before they do it in a better way, or that they can follow rules more consistently and deal better with losses.</s>
+        <s>You should also include that chess in school improves the students' overall performance in school, improves the communication between young and old children and improves their social skills.</s>
+        <s>You might also want to include an interesting observation the teachers and scientists made: <choice><orig>Boys</orig><reg>boys</reg></choice> take part in tournaments way more often than girls although there is no skill gap between the two genders.</s>
+        <s>They say it is because boys want to compete with each other.</s>
+      </p>
+      <p>
+        <s>I hope this is helpful for your presentation.</s>
+        <s>Tell me how it was when you presented it and tell your sister I said hello!</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

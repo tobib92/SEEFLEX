@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g31_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given <choice><orig>Text</orig><reg>text</reg></choice> <choice><orig>exerpt</orig><reg>excerpt</reg></choice> from the novel <ref target="a11gk3_1" type="title">The Hate U Give</ref> by <ref target="a11gk3_1" type="author">Angie Thomas</ref>, took place at the end of the novel, after it was announced that <ref target="a11gk3_1" type="character">One-Fifteen</ref> won't be charged for killing <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+        <s>After <ref target="a11gk3_1" type="character">Starr</ref> was confronted with the fact that even after all of her efforts nothing is going to happen, she goes protesting with <ref target="a11gk3_1" type="character">Seven</ref>, <ref target="a11gk3_1" type="character">Chris</ref> and <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+        <s>In the beginning of the <choice><orig>Text</orig><reg>text</reg></choice> <choice><orig>exerpt</orig><reg>excerpt</reg></choice> <ref target="a11gk3_1" type="character">Starr</ref> <choice><orig>encounter</orig><reg>encounters</reg></choice> a group of <choice><orig>protesters</orig><reg>protestors</reg></choice> at the place where <ref target="a11gk3_1" type="character">Khalil</ref> died.</s>
+        <s>The group is lead by <ref target="a11gk3_1" type="character">Starr's</ref> attorney <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> and they protest against the decision from the grand <choice><orig>jurey</orig><reg>jury</reg></choice>.</s>
+        <s>After <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> spots <ref target="a11gk3_1" type="character">Starr</ref> in the crowd she motivates her to speak out loud and fight back with her voice.</s>
+        <s>In this situation <ref target="a11gk3_1" type="character">Starr</ref> is again confronted with truth of being African-American and she needs to decide if she reveals <choice><orig>the</orig><reg>that</reg></choice> she is the witness of <ref target="a11gk3_1" type="character"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></ref> death.</s>
+        <s>But she decides to grab the bullhorn and gives her anger a voice.</s>
+        <s>Furthermore <ref target="a11gk3_1" type="character">Starr</ref> talks about the wrong decision which was made and that she and <ref target="a11gk3_1" type="character">Khalil</ref> didn't do anything wrong.</s>
+        <s>She earns the credit from the crowd and speaks up about <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+        <s>So here decides <ref target="a11gk3_1" type="character">Starr</ref> that it is more important to her to make a <choice><orig>diffrence</orig><reg>difference</reg></choice> than keeping herself <choice><orig>hiden</orig><reg>hidden</reg></choice> from the public.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

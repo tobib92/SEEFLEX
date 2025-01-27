@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> uses a lot of stylistic <choice><orig>divices</orig><reg>devices</reg></choice> to have an bigger impact on the reader or listener.</s>
+        <s>In line 2 he starts with an <choice><orig>antithese</orig><reg>antithesis</reg></choice>.</s>
+        <s>With the idiom <quote>Love is not love</quote> and the following sentence, he <choice><orig>want</orig><reg>wants</reg></choice> to show that on the one hand changes can be <choice><orig>an</orig><reg>a</reg></choice> mistake, but on the other hand are they part of the relationships and an fixed-mark <ref target="c12gk1_1" type="line">(ll. 2-5)</ref>.</s>
+        <s>In line 5 <ref target="c12gk1_1" type="author">Shakespeare</ref> uses an exaggeration to underline his sentence: <quote>It is an ever-fixed mark</quote>.</s>
+        <s>With this short part he <choice><orig>want</orig><reg>wants</reg></choice> to get the full interest of the reader/listener and <choice><orig>want</orig><reg>wants</reg></choice> that they think about his idea.</s>
+        <s>Furthermore he compares the ever-fixed mark (the changes) with the star to every wandering ship <ref target="c12gk1_1" type="line">(l. 5/l. 7)</ref>.</s>
+        <s>In line 8 <ref target="c12gk1_1" type="author">Shakespeare</ref> <choice><orig>include</orig><reg>includes</reg></choice> a metaphor.</s>
+        <s>He writes about that <quote>his height get be taken</quote>.</s>
+        <s>The height to be taken means to calculate the distance.</s>
+        <s>I think <ref target="c12gk1_1" type="author">Shakespeare</ref> <choice><orig>want</orig><reg>wants</reg></choice> that the reader or listener think about the value of his partner, because not everybody realized it yet.</s>
+        <s>In line 9 is the next <choice><orig>antithese</orig><reg>antithesis</reg></choice>.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>want</orig><reg>wants</reg></choice> to make <choice><orig>cleare</orig><reg>clear</reg></choice> that love is something really important.</s>
+        <s>He wants to say the reader/listener that you should use your time right and <choice><orig>dont</orig><reg>don't</reg></choice> waste it with unimportant things.</s>
+        <s>then he writes about a bending sickle's compass.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>think</orig><reg>thinks</reg></choice> that the day of death can come faster as you think, <choice><orig>wich</orig><reg>which</reg></choice> is <choice><orig>an other</orig><reg>another</reg></choice> reason for <choice><orig>jousing</orig><reg>using</reg></choice> your time with the right love.</s>
+        <s>In line 11 he uses a personification.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> says that <quote>love alters not with his brief hours and weeks</quote>.</s>
+        <s>So he <choice><orig>want</orig><reg>wants</reg></choice> to say that a strong love will hold for the rest of your life <ref target="c12gk1_1" type="line">(l. 11)</ref>.</s>
+        <s>He also thinks that love will hold to the day of death, <choice><orig>wich</orig><reg>which</reg></choice> is in addition the day of Gods.</s>
+        <s>At the end by the closing couplet <ref target="c12gk1_1" type="author">Shakespeare</ref> uses an <choice><orig>parallelisme</orig><reg>parallelism</reg></choice> to convince the reader that his opinion about love is true.</s>
+        <s>You can see in line 1 an metaphor.</s>
+        <s><quote>The marriage of true minds Admit impediments</quote>.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>dont</orig><reg>don't</reg></choice><choice><orig>wan</orig><reg>want</reg></choice> to marry because after that are there a lot of hindrance in a relationship.</s>
+      </p>
+      <p>
+        <s>I think <ref target="c12gk1_1" type="author">Shakespeare's</ref> intention, why he has written the <ref target="c12gk1_1" type="title">Sonnet 116</ref>, is that he want to show the importance from love.</s>
+        <s>Also that <choice><orig>you</orig><reg>your</reg></choice> <choice><orig>dont</orig><reg>don't</reg></choice> <choice><orig>wast</orig><reg>waste</reg></choice> your time with <choice><orig>an</orig><reg>a</reg></choice> wrong relationship is one of the messages.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref> thinks that a strong love will hold for the rest of your life.</s>
+        <s>So love will not get older because of hours and weeks.</s>
+      </p>
+      <p>
+        <s>To put it in a netshell you can say that the <choice><orig>massages</orig><reg>messages</reg></choice> of the sonnet are <choice><orig>cleare</orig><reg>clear</reg></choice>.</s>
+        <s>I think the message is good <choice><orig>choosen</orig><reg>chosen</reg></choice> from <ref target="c12gk1_1" type="author">Shakespeare</ref> and the sonnet is structured very well.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

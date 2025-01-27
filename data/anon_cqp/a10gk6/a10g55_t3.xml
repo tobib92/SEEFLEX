@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g55_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The blog <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref>, from <ref target="a10gk6_1" type="author">Ankita Mitra</ref> published at the <date>5th February</date> in the <choice><orig>Internet</orig><reg>internet</reg></choice>, is a blog <choice><orig>critisaing</orig><reg>criticising</reg></choice> the pollution of the environment and warn us about the hazardous effects.</s>
+      </p>
+      <p>
+        <s>Some people think the damage of the environment is <choice><orig>neccecery</orig><reg>necessary</reg></choice> for the development of the industrial progress.</s>
+        <s>But the humanity and the industrial progress <choice><orig>can not</orig><reg>cannot</reg></choice> develop if the earth died.</s>
+        <s>The damage of the environment influences our daily life, <choice><orig>cause</orig><reg>because</reg></choice> it's <choice><orig>affets</orig><reg>affects</reg></choice> all plants, animals and human <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+      </p>
+      <p>
+        <s>It is nonsense that the humanity <choice><orig>have</orig><reg>has</reg></choice> to suffer for get <choice><orig>developt</orig><reg>developed</reg></choice>.</s>
+        <s>In my <choice><orig>oppinion</orig><reg>opinion</reg></choice> the <choice><orig>Industrys</orig><reg>industries</reg></choice> and humanity can stop for a certain time to develop <choice><orig>an</orig><reg>and</reg></choice> focus on regenerate the environment.</s>
+        <s>Possible solutions for the regenerations are drive <choice><orig>mor</orig><reg>more</reg></choice> with the bike, bus or the train, rather than the car or <choice><orig>plain</orig><reg>plane</reg></choice>.</s>
+        <s>We should protect more the <choice><orig>natur</orig><reg>nature</reg></choice> and plant more plants inside of huge <choice><orig>citys</orig><reg>cities</reg></choice>.</s>
+      </p>
+      <p>
+        <s>At summary: We have to protect the environment and prevent the pollution of out environment.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

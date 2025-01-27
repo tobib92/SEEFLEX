@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12l24_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given extract from Act II scene 2 from <ref target="a12lk2_1" type="author">William Shakespeare</ref>'s <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> <name type="person">Romeo</name> surprises <name type="person">Juliet</name> at her place in the middle of the night.</s>
+        <s>It is the famous balcony scene where they confess their love for each other.</s>
+        <s>Nevertheless, <name type="person">Juliet</name> is concerned about <name type="person">Romeo</name> showing up.</s>
+      </p>
+      <p>
+        <s>When <name type="person">Romeo</name> comeso ut of hiding <name type="person">Juliet</name> immediately recognizes his voice but is concerned about the danger that any of the <name type="person">Capulet</name> kinsmen might find and kill him.</s>
+      </p>
+      <p>
+        <s><name type="person">Romeo</name> on the other hand is not scared of them and insists that his love is so strong that no one can stop him.</s>
+        <s>If only she likes him too, her love will protect him.</s>
+        <s>Furthermore, he takes her worries and explains that the darkness of the night covers him.</s>
+        <s>Nevertheless, he states that he wants the kinsmen to find and kill him if <name type="person">Juliet</name> does not love him back.</s>
+      </p>
+      <p>
+        <s>Further in the scene, <name type="person">Juliet</name> is concerned about <choice><orig>wether</orig><reg>whether</reg></choice> or not <name type="person">Romeo</name> truly loves her or if their love is evolving <choice><orig>to</orig><reg>too</reg></choice> quickly.</s>
+        <s>Questioning his love and her behavior she wants <name type="person">Romeo</name> to give her his honest word and promise that his love is truthful.</s>
+      </p>
+      <p>
+        <s>Overall, <name type="person">Juliet</name> is concerned about <name type="person">Romeo's</name> life that is in danger whereas he tries to take her fear away and states that the danger of her not loving him back is greater than his death.</s>
+        <s>Therefore, both want the validation of the other concerning their love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

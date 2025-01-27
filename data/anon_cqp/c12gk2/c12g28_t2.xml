@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To express the relationship between <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife and to show how she convinces her husband, the author uses difficult elements of narrative style and manner.</s>
+      </p>
+      <p>
+        <s>The accumulation of questions in the three short sentences of <ref target="c12gk2_1" type="character">Macbeth</ref> and his wife <ref target="c12gk2_1" type="line">(ll. 1 ff.)</ref> shows that they are both under pressure and know what is at the brink.</s>
+        <s><quote>His business: He hath honoured me of late (...) in their newest gloss</quote><ref target="c12gk2_1" type="line">(ll. 4 ff.)</ref> is a flashback and <choice><orig>revers</orig><reg>refers</reg></choice> back to the moment where <ref target="c12gk2_1" type="character">Duncan</ref> granted <ref target="c12gk2_1" type="character">Macbeth</ref> the title <ref target="c12gk2_1" type="character">Thane of Cawdor</ref>.</s>
+        <s>It should express that <ref target="c12gk2_1" type="character">Macbeth</ref> gained some influence already and that he has no ambition to betray <ref target="c12gk2_1" type="character">King Duncan</ref> because if something went wrong, he will lose everything.</s>
+      </p>
+      <p>
+        <s>The personification <quote>hope drunk</quote> <ref target="c12gk2_1" type="line">(ll. 9)</ref> shows that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> really believed that <ref target="c12gk2_1" type="character">Macbeth</ref> will take that chance and that she is upset about his <choice><orig>sied</orig><reg>sight</reg></choice> on the situation.</s>
+        <s>The metaphor of <quote>the poor cat i'the adage</quote> <ref target="c12gk2_1" type="line">(ll. 19)</ref> is used by her to show her husband that he behaves like a coward who will not take a <choice><orig>rish</orig><reg>wish</reg></choice> to gain improvements of his life.</s>
+        <s>The alliteration <quote>Prithee peace</quote> <ref target="c12gk2_1" type="line">(ll. 21f.)</ref> <choice><orig>show</orig><reg>shows</reg></choice> the attempt of <ref target="c12gk2_1" type="character">Macbeth</ref> to stop the conversation with his wife, because he will not think about it anymore.</s>
+        <s><quote>What beast was't then, that made you break this enterprise to me?</quote><ref target="c12gk2_1" type="line">(ll. 23f.)</ref> is a reference to the Chain of Being.</s>
+        <s><ref target="c12gk2_1" type="character">Lady Macbeth</ref> feels betrayed by her husband because he will not take the chance to gain power and improve their lives.</s>
+        <s>The alliteration <quote>much more the man</quote> <ref target="c12gk2_1" type="line">(ll. 27)</ref> should express how strong <ref target="c12gk2_1" type="character">Macbeth</ref> could <choice><orig>appeare</orig><reg>appear</reg></choice> and the imagery of her killing a baby for <ref target="c12gk2_1" type="character">Macbeth</ref> because she swears it to him <ref target="c12gk2_1" type="line">(ll. 30 ff.)</ref> is used by her to appeal to <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> loyalty to his wife.</s>
+        <s>At this point <ref target="c12gk2_1" type="character">Macbeth</ref> starts to think about the possibilities again, even if his short question <quote>If we should fail?</quote> <ref target="c12gk2_1" type="line">(ll. 36)</ref> shows that he is still insecure.</s>
+        <s><quote>Screw your courage to the sticking-place and we'll not fail</quote><ref target="c12gk2_1" type="line">(ll. 38 f.)</ref> builds up pressure on <ref target="c12gk2_1" type="character">Macbeth</ref>, because this metaphor expresses that the outgoing of the plan to kill <ref target="c12gk2_1" type="character">Duncan</ref> depends on <ref target="c12gk2_1" type="character"><choice><orig>Macbeths</orig><reg>Macbeth's</reg></choice></ref> behave.</s>
+        <s>The alliteration <quote>Will I with wine and wassail</quote> <ref target="c12gk2_1" type="line">(ll. 42)</ref> shows that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is already determined to <choice><orig>fullfill</orig><reg>fulfill</reg></choice> the plan she creates.</s>
+        <s>The <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote>What cannot you and I perform upon the unguarded <ref target="c12gk2_1" type="character">Duncan</ref>?</quote> should express again, that they have the perfect chance to make the prophecy of the <ref target="c12gk2_1" type="character">three witches</ref> true, that he will be the new King.</s>
+        <s>The alliteration <quote>fake face</quote> <ref target="c12gk2_1" type="line">(ll. 57)</ref> is the last comment of <ref target="c12gk2_1" type="character">Macbeth</ref> to the plan and shows that he will follow his wife but feels not comfortable and insecure with the whole situation.</s>
+      </p>
+      <p>
+        <s>All in all the scene shows that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is much more self-confident and also superior in front of her husband <ref target="c12gk2_1" type="character">Macbeth</ref> and that she is responsible for the killing of <ref target="c12gk2_1" type="character">Duncan</ref>.</s>
+        <s>That can easily be noticed by her long statements and only short interventions by <ref target="c12gk2_1" type="character">Macbeth</ref>.</s>
+        <s>The author uses <choice><orig>rethrorical</orig><reg>rhetorical</reg></choice> devices to enforce this effect.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

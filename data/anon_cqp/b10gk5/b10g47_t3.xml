@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g47_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text I will comment on the film <ref target="b10gk5_1" type="title">The Hate U Give</ref> by saying how any why it impacts myself.</s>
+      </p>
+      <p>
+        <s>The movie is very emotional.</s>
+        <s>It shows the story of a black teenage girl who experienced police brutality and racism.</s>
+        <s>There are many situations that are very emotional in this film.</s>
+        <s>This movie showed myself how hard it is to experience racism and to cover yourself because of your colour of your skin.</s>
+        <s>Last year we all experienced the black lives matter <choice><orig>dimenstrations</orig><reg>demonstrations</reg></choice>.</s>
+        <s>This movie showed me again that we should do something against racism.</s>
+        <s>It breaks my heart to see how a teenage girl and the children for example <ref target="b10gk5_1" type="character">Sekani</ref> are suffering because of people like <ref target="b10gk5_1" type="character">Hailey</ref>.</s>
+        <s>This movie doesn't impact my <choice><orig>perspectiv</orig><reg>perspective</reg></choice> because I already know that this isn't right but it made my opinion against racism stronger.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

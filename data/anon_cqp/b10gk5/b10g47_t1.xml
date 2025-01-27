@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g47_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is from the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> which was published in <date>2018</date> and directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref>.</s>
+      </p>
+      <p>
+        <s>In the scene <ref target="b10gk5_1" type="character">Starr</ref> and <ref target="b10gk5_1" type="character">Chris</ref> are talking again after he tried to have sex with her.</s>
+      </p>
+      <p>
+        <s>In the beginning of the scene <ref target="b10gk5_1" type="character">Chris</ref> walks in the school.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> sees him for the first time after he tried to have sex with her.</s>
+        <s>She wasn't ready but he still tried it.</s>
+        <s>This is why <ref target="b10gk5_1" type="character">Starr</ref> is angry.</s>
+        <s>She wants to cover her feelings for <ref target="b10gk5_1" type="character">Chris</ref> by <choice><orig>beeing</orig><reg>being</reg></choice> cold to him.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> wants to make <ref target="b10gk5_1" type="character">Starr</ref> happy.</s>
+        <s>He wants to have a real relationship with her.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

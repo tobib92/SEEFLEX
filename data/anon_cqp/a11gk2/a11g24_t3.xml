@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g24_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="hortatory exposition">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Generally speaking the American Dream is something that gives hope and ambitions to American people.</s>
+        <s>Many people think that everybody and everything in <name type="geo">America</name> are able to be <choice><orig>soccesful</orig><reg>successful</reg></choice> in <name type="geo">America</name>.</s>
+        <s>Because of that the question arises if there are no barriers to success in <name type="geo">America</name>.</s>
+        <s>From my point of view the mindset of everybody can do everything to be successful in <name type="geo">America</name> is not always right.</s>
+      </p>
+      <p>
+        <s>To begin with I want to state that it is possible to achieve great things in <name type="geo">America</name> even though you aren't an American.</s>
+        <s>For example <name type="person">Arnold Schwarzenegger</name> came to <name type="geo">America</name> became a filmstar and a famous body builder.</s>
+        <s>He was really successful and he wasn't even an American.</s>
+      </p>
+      <p>
+        <s>If this is not the case for everyone in the American history.</s>
+        <s>They are a lot of people who could not get the chance to be <choice><orig>succesful</orig><reg>successful</reg></choice> and get a nice life.</s>
+        <s>A good example for this is the Civil Rights Movement in which mostly black people fought for their rights and equality.</s>
+        <s>A lot of them were treated very bad and white people discriminated black people in all types of ways.</s>
+        <s>For example <name type="person">Malcolm X</name> one of the big figures in their movement got shot during a speech he held.</s>
+      </p>
+      <p>
+        <s>Another important aspect is that not everyone is physically in the shape to dream bigh and become <choice><orig>succesful</orig><reg>successful</reg></choice>.</s>
+        <s>For example disabled people who <choice><orig>cant</orig><reg>can't</reg></choice> even think for themselves.</s>
+        <s>This argument seems to be very important to me because this is a proof against the fact that there are no barriers to the American Dream.</s>
+      </p>
+      <p>
+        <s>All in all I think these arguments are really convincing because they show the fact that it is possible to be <choice><orig>succesful</orig><reg>successful</reg></choice> but not everybody can make it in a very understandable way.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

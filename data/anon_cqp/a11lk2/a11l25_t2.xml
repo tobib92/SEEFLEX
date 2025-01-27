@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir Kapoor</ref> is the protagonist of the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref>.</s>
+      </p>
+      <p>
+        <s>He is married to the white artist <ref target="a11lk2_1" type="character">Emily</ref> who convinces him to assist an innocent Muslim at court.</s>
+      </p>
+      <p>
+        <s>For this reason he does not get promoted at his Jewish law firm, but instead of him <ref target="a11lk2_1" type="character">Jory</ref> does, the wife of <ref target="a11lk2_1" type="character">Isaac</ref>, <ref target="a11lk2_1" type="character">Emily's</ref> art dealer, with whom she has slept with, as <ref target="a11lk2_1" type="character">Amir</ref> finds out later this scene.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is from south-Asian origin and in his 40s.</s>
+      </p>
+      <p>
+        <s>He was born into a Muslim family but he renounced his faith and to keep his religious background a secret, he even changed his name.</s>
+      </p>
+      <p>
+        <s>He is a person who, when he is enrages likes to present it verbally.</s>
+      </p>
+      <p>
+        <s>He uses a lot of swear words like <quote>..., you walk away from me in mid-fucking sentence?</quote> <ref target="a11lk2_1" type="line">(p. 71, ll. 24-25)</ref>.</s>
+      </p>
+      <p>
+        <s>This shows that he does not hide his anger and wants others to see that he is angry too.</s>
+      </p>
+      <p>
+        <s>Besides, <ref target="a11lk2_1" type="character">Amir</ref> also has anger issues.</s>
+      </p>
+      <p>
+        <s>After he found out that <ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> were kissing, he blames <ref target="a11lk2_1" type="character">Jory</ref> although she got cheated on as well and is <choice><orig>neighter</orig><reg>neither</reg></choice> guilty of the affair or is to blame for getting the job.</s>
+      </p>
+      <p>
+        <s><quote>First you steal my job and now you try to destroy my marriage?</quote><ref target="a11lk2_1" type="line">(p. 72, ll. 18-19)</ref>.</s>
+        <s>He is in kind of a rush and acts on behalf of his anger and only really realizes what he has done when he finally cooled down a bit.</s>
+        <s><quote>Oh my god...</quote><ref target="a11lk2_1" type="line">(p. 74, l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>This stresses that when <ref target="a11lk2_1" type="character">Amir</ref> is angry, he <choice><orig>can not</orig><reg>cannot</reg></choice> deal with it and lets it out on others, even if they are innocent.</s>
+      </p>
+      <p>
+        <s>Moreover, he hates the feeling of betrayal.</s>
+        <s>When he finds out about the cheating, <ref target="a11lk2_1" type="character">Jory's</ref> promotion and <ref target="a11lk2_1" type="character">Mort</ref> retiring, he gets hurt and furious, because all of this was happening behind his back.</s>
+        <s><quote>You waited a week to tell me this?</quote><ref target="a11lk2_1" type="line">p. 71, l. 23</ref>.</s>
+        <s>This underlines that he values honesty.</s>
+      </p>
+      <p>
+        <s>Additionally, <ref target="a11lk2_1" type="character">Amir</ref> is not that empathic.</s>
+        <s>Because although <ref target="a11lk2_1" type="character">Amir</ref> has to deal with racism himself and knows how hurtful it can be, he still calls <ref target="a11lk2_1" type="character">Jory</ref> a racist slur <ref target="a11lk2_1" type="line">(cf. p. 72, l. 30)</ref>.</s>
+      </p>
+      <p>
+        <s>This shows that he often does not think about <choice><orig>others</orig><reg>others'</reg></choice> feelings, especially when he is angry.</s>
+      </p>
+      <p>
+        <s>Furthermore, he is also influenced by former experiences.</s>
+        <s>When he spits <ref target="a11lk2_1" type="character">Isaac</ref> in the face <ref target="a11lk2_1" type="line">(p. 72, l. 40)</ref> he is doing what his mother taught him in his childhood and by hitting <ref target="a11lk2_1" type="character">Emily</ref> <ref target="a11lk2_1" type="line">(p. 74, l. 5)</ref> he is acting on an interpretation of the <choice><orig>quaran</orig><reg>Quran</reg></choice>.</s>
+      </p>
+      <p>
+        <s>So although he renounced his faith and wants to distant himself from the Islam, it is still a part of him and affects his actions.</s>
+      </p>
+      <p>
+        <s>All in all one could say that <ref target="a11lk2_1" type="character">Amir</ref> is a round character that has to deal with anger issues and the shadows of his past.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

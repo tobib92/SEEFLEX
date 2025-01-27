@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g12_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211210</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Today I discuss the question if <ref target="c12gk1_1" type="author">Shakespeare</ref> is still relevant for young people.</s>
+      </p>
+      <p>
+        <s>Many people say he isn't still important because he has <choice><orig>a</orig><reg>an</reg></choice> outdated world picture.</s>
+        <s>He loved many years ago and the world changed <choice><orig>completly</orig><reg>completely</reg></choice>.</s>
+      </p>
+      <p>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice> argument is that he used outdated language.</s>
+        <s>So it is today difficult to understand him.</s>
+        <s>A problem with that is that the message can get lost.</s>
+        <s>But there is also <choice><orig>an other</orig><reg>Another</reg></choice> problem.</s>
+        <s>Because young people often have no clue about what he writes and because of that <choice><orig>their</orig><reg>they</reg></choice> feel stupid instead of empowered.</s>
+        <s>This is  also a reason why many people don't like to read Shakespeare.</s>
+      </p>
+      <p>
+        <s>Some people have also the opinion that <ref target="c12gk1_1" type="author">Shakespeare</ref> plays were made to perform on the stage and not to read.</s>
+        <s>They think that the atmosphere gets <choice><orig>destroyd</orig><reg>destroyed</reg></choice>.</s>
+      </p>
+      <p>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice> argument against Shakespeares <choice><orig>relevant</orig><reg>relevance</reg></choice> is that they find him uninteresting because they need to read these things and to be forced makes things unattractive for students.</s>
+      </p>
+      <p>
+        <s>But <choice><orig>their</orig><reg>there</reg></choice> are also many people who still think that <ref target="c12gk1_1" type="author">Shakespeare</ref> is relevant.</s>
+      </p>
+      <p>
+        <s>One argument is that the themes and characters <ref target="c12gk1_1" type="author">Shakespeare</ref> created are timeless.</s>
+        <s>An good example is the problem <choice><orig>jelousy</orig><reg>jealousy</reg></choice> which is still important.</s>
+        <s>Because his characters are timeless, young people have the chance to identify with the characters.</s>
+      </p>
+      <p>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice> argument is that <ref target="c12gk1_1" type="author">Shakespeare</ref> is really important for the <choice><orig>historie</orig><reg>history</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But he did not only influenced the <choice><orig>historie</orig><reg>history</reg></choice>, he influenced also the <choice><orig>englisch</orig><reg>English</reg></choice> language.</s>
+        <s><ref target="c12gk1_1" type="author">Shakespeare</ref><choice><orig>inveted</orig><reg>invented</reg></choice> many new words which are still used.</s>
+      </p>
+      <p>
+        <s>Today is much based on <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref>.</s>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice><choice><orig>exampel</orig><reg>example</reg></choice> are plot lines, which are based on Shakespeare.</s>
+        <s>Many people use them and if you don't know <ref target="c12gk1_1" type="author">Shakespeare</ref> you can't understand them.</s>
+      </p>
+      <p>
+        <s>For young people is <ref target="c12gk1_1" type="author">Shakespeare</ref> also important, because with him they can improve their writing skills.</s>
+      </p>
+      <p>
+        <s>One important thing for younger people is also that they can compare the writing in the past and today.</s>
+        <s>This <choice><orig>comparising</orig><reg>comparison</reg></choice> is really interesting.</s>
+      </p>
+      <p>
+        <s>One last argument is that <ref target="c12gk1_1" type="author"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></ref> can be and is an inspiration for young writers.</s>
+      </p>
+      <p>
+        <s>All in all <choice><orig>i</orig><reg>I</reg></choice> would say that <ref target="c12gk1_1" type="author">Shakespeare</ref> is still important today and especially for young writers.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

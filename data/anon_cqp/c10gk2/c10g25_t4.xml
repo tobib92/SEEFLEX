@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>c10g25_t4</author>
+        <name>report</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">report</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello everyone!</salute>
+        <s>I hope you are all doing great!</s>
+        <s>Today, I would like to <choice><orig>intoduce</orig><reg>introduce</reg></choice> my friend <name type="person">Bianca</name> to all of you.</s>
+      </p>
+      <p>
+        <s>She had worked in an <name type="misc">Education Center</name> for children in a slum of <name type="geo">Delhi, India</name>.</s>
+        <s>She talkes to me about her day and her life there and I would love to tell you a bit of what she experienced.</s>
+        <s>By the way, she did the whole thing as <choice><orig>an</orig><reg>a</reg></choice> volunteer and she is 18 years old and from <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>So, first of all she stood up at 8:30 and ate <choice><orig>Breakfast</orig><reg>breakfast</reg></choice>, then she leaved the <choice><orig>appartment</orig><reg>apartment</reg></choice> and drove with the <choice><orig>Rikscha</orig><reg>rickshaw</reg></choice> to the <choice><orig>Center</orig><reg>center</reg></choice>.</s>
+        <s>There, she worked from 10:30 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> to 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>From 10:30 to around 11:30 or 12, she worked with the boys and teached them the <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+        <s><choice><orig>then</orig><reg>Then</reg></choice> she had a break from 12 <choice><abbr>am</abbr><expan>ante meridiem</expan></choice> to 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice>.</s>
+        <s>Then from 2 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> to 4 <choice><abbr>pm</abbr><expan>post meridiem</expan></choice> she teached the girls the <choice><orig>english</orig><reg>English</reg></choice> grammar.</s>
+      </p>
+      <p>
+        <s>She said that what the best of all was, were the children.</s>
+        <s>She told me that these children were so full of love and joy and pure happiness.</s>
+        <s>They were so curious about <name type="person">Bianca's</name> life and everything.</s>
+        <s><name type="person">Bianca</name> told me that the children had most love for the <choice><orig>live</orig><reg>life</reg></choice>.</s>
+        <s>There were just so happy all the time, even if there had many fates and difficult situations.</s>
+      </p>
+      <p>
+        <s><name type="person">Bianca</name> said that it was really impressive how many joy these kids in <name type="geo">India</name> had.</s>
+      </p>
+      <p>
+        <s>Everyday she worked there with the children, she laughed and had fun, even if it was exhausting sometimes.</s>
+      </p>
+      <p>
+        <s>She told me that it everyday was the best and precious day of her life and there filled her with love and hope and gratitude.</s>
+      </p>
+      <p>
+        <s>I think that this is really really lovely and I think <name type="person">Bianca</name> will never forget these children.</s>
+      </p>
+      <p>
+        <s><choice><orig>thank</orig><reg>Thank</reg></choice> you really much for listening.</s>
+      </p>
+      <p>
+        <s>Have a good day.</s>
+      </p>
+      <p>
+        <signed>Bye, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

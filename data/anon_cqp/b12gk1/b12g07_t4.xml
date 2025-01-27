@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g07_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sarah,</salute>
+      </p>
+      <p>
+        <s>I hope you're doing well.</s>
+        <s>I'm <choice><orig>verry</orig><reg>very</reg></choice> happy you asked about <name type="misc">KLS goes green</name> because I've wanted to talk about for <choice><orig>quiet</orig><reg>quite</reg></choice> some time now.</s>
+      </p>
+      <p>
+        <s><name type="misc">KLS goes green</name> was one day our entire school <choice><orig>spend</orig><reg>spent</reg></choice> studying topics eoncerning climate and environmental protection.</s>
+      </p>
+      <p>
+        <s>A while ago we saw that the <choice><orig>students</orig><reg>students'</reg></choice> social and political interests grew.</s>
+        <s>For eample more and more <choice><orig>student</orig><reg>students</reg></choice> took part in the <name type="misc">Fridays for Future</name> demonstrations.</s>
+      </p>
+      <p>
+        <s>In our students' council the idea of bringing environmental protection to school came up.</s>
+        <s>So students, teachers and parents began <choice><orig>planing</orig><reg>planning</reg></choice> over 40 workshops we all could choose from and participate in.</s>
+        <s>These workshops <choice><orig>focussed</orig><reg>focused</reg></choice> on a lot of different topics from reducing our food waste over efficient use of water to a fair trade cafe and writing poetry slams.</s>
+      </p>
+      <p>
+        <s>Not only was it great to have a day off school it also felt good to do something against climate change even if it just was a very small thing.</s>
+        <s>To see that it was recognised as something important, something worth talking about in school was mazing.</s>
+      </p>
+      <p>
+        <s>We <choice><orig>definetly</orig><reg>definitely</reg></choice> plan on doing it again.</s>
+        <s>I hope I was able to answer your question.</s>
+        <s>Maybe your school could do something like this too.</s>
+        <s>If you have <choice><orig>anymore</orig><reg>any more</reg></choice> questions just ask.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

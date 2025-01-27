@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g33_t1</author>
+        <name>describe</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">describe</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the pages 328-332 of the book <ref target="a11gk3_1" type="title">The Hate U Give</ref> by <ref target="a11gk3_1" type="author">Angie Thomas</ref> published in <date>2019</date> <ref target="a11gk3_1" type="character">Starr</ref> finds herself in a situation where she stands up for herself and for <ref target="a11gk3_1" type="character">Khalil</ref>.</s>
+      </p>
+      <p>
+        <s>The scene takes place at the intersection where <ref target="a11gk3_1" type="character">Khalil</ref> was shot and at the moment of the scene a protest for <ref target="a11gk3_1" type="character">Khalil</ref> takes place.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Seven</ref>, <ref target="a11gk3_1" type="character">DeVante</ref>, <ref target="a11gk3_1" type="character">Chris</ref> and <ref target="a11gk3_1" type="character">Starr</ref> arrive at the intersection only to see <choice><orig>an</orig><reg>a</reg></choice> school bus with <quote>Just US for Justice</quote> written on the side and protestors with black hair brushes.</s>
+        <s>During that <ref target="a11gk3_1" type="character">Starr</ref> reminisces about <ref target="a11gk3_1" type="character">Khalil</ref> lying on that street and looking at her.</s>
+        <s>She is startled back to reality through the chant <quote>A hairbrush is not a gun!</quote> and then recognizes her attorney who is leading the chant.</s>
+        <s>The others also recognize her and join in on the chant, while <ref target="a11gk3_1" type="character">Starr</ref> gets lost in the memory of <ref target="a11gk3_1" type="character">Khalil's</ref> death.</s>
+        <s>Suddenly <ref target="a11gk3_1" type="character">Starr</ref> also chimes in with full emotion.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> then sees them and asks them about being there.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> tells her that she wants to use her voice and do something to help.</s>
+      </p>
+      <p>
+        <s>She gets put on the patrol car and gets the bullhorn.</s>
+      </p>
+      <p>
+        <s>First nervous but then confident <ref target="a11gk3_1" type="character">Starr</ref> speaks in front of the crowd and tells her part of the story.</s>
+        <s>She also <choice><orig>adresses</orig><reg>addresses</reg></choice> the cops and declares that they are not going to stop protesting.</s>
+      </p>
+      <p>
+        <s>At the end she states that the thing about <ref target="a11gk3_1" type="character">Khalil</ref> is not how he died, but that he lived.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> is very hard on herself through the scene.</s>
+        <s>She is scared because she is unsure of herself standing in front of the crowd and telling her opinion and experience.</s>
+        <s><ref target="a11gk3_1" type="character">Ms. Ofrah</ref> and the people protesting make her confident enough to stand in front of the crowd.</s>
+      </p>
+      <p>
+        <s>The reason she decides to speak in the end seems to be partially spite and the need to speak about what really happened.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

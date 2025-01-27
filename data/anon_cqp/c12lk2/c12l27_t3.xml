@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12l27_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think that <name type="person">Shakespeare</name> should still be taught in German English classes, not only because he is best known for his work as a playwright and poet, but also because he is being quoted on a regular basis.</s>
+        <s>He was able to create 1700 new words, which are being mainly used till today.</s>
+        <s>Also his vivid characters are kind of eternal.</s>
+        <s>We can easily relate or understand the behavior they are showing because of the characteristics such as jealousy, ambition, etc.</s>
+        <s>Not only his <choice><orig>character's</orig><reg>characters</reg></choice> but also his plays/poems are timeless.</s>
+        <s>He wrote about fundamental experiences of life such as death, love, hate or greed.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> was alsoable to implement many themes in one play while focussing on each theme individually and thus was able to showcase the beauty and ugliness of life.</s>
+        <s>He know the human soul well, so well so that he shows us what we are <choice><orig>capabel</orig><reg>capable</reg></choice> of in extreme circumstances, especially under the influence of power, like in <name type="misc">Macbeth</name>.</s>
+        <s>He also <choice><orig>inspirated</orig><reg>inspired</reg></choice> many movies and TV series today for example a movie I love - the <name type="misc">Lion King</name> <add>it was based on <name type="misc">Hamlet</name></add>.</s>
+      </p>
+      <p>
+        <s>To sum it up through his way of wording, we can relate and understand the themes better, so that it would be more interesting and easier to understand his plays than ther ones.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

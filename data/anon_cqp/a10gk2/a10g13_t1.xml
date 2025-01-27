@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g13_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref>, written by <ref target="a10gk2_1" type="author">Brian Pollard</ref> and published by <name type="misc">The Gulf News</name> on <date>24 November 2011</date> is about the question, if unions are <choice><orig>usefull</orig><reg>useful</reg></choice>, or still <choice><orig>usefull</orig><reg>useful</reg></choice> for the protection of workers rights.</s>
+      </p>
+      <p>
+        <s>The author makes their position already clear with the headline of the text and it is obvious that the author thinks that the unions are not <choice><orig>usefull</orig><reg>useful</reg></choice> for the protection of workers anymore.</s>
+      </p>
+      <p>
+        <s>In the beginning it is said that unions were the best thing that ever happened to the labour movement and really helped with the working conditions of the workers and also protected them from being mistreated by their employers.</s>
+      </p>
+      <p>
+        <s>But however great the unions were, they began to lost they <choice><orig>usefullness</orig><reg>usefulness</reg></choice>, which the author explains with the fact that now, their focus lays more on their own <choice><orig>sucess</orig><reg>success</reg></choice> than on the protection of the workers <choice><orig>rigths</orig><reg>rights</reg></choice> and.</s>
+        <s>That is why the writer <choice><orig>don't</orig><reg>doesn't</reg></choice> support them anymore and wants the governments to work on the issue of labour relations between employers and employees and start to question the role of the unions in the problematic economic situation all over the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

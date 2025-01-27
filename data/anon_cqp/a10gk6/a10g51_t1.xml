@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g51_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk6_1" type="author">Ankita Mitra</ref> and published on <name type="misc">Blog of Environment</name> in <date>February 2014</date> deals with the many <choice><orig>Aspects</orig><reg>aspects</reg></choice> of environmental pollution and its background.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk6_1" type="author">Ankita Mitra</ref> describes the environmental pollution as heartbreaking because everyone knows about it, but she also thinks, that it shows how the industrialisation got out of control.</s>
+        <s>There are a lot of causes on.</s>
+      </p>
+      <p>
+        <s>First of all there's the introduction of harmful pollutants into the environment and the small behind vehicular traffic, synthetic detergents, nitrogen fertilizers or insecticides in air and water.</s>
+        <s>Behind all this stands the rapidly increasing urbanization and rapidly increasing industrialization.</s>
+      </p>
+      <p>
+        <s>She also describes all the effects the environmental pollution has on planet earth.</s>
+        <s>It <choice><orig>effects</orig><reg>affects</reg></choice> our own health with a number of incurable diseases, food and <choice><orig>whater</orig><reg>water</reg></choice> are poisonous, our planet could be uninhabitable if we don't stop.</s>
+        <s>The environmental <choice><orig>pollutio</orig><reg>pollution</reg></choice> has also effects on fauna and flora, animals and plants are endangered, especially sea life.</s>
+        <s>It could be a mass extinction.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

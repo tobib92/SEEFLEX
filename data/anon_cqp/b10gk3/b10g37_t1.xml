@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g37_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="105min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk3_1" type="title">The Hate U Give</ref> was directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>, and is about a black teenage girl who raises her voice against racism and police violence after she witnesses the murder of her childhood best friend.</s>
+      </p>
+      <p>
+        <s>The given scene is situated in the middle of the movie and shows the <ref target="b10gk3_1" type="character">Carter</ref> family having dinner at a restaurant, right after <ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> interview on <choice><abbr>TV</abbr><expan>television</expan></choice>.</s>
+        <s>After praying, <ref target="b10gk3_1" type="character">Starr</ref> looks outside the restaurant and sees <ref target="b10gk3_1" type="character">King</ref>, who is watching her.</s>
+        <s>As soon as <ref target="b10gk3_1" type="character">Maverick</ref> notices him, he goes outside to make <ref target="b10gk3_1" type="character">King</ref> go away.</s>
+        <s>They start fighting and a police car comes over.</s>
+        <s><ref target="b10gk3_1" type="character">King</ref> leaves and the two officers arrest <ref target="b10gk3_1" type="character">Maverick</ref>.</s>
+        <s>The whole family <choice><orig>come</orig><reg>comes</reg></choice> outside and <ref target="b10gk3_1" type="character">Starr</ref> films the officers with her mobile phone.</s>
+        <s>As soon as the officers notice, that <ref target="b10gk3_1" type="character">Starr</ref> is the witness, they stop being violent and leave <ref target="b10gk3_1" type="character">Maverick</ref> laying on the floor.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

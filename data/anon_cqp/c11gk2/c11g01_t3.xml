@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g01_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier's</ref> assumption that <quote>Brexit is clearly a lose-lose situation for both</quote> is not equal with the <name type="misc">EU's</name> most open market in the world.</s>
+        <s>The <name type="misc">EU's</name> power of equivalencing even <name type="misc">G20</name> calls deference <choice><orig>wont</orig><reg>won't</reg></choice> be broken by the <name type="misc">Brexit</name>.</s>
+        <s>But all <add>(mostly financial)</add> sectors will be suffer from the <name type="misc">Brexit</name>.</s>
+        <s>The <name type="geo"><choice><orig>UKs</orig><reg>UK's</reg></choice></name> publicity got split up to from the close <name type="misc">Brexit</name> votum, which <choice><orig>wont</orig><reg>won't</reg></choice> make national unity easier.</s>
+      </p>
+      <p>
+        <s>The <name type="geo">UK</name> will lose especially with the <quote>no-deal</quote> a large number of <choice><orig>there</orig><reg>their</reg></choice> in-/export.</s>
+        <s>That all will make it for the <name type="geo">UK</name> a clearly lose situation, but what <choice><orig>make</orig><reg>makes</reg></choice> it a <quote>lose-lose</quote> situation is that the <name type="misc">EU</name> will miss the second most netto payer, which helped to send money f.e. to <name type="geo">Greece</name> because of their financial crisis.</s>
+        <s>The <name type="geo"><choice><orig>UKs</orig><reg>UK's</reg></choice></name> industry is in big financial sectors for huge amount of import there.</s>
+        <s>And the British people maybe <choice><orig>cant</orig><reg>can't</reg></choice> afford in case of a <quote>no-deal</quote> f.e. <choice><orig>german</orig><reg>German</reg></choice> cars, because of the taxes.</s>
+        <s>In my <choice><orig>oppinion</orig><reg>opinion</reg></choice> the <name type="misc">Brexit</name> is a clear lose situation for the <name type="geo">UK</name> and the <name type="misc">EU</name>, because the deal to be in the <name type="misc">EU</name> makes us more united and stronger against countries like <name type="geo">Russia</name> or <name type="geo">China</name>.</s>
+        <s>The <name type="misc">Brexit</name> will make this unity much harder and a bigger issue <choice><orig>then</orig><reg>than</reg></choice> before.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

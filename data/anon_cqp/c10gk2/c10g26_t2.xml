@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g26_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211215</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>exerpt</orig><reg>excerpt</reg></choice> of the speech is thought through very well, which you can see in form of the formal but striking wording.</s>
+        <s>In the first part of the speech <ref target="c10gk2_1" type="speaker">Obama</ref> praises the <quote>young Americans</quote> <ref target="c10gk2_1" type="line">(l. 5)</ref> or <quote>young people</quote> <ref target="c10gk2_1" type="line">(l. 6)</ref>, generalising these people and showcasing it as an <choice><orig>achivement</orig><reg>achievement</reg></choice>.</s>
+      </p>
+      <p>
+        <s>To the end of the text he changes the generalised words to the personal pronoun <quote>you</quote> while talking about, how the public would need to help.</s>
+        <s>For example, in line 18 <ref target="c10gk2_1" type="speaker">Obama</ref> states <quote>So to all of you, I want you to know that the world will be what you make of it</quote>.</s>
+        <s>He <choice><orig>speeks</orig><reg>speaks</reg></choice> directly to the audience, making everyone feel like he is talking to them <choice><orig>personaly</orig><reg>personally</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the lines 18 to twenty he uses the repetition of the words <quote>you can choose to</quote> to make the listeners feel even more involved.</s>
+      </p>
+      <p>
+        <s><ref target="c10gk2_1" type="speaker">Obama</ref> also used his own experience and what he has seen to encourage the general public to support his opinion, like for example in line five in which he <choice><orig>sais</orig><reg>says</reg></choice> <quote>I saw it in my own presidential campaign</quote>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>a12l02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="NA" genre_family="NA">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As a young person, I can say that love is an important topic at our age.</s>
+        <s>Finding someone you really love, and who of course loves you the same.</s>
+        <s>Learning to express your own feelings, especially romantic feelings is hard, explaining them to the person you like is even harder.</s>
+        <s>I still have to learn how to express my feelings, because sometimes I don't know how I feel.</s>
+        <s>Growing up, developing feelings, expressing feelings and dealing with feelings are part of our development.</s>
+        <s>Even <choice><orig>Grown ups</orig><reg>grown-ups</reg></choice> struggle with it sometimes.</s>
+        <s>I haven't read sonnets in our <choice><orig>english</orig><reg>English</reg></choice> class, but I read some on my own and I can say that I like <name type="person">Shakespeare's</name> <choice><orig>Sonnet</orig><reg>sonnets</reg></choice>.</s>
+        <s>At first I didn't understand it, but as soon as I understood, I thought it really describes the feeling of love.</s>
+      </p>
+      <p>
+        <s>I feel the same, as the speaker.</s>
+        <s>My life was pretty rough sometimes, but when I met my <choice><orig>Boyfriend</orig><reg>boyfriend</reg></choice>, it made the <quote>black night beauteous</quote> <ref target="a12lk1_1" type="line">(v. 12)</ref>.</s>
+        <s>He is my anchor and helped me getting braver and made me feel better about myself.</s>
+        <s>We live together, which comes with many compromises and conflicts.</s>
+        <s>But we still love each other and think about out other half the whole time.</s>
+        <s>As <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> said day by day and night by night.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> expresses my feelings really good, love isn't about saying I love you, it's about a connection between two sould combining their <choice><orig>lifes</orig><reg>lives</reg></choice>, but still living or going their own way/life.</s>
+      </p>
+      <p>
+        <s>My boyfriend and I are really emotional and we both like reading and writing.</s>
+        <s>Sometimes we write each other some poems <add>(small ones)</add>.</s>
+        <s>He once wrote me a really impressive one.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> reminded me on this poem and I instantly knew how <name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> felt and how the person he likes has to feel.</s>
+        <s>My boyfriend wrote: you are like a little flower, growing and blooming in a dark and cruel place.</s>
+        <s>Even though your environment is trying to poison you, you still <choice><orig>manged</orig><reg>managed</reg></choice> to be one of the <choice><orig>lovelyest</orig><reg>loveliest</reg></choice> <choice><orig>Persons</orig><reg>persons</reg></choice> I ever met.</s>
+        <s>You are like a small, shivering flame in the darkest darkness, still you're able to brighten up everything.</s>
+        <s>It reminded me of <name type="person"><choice><orig>Shakespears</orig><reg>Shakespeare's</reg></choice></name> verse <quote>like a jewel in ghastly night</quote> <ref target="a12lk1_1" type="line">(v. 11)</ref>.</s>
+        <s>As a summary I can say that I liked this sonnet really much.</s>
+        <s>More than other sonnets I read.</s>
+        <s>At first it was hard to understand, because I had to look up a couple of words.</s>
+        <s>But as soon as I understood it, I liked it.</s>
+        <s>It's appealing and very catchy.</s>
+        <s>I would love to read more sonnets like this one.</s>
+        <s><name type="person"><choice><orig>Shakespear</orig><reg>Shakespeare</reg></choice></name> managed to express a lot of feelings, different feelings, with only 14 verses.</s>
+        <s>Love is one of the most <choice><orig>misunderstoodst</orig><reg>misunderstood</reg></choice> feelings in the world, and for a young person which is trying to find its place in the world, it's a topic that is important to us (young people).</s>
+      </p>
+    </body>
+  </text>
+</TEI>

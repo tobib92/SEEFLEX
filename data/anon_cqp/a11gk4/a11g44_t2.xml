@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g44_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Starr</name> is presented as a fragile and shy person at first but goes on to be very confident towards the end.</s>
+        <s>In the beginning <name type="person">Starr</name> is very anxious because <choice><orig>shes</orig><reg>she's</reg></choice> in the place <name type="person">Khalil</name> got killed and sees it go down in front of her again.</s>
+        <s>Then she speaks with <name type="person">Ms. Ofrah</name>, her attorney, who speaks with her and gives her the courage to speak up.</s>
+        <s>She is still a little shy at first but after a police officer says that they all should leave the street immediately, she snaps and speaks up.</s>
+        <s>That points out the anger she <choice><orig>build</orig><reg>built</reg></choice> up in her since the murder of <name type="person">Khalil</name> happened.</s>
+        <s>The whole passage is written from <name type="person"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></name> perspective, that is supposed to let us empathize better with <name type="person">Starr</name>.</s>
+        <s>In the given text direct speech and <name type="person">Starr's</name> inner thoughts are relatively even and we can see good what goes through <name type="person">Starr's</name> mind and what the other people are saying.</s>
+        <s>The crowd of people is presented very understanding and encouraging while the police officer is not understanding.</s>
+        <s>That is because <choice><orig>its</orig><reg>it's</reg></choice> <name type="person">Starr's</name> perspective and she is very emotional at that moment.</s>
+        <s>The crowd is often depicted as one <choice><orig>beeing</orig><reg>being</reg></choice> because it's only referred to as the crowd not the people in the crowd.</s>
+        <s>That is done to help the reader follow the story better if it would have been depicted as multiple people it could have been very chaotic reading the passage.</s>
+        <s>Through that depiction as some sort of hive mind / one <choice><orig>beeing</orig><reg>being</reg></choice> there are only four major people.</s>
+        <s><choice><orig>in</orig><reg>In</reg></choice> the given text, <name type="person">Starr</name>; <name type="person">Ms. Ofrah</name>; the police officer / and the crowd by major I mean that they have <choice><orig>an</orig><reg>a</reg></choice> good effect on what happens there.</s>
+        <s>We can see <name type="person">Starr</name> <choice><orig>beeing</orig><reg>being</reg></choice> very emotional as she said, that she screams the <choice><orig>crowds</orig><reg>crowd's</reg></choice> motto with tears in her eyes because she is so moved by the many people rooting that <name type="person"><choice><orig>Khalils</orig><reg>Khalil's</reg></choice></name> death should be <q>avenged</q>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

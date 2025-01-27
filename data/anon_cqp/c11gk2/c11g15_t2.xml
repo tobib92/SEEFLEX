@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g15_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyse <ref target="c11gk2_1" type="speaker">Barnier's</ref> way of conveying his criticism by looking at his line of argumentation, his choice of words and use of stylistic devices.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>speakers</orig><reg>speaker's</reg></choice> line of argumentation is very straight and one-sided, displaying his strict disagreement with <name type="misc">Brexit</name>.</s>
+        <s>In his speech he is constantly <choice><orig>refering</orig><reg>referring</reg></choice> to the <quote>create [of] friction to trade</quote> <ref target="c11gk2_1" type="line">(l. 5)</ref> and his <quote>conviction that we are stronger together</quote> <ref target="c11gk2_1" type="line">(l. 2)</ref> using <quote>we</quote> to refer to the <name type="geo">UK</name> and the <name type="misc">EU</name>, including everyone using empathy.</s>
+        <s>In addition his use of a very formal speech and the use of <quote>will</quote> <ref target="c11gk2_1" type="line">(l. 5)</ref> show his seriousness in the issue, as well as his unwillingness to even slightly consider <name type="misc">Brexit</name> to be good.</s>
+        <s>This is also supported by him stating that <name type="misc">Brexit</name> is a <quote>clear [...] lose-lose situation for both</quote> <ref target="c11gk2_1" type="line">(l. 9f.)</ref>, using the anaphora and colloquialism to further empathise his point.</s>
+      </p>
+      <p>
+        <s><ref target="c11gk2_1" type="speaker">Barnier</ref> also empathises the chain of consequences by repeatedly using <quote>this</quote> <ref target="c11gk2_1" type="line">(ll. 5, 6, 7)</ref>, causing an alliteration.</s>
+      </p>
+      <p>
+        <s>In the following part of his speech he talks about ways to achieve a close relationship between the <name type="misc">EU</name> and the <name type="geo">UK</name>, often comparing the latter's situation to that of the <name type="geo">USA</name>, as they aren't a member of the union, but still have access to the <name type="misc">EU Single Market</name> <ref target="c11gk2_1" type="line">(cf. ll. 16-18)</ref>.</s>
+        <s>He concludes that part by asking the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question of <quote>Why?</quote>, getting the audience to think about why the equivalence system that works for the <name type="geo">US</name> not work for the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>He concludes his speech by restating his position, as a member of the <name type="misc">EU</name>, that the <name type="misc">EU</name> will not change <quote>who we are</quote> <ref target="c11gk2_1" type="line">(l. 27)</ref> because the <name type="geo">UK</name> is leaving, reestablishing his position, and that of the listener's, that <quote>we</quote> as the <name type="misc">EU</name> will try to incorporate the <name type="geo">UK</name>, but refuse to change because of them.</s>
+      </p>
+      <p>
+        <s>In conclusion, <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> states his discontent with the <name type="geo">UK's</name> decision to leave the <name type="misc">EU</name>, but will try his best to lessen the coming hardships for the both of them, while refusing to change the <name type="misc">EU</name> as a whole.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

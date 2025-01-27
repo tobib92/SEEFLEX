@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g21_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Blog</orig><reg>blog</reg></choice> <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk3_1" type="author">Ankita Mitra</ref>, published on <date>February 5, 2014</date>, is about the environmental pollution on planet earth and which effect it has and is going to have on us.</s>
+      </p>
+      <p>
+        <s>The author <choice><orig>descriebes</orig><reg>describes</reg></choice> in the <choice><orig>begining</orig><reg>beginning</reg></choice> of the article the planet earth, the <choice><orig>speacial</orig><reg>special</reg></choice> things about it and why we are able to live here.</s>
+        <s>The two elements air and water are the main reason why we are able to live on this planet and why people, animals, plants and other living being are able to live for over a thousand years here.</s>
+      </p>
+      <p>
+        <s>She tells the reader how much technology has grown with us and which effects it has to the human being.</s>
+      </p>
+      <p>
+        <s>The bad thing about industrial progress, science and technology are the fact that the sea life and the human health are risked.</s>
+        <s>But not only this she also describes how scientists think that humans are making <choice><orig>enviromental</orig><reg>environmental</reg></choice> pollution.</s>
+      </p>
+      <p>
+        <s>One reason there for is the traffic and the huge use of automoiles.</s>
+      </p>
+      <p>
+        <s>As next point she tells the <choice><orig>readars</orig><reg>readers</reg></choice> something about the worst industrial <choice><orig>enviroment</orig><reg>environment</reg></choice> tragedy from <date>1984</date>.</s>
+      </p>
+      <p>
+        <s>In the last part of the article she tells us what would happen to world if we <choice><orig>dont</orig><reg>don't</reg></choice> act now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

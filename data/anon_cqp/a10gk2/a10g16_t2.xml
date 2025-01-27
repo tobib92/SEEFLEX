@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g16_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> which was published on the <date>24. November 2011</date> by <ref target="a10gk2_1" type="author">Brian Pollard</ref> in <name type="misc">The Gulf News</name>, there is a question brought up and answered.</s>
+        <s>To do this, the <choice><orig>autor</orig><reg>author</reg></choice> used many stylistic devices, which <choice><orig>Im</orig><reg>I'm</reg></choice> going to analyse in the following.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Pollard's</ref> point of view is already present to the reader, by just reading the headline.</s>
+        <s>By asking a question and then answering it in the next sentence he leaves the reader no other option than starting in the text with this <choice><orig>questione</orig><reg>question</reg></choice> in the back of <choice><orig>there</orig><reg>their</reg></choice> mind.</s>
+        <s>He also makes use of enumerations like in line 7-8 <quote>good working conditions, good wages and save working environment</quote> to present the reader how little the unions are needed.</s>
+      </p>
+      <p>
+        <s>All these things the unions protected the workers from are now regulated by legislation, laws and our moral values.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Pollard</ref> also uses a repetition <quote>workers are not being exploited by employers, now employers are being exploited by employees</quote> <ref target="a10gk2_1" type="line">(ll. 18, 19)</ref>.</s>
+        <s>The repetition is used to keep this phrase present to the reader, even if he is finished with the <choice><orig>Text</orig><reg>text</reg></choice>.</s>
+      </p>
+      <p>
+        <s>There is another example of the use of stylistic devices; <quote>the economic mess the world is today</quote>.</s>
+        <s>A use of <choice><orig>methaforical</orig><reg>metaphorical</reg></choice> language <choice><orig>witch</orig><reg>which</reg></choice> leads to the conclusion, that the world is in critical economical situation <choice><orig>witch</orig><reg>which</reg></choice> is <choice><orig>influleld</orig><reg>influenced</reg></choice> by many factors.</s>
+      </p>
+      <p>
+        <s>Even though I think that he has got a point, he is overall wrong.</s>
+      </p>
+      <p>
+        <s>There are a lot of non-european <choice><orig>countrys</orig><reg>countries</reg></choice> which are still ruled by the big companies <choice><orig>were</orig><reg>where</reg></choice> unions are more important than ever.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

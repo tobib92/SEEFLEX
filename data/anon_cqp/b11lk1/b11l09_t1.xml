@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l09_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text at hand is an excerpt from <choice><orig>Part Two, Chapter</orig><reg>part two, chapter</reg></choice> 6, of the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref>, written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and published in <date>1995</date> which deals with the collision of an illegal immigrant coupl and an American middle class couple who, despite their many differences and hateful feelings for one another, ultimately share the desire of living the American Dream.</s>
+      </p>
+      <p>
+        <s>The two worlds of the American couple, <name type="person">Delaney</name> and <name type="person">Kyra Mossbacher</name>, and the Mexican couple, <name type="person">América</name> and <name type="person">Cándido Rincón</name>, are for the first time confronted with eachother when <name type="person">Delaney</name> hits <name type="person">Cándido</name> with his car.</s>
+        <s>Afterwards, numerous incidents follow which change <name type="person">Delaney's</name> attitude towards Mexican immigrants throughout the book.</s>
+        <s>At one point, his car is stolen and he believes it was a Mexican, whom he sees camping in the mountains.</s>
+        <s>Moreover, his wife <name type="person">Kyra</name> ends up having an uncomfortable conversation with a Mexican who is based on her descriptino the same man, who <name type="person">Delaney</name> sees in the mountain and is confronted with in this chapter.</s>
+        <s>The reader knows the man as <name type="person">José Navidad</name>.</s>
+      </p>
+      <p>
+        <s>While <name type="person">Delaney's</name> attitude towards Mexican immigrants is changing his <choice><orig>Community</orig><reg>community</reg></choice>, <name type="geo">Arroyo Blanco Estates</name>, transforms into a gated community.</s>
+      </p>
+      <p>
+        <s>The excerpt at hand, shows <name type="person">Delaney</name> at a turning point of his character development and is therefore important for the plot of the novel.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney</name> is confronted with having to choose a side, for or against building a wall around <name type="geo">Arroyo Blanco</name> and has a conversation with <name type="person">Todd Sweet</name>, who tries to convince him of voting against the wall.</s>
+        <s><name type="person">Delaney</name> is uncertain and promises to call <name type="person">Todd Sweet</name>, however without exchanging phone numbers before he leaves.</s>
+        <s><name type="person">Delaney</name> feels overwhelmed and alone with the decision when he spots a man crossing his neighbours', the <name type="person">Cherrystones'</name>, lawn.</s>
+        <s>As soon as he is able to identify the man as Mexican he is certain that the man is a criminal, trying to steal from the <name type="person">Cherrystones</name>.</s>
+        <s>To his shock, he recognizes the man because he met him in the mountains and therefore links him to his stolen car.</s>
+        <s>When <name type="person">Delaney</name> confronts the man with asking what he is doing on the <name type="person">Cherrystones'</name> lawn he doesn't seem concerned and ignores <name type="person">Delaney</name>.</s>
+        <s>The situation then escalates and <name type="person">Delaney</name> threatens the man with calling the police.</s>
+        <s>The expectation of <name type="person">Delaney</name> that the man is a criminal is then proven wrong when the man showsh im the <choice><orig>fliers</orig><reg>flyers</reg></choice> he is delivering.</s>
+        <s>Left in astonishment, <name type="person">Delaney</name> realizes his racist behaviour and reads the <choice><orig>flier</orig><reg>flyer</reg></choice> which is about an upcoming meeting to decide on the construction of the wall, which brings him to the same topic from the beginning of the chapter.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

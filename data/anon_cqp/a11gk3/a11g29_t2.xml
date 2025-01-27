@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g29_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text <ref target="a11gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> state of mind is analyzed with the focus on narrative techniques.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> was afraid of the consequences of her speaking up about <ref target="a11gk3_1" type="character">Khalil's</ref> death.</s>
+        <s>She also struggled a lot to process it.</s>
+        <s>In this passage she finally manages to overcome her fear and begins to speak up to the public.</s>
+      </p>
+      <p>
+        <s>The scene(s) is (are) told in the first person protagonist perspective which can be <choice><orig>identifyed</orig><reg>identified</reg></choice> by <ref target="a11gk3_1" type="character">Starr</ref> talking about herself using <q>I</q> <ref target="a11gk3_1" type="line">(ll. 5, 6, 15 etc.)</ref>.</s>
+      </p>
+      <p>
+        <s>This perspective allows the readers to feel like they are also living this moment which makes them emphasize with the struggles of <ref target="a11gk3_1" type="character">Starr</ref>.</s>
+        <s>It is also limiting the <choice><orig>knowlege</orig><reg>knowledge</reg></choice> of the readers so they are left in uncertanty about the events just as if they are part of the story <choice><orig>themself</orig><reg>themselves</reg></choice>.</s>
+      </p>
+      <p>
+        <s>One narrative technique used is the reported thought <ref target="a11gk3_1" type="line">(ll. 13-14)</ref> where <ref target="a11gk3_1" type="character">Starr</ref> thinks about the absurdity of her attorney who is standing on a police car which contrasts with the task an attorney has: giving legal advide and support.</s>
+      </p>
+      <p>
+        <s>The flashback is used a lot in this passage.</s>
+        <s><ref target="a11gk3_1" type="character">Starr</ref> remembers the moments before <ref target="a11gk3_1" type="character">Khalil</ref> was shot and the moment itself <ref target="a11gk3_1" type="line">(ll. 5-7; 19-22)</ref>.</s>
+        <s>The phrase that the crowd chants <quote>(A hairbrush is not a gun)</quote> <ref target="a11gk3_1" type="line">(ll. 8, 16, 18, 20, 23)</ref> makes the reader jump back and forth in time which turns the one big flashback into small fragments.</s>
+        <s>In the lines 18-23 this is the most extreme because it starts with the chant <q>mutter[ed]</q> by <ref target="a11gk3_1" type="character">Starr</ref> which is followed by a fragment.</s>
+        <s>This is repeated two times in total until <ref target="a11gk3_1" type="character">Starr</ref> screams <quote>A hairbrush is not a gun!</quote> because she <choice><orig>finnally</orig><reg>finally</reg></choice> <choice><orig>overcome</orig><reg>overcomes</reg></choice> her fear.</s>
+        <s>The back and forth in time splits and mixes her fear with her urge to tell the world what happened.</s>
+        <s>This is supported by <ref target="a11gk3_1" type="character">Starr</ref> telling <ref target="a11gk3_1" type="character">Ms. Ofrah</ref> that she wants to do something <ref target="a11gk3_1" type="line">(l. 30)</ref>.</s>
+        <s>A bit later in the book she speaks to the crowd about <ref target="a11gk3_1" type="character">Khalil's</ref> death which further supports her breakthrough at this moment.</s>
+        <s>The flashback is presented in a scenic way which stresses her trauma that she got in the night when <ref target="a11gk3_1" type="character">Khalil</ref> got shot.</s>
+        <s>The flashback is scenic because the description is very short and does not describe the entire situation and environment etc. but focuses only on a single detail each time.</s>
+      </p>
+      <p>
+        <s>In a nutshell this is a really important moment because <ref target="a11gk3_1" type="character">Starr</ref> finally manages to speak up publicly without hesitation and fear.</s>
+        <s>The process of her overcoming that fear is made understandable for the reader by the narrative techniques.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

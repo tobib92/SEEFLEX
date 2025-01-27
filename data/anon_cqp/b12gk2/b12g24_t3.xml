@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g24_t3</author>
+        <name>letter_formal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">letter_formal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Boris Johnson,</salute>
+      </p>
+      <p>
+        <s>I am writing this letter to you in the year <date>2050</date>.</s>
+        <s>I am now 36 years old, but I still remember your speech 29 years ago, in the year <date>2021</date>.</s>
+        <s>You were right, the leaders of the <name type="misc">COP26</name> conference in <date>2021</date> were responsible for the future of the <quote>billions more of the unborn</quote>.</s>
+        <s>And yes, you were right, their <quote>anger will be all the greater if we fail</quote>.</s>
+      </p>
+      <p>
+        <s>And yes, I am worried about the future of my children and grandchildren and their grandchildren.</s>
+        <s>And there is absolute reason to.</s>
+        <s>If you, the leaders of the <name type="misc">COP26</name> conference had failed, I would be more than angry.</s>
+        <s>Because it is my future.</s>
+        <s>And it not only affects the generations to come, but we can already feel the effects of climate change - then and now.</s>
+        <s>Heat records, year after year <choice><orig>beeing</orig><reg>being</reg></choice> washed away, hurricanes, floods - even here in Germany.</s>
+      </p>
+      <p>
+        <s>I applaud your optimism because in my opinion, it is very hard to look forward if the world looks like it looked back then.</s>
+        <s>But optimism is the only thing that can help us in this time of crisis.</s>
+        <s><choice><orig>Loosing</orig><reg>Losing</reg></choice> hope means giving up.</s>
+        <s>Giving up on the future, on my future.</s>
+        <s>That means moral licensing and selfishness.</s>
+        <s>We can not give up.</s>
+        <s>If we even have the slightest hope, that we can actually <choice><orig>chance</orig><reg>change</reg></choice> something, we can overcome any crisis.</s>
+        <s>No matter how insurmountable it seems.</s>
+      </p>
+      <p>
+        <s>So you were right about keeping an optimistic view.</s>
+        <s>It was right of you to consider the consequences that the failing of <name type="misc">COP26</name> may have.</s>
+        <s>The only thing I do not quite agree with, is your <choice><orig>aproach</orig><reg>approach</reg></choice> on how to stop global warming.</s>
+      </p>
+      <p>
+        <s>Frankly, I think you were talking quite generally when you said that <quote>we have the technology</quote> or <quote>We have the bankers</quote>.</s>
+        <s>What you should have said, were concrete measures and restrictions, we have to implement to stop global warming.</s>
+        <s>Tax carbon for example or force the industry to become more sustainable.</s>
+        <s>You could have also made an appeal to the people watching, not only to the politicians.</s>
+        <s>You should have encouraged us all to demand change and be optimistic, to demand our right ono a better future.</s>
+      </p>
+      <p>
+        <s>If you had done all that, maybe the present and future would look a bit less terrifying.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l06_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is in a really complicated situation, he has such as <ref target="a11lk1_1" type="character">Amir</ref> a vulnerable <choice><orig>immegration</orig><reg>immigration</reg></choice> status.</s>
+        <s>He changed his name from <name type="misc">Hussein</name> to <name type="misc">Abe</name> and recently changed it back.</s>
+        <s>Because of that he belongs to a community organisations such as the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> pick people from and force them to do things for them but not like working for or helping, more like blackmailing them.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> comes up together with <ref target="a11lk1_1" type="character">Emily</ref> to <ref target="a11lk1_1" type="character">Amir</ref> because he does not know what to do.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> tries to help his nephew.</s>
+        <s>He calls a co-worker of him named <ref target="a11lk1_1" type="character">Ken</ref> who was the lawyer on a recent case.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> doesn't pick up that's why <ref target="a11lk1_1" type="character">Amir</ref> speaks on his mailbox <choice><orig>saing</orig><reg>saying</reg></choice> he should call back because it's urgent.</s>
+      </p>
+      <p>
+        <s>He also tries to calm <ref target="a11lk1_1" type="character">Abe</ref> down he says even in the worst case he has the chance to show that he is on the side of the authorities, he just <choice><orig>have</orig><reg>has</reg></choice> to be smart in the situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

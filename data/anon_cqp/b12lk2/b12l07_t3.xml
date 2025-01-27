@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12l07_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211202</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The question is <choice><orig>wether</orig><reg>whether</reg></choice> this speech might have an impact on the audience.</s>
+      </p>
+      <p>
+        <s>I personally think it depends on what the impact is aiming for because if it is spreading awareness and motivating people to the point where they feel a sense of responsibility then it is surely possible but if it the impact is supposed to be the immediate change, then I think it can be a bit more difficult.</s>
+        <s>Because looking realistically many politicians already made up their mind on this issue and it is more difficult to convince somebody on a political level rather <choice><orig>then</orig><reg>than</reg></choice> on a personal level.</s>
+      </p>
+      <p>
+        <s>I'm sure this speech can be inspiring and motivating for some people especially with the statements that were being shown on a screen because they were able to identify with them.</s>
+        <s>But really having an impact will only show the actions.</s>
+        <s>We've already seen a similar situation with a speech from <name type="person">Leonardo DiCaprio</name> at the <name type="geo">Paris</name> agreement and summit of the <choice><abbr>UN</abbr><expan>United Nations</expan></choice> that is supposed to be motivating did not help enough to make an actual impact.</s>
+        <s>Because the only being aware of an issue does not fix it as long as nobody changes their approach on solving things.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

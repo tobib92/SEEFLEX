@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l18_t4</author>
+        <name>e-mail_informal</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">e-mail_informal</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi John,</salute>
+      </p>
+      <p>
+        <s>I heard you are going to study at the <name type="misc"><choice><abbr>FWG</abbr><expan>Friedrich-Wilhelm-Gymnasium</expan></choice></name> next year.</s>
+        <s>You must be so excited and I wanted to tell you something about <name type="misc">school without racism and school with courage</name>.</s>
+        <s>This is a label which German schools get if <choice><orig>the</orig><reg>they</reg></choice> raise <choice><orig>awernes</orig><reg>awareness</reg></choice> towards racism.</s>
+        <s>It doesn't mean that those schools don't have any racism at all because that is not <choice><orig>posible</orig><reg>possible</reg></choice>.</s>
+        <s>By now over 3000 schools already have this <choice><orig>lable</orig><reg>label</reg></choice>.</s>
+      </p>
+      <p>
+        <s>This <choice><orig>lable</orig><reg>label</reg></choice> was created because <choice><orig>studys</orig><reg>studies</reg></choice> show that children with non German sounding names get worse marks than kids with German sounding names <choice><orig>altough</orig><reg>although</reg></choice> they have the same amount of <choice><orig>mistaces</orig><reg>mistakes</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Racism gets already <choice><orig>thought</orig><reg>taught</reg></choice> in little kids by for example movies when black people are portrayed as stupid.</s>
+      </p>
+      <p>
+        <s>This never accured to me and I think that we should raise more <choice><orig>awerness</orig><reg>awareness</reg></choice> towards daily racism.</s>
+      </p>
+      <p>
+        <s>I hope that I can help you with this <choice><orig>E-mail</orig><reg>e-mail</reg></choice> and I am so excited that you are coming to <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>See you soon.</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

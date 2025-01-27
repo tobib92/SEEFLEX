@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g14_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the given speech from the <date>27th of January 2015</date>, published by the <name type="misc">Telegraph</name>, the speaker <ref target="a12gk2_1" type="author">John Worne</ref> is stating the current situation of foreign language learning in the <name type="geo">UK</name> as well as commenting on it.</s>
+        <s>According to him language studying is in a decline which is <choice><orig>particulary</orig><reg>particularly</reg></choice> visible in high level parts of the education system.</s>
+        <s>Moreover universities, the <name type="misc">GCSE</name> and the <name type="misc">A-Levels</name>.</s>
+        <s>Despite recent efforts of implementing languages in primary schools the <name type="geo">UK</name> is having a long way to catch up.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> sees the reason in <choice><orig>neglegence</orig><reg>negligence</reg></choice>.</s>
+        <s>With English <choice><orig>beeing</orig><reg>being</reg></choice> the <choice><orig>worldlanguage</orig><reg>world language</reg></choice> and the reliance on translators like <name type="misc">iPhones</name> learning foreign languages seems obsolete.</s>
+        <s>He thinks that an integrated <choice><orig>programm</orig><reg>program</reg></choice> for language learning is a key in facilitating the <name type="geo">UK's</name> role in the globalized world.</s>
+        <s><choice><orig>Furthermor</orig><reg>Furthermore</reg></choice> it can achieve goals that no translator can like expanding into non-English speaking markets and avoiding technical issues like ineffective roaming data.</s>
+        <s>Giving professionals an extra langauge skill besides English makes them more efficient and therefore more desired.</s>
+        <s>The recent implementation of such <choice><orig>programms</orig><reg>programs</reg></choice> by universities pleases him.</s>
+      </p>
+      <p>
+        <s>So overall <ref target="a12gk2_1" type="author">Worne</ref> sees the <name type="geo">UK</name> in a backward position when regarding language learning.</s>
+        <s>A trend that severely hinders <choice><orig>UK-businesses</orig><reg><name type="geo">UK</name> businesses</reg></choice> from expanding into growing markets efficiently.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> himself thinks negatively towards this trend and is pushing for more emphasis among parents to support the school system's current efforts.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c12g22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After I summarises the scene I analyze the relationship <choice><orig>beetween</orig><reg>between</reg></choice> <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> but also the language and dialogue <ref target="c12gk2_1" type="author">Shakespeare</ref> choses to make this scene more interesting and <choice><orig>exiting</orig><reg>exciting</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the relationship of <ref target="c12gk2_1" type="character">Macbeth</ref> and <ref target="c12gk2_1" type="character">Lady Macbeth</ref> you can see that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> is the more dominant part.</s>
+        <s>For example <quote>like the poor cat i'the adage</quote> <ref target="c12gk2_1" type="line">(l. 19)</ref>.</s>
+        <s>She <choice><orig>compars</orig><reg>compares</reg></choice> his husband with an afraid cat, when he doesn't do what she <choice><orig>want</orig><reg>wants</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Moreover she <choice><orig>talk</orig><reg>talks</reg></choice> much more than <ref target="c12gk2_1" type="character">Macbeth</ref>, what is likewise <choice><orig>a</orig><reg>an</reg></choice> argument for the <choice><orig>dominace</orig><reg>dominance</reg></choice> of <ref target="c12gk2_1" type="character">Lady Macbeth</ref>.</s>
+        <s>To prove the point she also says <quote>When you durst do it, then you were a man</quote> <ref target="c12gk2_1" type="line">(l. 25)</ref> what shows clearly how she <choice><orig>oppress</orig><reg>oppresses</reg></choice> her husband.</s>
+        <s><ref target="c12gk2_1" type="character">Macbeth</ref> is <choice><orig>diffrent</orig><reg>different</reg></choice>, he always answers short and he doesn't talk much about <ref target="c12gk2_1" type="character">Lady Macbeth</ref> plans.</s>
+        <s>For example <quote>If we should fail?</quote> <ref target="c12gk2_1" type="line">(l. 35)</ref>, he only asks this and doesn't talk about the other <choice><orig>aspekst</orig><reg>aspects</reg></choice>, which <ref target="c12gk2_1" type="character">Lady Macbeth</ref> says to him.</s>
+        <s>Taking everything into account you can see that <ref target="c12gk2_1" type="character">Lady Macbeth</ref> <choice><orig>manipulate</orig><reg>manipulates</reg></choice> her <choice><orig>husbant</orig><reg>husband</reg></choice> and wants to convince him.</s>
+        <s>She <choice><orig>oppress</orig><reg>oppresses</reg></choice> him and is clearly the dominant part in this scene.</s>
+        <s>The language of <ref target="c12gk2_1" type="author">Shakespeare</ref> is an old <choice><orig>english</orig><reg>English</reg></choice> of the time from <name type="misc"><choice><orig>queen</orig><reg>Queen</reg></choice><choice><orig>Elisabeth</orig><reg>Elizabeth</reg></choice></name>.</s>
+        <s><ref target="c12gk2_1" type="author">Shakespeare</ref> also uses rhetorical devices and a structured <choice><orig>coice</orig><reg>choice</reg></choice> of words to bring the atmosphere of the scene to the reader.</s>
+      </p>
+      <p>
+        <s>In line five you can see <choice><orig>a</orig><reg>an</reg></choice> alliteration <quote>He hath honoured</quote>, <ref target="c12gk2_1" type="author">Shakespeare</ref> uses the alliteration because in the play, it sounds very good.</s>
+        <s>Also alliterations make something more clear.</s>
+        <s>Another <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> device is the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question for example from line 12-14 <quote>Art thou afeard to be the same in thine own act and valour as than art in desire?</quote>, <ref target="c12gk2_1" type="author">Shakespeare</ref> uses this often to make the dominance of <ref target="c12gk2_1" type="character">Lady Macbeth</ref> clear.</s>
+      </p>
+      <p>
+        <s>Furthermore he uses a comparison <ref target="c12gk2_1" type="line">(l. 19)</ref>, where <ref target="c12gk2_1" type="character">Lady Macbeth</ref> compares <ref target="c12gk2_1" type="character">Macbeth</ref> with a little cat, to make the show this dominance.</s>
+        <s>Besides this you can see a <choice><orig>parallelisim</orig><reg>parallelism</reg></choice> in line 26 <quote>... you were, you would ...</quote>.</s>
+        <s>This <choice><orig>parallelisim</orig><reg>parallelism</reg></choice> shows the oppress of <ref target="c12gk2_1" type="character">Lady Macbeth</ref> again.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="c12gk2_1" type="author">Shakespeare</ref> <choice><orig>know</orig><reg>knows</reg></choice> clearly how to write and use his words to create the <choice><orig>athmosphere</orig><reg>atmosphere</reg></choice> he <choice><orig>want</orig><reg>wants</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

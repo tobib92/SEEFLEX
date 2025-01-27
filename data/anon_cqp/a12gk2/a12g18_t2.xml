@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="120min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In order to present his critical view on the steady decline of foreign language, <ref target="a12gk2_1" type="author">Worne</ref> makes use of a variety of communicative strategies as well as a clear structure and emotive use of language.</s>
+      </p>
+      <p>
+        <s>First of all <ref target="a12gk2_1" type="author">Worne</ref> makes use of an enumeration and climax in the beginning <quote>can't, won't, don't</quote><ref target="a12gk2_1">(l. 1)</ref>.</s>
+        <s>With this technique he makes sure that the sentence <choice><orig>stay</orig><reg>stays</reg></choice> in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind.</s>
+        <s>Moreover he points out how dramatic the situation, that fewer people speak foreign languages, is from his point of view.</s>
+        <s>With this technique he wants to catch the <choice><orig>readers</orig><reg>reader's</reg></choice> attention right in the beginning and he wants to make his personal view on the issue clear.</s>
+        <s>Another communicative <choice><orig>strategie</orig><reg>strategy</reg></choice> is in line six: <quote>languages are now on the menu in more primary schools</quote><ref target="a12gk2_1">(ll. 6-7)</ref>.</s>
+        <s>With this metaphor <ref target="a12gk2_1" type="author">Worne</ref> wants to say that more primary schools offer to learn a foreign <choice><orig>languge</orig><reg>language</reg></choice>.</s>
+        <s>Furthermore he <choice><orig>creats</orig><reg>creates</reg></choice> an image in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind and <choice><orig>make</orig><reg>makes</reg></choice> his text more visual and interesting.</s>
+        <s>To sound more trustworthy and <choice><orig>knowledgebal</orig><reg>knowledgeable</reg></choice> the author names facts <quote>More than 10,000 fewer language A level exams [...] than at the end of the <date>1990s</date></quote><ref target="a12gk2_1">(ll. 9-10)</ref>.</s>
+        <s>To add, the author makes use of another enumeration: <quote>trade, prosperity, cultural exports, diplomacy and <choice><orig>nattional</orig><reg>national</reg></choice> security</quote><ref target="a12gk2_1">(ll. 17-18)</ref>.</s>
+        <s>With this enumeration <ref target="a12gk2_1" type="author">Worne</ref> points out the importance of languages for the <name type="geo">UK</name>.</s>
+        <s>The enumeration <choice><orig>streesses</orig><reg>stresses</reg></choice> and <choice><orig>underline</orig><reg>underlines</reg></choice> the importance of the skill to speak different languages clear is <choice><orig>a</orig><reg>an</reg></choice>anaphora in lines 16-17 <quote>Languages [...] languages</quote>.</s>
+        <s>Both sentences explain the use of languages in the daily life and in the work life.</s>
+        <s>Moreover <ref target="a12gk2_1" type="author">Worne</ref> also uses a statistic to proof his points and convince the reader even more <quote>The most recent <name type="misc">CBI / Pearson Education and Skills Survey</name> showed</quote><ref target="a12gk2_1">(ll. 19-20)</ref>.</s>
+        <s>The statistic <choice><orig>proofs</orig><reg>proves</reg></choice> that language is important for the business in the <name type="geo">UK</name>.</s>
+        <s>Another <choice><orig>strategie</orig><reg>strategy</reg></choice> to consider is the use of an <choice><orig>exampel</orig><reg>example</reg></choice><quote>a lawyer with Chinese language skills is more demand than a pure lawyer or a pure linguist</quote><ref target="a12gk2_1">(ll. 28-29)</ref>.</s>
+        <s>With this example he makes his point more visual and <choice><orig>als contrast</orig><reg>also contrasts</reg></choice> a person with language skills with one who has not those skills.</s>
+        <s>With the contrast his argument seems to be stronger.</s>
+        <s>Another contrast is in ll. 6-8.</s>
+        <s>In this paragraph the author first mentions the progress of languages in primary schools and then the stillstand in secondary schools as well as in <choice><orig>A-levels</orig><reg>A-Levels</reg></choice> with this technique the progress he mentioned first does not seem to be such a good thing anymore because the stillstand gets in the foreground.</s>
+        <s>In line 32 the author directly adresses the reader <quote>So parents, of the UK</quote><ref target="a12gk2_1">(l. 32)</ref>.</s>
+        <s>Because of the direct adress, the reader gets involved and starts to feel <choice><orig>personall</orig><reg>personally</reg></choice> attached.</s>
+        <s>With the addition <quote>I'm one</quote> <ref target="a12gk2_1" type="author">Worne</ref> makes clear that he is on the same <choice><orig>wave length</orig><reg>wavelength</reg></choice> as the reader.</s>
+        <s>Furthermore <ref target="a12gk2_1" type="author">Worne</ref> uses inclusive language <quote>we as parents</quote><ref target="a12gk2_1">(l. 33)</ref> to make the reader feel even more involved and to make them start thinking about what they can do to help more children to learn different languages.</s>
+        <s>In the fifth paragraph <ref target="a12gk2_1">(ll. 12-15)</ref>  <ref target="a12gk2_1" type="author">Worne</ref> <choice><orig>refute</orig><reg>refutes</reg></choice> the argument <quote>not to worry</quote><ref target="a12gk2_1">(l. 12)</ref> not by giving antithesis <quote>they don't</quote><ref target="a12gk2_1">(l. 13)</ref>, <quote>but you may crash or choke</quote><ref target="a12gk2_1">(ll. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>To make his point clear, to make his article interesting and to reach a lot of people <ref target="a12gk2_1" type="author">Worne</ref> makes use of a mixture between formal and informal language.</s>
+        <s>On the one hand he uses informal terms such as <quote>re-commissioning our collective brains</quote><ref target="a12gk2_1">(l. 5)</ref> <gap reason="illegible" quantity="1" unit="word">a</gap><quote>cobbleres</quote><ref target="a12gk2_1">(l. 15)</ref> but on the other <choice><orig>hands</orig><reg>hand</reg></choice> he also uses formal terms such as <quote>is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote><ref target="a12gk2_1">(l. 16)</ref>.</s>
+        <s>Moreover <ref target="a12gk2_1" type="author">Worne</ref> also makes use of emotional language like <quote>sadly</quote><ref target="a12gk2_1">(l. 4)</ref>, <quote>Cobblers</quote><ref target="a12gk2NA">(l. 15)</ref>... With his emotional tone he shows the reader how important the topic is for him and that he is personal attached.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the author stresses his critical view on the steady decline of foreign language <choice><orig>speaker</orig><reg>speakers</reg></choice> with his use of communicative <choice><orig>strategys</orig><reg>strategies</reg></choice> and his emotional use of language.</s>
+      </p>
+    </body>
+  </text>
+</TEI>
