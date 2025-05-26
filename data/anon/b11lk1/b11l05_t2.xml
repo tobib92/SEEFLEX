@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The clever use of narrative technique and <choice><orig>langue</orig><reg>language</reg></choice> allows the author to affect the <choice><orig>readers</orig><reg>reader's</reg></choice> perception of <name type="person">Delaney</name> state of mind.</s>
+      </p>
+      <p>
+        <s>The passage at hand is narrated by a <choice><orig>third person</orig><reg>third-person</reg></choice> narrator.</s>
+        <s>He is <choice><orig>omniciant</orig><reg>omniscient</reg></choice> in terms of <name type="person">Delaney</name>, he has access to his thoughts and therefore is able to tell the story in a more detailed and varied way for a witness for example could.</s>
+      </p>
+      <p>
+        <s>This knowledge allows him to let the reader get an impression of what <name type="person">Delaney</name> is thinking.</s>
+        <s>He does that with the use of reported thought <ref target="b11lk1_1" type="line">(e.g. ll. 1f, 25f, 35f)</ref>.</s>
+        <s>The reader can use that information to get an ipression of how <name type="person">Delaney</name> is feeling in the situation and it can also foreshadow actions that might follow later due to his thoughts.</s>
+        <s>Furthermore, the reader is given the opportunity to identify with the person based on his thoughts and feeling.</s>
+        <s>However, the passage is narrated by a <choice><orig>third person</orig><reg>third-person</reg></choice> narrator, the opportunity is minimized to the fact that a <choice><orig>third person</orig><reg>third-person</reg></choice> narrator creates a certain distance.</s>
+      </p>
+      <p>
+        <s>The reader also gets a great impression of the setting and the atmosphere influcences <name type="person">Delaney's</name> state of mind because the author makes use of adjectives <ref target="b11lk1_1" type="line">(ll. 19, 31, 45f)</ref>.</s>
+      </p>
+      <p>
+        <s>In general, <ref target="b11lk1_1" type="author">T. C. Boyle</ref> is able to create a scene, where you can put yourself in with detailed description of what is happening <ref target="b11lk1_1" type="line">(ll. 9f, 37f, 40)</ref>.</s>
+      </p>
+      <p>
+        <s>Moreover, he makes use of a climax which stresses <name type="person"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></name> anger and his general feeling of dissatisfaction and maybe even helplesness in the situation <ref target="b11lk1_1" type="line">(l. 31)</ref>.</s>
+      </p>
+      <p>
+        <s>To conclude, with the clever use of reported thought, adjective, detailed description in general and stylistic devices <add>climax</add> <ref target="b11lk1_1" type="author">T. C. Boyle</ref> is able to affect the perception of <name type="person">Delaney's</name> state of mind, which seems angry, unsatisfied and a little helpless.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

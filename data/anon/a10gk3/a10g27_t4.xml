@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g27_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello John!</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>I hope good.</s>
+      </p>
+      <p>
+        <s>Today I read an article about three <foreign xml:lang="de">Modeblogger</foreign>, who worked, slept and eat in <name type="geo">Cambodia</name>, to know more about the seamstresses there.</s>
+        <s>And they were so shocked!</s>
+        <s>Because I found this article very interesting, I will explain you what the three <choice><orig>blogger</orig><reg>bloggers</reg></choice> experienced, felt and which impressions they had after one day in <name type="geo">Cambodia</name>.</s>
+      </p>
+      <p>
+        <s>After few hours of work as a seamstress, they understood, how hard the real life of those people is.</s>
+        <s>They didn't know, for example, that a seamstress <choice><orig>sit</orig><reg>sits</reg></choice> and <choice><orig>do</orig><reg>does</reg></choice> the same thing for hours in a dirty fabric - because the cannot live without working.</s>
+        <s>They learned, that we are being rich, because those people are poor.</s>
+      </p>
+      <p>
+        <s>Don't you think, that it is a gigantic problem?</s>
+        <s>Do you think, that this life can be called a <quote>fair trade</quote>?</s>
+      </p>
+      <p>
+        <s>I would be very happy to hear your opinion.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

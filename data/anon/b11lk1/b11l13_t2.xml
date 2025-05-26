@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The passage at hand <choice><orig>definitly</orig><reg>definitely</reg></choice> portrays a big change in the character of <ref target="b11lk1_1" type="character">Delaney</ref>, implying he's an overall round character in the novel, encountering the flattest one, <ref target="b11lk1_1" type="character">José</ref>.</s>
+        <s>Furthermore, it's a turning point of <ref target="b11lk1_1" type="character">Delaney's</ref> opinion towards Mexican immigrants.</s>
+      </p>
+      <p>
+        <s>The excerpt is narrated by an omniscient narrator who uses the telling mode to explain the plot.</s>
+        <s>As a result, there is distance created to the reader since he's not involved in the story and rather observes.</s>
+        <s>This distance can be a symbol/an allegory standing for the distance <ref target="b11lk1_1" type="character">Delaney</ref> is intenting to put between himself and the Mexican due to being uncomfortable and feeling threatened <ref target="b11lk1_1" type="line">(l. 31)</ref>.</s>
+        <s>The scenic presentation of the plot provides the reader the ability to feel closer to the story and the characters.</s>
+        <s>Moreover, it creates a more alive <choice><orig>athmosphere</orig><reg>atmosphere</reg></choice> which is a contrast to how <ref target="b11lk1_1" type="character">Delaney</ref> experiences his environment after talking to <ref target="b11lk1_1" type="character">Todd Sweet</ref>.</s>
+        <s>It's shown that he's overthinking and not <choice><orig>interessed</orig><reg>interested</reg></choice> in another talk with <ref target="b11lk1_1" type="character">Sweet</ref> <quote>he wasn't listening</quote> <ref target="b11lk1_1" type="line">(l. 5)</ref>.</s>
+        <s>The reported thoughts of him as well as the climax of him feeling <quote>glum, dogless, on his own</quote> <ref target="b11lk1_1" type="line">(l. 7)</ref>.</s>
+      </p>
+      <p>
+        <s>The majority of times the narrator uses reported thought as a technique to provide the reader access to <ref target="b11lk1_1" type="character">Delaney's</ref> brain, his impressions, his thoughts and attitude.</s>
+      </p>
+      <p>
+        <s>This is somehow a paradoxical phenomenon in this scene since the telling mode was used to create distance to the reader and now is being <q>fought</q> with reported thoughts.</s>
+        <s>These chaotic aspects might represent <ref target="b11lk1_1" type="character">Delaney's</ref> inner feelings though it might be an overinterpretation.</s>
+      </p>
+      <p>
+        <s>Firstly, <ref target="b11lk1_1" type="character">Delaney</ref> is questioning himself, his beliefs, his morals and attitude <ref target="b11lk1_1" type="line">(ll. 1)</ref> which shows that he is actually a reflective character and notices the impact of his wife <ref target="b11lk1_1" type="character">Kyra's</ref> opinion as well as his ally <ref target="b11lk1_1" type="character">Jack's</ref> opinion.</s>
+        <s>However, recalling the <quote>phantom car</quote> <ref target="b11lk1_1" type="line">(l. 2)</ref> that made him feel threatened and fearful is supressing his <quote>liberal humanist</quote> attitude that's being presented in the beginning of the book.</s>
+        <s>All the encounters he ever had with Mexicans like the accident in the first of the novel, the time he hit one with his car or his car being stolen resulted in him <choice><orig>developping</orig><reg>developing</reg></choice> <choice><orig>paranoiac</orig><reg>paranoid</reg></choice> traits as he jumps to conclusions here as well: <quote>the trespasser which is what he must have been</quote> <ref target="b11lk1_1" type="line">(l. 14)</ref>.</s>
+      </p>
+      <p>
+        <s>The direct speeches demonstrate how he firstly apporaches <ref target="b11lk1_1" type="character">José</ref> carefully <ref target="b11lk1_1" type="line">(l. 18)</ref> and gets more serious and louder after <ref target="b11lk1_1" type="character">José</ref> not responding <ref target="b11lk1_1" type="line">(l. 28)</ref>.</s>
+      </p>
+      <p>
+        <s>For <ref target="b11lk1_1" type="character">Delaney</ref>, him being Mexican is worse than if he'd been a regular trespasser which is shown by the correctio <quote>something else, something that struck him with the force of a blow</quote> <ref target="b11lk1_1" type="line">(l. 16)</ref> and also is supported by being a personification.</s>
+        <s>Furthermore, the narrator conveys a specific image of <ref target="b11lk1_1" type="character">Delaney</ref> by using another climax.</s>
+        <s>After <ref target="b11lk1_1" type="character">José</ref> responds, <ref target="b11lk1_1" type="character">Delaney</ref> feels provoked, threatened and panics <ref target="b11lk1_1" type="line">(l. 31)</ref>.</s>
+        <s>By making comments on <ref target="b11lk1_1" type="character">José</ref> the narrator shows <quote>how unimpressed he was, [how] he was mocking [Delaney]</quote> <ref target="b11lk1_1" type="line">(l. 31)</ref>.</s>
+        <s>This certain style to write quite interesting since <ref target="b11lk1_1" type="character">José</ref> seems to be <choice><orig>suparior</orig><reg>superior</reg></choice> although it should've been the other way around due to racial supremacy of <ref target="b11lk1_1" type="character">Delaney</ref>.</s>
+        <s><ref target="b11lk1_1" type="character">José</ref> is described as being annoyed and perceiving <ref target="b11lk1_1" type="character">Delaney</ref> as <quote>nothing, a minor annoyance</quote> <ref target="b11lk1_1" type="line">(l. 40)</ref>.</s>
+      </p>
+      <p>
+        <s>Furthermore, the change in position implied to in the thesis, is now taking place when <ref target="b11lk1_1" type="character">Delaney</ref> makes a harsh statement on how <ref target="b11lk1_1" type="character">José</ref> <quote>[doesn't] belong here</quote> <ref target="b11lk1_1" type="line">(l. 39)</ref>.</s>
+        <s>This passage is ambiguity and an allegory since <ref target="b11lk1_1" type="character">Delaney</ref> either refers to the neighborhood or the <name type="geo">United States</name>.</s>
+        <s>Thus, he is being racist and shows how he has finally absorbed the racist attitude of his neighbors.</s>
+        <s>Another evidence for this circumstance is when <ref target="b11lk1_1" type="character">Delaney</ref> starts approaching him physically and being more violent <ref target="b11lk1_1" type="line">(l. 42)</ref>.</s>
+        <s>This might also be a result of the build up that was created by scenic presentation.</s>
+        <s>Even though <ref target="b11lk1_1" type="character">José</ref> explains that he's delivering <choice><orig>flies</orig><reg>fliers</reg></choice> <ref target="b11lk1_1" type="character">Delaney</ref> got so much adrenaline in himself that he's <quote>ready for anything</quote> <ref target="b11lk1_1" type="line">(l. 48)</ref>.</s>
+        <s>Hence, his racist attitude keeps growing.</s>
+        <s>The narrator uses negatively connotated words to demonstrate how <ref target="b11lk1_1" type="character">Delaney</ref> is initionally condescending <ref target="b11lk1_1" type="character">José</ref> and doesn't see a difference between being <quote>a thief, a liar, the stinking occupant of a stinking sleeping bag in the state forest, a trespasser, a polluter</quote> <ref target="b11lk1_1" type="line">(ll. 49-50)</ref> and being <quote>a Mexican</quote> <ref target="b11lk1_1" type="line">(l. 50)</ref>.</s>
+        <s>Although he tries to seem intimidating and confident, the reader knows that he's in such a desperate state that he'd even feel supported by the presence of a child <ref target="b11lk1_1" type="line">(l. 52)</ref>.</s>
+        <s>Additionally, <ref target="b11lk1_1" type="character">Delaney's</ref> paranoia got him thinking that <ref target="b11lk1_1" type="character">José</ref> carries a weapon and might attack him <ref target="b11lk1_1" type="line">(l. 55)</ref>.</s>
+        <s>The narrator takes <ref target="b11lk1_1" type="character">Delaney</ref> as an example to show how Americans are characterized by having prejudices towards Mexicans and are convinced/believe in cliches and stereotypes.</s>
+      </p>
+      <p>
+        <s>After realizing that <ref target="b11lk1_1" type="character">José</ref> indeed was no threat, he is stunned and <choice><orig>question</orig><reg>questions</reg></choice> himself once again <quote>what was happening to him?</quote> <ref target="b11lk1_1" type="line">(ll. 60-61)</ref>.</s>
+        <s>Through reported thought the narrator shows that <ref target="b11lk1_1" type="character">Delaney</ref> is actually dehumanizing racists and reducing them to subhuman state <quote>What was he becoming?</quote>.</s>
+        <s>Still, the fact that he doesn't even say anything else or apologizes either shows that he's already accepted his new attitude or feels guilty and ashamed for his behavior.</s>
+        <s>The irony of this passage is the <choice><orig>clearafication</orig><reg>clarification</reg></choice> at the end of <ref target="b11lk1_1" type="character">José</ref> delivering <choice><orig>flies</orig><reg>fliers</reg></choice> <add>(as a Mexican)</add> that advertizes for a meeting within the community to discuss the idea of building a wall to keep criminals as well as immigrants out of their residential area and <quote>the security and well-being of [them] all</quote> <ref target="b11lk1_1" type="line">(l. 69)</ref>.</s>
+      </p>
+      <p>
+        <s>Briefly summarizing all the aspects that have been interpreted in the analysis and re-refering to the thesis, it's clear that this excerpt is the trigger of a new <ref target="b11lk1_1" type="character">Delaney</ref> awakening.</s>
+        <s>Although he seems to be aware of his actions and opinion in this chapter, he can't help but be impacted by his community such as his wife <ref target="b11lk1_1" type="character">Kyra</ref> or friend <ref target="b11lk1_1" type="character">Jack</ref>.</s>
+        <s>Thus, his self-presentation and perception as a liberal humanist is ironical and doesn't have any importance or meaning anymore meaning that <ref target="b11lk1_1" type="character">Delaney</ref> lost his main personality trait and now is going to develop new ones.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

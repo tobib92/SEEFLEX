@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g06_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene from the film <ref target="b10gk1_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref>, which was published in <date>2018</date>, is about <ref target="b10gk1_1" type="character">Chris</ref> confronting <ref target="b10gk1_1" type="character">Starr</ref>, who is upset and tries to apologize about something that happened.</s>
+      </p>
+      <p>
+        <s>The scene deals with <ref target="b10gk1_1" type="character">Chris</ref> walking into the school hallway of the <name type="misc">Williamson High School</name>, while <ref target="b10gk1_1" type="character">Starr</ref> packs her things into a locker.</s>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> comes up to <ref target="b10gk1_1" type="character">Starr</ref> and tries to cheer her up by making her listen to his music with headphones.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> enjoys the music but tells <ref target="b10gk1_1" type="character">Chris</ref> off about something which happened before hand.</s>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> tries to apologize to <ref target="b10gk1_1" type="character">Starr</ref> and tells her that he misses her.</s>
+        <s>He also tries to cheer <ref target="b10gk1_1" type="character">Starr</ref> up by dancing in the hallway with the music he made for her.</s>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> laughs and pulls him away from the hallway.</s>
+      </p>
+      <p>
+        <s>As a quick conclusion, this scene introduces <ref target="b10gk1_1" type="character">Chris</ref> as <ref target="b10gk1_1" type="character">Starr's</ref> boyfriend and their relationship between them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

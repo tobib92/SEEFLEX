@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12l23_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Being one of the greatest playwrights and poets back in his days, the 16th century, <name type="person">William Shakespeare</name> managed to stay relevant, even get more relevant than in his lifetime after his death till today.</s>
+      </p>
+      <p>
+        <s>Numerous critics say that <name type="person">Shakespeare's</name> works lost relevance and that they are outdated and too old.</s>
+        <s>That the language is not fitting for today and that they are soon to be forgotten.</s>
+        <s><choice><orig>There</orig><reg>Their</reg></choice> thoughts are legitimate, with <name type="person">Shakespeare's</name> works being more than 400 years old, but they are still wrong.</s>
+      </p>
+      <p>
+        <s>Till today no poet has accomplished, what <name type="person">Shakespeare</name> accomplished.</s>
+        <s>Scientists and academics are in awe how just one poet could produce 38 plays and 154 <choice><orig>Sonnets</orig><reg>sonnets</reg></choice>, with almost every single one of them having some sort of relevance in world history.</s>
+      </p>
+      <p>
+        <s>Furthermore <name type="person">Shakespeare's</name> works are taught in the schools of almost every country and have been <choice><orig>tranlated</orig><reg>translated</reg></choice> to over one hundred different languages.</s>
+        <s>Without <name type="person">Shakespeare</name> the poets these very critics would describe as relevant for today would not even exist.</s>
+        <s>Without <name type="person">Shakespeare</name> poetry and song texts would not be the same as they are now.</s>
+        <s>Even if the original works of <name type="person">Shakespeare</name> are played less frequently today countless modernizations and adaptations exist, for example <name type="misc">Westside Story</name> or <name type="misc">Titanic</name> <choice><orig>wich</orig><reg>which</reg></choice> both are closely orientated towards <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> and count as <quote>classics</quote> today.</s>
+        <s>In addition even theatres, schools and universities are named after <name type="person">William Shakespeare</name> because of his importance for the academic world.</s>
+      </p>
+      <p>
+        <s>And <name type="person">Shakespeare</name> still being the most relevant poet or writes, 400 years after his death has one reason: his works are timeless, they <choice><orig>can not</orig><reg>cannot</reg></choice> become outdated.</s>
+        <s>No other writer managed to display human emotion as good as <name type="person">Shakespeare</name>.</s>
+        <s><name type="person">Shakespeare</name> lets his audience experience the raw emotions of hate, sadness happiness and, of course, love in a purity and genuinity no one other does.</s>
+      </p>
+      <p>
+        <s>And that's the secret.</s>
+        <s>The, one of a kind, gift to be able to describe human emotion, for what it really is.</s>
+      </p>
+      <p>
+        <s>And as long as there is no one who manages to beat <name type="person">Shakespeare</name> in his own expertise, and as long as humans are able to watch, read and especially feel, <name type="person">Shakespeare</name> will continue to stay nr.</s>
+        <s>1 poet and writer of all time and his works will never be irrelevant or outdated.</s>
+        <s>In <choice><orig>Conclusion</orig><reg>conclusion</reg></choice>, by being able to describe emotion and evoke feelings like no other, <name type="person">Shakespeare's</name> works are still and are going to stay relevant.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

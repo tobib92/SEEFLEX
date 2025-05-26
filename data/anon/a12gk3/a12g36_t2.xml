@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following <choice><orig>i</orig><reg>I</reg></choice> going to analyse the persuasive techniques and use of language which are <choice><orig>underlinig</orig><reg>underlining</reg></choice> <ref target="a12gk3_1" type="author"><choice><orig>Wornes</orig><reg>Worne's</reg></choice></ref> opinion.</s>
+      </p>
+      <p>
+        <s>The text is from a popular paper, so the author uses colloquial language, for example in line 15 <quote>Cobblers</quote> so he <choice><orig>adress</orig><reg>addresses</reg></choice> a young reader group.</s>
+        <s>Beside this he often brings his own opinion in the text <ref target="a12gk3_1" type="line">(cf. ll. 3-4)</ref>.</s>
+        <s>To improve his points he often uses statistics for example between line 9 and 11 or 19-24.</s>
+        <s>With this he <choice><orig>trys</orig><reg>tries</reg></choice> convince the reader from his own own opinion.</s>
+        <s>Furthermore he gives a thesis and <choice><orig>than</orig><reg>then</reg></choice> a argument or example to support his points.</s>
+        <s>For example he says that more people should study different languages, he supports his point by saying that they have better chances to get a good job when they can speak foreign languages <ref target="a12gk3_1" type="line">(cf. ll. 24-29)</ref>.</s>
+      </p>
+      <p>
+        <s>To appeal the readers he uses inclusive language at the end of the text: <quote>the school and education system can't fix it without us</quote> <ref target="a12gk3_1" type="line">(cf. l. 35)</ref>.</s>
+        <s>Through this he shows the urgency and that everybody is involved.</s>
+        <s>The build of sentence is hypertactic so the sentences are long with many subordinate clauses <ref target="a12gk3_1" type="line">(cf. ll. 32-36)</ref>.</s>
+      </p>
+      <p>
+        <s>In the whole text the author uses many stylistic devices.</s>
+        <s>Directly at the <foreign xml:lang="de">beginn</foreign> he uses <choice><orig>repetion</orig><reg>repetition</reg></choice>, so he repeats the headline to involve the readers <ref target="a12gk3_1" type="line">(cf. l. 1)</ref>.</s>
+        <s>Also he uses a anaphora in the headline to get the interest of the reader.</s>
+        <s>A other <choice><orig>anaphra</orig><reg>anaphora</reg></choice> is in line 16 <quote><choice><orig>Languar</orig><reg>Language</reg></choice> learning is vital</quote>.</s>
+        <s>Through this the reader keeps this sentence in his <choice><orig>mine</orig><reg>mind</reg></choice>.</s>
+        <s>In line 12 the author uses <choice><orig>saracasm</orig><reg>sarcasm</reg></choice> <quote>perfectly intelligent people</quote>.</s>
+        <s>Through this ironic sentence he clearly shows his opinion.</s>
+        <s>Beside this he uses a comparison in line 28.</s>
+        <s>With this he supports his argument and the reader can <choice><orig>unterstand</orig><reg>understand</reg></choice> it better.</s>
+      </p>
+      <p>
+        <s>In the last part of the text he uses a <choice><orig>metapher</orig><reg>metaphor</reg></choice>: <quote>an essential strings to our children's bows</quote>.</s>
+        <s>With this he illustrates his own point, so the reader can follow him better <ref target="a12gk3_1" type="line">(cf. l. 34)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all you can say that author supports his points , that foreign languages are <choice><orig>importent</orig><reg>important</reg></choice>, with many statistics or examples so you can <choice><orig>unterstand</orig><reg>understand</reg></choice> his opinion.</s>
+        <s>Besides this he uses some stylistic devices to make his text more <choice><orig>atractiv</orig><reg>attractive</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

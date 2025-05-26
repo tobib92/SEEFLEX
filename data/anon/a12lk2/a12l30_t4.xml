@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l30_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi John,</salute>
+      </p>
+      <p>
+        <s>I have found an article that might be interesting for the essay you told me about.</s>
+      </p>
+      <p>
+        <s>The article was released on <date>April 23rd 2016</date> by the <name type="misc">Märkische Allgemeine Zeitung</name>, a local <name type="geo">Brandenburg</name> newspaper which seems to be reputable.</s>
+        <s>In the article producers from <name type="geo">Brandenburg</name> theatres are interviewed and asked why the still portray <name type="person">Shakespeare's</name> plays.</s>
+      </p>
+      <p>
+        <s>It is stated that <name type="person">Shakespeare</name> is still of great relevance as his works get the audience's interest through suprises and portray his characters as human <add>e.g. in the form of weak heroes or strong women</add> making his works truly unique.</s>
+        <s>Furthermore it is stated that his works reach a broad audience with comic elements in tragedies and tragic elements in comedies making each play interesting for a bigger demographic.</s>
+        <s>Furthermore <name type="person">Shakespeare</name> has just written so much that you can't get around his works.</s>
+        <s>They have been translated in over 100 languages there are even different German translations from different eras.</s>
+      </p>
+      <p>
+        <s>The article also states that <name type="person">Shakespeare's</name> works have remained so relevant as nothing else was able to portray the humanness of the feeling and characters as well as his poetry.</s>
+        <s><name type="person">Shakespeare</name> is compared to <name type="person">Bach</name> and <name type="person">Michelangelo</name> who helped shape their artform.</s>
+      </p>
+      <p>
+        <s>Anyways I hope I could help you if you have any questions regarding the article feel free to contact me.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g06_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref> by <ref target="a12gk1_1" type="author">John Worne</ref> from the <name type="misc"><choice><orig>telegraph</orig><reg>Telegraph</reg></choice></name>, from the <date>27th January 2019</date> talks about recent lack of interest in learning new languages of the current generation and why it's bad.</s>
+        <s>In the first part he talks about the decline of language learners and proves his point with statistics, he then goes on and talks about the problems, that come with this.</s>
+        <s>He thinks people shouldn't rely on their phone, because it can disappoint you.</s>
+        <s>He also talks about how not everyone is speaking <choice><orig>english</orig><reg>English</reg></choice> and that if you don't speak other languages, it may exclude you from a job, because a foreign language speaker is really wanted nowadays.</s>
+      </p>
+      <p>
+        <s>But <ref target="a12gk1_1" type="author">John Worne</ref> I love the offers of universities, which are having language courses alongside other degrees.</s>
+      </p>
+      <p>
+        <s>He then makes an appeal with his last sentence, it's to make language learning popular again or to help the future generation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g26_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Many people say that <quote>In America there are no barriers to success</quote> <ref target="a11gk2_1" type="line">(l. 19)</ref> which I personally don't think.</s>
+        <s>Because you can have luck and achieve everything you wanted, but you can also work as hard as all others or even harder and you don't get to achieve your dreams.</s>
+      </p>
+      <p>
+        <s>Firstly the education is a capital element which can <choice><orig>deside</orig><reg>decide</reg></choice> about your future.</s>
+        <s>There you can have luck and you family has enough money to be able to send you to a private school, because there are the classes smaller, the teachers better and the teaching conditions as well.</s>
+        <s>On many public schools the education is not as same as good as on private schools.</s>
+      </p>
+      <p>
+        <s>Throughout many children have not the same good <choice><orig>assumtion</orig><reg>assumption</reg></choice> as a smaller part of the American citizens.</s>
+        <s>Everything builds up on your education, because when <choice><orig>yours</orig><reg>your's</reg></choice> was good you can go to <add> - perhaps with a full <choice><orig>schoolarship</orig><reg>scholarship</reg></choice> - </add> to a good college and study there what you want.</s>
+        <s>But when your education wasn't that good, your graduation report wasn't good enough to go to a college.</s>
+        <s>When your parents then have not the <choice><orig>opportunitie</orig><reg>opportunity</reg></choice> to pay for you, you <choice><orig>can not</orig><reg>cannot</reg></choice> study or have to work.</s>
+        <s>There you get paid, but not as good as in an academic job.</s>
+        <s>So personally I think there are big barriers to success <choice><orig>fore</orig><reg>for</reg></choice> everyone, because not everyone is able to achieve the same good things or goals.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> wanted to clarify his statement with the example of his grandfather.</s>
+        <s>He got the chance to study at a college and build a life from scratch, but not everybody can and has the luck to <choice><orig>life</orig><reg>live</reg></choice> the American <choice><orig>dream</orig><reg>Dream</reg></choice>.</s>
+        <s><choice><orig>the</orig><reg>He</reg></choice> worked very hard to achieve his dreams and <choice><orig>were</orig><reg>was</reg></choice> able to build a good life for him and his family.</s>
+        <s>When you take <ref target="a11gk2_1" type="speaker">Barack <choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> grandfather as an example for living the American <choice><orig>dream</orig><reg>Dream</reg></choice>, everybody would say that everyone can make it, but in reality I think just a few people are able to achieve this <choice><orig>inspite</orig><reg>in spite</reg></choice> of working hard trying their best.</s>
+      </p>
+      <p>
+        <s>To put it in a nutshell I would personally say, that <choice><orig>their</orig><reg>there</reg></choice> are barriers to success.</s>
+        <s>The main cause is because of the different and unequal education, which is very important for the future and success of everyone.</s>
+        <s>Admittedly <ref target="a11gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> grandfather had no problems and got to <choice><orig>life</orig><reg>live</reg></choice> his dream, but I think he had luck.</s>
+        <s>But he earned it because he was a soldier in <name type="misc"><choice><orig>world war two</orig><reg>World War Two</reg></choice></name> and worked hard to <choice><orig>life</orig><reg>live</reg></choice> and make his and his <choice><orig>families</orig><reg>family's</reg></choice> life better.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

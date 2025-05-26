@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g05_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>His line of arguments is very clear.</s>
+        <s>In the fist third of the speech, he <choice><orig>talkes</orig><reg>talks</reg></choice> about the consequences of the <name type="misc">Brexit</name> and uses the <choice><orig>Arguments</orig><reg>arguments</reg></choice> that were named before.</s>
+        <s>Then in the second third he speaks about the for his opinion best relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name> they could have after the <name type="misc">Brexit</name>.</s>
+        <s>His arguments were also already named before in the text.</s>
+        <s>In the last third of his speech, he tells the listener about the good equivalence system the <name type="misc">EU</name> has.</s>
+        <s>He says that it's the best legal system in the world for financial services <ref target="c11gk2_1" type="line">(l. 24-25)</ref> and that the <name type="misc">EU</name> will not change who they are if the <name type="geo">UK</name> leaves <ref target="c11gk2_1" type="line">(l. 27-28)</ref>.</s>
+        <s>The last point that he mentions is the benefits the <name type="geo">US</name> companies get from the open market of the <name type="misc">EU</name> <ref target="c11gk2_1" type="line">(l. 30-31)</ref>.</s>
+        <s>With this special <choice><orig>deviding</orig><reg>dividing</reg></choice> in his speech he is following an intention.</s>
+        <s>At first he tells the listener about the bad things that happen after the <name type="misc">Brexit</name> and what for a big impact this has on the whole infrastructure.</s>
+        <s>Then he gives a solution for both sides, the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+        <s>He names the benefits of a good financial relationship and a joining from the <name type="geo">UK</name> to the <name type="misc">Single Market</name> of the <name type="misc">EU</name>.</s>
+        <s>In the last past he then tries to convince the listener again with some strong arguments for the <name type="misc">EU</name> market and also gives examples for the success of it.</s>
+      </p>
+      <p>
+        <s>His language is not very complicated but also not very simple.</s>
+        <s>He uses a few words that are hard but all in all everybody that hears this speech can understand what he means.</s>
+        <s>This is very important because he wants to convince normal people and the politicians from his opinion.</s>
+        <s>It is still very formal because he is at the <name type="misc">European American Chamber of Commerce</name>.</s>
+      </p>
+      <p>
+        <s>Next I am going to analyse the stylistic devices he uses in the speech.</s>
+        <s>Right in the first line he uses an enumeration.</s>
+        <s>He says that he regrets the decision of the <name type="geo">UK</name>, as a <choice><orig>politican</orig><reg>politician</reg></choice> and a citizen.</s>
+        <s>He wants to make it clear that he thinks it's bad from both of his views.</s>
+        <s>This helps to stress his message.</s>
+        <s>The next device is <choice><orig>a</orig><reg>an</reg></choice> anaphora in line 5 and 7.</s>
+        <s>He uses the word <quote>this</quote> at both sentences at the beginning.</s>
+        <s>This creates a dramatic effect and also <choice><orig>emphatice</orig><reg>empathy</reg></choice>.</s>
+        <s>In this part from line 4 to 5 he also uses two <choice><orig>ennumerations</orig><reg>enumerations</reg></choice>, <choice><orig>wich</orig><reg>which</reg></choice> help to point out his arguments and let them appear stronger.</s>
+        <s>The next <choice><orig>ennumeration</orig><reg>enumeration</reg></choice> are in the lines 11-13, 16 and 22-23.</s>
+        <s>These have the same effect and the same task as the others before.</s>
+      </p>
+      <p>
+        <s>In lines 25-26 you can find two rhetorical questions.</s>
+        <s>These should underline his argument and get the reader to think about this.</s>
+        <s>In the following he uses a few <choice><orig>ennumerations</orig><reg>enumerations</reg></choice> but also repetitions.</s>
+        <s>This has the effect that the reader remembers the arguments and is still going to think about it after the speech.</s>
+        <s>Throughout the whole speech he uses different personal pronouns.</s>
+        <s>When he uses I, he wants to show the reader that this topic is personal and these ideas are from him.</s>
+        <s>Everytime he uses <quote>we</quote> he wants to make the reader feel included, so his arguments work better.</s>
+      </p>
+      <p>
+        <s>To sum it up you can say that the speech was very informative and the speaker used his arguments and stylistic devices very well to convince someone from his opinion.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

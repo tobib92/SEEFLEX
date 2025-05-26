@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g50_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract of the article <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk6_1" type="author">Ankita Mitra</ref> on the <date>5th February 2014</date> is about the pollution on our earth with its causes and terrible effects.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk6_1" type="author">Ankita Mitra</ref> describes the environmental pollution as a huge threat to our natural world and our all <choice><orig>live</orig><reg>life</reg></choice> caused by us, the human beings.</s>
+        <s>Harmful pollutants like fall-outs from nuclear tests and industries, synthetic detergents, nitrogen fertilizers and insecticides, and the smoke of the vehicular traffic are polluting the environment by using, refusing or entering them into the ari, grounds and water.</s>
+      </p>
+      <p>
+        <s>The effects are terrible: Contaminated food and water, incurable diseases and mass extinction of species; everything caused by a rapid increase of urbanization and industrialization and the advancement in science.</s>
+      </p>
+      <p>
+        <s>All in all, <ref target="a10gk6_1" type="author">Ankita Mitra</ref> shows the reader many causes and effects of pollution and is, because of that, somehow influencing the reader's thoughts.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

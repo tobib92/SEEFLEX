@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g11_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>artical</orig><reg>article</reg></choice> <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref>, was written by <ref target="a10gk2_1" type="author">Brian Pollard</ref> and published in <name type="misc">The Gulf News</name> on <date>24.11.2011</date>.</s>
+        <s>It's about the fact that workers need protection and how they get it.</s>
+      </p>
+      <p>
+        <s>Unions helped many workers from not being mistreated.</s>
+      </p>
+      <p>
+        <s>The opinion has changed and the unions aren't longer the protections of workers.</s>
+        <s>The reasons are the <choice><orig>legistation</orig><reg>legislation</reg></choice>, laws and the moral values of the people.</s>
+        <s>The unions have become power.</s>
+        <s>It's an unhealthy relationship to their employers.</s>
+      </p>
+      <p>
+        <s>The unions use the workers.</s>
+        <s>The protection of workers coming to an end.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

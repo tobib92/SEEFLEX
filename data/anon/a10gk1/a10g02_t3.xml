@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>A topic that is often discussed is the statement from <ref target="a10gk1_1" type="author">Brian Pollard</ref>, that <quote>in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employers</quote>.</s>
+      </p>
+      <p>
+        <s>First of all the benefits of unions and how they improve the working system.</s>
+        <s>Unions help the employees in a way that they are more powerful and not mistreated by the employers.</s>
+        <s>This worked out at first but changed over the years.</s>
+        <s>Another benefit <choice><orig>ist</orig><reg>is</reg></choice> that the employees are secured at their working place, because <choice><orig>the</orig><reg>they</reg></choice> have a contract with the union that they can't get fired easy.</s>
+        <s>This leads to no productive work from the employees, because they know that they're secured.</s>
+      </p>
+      <p>
+        <s>The disadvantages of unions are that the workers and the company can't compete against non-union producers, because of the wage the price of the <choice><orig>productes</orig><reg>products</reg></choice> or services of the union producer are a lot higher.</s>
+        <s>In addition to this, the employees have more power than the employers, because they are secured and work however they want.</s>
+      </p>
+      <p>
+        <s>As a conclusion I have to say that unions are a great idea for the workers but not like how they are right now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

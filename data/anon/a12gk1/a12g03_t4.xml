@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g03_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear my <choice><orig>Cannadian</orig><reg>Canadian</reg></choice>,</salute>
+      </p>
+      <p>
+        <s>I heard that you are thinking about spending a year in German after school and that you have been told that <name type="geo">Berlin</name> is the place to be.</s>
+        <s>I did some research, because I've never been there, and found an article.</s>
+        <s><ref target="a12gk1_2" type="title"><name type="geo">Berlin</name> spricht Englisch</ref>, means something like <name type="geo">Berlin</name> speaks <choice><orig>englisch</orig><reg>English</reg></choice>.</s>
+      </p>
+      <p>
+        <s>It's an older article from <date>2016</date> but I think it could help you.</s>
+      </p>
+      <p>
+        <s>First of all there are many <choice><orig>englisch</orig><reg>English</reg></choice> speaking people coming to <name type="geo">Berlin</name> every year.</s>
+        <s>Most of them are tourists and students.</s>
+        <s>So the chances that you will find other <choice><orig>englisch</orig><reg>English</reg></choice> speaking people is very high.</s>
+      </p>
+      <p>
+        <s>The amount of <choice><orig>englisch</orig><reg>English</reg></choice> speaking tourists is also the reason, why you will find <choice><orig>englisch</orig><reg>English</reg></choice> information in the most shops and restaurants.</s>
+      </p>
+      <p>
+        <s>The article also mentions the <choice><orig>relatively</orig><reg>relatively</reg></choice> low rents, but I think that they have increased a lot in the past five years.</s>
+      </p>
+      <p>
+        <s>But know to the downsides of your plan.</s>
+        <s><choice><orig>Theres</orig><reg>Theres</reg></choice> and interview with a guy in the article who says that <name type="geo">Berlin</name> has nothing to do with <name type="geo">Germany</name>.</s>
+        <s>So according to him you shouldn't go to <name type="geo">Berlin</name> if you want to visit <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>All in all I can say that <name type="geo">Berlin</name> might be the best place for <choice><orig>englisch</orig><reg>English</reg></choice> speaking people in <name type="geo">Germany</name> but you should come to <name type="geo">Cologne</name> <choice><orig>its</orig><reg>it's</reg></choice> just better.</s>
+      </p>
+      <p>
+        <signed>Your <choice><orig>german</orig><reg>German</reg></choice> friend</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

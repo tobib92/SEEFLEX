@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g44_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Carlos,</salute>
+      </p>
+      <p>
+        <s>in a <choice><orig>Concept</orig><reg>concept</reg></choice> three young <choice><orig>Bloggers</orig><reg>bloggers</reg></choice> worked one day in a factory in <name type="geo">Cambodia</name>.</s>
+        <s>They worked together with the Asian <choice><orig>textilworkers</orig><reg>textile workers</reg></choice>.</s>
+        <s><name type="person">Anniken</name>, <name type="person">Frida</name> and <name type="person">Ludvig</name> told something about the <choice><orig>lifes</orig><reg>lives</reg></choice> of these workers.</s>
+      </p>
+      <p>
+        <s>They have to sleep in a very little hut with a little sleeping place.</s>
+        <s>They eat a lot of <choice><orig>reise</orig><reg>rice</reg></choice>, that's their only food.</s>
+      </p>
+      <p>
+        <s>They are sitting at one place the <choice><orig>hole</orig><reg>whole</reg></choice> day, like 8-10 hours a day.</s>
+      </p>
+      <p>
+        <s>Between dust and <choice><orig>reise</orig><reg>rice</reg></choice> they have to work by their own hands.</s>
+        <s>They <choice><orig>ar</orig><reg>are</reg></choice> stricking clothes for <q>us</q> in such bad conditions.</s>
+      </p>
+      <p>
+        <s>You wouldn't believe this.</s>
+        <s>If I were you <choice><orig>i</orig><reg>I</reg></choice> wouldn't have ignored this globalisation effects.</s>
+      </p>
+      <p>
+        <s>These people are also humans like we are.</s>
+      </p>
+      <p>
+        <s>But the different is that we are rich because they are poor.</s>
+      </p>
+      <p>
+        <s>I hope you now have a better view of the effects of globalisation.</s>
+      </p>
+      <p>
+        <s>Bye,</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

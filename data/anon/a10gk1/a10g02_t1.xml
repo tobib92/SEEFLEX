@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g02_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract of the <choice><orig>Text</orig><reg>text</reg></choice> <ref target="a10gk1_1" type="title">Is the usefulness of unions coming to an end? The answer is yes</ref> written by <ref target="a10gk1_1" type="author">Brian Pollard</ref> and published in <name type="misc">The Gulf News</name> on <date>24 November, 2011</date> is about the usefulness of unions and how the goals of the unions have changed over the last years.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Text</orig><reg>text</reg></choice> starts with the first opinion of the author, that unions were the best thing that <choice><orig>happend</orig><reg>happened</reg></choice> to the labour movement because of the bad working conditions including higher wages, being <choice><orig>mistreatet</orig><reg>mistreated</reg></choice> by employers and having long work days.</s>
+        <s>But the goals of the unions changed over the last years in the <date>twenty-first century</date>.</s>
+        <s>Unions were made to help the employees to have a secured working place, but today the unions are about power and greed, they even obstruct companies' abilities to compete because the services that unions produce are so expensive, that they can't compete against cheaper and non-unions producer any longer.</s>
+        <s>The fact that their job is protected by their union makes the members work less productive because they have nothing to <choice><orig>loose</orig><reg>lose</reg></choice> and <choice><orig>the</orig><reg>they</reg></choice> have become more powerful than their employers what leads to an unhealthy business environment.</s>
+      </p>
+      <p>
+        <s>In the end is the decision of the author, that the government has to take a hard look at the situation with unions and has to discover that unions are not <choice><orig>helpfull</orig><reg>helpful</reg></choice> anymore and can lead to a worse working place than it was before.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

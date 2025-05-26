@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c11g12_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speech from the speaker <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> took place at the <name type="misc">European American Chamber of Commerce</name> in <name type="geo">New York</name> on the <date>10 July 2018</date> and is about <name type="misc">Brexit</name> and his consequences and challenges the <name type="misc">EU</name> and <name type="geo">UK</name> have to work with.</s>
+      </p>
+      <p>
+        <s>The speech is about the opinion from <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> about the <name type="misc">Brexit</name> and the consequences and things that must happen to live without problems.</s>
+      </p>
+      <p>
+        <s>In line 1-2 he says that he <choice><orig>regret</orig><reg>regrets</reg></choice> the decision of the <name type="geo">UK</name>.</s>
+        <s>With this he shows that he <choice><orig>respect</orig><reg>respects</reg></choice> this decision but that he is not really happy about that.</s>
+        <s>In the next sentence <ref target="c11gk2_1" type="speaker">Barnier</ref> says <quote>we</quote> <ref target="c11gk2_1" type="line">l. 3</ref> and in much more sentences too.</s>
+        <s>He takes this word to make clear that it is about all the people who <choice><orig>lives</orig><reg>live</reg></choice> in the <name type="misc">EU</name> and also <name type="geo">UK</name> and that is important for everyone.</s>
+        <s>With this <quote>we</quote> he <choice><orig>get</orig><reg>gets</reg></choice> all the <choice><orig>readers</orig><reg>readers'</reg></choice> attention on this speech.</s>
+        <s>In line 4-5 <ref target="c11gk2_1" type="speaker">Barnier</ref> says that the <name type="geo">UK</name> will leave the <name type="misc">EU</name> to make clear for everybody what the main theme and problem really is.</s>
+        <s>Directly after this he points out a few problems that will come for us so that the readers want to know more about this scenario.</s>
+        <s>In line 15 he starts with something like a solution and the <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> <quote>we should have a close relationship with the UK</quote> and it should show that again everybody is included in this and that the people have to work with them from the <name type="geo">UK</name>.</s>
+        <s>It should be like the <name type="misc">Brexit</name> wouldn't be there so like before the <name type="misc">Brexit</name>.</s>
+        <s><name type="misc">EU</name> and <name type="geo">UK</name> have to work together.</s>
+        <s>In line 20 he uses <quote>our</quote> and in line 23 he uses the next time <quote>we</quote>.</s>
+        <s>He wants to make obvious that it is a problem for everybody the market will change a lot in the wrong direction if not everybody will work for a good solution.</s>
+        <s>line 24-26 he is saying that the <name type="misc">EU</name> is the most open jurisdiction in the world for financial services and that this equivalence system works well, including for the <name type="geo">US</name> industry.</s>
+        <s>He underlines his message with the <choice><orig>rethorical</orig><reg>rhetorical</reg></choice> question <quote><s>not work for the UK?</s><s>Why?</s></quote> to let the readers think about this <choice><orig>thematic</orig><reg>theme</reg></choice> and the obvious and easy solution we could choose.</s>
+      </p>
+      <p>
+        <s>Directly in the next sentence he <choice><orig>say</orig><reg>says</reg></choice> <quote>we will not change who we are as the European Union because the UK is leaving</quote>.</s>
+        <s><quote>the Uk is leaving</quote> is <choice><orig>an</orig><reg>a</reg></choice> personification and should show that the people who live in the <name type="misc">EU</name> have to make the best thing and have to work with all people from the <name type="geo">UK</name> like a big <quote>family</quote>.</s>
+      </p>
+      <p>
+        <s>All in all you can say that <ref target="c11gk2_1" type="speaker">Barnier</ref> is not happy about the decision but he <choice><orig>respect</orig><reg>respects</reg></choice> it.</s>
+        <s>He <choice><orig>want</orig><reg>wants</reg></choice> to show the problem we could have but also gives a solution.</s>
+        <s>All in all he made it very good and he <choice><orig>adressed</orig><reg>addressed</reg></choice> all people from the <name type="misc">EU</name> but also from the <name type="geo">UK</name> so that everybody knows what is to do.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

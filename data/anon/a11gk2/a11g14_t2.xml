@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it would be analyzed how <ref target="a11gk2_1" type="speaker">Barack Obama</ref> tries to convince his audience that <quote>dreams are worth fighting for</quote> by <choice><orig>examing</orig><reg>examining</reg></choice> rhetorical devices.</s>
+      </p>
+      <p>
+        <s>In the first paragraph of his speech <ref target="a11gk2_1" type="speaker">Obama</ref> uses a metaphor: <quote>..., which is just a stone's throw from my home state Illinois</quote> <ref target="a11gk2_1" type="line">(l. 2)</ref> to break the ice betwenn him and the audience.</s>
+      </p>
+      <p>
+        <s>To <choice><orig>emphazise</orig><reg>emphasize</reg></choice> he means everyone of <name type="geo">America</name> houses a contrast: <quote>In big cities and small towns; among men and women; young and old; black, white and brown...</quote> <ref target="a11gk2_1" type="line">(l. 9-10)</ref>.</s>
+        <s>That also <choice><orig>make</orig><reg>makes</reg></choice> the audience personally <choice><orig>adressed</orig><reg>addressed</reg></choice>, <choice><orig>becaus</orig><reg>because</reg></choice> they feel included in that sentence.</s>
+      </p>
+      <p>
+        <s>Thereby <ref target="a11gk2_1" type="speaker">Obama</ref> tells anecdotes about his mother, grandparents and himself <quote>After my grandfather [...] that drove my mother [...] I did not know any person in Chicago</quote> <ref target="a11gk2_1" type="line">(l. 13ff.)</ref>.</s>
+        <s>He wants to get the audience's confidence by telling them something personal.</s>
+        <s>Another effect is that the audience can understand easier what he wants to tell them when they see it as a picture in <choice><orig>they're</orig><reg>their</reg></choice> minds.</s>
+      </p>
+      <p>
+        <s>In connection with these anecdotes there is a repetition at the beginning of the paragraphs <quote>These are dreams...</quote> <ref target="a11gk2_1" type="line">(l. 17; l. 21)</ref>.</s>
+        <s>That makes the paragraphs more <choice><orig>memorible</orig><reg>memorable</reg></choice> to the audience.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>melhaphor</orig><reg>metaphor</reg></choice>: <quote>In a forgotten corner of America...</quote> <ref target="a11gk2_1" type="line">(l. 24-25)</ref> <choice><orig>provoces</orig><reg>provoques</reg></choice> a feeling of dramatic around the audience.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> convinces the audience, by confiding something personal to them so he <choice><orig>get</orig><reg>gets</reg></choice> a little bit confidence back from them.</s>
+        <s>He <choice><orig>let</orig><reg>lets</reg></choice> them feel as he would be someone of them.</s>
+        <s><choice><orig>that's</orig><reg>That's</reg></choice> why they believe he has the same aims like them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

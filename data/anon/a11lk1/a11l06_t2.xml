@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>During the scene the relationship between <ref target="a11lk1_1" type="character">Abe</ref> and <ref target="a11lk1_1" type="character">Amir</ref> develops a lot.</s>
+      </p>
+      <p>
+        <s>At the beginning of the scene <ref target="a11lk1_1" type="character">Abe</ref> tries to explain to <ref target="a11lk1_1" type="character">Amir</ref> what the situation and the problem is.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> listens to his nephew and only asks to <choice><orig>understands</orig><reg>understand</reg></choice> him better for example in line 2 <quote>What about it?</quote>, line 5 <quote>You laughed?</quote> or line 9 <quote>What are they doing?</quote>.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> seems a bit <choice><orig>skeptical</orig><reg>sceptical</reg></choice> after <ref target="a11lk1_1" type="character">Abe</ref> told him what the issue is, what he recognizes and asks his uncle if he believes him <ref target="a11lk1_1" type="line">(e.g. line 13)</ref>.</s>
+      </p>
+      <p>
+        <s>As <choice><orig>an</orig><reg>a</reg></choice> reaction <ref target="a11lk1_1" type="character">Amir</ref> calls <ref target="a11lk1_1" type="character">Ken</ref> and shows <ref target="a11lk1_1" type="character">Abe</ref> that he <choice><orig>want's</orig><reg>wants</reg></choice> to help him by saying it is urgent <ref target="a11lk1_1" type="line">(e.g. line 20)</ref>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> is still worried and asks his uncle what he would do if he were in his situation, but <ref target="a11lk1_1" type="character">Amir</ref> just responses that we are not there to talk about that yet <ref target="a11lk1_1" type="line">(e.g. line 29)</ref>.</s>
+        <s>In the beginning of the scene <ref target="a11lk1_1" type="character">Amir</ref> really tries to help his nephew who is obviously worried and does not now what to do.</s>
+      </p>
+      <p>
+        <s>Furthermore it gets more and more complicated in their relationship.</s>
+        <s>They start talking about if it would have been better if their fathers would have never come to the <name type="geo">USA</name>.</s>
+        <s>They start arguing until <ref target="a11lk1_1" type="character">Abe</ref> explodes and says that <ref target="a11lk1_1" type="character">Amir</ref> does not have a better life here, knows he got fired and knows what he did to his wife <ref target="a11lk1_1" type="character">Emily</ref> <ref target="a11lk1_1" type="line">(e.g. line 48 and 50)</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> only responds with silent <quote>I don't know</quote> <ref target="a11lk1_1" type="line">(e.g. line 52)</ref>.</s>
+      </p>
+      <p>
+        <s>The situation <choice><orig>wents</orig><reg>went</reg></choice> downhill when they start a discussion about <ref target="a11lk1_1" type="character">Abe's</ref> behavior in the society.</s>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> is triggered about what <ref target="a11lk1_1" type="character">Abe</ref> says about his background and that he forgot who he really is <ref target="a11lk1_1" type="line">(e.g. line 51)</ref>.</s>
+        <s>In <ref target="a11lk1_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> opinion <ref target="a11lk1_1" type="character">Abe</ref> is the one who forgot that, who changed his name twice and is <choice><orig>completly</orig><reg>completely</reg></choice> unsure how to deal with his background and religion.</s>
+        <s>Both start to interrupt each other and <ref target="a11lk1_1" type="character">Abe</ref> is <choice><orig>completly</orig><reg>completely</reg></choice> confronting him about his behavior regarding the people he loves and that he used to look up to him <ref target="a11lk1_1" type="line">(e.g. line 65, 66)</ref>.</s>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> feels like his uncle let him down even though <ref target="a11lk1_1" type="character">Amir</ref> tried to help him in the beginning of the scene, that is why <ref target="a11lk1_1" type="character">Abe</ref> leaves and <choice><orig>want's</orig><reg>wants</reg></choice> to handle it himself.</s>
+      </p>
+      <p>
+        <s>Both of them have problems with their religious background and with their identity that was the reason why their conversation escalated at the end of the scene.</s>
+        <s>They started to argue about American authorities, which both try to <choice><orig>fullfill</orig><reg>fulfill</reg></choice> by changing their names and <choice><orig>completly</orig><reg>completely</reg></choice> fading into American stereotypes regarding behavior and appearance.</s>
+      </p>
+      <p>
+        <s>It is a difficult topic for both of them because they had to deal with challenges their whole life, that is why the conversation developed the way it did from <ref target="a11lk1_1" type="character">Amir</ref> who tried to help his nephew out of this complicated and <choice><orig>stressfull</orig><reg>stressful</reg></choice> situation into a very personal and intense discussion with no helpful ending for their relationship.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Amir</ref> thinks that <ref target="a11lk1_1" type="character">Abe's</ref> behavior is ridiculous and the way how he tries to fit into the society without lying about his roots.</s>
+        <s>It is not understandable for <ref target="a11lk1_1" type="character">Amir</ref> because he always tries to fit in by <choice><orig>completly</orig><reg>completely</reg></choice> avoiding to talk about where he comes from which didn't work out that well for his personal feelings but also for the relationships to his closest people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

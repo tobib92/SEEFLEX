@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l11_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sam,</salute>
+      </p>
+      <p>
+        <s>my name is <name type="person">Jane</name>.</s>
+        <s>I am a student here.</s>
+        <s>You asked if school without racism can exist and I found an article where that was explained.</s>
+      </p>
+      <p>
+        <s><quote>School without racism, and school with courage</quote> is the biggest <choice><orig>schoolnetwork</orig><reg>school network</reg></choice> of <name type="geo">Germany</name>.</s>
+        <s>According to the article more than 3000 schools have this label.</s>
+        <s>The <name type="misc"><choice><abbr>School A</abbr><expan>School A</expan></choice></name> is one of them.</s>
+      </p>
+      <p>
+        <s><name type="person">Karim Fereidooni</name> says that schools without racism do not exist but every student and teacher could try to speak up or to do something to keep the racism as small as possible.</s>
+      </p>
+      <p>
+        <s>He also says that everywhere, where people come together the structures are unequal in many different ways.</s>
+        <s>In school it is a problem that a few students get graded in an unfair way.</s>
+        <s>There was a study called <name type="misc">Max vs. Murat</name>.</s>
+        <s><name type="misc">Max</name> is a very common <choice><orig>german</orig><reg>German</reg></choice> name and <name type="misc">Murat</name> is a common <choice><orig>turkish</orig><reg>Turkish</reg></choice> name.</s>
+      </p>
+      <p>
+        <s>They found out that the test from the kid with the <choice><orig>turkish</orig><reg>Turkish</reg></choice> name was graded in an unfair way.</s>
+      </p>
+      <p>
+        <s>To solve the problem we first have to raise awareness and explain to the students what is going on.</s>
+        <s>That is how we could minimise the amount of racism.</s>
+      </p>
+      <p>
+        <s>It is very important that <choice><orig>noone</orig><reg>no one</reg></choice> denies that racism at schools exist because the only way to overcome it is if we face the problem.</s>
+        <s>Often people do not realise that they are racist or that something racist is happening.</s>
+      </p>
+      <p>
+        <s>Hopefully you decide to visit the <name type="misc"><choice><abbr>School A</abbr><expan>School A</expan></choice></name>.</s>
+        <s>Then we could talk about that issue a little more.</s>
+      </p>
+      <p>
+        <s>I am looking forward to meeting you.</s>
+      </p>
+      <p>
+        <signed>Jane Doe</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

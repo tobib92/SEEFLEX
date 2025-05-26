@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>c12l17_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear William Shakespeare,</salute>
+      </p>
+      <p>
+        <s>I have received your letter and was surprised that you have composed a sonnet addressed towards me.</s>
+        <s>Was it perhaps a little accident?</s>
+      </p>
+      <p>
+        <s>Jokes aside, I have read the sonnet to the point where I now undersand it almost completely and.</s>
+        <s>am very impressed with how much in depth you went in about time and beauty.</s>
+        <s>Just like with your previous sonnets, I have been admiring your great talent in literature.</s>
+        <s>Such strong emotions, such beautiful images, such great love!</s>
+      </p>
+      <p>
+        <s>Especially how this sonnet deals with someone falling into deep thoughts, desperate about how time can be fought to protect the beauty of a lover and appreciate the times with them forever, yet only being able to hold this love safe in writing to never forget it, as it is mentioned in the couplet as a turning point.</s>
+        <s>I also love how you defined the strength of someone in the first quatrain, yet their action not even being as strong as a flower as written in the fourth line.</s>
+      </p>
+      <p>
+        <s>You can really see how the quatrains lead into a great despair and so many rhetorical questions about a solution for the <quote>sad mortality</quote> from the second line, in the third quatrain.</s>
+        <s>Mortality for both the love and one's beauty, I interpret.</s>
+        <s>It reminds me of my relationship...</s>
+      </p>
+      <p>
+        <s>To be fair, I wish there was a way to stop someone from aging or rather stop myself from it to hold my beauty forever for my lover.</s>
+      </p>
+      <p>
+        <s>Yet the process of agin and our life cycle is especially the reason, why we admire and appreciate the times when love and beauty is still so powerful, is it not?</s>
+        <s>An immortal beauty will soon die from its presence and thus love when time has no influence will lose its faith and appreciation so long two live on.</s>
+      </p>
+      <p>
+        <s>Thus love can die quicker than death takes us away from existence.</s>
+      </p>
+      <p>
+        <s>What do you think about it?</s>
+        <s>I really enjoyed reading your sonnet and will keep the letter to never forget such intense feelings I received from it, but also to always remind you how meaningful your words are and what a talented, intelligent and deep-thinking person you are.</s>
+      </p>
+      <p>
+        <s>I owe you a great dept of gratitude and would love to receive more of your writings!</s>
+      </p>
+      <p>
+        <signed>Sincerely yours, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

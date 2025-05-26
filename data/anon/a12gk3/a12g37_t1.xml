@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g37_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> written by <ref target="a12gk3_1" type="author">John Worne</ref> and published in the British newspaper <name type="misc">The Telegraph</name> on <date>27th January 2015</date> the author deal withforeign language learning in his home country.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> points out that the number of students of foreign languages declines in the UK.</s>
+        <s>He argues that this makes collective thinking <gap reason="illegible" quantity="1" unit="word">imobile</gap>.</s>
+        <s>Then he admits positive development of foreign languages being included in the curriculum.</s>
+        <s>However the <choice><orig>schoolchildrens</orig><reg>school children's</reg></choice> knowledge didn't rise, as exams show.</s>
+        <s>The author argues that technological progress won't make language learning redundant.</s>
+        <s>Instead those skills <choice><orig>wold</orig><reg>would</reg></choice> be necessary for the <choice><orig>nations</orig><reg>nation's</reg></choice> future prosperity due to their growing importance for busineses.</s>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> then puts forward his <choice><orig>oppinion</orig><reg>opinion</reg></choice> that students should combine their main subject with foreign language courses in order to <choice><orig>suceed</orig><reg>succeed</reg></choice> at the labor market.</s>
+        <s>Finally the author calls on parents to put pressure on the education system to focus on foreign language learning.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>b12l02_t3</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="hortatory exposition">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his article <ref target="b12lk1_1" type="title">We are entering an era of pandemics - it will end only when we protect the rainforest</ref> one of <ref target="b12lk1_1" type="author">Peter Daszak's</ref> possible solutions for stopping future pandemics is to not return to a system of unchecked consumption following the corona crisis.</s>
+        <s>However how realistic is this?</s>
+        <s>Will we really forego our consumptious lifestyle just to maybe prevent future pandemics?</s>
+      </p>
+      <p>
+        <s>While one could say that <name type="misc">Covid-19</name> happened because of our consumption and would be partly right, I think that for many people that concept is hard to grasp.</s>
+      </p>
+      <p>
+        <s>There is somply too much focus on consumption of goods in modern socety, that most people could live without it.</s>
+        <s>The whole concept of capitalism os bared on the will of people to acquire things.</s>
+        <s>The question is, how much would we need to change in our daily loves to make a difference on the environment?</s>
+        <s>Many people are too lazy to even seperate garbage, so how much can you expect of them.</s>
+        <s>Of course some or even most people would be able to change their lifestyle to help the environment, but the problem is, that everyone would have to do it.</s>
+        <s>The changes would have to become the new norm in society, which is hard and takes a long time.</s>
+      </p>
+      <p>
+        <s>It took in long time for example for society to accept regulations due to <name type="misc">Covid-19</name>.</s>
+      </p>
+      <p>
+        <s>It would take much education by the government about the consequences of overconsumption.</s>
+      </p>
+      <p>
+        <s>In conclusion I think it is unlikely that mankind will not return to a system of unchecked consumption, because of stubbornness and the basic structure of capitalism, that promotes consumption.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g33_t3</author>
+        <name>discuss</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="persuading" genre_family="discussion">discuss</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The multicultural aspects of <choice><orig>socitys</orig><reg>societies</reg></choice> like the British or American one are great for both the immigrants and the original population <choice><orig>beacause</orig><reg>because</reg></choice> the immigrants bring so much new culture into the daily lives of the population as they take important aspects of their <choice><orig>socity</orig><reg>society</reg></choice> back home with them to their immigration destination like their food, clothing, songs, holidays and language so that after a time these aspects become a part of <choice><orig>everyones</orig><reg>everyone's</reg></choice> lives and it enriches <choice><orig>countrys</orig><reg>countries</reg></choice> like the <name type="geo">USA</name> greatly.</s>
+        <s>But this multicultural <choice><orig>socity</orig><reg>society</reg></choice> also has its downfalls, when you see that racist white cops kill black people for the most inconceivable reasons today or when important black activists like <name type="person">Martin Luther King Jr.</name> just get shot and killed because they are black.</s>
+        <s>This racism that is <choice><orig>commen</orig><reg>common</reg></choice> in every single multicultural <choice><orig>socity</orig><reg>society</reg></choice> has its roots in fear, fear of the unknown and lots of ignorance and this is in my opinion the biggest downfall of a multicultural <choice><orig>socity</orig><reg>society</reg></choice> like the British or American one and the sad part is that you <choice><orig>cant</orig><reg>can't</reg></choice> really stop <choice><orig>rasicm</orig><reg>racism</reg></choice> <choice><orig>atleast</orig><reg>at least</reg></choice> not <choice><orig>completly</orig><reg>completely</reg></choice>.</s>
+        <s>Because racist <choice><orig>indviduals</orig><reg>individuals</reg></choice> will always form a little sub <choice><orig>socity</orig><reg>society</reg></choice> of their own empowering their racist ideals and <choice><orig>recruting</orig><reg>recruiting</reg></choice> new members.</s>
+        <s>So in conclusion finding a balance between your own culture and that of the immigration destination can be difficult, I should know as I was once in this position but <choice><orig>its</orig><reg>it's</reg></choice> <choice><orig>difinalty</orig><reg>definitely</reg></choice> possible to find a stable <choice><orig>balence</orig><reg>balance</reg></choice> and thrive.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l21_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Matt,</salute>
+      </p>
+      <p>
+        <s>I really hope you are doing fine.</s>
+        <s>Are you still working on that essay about <name type="person">Shakespeare's</name> global appeal you told me about last week?</s>
+      </p>
+      <p>
+        <s>If yes, lucky you, because I have found an interesting article <choice><orig>explaing</orig><reg>explaining</reg></choice> why some producers in Germany still put on <name type="person">Shakespeare's</name> plays.</s>
+        <s>It is called <ref target="a12lk2_2" type="title">Darum spielen wir Shakespeare</ref>, written by <ref target="a12lk2_2" type="author">Karim Saab</ref> and published by the <name type="misc">Märkische Allgemeine </name> in <date>2006</date>.</s>
+      </p>
+      <p>
+        <s>After a short introduction four acting, artistic or literary directors state their opinion why their theatres still play <name type="person">Shakespeare</name>.</s>
+      </p>
+      <p>
+        <s>The first one points out how <name type="person">Shakespeare</name> can put so many feelings into his work, usch as love, anger, frustration and others.</s>
+        <s>He calls <name type="person">Shakespeare</name> different and <choice><orig>therfore</orig><reg>therefore</reg></choice> special.</s>
+        <s>Although he would have already celebrated his 400th birthday by now, he seems to be very up to date and <choice><orig>confrontates</orig><reg>confronts</reg></choice> the reader with his actions.</s>
+        <s>The second interviewed director states that <name type="person">Shakespeare</name> is the one that influenced all other big authors after him.</s>
+        <s>In his opinion <name type="person">Shakespeare</name> is the number 1 playwright.</s>
+        <s>The third man that is being interviewed says how <name type="person">Shakespeare</name> has still got the rhetorical and poetic power and how his plays are written for a widespread audience.</s>
+        <s><name type="person">Shakespeare</name> touches our feelings only with his words, which the interviewed artist thinks are incredible.</s>
+        <s>The last interviewed artist begins with the pure mass of plays <name type="person">Shakespeare</name> has written, which let him think you can't get away without coming in touch with <name type="person">Shakespeare's</name> work.</s>
+        <s>He takes <ref target="a12lk2_1" type="title">Romeo and Juliet</ref> as an example, the most famous love story worldwide.</s>
+      </p>
+      <p>
+        <s>Alright, I hope I could help you with what I've found out.</s>
+        <s>Let me know if there's anything you couldn't get or I should explain to you again.</s>
+      </p>
+      <p>
+        <s>I hope to hear from you again, good luck with your essay.</s>
+      </p>
+      <p>
+        <signed>Kind regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

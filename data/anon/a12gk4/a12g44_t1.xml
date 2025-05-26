@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g44_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given text <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref>, written by <ref target="a12gk4_1" type="author">John Worne</ref> and published in the <name type="misc">The Telegraph</name> on <date>January 2015</date>, addresses the importance of the English language in relation to the <name type="geo">UK</name>.</s>
+        <s>The author feels that language learning in school has decreased significantly and fewer people are ready to learn new languages.</s>
+        <s>Right at the beginning the author says that people are not interested in learning foreign languages.</s>
+        <s>He says the number of people learning foreign languages at university level has declined in recent years.</s>
+        <s>He also mentions that over ten thousand fewer foreign language exams were passed than at the end of 1990.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> criticizes this in the following.</s>
+        <s>He also says that no technology can replace the acquisition of a language because it is essential for the future.</s>
+        <s>He brings up the point of globalization and comes back to the importance of language.</s>
+        <s>According to him, things like trade between countries or the national security can only run smoothly if you have the language and can communicate with <choice><orig>one other</orig><reg>one another</reg></choice>.</s>
+        <s>What he also sees critically is that only a few take advantage of the offer to learn a foreign language at university.</s>
+        <s>In his opinion, a lot more people have to do that because the possibilities are there just not the desire.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

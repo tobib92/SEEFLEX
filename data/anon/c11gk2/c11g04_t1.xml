@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g04_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>On <date>10th of July 2018</date>, the <name type="misc">EU</name> commissioner <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> held a speech at the <name type="misc">European American Chamber of Commerce</name>.</s>
+      </p>
+      <p>
+        <s>In the given excerpt of the speech he talks about the impact of the <name type="misc">Brexit</name> on the <name type="geo">UK</name> <choice><orig>ant</orig><reg>and</reg></choice> the <name type="misc">EU</name>, but he also talks about a possible bright future of the relationship between <name type="geo">UK</name> and <name type="misc">EU</name>, mostly in economy.</s>
+        <s>He wants to make the people aware of this possible bright future and how to achieve it.</s>
+      </p>
+      <p>
+        <s>The excerpt begins with him saying that he regrets the <name type="misc">Brexit</name> and that the <name type="misc">Brexit</name> will have a cost.</s>
+      </p>
+      <p>
+        <s>He starts explaining these costs with by reminding the listener of the decision of the <name type="geo">UK</name> to leave the <name type="misc">European Union's Single Market</name> and says that it will create new disagreements in trade.</s>
+        <s>He continues by explaining how this will affect many economic sectors and names some of them.</s>
+        <s>He also <choice><orig>say</orig><reg>says</reg></choice> that <name type="geo">UK</name> and <name type="misc">EU</name> will both be damaged by the <name type="misc">Brexit</name>, but the <name type="geo">UK</name> way more.</s>
+        <s>This leads him to give <choice><orig>buisnesses</orig><reg>businesses</reg></choice> the advice of analysing the effect the <name type="misc">Brexit</name> might have on them and also to prepare for a no deal scenario.</s>
+      </p>
+      <p>
+        <s>Next he states that in his point of view the <name type="geo">UK</name> should have a close relationship to the <name type="misc">EU</name>, also in financial services.</s>
+        <s>He explains that in the <name type="misc">EU</name>, for free movement of capital is also open to third countries.</s>
+      </p>
+      <p>
+        <s>Next he makes clear that he thinks the <name type="misc">Free Trade Agreement</name> with the <name type="geo">UK</name> should include rights in financial service with <name type="misc">EU</name> rules appplying.</s>
+      </p>
+      <p>
+        <s>He also says that the <name type="misc">EU</name> is the most open legal system for financial service.</s>
+      </p>
+      <p>
+        <s>He finishes his speech with the promise of the <name type="misc">EU</name> remaining the most open market in the world and not changing this because of the <name type="misc">Brexit</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

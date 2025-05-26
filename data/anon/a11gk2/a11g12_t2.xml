@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g12_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analysis how <ref target="a11gk2_1" type="speaker">Obama</ref> shared his audience <quote>dreams are worth fighting for</quote> <ref target="a11gk2_1" type="line">(l. 25f.)</ref> with his listeners.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a11gk2_1" type="speaker">Barack Obama</ref> used rhetorical devices during his speech.</s>
+        <s>For example he used a climax in line 11: <quote><s>Education and opportunity for our kids.</s><s>Common hopes.</s><s>American dreams.</s></quote></s>
+        <s>With this rhetorical device he <choice><orig>set</orig><reg>sets</reg></choice> off that his listeners get more clearly about the dreams.</s>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> lists a lot of things before the climax.</s>
+        <s>With the climax he got more points to sum up what the American Dreams did in the last years.</s>
+        <s>He told them just positive things to got their attention.</s>
+        <s>While he spoke about it, he got the effect that his words was going into the mind of his listeners.</s>
+        <s>He convinced htem for the American <choice><orig>dreams</orig><reg>Dream</reg></choice>.</s>
+        <s>He also used an enumeration <quote>These are dreams</quote> <ref target="a11gk2_1" type="line">(l. 13, 17, 21)</ref>.</s>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> spoke a lot about it he said often these words to make clear what he is talking about.</s>
+        <s>Everytime when he said it, he gives an example and the effect of the American <choice><orig>dreams</orig><reg>Dream</reg></choice>.</s>
+        <s>He tries to catch the audience from his listeners and that they are believe in it too.</s>
+        <s>His listeners should connected the American <choice><orig>dreams</orig><reg>Dream</reg></choice> with a positive mindset.</s>
+        <s>He knows that he can motivate them when he spoke about it and <choice><orig>use</orig><reg>uses</reg></choice> a good story from his family or himself.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a11gk2_1" type="speaker">Barack Obama</ref> tries to convince his listeners from a positive mindset about <name type="geo">America</name> and of course the American <choice><orig>dreams</orig><reg>Dream</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

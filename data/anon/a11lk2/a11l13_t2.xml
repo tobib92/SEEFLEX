@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l13_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is one of the protagonists in the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>.</s>
+        <s>In the following his behavior, attitudes and interaction with others is going to be analyzed.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is married to <ref target="a11lk2_1" type="character">Emily</ref> and works at a law firm.</s>
+        <s>He is a <choice><orig>muslim</orig><reg>Muslim</reg></choice>, but eats porks sometimes.</s>
+        <s>He didn't mentioned his religion to his <choice><orig>employe</orig><reg>employer</reg></choice> due discrimination and said his name is <choice><orig>indian</orig><reg>Indian</reg></choice>.</s>
+      </p>
+      <p>
+        <s>During the whole extract from scene 3 he ia angry and nearly vicious.</s>
+        <s>This anger goes back to a situation at work <ref target="a11lk2_1" type="line">(l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>Secondly, he is confused, because doesn't get <choice><orig>whats</orig><reg>what's</reg></choice> going on between <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Jory</ref> <ref target="a11lk2_1" type="line">(l. 27)</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> is still furious about the conflict about <ref target="a11lk2_1" type="character">Jory</ref> being partner at work.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> doesn't really listen to the accusations of <ref target="a11lk2_1" type="character">Jory</ref> about the affair.</s>
+        <s>He believes <ref target="a11lk2_1" type="character">Emily</ref> and blames <ref target="a11lk2_1" type="character">Jory</ref> full of anger <ref target="a11lk2_1" type="line">(ll. 18-19)</ref> and calls her evil.</s>
+        <s>This describes his trust in <ref target="a11lk2_1" type="character">Emily</ref> and his priority about work.</s>
+        <s>Furthermore his behaviour underlines his anger.</s>
+        <s>He doesn't complain about his private matters and the affair.</s>
+      </p>
+      <p>
+        <s>Moreover, he rages about his hardworking to just get disappointed.</s>
+        <s>He complains about his work and how <ref target="a11lk2_1" type="character">Jory</ref> didn't had to work so hard for her office and position <ref target="a11lk2_1" type="line">(ll. 22-29)</ref>.</s>
+        <s>He ends his rage by a racial and badly insult against her <ref target="a11lk2_1" type="line">(l. 29)</ref>.</s>
+      </p>
+      <p>
+        <s>His response to <ref target="a11lk2_1" type="character">Isaac</ref> embraces that <ref target="a11lk2_1" type="character">Amir</ref> hates <ref target="a11lk2_1" type="character">Isaac</ref> and can't stand him <ref target="a11lk2_1" type="line">(ll. 35-37)</ref>.</s>
+        <s><ref target="a11lk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> anger shows when he spits in <ref target="a11lk2_1" type="character"><choice><orig>Isaacs</orig><reg>Isaac's</reg></choice></ref> face.</s>
+        <s>This shows his furious behaviour and unpredictable actions <ref target="a11lk2_1" type="line">(l. 40)</ref>.</s>
+      </p>
+      <p>
+        <s>After <ref target="a11lk2_1" type="character">Isaac</ref> leaves, his wife <ref target="a11lk2_1" type="character">Jory</ref> makes <ref target="a11lk2_1" type="character">Amir</ref> furious again.</s>
+        <s>She <choice><orig>provoces</orig><reg>provokes</reg></choice> him.</s>
+        <s>She <choice><orig>adresses</orig><reg>addresses</reg></choice> that she didn't just got partner, she also takes over <ref target="a11lk2_1" type="character"><choice><orig>Morts</orig><reg>Mort's</reg></choice></ref> caseload.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> seems so shocked and vulnerable, that he doesn't even reply anymore <ref target="a11lk2_1" type="line">(ll. 3-13)</ref>.</s>
+      </p>
+      <p>
+        <s>Even <choice><orig>tho</orig><reg>though</reg></choice> his wife tries to calm him, he is still furious and angry about the situation.</s>
+        <s>This shows by his nervous spirals and his back and forth walking while being withdrawn <ref target="a11lk2_1" type="line">(ll. 16-17)</ref>.</s>
+      </p>
+      <p>
+        <s>After he was left alone for a few moments, because his wife <ref target="a11lk2_1" type="character">Emily</ref> got him a <choice><orig>coffe</orig><reg>coffee</reg></choice>, he finally <choice><orig>ask</orig><reg>asks</reg></choice> her about the affair <ref target="a11lk2_1" type="line">(l. 27)</ref>.</s>
+        <s>He calls her by her nickname and seems vulnerable as he <choice><orig>askes</orig><reg>asks</reg></choice> her.</s>
+        <s>This shows that he does care about the affair, but maybe didn't want it to be real <ref target="a11lk2_1" type="line">(ll. 25-26)</ref>.</s>
+      </p>
+      <p>
+        <s>After <ref target="a11lk2_1" type="character">Emily</ref> confesses the whole story about <name type="geo">London</name> and <ref target="a11lk2_1" type="character">Isaac</ref> and she outlines how disgusting she is <ref target="a11lk2_1" type="line">(ll. 31-4)</ref> <ref target="a11lk2_1" type="character">Amir</ref> doesn't say anything, but her words make him so furious that he beats her.</s>
+        <s>He gets so <choice><orig>agressive</orig><reg>aggressive</reg></choice> that he doesn't stop after one blow.</s>
+        <s>He goes on one after another.</s>
+        <s>He puts all his anger into beating her <ref target="a11lk2_1" type="line">(ll. 6-14)</ref>.</s>
+        <s>After his angry outburst he <choice><orig>relizes</orig><reg>realizes</reg></choice> what he has done to her and is scared about himself and shocked <ref target="a11lk2_1" type="line">(l. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>Alltogether, <ref target="a11lk2_1" type="character">Amir</ref> is a badly developing protagonist.</s>
+        <s>He wasn't friendly and honest to his co-worker <ref target="a11lk2_1" type="character">Jory</ref>, he didn't like <ref target="a11lk2_1" type="character">Isaac</ref> and thinks he is annoying and even to his wife he is cruel.</s>
+        <s>He can't control himself and just lets his uncontrolled violence and anger out by beating his wife.</s>
+        <s>In this scene he isn't <choice><orig>likable</orig><reg>likeable</reg></choice> and seems really <choice><orig>agressive</orig><reg>aggressive</reg></choice> to the reader.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

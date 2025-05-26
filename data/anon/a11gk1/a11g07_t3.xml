@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g07_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <name type="geo">Cologne</name>
+        <name type="geo">Germany</name>
+        <name type="person">Martin Rump</name>
+        <name type="geo">Soulstreet 2</name>
+        <name type="geo">Texas</name>
+      </p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>to begin with the short information, my name is and I'm a 16 year old student from <name type="geo">Germany</name>, just to let you know who is writing to you.</s>
+      </p>
+      <p>
+        <s>I'm writing regarding to the banning from the novel <ref target="a11gk1_1" type="title">THUG</ref> from your school libraries.</s>
+      </p>
+      <p>
+        <s>My good friend <name type="person">Tom</name> told me about your decision.</s>
+        <s>I wanna explain you, why I think that this is a book that should available to students worldwide, also to your students.</s>
+        <s>The reason, that the book has a bad influence on your students because of depicting drug use, showing the police in a negative light or is containing offensive language, I do not really understand.</s>
+        <s>I think we should <choice><orig>focuse</orig><reg>focus</reg></choice> on the positive <choice><orig>thinks</orig><reg>things</reg></choice> the books is giving to us.</s>
+        <s>We students can learn so many <choice><orig>thinks</orig><reg>things</reg></choice> about an important and current topic, racism, and on top, we can easily identify with the protagonist.</s>
+        <s>Furthermore, the book is very <choice><orig>inspiaring</orig><reg>inspiring</reg></choice> to us, because we see a girl who became more and more herself and gives herself and her bestfriend a voice.</s>
+        <s>Of course you can <choice><orig>critizes</orig><reg>criticize</reg></choice> some things, but this is the life.</s>
+      </p>
+      <p>
+        <s>Please think carefully about my words.</s>
+        <s>It would be nice to hear from you.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

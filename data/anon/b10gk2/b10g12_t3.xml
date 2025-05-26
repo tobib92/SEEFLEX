@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g12_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk2_1" type="title">The Hate U Give</ref> really opened my eyes about some things.</s>
+        <s>The lovestory hasn't had a huge impact on me because it is shown in a lot of teenage dramas.</s>
+        <s>The special thing about this movie is that you can learn very much about racism.</s>
+        <s>I'm white so it's interesting and new <add>(and shocking!)</add> to me to watch a black teenage girl growing up in <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>In my childhood I haven't even thought about what I have to do when I get in a conflict with a cop.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> has to experience a lot of discriminating things while growing up.</s>
+        <s>It seems like these experiences have an impact on everything else in her life: her family, her friendships and her relationship.</s>
+      </p>
+      <p>
+        <s>It is important as a white <choice><orig>priviliged</orig><reg>privileged</reg></choice> person to be aware of stories like <ref target="b10gk2_1" type="character">Starr's</ref> and to listen to them.</s>
+      </p>
+      <p>
+        <s>A scene in a movie that I will probably not forget any soon is the one in which <ref target="b10gk2_1" type="character">Starr's</ref> little brother helds the gun and points it on the cops to protect his family.</s>
+        <s>That scene holds a lot of power and has a big meaning behind it.</s>
+        <s>It shows how the injustice and racism affects children and how they automatically give it back to society when they're older.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

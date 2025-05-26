@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l01_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Delaney's</name> mental state becomes increasingly more irrational and paranoid throughout the novel.</s>
+      </p>
+      <p>
+        <s>The passage, especially compared to the beginning of story, showcases the development of <name type="person">Delaney's</name> from racist thoughts to racist actions.</s>
+      </p>
+      <p>
+        <s>When <name type="person">Delaney</name> spots the car of <name type="person">José Navidad</name>, he seems to fall into a kind of trance, since he shuts out everything from his surroundings and only focuses on finding <name type="person">José</name>.</s>
+        <s>Here it becomes clear, that he starts becoming obsessed with the idea of criminals invading the area and he feels like he must protect everything <ref target="b11lk1_1" type="line">(ll. 5-8)</ref>.</s>
+      </p>
+      <p>
+        <s>The racist motivation behind <name type="person">Delaney's</name> actions become apparent multiple times throughout the passage: <quote>[...] something that struck him with the force of a blow: the man was Mexican</quote> <ref target="b11lk1_1" type="line">(ll. 16f)</ref>.</s>
+      </p>
+      <p>
+        <s>The fact that he puts such an <choice><orig>emphasize</orig><reg>emphasis</reg></choice> on the ethnicity of this stranger shows that his prejudice is affecting his ability to view the situation objectively by immediately having his racist thoughts spill through.</s>
+        <s>Another moment that underlines this thesis, is when <name type="person">Delaney</name> starts making all these judgements of <name type="person">José Navidad</name>, even though cannot prove most of them <quote>[...] The man was a thief, a liar [...] a Mexican</quote> <ref target="b11lk1_1" type="line">(ll. 49f)</ref>.</s>
+        <s>What is <choice><orig>specially</orig><reg>especially</reg></choice> <choice><orig>stricking</orig><reg>striking</reg></choice> here is that his rampage of insults at <name type="person">José</name> and ends with him being from Mexican <choice><orig>decent</orig><reg>descent</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In that context, <name type="person">Delaney</name> must think that being from <name type="geo">Mexico</name> is bad and shameful and puts it on the same level as being a criminal.</s>
+      </p>
+      <p>
+        <s>This again underlines the racist tone of <name type="person">Delaney's</name> <choice><orig>think processes</orig><reg>thought processes</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Furthermore, he also tells explicitly tells <name type="person">José</name> that he <quote>doesn't belong here</quote> <ref target="b11lk1_1" type="line">(l. 39)</ref>, which one hand aligns with <name type="person">Delaney</name> wanting him off of the <choice><orig>privat</orig><reg>private</reg></choice> property, but on the other hand illustrates that he should not be here, because of his ethnical background, since <name type="geo">Arroyo Blanca</name> is predominantly white.</s>
+      </p>
+      <p>
+        <s>Another aspect is that <name type="person">Delaney</name> constantly feels threatened and or disrepected by Mexicans.</s>
+      </p>
+      <p>
+        <s>When <name type="person">José</name> reached into his pocket to get the flyers, <name type="person">Delaney</name> immediately thinks that he is armed and he will have to fight him <ref target="b11lk1_1" type="line">(l. 55)</ref>.</s>
+      </p>
+      <p>
+        <s>This being his first reaction depicts his paranoia towards Mexican immigrants being violent, when he was the one who actually became physical at first.</s>
+        <s>The fact that he cannot see this irony also just shows that his is too caught up in judging others.</s>
+      </p>
+      <p>
+        <s>Also the fact that <name type="person">José</name> does not take him serious really <gap reason="illegible" quantity="1" unit="word">aggrasete</gap> <name type="person">Delaney</name>.</s>
+      </p>
+      <p>
+        <s>This being a recurring topic for him in his life, being ignored or belittled, it is noticeable that only when he is talking to a Mexican he builds up the confidence to stand up for himself, which shows that he thinks he has the right to decide what immigrants are allowed to do or not, which again illustrates his racist way thinking <ref target="b11lk1_1" type="line">(ll. 40-45)</ref>.</s>
+      </p>
+      <p>
+        <s>When he realizes that <name type="person">José</name> is distributing flyers he feels deeply ashamed of his irrational actions.</s>
+        <s>Here it is visible that he is still able to reflect on his actions and <choice><orig>know</orig><reg>knows</reg></choice> that his behaviour is wrong <ref target="b11lk1_1" type="line">(ll. 60-61)</ref>.</s>
+        <s>But if taken into the bigger plot of the novel, these moments of reflection happen often, but especially towards the end, although <name type="person">Delaney</name> is aware of his unfair prejudice, he is not willing to change, since the guilt he feels after wrongfully accusing immigrants is always temporary.</s>
+      </p>
+      <p>
+        <s>Regarding the narrator devices, this excerpt is mainly written in showing mode, which <choice><orig>let's</orig><reg>lets</reg></choice> the readers really in on the emotions and thoughts of <name type="person">Delaney</name>, which helps to illustrate the instable state of mind of the protagonist.</s>
+      </p>
+      <p>
+        <s>In conclusion, the passage is an important turning point in the negative development of <name type="person">Delaney Mosshacker</name>, because the shift from him trying to surpress his racist thoughts and always feeling guilty because of them to overtly and <choice><orig>aggressivly</orig><reg>agressively</reg></choice> confronting immigrants out of groundless and racist suspicion, becomes most apparent here and only worsens over the rest of the storyline.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

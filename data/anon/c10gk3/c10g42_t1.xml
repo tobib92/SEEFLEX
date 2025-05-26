@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g42_t1</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="recounting" genre_family="biographical recount">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>
+        <p>
+          <s>Better hopes for the future?</s>
+        </p>
+      </head>
+      <p>
+        <s>Recently there were different immigrants in a panel discussion on <choice><abbr>TV</abbr><expan>television</expan></choice>, where they describe their immigration experiences in a speech.</s>
+      </p>
+      <p>
+        <s>Among them immigrants there is a 41 years old engineer named <name type="person">Faraj al-Byarshan</name> who immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in year <date>2005</date>.</s>
+        <s><name type="person">Faraj</name> has a wife and two sons who followed his road in year <date>2007</date>.</s>
+        <s><name type="person">Faraj al-Byarshan's</name> reasons for immigration refer to his were positive and negative immigration experiences and his hopes for the future.</s>
+        <s>In the following I will comment on <name type="person">Faraj al-Byarshan's</name> reasons for immigration.</s>
+        <s>First of all how does he <choice><orig>knows</orig><reg>know</reg></choice> that he'll get better hopes for his future in <name type="geo">New York</name> than in his home country which is <name type="geo">Iraq</name>.</s>
+        <s><name type="person">Faraj's</name> circumstances are so bad, that he risks it all.</s>
+        <s>Probably his thoughts were, that since there is no war in <name type="geo">New York</name> everything would be better than <name type="geo">Iraq</name>.</s>
+      </p>
+      <p>
+        <s>Since they came from <name type="geo">Iraq</name>, there weren't racism on them.</s>
+        <s>Is racism so harmful for him?</s>
+        <s>We know a lot of newspaper where people from other ethnic groups get shot, does he really <choice><orig>wants</orig><reg>want</reg></choice> to take this risk?</s>
+        <s>The racism is probably way more harmfuller for him, <choice><orig>then</orig><reg>than</reg></choice> living in anxiety.</s>
+      </p>
+      <p>
+        <s>Another reason for his immigration would be to get a better education for his children and better jobs for his wife and him.</s>
+        <s><name type="person">Faraj</name> doesn't just <choice><orig>thinks</orig><reg>think</reg></choice> about him, his family is very important for him, he wants to give them and himself the <choice><orig>succes</orig><reg>success</reg></choice> they deserve.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

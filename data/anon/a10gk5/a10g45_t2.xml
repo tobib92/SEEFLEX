@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g45_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following analysis I will <choice><orig>analize</orig><reg>analyze</reg></choice> the use of stylistic devices in the <choice><orig>Blog</orig><reg>blog</reg></choice> <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk5_1" type="author">Ankita Mitra</ref>.</s>
+      </p>
+      <p>
+        <s>When we take a look at the structure first, we can see that the text is structured in <choice><orig>Paragraphs</orig><reg>paragraphs</reg></choice> and each have different amount of lines.</s>
+      </p>
+      <p>
+        <s>In the text we can find lots of <choice><orig>Enumerations</orig><reg>enumerations</reg></choice>.</s>
+        <s>In l. 6 <quote>no man, no ...</quote> the author underlines how important the planet is with <choice><orig>a</orig><reg>an</reg></choice> enumeration.</s>
+      </p>
+      <p>
+        <s>She wants to express that every life couldn't be without the earth.</s>
+        <s>Another enumeration the author used is in the next line, l. 7 <quote>oxygen, nitrogen ...</quote>.</s>
+        <s>With the listing of the components of the <choice><orig>Biosphere</orig><reg>biosphere</reg></choice>, she wants to highlight that we need many <choice><orig>Elements</orig><reg>elements</reg></choice> to live and we shouldn't destroy one of them.</s>
+        <s>Some communicative strategies we can find are in l. 15 and in l. 36.</s>
+        <s>In l. 15 <quote>at the cost of our health</quote> and in l. 24-25 <quote>The water we drink...</quote> <ref target="a10gk5_1" type="author">Ankita Mitra</ref> <choice><orig>write</orig><reg>writes</reg></choice> the sentences that we are get involved in the pollution, because our water is contaminated and it is dangerous for our health.</s>
+        <s>She wants to reach that we are <choice><orig>gonna</orig><reg>going to</reg></choice> be more active and that we help us self and other people.</s>
+        <s>In the last line l. 36 <quote>If we fail to restore ...</quote> we can maybe see the most important sentence in her blog.</s>
+        <s>With this sentence she wants that we think about what can happen and that we get afraid of this.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a10gk5_1" type="author">Ankita Mitra</ref> <choice><orig>write</orig><reg>writes</reg></choice> her text very hard, because she wants, that we are active.</s>
+        <s>She says that the pollution involves us too and not only the person in <name type="geo"><choice><orig>africa</orig><reg>Africa</reg></choice></name> or something.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

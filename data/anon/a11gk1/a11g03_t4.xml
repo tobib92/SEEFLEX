@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g03_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Derrick,</salute>
+      </p>
+      <p>
+        <s>I found an article about discrimination against African Americans in the <name type="geo">USA</name>, which I think is pretty important.</s>
+        <s>I mean it is a well-discussed topic and through the <name type="misc">Black Lives Matter</name> movement a part of social media and in the news.</s>
+      </p>
+      <p>
+        <s>But first of all how are you doing.</s>
+        <s>Are you parents fine?</s>
+        <s>Do yo ustill plan that trip to <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>?</s>
+        <s>And the most important thing - do you still play basketball?</s>
+      </p>
+      <p>
+        <s><add>Back to the article</add> The article <ref target="a11gk1_2" type="title"> Schwarze in der USA: Der Rassismus ist messbar"</ref>, written by <ref target="a11gk1_2" type="author">Alexandra Endres</ref> and published in the <date>August of 2014</date> by <name type="misc">ZEIT Online</name>, points out important aspects about racism and discrimination of African Americans.</s>
+      </p>
+      <p>
+        <s>The author describes how a 18 year old African American <add><name type="person">Michael Brown</name></add> was shot by a police officer and that the social would think that racism is past.</s>
+      </p>
+      <p>
+        <s>He also mentioned how statistics prove, that black Americans are not treated equally - e.g. chance to get pulled over by a police officer.</s>
+      </p>
+      <p>
+        <s>Another point is that white <choice><orig>americans</orig><reg>Americans</reg></choice> would have a much higher quote and level of graduation.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk1_2" type="author">Endres</ref> then finishes of by telling the reader that black <choice><orig>americans</orig><reg>Americans</reg></choice> would have less often a job than white <choice><orig>americans</orig><reg>Americans</reg></choice> <add>25% of black <choice><orig>americans</orig><reg>Americans</reg></choice>are living in poverty: less than 10% - white <choice><orig>americans</orig><reg>Americans</reg></choice></add>.</s>
+      </p>
+      <p>
+        <s>I hope this wasn't disturbing for you and I hope to hear from you soon.</s>
+        <s>At the end I want to ask you if you ever experienced something like that - if so, I am sorry.</s>
+      </p>
+      <p>
+        <s>Write me back and greetings,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

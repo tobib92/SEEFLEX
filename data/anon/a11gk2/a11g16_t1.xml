@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g16_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given speech <ref target="a11gk2_1" type="title">On the American Dream</ref> by <ref target="a11gk2_1" type="speaker">Barack Obama</ref> delivered on <date>November the 7th 2007</date> at <name type="geo">Bettendorf, Iowa</name> is about the core reasons for fighting for the American Dream.</s>
+      </p>
+      <p>
+        <s>To open with he starts by talking about his journey, about what people he has seen and he <choice><orig>have</orig><reg>has</reg></choice> learned.</s>
+        <s>Therefore <ref target="a11gk2_1" type="speaker">Obama</ref> underlines his good impression of the <choice><orig>american</orig><reg>American</reg></choice> people and talks about the values health care, education and opportunity for their kids he and his sister want.</s>
+        <s>Secondly he refers to his grandparents and their difficult story and that everyone can live a wealthy and good life if they work hard.</s>
+        <s>Then he also refers to his mother and his reason why he believes in the American Dream based on his <gap reason="illegible" quantity="1" unit="word">EDIT</gap>.</s>
+        <s>Last but not least he then talks about his won experiences as a community organizer in which he personally solves social problems and unites people just like in the American Dream.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

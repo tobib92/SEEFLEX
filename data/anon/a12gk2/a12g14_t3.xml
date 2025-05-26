@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g14_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref> thinks that language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing.</s>
+        <s>The counterarguments is that since English is already the <choice><orig>worldlanguage</orig><reg>world language</reg></choice> <choice><orig>there'd</orig><reg>there's</reg></choice> no necessity in learning foreign languages.</s>
+        <s>Both statements show the truth.</s>
+        <s>Many countries in the world have English as an official language or at the very least actively teach it in schools.</s>
+        <s>A country that's often looked up upon here is <name type="geo">India</name> in that it fulfills both as an emerging market making it relatively easy for pure <choice><orig>Englishspeakers</orig><reg>English speakers</reg></choice> to build ties.</s>
+        <s>But there are still plenty of places that don't have English as an official language.</s>
+        <s>And among those places one can also find <choice><orig>schoolsystems</orig><reg>school systems</reg></choice> that don't put enough emphasis on teaching English.</s>
+        <s>Either due to conservatism or due to a lack of proper funding.</s>
+        <s>Such places get much harder to access if someone is purely reliant on a translator.</s>
+        <s>Not only hinders this working efficiently, it also fails at integrating <choice><orig>it's</orig><reg>its</reg></choice> system into a different culture.</s>
+        <s>In our globalized world companies like to outsource workplaces and even workforce.</s>
+        <s>This means that modern business ties go beyond simple cooperative agreements.</s>
+        <s>They range to a cultural <choice><orig>extend</orig><reg>extent</reg></choice> in which both sides have to communicate on the same wavelength and understand each other.</s>
+        <s>This is a <choice><orig>somthing</orig><reg>something</reg></choice> no translator in the world can achieve.</s>
+        <s>If an English teacher from the <name type="geo">UK</name> is said to work in <name type="geo">Japan</name> for instance, he'll face a totally different <choice><orig>enviroment</orig><reg>environment</reg></choice> with a totally different society.</s>
+        <s>Communication between him and the natives makes adapting to the norms a <choice><orig>neccesity</orig><reg>necessity</reg></choice>.</s>
+        <s>And the biggest single thing he can do is learning the language.</s>
+        <s>So I agree that language learning is essential for prosperity in a globalized world.</s>
+        <s>A native <choice><orig>Englishspeaker</orig><reg>English speaker</reg></choice> with a translator cannot achieve the same level of effective communication and adaption as someone who can understand a foreign language.</s>
+        <s>It reinforces ties and helps to succesfully leap into new markets.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

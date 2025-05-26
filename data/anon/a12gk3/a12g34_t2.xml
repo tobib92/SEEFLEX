@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g34_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given newspaper article extract <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref>, written by <ref target="a12gk3_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on <date>27 January 2015</date>, deals with learning of foreign language.</s>
+        <s>The author <ref target="a12gk3_1" type="author">John Worne</ref> begins in the newspaper article extract with the words can't, won't, don't, which are also given in the title, to underline the opinion of students who don't learn a foreign language.</s>
+        <s>The title and the start have <choice><orig>a</orig><reg>an</reg></choice> eye catching headline to get the attention of the reader.</s>
+        <s>Furthermore he continues with the fact that in the past seven years fewer students choosing to study foreign languages.</s>
+      </p>
+      <p>
+        <s>the school exam results <choice><orig>underlines</orig><reg>underline</reg></choice> this issue, because 10,000 fewer language <name type="misc">A-level</name> exams were taken one year ago.</s>
+        <s>The problem and the reason, my language learning is stalled is that everyone can use his or her smartphone to translate.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> arguments that language learning is vital for the <name type="geo">United Kingdom's</name> <choice><orig>futer</orig><reg>future</reg></choice> and global standing, because languages are essential for the communication we need to trade or for cultural exports, diplomacy and national security.</s>
+      </p>
+      <p>
+        <s>now it's difficult to support language learning, because many businesses in the <name type="geo">United Kingdom</name> make use of <choice><orig>translaters</orig><reg>translators</reg></choice> and not of <choice><orig>hom-grown</orig><reg>home-grown</reg></choice> talent.</s>
+        <s>Besides <ref target="a12gk3_1" type="author">John Worne</ref> thinks it's important, that many universities are offering students the chance to study a language alongside another degree subject, but more students should opting to do so.</s>
+        <s>Moreover he ends with an appeal to <name type="geo">UK</name> parents.</s>
+      </p>
+      <p>
+        <s>parents have to think more about languages, <choice><orig>espially</orig><reg>especially</reg></choice> at home.</s>
+        <s>To <ref target="a12gk3_1" type="author">John <choice><orig>Wornes</orig><reg>Worne's</reg></choice></ref> communicative strategies one can say <choice><orig>its</orig><reg>it's</reg></choice> an <choice><orig>emotial</orig><reg>emotional</reg></choice> text, because of his personal opinion and writing style.</s>
+        <s>He often uses rhetorical sentences which he corrects shortly after written that.</s>
+        <s>For example <quote>Everyone speaks English in the world of business (they don't)...</quote> <ref target="a12gk3_1" type="line">(ll. 12-13)</ref>.</s>
+        <s>Also interesting is that he says words like <quote>Cobblers</quote> to signalize a near to the reader.</s>
+        <s>At the <choice><orig>End</orig><reg>end</reg></choice> he writes a compare that a lawyer with <choice><orig>chinese</orig><reg>Chinese</reg></choice> language skills is more demand than a simple lawyer or linguist.</s>
+        <s>The article is relative objective, but sometimes <ref target="a12gk3_1" type="author">John Worne</ref> is subjective hen he arguments.</s>
+      </p>
+      <p>
+        <s>To the end one can say that language learning is important for the further education of student in the <name type="geo">United Kingdom</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

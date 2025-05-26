@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>c12l06_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Shakespeare,</salute>
+      </p>
+      <p>
+        <s>it is honor for me <choice><orig>recieving</orig><reg>receiving</reg></choice> this sonnet.</s>
+        <s>It connects to the season winter right now and shows all of my own emotions too.</s>
+        <s>I like the way how you are connecting those words to each other and how you describe them.</s>
+        <s>When I read that earlier the day I already missed summer even more.</s>
+      </p>
+      <p>
+        <s>Your sonnets and dramas are amazing.</s>
+        <s>Inventing 700 new words is <choice><orig>quit</orig><reg>quite</reg></choice> a lot but also interesting while reading.</s>
+        <s>It gives a completely new type of reading with this mixture.</s>
+      </p>
+      <p>
+        <s>As I said it is an honor for me <choice><orig>recieving</orig><reg>receiving</reg></choice> this sonnet in personal from a great author like you.</s>
+        <s>I am going to present this personal sonnet to my grand childs one day and then they wouldn't believe it.</s>
+      </p>
+      <p>
+        <s>You are a big part of <choice><orig>british</orig><reg>British</reg></choice> literature and culture.</s>
+      </p>
+      <p>
+        <s>See you then and God bless you,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

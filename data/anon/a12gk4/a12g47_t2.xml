@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g47_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following the given article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref> from <ref target="a12gk4_1" type="author">John Worne</ref> published on the <date>27th of January in 2015</date> by <name type="misc">The Telegraph</name> will be analysed by <choice><orig>it's</orig><reg>its</reg></choice> communicative strategies and use of language.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> examines the issue of the <name type="geo">UK</name> that they need to improve their foreign language skills and claims that the problem of growing the number of students studying and learning foreign languages should be solved by the parents.</s>
+        <s>His text is structured by first focusing on the problem with topical references, then pointing the <choice><orig>importance</orig><reg>important</reg></choice> arguments out and at the end giving a conclusion.</s>
+        <s>The reader gets interested and feels educated first and maybe <choice><orig>think</orig><reg>thinks</reg></choice> about change after that.</s>
+      </p>
+      <p>
+        <s>His communicative <choice><orig>strategie</orig><reg>strategy</reg></choice> and use of language is in a formal way.</s>
+        <s><ref target="a12gk4_1" type="author">John Worne's</ref> explanations for arguments and convincing for change is for example underlined with facts of numbers and a survey.</s>
+        <s><choice><orig>Therefor</orig><reg>Therefore</reg></choice> words like <quote>essential</quote> <ref target="a12gk4_1" type="line">(l. 25)</ref> or <quote>particularly</quote> <ref target="a12gk4_1" type="line">(l. 40)</ref> are well-spoken and appealing for the reader to get familiar to this topic.</s>
+        <s>His writing <choice><orig>strategie</orig><reg>strategy</reg></choice> is also catching interest, because for example in <ref target="a12gk4_1" type="line">line 38 to 39</ref> he's telling a fact or maybe <choice><orig>on</orig><reg>one</reg></choice> of the problems and right after that the conclusion, so what is needed.</s>
+        <s>All over the article <ref target="a12gk4_1" type="author">John Worne</ref> doesn't <choice><orig>stresses</orig><reg>stress</reg></choice> the political aspect.</s>
+        <s>He even <choice><orig>exclude</orig><reg>excludes</reg></choice> it out of the topic <ref target="a12gk4_1" type="line">(cf.l. 51)</ref>.</s>
+      </p>
+      <p>
+        <s><choice><orig>Therefor</orig><reg>Therefore</reg></choice> the <choice><orig>politics</orig><reg>politicians</reg></choice> can't do anything and the parents should change the issue for a better future for their students.</s>
+        <s>The majority of <choice><orig>british</orig><reg>British</reg></choice> people reading this article feels addressed and <choice><orig>responsable</orig><reg>responsible</reg></choice>.</s>
+      </p>
+      <p>
+        <s>All in <choice><orig>one</orig><reg>all</reg></choice> <ref target="a12gk4_1" type="author">John Worne</ref> tried to catch the most <choice><orig>reader</orig><reg>readers</reg></choice> of this article by manipulating the focus on addressed people and using formal strategies to get more authority.</s>
+      </p>
+      <p>
+        <s>He wants to get a change and convince people how to do better by pointing out why and how.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

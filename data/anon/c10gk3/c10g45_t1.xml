@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g45_t1</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="recounting" genre_family="biographical recount">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello everbody,</salute>
+        <s>my <choice><orig>Name</orig><reg>name</reg></choice> is <name type="person">Faraj al-Byarshan</name>, I'm 41 years old and in year <date>2005</date> I immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name>.</s>
+        <s>Today I would like to describe my experiences of immigrating to <name type="geo">New York</name> also including my family situation, my reasons for immigration, the positive and negative experiences and my hopes for the future.</s>
+      </p>
+      <p>
+        <s>First of all, when I immigrated to <name type="geo">New York</name> in year <date>2005</date> my wife and my two sons were still in <name type="geo">Iraq</name>.</s>
+        <s>When they immigrated it was year <date>2007</date>, so I was here, two years without my family not knowing how they are going or if they are still alive.</s>
+        <s>When they came here I was <choice><orig>verry</orig><reg>very</reg></choice> happy, that they made it and today we are a better team, than before everything we need to deal with made us stronger, than we have ever been.</s>
+        <s>I immigrated to <name type="geo">New York</name> with the hope to have a better life here, with better living conditions, a better work for me and my wife and a better education for my two sons.</s>
+        <s>I would like my sons to reach more than I did so I try to faciliate everything I can for them.</s>
+        <s>I don't wanted my sons to grew up in the <name type="geo">Iraq</name> so I needed to do something and that's why I came to the conclusion to immigrate to <name type="geo">New York</name>.</s>
+        <s>Of course, such an immigration deals with positive and negative experiences, but all that was worth it, when I see, what I have for a beautiful life now.</s>
+        <s>First I needed to experience, that it isn't easy to come across the border, it was a hard way for me and I tried it more than one time.</s>
+        <s>Second I <choice><orig>coud</orig><reg>could</reg></choice> have died during, but I didn't so I don't overthink that anymore.</s>
+        <s>But on the other side, there are also positive aspects, I wasn't alone during this whole experience, we were a big group trying to cross the border and it makes me very happy to see how many of them reach and finally cross the border.</s>
+        <s>Weighting these aspects I would always decide by trying and not by giving up.</s>
+        <s>You need to see, what you can reach if you try your best and that the life you can <choice><orig>life</orig><reg>live</reg></choice> in for example: <name type="geo">New York</name> is so much better than the life in the <name type="geo">Iraq</name>.</s>
+      </p>
+      <p>
+        <s>For the future, I hope, that I can always <choice><orig>life</orig><reg>live</reg></choice> here in <name type="geo">New York</name> and that many people from <choice><orig>countrys</orig><reg>countries</reg></choice> with wars can reach the border to a better life.</s>
+        <s>Once you are here your life just gets better and easier and not worser and more difficult so believe in yourself and have a better life.</s>
+        <s>It was the best decision, I have ever made to immigrate to <name type="geo">New York</name> with my family and I'm <choice><orig>thankfull</orig><reg>thankful</reg></choice> for everything they do here for immigrants.</s>
+      </p>
+      <p>
+        <s>Thank you everybody for letting me telling you my story and may motivate others to immigrate.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

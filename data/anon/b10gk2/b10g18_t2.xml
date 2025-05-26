@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g18_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following text, the scene is analyzed and gets structured, in usage of film-stylistic devices.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> in this scene sympathizes with <ref target="b10gk2_1" type="character">Chris</ref>, who uses his selfmade beat to easen up  <ref target="b10gk2_1" type="character">Starr's</ref> mood and the tension.</s>
+      </p>
+      <p>
+        <s>The scene can be divided into 3 parts.</s>
+      </p>
+      <p>
+        <s>In the first part <ref target="b10gk2_1" type="character">Chris</ref> is introduced.</s>
+      </p>
+      <p>
+        <s>The usage of music plays a big part in his introduction, letting the spectatot know <add>(how  <ref target="b10gk2_1" type="character">Starr</ref> views him)</add> of the relationship between  <ref target="b10gk2_1" type="character">Starr</ref> and <ref target="b10gk2_1" type="character">Chris</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> gets introduced in wide <add>(shots)</add> shot sizes, that give away how he is viewed in  <ref target="b10gk2_1" type="character">Starr's</ref> eyes, centering him in the following shots and blurring the students in his vicinity.</s>
+      </p>
+      <p>
+        <s>The first part of the scene ends with <ref target="b10gk2_1" type="character">Chris</ref> noticing  <ref target="b10gk2_1" type="character">Starr</ref> and the camera moving to  <ref target="b10gk2_1" type="character">Starr</ref> as <ref target="b10gk2_1" type="character">Chris</ref> makes eye contact.</s>
+      </p>
+      <p>
+        <s>With a close up, the situation tenses up and <ref target="b10gk2_1" type="character">Chris</ref> approaches  <ref target="b10gk2_1" type="character">Starr</ref> from behind.</s>
+      </p>
+      <p>
+        <s>The tension easens with <ref target="b10gk2_1" type="character">Chris</ref> showing  <ref target="b10gk2_1" type="character">Starr</ref> his self-made beat.</s>
+        <s>You can interpret this as an apology of <ref target="b10gk2_1" type="character">Chris</ref> and a way to start <choice><orig>of</orig><reg>off</reg></choice> the (conversation).</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> starts to sympathize with <ref target="b10gk2_1" type="character">Chris</ref>, which is shown through her facial expression.</s>
+      </p>
+      <p>
+        <s>The scene makes it clear when tension breaks, through music.</s>
+      </p>
+      <p>
+        <s>A conversation follows in which the camera is positioned on eye level in a medium close up.</s>
+        <s>No music plays as this is a serious conversation, which is not only shown through facial expression, but through the tensed up mood.</s>
+        <s>You can recognize how <ref target="b10gk2_1" type="character">Chris</ref> leads the situation by staying calm.</s>
+      </p>
+      <p>
+        <s>The third part of the scene starts at the end of the conversation, as the camera focuses on the phone of <ref target="b10gk2_1" type="character">Chris</ref>, which he then unpluggs.</s>
+      </p>
+      <p>
+        <s>The third part is mostly music, giving away the resulting mood as they made up.</s>
+      </p>
+      <p>
+        <s>The color pannel is mostly pale, as this plays in  <ref target="b10gk2_1" type="character">Starr's</ref> school.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

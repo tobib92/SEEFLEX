@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l41_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey my <choice><orig>fried</orig><reg>friend</reg></choice>,</salute>
+      </p>
+      <p>
+        <s><choice><orig>i</orig><reg>I</reg></choice><choice><orig>red</orig><reg>read</reg></choice> an article about chess at school which <choice><orig>i</orig><reg>I</reg></choice> like to present you.</s>
+      </p>
+      <p>
+        <s>So the teachers in <name type="geo">Germany</name> think that chess has positive effects on the concentration, the logical and strategical thinking.</s>
+        <s>About a year ago there was a <choice><orig>Turnament</orig><reg>tournament</reg></choice> in the central of the city <name type="geo">Bremen</name>, where 1000 pupils who had 1 hour of school lesson per week as training played against each other.</s>
+        <s>In this year 2400 elementary school pupils in <name type="geo">Bremen</name> got 1 hour per week as <quote>chess lesson</quote> <name type="geo">Bremen</name> is the leading city of school chess in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>72% of teachers said the pupils are happy and enjoy to play 1 hour of chess per week.</s>
+        <s>23% said that the kids also play in their free time.</s>
+        <s>But why chess?</s>
+        <s>Nearly half of the pedagogues expected that logical and strategical thinking will benefit from it, 37%, expected that concentration and the social life in class gets better.</s>
+        <s>Nearly every teacher got his expectations fulfilled.</s>
+        <s>Scientist <name type="person">Iris Krimet</name> also said that good players get bored and bad players lose their lust to play.</s>
+        <s><name type="person">Nina Helmer</name> says that she got forced to play chess in the <name type="geo">Soviet Union</name> in school and that a result in that could be that a hate develops.</s>
+        <s>Some positive effects are learning consequences in your choices, stick to rules, and learning to lose says <name type="geo">Günther Klemm</name>.</s>
+        <s>Younger pupils can beat older ones and bad ones can under circumstances beat the better ones.</s>
+        <s>In the last lessons at a school day naturally the concentration is not as high.</s>
+        <s>There is one school in <name type="geo">Hamburg</name> where chess is forced to play 1 hour a week.</s>
+        <s>In second grade chess is replaced with Arts or Music, in 3rd grade with Math and in 4th grade with German.</s>
+        <s>In 10 years of experience with chess at school, <name type="person">Gabriele Rietow</name> says that the lesson has positive impacts on the general learning, the communication between older and younger pupils and social behavior and the concentration.</s>
+        <s>There is a difference, even though girls are equally as good as boys they don't attend <choice><orig>Turnaments</orig><reg>tournaments</reg></choice> as often as the <choice><orig>Boys</orig><reg>boys</reg></choice>.</s>
+        <s><name type="person">Rietow</name> said boys want to compete and compare each other more than girls do.</s>
+      </p>
+      <p>
+        <s>Okay <choice><orig>i</orig><reg>I</reg></choice> hope <choice><orig>i</orig><reg>I</reg></choice> could help you.</s>
+        <s><choice><orig>i</orig><reg>I</reg></choice> tried to mediate as good as <choice><orig>i</orig><reg>I</reg></choice> can for you my friend.</s>
+        <s>Good luck in your presentation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

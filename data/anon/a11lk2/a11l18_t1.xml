@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l18_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given extract from <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref> is from <ref target="a11lk2_1" type="line">p. 71, l. 15 to p. 74, l. 15</ref>.</s>
+        <s>The play is about <ref target="a11lk2_1" type="character">Amir</ref>, a Muslim, who works at a Jewish <choice><orig>Law</orig><reg>law</reg></choice> firm, who <choice><orig>get's</orig><reg>gets</reg></choice> asked to defend a Muslim.</s>
+      </p>
+      <p>
+        <s>First, the scene starts with <ref target="a11lk2_1" type="character">Jory</ref>, who walks in on <ref target="a11lk2_1" type="character">Emily</ref> and her husband <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>She sees them and thinks they are having an affair.</s>
+        <s>After <ref target="a11lk2_1" type="character">Amir</ref> enters, who is angry, <ref target="a11lk2_1" type="character">Jory</ref> immediately confronts them, but they deny it.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> who is still angry at <ref target="a11lk2_1" type="character">Jory</ref> thinks, that after she stole his job, she also wants to ruin their marriage.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> keep <choice><orig>dening</orig><reg>denying</reg></choice> that they are having an affair and explain to <ref target="a11lk2_1" type="character">Jory</ref> that <ref target="a11lk2_1" type="character">Emily</ref> was crying and he comforted her.</s>
+      </p>
+      <p>
+        <s>Secondly, when <ref target="a11lk2_1" type="character">Jory</ref> tries to leave <ref target="a11lk2_1" type="character">Amir</ref> gets vicious towards <ref target="a11lk2_1" type="character">Jory</ref> who keeps accusing them.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> says that <ref target="a11lk2_1" type="character">Jory</ref> was given preferential treatment at the law firm.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Isaac</ref> gets annoyed by <ref target="a11lk2_1" type="character">Amir</ref> and wants <ref target="a11lk2_1" type="character">Jory</ref> to leave, but she still does not <choice><orig>belive</orig><reg>believe</reg></choice> him about the <choice><orig>affaire</orig><reg>affair</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The scene between <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Amir</ref> quickly <choice><orig>escalades</orig><reg>escalates</reg></choice> and they are about to get into a fight when <ref target="a11lk2_1" type="character">Amir</ref> spits into <ref target="a11lk2_1" type="character">Isaac's</ref> face.</s>
+        <s>He wipes his face and leaves.</s>
+      </p>
+      <p>
+        <s><choice><orig>Befor</orig><reg>Before</reg></choice><ref target="a11lk2_1" type="character">Jory</ref> follows him, she tells <ref target="a11lk2_1" type="character">Amir</ref> that <ref target="a11lk2_1" type="character">Mort</ref>, who is <ref target="a11lk2_1" type="character">Amir's</ref> friend, is going to retire and that he doesn't trust him to take over his cases from the law firm.</s>
+      </p>
+      <p>
+        <s>Lastly, <ref target="a11lk2_1" type="character">Jory</ref> leaves the stage and only <ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Amir</ref> are left.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> leaves the room for a moment to bring some coffee.</s>
+        <s>When she comes back <ref target="a11lk2_1" type="character">Amir</ref> asks her if <ref target="a11lk2_1" type="character">Jory's</ref> accusations were true and she is having an affair.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> starts shaking and explained that it <choice><orig>happend</orig><reg>happened</reg></choice> in <name type="geo">London</name>.</s>
+      </p>
+      <p>
+        <s>After seeing his reaction <ref target="a11lk2_1" type="character">Emily</ref> tries to apologize and wants to unclue what <choice><orig>happend</orig><reg>happened</reg></choice> in <name type="geo">London</name>.</s>
+      </p>
+      <p>
+        <s>Suddenly <ref target="a11lk2_1" type="character">Amir</ref> starts hitting <ref target="a11lk2_1" type="character">Emily</ref> in the face, he suddenly realises what he had done and is shocked.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

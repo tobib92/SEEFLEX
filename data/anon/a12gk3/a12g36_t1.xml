@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g36_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> was published by <ref target="a12gk3_1" type="author">John Worne</ref> in <name type="misc">The Telegraph</name> at <date>January 27th 2015</date>.</s>
+        <s>It deals with the lost of foreign language in the <name type="geo">UK</name>, in connection to the importance of it for jobs in a globalized world.</s>
+      </p>
+      <p>
+        <s>At the beginning the author says, that many people from the UK are not interested in learning foreign language.</s>
+        <s>The number of students which are study foreign language are sadly going down since seven years in the <name type="geo">UK</name>.</s>
+        <s>A other point he mentioned is, that the number of <choice><orig>stundents</orig><reg>students</reg></choice> who are chooing foreign language at schools are also <choice><orig>gowing</orig><reg>going</reg></choice> down.</s>
+        <s>In <choice><orig>comparision</orig><reg>comparison</reg></choice> to the 1990s more than 10000 language <name type="misc">A-level</name> exams were taken.</s>
+      </p>
+      <p>
+        <s>Furthermore he says, that <choice><orig>itelligent</orig><reg>intelligent</reg></choice> people tell them not to <choice><orig>wory</orig><reg>worry</reg></choice> because everybody talks <choice><orig>english</orig><reg>English</reg></choice> in the <choice><orig>buisness</orig><reg>business</reg></choice> world.</s>
+        <s>But in his eyes that's not true and also the technological development is not such a good thing.</s>
+        <s>Besides this, different languages are important for the future of the <name type="geo">UK</name>, so you need them for trade or prosperity.</s>
+        <s>ALso he says, that with new fast-growing markets you have to be able to use foreign language skills, a survey from <name type="misc">CBI</name> showed that two-thirds of <name type="geo">UK</name> buisness need them.</s>
+        <s>In his opinion more people should use there <choice><orig>chanche</orig><reg>chance</reg></choice> to study a other language at universities.</s>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice><choice><orig>importent</orig><reg>important</reg></choice> for their future so he uses an example, that people who have Chinese language skills are in better positions to get a good job.</s>
+        <s>In his opinion the <name type="geo">UK</name> needs a lot of young people with foreign language skills to get a good future.</s>
+        <s>He says that parents of the <name type="geo">UK</name>, like him, have to bring different cultures and languages to their kids because the school and education sstem needs there help.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

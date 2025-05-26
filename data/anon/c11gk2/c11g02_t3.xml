@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will comment on the statement of <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> <quote>Brexit is clearly a lose-lose situation</quote>.</s>
+      </p>
+      <p>
+        <s>With the statement he <choice><orig>mean</orig><reg>means</reg></choice> that the <name type="misc">Brexit</name> for the <name type="misc">EU</name> and <name type="geo">UK</name> a problem and it will be follow by conflict.</s>
+      </p>
+      <p>
+        <s>I will accept with this statement because as he mentioned the <name type="misc">Brexit</name> will have impact on <choice><orig>alots</orig><reg>lots</reg></choice> of economic sectors, when we see now the problems that the <name type="geo">UK</name> now <choice><orig>have</orig><reg>has</reg></choice> with this sector and the problem trading system now, he is right.</s>
+        <s>On the other hand I will say that the <name type="misc">EU</name> actually doesn't have an impact as well as the <name type="geo">UK</name> <choice><orig>have</orig><reg>has</reg></choice> from the economic way, maybe just a minimal impact.</s>
+        <s>But the huge problem for the <name type="misc">EU</name> and which can accept the statement is that the countries of the <name type="misc">EU</name> can take an example at <name type="misc">Brexit</name> from the <name type="geo">UK</name> and which includes to more conflict and initially for the <name type="misc">EU</name> and for <choice><orig>hole</orig><reg>whole</reg></choice> <name type="geo">Europe</name>.</s>
+      </p>
+      <p>
+        <s>All in all I accept the statement but in a <choice><orig>diffrant</orig><reg>different</reg></choice> view as the view from <ref target="c11gk2_1" type="speaker">Barnier</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

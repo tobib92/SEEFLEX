@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g49_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey <name type="person">Hannah</name>,</salute>
+      </p>
+      <p>
+        <s>how is <choice><orig>everythin</orig><reg>everything</reg></choice> going, are U fine?</s>
+      </p>
+      <p>
+        <s>I heard you want to know more about <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name>?</s>
+      </p>
+      <p>
+        <s><choice><orig>Shure</orig><reg>Sure</reg></choice>!</s>
+      </p>
+      <p>
+        <s>For you as an <choice><orig>english speaking</orig><reg>English-speaking</reg></choice> person <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name> is very attractive, because most of the people can speak <choice><orig>english</orig><reg>English</reg></choice> and due many people that came to <name type="geo">Berlin</name> from <name type="geo">Australia</name>, <name type="geo"><choice><orig>Sidney</orig><reg>Sydney</reg></choice></name>, <name type="geo">America</name> and <name type="geo"><choice><orig>Brooklin</orig><reg>Brooklyn</reg></choice></name> some years ago it is very similar to <name type="geo">London</name>.</s>
+      </p>
+      <p>
+        <s>Most of the visitors are tourists and leave again after their visit, but some of them stay.</s>
+        <s>Sometimes it happens that you only hear <choice><orig>english speaking</orig><reg>English-speaking</reg></choice> people while walking <choice><orig>thru</orig><reg>through</reg></choice> some parts of <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s>In other ones live mostly <choice><orig>turkish</orig><reg>Turkish</reg></choice> or <choice><orig>arabic</orig><reg>Arabic</reg></choice> people so you will hear <choice><orig>there</orig><reg>their</reg></choice> languages and see many <choice><orig>imigrants</orig><reg>immigrants</reg></choice>.</s>
+        <s>If you want to eat <choice><orig>somethin</orig><reg>something</reg></choice> in <name type="geo">Neukölln</name> you mostly have to order in <choice><orig>english</orig><reg>English</reg></choice> and the food is also written in <choice><orig>english</orig><reg>English</reg></choice> on the card.</s>
+      </p>
+      <p>
+        <s><name type="person">David Walker</name> thinks that <name type="geo">Berlin</name> is a bubble with <choice><orig>cafes</orig><reg>cafés</reg></choice> and stores that make you feel like you are in an <choice><orig>american</orig><reg>American</reg></choice> state.</s>
+        <s>He produces apps and in his <choice><orig>firma</orig><reg>firm</reg></choice> the communication is in <choice><orig>english</orig><reg>English</reg></choice> only.</s>
+        <s>This is <choice><orig>completly</orig><reg>completely</reg></choice> normal and clear for him.</s>
+      </p>
+      <p>
+        <s><name type="person">Orla Baumgarten</name> is the owner of a bookstore for only <choice><orig>englisch</orig><reg>English</reg></choice> books that she sells very well.</s>
+        <s>One time per month they all meet to read <choice><orig>englisch</orig><reg>English</reg></choice> books.</s>
+      </p>
+      <p>
+        <s>In <name type="geo"><choice><orig>doublin</orig><reg>Dublin</reg></choice></name> she <choice><orig>couldnt</orig><reg>couldn't</reg></choice> afford this store because it is <choice><orig>to</orig><reg>too</reg></choice> expensive.</s>
+      </p>
+      <p>
+        <s>The culture and <choice><orig>enviromant</orig><reg>environment</reg></choice> of <name type="geo"><choice><orig>belin</orig><reg>Berlin</reg></choice></name> is so <choice><orig>beautifull</orig><reg>beautiful</reg></choice> and its hype continues.</s>
+        <s>The rents are low so everything about <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name> is beautiful.</s>
+        <s>I hope you can <choice><orig>emagine</orig><reg>imagine</reg></choice> <name type="geo">Berlin</name> now a little bit better.</s>
+      </p>
+      <p>
+        <s>Hope to see you soon in <name type="geo">Berlin</name></s>
+      </p>
+      <p>
+        <signed>Yours Jane, xoxo</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

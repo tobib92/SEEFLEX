@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12g31_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I would agree with <ref target="a12gk3_1" type="author">Worne's</ref> claim that language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing.</s>
+      </p>
+      <p>
+        <s>I think English as only language which one can speak isn't enough especially, because nobody knows how long English will be that dominant as global language as they use nowadays.</s>
+        <s>Another point is that, as <ref target="a12gk3_1" type="author">Worne</ref> also mentioned in his article, employers who have language skills added to their specialist skills are more in demand as employers who only have specialist skills.</s>
+        <s>This combination gives someone better chances to get a job and it's also a big advantage for someone in the competition of a place of work.</s>
+      </p>
+      <p>
+        <s>The point that everyone speaks ENglish in the world is not that good in my opinion.</s>
+        <s>Just because nearly everyone in the world speaks English that <choice><orig>don't</orig><reg>doesn't</reg></choice> mean that the native English speaker can communicate with everyone.</s>
+        <s>Of course it's <choice><orig>a</orig><reg>an</reg></choice> advantage but it would be better if they also could speak another languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

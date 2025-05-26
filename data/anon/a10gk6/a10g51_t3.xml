@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g51_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion, the most necessary and feasible option of saving our earth is changing our <choice><orig>realationship</orig><reg>relationship</reg></choice> with food.</s>
+        <s>The production of meat causes a massive amount of <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> and it's not even necessary.</s>
+        <s>We don't need meat, there are so many fake products that cause less pain and damage.</s>
+        <s>Us consuming meat in the modern way, has more effects on environmental pollution than all vehicular traffic.</s>
+        <s>Starting with one <q>veggie-day</q> a week at schools and work places is a great start of exploring more vegetarian meals and less torture for animals and environment.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

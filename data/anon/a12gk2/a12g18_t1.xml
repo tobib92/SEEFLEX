@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g18_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> written by <ref target="a12gk2_1" type="author">John Worne</ref> and published in <name type="misc">The Telegraph</name> on <date>27 January 2015</date> deals with a steady decline of foreign language learning in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>First of all the author points out that less and less students in the <name type="geo">UK</name> study foreign languages and that there is just little hope that it is getting better in the future.</s>
+        <s>But therefore <ref target="a12gk2_1" type="author">Worne</ref> on the one hand mentions that there are more offers today to learn a language in primary school.</s>
+        <s>But on the other hand uptake of languages in secondary schools and <choice><orig>A-levels</orig><reg>A Levels</reg></choice> came to a stillstasnd.</s>
+        <s>Moreover fewer people are writing exams in modern foreign languages.</s>
+        <s>Furthermore <ref target="a12gk2_1" type="author">Worne</ref> points out that it is important for the <name type="geo">UK</name> business to speak a lot of different languages.</s>
+        <s>At last the author claims that some universities started to give students a possibility to study a language beside their other subject.</s>
+      </p>
+      <p>
+        <s>John <choice><orig>Wornes</orig><reg>Worne's</reg></choice> personal view on the issue is that it is a <choice><orig>pitty</orig><reg>pity</reg></choice> that the number of people who speak foreign languages is getting fewer.</s>
+        <s>He believes that it is really important to speak different languages because of the globalisation and the worldwide connection.</s>
+        <s>Furthermore he thinks that it is especially important for the <choice><orig>economic</orig><reg>economy</reg></choice> of the <name type="geo">UK</name> because of <choice><orig>it's</orig><reg>its</reg></choice> export.</s>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> also makes clear the he believes that with different language skills are more <choice><orig>requestet</orig><reg>requested</reg></choice> for jobs.</s>
+        <s>At last he says that it is up to the parents of the <name type="geo">UK</name> to fix the school and education system.</s>
+      </p>
+      <p>
+        <s>All in all one can say that <ref target="a12gk2_1" type="author">Worne</ref> sees the steady decline of foreign language <choice><orig>speaker</orig><reg>speakers</reg></choice> in the <name type="geo">UK</name> as a big issue because of the globalisation and it is important to be able to communcate with everyone - <ref target="a12gk2_1" type="author">Worne</ref> claims that it is especially important for the <choice><orig>economic</orig><reg>economy</reg></choice> of the <name type="geo">UK</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

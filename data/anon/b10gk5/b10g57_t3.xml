@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g57_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I think that books have a big impact on <choice><orig>everyones</orig><reg>everyone's</reg></choice> life.</s>
+        <s>They save information for <choice><orig>hundrets</orig><reg>hundreds</reg></choice> of years and can also change the perspectives or <choice><orig>lifes</orig><reg>lives</reg></choice> of their readers.</s>
+        <s>In my opinion the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref> <choice><orig>portrayes</orig><reg>portrays</reg></choice> the very important story, that <ref target="b10gk5_1" type="author">Thomas</ref> tells with her book very good.</s>
+        <s>It showed me, that you should always speak up about things, because you are not the only one who suffers from them.</s>
+        <s>If you <choice><orig>dont</orig><reg>don't</reg></choice> speak up when something wrong happens, nothing will change and it's going to happen again and again, not just to you, but to other people too.</s>
+        <s>The movie showed, that you shouldn't change who you are, but that you should fight for yourself and your rights.</s>
+        <s>In my opinion the movie also shows, that many children or teenagers have to grow up way too fast and I think that's very unfair.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

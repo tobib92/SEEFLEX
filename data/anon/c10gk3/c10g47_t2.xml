@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g47_t2</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>This means that <name type="person">Reece</name> knows how hard it was for his grandparents when they came to <name type="geo">England</name> and he is aware of the things he must go through in <name type="geo">England</name> as a black person.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>This means that the reminding of the slavery and all the <choice><orig>memorys</orig><reg>memories</reg></choice> are not <choice><orig>helpfull</orig><reg>helpful</reg></choice> for the black communities.</s>
+        <s>Because of the history with all the racism <choice><orig>its</orig><reg>it's</reg></choice> now hard for black people in many countries to get along with racism.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>This sentence means that there is no slavery in many countries anymore but it still has a bad impact of many people.</s>
+        <s>There is still so <choice><orig>mutch</orig><reg>much</reg></choice> racism in many countries.</s>
+        <s>It already <choice><orig>chanced</orig><reg>changed</reg></choice> a lot but there are still many people who are intolerant.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>So now there are black people trying to help young black people to get along with their problems and to accept their origins.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>This means that it was earlier harder for black people.</s>
+        <s>It wasn't <q>cool</q> to be a black person.</s>
+        <s>But until now it changed a lot and there is less racism.</s>
+        <s>Now there are many public black musicians or producer, ... and many white children want to be black because they think <choice><orig>its</orig><reg>it's</reg></choice> <q>cooler</q>.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>It says that there are also black people with positive <choice><orig>memorys</orig><reg>memories</reg></choice> from the journey and are full of hope for their future.</s>
+        <s>Probably there is more hope for black people <choice><orig>then</orig><reg>than</reg></choice> earlier.</s>
+        <s>So racism still exists but it already changed a lot and it is getting better.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

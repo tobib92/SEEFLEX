@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>b11l24_t3</author>
+        <name>interior_monologue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="entertaining" genre_family="narrative">interior_monologue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Daisy</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As I am watching outside the window I think about what <name type="person">Nick</name> could possibly want from me.</s>
+        <s>Obviously I am very pleased to see him, it has been way <choice><orig>to</orig><reg>too</reg></choice> long since the last time but why was I supposed to come alone?</s>
+      </p>
+      <p>
+        <s>As the car arrives and <name type="person">Nick</name> helps me to get out, I whisper into his ear <u who="A"><s>Are you in love with me?</s><s>Or why did I have to come alone?</s></u> as a joke.</s>
+        <s>I smile at his response and do as he says, send <name type="person">Ferdie</name>, the drive away.</s>
+      </p>
+      <p>
+        <s>When we enter, <name type="person">Nick</name> says that something is funny, to my question what it is that's funny he gives no response.</s>
+        <s>Instead our conversation is interrupted by a knock on the door.</s>
+        <s>While <name type="person">Nick</name> leaves to answer the door I go ahead into the living room.</s>
+      </p>
+      <p>
+        <s>A minute later I hear steps, I want to ask <name type="person">Nick</name> who it was on the door but as I look up there is no sign of <name type="person">Nick</name>.</s>
+      </p>
+      <p>
+        <s>Instead there is a tall blonde man standing in the door.</s>
+        <s>I can't believe what I see.</s>
+        <s>Could it be...?</s>
+        <s>No, why would he be here at <name type="person"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></name> place.</s>
+        <s>As he moves closer I can get a better look at him and I realise it really is him.</s>
+      </p>
+      <p>
+        <s>My heart starts pounding heavily and I feel dizzy, how long has it been 4 years?</s>
+        <s>I don't know what to say, there he is <name type="person">Jay Gatsby</name> the former love of my <choice><orig>live</orig><reg>life</reg></choice>.</s>
+        <s>He looks at me but does not say anything so I say: <u who="A"><s>I certainly am so awfully glad to see you again</s></u>.</s>
+        <s>He doesn't <choice><orig>response</orig><reg>respond</reg></choice> which makes me feel uneasy, when <name type="person">Nick</name> enters the <choice><orig>akward</orig><reg>awkward</reg></choice> silence has been going on for way <choice><orig>to</orig><reg>too</reg></choice> long.</s>
+      </p>
+      <p>
+        <s>We do not really start a conversation, only short sentences and responses.</s>
+        <s><name type="person">Jay</name> tells me that in November it will be five yeats since we last saw each other.</s>
+      </p>
+      <p>
+        <s>I feel that each of us feels uncertain and does not know what to do.</s>
+        <s>A housekeeper brings us <choice><orig>tee</orig><reg>tea</reg></choice>, it tastes nice but shortly after <name type="person">Nick</name> wants to go and <name type="person">Jay</name> follows him.</s>
+      </p>
+      <p>
+        <s>Now I'm alone with my thoughts even though I cannot think straight.</s>
+        <s>I hear murmuring and I think that now I know why I was <choice><orig>supossed</orig><reg>supposed</reg></choice> to come alone.</s>
+      </p>
+      <p>
+        <s>A few minutes later <name type="person">Jay</name> reenters without <name type="person">Nick</name>.</s>
+        <s>He sits down across me on the sofa and starts talking.</s>
+        <s>He tells me about his life and how everything he has done was to win me back some day.</s>
+        <s>He tells me that he loves me and wants us to start a new life together.</s>
+      </p>
+      <p>
+        <s>I sit there and listen and slowly tears start falling down my cheeks.</s>
+        <s><name type="person">Jay</name> takes my hand and I hold it, he gives me warmth and hope but also confuses me.</s>
+        <s>I tell him about my life about how in the last minute I was thinking about not marrying <name type="person">Tom</name> because of him.</s>
+        <s>About my beautiful little daughter and how often I <choice><orig>though</orig><reg>thought</reg></choice> about reaching out to him.</s>
+      </p>
+      <p>
+        <s>Time flies and when <name type="person">Nick</name> suddenly comes back I don't want him to see me cry.</s>
+      </p>
+      <p>
+        <s>I wipe my tears away and listen to <name type="person">Jay</name> excitingly talking to <name type="person">Nick</name>.</s>
+        <s>I have to smile because I realise how much I have missed him and as he invites me and <name type="person">Nick</name> over to his house I'm excited about what I will see.</s>
+      </p>
+      <p>
+        <s>As we leave the room and <name type="person"><choice><orig>Nicks</orig><reg>Nick's</reg></choice></name> house and walk over to <name type="person">Jay's</name> house, he takes my hand and I take his.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

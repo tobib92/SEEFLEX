@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g02_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk1_1" type="title">Language learning in the<name type="geo">UK</name> can't, won't, don't</ref> from <ref target="a12gk1_1" type="author">John Worne</ref>, released to an unknown date, is about the foreign language of young people <choice><orig>wich</orig><reg>which</reg></choice> gets worse and what kind of problems it brings with.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk1_1" type="author">John Worne</ref> outlines that the ability to think get lost as well as the grades and language qualifications in school.</s>
+        <s>One reason for this can be the phones of students as <ref target="a12gk1_1" type="author">Worne</ref><ref target="a12gk1_1" type="author">John Worne</ref> say.</s>
+        <s>It takes over a lot of exercises and the effect is that people stop thinking about those <choice><orig>thinks</orig><reg>things</reg></choice>, the phone does <choice><orig>than</orig><reg>then</reg></choice>.</s>
+        <s>Another point from <ref target="a12gk1_1" type="author">John</ref> is that foreign language is needed in economy.</s>
+        <s>So if the language skill went down, the economy will go down as well.</s>
+        <s>On the other hand <ref target="a12gk1_1" type="author">John Worne</ref> wants more people to use the option to learn a language during learning a different subject.</s>
+        <s>At the end of his artucle he tells parents that they should have more thoughts about language to get a better system of education.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

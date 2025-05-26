@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g59_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Jane,</salute>
+      </p>
+      <p>
+        <s>if you think student exchanges are a waste of time you should <choice><orig>definitly</orig><reg>definitely</reg></choice> consider the arguments <ref target="c10gk4_1" type="speaker">Barack Obama</ref> provided in his speech <ref target="c10gk4_1" type="title">Remarks of president Barack Obama at student roundtable</ref> because they may change your opinion.</s>
+      </p>
+      <p>
+        <s>Student exchanges are a great way to rebuild a <choice><orig>realationship</orig><reg>relationship</reg></choice> with other countries, but even more crucial is the fact that you get to know other people and put your differences aside.</s>
+        <s>Therefore they are also a great way of getting rid of your prejudices.</s>
+        <s>It may be negative that you might get homesick, but there is always the opportunity to leave early if you really want to, so why not try?</s>
+        <s>In addition you also learn to be more <choice><orig>independant</orig><reg>independent</reg></choice> and the new language skills you get could even be helpful in school.</s>
+        <s>All in all you should reconsider your opinion because there are really a lot of advantages to going abroad.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

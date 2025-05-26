@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g29_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text written by <ref target="a10gk4_1" type="author">Ankita Mitra</ref> and published on the <date>5th February 2014</date> reflects the human behavior and how it is polluted by us.</s>
+      </p>
+      <p>
+        <s>The author uses the following stylistic devices to convince her message.</s>
+      </p>
+      <p>
+        <s>By employing the two <choice><orig>enumartions</orig><reg>enumerations</reg></choice> <ref target="a10gk4_1" type="line">(l. 6ff.)</ref> she stresses the substances the environment and world need to extend.</s>
+        <s>She <choice><orig>exspecially</orig><reg>especially</reg></choice> listed things <surplus>things</surplus> up to make the reader aware of what the people are taking from the planet or <foreign xml:lang="de">verschmutzen</foreign> these things.</s>
+        <s>With the repetition in line 10-11 she <choice><orig>emphazise</orig><reg>emphasizes</reg></choice> the rapidly grow and development of human potentials.</s>
+      </p>
+      <p>
+        <s>With the metaphora in line 18 she builds a picture in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind and states that eventually all the <choice><orig>industration</orig><reg>industrialization</reg></choice> is not helpful and is just a pollution for the environment.</s>
+      </p>
+      <p>
+        <s>In line 23-25 she lists up all the bad pollution and waste that are caused by cars or plastic.</s>
+      </p>
+      <p>
+        <s>She uses a <choice><orig>similie</orig><reg>simile</reg></choice> <ref target="a10gk4_1" type="line">(l. 29)</ref> to make the reader aware of what can happen if the humans do not control their <choice><orig>consupmtion</orig><reg>consumption</reg></choice> and stresses the consequences by this problem.</s>
+        <s>Another <choice><orig>similie</orig><reg>simile</reg></choice> is in line 34 with the explosion in <name type="geo">Hiroshima</name> <date>1945</date>.</s>
+      </p>
+      <p>
+        <s>In conclusion the author has a <choice><orig>negativ</orig><reg>negative</reg></choice> point of view and wants to convince the reader with her opinion.</s>
+        <s>All countries need to reduce the production to <choice><orig>safe</orig><reg>save</reg></choice> the world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

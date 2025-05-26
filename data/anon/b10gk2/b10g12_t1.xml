@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g12_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk2_1" type="title">The Hate U Give</ref> by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> which is based on the book with the same title by <ref target="b10gk2_1" type="author">Angie Thomas</ref>, was released in <date>2018</date>.</s>
+        <s>It's about a black girl called <ref target="b10gk2_1" type="character">Starr</ref> who deals, besides the problems of every teenager with racism.</s>
+      </p>
+      <p>
+        <s>The given excerpt takes place in <name type="misc">Williamson Prep School</name> where both <ref target="b10gk2_1" type="character">Starr</ref> and her white boyfriend <ref target="b10gk2_1" type="character">Chris</ref> go to school.</s>
+        <s>They are in a fight because <ref target="b10gk2_1" type="character">Chris</ref> overstepped a boundary by having a condom, although <ref target="b10gk2_1" type="character">Starr</ref> said she's not ready yet.</s>
+        <s>In the given scene <ref target="b10gk2_1" type="character">Chris</ref> comes up to <ref target="b10gk2_1" type="character">Starr</ref> <add>(who's at her locker)</add> to say sorry.</s>
+        <s>At first <ref target="b10gk2_1" type="character">Starr</ref> is still angry but after he dances in front of the other students to a beat he made for her, she forgives him.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

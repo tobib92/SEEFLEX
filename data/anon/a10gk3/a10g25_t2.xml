@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> by <ref target="a10gk3_1" type="author">Ankita Mitra</ref> published at <date>February 5, 2014</date> is about the pollution of the earth.</s>
+        <s>To understand the text easily, <ref target="a10gk3_1" type="author">Ankita Mitra</ref> used a clear structure.</s>
+        <s>At the beginning of the text, she describes the problems of the pollution of the world.</s>
+        <s>She also does this in the middle of the text <ref target="a10gk3_1" type="line">(l. 10-35)</ref>.</s>
+        <s>At the end of the text, <ref target="a10gk3_1" type="author">Ankita Mitra</ref> wants to convince people to do something against the environmental pollution <quote>If we fail to restore the ecological balance right now, it would be too late tomorrow</quote> <ref target="a10gk3_1" type="line">(l. 39-40)</ref>.</s>
+        <s><ref target="a10gk3_1" type="author">Ankita Mitra</ref> uses also inside <choice><orig>pronoms</orig><reg>pronouns</reg></choice>.</s>
+        <s>For example <quote>We all live on planet earth</quote> <ref target="a10gk3_1" type="line">(l. 4)</ref>, <quote>Almost all of our gains in the fields of industrial progress, ...</quote> <ref target="a10gk3_1" type="line">(l. 16-17)</ref>.</s>
+        <s>With that, she wants to talk and to reach the readers of the article.</s>
+        <s>In the text you can find many different <choice><orig>adjetives</orig><reg>adjectives</reg></choice> <quote>devastating</quote> <ref target="a10gk3_1" type="line">(l. 15)</ref>, surge <ref target="a10gk3_1" type="line">(l. 11)</ref>, hazardous <ref target="a10gk3_1" type="line">(l. 2)</ref> and indiscriminate <ref target="a10gk3_1" type="line">(l. 24)</ref>.</s>
+        <s>With these adjectives she <choice><orig>emphazises</orig><reg>emphasizes</reg></choice> that the earth and the people are all in danger.</s>
+        <s>Besides, she wants to inform the people how big the struggle is.</s>
+      </p>
+      <p>
+        <s>At the end of the text, she also gives and example in which city the struggle of environmental pollution is.</s>
+        <s>On <date>December 3, 1984</date> 2000 people including <choice><orig>woman</orig><reg>women</reg></choice> and children were killed in <name type="geo">Bhopal</name> <ref target="a10gk3_1" type="line">(l. 32-35)</ref>.</s>
+        <s>In addition, hundreds were hurt.</s>
+        <s>With that example, she wants to inform people again, how fast the development of environmental pollution is.</s>
+      </p>
+      <p>
+        <s>In the text you can find many different stylistic devices, which <choice><orig>emphazises</orig><reg>emphasizes</reg></choice> this.</s>
+        <s>For example, there is an anaphora <ref target="a10gk3_1" type="line">(l. 6)</ref>.</s>
+        <s>With that the author increased the problem of environment pollution.</s>
+        <s>In line 39-40 you can find <choice><orig>an</orig><reg>a</reg></choice> hyperbole.</s>
+        <s><quote>If we fail to restore the ecological balance right now, it would be too late tomorrow</quote>.</s>
+        <s>With that the author wants to convince the poeple again, that we have no time to think about it.</s>
+        <s>She wants, that we have to handle now.</s>
+        <s>In line 18 you can find a simile.</s>
+        <s><quote>flora and fauna</quote>.</s>
+        <s>Also in line 7 and 15 you can find two <choice><orig>enumirations</orig><reg>enumerations</reg></choice>.</s>
+        <s>With these <choice><orig>enumirations</orig><reg>enumerations</reg></choice>, the author <choice><orig>emphazises</orig><reg>emphasizes</reg></choice> her opinion agian.</s>
+      </p>
+      <p>
+        <s>To conclude, you can say that the author uses the stylistic devices, to show that the environmental pollution is a big problem, and that we have nearly to do something against it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

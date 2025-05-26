@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g38_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The blog post <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> written by <ref target="a10gk5_1" type="author">Ankita Mitra</ref> and published in the <name type="misc">Blog on Environment</name> on the <date>February 5th in 2014</date> deals with environmental pollution, its causes and effects.</s>
+      </p>
+      <p>
+        <s>According to <ref target="a10gk5_1" type="author">Mitra</ref>, environmental pollution is the harming of our environment by pollutants, such as from industry, weapons, cars, synthetic products et cetera.</s>
+        <s>It is caused by the quickly growing urbanization and industrialization as product of modern technology and science.</s>
+        <s>The effects are hazardous on our biosphere, animals and people, who are responsible for the pollution.</s>
+        <s>All food is contaminated today, and scientists call the current time an era of mass extinction.</s>
+        <s><ref target="a10gk5_1" type="author">Mitra</ref> finishes her post by stating if we failed to restore balance today, it would be too late tomorrow.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

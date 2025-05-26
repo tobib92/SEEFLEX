@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g23_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John</salute>
+      </p>
+      <p>
+        <s>I found an article <choice><orig>abou</orig><reg>about</reg></choice> two people who visited a seamstress in <name type="geo">Cambodia</name>.</s>
+        <s>They said that it was not <choice><orig>emmused</orig><reg>amused</reg></choice> to work <choice><orig>ther</orig><reg>there</reg></choice> between stuff and stuff.</s>
+        <s>The work is very <choice><orig>hart</orig><reg>hard</reg></choice> and they have less money.</s>
+        <s>The worker can just eat rice because it's not <choice><orig>expencive</orig><reg>expensive</reg></choice>.</s>
+      </p>
+      <p>
+        <s>I hope my short summary can help you and in the future you <choice><orig>shouldent</orig><reg>shouldn't</reg></choice> <choice><orig>ignores</orig><reg>ignore</reg></choice> the losers of globalisation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

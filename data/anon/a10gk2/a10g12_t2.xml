@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g12_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will be looking at the <choice><orig>authors</orig><reg>author's</reg></choice> use of stylistic devices and language to persuade the reader of his opinion that unions are harming the work industries and becoming useless.</s>
+      </p>
+      <p>
+        <s>The author often uses repetition to highlight the change, which has happened.</s>
+        <s>He often uses <quote>unions are no longer</quote>.</s>
+        <s><ref target="a10gk2_1" type="author">Brian Pollard</ref> uses the repetition to make clear that the unions have changed.</s>
+        <s>This shows that they once were something but now they are different and have changed.</s>
+        <s>This is a highlight of his opinion that unions are <choice><orig>diffrent</orig><reg>different</reg></choice> and no longer the same.</s>
+        <s>Moreover the author uses the repetition of words to describe power, such as <quote>power, powerful and greed</quote>.</s>
+        <s>He wants to make clear that the <choice><orig>unions</orig><reg>unions'</reg></choice> intentions are only power and especially power over others.</s>
+        <s>However when talking about the past, how it used to be, he uses positive adjectives, such as <quote>best, successful and essential</quote>.</s>
+        <s>These show that he really supported unions before they changed.</s>
+        <s>To define their change and <choice><orig>diffrent</orig><reg>different</reg></choice> intentions the author uses verbs in terms of laziness.</s>
+        <s>Their <choice><orig>diffrent</orig><reg>different</reg></choice> intentions are described with <quote>drop and lack</quote>, these verbs also highlight the change, which he states happened.</s>
+        <s><ref target="a10gk2_1" type="author">Brian</ref> doesn't use a lot of <choice><orig>diffrent</orig><reg>different</reg></choice> stylistic devices which shows that his strategy is to use <choice><orig>repetion</orig><reg>repetition</reg></choice> and a lot of adjectives to persuade and make others aware of his opinion and his stated issues.</s>
+      </p>
+      <p>
+        <s>All together <ref target="a10gk2_1" type="author">Brian</ref> uses positive language when talking about the past and how it used to be.</s>
+        <s>But as soon as he talks about today and his opinion today, he uses negative language and repetition.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

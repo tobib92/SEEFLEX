@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g02_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi Peter,</salute>
+      </p>
+      <p>
+        <s>I did your email, so you want to get to know more about <name type="misc">School B goes green?</name></s>
+        <s>So I think you already understood the main topic?</s>
+        <s><name type="misc">Goes green</name> means to be used more biological product and always keep in mind to <choice><orig>safe</orig><reg>save</reg></choice> the environment.</s>
+      </p>
+      <p>
+        <s>The article was in the Cologne newspaper called <name type="misc">Kölner Stadtanzeiger</name>, that an very known newspaper in <name type="geo">Cologne</name>, so it's cool that they wrote about my school.</s>
+        <s>The topic sentence does mean <quote>Don't safe just on Fridays the environment</quote>, that an metaphor for the known project <name type="misc">Fridays for Future</name> but, I think you already know that.</s>
+        <s>So basically one of our teachers, John Smith (he has the same name as you <choice><abbr>lol</abbr><expan>laughing out loud</expan></choice>) organized together with some others, one special day, a theme day, where they organized 40 workshops, the students could visit.</s>
+      </p>
+      <p>
+        <s>We had to visit once, <choice><orig>becaus</orig><reg>because</reg></choice> no school on this day, just for the theme day.</s>
+        <s>The workshops deal with questions like <quote>How big is your CO2 footprint?</quote>, <quote>How do I use water sustainable?</quote>, <quote>The connection between vegan food and <choice><orig>safing</orig><reg>saving</reg></choice> the planet?</quote>.</s>
+      </p>
+      <p>
+        <s>The reason was the previous mentioned project <name type="misc">Fridays for Future</name> most students of my school (so you know - the <name type="misc">School B</name>) visited this demonstrations weekly, as same as I did.</s>
+        <s>So the teacher organized together with the students and their parents this day.</s>
+        <s>They even invited some poetry-slammers, f.e. <name type="person">Lennard Posar</name>.</s>
+      </p>
+      <p>
+        <s>I didn't visit his workshop, but my little brother did.</s>
+      </p>
+      <p>
+        <s>He said it makes a lot of fun, they wrote <choice><orig>to</orig><reg>two</reg></choice> sorts of texts horror and funny texts, <choice><orig>than</orig><reg>then</reg></choice> they read them out loud.</s>
+      </p>
+      <p>
+        <s>But with different voices, like happy or bad voice.</s>
+        <s>It helped him to understand that he can use his voice as well as an operator when having an argument or discussion.</s>
+      </p>
+      <p>
+        <s>Between the many workshops also was on from two last year students, who made food.</s>
+        <s>They made cakes and waffles using only biological products.</s>
+      </p>
+      <p>
+        <s>I ate one waffle and I can tell you, they were maybe even better than normal waffles.</s>
+      </p>
+      <p>
+        <s>My workshop was about food sharing and how you can <choice><orig>safe</orig><reg>save</reg></choice> food in your normal day.</s>
+        <s>Was pretty interesting and I learned some new things.</s>
+      </p>
+      <p>
+        <s>At the end I visited the secondhand flea market, but all cool clothings already were <choice><orig>selled</orig><reg>sold</reg></choice>.</s>
+        <s>Maybe I will get some next time, because <name type="person">Mr. Clemm</name> told us that they plan to do the same project due next year again.</s>
+        <s>Then I will go earlier to the flea market.</s>
+      </p>
+      <p>
+        <s>I have an idea, it <choice><orig>sound</orig><reg>sounds</reg></choice> good that you visit me for some days next time the day takes place, because <choice><orig>than</orig><reg>then</reg></choice> I will show you everything in real life, it's pretty cool.</s>
+      </p>
+      <p>
+        <s>I'll be happy seeing you next time, please answer me.</s>
+      </p>
+      <p>
+        <signed>Bye, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l04_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the part of scene four, of the drama <ref target="a11lk1_1" type="title">Disgraced, Scene 4</ref>, from <ref target="a11lk1_1" type="author">Ayad Akhtar</ref>, <ref target="a11lk1_1" type="character">Abe</ref>, <ref target="a11lk1_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> nephew, comes to <ref target="a11lk1_1" type="character">Amir</ref> with a problem.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk1_1" type="character">Abe</ref> had an interrogation with the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>, they brought up his vulnerable immigration status and <ref target="a11lk1_1" type="character">Abe</ref> thinks they want to blackmail him, to do certain things for them.</s>
+        <s><ref target="a11lk1_1" type="character"><choice><orig>Abes</orig><reg>Abe's</reg></choice></ref> attitude against the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> is very hostile, he <choice><orig>don't</orig><reg>doesn't</reg></choice> <choice><orig>wants</orig><reg>want</reg></choice> to cooperate with them and makes clear, that he is not on their side.</s>
+        <s>His uncle <ref target="a11lk1_1" type="character">Amir</ref> first calls a lawyer he already knew from an other case and leaves a message on the answering machine.</s>
+        <s>After that he wants to make clear, that <ref target="a11lk1_1" type="character">Abe</ref> should at least try to cooperate and rethink his attitude, because <choice><orig>espacially</orig><reg>especially</reg></choice> for him, <choice><orig>its</orig><reg>it's</reg></choice> not a neutral world and the authorities make the rules.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

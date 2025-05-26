@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g39_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The scene has a distinct function to the whole film, because the watchers get to know <ref target="b10gk4_1" type="character">Chris</ref>, who has a huge part in <ref target="b10gk4_1" type="character">Starr's</ref> life.</s>
+        <s>When he is seen the first time, a song of <name type="person">Billie Eilish</name> is played, which is really slow and underlines his sensible, but friendly character.</s>
+        <s>In addition to that the director used slow motion, to have enough time to show all of his moves slowly and impressive.</s>
+        <s>The camera shows all of his <choice><orig>bodyparts</orig><reg>bodyparts</reg></choice> in close-ups to give a closer look on his style and <choice><orig>bodylanguage</orig><reg>body language</reg></choice>.</s>
+        <s>The fact that he shakes many hands with classmates, underlines his popularity.</s>
+        <s>When he walks up to <ref target="b10gk4_1" type="character">Starr</ref>, he gives her his headphones to improve her with their same taste in music.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> tries to act nevertheless cold and distanced, because of their fight the day before and <ref target="b10gk4_1" type="character">Chris</ref> shows his sensible side and explains his feelings to her.</s>
+        <s>On the one hand he feels like <ref target="b10gk4_1" type="character">Starr</ref> would keep him <choice><orig>seperated</orig><reg>separated</reg></choice> of her life and her family, what hurts him, because he wants to meet her parents and wants to bring her home sometimes but on the other hand he admits his mistakes and apologizes, what shows especially how <choice><orig>respectfull</orig><reg>respectful</reg></choice> and sensitive he is.</s>
+        <s>The close-up he is shown in this sequence underlines his facial expression and shows his honest depressed look.</s>
+        <s>He makes although really clear how much <ref target="b10gk4_1" type="character">Starr</ref> means to him, with his words, which makes him to <choice><orig>an</orig><reg>a</reg></choice> really lovely boyfriend.</s>
+        <s>When he ses that <ref target="b10gk4_1" type="character">Starr</ref> acts still mad he reveals his sense of humor by dancing to his music in the middle of the floor and all in all acting really goofy.</s>
+        <s>Following to that <choice><orig>_</orig><reg>_</reg></choice> thinks <quote>he makes me laugh</quote>, so it gets clear that <ref target="b10gk4_1" type="character">Chris</ref> knows exactly the effect of his charm and what he <choice><orig>have</orig><reg>has</reg></choice> to do or how to act to make <ref target="b10gk4_1" type="character">Starr</ref> laugh and forgive him.</s>
+        <s><ref target="b10gk4_1" type="character">Starr's</ref> thoughts are linked by played audios, which has the effect that the watchers could understand more how <ref target="b10gk4_1" type="character">Starr</ref> is thinking about the situation, because her facial expression looks general stressed-out and distanced.</s>
+      </p>
+      <p>
+        <s>Concluded the relationship between <ref target="b10gk4_1" type="character">Starr</ref> and <ref target="b10gk4_1" type="character">Chris</ref> is sometimes a little bit <choice><orig>complecated</orig><reg>complicated</reg></choice>.</s>
+        <s>On the one hand there are a few things are unspoken like <ref target="b10gk4_1" type="character">Starr's</ref> family or home, but although <ref target="b10gk4_1" type="character">Chris</ref> does everything to maintain their relationship and to show <ref target="b10gk4_1" type="character">Starr</ref> with his sensible <choice><orig>charakter</orig><reg>character</reg></choice>, how important she is to him.</s>
+        <s>In addition to that the director presents <ref target="b10gk4_1" type="character">Chris</ref> as a popular guy, with <choice><orig>an</orig><reg>a</reg></choice> friendly attitude and a big heart.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

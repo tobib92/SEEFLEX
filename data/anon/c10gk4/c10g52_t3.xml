@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g52_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>how are you?</s>
+        <s>I'm fine.</s>
+        <s>Yesterday I read your e-mail about student exchanges and I was a bit shocked.</s>
+        <s>Why do you think they are a waste of time?</s>
+        <s>Did you ever went on a student exchange?</s>
+      </p>
+      <p>
+        <s>In this e-mail I want to tell you my point of view and why I think student exchanges are not a waste of time.</s>
+        <s>At the end I hope I can change your mind.</s>
+      </p>
+      <p>
+        <s>First of all I think you have to know, that with a student exchange you get a lot of experience and meet a lot of new people.</s>
+        <s>You try new food, learn about new cultures and do different things that you would never do at home.</s>
+        <s>On my student exchange a year ago I met so many friendly people and lots of good friends.</s>
+        <s>The people are really <choice><orig>helpfull</orig><reg>helpful</reg></choice> and you don't feel lonely or homesick.</s>
+        <s>I tried a <choice><orig>lots</orig><reg>lot</reg></choice> of new things and I collect so many experiences.</s>
+        <s>I would miss if I never went on a student exchange year.</s>
+        <s>Even if you feel homesick nowadays there are a lot ways to connect with your family or friends at home.</s>
+        <s>There is internet so you can call them or even facetime with them, so you can see them.</s>
+      </p>
+      <p>
+        <s>When you go on an exchange year, your point of view on a few things change and this can be really <choice><orig>helpfull</orig><reg>helpful</reg></choice> for your future life.</s>
+      </p>
+      <p>
+        <s>Even if it is <choice><orig>to</orig><reg>too</reg></choice> expensive for you, there are a lot of <choice><orig>programms</orig><reg>programs</reg></choice> that help you or where it is cheaper.</s>
+      </p>
+      <p>
+        <salute>Dear <name type="person">John</name>,</salute>
+      </p>
+      <p>
+        <s>I hope I can change your mind after my e-mail and an exchange year is now an option and not a waste of time for you.</s>
+        <s>I hope I get an answer from you and when you choose to do this beautiful adventure, write me, so I can send you more <choice><orig>informations</orig><reg>information</reg></choice> or help you.</s>
+      </p>
+      <p>Best greetings</p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

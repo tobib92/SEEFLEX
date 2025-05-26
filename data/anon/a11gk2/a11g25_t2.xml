@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g25_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To persuade the audience, that <quote>dreams are worth fighting for</quote> <ref target="a11gk2_1" type="line">(l. 25f.)</ref>, <ref target="a11gk2_1" type="speaker">Barack Obama</ref> uses several rhetorical devices, which will be analyzed in the following.</s>
+      </p>
+      <p>
+        <s>In the first sentences he uses a rhetorical device, in form of a <choice><orig>Hyperbole</orig><reg>hyperbole</reg></choice>.</s>
+        <s>He underlines, that his home state <name type="geo">Illinois</name> is <quote>just a stone's throw</quote> away <ref target="a11gk2_1" type="line">(l. 2)</ref> from <name type="geo">Bettendorf</name>, where he held his speech.</s>
+        <s>Thus he <choice><orig>builts</orig><reg>builds</reg></choice> up a relation with the people from <name type="geo">Bettendorf</name> and engages them to identify <choice><orig>themself</orig><reg>themselves</reg></choice> with the candidate.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> this similarity a mood of unity is created.</s>
+        <s>It <choice><orig>sybolizes</orig><reg>symbolizes</reg></choice> that him and the audience are no strangers.</s>
+      </p>
+      <p>
+        <s>One of the most powerful rhetorical devices is a recurrent contrast.</s>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref> emphasizes, that <quote>In big cities and small towns, among man and woman, young and old, black, white and brown</quote> the faith into common dreams is the same.</s>
+        <s>Accordingly he makes clear, that the opponent <choice><orig>sites</orig><reg>sides</reg></choice> he <choice><orig>mensions</orig><reg>mentions</reg></choice> are closer to each other than one would think.</s>
+        <s>In this occasion the American <choice><orig>dream</orig><reg>Dream</reg></choice> is what connects them.</s>
+      </p>
+      <p>
+        <s>It also points out the American <choice><orig>dream</orig><reg>Dream</reg></choice> is not limited to a certain aspect, because of the diversity of issues that are opponent but still close.</s>
+        <s>Again the <choice><orig>politican</orig><reg>politician</reg></choice> refers to the American <choice><orig>dreams</orig><reg>Dreams</reg></choice> as unique point of all American people.</s>
+      </p>
+      <p>
+        <s>A very effective rhetorical device is a <choice><orig>parralelism</orig><reg>parallelism</reg></choice> the speaker uses.</s>
+        <s>While telling his family's story he explains the <quote>dreams that drove my mother</quote>.</s>
+        <s>Equally his mother and grandparents chased their own dreams and worked hard to make them reality.</s>
+        <s>This underlines their same passion and similarities, whether they had <choice><orig>differnt</orig><reg>different</reg></choice> dreams.</s>
+        <s>The audience <choice><orig>get's</orig><reg>gets</reg></choice> to know the closeness of <ref target="a11gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> family and their optimism and could put this on <ref target="a11gk2_1" type="speaker">Obama</ref> too.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a11gk2_1" type="speaker">Obama</ref> uses various rhetorical devices to <choice><orig>convice</orig><reg>convince</reg></choice> the audience and pushed <choice><orig>the</orig><reg>them</reg></choice> to the conclusion that the <choice><orig>american dream</orig><reg>American Dream</reg></choice> is worth fighting for.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

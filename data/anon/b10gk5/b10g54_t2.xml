@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g54_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> seems to be a popular student at <name type="misc">Williamson</name>, because nearly everyone he walks past looks at him.</s>
+        <s>He gives handshakes to everybody on his right.</s>
+        <s>In the first part of the scene, <ref target="b10gk5_1" type="character">Chris</ref> is filmed from a medium shot perspective and a lower angle.</s>
+        <s>This makes him look big and attractive.</s>
+        <s>In the second important shot, <ref target="b10gk5_1" type="character">Starr</ref> is shown from a medium close up perspective on eye level.</s>
+        <s>The camera slowly comes closer to her.</s>
+        <s>Her attention is on <ref target="b10gk5_1" type="character"><choice><orig>Chris's</orig><reg>Chris'</reg></choice></ref> shoes <add>(<name type="misc">Jordans</name>)</add>, which are shown in the next shot from a medium close up perspective and a higher angle to turn the focus on them.</s>
+        <s>The next important shot is the big close up when <ref target="b10gk5_1" type="character">Starr</ref> turns her back to <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>This is important to show how <ref target="b10gk5_1" type="character">Starr's</ref> mimics are at beginning and after <ref target="b10gk5_1" type="character">Chris</ref> had put on his headphones on her head.</s>
+        <s>With this shot size you can clearly see how <ref target="b10gk5_1" type="character">Starr's</ref> mimics change from serious to amused and back to serious.</s>
+        <s>The next shot is a medium long shot, it shows how <ref target="b10gk5_1" type="character">Starr</ref> gives <ref target="b10gk5_1" type="character">Chris</ref> back his headphones.</s>
+        <s>Then the conversation begins.</s>
+        <s>The camera starts to switch from <ref target="b10gk5_1" type="character">Starr's</ref> to <ref target="b10gk5_1" type="character"><choice><orig>Chris's</orig><reg>Chris'</reg></choice></ref> face and back again.</s>
+        <s>Both faces are shown in a close up, which should show their mimics and feelings during the conversation.</s>
+        <s>After the conversation, <ref target="b10gk5_1" type="character">Chris</ref> starts to dance in a medium shot again.</s>
+        <s>With this shot the focus is on his hand movements synchronized to the music.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> looks at him from a close up perspective and you can clearly see her laughing face.</s>
+        <s>You can see the difference between her seriously face some minutes ago.</s>
+      </p>
+      <p>
+        <s>All in all the shot sizes describe how <ref target="b10gk5_1" type="character">Chris</ref> repairs the a bit broken relationship with <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

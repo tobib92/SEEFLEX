@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12l35_t2</author>
+        <name>characterize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">characterize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Text Excerpt</orig><reg>text excerpt</reg></choice> from the <choice><orig>Novel</orig><reg>novel</reg></choice> <ref target="a12lk3_1" type="title">The Merchant of Venice</ref> written by <ref target="a12lk3_1" type="author">William Shakespeare</ref>, is about a Jewish <choice><orig>Merchant</orig><reg>merchant</reg></choice>, who is <choice><orig>confrontrated</orig><reg>confronted</reg></choice> with different problems and a life with antisemitism in his century, so in the following I will <choice><orig>Characterizate</orig><reg>characterize</reg></choice> <name type="person">Shylock</name> in the given scene by the given <choice><orig>Text Excerpt</orig><reg>text excerpt</reg></choice>.</s>
+        <s>I will focussing by paying special attention to the use of language, especially stylistic devices.</s>
+      </p>
+      <p>
+        <s>First of all, we can say about the language <choice><orig>thats its</orig><reg>that it's</reg></choice> typical for <ref target="a12lk3_1" type="author">Shakespeare</ref>.</s>
+        <s>He wrote in the Elizabethan time what gives the reader this feeling of flair.</s>
+        <s><ref target="a12lk3_1" type="author">Shakespeare</ref> used <choice><orig>diffrent</orig><reg>different</reg></choice> words to describe something or to explain.</s>
+        <s>This old words like <quote>thou</quote> who means <choice><orig>know</orig><reg>now</reg></choice> <quote>you</quote> explain it.</s>
+        <s>And the used of language he used was his own effect and plays important role not only for the <choice><orig>Excerpt</orig><reg>excerpt</reg></choice> furthermore for the whole <choice><orig>Novel</orig><reg>novel</reg></choice>.</s>
+        <s>We can <gap reason="illegible" quantity="1" unit="word">indefine</gap> always <ref target="a12lk3_1" type="author">Shakespeare</ref> with his language what makes him also so popular.</s>
+        <s>Also <ref target="a12lk3_1" type="author">Shakespeare</ref> is known for many verbs and adjectives.</s>
+        <s>All this aspect are important for the characterization for <name type="person">Shylock</name> because there you can see the time whre they live play a special role so also the impact of language <name type="person">Shylock</name> have on the people, but it is not the only thing the text shows us about <name type="person">Shylock</name>, he is also very worried about his daughter what we can see on the alliteration <add>repetition</add> on line 3 where he searched worried his daughter.</s>
+        <s>The next part of the text <choice><orig>were</orig><reg>where</reg></choice> it is clear is line 16 <quote><s>[...] good news, good news!</s><s>Ha, ha!</s><s>Where?</s><s>In Genoa?</s></quote> what show us how relieved and happy he is.</s>
+        <s>In line 8 we can see a metaphor <quote>The thief gone with so much, and so much to find the thief</quote> with this metaphor he will say that he is angry about his daughter what also makes clear that he called his daughter a <quote>thief</quote> in this phrases show us also his <choice><orig>dissapointment</orig><reg>disappointment</reg></choice> for his daughter.</s>
+        <s>Looking on the other side we can see that <name type="person">Shylock</name> is very gleeful and full of desire for revenge what many scenes how us especially against <name type="person">Antonio</name> like the alliteration and <choice><orig>anapher</orig><reg>anaphora</reg></choice> shows us in line 22 where he is very happy to punish <name type="person">Antonio</name> because of his failure.</s>
+        <s>Also line 12 and 14 both with a double repetition <choice><orig>shows</orig><reg>show</reg></choice> clear the bad energy and motivation he has and his negative attitude against other religions.</s>
+        <s>To the use of language <name type="person">Shylock</name> spoke also in <choice><orig>smal</orig><reg>small</reg></choice> sentences <add>parataxe</add> <ref target="a12lk3_1" type="line">(l. 12-14)</ref> to give the reader a special effect of tension.</s>
+      </p>
+      <p>
+        <s>To sum up we can say that <name type="person">Shylock</name> is when it comes to family very worried and protected but if it comes to <choice><orig>buisness</orig><reg>business</reg></choice> we often see the other side of <name type="person">Shylock</name> a gleeful and angry old man and full of desire for revenge.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

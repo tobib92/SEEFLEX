@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g09_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The text <ref target="c10gk1_1" type="title">Hope of escape lost in translation</ref> which was published in the <name type="misc">Sunday Times</name> magazine on <date>December 17th, 2016</date> and written by <ref target="c10gk1_1" type="author">Zia Haider Rahman</ref> is about immigration from <name type="geo"><choice><orig>Bangladeshi</orig><reg>Bangladesh</reg></choice></name> to the <name type="geo">UK</name>.</s>
+        <s><ref target="c10gk1_1" type="author">Rahman</ref> shows the problems and his experiences being an immigrant from <name type="geo">Bangladesh</name> in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>In <name type="geo">London</name> you got a <quote>Bangladeshi district</quote> where English is a foreign language and even the street signs are in Bengali.</s>
+        <s>Also most of the people that are living there are at the bottom of educational environment.</s>
+        <s>So drug abuse and crime is on the rise in this district.</s>
+        <s>If you are a young Bangladeshi male, with no hope of employment, you can choose between extremists in the mosque or gang crime in the streets.</s>
+      </p>
+      <p>
+        <s>The problem is that the Bangladeshi people don't get immigrated they have to learn everything by themselves.</s>
+        <s>And that's why most of the immigrants can't speak <choice><orig>english</orig><reg>English</reg></choice> very well.</s>
+      </p>
+      <p>
+        <s>Another big problem is racism because some people don't accept refugees because they think that they are something different.</s>
+        <s>So refugees are confronted with <choice><orig>racicsm</orig><reg>racism</reg></choice> every single day.</s>
+      </p>
+      <p>
+        <s>The author's experiences with getting immigrated shows that if you really want to integrate yourself, it could be done.</s>
+      </p>
+      <p>
+        <s>His parents wanted him to learn English, because they don't wanted to be absorbed by the <quote>Bangladeshi district</quote> which was like the country they left.</s>
+        <s>Also the parents wanted him to do a good job in school.</s>
+      </p>
+      <p>
+        <s>It's important to see that in the mid <date>1970s</date>, the teachers didn't make an acknowledgement of the author's racial difference.</s>
+        <s>Because today it's celebrated by schools although the author isn't convinced that celebrating differences can help getting someone integrated.</s>
+        <s>Because everyone is the same and if you treat someone like he's something different because of a cultural difference, it <choice><orig>don't</orig><reg>doesn't</reg></choice> <choice><orig>helps</orig><reg>help</reg></choice> getting this person immigrated.</s>
+      </p>
+      <p>
+        <s>Also, you don't have to celebrate the diversity of only a couple of people, you have to celebrate the diversity of everyone.</s>
+      </p>
+      <p>
+        <s>Another big problem is social media.</s>
+        <s>Because <choice><orig>publig</orig><reg>public</reg></choice> figures are fearful being labelled as a racist if they don't speak up for organisations against racism.</s>
+        <s>So they are under very big pressure to keep their image good.</s>
+      </p>
+      <p>
+        <s>The text shows us major problem because bad integration and racism isn't something that only exists in the <name type="geo">UK</name>, it exists in every country and it's very important to do something against this problem.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

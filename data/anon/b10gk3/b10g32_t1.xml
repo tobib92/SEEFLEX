@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g32_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene of the movie <ref target="b10gk3_1" type="title">The Hate U Give</ref> by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> from <date>2018</date>, which is about a teenage girl of colour speaking up about racism, is about the conflict between <ref target="b10gk3_1" type="character">Maverick</ref> and <ref target="b10gk3_1" type="character">King</ref> after <ref target="b10gk3_1" type="character">Starr's</ref> <choice><abbr>TV</abbr><expan>television</expan></choice> interview.</s>
+        <s>In this scene the family is having dinner in a restaurant.</s>
+        <s>They are praying, telling how thankful they're for their families, and starting to eat, when <choice><abbr>TV</abbr><expan>television</expan></choice> realizes <ref target="b10gk3_1" type="character">King's</ref> standing outside, in front of their car.</s>
+        <s>As soon as <ref target="b10gk3_1" type="character">Maverick</ref> realizes him, he goes outside and tells him to leave his family.</s>
+        <s><ref target="b10gk3_1" type="character">Maverick</ref> punches <ref target="b10gk3_1" type="character">King</ref> and the police comes.</s>
+        <s><ref target="b10gk3_1" type="character">King</ref> runs away and the police officers get <ref target="b10gk3_1" type="character">Maverick</ref>.</s>
+        <s>They want his <choice><abbr>ID</abbr><expan>identification</expan></choice> and push him to the ground.</s>
+        <s><ref target="b10gk3_1" type="character">Maverick</ref> tells his family to go into the restaurant again but instead they start to speak up for him and <ref target="b10gk3_1" type="character">Starr</ref> <add>(and some other people)</add> start filming the black police officer pushing <ref target="b10gk3_1" type="character">Maverick</ref> to the ground.</s>
+        <s>When the white police officer realizes, <ref target="b10gk3_1" type="character">Starr</ref> is the <choice><orig>whitness</orig><reg>witness</reg></choice>, he tells the other to leave and they drive away.</s>
+        <s>They all check on <choice><orig>eachother</orig><reg>each other</reg></choice> and the mother goes to care for <ref target="b10gk3_1" type="character">Sekani</ref>, who's crying.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g49_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref>, that was written by <ref target="a12gk4_1" type="author">John Worne</ref> and published in 		<date>2015</date> in the <name type="misc">The Telegraph</name> is about <ref target="a12gk4_1" type="author">Worne</ref> complaining about the schools from the <name type="geo">UK</name> not teaching foreign 		languages and the consequences this has for the children.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> complains about the fact, that most of the students nowadays <choice><orig>dont</orig><reg>don't</reg></choice> get <choice><orig>teached</orig><reg>taught</reg></choice> <choice><orig>difrent</orig><reg>different</reg></choice> languages, and that there is not even a <choice><orig>seeable</orig><reg>noticeable</reg></choice> progress.</s>
+        <s><choice><orig>Hanceforth</orig><reg>Henceforth</reg></choice> it is sinking more and more.</s>
+        <s><choice><orig>Lateron</orig><reg>Later on</reg></choice> the author brings up the fact, that there are <choice><orig>som</orig><reg>some</reg></choice> 		studies, that show, the low grades the students reach in foreign language tests and that this low niveau isn't even consistent - <choice><orig>its</orig><reg>it's</reg></choice> dropping more and more.</s>
+        <s>Furthermore 		<ref target="a12gk4_1" type="author">Worne</ref> is not convinced from the opinion, that you <choice><orig>dont</orig><reg>don't</reg></choice> need other languages for <choice><orig>busness</orig><reg>business</reg></choice> than <choice><orig>english</orig><reg>English</reg></choice>, and that you - if you need it - are able to translate it.</s>
+        <s>For him, the people that are spilling these messages are stupid <ref target="a12gk4_1" type="line">(ll. 23)</ref>.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> knows that some <choice><orig>buissnesses</orig><reg>businesses</reg></choice> expect you to be able to talk in 2 or more languages and that for those who don't the chances are already lower <ref target="a12gk4_1" type="line">(ll. 29-35)</ref>.</s>
+        <s>Besides, he mentiones the importance of foreign languages for the globalisation and the reputation of the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>Moreover <ref target="a12gk4_1" type="author">John</ref> mentions not only negative things, he is also happy about the progress, that some <choice><orig>universitys</orig><reg>universities</reg></choice> made by offering the opportunity to learn <choice><orig>diffrent</orig><reg>different</reg></choice> languages <ref target="a12gk4_1" type="line">(l. 36)</ref>.</s>
+        <s>Furthermore <ref target="a12gk4_1" type="author">Worne</ref> tells about the importance to not only be good, nearly perfect in your own job, and says that except for that it's better to be just good, but be able to talk in 2 languages <ref target="a12gk4_1" type="line">(ll. 42-43)</ref>.</s>
+      </p>
+      <p>
+        <s>In the last part <ref target="a12gk4_1" type="author">Worne</ref> appeals to the parents of the <name type="geo">UK's</name> children and brings a call that they need to stand up for their children, so they can learn <choice><orig>diffrent</orig><reg>different</reg></choice> languages.</s>
+      </p>
+      <p>
+        <s>All in all you can say, that <ref target="a12gk4_1" type="author">Worne</ref> is <choice><orig>realy</orig><reg>really</reg></choice> upset about the <name type="geo">UK</name> and its school system, that <choice><orig>doesent</orig><reg>doesn't</reg></choice> <choice><orig>includs</orig><reg>include</reg></choice> <choice><orig>diffrent</orig><reg>different</reg></choice> languages, because he has the opinion, that those are important for <name type="geo">UK's</name> reputation and the <choice><orig>childrens</orig><reg>children's</reg></choice> job chances.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

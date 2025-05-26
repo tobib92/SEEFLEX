@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l19_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Emily</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Maya</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s>Thank you so much for coming.</s>
+      </u>
+      <u who="B">
+        <s>How could I not have come?</s>
+        <s>When you called I rushed over because I couldn't believe... Are you okay, <ref target="a11lk2_1" type="character">Emily</ref>?</s>
+      </u>
+      <u who="A">
+        <s>Honestly, I worry more about <ref target="a11lk2_1" type="character">Amir</ref> than myself.</s>
+        <s>I mean that was about the worst evening you could imagine - </s>
+      </u>
+      <u who="B">
+        <s>Yes, the worst evening for you.</s>
+        <s>That bastard beat your face into pieces!</s>
+      </u>
+      <u who="A">
+        <s>But that was not <ref target="a11lk2_1" type="character">Amir</ref> who beat me.</s>
+        <s>Not the <ref target="a11lk2_1" type="character">Amir</ref> I know.</s>
+        <s>It was like he was overtaken by this devil who has been living inside him.</s>
+        <s>The violence was inevitable, it was just bound to happen...</s>
+      </u>
+      <u who="B">
+        <s>What?</s>
+        <s>What do you mean it was bound to happen?</s>
+      </u>
+      <u who="A">
+        <s>There's something I haven't told you.</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Maya</ref> looks at <ref target="a11lk2_1" type="character">Emily</ref>. She (<add><ref target="a11lk2_1" type="character">Maya</ref></add>) looks worried and serious.</stage>
+      </p>
+      <u who="B">
+        <s>I slept with <ref target="a11lk2_1" type="character">Isaac</ref> in <name type="geo">London</name>.</s>
+        <s>And I... I ruined his career.</s>
+      </u>
+      <u who="B">
+        <s>(<kinesic><desc>stuttering</desc></kinesic>) You... you what?</s>
+      </u>
+      <u who="A">
+        <s>Yes, I slept with <ref target="a11lk2_1" type="character">Isaac</ref>, and I fucking regret it, but I am over it.</s>
+        <s>And because it isn't bad enough, I convinced <ref target="a11lk2_1" type="character">Amir</ref> to help some Imam in court and he lost his job.</s>
+        <s>I basically destroyed his entire life in the course of a few months and I...</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> starts crying</stage>
+      </p>
+      <u who="A">
+        <s>I wish I could take it back.</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Maya</ref> hugs <ref target="a11lk2_1" type="character">Emily</ref> and starts consoling her</stage>
+      </p>
+      <u who="B">
+        <s>(<kinesic><desc>soft</desc></kinesic>) Everything will be okay.</s>
+        <s>I promise.</s>
+      </u>
+    </body>
+  </text>
+</TEI>

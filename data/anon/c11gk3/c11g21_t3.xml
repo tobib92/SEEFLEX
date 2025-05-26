@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g21_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Following I am going to comment on <ref target="c11gk3_1" type="character">Walter's</ref> and the other <ref target="c11gk3_1" type="character">Youngers'</ref> dreams in the context of the American Dream and African American History.</s>
+      </p>
+      <p>
+        <s>The statement of <ref target="c11gk3_1" type="character">Mama Lena</ref> that <ref target="c11gk3_1" type="character">Walter</ref> has almost lost his mind thinking about money all the time is in my opinion true because he only thinks about the check all the time but it is not his money.</s>
+        <s>His dream of a liquor store with his friends is only valuable if he gets seventy five thousand dollar from his mother.</s>
+        <s>When the mother gives him the money the other dreams of the other family <choice><orig>member</orig><reg>members</reg></choice> aren't more realizable.</s>
+        <s>In my opinion is a liquor store a stupid idea because with liquor you can destroy other <choice><orig>lifes</orig><reg>lives</reg></choice> and that's not good.</s>
+        <s>On the other side is <ref target="c11gk3_1" type="character"><choice><orig>Walters</orig><reg>Walter's</reg></choice></ref> dream a dream which shows a little bit the American Dream.</s>
+        <s>The American Dream is an idea that wealth can be gained by hard and deligent work no matter from where you are.</s>
+        <s>Anybody can achieve anything.</s>
+        <s>This setting is to find in <ref target="c11gk3_1" type="character">Walter</ref> because he <choice><orig>don't</orig><reg>doesn't</reg></choice> want that his child sleeps in the living room and that he <choice><orig>tell</orig><reg>tells</reg></choice> him stories about how rich white people are <ref target="c11gk3_1" type="line">(cf. l. 41f.)</ref>.</s>
+        <s><ref target="c11gk3_1" type="character">Beneatha's</ref> dream shows also the American Dream because she wants to become a doctor.</s>
+        <s>Black women were in this time not respected and she wants to become a doctor that shows that she has a strong personality.</s>
+        <s>The <choice><orig>other's</orig><reg>others'</reg></choice> dreams are also long term dreams because the house would be in the future a house too.</s>
+        <s>In my opinion are all dreams an example for the American Dream and reflect the American Dream because <ref target="c11gk3_1" type="character">Walter</ref> wants to become rich as a black person from his job as a chauffeur.</s>
+        <s><ref target="c11gk3_1" type="character">Beneatha</ref> wants to become a doctor as a black women and this shows in my opinion the American Dream the best.</s>
+        <s><ref target="c11gk3_1" type="character">Mama Lena</ref> thinks that it is not good for <ref target="c11gk3_1" type="character">Walter</ref> to think the whole time about money but in my opinion it is good because why not.</s>
+        <s>Money is necessary for all people on the world.</s>
+        <s>You can say that you don't have to think the whole time about it but sometimes you need to think about.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say that the American Dream and African American history <choice><orig>has</orig><reg>have</reg></choice> an impact on the family <choice><orig>esspecially</orig><reg>especially</reg></choice> on <ref target="c11gk3_1" type="character">Walter</ref> because he thinks about the future and <choice><orig>want</orig><reg>wants</reg></choice> to change something that the family could live in better living conditions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

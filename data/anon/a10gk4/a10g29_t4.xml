@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g29_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="personal response">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello John,</salute>
+      </p>
+      <p>
+        <s>I was happy to hear from you.</s>
+        <s>I am also fine.</s>
+        <s>This topic is a very interesting theme and it's much garbage.</s>
+      </p>
+      <p>
+        <s>First of all, yes, plastic cups for <quote>coffee to go</quote> are popular in <name type="geo">Germany</name>.</s>
+        <s>Almost every bakery sold these cups and on one <choice><orig>Day</orig><reg>day</reg></choice> we waste 7,6 <choice><orig>Million</orig><reg>million</reg></choice> cups for coffee.</s>
+        <s>Sometimes the cups are made out <choice><orig>off</orig><reg>of</reg></choice> paper, but the lid is made out <choice><orig>off</orig><reg>of</reg></choice> plastic, so it is just a little change.</s>
+        <s>The deciding factor for <name type="geo">Germany</name> is that we waste 2,8 <choice><orig>Million</orig><reg>million</reg></choice> <choice><orig>Coffee</orig><reg>coffee</reg></choice> to go cups in a year.</s>
+        <s>The problematic is that many <choice><orig>rescources</orig><reg>resources</reg></choice> are used to produce these cups for example 64000 tones of wood or 22000 tons of oil.</s>
+      </p>
+      <p>
+        <s>This is <choice><orig>a</orig><reg>en</reg></choice> <choice><orig>extremly</orig><reg>extremely</reg></choice> high consumption and we need to reduce that.</s>
+        <s>Another problem is that the cups are not <choice><orig>recyclable</orig><reg>recycable</reg></choice> and the garbage cans are full of cups.</s>
+        <s>A possible alternative is for example that the cups are 100% made out <choice><orig>off</orig><reg>of</reg></choice> paper and <choice><orig>recyclable</orig><reg>recycable</reg></choice>.</s>
+        <s>This is the only way to be sustainable and drink coffee on a walk, in the office or somewhere else.</s>
+        <s>Another alternative are metal cups, which hold the coffee warm and you can use the same cup everyday and get no waste.</s>
+      </p>
+      <p>
+        <s>From my point of view is that the only way to stop this problem.</s>
+      </p>
+      <p>
+        <s>I would love to hear from you soon and I hope my email helped you.</s>
+      </p>
+      <p>
+        <s>Goodbye,</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

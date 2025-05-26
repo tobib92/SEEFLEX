@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g12_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear friend,</salute>
+      </p>
+      <p>
+        <s>I hope you are doing good.</s>
+        <s>I'm fine, thanks.</s>
+        <s>Of course I can tell you about the newspaper article you found.</s>
+        <s>The head line <ref target="b12gk1_2" type="title">Mehr Bio nicht nur am Freitag</ref> means <quote>More Bio not only on Fridays</quote>, where <ref target="b12gk1_2" type="author">Joachim Neubauer</ref> the author, <choice><orig>referres</orig><reg>refers</reg></choice> to <name type="misc">Friday for Future</name>.</s>
+        <s>The article is about a project of our school called <name type="misc">School B goes green</name> it's a project where our entire school has no lessons.</s>
+        <s>Instead we work in over <choice><orig>fourty</orig><reg>forty</reg></choice> workshops, which are all related to thematic of the safety of our environment.</s>
+        <s>Our school started this project because the <choice><orig>student's</orig><reg>students</reg></choice> started to become interested in politics regarding to <name type="misc">Fridays for future</name> and many took part in the demonstrations.</s>
+        <s>Therefore the students, teachers and parents were supposed to bring in ideas for workshops.</s>
+        <s>So workshops like saving food through food sharing, saving water <choice><orig>throught</orig><reg>through</reg></choice> showers instead of taking bath or a second-hand-flea-market, came off.</s>
+        <s>Two students even managed to open up a Fairtrade-Café, where they sold vegan waggles and fair trade coffee.</s>
+        <s>Also <choice><orig>to</orig><reg>two</reg></choice> people who do poetry slam came to our school and showed how to we can use our coices and words correctly.</s>
+        <s>I hope I was able to help you and you now have a better idea about our school project <name type="misc">School B goes green</name>.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

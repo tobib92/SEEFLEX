@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g43_t1</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="recounting" genre_family="biographical recount">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello</salute>
+        <s>my <choice><orig>Name</orig><reg>name</reg></choice> is <name type="person">Faraj al-Byarshan</name> <choice><orig>im</orig><reg>I'm</reg></choice> 41 years old <choice><orig>Man</orig><reg>man</reg></choice> from <name type="geo">Iraq</name>.</s>
+        <s>I work as an <choice><orig>Engineer</orig><reg>engineer</reg></choice> and immigrated in <date>2005</date> to <name type="geo">New York</name>, and <choice><orig>My</orig><reg>my</reg></choice> wife and two <choice><orig>suns</orig><reg>sons</reg></choice> followed in <date>2007</date>.</s>
+        <s><choice><orig>Im</orig><reg>I'm</reg></choice> pretty <choice><orig>Happy</orig><reg>happy</reg></choice> where I am today, although I have to fight with racism comments and with prejudices <choice><orig>everday</orig><reg>everyday</reg></choice>.</s>
+        <s>Me and my family live in a small house with a nice <choice><orig>Neighbourhood</orig><reg>neighbourhood</reg></choice>.</s>
+        <s>My two sons go to school and have a lot of friends which isn't obvious.</s>
+        <s>My reason to <choice><orig>Immigrate</orig><reg>immigrate</reg></choice> to the <name type="geo">US</name> was, because I wanted to get more money and wanted to <choice><orig>life</orig><reg>live</reg></choice> in better life circumstances.</s>
+        <s>It was pretty hard to <choice><orig>Immigrate</orig><reg>immigrate</reg></choice> in the <name type="geo">US</name> at that time, because the <name type="geo">US</name> was still in shock of <name type="misc">9/11</name> and had a lot of prejudices at that time against muslims.</s>
+        <s>But when I were allowed to live and work here my life got easier and as my wife came and followed me with the two kids I felt very <choice><orig>Happy</orig><reg>happy</reg></choice>.</s>
+        <s>It was pretty easy for them to immigrate.</s>
+      </p>
+      <p>
+        <s><choice><orig>Im</orig><reg>I'm</reg></choice> really looking forward to make more friends in the <name type="geo">US</name> and that there will be not as much racism as now.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

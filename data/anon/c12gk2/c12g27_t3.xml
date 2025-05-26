@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g27_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Is the statement <quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote> by <name type="person">Norma J. Lund</name> true or not.</s>
+        <s>In the following I gonna explain why <name type="person">Shakespeare</name> should or should not be studied in school.</s>
+      </p>
+      <p>
+        <s>To close up with the statement I have to mention that <name type="person">Shakespeare</name> works like <name type="misc">Romeo and Juliet</name> are timeless because they have topics like grief, love and discrimination.</s>
+        <s>On the other hand students often got problems with the Early Modern English and it is ahrd to understand the context.</s>
+        <s>The texts can be very frustrating.</s>
+      </p>
+      <p>
+        <s>Even the language is sometimes hard to understand for people today <name type="person">Shakespeare</name> is a big part of <choice><orig>todays</orig><reg>today's</reg></choice> culture and defined a lot of the English words we use today.</s>
+        <s>I think this argument is especially important for native speakers of English.</s>
+        <s>So because it is part of the English history and works of over 400 years ago are still important <name type="person">Shakespeare</name> should be <choice><orig>teached</orig><reg>taught</reg></choice> in school with native English speakers.</s>
+        <s>In this case <name type="person">Shakespeare</name> is a part of their history.</s>
+      </p>
+      <p>
+        <s>A bad thing about <name type="person">Shakespeare</name> is that to understand his plays it requires a lot of background knowledge.</s>
+      </p>
+      <p>
+        <s>A last argument for studying <name type="person">Shakespeare</name> is that <name type="person">Shakespeare</name> can be accessed through many different medias like films, theatres, books and so on.</s>
+      </p>
+      <p>
+        <s>Now the fact that spoke to me the most is that <name type="person">Shakespeare's</name> plays are meant to be perfomed and the real purpose of his plays gets lost.</s>
+        <s>The plays are not made to be analysed and to search for rhetorical devices.</s>
+        <s><name type="person">Shakespeare</name> may be timeless in the <choice><orig>todays</orig><reg>today's</reg></choice> world there are different topics which needs to be spoken over more than <name type="person">Shakespeare's</name> plays like the climate change for example.</s>
+      </p>
+      <p>
+        <s><choice><orig>Personaly</orig><reg>Personally</reg></choice> I think students would be very thankful to not study <name type="person">Shakespeare</name> or at least read new interpretations of his plays.</s>
+        <s>I think the today's audience needs to talk about other topics.</s>
+        <s>All in all it would be sad if<name type="person">Shakespeare</name> <choice><orig>be overlook</orig><reg>was overlooked</reg></choice> but I think you can find around you enough words and influence of <name type="person">Shakespeare</name> without knowing it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

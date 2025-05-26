@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12l13_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>Jane Smith</addrLine>
+      </address>
+      <date>27th September 2021</date>
+      <address>
+        <addrLine>Ministry of Education</addrLine>
+      </address>
+    </head>
+    <body>
+      <p>
+        <salute>Dear faculty of the Ministry of Education,</salute>
+      </p>
+      <p>
+        <s>It has recently come to my attention that it is in your interest to remove <name type="person">Shakespeare's</name> famous sonnets from the English school curriculum.</s>
+        <s>I am writing this letter to you to express my thoughts as to why it should still be a mandatory subject in schools.</s>
+      </p>
+      <p>
+        <s>Many people, especially students, think that there is no reason for discussing poems written 400 years ago in modern schools.</s>
+        <s>However,<name type="person">Shakespeare</name> has always written about timeless themes (e.g. life, death, love, hatred).</s>
+        <s>These topics are still as relevant as they were 400 years ago and need to be discussed with young students in order for them to truly become educated.</s>
+      </p>
+      <p>
+        <s>Furthermore, most students are intimidated by the language used.</s>
+        <s>Yet, a lot of words in today's <choice><orig>english</orig><reg>English</reg></choice> language were invented by <name type="person">Shakespeare</name>.</s>
+        <s>Therefore, it is needed to learn about a man with such a big influence on the <choice><orig>english</orig><reg>English</reg></choice> language.</s>
+      </p>
+      <p>
+        <s>Aside from the rich language, these sonnets contain hundreds of pearls of wisdom.</s>
+        <s>With the use of his imaginative language he portrays thoughts and feelings of out human conduct in away that is often inexpressible and idenfinable for us.</s>
+      </p>
+      <p>
+        <s>The antidote for the students that deem<name type="person">Shakespeare</name> as unworthy to be discussed in school therefore lies in the core tenant of<name type="person">Shakespeare</name> in Action's philosophy.</s>
+        <s>You learn<name type="person">Shakespeare</name> by doing <name type="person">Shakespeare</name>.</s>
+        <s>The sonnets and plays are meant to be presented, not silently read.</s>
+      </p>
+      <p>
+        <s>I hope I was able to make you reconsider your idea and I hope to hear from you soon.</s>
+      </p>
+      <p>
+        <signed>Yours, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g45_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>you have asked me about my opinion of <name type="misc">THUG</name>.</s>
+        <s>I heard your school board would like to <choice><orig>bann</orig><reg>ban</reg></choice> <name type="misc">The Hate U Give</name> from the school libraries and curriculums.</s>
+        <s>We already read the book here in <name type="geo">Germany</name> and it was great.</s>
+        <s>I can imagine that offensive language and sexual references and drug abuse in a novel is not for anybody.</s>
+        <s>I definitely would not read the book as an age younger than <choice><orig>six-teen</orig><reg>sixteen</reg></choice> years old but it is still so important.</s>
+      </p>
+      <p>
+        <s>Especially we as children in the same age like the <choice><orig>main-character</orig><reg>main character</reg></choice> <name type="person">Starr</name> are made for reading that novel.</s>
+        <s>Reading this book is not only important in <name type="geo">America</name> because racism and <choice><orig>oppersion</orig><reg>oppresion</reg></choice> of groups and religions are worldwide.</s>
+      </p>
+      <p>
+        <s>This problem exists in <name type="geo">Germany</name> and other countries as well.</s>
+      </p>
+      <p>
+        <s><name type="misc">The Hate U Give</name> consists of messages for your life.</s>
+        <s>The way of respect you have to show each other.</s>
+        <s>Stay always as you are and do not live to different <choice><orig>lifes</orig><reg>lives</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Make sure you have good friends that you can trust on and never subordinate anybody in our world.</s>
+      </p>
+      <p>
+        <s>I am happy that I read this modern novel which fits perfect in our times.</s>
+      </p>
+      <p>
+        <s>I hope that my arguments can help to change your teacher's opinion.</s>
+      </p>
+      <p>
+        <s>Have a great time and stay healthy!</s>
+      </p>
+      <p>
+        <s>See you soon!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g03_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel and especially the film, had a very big impact on my perspective.</s>
+      </p>
+      <p>
+        <s>For me it was very interesting to see the experience and life of a black girl on a school, where most of the people are white.</s>
+        <s>One very interesting thing was to learn about the two different versions of <ref target="b10gk1_1" type="character">Starr</ref>, <ref target="b10gk1_1" type="character">Williamson-Starr</ref> and the real <ref target="b10gk1_1" type="character">Starr</ref>.</s>
+        <s>I was very sad, because you had to see, how <ref target="b10gk1_1" type="character">Starr</ref> shows no personality in school and has to hide the real <ref target="b10gk1_1" type="character">Starr</ref>.</s>
+        <s>For me the movie in general, was very emotional, especially the scene, where <ref target="b10gk1_1" type="character">Khalil</ref> died, who was young and innocent.</s>
+        <s>It also <choice><orig>refreched</orig><reg>refreshed</reg></choice> the whole <name type="misc">Black Lives Matter</name> thing and gave me the impression that I was part of it.</s>
+        <s>I was also very impressed and inspired by <ref target="b10gk1_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> father, who didn't want to move, but make their city better.</s>
+        <s>The final scene of the movie was the sadest and scariest for me.</s>
+        <s>It was the scene, where <ref target="b10gk1_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> younger brother pointed a gun on him.</s>
+        <s>With this scene, the sentence <quote>Thug Life</quote> or <quote>The Hate U Give Little Infants Fucks Everybody</quote> became very important for me.</s>
+        <s>It showed me that in the cities, where many black people live and police violance is a thing, also the <choice><orig>yougest</orig><reg>youngest</reg></choice> people will be affected.</s>
+        <s>It was also very interesting to <choice><orig>tink</orig><reg>think</reg></choice> about <quote>Thug Life</quote> in context of <ref target="b10gk1_1" type="character">Khalil</ref> because he only was an innocent <foreign xml:lang="de">Opfer</foreign> of the system, in that the justice is earning much money and the poor people who have no other way to earn money except drug dealing.</s>
+      </p>
+      <p>
+        <s>All in all we can be very happy about where we live, because in other countries or cities, the <choice><orig>circumstences</orig><reg>circumstances</reg></choice> could be much more miserable and much more dangerous so that we should think of people like the <ref target="b10gk1_1" type="character">Carters</ref> or <ref target="b10gk1_1" type="character">Khalil</ref>, if we are angry or sad about something.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

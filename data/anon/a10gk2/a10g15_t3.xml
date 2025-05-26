@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g15_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The statement illuminates the dilemma of, that <quote>in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employees</quote>.</s>
+        <s>Considering the <choice><orig>fakt</orig><reg>fact</reg></choice>, that workers and employers are two <choice><orig>diffrent</orig><reg>different</reg></choice> jobs and it's hard to be <choice><orig>an</orig><reg>a</reg></choice> worker on one day and on the other day an employer, <choice><orig>i</orig><reg>I</reg></choice> just don't get the statement, does it <choice><orig>means</orig><reg>mean</reg></choice>, that one employer is the chef from another one and they can both tell <choice><orig>eachother</orig><reg>each other</reg></choice>, what the other one has to do?</s>
+      </p>
+      <p>
+        <s>I got it like this.</s>
+      </p>
+      <p>
+        <s>I think <choice><orig>its</orig><reg>it's</reg></choice> hard to actually have an opinion about that statement, because I never went to <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>Fabric</orig><reg>fabric</reg></choice> like that and never talked to one of the workers or to one of the employers.</s>
+      </p>
+      <p>
+        <s>I definitely believe that as some points employers are being exploited by employers, <choice><orig>becouse</orig><reg>because</reg></choice> we talked about how bad the conditions are and with that known <choice><orig>i</orig><reg>I</reg></choice> think it's possible.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

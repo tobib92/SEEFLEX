@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g49_t2</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s>It means that <name type="person">Reece</name> <choice><orig>know</orig><reg>knows</reg></choice> what his grandparents had to do to it's time.</s>
+        <s>When they have arrived black coloured people weren't liked by the population.</s>
+        <s>They have fighted for it and now it's a way better than in the <date>1960s</date>.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>He says <quote>the legacy of slavery impacts negatively upon black communities</quote>.</s>
+        <s>It means people <choice><orig>who's</orig><reg>whose</reg></choice> grandfather was a slave, have a harder <choice><orig>live</orig><reg>life</reg></choice> than just black people.</s>
+        <s>Not everyone was a slave but the most were.</s>
+        <s>People today are making jokes about the slaves.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>That means slavery is already over but the people who weren't against the slavery gave <choice><orig>theire</orig><reg>their</reg></choice> opinion next to their <choice><orig>childs</orig><reg>children</reg></choice> friends whatever.</s>
+        <s>Now these are some people on earth who think slavery is good.</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> why the legacy remains.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>Black celebrities like artists, leaders and more, help young black children.</s>
+        <s>They help because they know which problems they have and they want a better childhood for them.</s>
+        <s>Maybe the black leaders had a bad childhood <choice><orig>to</orig><reg>too</reg></choice> and they had the same problems, so they don't want them to have it.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s><quote>Now black people are in the charts</quote><choice><orig>mean</orig><reg>means</reg></choice> that they are hyped, <choice><orig>succesful</orig><reg>successful</reg></choice>, idols.</s>
+        <s>I think they means celebrities like <name type="person">Drake</name>, <name type="person">Travis Scott</name>, <name type="person">LeBron James</name> and more.</s>
+        <s>A lot of black celebrities are idols and very successful.</s>
+        <s>That's why some kids want to be black, but they don't see the other side of getting hated by people.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>They remain positive about it because this way made them strong and made them the people who they are now.</s>
+        <s>After going through this way, they are ready for new <q>adventures</q> in their <choice><orig>live</orig><reg>life</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

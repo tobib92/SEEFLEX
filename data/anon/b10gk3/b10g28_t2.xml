@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The purpose of the scene is to show the family's love for each other and how they care about each other.</s>
+        <s>Another purpose of the scene is to show how the <ref target="b10gk3_1" type="character">Carter</ref> family is in contrast fear from getting harmed them both the gang violence and police violence.</s>
+      </p>
+      <p>
+        <s>To show the family's love for each other the director decided to use an orange color scheme which in combination with the calm music in the background gives off a positive/calming atmosphere.</s>
+        <s>Even after <ref target="b10gk3_1" type="character">Maverick Carter</ref> is tucked to the ground his wife doesn't let him go and stays with him.</s>
+        <s>The close relationship is also lifted up by the changing close up shots of each family <choice><orig>members</orig><reg>member's</reg></choice> face and smile while talking to each other.</s>
+        <s>Another cinematic device that is used to illustrate their chemistry is the calm music playing before and after the confrontation with the police.</s>
+      </p>
+      <p>
+        <s>Another distinct function of this scene is to display <ref target="b10gk3_1" type="character">Starr's</ref> character growth.</s>
+        <s>In this scene she doesn't stop filming the events that are <choice><orig>happning</orig><reg>happening</reg></choice> which is a contrast to her previous encounter with the police where she dropped her phone because an officer ordered her to do so.</s>
+      </p>
+      <p>
+        <s>To display the constant violence <ref target="b10gk3_1" type="character">Starr's</ref> family has to face from both gangs and the police the director decided to use several cinematic devices.</s>
+        <s>The warm atmosphere that was established at the beginning of the scene through an orange color scheme instantly vanishes as soon as the family looks outside.</s>
+        <s>The chilling and calming music stops and switches to a darker themed music.</s>
+        <s>The gang gets introduced with a really dark color scheme which is in direct contrast to the inside of the restaurant which in combination with the music demonstrates the audience the danger of the gang.</s>
+        <s>The music <choice><orig>get</orig><reg>gets</reg></choice> louder as <ref target="b10gk3_1" type="character">Maverick</ref> is heading towards them which focuses the <choice><orig>viewers</orig><reg>viewer's</reg></choice> attention on what is about to happen.</s>
+      </p>
+      <p>
+        <s>The dark themed outside of the restaurant gets interrupted by a shining yellow gas station as the gang leaves the place which makes the viewer more concentrated on what is about to happen.</s>
+        <s>After the police arrives and starts heading towards <ref target="b10gk3_1" type="character">Maverick</ref> a handhold camera is used and starts getting closer to <ref target="b10gk3_1" type="character">Maverick</ref> as the police <choice><orig>starst</orig><reg>starts</reg></choice> <choice><orig>heding</orig><reg>heading</reg></choice> to him.</s>
+        <s>The handheld camera causes the scene <gap reason="illegible" quantity="1" unit="word">shadue</gap> and gets closer to <ref target="b10gk3_1" type="character">Maverick</ref> which illustrates him feeling smaller and smaller.</s>
+        <s>This effect is also supported by the suspensive music in the background.</s>
+        <s>The violence and the conflict in this scene is illustrated through several cinematic devices such as color usage and change and the changing music throughout the scene.</s>
+      </p>
+      <p>
+        <s>Summing up one can say that this scene manages to implement the violence and conflict going on in this scene through perfect combination of camera movement, color usage and music.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

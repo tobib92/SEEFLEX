@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g06_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Based on that, <ref target="a12gk1_1" type="author">John Worne</ref> can be considered a fan of learning languages, he has many arguments for his opinion.</s>
+      </p>
+      <p>
+        <s>the first line of <ref target="a12gk1_1" type="author">John Worne</ref> is a really big headline <quote>can't, won't, don't, three words <choice><orig>wich</orig><reg>which</reg></choice> sum up our national view on speaking foreign languages</quote>, list, <choice><orig>wich</orig><reg>which</reg></choice> is also the title of the text is giving a really childish and strong opinion I'm not learning languages, because these three words are such easy sounds.</s>
+        <s>It makes sounds like it could have been from a baby and is making the view sound dumber and more ignorant.</s>
+        <s>In the next lines he's proving his point, language learning has a strong decline in the <name type="geo">UK</name> he does that by relying on statistics, <choice><orig>wich</orig><reg>which</reg></choice> show that he's right.</s>
+        <s>In line 10-15, he's weakening arguments against his point by making them sound ridiculous.</s>
+        <s>He lists <choice><orig>to</orig><reg>two</reg></choice> statements from non language learners and after that place is a stupid prediction, so ridiculous, that it makes the whole sentence sound less convincing.</s>
+        <s>Goes on to say how dumb this all sounds with the word <quote>cobblers</quote>.</s>
+      </p>
+      <p>
+        <s>In line 16-23 he states how important it is to learn languages in a modern, globalised world, he use the words <quote>vital</quote> and <quote>essential</quote> <ref target="a12gk1_1" type="line">(l. 16, 17)</ref> to show the importance of languages and from line 19-23 also shows with a statistic how important it became.</s>
+        <s>The statistic is a survey of citizens for <gap reason="illegible" quantity="1" unit="word">emptey</gap> ability speaking more languages than <choice><orig>english</orig><reg>English</reg></choice> is necessary for almost two-thirds of the businesses in the <name type="geo">UK</name>.</s>
+        <s>In line 24 he calls universities <quote>forward-thinking</quote> the second time in the text <ref target="a12gk1_1" type="line">(l. 15)</ref> <quote>language learning is vital for the <name type="geo">UK's</name> future posperity</quote> in association with language learning, <choice><orig>wich</orig><reg>which</reg></choice> makes the readers link the two words <quote>language learning</quote> and <quote>future</quote>, <choice><orig>wich</orig><reg>which</reg></choice> is his intention of the text.</s>
+        <s>The intention of the text is also the ending of his text, it is an appeal to the parents of the <name type="geo">UK</name> to inspire their kids for language learning and thinking international for a brighter future of the kids.</s>
+        <s>He is talking to the parents directly and includes him as a parent too.</s>
+        <s>He use <quote>we</quote> and <quote>us</quote> to make him part of it and give the parents the thought, that he is speaking from their perspective, it makes more <choice><orig>believeable</orig><reg>believable</reg></choice>, that it actually is his opinion if he also wants his kid to be educated that way, so that his kid has a brighter future.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk1_1" type="author">John Worne</ref> argues really passionate and often <choice><orig>rely's</orig><reg>relies</reg></choice> on statistics to prove his point, it's his main argumentative strategy.</s>
+      </p>
+      <p>
+        <s>In essential, he's a big fan of learning languages and thinks it could help the future generation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

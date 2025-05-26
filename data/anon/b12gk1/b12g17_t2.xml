@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g17_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="b12gk1_1" type="speaker">Boris Johnson</ref> tries to appeal to the listeners that they have to take action and <choice><orig>point</orig><reg>points</reg></choice> out that our future generations depend on our behavior and further moves.</s>
+      </p>
+      <p>
+        <s>He starts the speech by making clear that climate change is a real problem and no fiction as it seems to be <quote>the tragedy is not a movie</quote> <ref target="b12gk1_1" type="line">(l. 7)</ref>.</s>
+        <s><choice><orig>Refering</orig><reg>Referring</reg></choice> to his experience with meetings and promises he makes clear that this collaboration should only make actions instead of saying nice words <quote>I was there with many of you in Copenhagen</quote> <ref target="b12gk1_1" type="line">(l. 10)</ref>.</s>
+        <s>Climate fonds should also be <choice><orig>payed</orig><reg>paid</reg></choice> but money is not the only way to fight climate change <quote>will not succeed by government spending alone</quote>: He presents many <choice><orig>oportunities</orig><reg>opportunities</reg></choice> such as working together and offering development assistance, but also getting an advance on the market with green energy.</s>
+        <s>By that he tries to calm the minds of the listeners which only see war and suffering when listening to this topic.</s>
+        <s>At the end he points out that actions have consequences and that our future depends on us <quote>I fully intend to be alive in 2060</quote> <ref target="b12gk1_1" type="line">(l. 36)</ref>.</s>
+        <s>Our future generations will judge our actions <quote>if we fail, they will not forgive us</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+        <s>Finally he makes clear, that the resources are given to operate <quote>we have the technology</quote> <ref target="b12gk1_1" type="line">(l. 46)</ref>.</s>
+      </p>
+      <p>
+        <s>In the beginning of the <choice><orig>speach</orig><reg>speech</reg></choice> he refers to <name type="person">James Bond</name> <ref target="b12gk1_1" type="line">(l. 2)</ref>, who is a well known celebrity in the world.</s>
+        <s>This allusion is used in order to underline the point that we find outselves in an intense siuation that is feeling movie-like to ourselves.</s>
+        <s>We also find ourselves as the protagonist of the movie 'life'.</s>
+        <s>The <quote>doomsday device</quote> <ref target="b12gk1_1" type="line">(l. 3)</ref> is a <choice><orig>metaphore</orig><reg>metaphor</reg></choice> which compares the climate change with a ticking <quote>red digital clock</quote> <ref target="b12gk1_1" type="line">(l. 4-5)</ref> which detonates in the future.</s>
+        <s>This makes it more <choice><orig>visuable</orig><reg>visable</reg></choice> for the listener to distinguish the problem.</s>
+        <s>The <quote>wire</quote> <ref target="b12gk1_1" type="line">(l. 4)</ref> stands for our actions: if you pull the wrong one, the bomb detonates.</s>
+        <s>He uses a lot of inclusive language to ensure <choice><orig>the</orig><reg>that</reg></choice> everyone sees <choice><orig>themselfs</orig><reg>themselves</reg></choice> as a part of the collaboration: <quote>We are in roughly the same position</quote> <ref target="b12gk1_1" type="line">(l. 6)</ref>; <quote>When we get real</quote> <ref target="b12gk1_1" type="line">(l. 14-15)</ref>; <quote>we in this room can deploy hundreds of billions</quote> <ref target="b12gk1_1" type="line">(l. 22-23)</ref>.</s>
+        <s>He combines that with direct addresses to let them know that every single one of them is needed: <quote>my fellow global leaders, [...]</quote> <ref target="b12gk1_1" type="line">(l. 6)</ref>, or <quote>I was the with many of you</quote> <ref target="b12gk1_1" type="line">(l. 10)</ref>.</s>
+        <s>To point out the rapid change in temperature of climate change, he uses an enumeration: <quote>speed and abruptness</quote> <ref target="b12gk1_1" type="line">(l. 8)</ref>.</s>
+        <s>We find a repetition in line 10 and 11: <quote>I was there</quote>.</s>
+        <s>He points out that he knows what he is talking about and owns experience.</s>
+        <s><quote>And all those promises will be nothing but blah, blah, blah</quote><ref target="b12gk1_1" type="line">(l. 12-13)</ref> is a very controverse sentence which <choice><orig>critizises</orig><reg>criticizes</reg></choice> the lack of action and empty promises that have been given a lot in the past.</s>
+      </p>
+      <p>
+        <s>Another enumeration has been used in line 24 to 25: <quote>work together [...] using our funds [...] developments assistance [...] multilateral development banks [...]</quote>.</s>
+        <s>He shows that he has a plan and knows how to operate in such a time of tension.</s>
+        <s>He gives hope with offering a new economic growth potential by comparing the future <name type="geo">UK</name> to <quote>[...] the Saudi Arabia of the wind</quote> <ref target="b12gk1_1" type="line">(l. 29)</ref> if the <name type="geo">UK</name> is willingly to invest into green energy to reduce geenhouse gases.</s>
+        <s>We should not <quote>[...] fluff our lines or miss our cue</quote> <ref target="b12gk1_1" type="line">(l. 40)</ref>.</s>
+        <s>By this metaphor he points out the importance of our actions that will effect our future generations.</s>
+        <s>He comes to a conclusion where he underlines the fact that there is not other <choice><orig>oportunity</orig><reg>opportunity</reg></choice> by using the repetition: <quote>will not, and cannot [...]</quote> <ref target="b12gk1_1" type="line">(l. 43)</ref>.</s>
+        <s><quote><s>We have the ideas.</s><s>We have the technolog.</s><s>We have the bankers</s></quote><ref target="b12gk1_1" type="line">(l. 46-47)</ref> should strengthen their hope and <quote>the opportunity, and [...] the duty</quote> <ref target="b12gk1_1" type="line">(l. 49)</ref> should empower their self-esteem and rise their ambitions.</s>
+        <s>What we can <choice><orig>conclud</orig><reg>conclude</reg></choice> is that <ref target="b12gk1_1" type="speaker">Johnson</ref> wants to ensure that the topic, climate change, is taken seriously, but in the same time he does not want to scare his liteners away, which explains his ideas of collaboration, economic growth and guture reputation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g64_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>Do you remember your opinion on students exchanges?</s>
+        <s>You once told me that you think student exchanges are a waste of time and I would like to tell you my opinion.</s>
+      </p>
+      <p>
+        <s>In my opinion student exchanges are not a <choice><orig>wast</orig><reg>waste</reg></choice> of time.</s>
+        <s>First of all you can see another country where you maybe work later and get some experience by making friends and talking to the people.</s>
+        <s>Another point is that you will learn a new language or increase your language skills in another way than by a teacher or the internet.</s>
+        <s>As a final point it will look good on an application if you <choice><orig>traveled</orig><reg>travelled</reg></choice> and lived in another country, because you may have to travel a lot in your future job.</s>
+      </p>
+      <p>
+        <s>I hope that I could change your opinion and maybe we will once study abroad together.</s>
+      </p>
+      <p>
+        <signed>Your John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

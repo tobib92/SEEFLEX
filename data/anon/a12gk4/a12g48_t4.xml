@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g48_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey friend,</salute>
+        <s>what's up?</s>
+      </p>
+      <p>
+        <s>I hope you're doing fine.</s>
+      </p>
+      <p>
+        <s>You know I recently found an article, named <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref>, which means <quote>Berlin speaks <choice><orig>english</orig><reg>English</reg></choice></quote>, written by <ref target="a12gk4_2" type="author">Marina Kormbaki</ref>.</s>
+        <s>I don't know if you wanna know where it's from but it's from <name type="misc">Hannoversche Allgemeine Zeitung</name>, published on <date>15 July 2016</date>.</s>
+        <s>It's basically about living in <name type="geo">Berlin</name> and how easy and good it is to live there as a not <choice><orig>germanspeaking</orig><reg>German-speaking</reg></choice> person.</s>
+        <s>As I read the article I knew I had to write you about it <choice><orig>becaus</orig><reg>because</reg></choice> I know you once said you considered spending a year in <name type="geo">Germany</name>, in <name type="geo">Berlin</name> maybe.</s>
+        <s>And I can tell you according to this article <name type="geo">Berlin</name> would be a really great choice.</s>
+        <s>Okay, like the author says that <name type="geo">Berlin</name> is special because many <choice><orig>British</orig><reg>Brits</reg></choice>, <choice><orig>American</orig><reg>Americans</reg></choice> and <choice><orig>Austrailier</orig><reg>Australians</reg></choice> go to <name type="geo">Berlin</name> for <choice><orig>tourists</orig><reg>touristy</reg></choice> stuff or to study there and many of them stay there.</s>
+      </p>
+      <p>
+        <s>You wouldn't too helpless in <name type="geo">Berlin</name> because the text says that many people use <choice><orig>english</orig><reg>English</reg></choice> for example on the board for <choice><orig>restaurands</orig><reg>restaurants</reg></choice> are <choice><orig>english</orig><reg>English</reg></choice> dishes or <choice><orig>other</orig><reg>others</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Some people say that <name type="geo">Berlin</name> is not like <name type="geo">Germany</name> in general it's a special place with many cultures mixed.</s>
+        <s>In jobs many people communicate in <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>And a little fun fact, some lady named <name type="person">Orla Baumgarten</name> has a bookstore <name type="misc">curious Fox</name> with secondhand books in <choice><orig>english</orig><reg>English</reg></choice> and she says that her store is perfect in <name type="geo">Berlin</name> because of the rent costs.</s>
+        <s>So it's a really good thing in <name type="geo">Berlin</name> to live because the prices are low there.</s>
+        <s>And that's it.</s>
+        <s>That's what was in the text.</s>
+        <s>I hope I helped you clear your vision and your decision.</s>
+        <s>Who knows maybe I, myself, will go to <name type="geo">Berlin</name> because it <choice><orig>sound</orig><reg>sounds</reg></choice> really cool living in this big and colorful city.</s>
+        <s>I can't write any longer I must go to school now, bye!</s>
+      </p>
+      <p>
+        <s>Have a nice day!</s>
+      </p>
+      <p>
+        <signed>Your Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

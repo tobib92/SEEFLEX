@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g27_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the newspaper article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, don't</ref> <ref target="a12gk3_1" type="author">John Worne</ref> states his point of view and uses communicative strategies, use of language and stylistic devices, which will be analyzed in the following.</s>
+      </p>
+      <p>
+        <s>First of all we look at the quality of the paper.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> uses elevated language and complicated sentence structure.</s>
+        <s>He mostly backs his opinion up with evidence and sometimes uses colloquial language.</s>
+        <s>But overall I would say that <name type="misc">The Telegraph</name> is a quality paper.</s>
+      </p>
+      <p>
+        <s>Regarding the use of language <ref target="a12gk3_1" type="author">John Worne</ref> uses inclusive language, due to the pronouns we, us and our <ref target="a12gk3_1" type="line">(cf. l. 5)</ref> this includes the reader and he feels like he is part of the problem but can also be the solution.</s>
+        <s>To make his point of view clear he also uses persuasive techniques and stylistic devices.</s>
+        <s>The beginning of his first sentence, which is also his headline is an enumeration end it stresses his claim that the national view on learning foreign languages is disastrous <ref target="a12gk3_1" type="line">(cf. l. 1)</ref>.</s>
+        <s>In order to show that it is a country wide problem he uses the metaphor collective brains <ref target="a12gk3_1" type="line">(cf. l. 5)</ref> which paints a picture for the reader.</s>
+        <s>Another metaphor can be found in line seven, where he says there is a long haul ahead.</s>
+        <s>Which basically means that there is a long way to go.</s>
+        <s><ref target="a12gk3_1" type="author">John Worne</ref> uses a comparison, to present his evidence.</s>
+        <s>He compares number of <choice><orig>exames</orig><reg>exams</reg></choice> from years before <ref target="a12gk3_1" type="line">(cf. ll. 9-11)</ref>, that showcases the reader how the situation got worse and worse.</s>
+        <s>Leading to him considering to stop this trend.</s>
+        <s>Furthermore he is very ironic <ref target="a12gk3_1" type="line">(cf. ll. 12-13)</ref>, where he gives his opinion without evidence and uses very colloquial language.</s>
+        <s>He does that to convince the reader of how ridiculous the opposite is.</s>
+        <s>Moreover this use of language allows him to get a wider readership.</s>
+      </p>
+      <p>
+        <s>Another stylistic device are the <choice><orig>Repetitions</orig><reg>repetitions</reg></choice> he uses <ref target="a12gk3_1" type="line">(cf. ll. 27-29)</ref>, they emphasise his points, like how it is easier to be a lawyer who can speak a foreign language.</s>
+      </p>
+      <p>
+        <s>To come to an end <ref target="a12gk3_1" type="author">John Worne</ref> does an excellent job of attracting a big readership and convincing them to be on his side.</s>
+        <s>As he uses inclusive language stresses his points and turns the opposing side into a joke with well-chosen stylistic devices.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

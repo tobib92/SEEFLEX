@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g20_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211220</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Following, I will comment on <ref target="c11gk3_1" type="character">Walter's</ref> and the other <ref target="c11gk3_1" type="character">Youngers'</ref> dreams in the context of the American <choice><orig>dream</orig><reg>Dream</reg></choice> and African American history.</s>
+      </p>
+      <p>
+        <s>At first, the American <choice><orig>dream</orig><reg>Dream</reg></choice> was the idea of equal rights and freedom for everybody.</s>
+        <s>But in the <choice><orig>american</orig><reg>American</reg></choice> history you can find lots of racism and discrimination.</s>
+        <s>Also in the <date>1950s</date> and <date>1960s</date> in <name type="geo">America</name> was still a lot of slavery and racism.</s>
+        <s>This is also the time, when the drama plays.</s>
+      </p>
+      <p>
+        <s>So, what all dreams of the <ref target="c11gk3_1" type="character">Younger family</ref> have in common is the hoping for a better life.</s>
+        <s>In this time being an African American was very tough because it was for example very hard to get a good job or have good living conditions.</s>
+        <s>The statement from <ref target="c11gk3_1" type="character">Mama</ref> that <quote>Walter has almost lost his mind thinking about money all the time</quote> <add>(task 3)</add> is probably concerning many other Native Americans in this time too and not only <ref target="c11gk3_1" type="character">Walter</ref> because nobody wants to live under bad financial conditions.</s>
+        <s>The different dreams of the <ref target="c11gk3_1" type="character">Younger family</ref> all bring freedom with them, which is also one of the ideas of the American Dream.</s>
+        <s>But the American <choice><orig>dream</orig><reg>Dream</reg></choice> is also about that if you work hard enough you can achieve anything you want and it does not matter which gender or skin colour etc. you have.</s>
+        <s>And this is also shown in the dreams of the <ref target="c11gk3_1" type="character">Younger family</ref> because they all want to have the same chances or living conditions as for example a middle class white family.</s>
+        <s>And they think that with the paycheck this is possible.</s>
+      </p>
+      <p>
+        <s>Altogether the <ref target="c11gk3_1" type="character">Youngers'</ref> dreams are all based on the American Dream and should give the family more freedom.</s>
+        <s>Also the paycheck is one of the few or probably the only solution to escape the bad financial and living conditions the family has to live with.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

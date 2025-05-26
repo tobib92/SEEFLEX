@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g29_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>From my point of view the scene is faithful enough to the novel's idea because the most important things are shown and just some details are different.</s>
+      </p>
+      <p>
+        <s>Very important is that <ref target="b10gk3_1" type="character">Maverick</ref> <choice><orig>behave</orig><reg>behaves</reg></choice> in the movie and novel in the same way because that's that what he has told in his children in an earlier scene.</s>
+        <s>If he wouldn't behave like that it's shown that it depends on the police officer if you get shot and not on your behaviour.</s>
+        <s><ref target="b10gk3_1" type="character">Khalil</ref> doesn't behave like <ref target="b10gk3_1" type="character">Maverick</ref> what could be a reason why <ref target="b10gk3_1" type="character">115</ref> <choice><orig>shots</orig><reg>shoots</reg></choice> him.</s>
+        <s>It's still should not be a reason to shoot somebody because he doesn't behave like he is told to but because of racism it is.</s>
+        <s>The details the <ref target="b10gk3_1" type="character">Maverick</ref> has the discussion with <ref target="b10gk3_1" type="character">King</ref> and not with someone else like in the novel is not that important because that doesn't <choice><orig>effect</orig><reg>affect</reg></choice> <ref target="b10gk3_1" type="character">Maverick</ref> behaviour.</s>
+      </p>
+      <p>
+        <s>To conclude the scene is faithful enough to the novel in my opinion because the details are different but the important part, how <ref target="b10gk3_1" type="character">Maverick</ref> <choice><orig>behave</orig><reg>behaves</reg></choice>, is the same.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

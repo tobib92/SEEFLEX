@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12l03_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="discussion">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Sarah,</salute>
+      </p>
+      <p>
+        <s>How are you, I hope you are doing great.</s>
+        <s>In your last e-mail you asked we if <name type="geo">Germany</name> could become completely independent and cut itself off from globalization.</s>
+        <s>I thought that this question was really good and it made me think especially because we are dealing with this topic in school.</s>
+        <s>I started to do some research and I found this article from <ref target="b12lk1_2" type="author">Mark Schieritz</ref>, from <date>2018</date> called <ref target="b12lk1_2" type="title">Verführerische Isolation</ref> which deals with exactly this question.</s>
+      </p>
+      <p>
+        <s><name type="geo">Germany</name> is an extremely industrialized country with many companies and global <choice><orig>playes</orig><reg>players</reg></choice> which means that we export foods with a worth of about 1,300 billion euro yearly.</s>
+        <s>That being said, <name type="geo">Germany</name> also imports a lot of goods which would give us a difference of 245 billion euro after doing some math.</s>
+        <s>But looking at the bigger picture this number wouldn't make such a difference when looking at <name type="geo">Germany's</name> <choice><abbr>GPA</abbr><expan>grade point average</expan></choice>, which is why it could be possible <choice><orig>theoreticly</orig><reg>theoretically</reg></choice>.</s>
+      </p>
+      <p>
+        <s>But practically <name type="geo">Germany</name> couldn't do all that so fast because of all the supply chains that would have to be cut, and the job and skill gaps <name type="geo">Germany</name> has, because after many of these jobs were outsourced in the past years to emerging economies nearly <choice><orig>noone</orig><reg>no one</reg></choice> could do then which is why we would need job <choice><orig>retrainig</orig><reg>retraining</reg></choice>, that costs a lot of money and time.</s>
+      </p>
+      <p>
+        <s>Other than the <name type="geo">US</name>, <name type="geo">Germany</name> does no have sufficient natural <choice><orig>recources</orig><reg>resources</reg></choice> like petrol and gas and without no one could drive their cars to work and even more <choice><orig>essencial</orig><reg>essential</reg></choice> things couldn't be possible anymore.</s>
+        <s>the author of this article claims that in theory it could be possible to adapt in the long run but inpractic this looks different.</s>
+      </p>
+      <p>
+        <s>Today there is no industrialized country which was capable of doing so.</s>
+        <s>Instead it is rather a punishment to be <choice><orig>economicly</orig><reg>economically</reg></choice> isolated like <name type="geo">South Africa</name>.</s>
+        <s>And even this punishment was so harsh that they had to end it.</s>
+      </p>
+      <p>
+        <s>In theory, the long-term consequences wouldn't be too bad because were people could be employed, hence the wealth status would grow.</s>
+        <s>But again, <choice><orig>practicaly</orig><reg>practically</reg></choice> life would be boring and also much were <choice><orig>expensiv</orig><reg>expensive</reg></choice>.</s>
+      </p>
+      <p>
+        <s>For instance, I couldn't have as much as cheap <choice><orig>strawberrys</orig><reg>strawberries</reg></choice> because most of them are imported from <name type="geo">Spain</name> and I couldn't wear the clothes I am currently wearing.</s>
+        <s>But more essential would be that we would have limited access to for example medication from the <name type="geo">US</name> or it's compounds from <name type="geo">India</name>.</s>
+      </p>
+      <p>
+        <s>To conclude all these <choice><orig>theoratical</orig><reg>theoretical</reg></choice> and practical aspects, one can say that in theory it would be possible bt <choice><orig>than</orig><reg>then</reg></choice> we would live a life that we had lived <choice><orig>houndreds</orig><reg>hundreds</reg></choice> of years ago at the costs of all this cultural diversity that has enriched our lives.</s>
+      </p>
+      <p>
+        <s>I hope I could answer your question and if you think about it many of these aspects can also be applied to the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>See you soon,</s>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

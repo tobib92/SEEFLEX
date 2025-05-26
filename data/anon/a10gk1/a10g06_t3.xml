@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g06_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to comment on whether the unions really do protect the workers rights or not based on the article <ref target="a10gk1_1" type="title">Is the usefulness of unions coming to an end? The answer is yes</ref>.</s>
+      </p>
+      <p>
+        <s>First of all it is true that in the past the unions helped to protect the employers from being mistreated but even though they managed to make a change at that time they are not ensuring that the workers have a safe work environment anymore.</s>
+      </p>
+      <p>
+        <s>Nowadays they are more focused on obstructing <choice><orig>companies</orig><reg>companies'</reg></choice> abilities to compete or produce expensive products.</s>
+      </p>
+      <p>
+        <s>I have to admit that there are a lot of cases where the workers are still being exploited by their employers especially in <name type="geo">Bangladesh</name>.</s>
+        <s>With that being said, I do not agree with the statement that employers are being exploited by the employees when it is clearly the other way around <ref target="a10gk1_1" type="line">(l. 17-18)</ref>.</s>
+      </p>
+      <p>
+        <s>To sum it all up I do agree with the author that the unions are not as useful as they used to be.</s>
+        <s>But I do not think that the workers are exploiting their employers <choice><orig>esspecially</orig><reg>especially</reg></choice> since there are still a lot of workers who work under terrible working conditions.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

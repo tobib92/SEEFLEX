@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g50_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Today, we have lots of problems with the effects of pollution, like the mass extinction of species.</s>
+      </p>
+      <p>
+        <s>There are several possible ways to come closer to a solution of pollution.</s>
+        <s>On the one hand, you could say, that the politics have to change something to stop the pollution by discussing new laws and building devices to use renewable energy sources for example.</s>
+        <s>You could argue, that, because of that, you as one person <choice><orig>does</orig><reg>do</reg></choice> not have to do something.</s>
+      </p>
+      <p>
+        <s>But there are on the other hand many possibilities you can do like divide the garbage or go demonstrating to show the politics that there has to be a change.</s>
+        <s>You can also try to use environmental friendly products like food <choice><orig>marked</orig><reg>market</reg></choice> as biological or other products like soap, washing powder and shampoos with natural ingredients.</s>
+        <s>I know, not everybody has the money for it but riding bike helps as example the environment too.</s>
+      </p>
+      <p>
+        <s>In my opinion, you should do as much as you can to stop the pollution.</s>
+      </p>
+      <p>
+        <s>Also a small step like riding bike instead of driving a car can help the environment much.</s>
+        <s>Try to do what you can and what you think is the best to prevent pollution!</s>
+        <s>We have to act immediately!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

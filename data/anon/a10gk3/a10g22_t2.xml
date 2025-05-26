@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g22_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The author writes about environmental pollution as well as its causes and effects.</s>
+        <s>In the following I'm going to analyse how the author underlines her opinion.</s>
+      </p>
+      <p>
+        <s>The author writes in a very objective way to reach a general audience.</s>
+        <s>The information she cites are very low at the beginning while they get worse at the end, referring to an environmental tragedy in <name type="geo">India</name>.</s>
+        <s>She doesn't quote any experts or people directly affected by environmental pollution, but she gives examples for the effects on our climate.</s>
+      </p>
+      <p>
+        <s>The author is clearly against environmental pollution because she just quotes facts and examples that show devastating effects.</s>
+      </p>
+      <p>
+        <s>She uses inclusive pronouns such as <quote>we</quote> to impose her opinion with the reader and <choice><orig>creat</orig><reg>create</reg></choice> a sense of responsibility, which is confirmed by quoting situations of our everyday life.</s>
+      </p>
+      <p>
+        <s>The drastic choice of words which for example <choice><orig>discribe</orig><reg>describe</reg></choice> the environmental tragedy in <name type="geo">India</name> <choice><orig>refer</orig><reg>refers</reg></choice> to the <choice><orig>readers</orig><reg>reader's</reg></choice> conscience and <choice><orig>make</orig><reg>makes</reg></choice> him feel responsible.</s>
+        <s>She also refers to the <choice><orig>readers</orig><reg>reader's</reg></choice> fear by saying that we only have this one planet and if we don't change anything, a big amount of destruction won't be prevented.</s>
+      </p>
+      <p>
+        <s>To says that we all live on planet earth feels kind of ironic, because everyone knows.</s>
+        <s>After saying that all of our food is pollutioned and that our behavior <choice><orig>effects</orig><reg>affects</reg></choice> sea- and wildlife in a very destructive way, she asks the reader, if our progress in science and technology as well as our growing wealth is really a profit or just a <quote>blind alley</quote>.</s>
+        <s>This metaphor could mean, that we all have to overthink our way of life and our past behavior to get out of this situation.</s>
+        <s>By referring to nuclear tests, the author wants to say that environmental pollution is made by our everyday life and smaller things such as flying for holiday or go by car to work.</s>
+      </p>
+      <p>
+        <s>After looking at the article, the <choice><orig>authors</orig><reg>author's</reg></choice> opinion isn't objective at all.</s>
+        <s>The stylistic devices and communicative strategies confirm her opinion at <choice><orig>an</orig><reg>a</reg></choice> global crisis, which <choice><orig>effects</orig><reg>affects</reg></choice> everyone and must be taken seriously.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

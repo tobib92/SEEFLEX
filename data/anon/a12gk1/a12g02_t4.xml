@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g02_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Canadian friend,</salute>
+      </p>
+      <p>
+        <s>I have just read an article from <ref target="a12gk1_2" type="author">Marina Kormbaki</ref> about <name type="geo">Berlin</name> and I don't want you to <choice><orig>loose</orig><reg>lose</reg></choice> important information about goods or bads for you year in <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s><name type="geo">Berlin</name> gets more and more similarities to other <choice><orig>english</orig><reg>English</reg></choice> speaking cities.</s>
+        <s>A reason for that can be the people who come to <name type="geo">Berlin</name> for a long time.</s>
+        <s>A lot of tourists and students come and go but some stay.</s>
+        <s>In some parts of <name type="geo">Berlin</name> you don't even <choice><orig>here</orig><reg>hear</reg></choice> <choice><orig>german</orig><reg>German</reg></choice> anymore, but <choice><orig>turcies</orig><reg>Turkish</reg></choice>, <choice><orig>arabic</orig><reg>Arabic</reg></choice> and a lot of <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Signs of <choice><orig>english</orig><reg>English</reg></choice> <choice><orig>speakin</orig><reg>speaking</reg></choice> persons are getting more.</s>
+        <s>Examples are found in restaurants.</s>
+        <s>The menu is sometimes only written in <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s><name type="geo">Berlin</name> is for everybody in the world.</s>
+      </p>
+      <p>
+        <s><name type="person">David Walker</name> lives in <name type="geo">Berlin</name> and develops applications and thinks its like a bubble in <name type="geo">Germany</name>.</s>
+        <s>Some shops could be located everywhere in the world but there it would be more expensive.</s>
+        <s><name type="geo">Berlin</name> is next to the cheap food <choice><orig>pice</orig><reg>price</reg></choice> known for the cheap rents.</s>
+        <s>But you should still have a good look before come because the <choice><orig>rent-price</orig><reg>rent price</reg></choice> is only in comparison to other big cities low.</s>
+        <s>Further to <name type="person">David Walker</name>: He has a company in that people work who come from 21 nations.</s>
+        <s>They're all talking <choice><orig>english</orig><reg>English</reg></choice> with each other.</s>
+        <s>So you see: You can find a job also without learning <choice><orig>german</orig><reg>German</reg></choice></s>
+      </p>
+      <p>
+        <s>A different woman is <name type="person">Orla Baumgarten</name>.</s>
+        <s>She sells second-hand, <choice><orig>english</orig><reg>English</reg></choice> books.</s>
+        <s>In addition, she does a lyric-evening once a month.</s>
+        <s>She comes from Dublin.</s>
+        <s>Her dream <choice><orig>wich</orig><reg>which</reg></choice> is this book shop couldn't happen in Dublin because of the expensive rent [I already told you before].</s>
+        <s>The point <choice><orig>wich</orig><reg>which</reg></choice> would be the most important one for me is the art, culture and night life.</s>
+        <s>I love to dance and have fun with friends at night.</s>
+        <s><name type="geo">Berlin</name> should be the right place for that says <ref target="a12gk1_2" type="author">Kormbaki</ref>.</s>
+      </p>
+      <p>
+        <s>A short reminder: Everything what I said is from the article and not my own opinion [only if I said it].</s>
+      </p>
+      <p>
+        <s>So <choice><orig>lets</orig><reg>let's</reg></choice> sum up the most important thing you should remember: A lot of <choice><orig>english</orig><reg>English</reg></choice> speaking people live in <name type="geo">Berlin</name> and you notice that f.e. in restaurants.</s>
+        <s>Furthermore people from all over the world com to <name type="geo">Berlin</name> and live and work together.</s>
+        <s>Other positive aspects are the cheap rent as well as the exciting art, culture and night life.</s>
+        <s>If you decide to come, tell me!</s>
+        <s>We could meet!</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

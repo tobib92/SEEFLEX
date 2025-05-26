@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g34_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk3_1" type="title">The Hate U Give</ref>, directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref> in the year <date>2018</date>, which is based on the novel with the same <choice><orig>titel</orig><reg>title</reg></choice>, written by <ref target="b10gk3_1" type="author">Angie Thomas</ref> centers around the life of a 16 year old <choice><orig>african-american</orig><reg>African-American</reg></choice> girl named <ref target="b10gk3_1" type="character">Starr</ref> after the murder of her <choice><orig>childhoodfriend</orig><reg>childhood friend</reg></choice> by a white police officer.</s>
+        <s>The scene is situated in the middle of the film in a family <choice><orig>diner</orig><reg>dinner</reg></choice> and takes place after <ref target="b10gk3_1" type="character">Starr's</ref> interview on <choice><abbr>TV</abbr><expan>television</expan></choice>.</s>
+        <s>The given scene begins with the <ref target="b10gk3_1" type="character">Carters</ref> eating at a family <choice><orig>diner</orig><reg>dinner</reg></choice>.</s>
+        <s>After noticing <ref target="b10gk3_1" type="character">King</ref> and two other men standing beside him, <ref target="b10gk3_1" type="character">Maverick</ref> leaves the diner and goes up to him after which they begin to fight.</s>
+        <s>Right after the sirens and te lights of a patrol car appear, both stop fighting and <ref target="b10gk3_1" type="character">King</ref> drives inspected by the two police officers.</s>
+        <s>The other <ref target="b10gk3_1" type="character">Carters</ref> leave the diner out of worry for <ref target="b10gk3_1" type="character">Maverick</ref> which concludes to an argument between <ref target="b10gk3_1" type="character">Lisa</ref>, <ref target="b10gk3_1" type="character">Seren</ref> and the white police officer.</s>
+        <s>The scene ends with the officers leaving after noticing the people in the diner watching and filming and after realizing that <ref target="b10gk3_1" type="character">Starr</ref> is the witness.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

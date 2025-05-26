@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g14_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">Worne</ref> has three major points in his speech.</s>
+        <s>Firstly he states the issue, secondly the general response and lastly his own opinion.</s>
+        <s>Each of them has its own way of getting presented.</s>
+        <s>The first point <ref target="a12gk2_1">(ll. 1-11)</ref> is mostly letting the facts speak for themself with a formal and modest way of speaking.</s>
+        <s>The audience should not be distracted in getting the basic facts and data.</s>
+        <s>To keep himself credible enough the data he uses are mentioned as being <choice><orig>report-results</orig><reg>report results</reg></choice> like <name type="misc">GCSE</name> entry figures <ref target="a12gk2_1">(l. 10)</ref>.</s>
+        <s>Two major exceptions to the first point are both the <choice><orig>introductionary</orig><reg>introductary</reg></choice> sentence and l. 5.</s>
+        <s>The former is using <quote>Can't, won't, don't</quote> as a way to sum up the national view towards learning languages in a silly and overcompressed way.</s>
+        <s>The compression keeps it relatively easy to swallow.</s>
+        <s>Because these words sound very similar and together make a very radical point it <choice><orig>awakenes</orig><reg>awakens</reg></choice> the interest of the audience in both a humorous and serious way.</s>
+        <s><quote>Us recommissioning our collective brains</quote><ref target="a12gk2_1">(l. 5)</ref> paraphrasing a simple sentence into overly formal language.</s>
+        <s>It parodies the <quote>perfect intellectuals</quote> that don't mind a lack of language learning overall, which is what his second part is about <ref target="a12gk2_1">(ll. 12-15)</ref>.</s>
+        <s>There he's trying to make fun of them by calling them <quote>perfect intellectuals</quote><ref target="a12gk2_1">(ll. 5)</ref> or squeezing in short ellipse like responses behind their points <ref target="a12gk2_1">(ll. 13-14)</ref>.</s>
+        <s>The audience therefore gets the impression that those <choice><orig>selfproclaimed</orig><reg>self-proclaimed</reg></choice> intellectuals have actually very little understanding of the topic which shifts the credibility more towards <ref target="a12gk2_1" type="author">Worne</ref>.</s>
+        <s>He makes use of this in the third part, his own opinion <ref target="a12gk2_1">(ll. 16-35)</ref>.</s>
+        <s>Here the content is underlined through certain striking words like <quote>vital</quote> , <quote>prosperity</quote> <ref target="a12gk2_1">(l. 16)</ref>, <quote>national security</quote> <ref target="a12gk2_1">(l. 17)</ref>, or <quote>break into</quote><ref target="a12gk2_1">(l. 21)</ref>.</s>
+        <s>Words such as these paraphrase otherwise neutral content and add emotional connotations to crucial points since they tend to have a stronger impact on the audience.</s>
+        <s><quote>vital</quote> makes something feel more important than simply saying <quote>important</quote> for instance.</s>
+        <s>Another <choice><orig>cruical</orig><reg>crucial</reg></choice> <choice><orig>stragedy</orig><reg>strategy</reg></choice> is him giving the audience as little room to <choice><orig>dabate</orig><reg>debate</reg></choice> him as possible.</s>
+        <s>Phrases like <quote>only</quote><ref target="a12gk2_1">(l. 24)</ref>, <quote>There is no doubt</quote> <ref target="a12gk2_1">(l. 30)</ref> or <quote>essential</quote> <ref target="a12gk2_1">(l. 17)</ref> very much corner the listener into agreeing with him furthermore giving his point the impression of being <choice><orig>undenieable</orig><reg>undeniable</reg></choice>.</s>
+        <s>At the end <ref target="a12gk2_1" type="author">Worne</ref> approaches the audience <choice><orig>personanaly</orig><reg>personally</reg></choice> through inclusive language.</s>
+        <s>Not just via <quote>we</quote><ref target="a12gk2_1">(l. 33)</ref>.</s>
+        <s>Phrases like <quote>parents of the <name type="geo">UK</name></quote><ref target="a12gk2_1">(l. 32)</ref> <quote>(and I'm one)</quote><ref target="a12gk2_1">(l. 32)</ref> and <quote>we as parents</quote><ref target="a12gk2_1">(l. 33)</ref> support the two things.</s>
+        <s>They make to topic seem like a collective problem that affects everyone as well as giving a uniting factor.</s>
+        <s>A common problem is proven to be very strong at uniting different people.</s>
+        <s>This gets underlined through the <quote>children argument</quote><ref target="a12gk2_1">(l. 34)</ref> it synergizes very well with the previous inclusion of parents in that it creates a common problem and a common goal between <ref target="a12gk2_1" type="author">Worne</ref> and the audience.</s>
+      </p>
+      <p>
+        <s>So <choice><orig>over all</orig><reg>overall</reg></choice> <ref target="a12gk2_1" type="author">Worne</ref> first relies on pure facts and data, then shifts towards parodising the opposing party and ends with cornering the listener into agreeing with him both factually and personally.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

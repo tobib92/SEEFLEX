@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g28_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the quality newspaper article <ref target="a12gk3_1" type="title">Language learning in the UK: can't, won't, dont</ref> that was published in <name type="misc">The Telegraph</name> on <date>27 January 2015</date>, <ref target="a12gk3_1" type="author">John Worne</ref> argues why British students should learn more foreign languages.</s>
+      </p>
+      <p>
+        <s>The author starts his article with pointing out his view how the situation of speaking foreign languages in the UK is.</s>
+        <s>Not enough students would be learning them.</s>
+        <s>Languages would be teached at more primary schools now and still the results in exams would not enhance.</s>
+        <s>Speaking English would not be enough and you still face many challenges in life not knowing any other language.</s>
+      </p>
+      <p>
+        <s>Even the UK's future prosperity would depend on learning languages and the majority of UK businesses would need foreign language skills.</s>
+      </p>
+      <p>
+        <s>There would be progress at universities that would be offering language courses but not enough students would take the opportunity to take part in it.</s>
+        <s>The <choice><orig>autor</orig><reg>author</reg></choice> closes his text with his opinion that it would need parents, not only the education system, to bring more children to learn foreign languages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

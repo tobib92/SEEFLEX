@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11gk1_1" type="author">Angie Thomas</ref> used many means of point of view and different narrative techniques in her novel and especially in this scene to better present <name type="person">Starr's</name> state of mind.</s>
+      </p>
+      <p>
+        <s>The story is told from the main protagonist's <choice><orig>first person</orig><reg>first-person</reg></choice> point of view, where a <choice><orig>stream-of-consciousness</orig><reg>stream of consciousness</reg></choice> method is used to better illustrate what <name type="person">Starr</name> is thinking and feeling.</s>
+        <s>Thoughts and emotions are directly <choice><orig>discribed</orig><reg>described</reg></choice> like in the lines 43 and 44 of the excerpt: <quote><s>I have the hardest time lifting it.</s><s>Shit, I have no idea what to say.</s></quote></s>
+        <s>This method of presentation helps the reader to understand what is going on in <name type="person">Starr's</name> head and makes the whole story more <choice><orig>relateable</orig><reg>relatable</reg></choice>.</s>
+        <s>Scenic modes of presentation are used to illustrate the scene and make the reader understand better what exactly is going on.</s>
+        <s>An example of that can be found in the lines 1-3: <quote><s>A red, green, and yellow school bus is parked on the street to our right.</s><s>It says Just us for Justice on the side a large crowd is gathered in the street to our left.</s><s>They black hairbrushes into the air.</s></quote></s>
+        <s>The great amount of details makes it easier to visualize an image of what the location looks like that <name type="person">Starr</name> is at in this scene.</s>
+        <s>Another very powerful narrative technique used in this excerpt are flashbacks.</s>
+        <s>The story jumps back in time to the moments where <name type="person">Starr</name> saw how <name type="person">Khalil</name> got shot <choice><orig>By</orig><reg>by</reg></choice> the police officer, to show the reader, that these images are stuck in <name type="person">Starr's</name> head <quote><s><name type="person">Khalil</name> drops it into the side of the door.</s><s>[...] He opens the door to ask if I'm okay.</s><s>Then pow pow -</s></quote> <ref target="a11gk1_1" type="line">(ll. 19, 21f)</ref>.</s>
+        <s>Reading that one can understand better why <name type="person">Starr</name> then decides to deliver her speech at this protest and that she is really driven by her anger which empowers her to do something she was originally afraid of.</s>
+      </p>
+      <p>
+        <s>Overall many narrative techniques are used in this exerpt that make the scene more visual and relatable to the reader of the novel, which helps to trigger one's emotions and convince one of the message the book is trying to deliver, that you need to stand up and fight for justice to get it.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g45_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>To: <email>TimfromCanada@gmail.com</email>
+		CC: <email>polly-bulldogge@veterinarianparty</email>
+		<s>Subject: Come to Berlin!</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hey there Tim,</salute>
+      </p>
+      <p>
+        <s>hope <choice><orig>your</orig><reg>you're</reg></choice> doing well in <name type="geo">Canada</name>.</s>
+        <s>I really hope to meet up with you again after my exchange year last year, and since you were thinking about spending some time in <name type="geo">Berlin</name> I thought I might convince you with this article I found...</s>
+      </p>
+      <p>
+        <s>The article is called <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref> and was published in an old newspaper, the <name type="misc">Hannoversche Allgemeine Zeitung</name> in <date>July 2016</date>.</s>
+        <add>
+          <s>Nevertheless the arguments still <gap reason="illegible" quantity="2" unit="word">stad sloy</gap>!</s>
+        </add>
+        <s>The author begins by saying how most of <name type="geo">Berlin</name> is already English-speaking and becoming more and more so.</s>
+      </p>
+      <p>
+        <s>She talks about all the British, American and Australian tourists that go there every year and that, even though most are only there to study or as tourists, a large amount of them also settle down there.</s>
+      </p>
+      <p>
+        <s>She continues to describe many places with <choice><orig>anglican</orig><reg>Anglican</reg></choice> roots coming up more and more all over parts of <name type="geo">Berlin</name> and clearly underlines that you are off pretty bad if you can't speak any English in <name type="geo">Berlin</name>.</s>
+        <s>She finishes off by comparing <name type="geo">Berlin</name> to all the big cities around the world like <name type="geo">Hongkong</name>, <name type="geo">Los Angeles</name> and even <name type="geo">Toronto</name> where you live, but with the advantage of being far less expensive without losing any of the cultural aspects on the exciting night-life other big cities have to offer!</s>
+      </p>
+      <p>
+        <s>To sum it up once again for ya: You'll be off great here with <choice><orig>you</orig><reg>your</reg></choice> English, they speak it at every second corner, <name type="geo">Berlin</name> is way cheaper to live, go out and eat than other cities but still just as fun!</s>
+        <s>I can't wait to go out with you in <name type="geo">Berlin</name> and really hope to see you there <choice><abbr>ASAP</abbr><expan>As soon as possible</expan></choice>!</s>
+        <s>Talk to you tomorrow!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

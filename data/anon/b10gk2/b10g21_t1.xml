@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g21_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk2_1" type="title">The Hate U Give</ref> directed by <ref target="b10gk2_1" type="director">George Tillmann Jr.</ref> was <choice><orig>relesed</orig><reg>released</reg></choice> in <date>2018</date>.</s>
+        <s>It deals with a black teenage girl fighting against racism and justice.</s>
+      </p>
+      <p>
+        <s>The given sequence is an excerpt from the movie and deals with a conversation between <ref target="b10gk2_1" type="character">Starr</ref> and her boyfriend <ref target="b10gk2_1" type="character">Chris</ref>, about the last time they have meet each other.</s>
+      </p>
+      <p>
+        <s>To give more background information it's important to say that before that scene <ref target="b10gk2_1" type="character">Starr</ref> was at <ref target="b10gk2_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> house where <ref target="b10gk2_1" type="character">Chris</ref> hold a condom under <ref target="b10gk2_1" type="character">Starr's</ref> nose.</s>
+      </p>
+      <p>
+        <s>So at the beginning of the scene <ref target="b10gk2_1" type="character">Chris</ref> is shown how he is walking through the school highway.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> is also there and is looking at him.</s>
+        <s>She checks him from his feet to his head and <choice><orig>notice</orig><reg>notices</reg></choice> that he wears the same <name type="misc">Jordans</name> like her.</s>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> looks at her but she just turns around and takes some books out of her locker.</s>
+      </p>
+      <p>
+        <s>After that <ref target="b10gk2_1" type="character">Chris</ref> stands behind <ref target="b10gk2_1" type="character">Starr</ref> and puts his headphones on <ref target="b10gk2_1" type="character">Starr's</ref> ears.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> starts smiling but remembers that she is mad at him and takes <choice><orig>of</orig><reg>off</reg></choice> his headphones.</s>
+        <s>They start arguing about the day before.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> says that it was not ok what <ref target="b10gk2_1" type="character">Chris</ref> done, but <ref target="b10gk2_1" type="character">Chris</ref> says that he wants to go further and finally meet her <choice><orig>familiy</orig><reg>family</reg></choice>.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> comments that she and her <choice><orig>familly</orig><reg>family</reg></choice> are busy and have no time in the moment.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> smiles and <choice><orig>relax</orig><reg>relaxes</reg></choice> the situation and talks about his new beat he made for <ref target="b10gk2_1" type="character">Starr</ref>.</s>
+      </p>
+      <p>
+        <s>He puts the <choice><orig>kabel</orig><reg>cable</reg></choice> of the headphones out of his phone and the beat which was still playing from the beginning is playing now.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk2_1" type="character">Chris</ref> starts vibing to the beat and everyone likes it.</s>
+        <s><ref target="b10gk2_1" type="character">Starr</ref> finally also starts to smile and takes <ref target="b10gk2_1" type="character">Chris</ref> hand and went with him to another place where they look at each other and start kissing.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

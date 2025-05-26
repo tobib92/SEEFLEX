@@ -1,0 +1,549 @@
+---
+title: "SEEFLEX GMA Analysis"
+author: "Stephanie Evert (adapted by Tobias Pauls)"
+source: "Online supplement to Neumann & Evert (2021)"
+date: "21.08.2024"
+output:
+  pdf_document:
+    fig_width: 10
+    fig_height: 6
+    number_sections: yes
+    toc: yes
+  html_document:
+    fig_width: 10
+    fig_height: 6
+    df_print: paged
+    number_sections: yes
+    toc: yes
+  html_notebook: default
+---
+
+# Data set & preprocessing
+
+First, load the required packages, various GMA support functions, and the data 
+sets for this unit.
+
+```{r LoadingData, echo=FALSE}
+options(width=95) # allow for longer lines in PDF output
+
+source("code/gma_analysis/gma_utils.R")
+source("code/gma_analysis/seeflex_gma_utils.R")
+# source("code/gma_analysis/gma_data.R") # Only uncomment if the data has been changed.
+
+library(cluster)
+library(Hotelling)
+library(ellipse)
+library(e1071)
+library(Rtsne)
+library(tidyverse)
+library(tidytext)
+library(plyr)
+library(stringr)
+library(readtext)
+library(here)
+library(qdapRegex)
+library(rgl)
+library(scatterD3)
+library(scatterplot3d)
+library(htmlwidgets)
+library(data.table)
+
+```
+
+## Loading the data
+
+```{r DataFiltering}
+
+load("data/gma/20250519_data.rda", verbose=TRUE)
+
+# # Filter categories that do not reach the minimum number of texts
+# res1 <- filter_meta_category_and_adjust_feat(
+#   seeflex_meta, seeflex_features_original, "OPERATOR.17", 70)
+# seeflex_features_original <- res1$feat_df
+# seeflex_meta <- res1$meta_df
+
+# Filter for texts of min 10 sentences and min 100 words
+res2 <- filter_text_length_and_adjust_meta(
+  seeflex_features_original, seeflex_meta, 100, 5)
+seeflex_features_original <- res2$feat_df
+seeflex_meta <- res2$meta_df
+
+# Deselect the word, sentence and token count and create GMA matrix
+seeflex <- convert_to_gma_matrix(seeflex_features_original)
+
+```
+
+## Standardizing and log-transformation
+
+```{r FeatureBoxplot}
+
+# regular data
+par(mar=c(8, 4, 4, 2)) # make room for labels
+boxplot(seeflex, las = 1, main="Original features")
+
+# standardizing data
+seeflex_z <- scale(seeflex)
+par(mar=c(8, 3, 3, 2))
+boxplot(seeflex_z, las=2, main="Standardized features")
+
+# log transformation
+par(mar=c(8, 3, 3, 2), xaxs="i", yaxs="i")
+# curve(signed.log, lwd=3, col="#00559f", xlim=c(-5, 5), ylim=c(-3, 3), xlab="", ylab="")
+# abline(v=-5:5, h=-3:3)
+seeflex_zl <- signed.log(seeflex_z)
+par(mar=c(8, 3, 3, 2))
+boxplot(seeflex_zl, las=2, main="Standardized & log-transformed features")
+
+```
+
+## High-dimensional visualisation
+
+```{r FirstVis, include=FALSE, cache=FALSE}
+
+# coord <- cmdscale(dist(seeflex_zl)) # isoMDS is hardly different
+# 
+# # plot the first version of the data
+# gma.pairs(coord, Meta = seeflex_meta,
+#           col = OPERATOR.17,
+#           pch = GRADE,
+#           col.vals = c17_corp.vec,
+#           legend.cex = 0.55)
+# 
+# coord <- Rtsne(dist(seeflex_zl), perplexity = 10)$Y
+# 
+# gma.pairs(coord,
+#           Meta = seeflex_meta,
+#           col = T.CURR,
+#           pch = GRADE,
+#           col.vals = c5_corp,
+#           compact = TRUE)
+
+```
+
+# Unsupervised GMA
+
+## Projection with PCA
+
+We understand orthogonal projection as a lower-dimensional **perspective** on the geometric configuration of data points in high-dimensional space. This only makes sense in combination with the Euclidean metric, because the orthogonal projection decomposes squared Euclidean distance. A group of support functions (such as `mvar.space()` below) helps you to work with projections without having to carry out all the low-level matrix operations.
+
+The method of **principal component analysis** (PCA) finds a perspective that preserves as much of the distance information as possible. It is not necessary to choose the number of dimensions in advance: PCA returns a sequence of orthogonal basis vectors that represent increasingly larger optimal subspaces. 
+
+Instead of using the standard R function `prcomp()` directly, we work with **GMA** objects, a class designed for supporting GMA studies. The object is initialised with the feature matrix to be analysed.
+
+```{r SEEFLEXGMA}
+
+PCA <- GMA(seeflex_zl) # for log transformed data
+PCA
+
+```
+
+GMA objects decompose the feature space into a low-dimensional **target space**, consisting of dimensions selected in a weakly supervised manner or by visual inspection, and its **orthogonal complement**.  In this first unsupervised analyses, the target space is empty and the complement encompasses the entire feature space.
+
+PCA is automatically applied to the complement space, so the first dimensions of the complement are our latent PCA dimensions. $R^2$ values (expressed here as percentages) show what proportion of the distance information is captured by each PCA dimension. Let us look at the first 10 PCA dimensions:
+
+```{r SEEFLEXR2}
+
+r2 <- PCA$R2(dim=1:10)
+barplot(r2, ylim=c(0, 25), ylab="R2 (%)")
+r2 # show values
+
+# compute cumulative r2 for the first 10 PC
+barplot(cumsum(r2), ylim=c(0, 80), ylab="R2 (%)")
+abline(h=40, col="#cc071e") # PC5 accounting for 40% of the variance
+cumsum(r2) 
+
+```
+
+## Scatterplot visualisation
+
+Let us look at the projection into the first four PCA dimensions. We need to specify `space="complement"` to obtain dimensions of the complement space rather than the (here zero-dimensional) target space, or `space="both"` to append them to the target space dimensions. A scatterplot matrix for these dimensions can be drawn with `gma.pairs()`, which should always be used with the options shown below.
+
+```{r SEEFLEXProjection}
+
+Proj4 <- PCA$projection(space = "complement", dim=1:4)
+
+gma.pairs(Proj4, 
+          Meta = seeflex_meta, 
+          compact = TRUE, 
+          iso = TRUE,
+          col = OPERATOR.17,
+          dims = 1:4,
+          pch = T.CURR,
+          pch.vals = 1:5,
+          legend.cex = 0.8, conf.level = 0.95,
+          col.vals = c17_corp.vec)
+
+```
+
+## Interactive plots PCA
+
+The `scatterD3` package allows us to generate interactive scatter plots with zooming, panning and highlighting of individual metadata categories. These plots can be viewed directly in an RStudio notebook or embedded in HTML output.  If the `webshot` package is installed and `webshot::install_phantomjs()` has been run successfully, static preview images will be shown in PDF output.  We can live without these, however.
+
+Since `scatterD3` uses a formula interface, we need to collect all relevant information in a data frame.  We also need to define colour and plot symbol vectors labelled with the corresponding metadata categories (otherwise they will be matched randomly by the JavaScript widget).
+
+```{r PCAinteractive}
+
+# create the data frame for the scatter plot
+Proj4.df <- data.frame(
+  PC1=Proj4[, 1], PC2=Proj4[, 2],
+  PC3=Proj4[, 3], PC4=Proj4[, 4],
+  t.curr = seeflex_meta$T.CURR, 
+  operator = seeflex_meta$OPERATOR.17,
+  genre = seeflex_meta$GENRE,
+  grade = seeflex_meta$GRADE,
+  id = seeflex_meta$id
+)
+
+# create the tooltip for the scatter plot
+tooltip_pca <- paste("ID:", Proj4.df$id, 
+                    "<br /> PC1:", Proj4.df$PC1, 
+                    "<br /> PC2:", Proj4.df$PC2,
+                    "<br /> OPERATOR:", Proj4.df$operator,
+                    "<br /> GENRE:", Proj4.df$genre,
+                    "<br /> T.CURR:", Proj4.df$t.curr,
+                    "<br /> GRADE:", Proj4.df$grade)
+
+
+# show the interactive plot
+scatterD3(data = Proj4.df, x = PC2, y = PC1, fixed = TRUE,
+          col_var = operator, 
+          colors = c17_corp, 
+          ellipses = TRUE,
+          symbol_var = genre, 
+          symbols = symbols.vec.genre,
+          point_size = 32, 
+          lasso = TRUE, 
+          tooltips = TRUE, tooltip_text = tooltip_pca)
+
+# save the interactive plot to an .html file
+# saveWidgetD3(
+#   scatterD3(data = Proj4.df, x = PC2, y = PC1, fixed = TRUE,
+#             col_var = operator, 
+#             colors=c14interactive, 
+#             ellipses=TRUE,
+#             symbol_var = t.curr, 
+#             symbols = symbols.vec.t.curr,
+#             point_size = 32, 
+#             lasso = TRUE, 
+#             tooltips = TRUE, tooltip_text = tooltip),
+#   file = "pca.html",
+#   title = "PCA dimensions #1 and #2")
+
+```
+
+## Exploring the PCA dimensions
+
+The visualization suggests that PCA dimension 3 separates between English and German texts. In order to take a closer look at the distribution of texts along this axis, we can examine the coordinates along this axis.
+
+```{r SEEFLEXDiscriminantHist}
+
+hist(Proj4[, 1], breaks=20, xlab="", main="PCA dimensions")
+
+```
+
+Such a visualization is of little use without separating the German and English texts. The utility function `discriminant.plot()` displays separate distributions for the specified categories and allows us to select an arbitrary axis in the space.  Here, the axis is simply the third basis vector of the 4-dimensional subspace.
+
+```{r SEEFLEXDiscriminantPlot}
+
+discriminant.plot(Proj4, axis.vector(4,2), 
+                  categories = seeflex_meta$T.CURR,
+                  rug = TRUE, 
+                  xlab = "", 
+                  legend.cex = .5)
+
+```
+
+# Discriminant plots
+
+Setting line colours and styles appropriately gives the visual impression of two separate categorizations.
+
+```{r SEEFLEXDiscriminantPlot}
+
+# seeflex_meta2 <- transform(seeflex_meta, status=paste(T.CURR, GENRE))
+# col.vals <- c17.vec
+# lty.vals <- c("solid", "solid", "32", "32")
+# discriminant.plot(Proj4, axis.vector(4, 3), seeflex_meta$GENRE,
+#                   rug=TRUE, xlab="", col.vals=col.vals)
+
+```
+
+# Feature weights 
+
+The **feature weights** for each PCA dimension are simply the coordinates of the corresponding basis vector. Let us visualize the weights for the first 3 PCA dimensions in a combined barplot.  Some fiddling with graphics parameters is necessary to obtain a nicely readable plot. We need to transpose the weights matrix (`t(weights)`) in order to get the desired grouping in the barplot.
+
+```{r SEEFLEXPCAweights}
+
+weights <- PCA$basis("complement", dim=1:3)
+par(mar=c(8, 4, 2, 6))
+barplot(t(weights), beside = TRUE, col = c5_corp[1:3],
+        las=2, ylim=c(-.5, .5), legend = TRUE, args.legend = list(x="top"))
+
+```
+
+# A weakly supervised perspective
+
+## LDA dimensions
+
+GMA objects use reference classes, so we should create a new GMA object (or make a copy of the existing one) for the new analysis.
+
+We can now manually add specific dimensions to the target space of this object. There is a convenience method for finding such dimensions by LDA, so we just have to specify the categories to be separated. The `idx` argument allows us to determine the discriminant based on a subset of the data.
+
+```{r SEEFLEX LDA}
+
+LDA <- PCA$copy()
+LDA$add.discriminant(seeflex_meta$GENRE)
+LDA
+
+```
+
+The PCA of the complement space is automatically updated to reflect the distance information not captured by the discriminant. 
+
+**Warning:** Make sure to execute the code block above only once. If you re-run it, you will add further discriminant dimensions to the target space. It would therefore be safer to make the copy directly in the code block, e.g. with 
+`LDA <- PCA$copy()$add.discriminant(...)`.
+
+The $R^2$ values show that the discriminant captures less distance information than the PCA dimensions, explaining why it did not come out as clearly with the unsupervised PCA and required our weakly supervised intervention.
+
+```{r SEEFLEX ByLangR2}
+
+barplot(LDA$R2(dim=1:20), ylab="R2 (%)")
+
+r2 <- LDA$R2(dim=1:16)
+barplot(r2, ylim=c(0, 25), ylab="R2 (%)")
+r2 # show values
+
+barplot(cumsum(r2), ylim=c(0, 80), ylab="R2 (%)")
+abline(h=40, col="red") # PC5 accounting for 40% of the variance
+cumsum(r2) 
+
+```
+
+We can now repeat the visualizations above with the target discriminant and the complementary PCA dimensions.
+
+NB: space is defined either through "complement", the PCA dimensions, "space", the LDA dimensions, or "both", the LDA dimensions with the PCA dimensions appended.
+
+```{r SEEFLEXByLangScatterplotRegister}
+
+gma.pairs(LDA$projection("both", dim=1:4),
+          Meta = seeflex_meta, compact = TRUE, iso = TRUE,
+          col = OPERATOR.17, 
+          pch = T.CURR, 
+          cex = 1, 
+          col.vals = c17_corp, 
+          pch.vals = 1:5, 
+          legend.cex = 0.4)
+
+```
+
+## !!!!!!!!!!!! ADJUST !!!!!!!!!!!! Data.rda & Transformation Shiny App Weights and Contributions
+
+```{r}
+## from analysis_proceedings.Rmd
+lda.typeG <- mvar.discriminant(seeflex_zl, seeflex_meta$GENRE)
+# ByType32 <- mvar.space(ZL, lda.type32[, 1:4], normalize=TRUE)
+# lda.type32.P <- mvar.basis(ByType32, "space") # original orthogonalised dims
+# ByType32 %<>% mvar.rotation("pca", dims=1:2) %>% mvar.rotation("match", basis=ByType4.P)
+# ByType32.M <- mvar.projection(ByType32, "both")
+# ByType32.P <- mvar.basis(ByType32, "space")
+# mvar.pairs(ByType32.M, 1:4, Meta=Meta,
+#            col=textcat32, pch=variety, pch.vals=c(1, 3, 4), col.vals=rainbow.32,
+#            cex=.6, legend.cex=.55, iso=TRUE, compact=TRUE)
+Dimensions_14 <- LDA$basis(space = "space")
+# Dimensions_25 <- LDA$basis()
+feature.names.tp <- colnames(seeflex_zl)
+weights_new <- LDA$basis(space = "both")
+# Dimensions <- cbind(ByType4.P, lda.type.P[, 1:2])
+# colnames(Dimensions)[5:6] <- c("Orig1", "Orig2")
+# Dimensions32 <- cbind(ByType32.P, lda.type32.P[, 1:2])
+# colnames(Dimensions32)[5:6] <- c("Orig1", "Orig2")
+# save(ZL, Meta, Dimensions, Dimensions32, idx.weights, feature.names,
+#      rainbow32.vec, rainbow20.vec, rainbow12.vec, dim2label, dim2label2,
+#      types.short32, types.short20, types.short12,
+#      types.textcat32, types.textcat20, types.textcat12,
+#      file="shiny/NeumannEvert2021_weights/data.rda")
+
+```
+
+## Interactive plots LDA
+
+```{r PCAinteractive}
+
+Proj5 <- LDA$projection("both")
+# Proj5 <- LDA$projection("both", dim=1:4)
+
+# create the data frame for the scatter plot
+Proj5.df <- data.frame(
+  LD1 = Proj5[, 1], LD2 = Proj5[, 2],
+  LD3 = Proj5[, 3], LD4 = Proj5[, 4],
+  t.curr = seeflex_meta$T.CURR, 
+  operator = seeflex_meta$OPERATOR.17, 
+  genre = seeflex_meta$GENRE,
+  grade = seeflex_meta$GRADE, 
+  id = seeflex_meta$id
+)
+
+# create the tooltip for the scatter plot
+tooltip_lda <- paste("ID:", Proj5.df$id, 
+                    "<br /> PC1:", Proj5.df$PC1, 
+                    "<br /> PC2:", Proj5.df$PC2,
+                    "<br /> Operator:", Proj5.df$operator,
+                    "<br /> Genre:", Proj5.df$genre,
+                    "<br /> T.Curr:", Proj5.df$t.curr,
+                    "<br /> Grade:", Proj5.df$grade)
+
+# show the interactive plot
+scatterD3(data = Proj5.df, x = LD1, y = LD2, fixed = TRUE,
+          col_var = operator, colors = c17_corp, ellipses = TRUE,
+          symbol_var = genre, symbols = NULL,
+          point_size = 50, lasso = TRUE, 
+          tooltips = TRUE, tooltip_text = tooltip_lda)
+
+# save the interactive plot to an .html file
+# saveWidgetD3(
+#   scatterD3(data = Proj5.df, x = LD2, y = LD1, fixed = TRUE,
+#             col_var = operator, colors = c14interactive, ellipses = FALSE,
+#             symbol_var = t.curr, symbols = symbols.vec.t.curr,
+#             point_size = 32, lasso = TRUE, 
+#             tooltips = TRUE, tooltip_text = tooltip_lda),
+#   file="pca_dim_12_typepcatalk2.html",
+#   title="PCA dimensions #1 and #2")
+
+```
+
+Of course, it's much nicer to see in 3D if you have a working RGL installation.
+
+```{r SEEFLEXByLangScatterplot3D, eval=FALSE}
+
+gma.3d(LDA$projection("both", dim=1:4),
+       Meta = seeflex_meta, iso = TRUE, legend = TRUE,
+       col = T.CURR, pch = GRADE, size = .03, col.vals = c5.vec, legend.cex = .5, )
+view3d(theta = 0, phi = 0, zoom=.7) # resets to front view upon loading
+
+```
+
+## Interpreting feature weights
+
+```{r featureNames}
+feature.names <- colnames(seeflex_zl)
+weights <- LDA$basis(space = "both")
+weights <- t(weights)
+gma.plot.weights(weights_PCA, feature.names = feature.names, dim = 1:4)
+gma.plot.features(seeflex_zl, 
+                  seeflex_meta, 
+                  what = "weighted", 
+                  id.var = "id", 
+                  weights = weights_PCA,
+                  # group = T.CURR,
+                  feature.names = feature.names,
+                  main = "PCA Feature Weights", 
+                  group.palette = c5.vec)
+```
+
+## Plotting feature weights
+
+```{r featureNames}
+
+pca_weights_plot <- gma.plot.weights(weights_LDA_t.curr, feature.names = feature.names, dim = 1:4)
+
+output_filename <- paste0(
+  "output/plots/", format(Sys.Date(), "%Y%m%d"),
+  "_pca_feature_weights.pdf"
+)
+ggsave(
+  filename = output_filename,
+  plot = pca_weights_plot,
+  device = "pdf",
+  width = 230,
+  height = 297,
+  units = "mm",
+  dpi = 300
+)
+
+```
+
+## Interpreting feature weights (selection)
+
+```{r featureDistBarplot}
+
+# T.CURR
+selection <- c("analysis")
+seeflex_meta_selection <- seeflex_meta %>% 
+  dplyr::filter(T.CURR %in% selection)
+
+# OPERATOR
+selection <- c("e-mail_informal", "letter_formal")
+seeflex_meta_selection <- seeflex_meta %>%
+  dplyr::filter(OPERATOR %in% selection)
+
+seeflex_zl_selection <- as.data.frame(seeflex_zl)
+seeflex_zl_selection <- tibble::rownames_to_column(seeflex_zl_selection, "id")
+seeflex_zl_selection <- match_df(seeflex_zl_selection, seeflex_meta_selection, on = "id")
+seeflex_zl_selection <- seeflex_zl_selection %>% 
+  remove_rownames() %>% 
+  column_to_rownames(var = "id")
+seeflex_zl_selection <- as.matrix(seeflex_zl_selection)
+
+feature.names.tp <- colnames(seeflex_zl)
+
+```
+
+## Checking correlations
+
+Another preliminary step is to check for collinearities and other overly strong correlations between the features. If there are such strong correlations or conspicuous large blocks in the plot, some features may need to be excluded or a different unit of measurement may be required.  For interpretability, we need to specify the range $[-1, 1]$ of possible correlation scores and choose a suitable colour scale.
+
+A "heatmap" plot automatically groups strongly correlated variables using a clustering algorithm, so the visualization is much easier to interpret.
+
+```{r SEEFLEXHeatmap}
+
+# # Coorporate design heatmap colors
+# cor.colours <- c(
+#   "#407fb7", # custom blue = negative correlation
+#   "#FFFFFF", # white = no correlation
+#   "#d85c41"  # custom red = positive correlation
+# )
+
+# Create manual gradients, starting at the -.7 color (-1 color in cor.colors above)
+blue_gradient <- colorRampPalette(c("#78A4CC", "#E9F0F7"))(7) # Blue to White
+red_gradient <- colorRampPalette(c("#FAECE9", "#d85c41"))(10)   # White to Red
+cor.colours <- c(blue_gradient, "white", red_gradient)
+breaks <- seq(-1, 1, by = 0.1)
+
+# par(mar=c(0, 0, 0, 0), xaxt="n", yaxt="n")
+# image(cor(seeflex_zl), zlim=c(-1, 1), col=cor.colours)
+
+# Convert matrix to long format
+cor_matrix <- cor(seeflex_zl)
+# cor_matrix[cor_matrix<=0.7]=NA # replace all values lower than .7 with NA
+cor_melted <- melt(cor_matrix)
+
+# Create the heatmap
+heatplt <- ggplot(cor_melted, aes(Var1, Var2, fill = value)) + 
+  geom_tile() + 
+  scale_fill_gradientn(colors = cor.colours) +   # Use custom colors here
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1), 
+        axis.title = element_blank(), 
+        legend.key.size = unit(1, "cm"), 
+        legend.text = element_text(size = 12),      
+        legend.title = element_text(size = 14), 
+        axis.text = element_text(size = 12), 
+        axis.text.y = element_text(size = 12)) +
+  scale_y_discrete(limits=rev) +
+  ggtitle("SEEFLEX variables heatmap") +
+  geom_text(aes(label = round(value, 2)), color = "black", size = 3.5) +
+  labs(fill="Correlation")
+
+svg("../../output/plots/heatmap.svg", width = 20, height = 18)
+print(heatplt)
+dev.off()
+
+```
+
+If you have a working installation of the **rgl** package, you can also view an interactive 3D visualization. The `mvar.3d` displays metadata information in the same way as `mvar.pairs`, so it is easy to switch between the scatterplot matrix and the 3D view. By default the first three dimensions are shown and arranged so that the front, left and top view correspond to the top left panels of the scatterplot matrix.
+
+```{r SEEFLEXScatterplot3D, echo=TRUE}
+
+gma.3d(Proj4, Meta=seeflex_meta, iso=TRUE, legend=TRUE,
+       col=OPERATOR, pch=TASK, size=.1)
+view3d(theta=0, phi=0, zoom=.7) # reset to front view
+
+```

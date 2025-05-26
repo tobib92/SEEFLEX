@@ -1,0 +1,530 @@
+##############################################################
+##  CQP-based feature extraction for multivariate analysis  ##
+##############################################################
+
+##### README #####
+
+## This script was published in the online supplement to Neumann & Evert (2021).
+## It has been adapted to be used with the SEEFLEX mark-up. The adaptions include
+## alterations, additions and omissions. Some of the queries have been revised to
+## include additional grammatical realizations (e.g. the "get-passive" in the
+## passive feature count). The wordlists provided have been modified to match the
+## SEEFLEX texts. Additional wordlists have been added to make some of the
+## individual queries less verbose and to be able to add more words retrospectively.
+
+## Neumann, S., & Evert, S. (2021). A register variation perspective on varieties
+## of English. In E. Seoane & D. Biber (Hrsg.), Corpus-based Approaches to Register
+## Variation (S. 143–178). John Benjamins Publishing Company.
+## Online Supplement: https://www.stephanie-evert.de/PUB/NeumannEvert2021/
+
+
+##### INSTRUCTIONS #####
+
+## Feature extraction is performed by a CQP script based on this template, which
+## can be adapted to the corpus, tagset and desired selection of features.
+## The working directory must also contain the files "featex.m" and "featex.perl".
+
+## Invoke the script as follows on the command line:
+##   cqp -c -f ice-cqp.txt | perl featex.perl nz-ice.tsv
+
+## Within the script, you can execute arbitrary CQP commands to generate named query
+## results (NQR) corresponding to (instances of) the desired features. For example,
+## you might generate an NQR Passive containing instances of passive constructions.
+## Features are passed on to the Perl script with the macro
+##
+##   /feature[Passive, "passive"];
+##
+## specifying the query result name and the name to be used in the feature matrix.
+## Future versions of the Perl script will collect the individual tokens of each
+## feature declared in this way.  If only per-text frequency counts are required
+## (e.g. for token counts or noun/verb counts), you can use the macro
+##
+##   /feature_count[Passive, "passive"];
+##
+## instead, which is also more efficient.  Note that the first feature in the
+## resulting matrix contains the number of tokens in each text; it is named
+## "n_token" and is generated automatically by this script.
+##
+## It is important that your CQP script does not produce _any_ output except
+## through the two macros above!
+
+
+##### INFORMATION FOR USERS OF THE SEEFLEX #####
+
+############
+############################## adapt! ############
+## Some of the feature counts below are issued for multiple sentence boundary tags
+## before being merged into the final feature count. The merging removes duplicates
+## entries. This has been added as a failsave should the node structure be altered
+## at a later stage. It also ensures that no text content is left uncounted if there
+## are mistakes in the xml mark-up.
+
+
+##### CONFIGURATION #####
+
+## Activate the desired corpus:
+## !!! CQP must be invoked with "-D CORPUS" !!!
+
+
+## Specify the name of the s-attribute containing text IDs:
+define macro text_id(0) "text_id";
+
+
+##### SETUP -- Do not change anything in this block! #####
+set PrettyPrint off;
+set ProgressBar off;
+set Timing off;
+
+define macro < "featex.m";
+
+
+##### INITIALIZE FEATURE EXTRACTION #####
+
+## Option A: extraction from full corpus
+##  - target corpus must already be activated (see above)
+/init_corpus[];
+corpus = [] expand to text_id;
+
+## Option B: extraction from subcorpus
+##  - create subcorpus with name of your choice, expanded to suitable units
+##  - then initialize with subcorpus name (will automatically be activated)
+# RealCorpus = <s> [] expand to s;
+# /init_subcorpus[RealCorpus];
+
+
+##### DEFINE MACROS #####
+## Define additional SEEFLEX macros for multi-word sequence word lists.
+define macro < "wordlists/seeflex_macros.m";
+define macro < "wordlists/seeflex_macros-query.m";
+
+
+##### DEFINE WORDLISTS #####
+define $Nom < "wordlists/seeflex_nom.txt";
+define $NonNom < "wordlists/seeflex_non-nom.txt";
+define $Neo < "wordlists/seeflex_neo.txt";
+define $NonNeo < "wordlists/seeflex_non-neo.txt";
+define $NonPast < "wordlists/seeflex_non-past.txt";
+define $NonPass < "wordlists/seeflex_non-passive.txt";
+define $NonImp < "wordlists/seeflex_non-imp.txt";
+define $NonImpSpell < "wordlists/seeflex_non-imp-spell.txt";
+define $Title < "wordlists/seeflex_titles.txt";
+define $ConjTh < "wordlists/seeflex_conj.txt";
+define $Cont < "wordlists/seeflex_cont.txt";
+define $TimeAdv < "wordlists/seeflex_time-adv.txt";
+define $NonVerbTh < "wordlists/seeflex_non-verb-theme.txt";
+
+
+##### FEATURE SPECIFICATIONS #####
+
+# 1) GENERAL COUNTS
+
+## token count is automatically included as feature "n_token"
+
+## SENTENCE COUNT
+Sent_s = <s> []+ </s>;
+Sent_qs = <qs> []+ </qs>; # Complete sentences within quotes are wrapped due to CQP not being able to handle nested s-tags .
+/union[Sent, Sent_s, Sent_qs]; # The total sentence count registers nested sentences in quoted content seperately.
+/feature_count[Sent, "n_sent"];
+
+
+## COUNT ACTUAL WORDS (EXCLUDING PUNCTUATION)
+Words = [pos = "[A-Z].*"]; # NB: this is very expensive for large corpora
+/feature_count[Words, "n_word"];
+
+
+## LEXICAL DENSITY
+LexD = [pos="N.*|J.*|V.*|R.*" & pos != "RP|VM.*"];
+VFunc = @[pos = "V(B|D|H).*" & pos != "V.I"][pos = "XX"]?[pos = "R.*"]{0,3}[pos = "VBN"]?[pos = "VBG"]?[pos = "V.(G|N).*" & pos != "J.*"];
+set VFunc matchend match;
+LD = diff LexD VFunc;
+/feature_count[LD, "ld"];
+
+
+# 2) POS FREQUENCIES
+
+## COMMON NOUNS
+NN = [pos="NN.*"];
+/feature_count[NN, "nn"];
+
+
+## PROPER NOUNS
+NP = [pos = "NP.*"];
+/feature_count[NP, "np"];
+
+
+## NOMINALISATIONS
+Nom = [pos = "NN.*" %cd & word = RE($Nom) & word!=RE($NonNom) %cd];
+/feature[Nom, "nom"];
+
+
+## NEO-CLASSICAL COMPOUNDS
+Neo = [word=RE($Neo) %cd & word!=RE($NonNeo) %cd];
+/feature[Neo, "neo"];
+
+
+## ALL PRONOUNS (INCLUDING INTERROGATIVE PRONOUNS ETC.)
+PAll = [pos="A?P.*"];
+set PAll matchend match;
+/feature_count[PAll , "pall"];
+
+
+## ALL POSSESSIVE PRONOUNS
+PPoss = [pos="A?PPGE"];
+/feature_count[PPoss, "pposs"];
+
+
+## ALL REFLEXIVE PRONOUNS
+PRefx = [pos="P.X."];
+/feature_count[PRefx, "prefx"];
+
+
+## PERSONAL PRONOUNS BY PERSON
+PPers1 = [pos = "PPI.*"];
+/feature_count[PPers1, "ppers1"];
+
+PPers2 = [pos = "PPY.*"];
+/feature_count[PPers2, "ppers2"];
+
+PPers3 = [pos = "PPH.*"];
+/feature_count[PPers3, "ppers3"];
+
+Pit = [word="it|It"];
+/feature_count[Pit, "pit"];
+
+
+## ALL PRONOUNS BY PERSON
+PPoss1 = [pos="A?PPGE" & word="our|my|ours" %cd];
+PRefx1 = [pos="P.X." & word="myself|ourselves" %cd];
+/union[Pron1, PPers1, PRefx1, PPoss1];
+/feature_count[Pron1, "pron1"];
+
+PPoss2 = [pos="A?PPGE" & word="your|yours" %cd];
+PRefx2 = [pos="P.X." & word="yourself|yourselves" %cd];
+/union[Pron2, PPers2, PRefx2, PPoss2];
+/feature_count[Pron2, "pron2"];
+
+PPoss3 = [pos="A?PPGE" & word="his|her|hers|its|their|theirs" %cd];
+PRefx3 = [pos="P.X." & word="himself|herself|itself|themselves" %cd];
+/union[Pron3, PPers3, PRefx3, PPoss3];
+/feature_count[Pron3, "pron3"];
+
+
+## ALL ADJECTIVES
+Adj = [pos = "J.*"];
+/feature_count[Adj, "adj"];
+
+
+## ATTRIBUTIVE ADJECTIVES
+TmpAtAdj51 = [pos="J.*|MD"] ([word=","]? [pos="CC"]? [pos="RG.*"]? [pos="J.*|MD"])* [pos="N.*"] within s;
+TmpAtAdj51;
+AtAdj51 = [pos="J.*|MD"];
+corpus;
+TmpAtAdj55 = [pos="J.*|MD"] ([word=","]? [pos="CC"]? [pos="RG.*"]? [pos="J.*|MD"])* [pos="N.*"] within stage;
+TmpAtAdj55;
+AtAdj55 = [pos="J.*|MD"];
+corpus;
+/union[AtAdj, AtAdj51, AtAdj55]
+/feature[AtAdj, "atadj"];
+
+
+## PREPOSITIONS
+
+Prep = [pos = "I.*"];
+/feature_count[Prep, "prep"];
+
+
+## FINITE VERBS
+Fin = [pos="V.*" & pos!="V.(G|I|N).*"];
+/feature_count[Fin, "fin"];
+
+
+## PAST TENSE VERBS
+Past = ([pos="V.D.*" & word!=RE($NonPast)] | [word="used"%cd & pos="VMK.*"]); # NB: case sensitivity set on purpose
+/feature_count[Past, "past"];
+
+
+## WILL AS INDICATOR OF FUTURE
+Will = [pos="V.*" & word="wo|will|\'ll|sha(ll)?" %cd] [pos != "V.*|\,|\-"]{0,3} [pos = "V.*I.*"] within s;
+set Will match matchend;
+/feature[Will, "will"];
+
+
+## MODAL VERBS
+VM = [pos="VM(K)?.*" & word!="will|\'ll|wo|shall"%c];
+/feature_count[VM, "vm"];
+
+
+## ALL VERBS
+V = [pos="V.*"];
+/feature_count[V, "v"];
+
+
+# 3) GRAMMATICAL STRUCTURES
+
+## TO-INFINITIVES
+Inf51 = [pos = "TO"] [pos != "V.*|\,"]{0,2} [pos="V.I"] within s;
+set Inf51 match matchend;
+Inf55 = [pos = "TO"] [pos != "V.*|\,"]{0,2} [pos="V.I"] within stage;
+set Inf55 match matchend;
+/union[Inf, Inf51, Inf55]
+/feature[Inf, "inf"];
+
+
+## PASSIVE
+Pass51 = (([pos="VD(0|D|Z)"] [pos="XX"])? [word = "get|gets|getting|got|gotten"] | [pos="VB(M|R|Z|G|DR|DZ|N)"] [pos="XX"]? | ([pos="VM.*"] [pos="XX"]? [pos="VBI.*"])) [pos="VBG"]? [word!=RE($NonPass)%c & pos!="JJ.*|AT.*|N.*|PN.*|DD.*|V.Z"]{0,2} [pos="V.N[^K]?" & word!="compared"] within s;
+set Pass51 match matchend;
+Pass55 = (([pos="VD(0|D|Z)"] [pos="XX"])? [word = "get|gets|getting|got|gotten"] | [pos="VB(M|R|Z|G|DR|DZ|N)"] [pos="XX"]? | ([pos="VM.*"] [pos="XX"]? [pos="VBI.*"])) [pos="VBG"]? [word!=RE($NonPass)%c & pos!="JJ.*|AT.*|N.*|PN.*|DD.*|V.Z"]{0,2} [pos="V.N[^K]?" & word!="compared"] within stage;
+set Pass55 match matchend;
+/union[Pass, Pass51, Pass55]
+/feature[Pass, "pass"];
+
+
+## COORDINATING CONJUNCTIONS
+Coord= [pos="CC.*"];
+/feature_count[Coord, "coord"];
+
+
+## SUBORDINATING CONJUNCTIONS
+Sub = [pos="CS.*"];
+/feature[Sub, "subord"];
+
+
+## INTERROGATIVES
+Q = @[word="\?"] within s;
+set Q matchend target;
+
+YNcompl = [pos="CC.*" & word!="nor" %c]? [pos="VM.*|VD.*|VB.*|VH.*"][pos="PP.*|N.*|AT.*"] []* [word="\?"] within s;
+set YNcompl match matchend;
+
+WhQ51 = <s> [pos="CC.*"]? [pos=".{2}Q.*"] [pos="V.*"] [pos!="R.*"] []* @[word="\?"] within s;
+set WhQ51 matchend target;
+set WhQ51 match target;
+WhQ55 = <qs> [pos="CC.*"]? [pos=".{2}Q.*"] [pos="V.*"] [pos!="R.*"] []* @[word="\?"] within qs;
+set WhQ55 matchend target;
+set WhQ55 match target;
+
+/union[Interr, YNcompl, WhQ51, WhQ55];
+/feature[Interr, "interr"];
+
+
+## IMPERATIVES
+Imper151 = <s> @[(pos="V.0" | word="let") & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM.*"] []* [word!="\?"] </s>;
+set Imper151 matchend target;
+Imper152 = <l> @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM.*"] []* [word!="\?"] </l>;
+set Imper152 matchend target;
+Imper153 = <u> @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM.*"] []* [word!="\?"] </u>;
+set Imper153 matchend target;
+Imper154 = <qs> @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM.*"] []* [word!="\?"] </qs>;
+set Imper154 matchend target;
+
+# NB: Imper2 was deleted as SEEFLEX direct speech is handled through xml elements and not inverted commas.
+
+Imper351 = <s> [pos="R.*|CC" & word!="how|wh.*" %cd]{0,2} @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM"] []* [word!="\?"] </s>;
+set Imper351 matchend target;
+set Imper351 match target;
+Imper352 = <l> [pos="R.*|CC" & word!="how|wh.*" %cd]{0,2} @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM"] []* [word!="\?"] </l>;
+set Imper352 matchend target;
+set Imper352 match target;
+Imper353 = <u> [pos="R.*|CC" & word!="how|wh.*" %cd]{0,2} @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM"] []* [word!="\?"] </u>;
+set Imper353 matchend target;
+set Imper353 match target;
+Imper354 = <qs> [pos="R.*|CC" & word!="how|wh.*" %cd]{0,2} @[pos="V.0" & word!= RE($NonImp) %c & word!= RE($NonImpSpell) %c] [pos!="V.Z.*|VM"] []* [word!="\?"] </qs>;
+set Imper354 matchend target;
+set Imper354 match target;
+/union[Imper, Imper151, Imper152, Imper153, Imper154, Imper351, Imper352, Imper353, Imper354];
+/feature[Imper, "imper"];
+
+
+## TITLES
+Title1 = @[pos="NNB"][pos="NP.*"]? within s;
+set Title1 matchend target;
+Title2 = @[word= RE($Title) %cd] [pos="NP.*"] within s;
+set Title2 matchend target;
+/union[Title, Title1, Title2];
+/feature[Title, "title"];
+
+
+## SALUTATIONS AND GREETINGS
+Sal2 = "Excellencies"%cd;
+Sal351 = [word="dear|welcome|greetings|hello|hey|hi" %cd] [pos="N.*" & word!="god|dear|it"%cd] within s;
+Sal352 = [word="dear|welcome|greetings|hello|hey|hi" %cd] [pos="N.*" & word!="god|dear|it"%cd] within u;
+/union[Sal3, Sal351, Sal352];
+set Sal3 matchend match;
+Sal4 = "ladies"%cd "and" "gentlemen|gentleman"%cd within s;
+set Sal4 matchend match;
+Sal6 = <salute> []+ </salute>;
+set Sal6 matchend match;
+/union[Salut, Sal2, Sal351, Sal352, Sal4, Sal6];
+/feature[Salut, "salut"];
+
+Gre151 = <s> @[word="best|kind|yours|sincerely|goodbye|bye"%cd] [word != "of|practice|standard|British|is|mail|example"%cd] within s;
+set Gre151 matchend match;
+Gre152 = <u> @[word="best|kind|yours|sincerely|goodbye|bye"%cd] [word != "of|practice|standard|British|is|mail|example"%cd] within u;
+set Gre152 matchend match;
+Gre2 = <signed> []+ </signed>;
+set Gre2 matchend match;
+/union[Greet, Gre151, Gre152, Gre2]
+/feature[Greet, "greet"];
+
+/union[SalutGreet, Salut, Greet];
+/feature[SalutGreet, "salutgreet"];
+
+
+## ADVERBS OF SPACE
+RL = [pos != "V.*" & word!="look|looking|looked|looks"%cd][pos="RL(\d1)?" & word!=".*together" %cd] within s;
+set RL match matchend;
+/feature[RL, "rl"];
+
+
+## ADVERBS OF TIME
+RT1 = [pos="RT(\d1)?"];
+RT2 = [pos="R.*" & word=RE($TimeAdv) %cd];
+/union[RT, RT1, RT2];
+/feature_count[RT, "rt"];
+
+
+##### INFORMATION FOR USERS OF THE SEEFLEX #####
+
+## The feature counts below follow the numbering structure used in the elements above
+## for the SEEFLEX structural mark-up <s>, <l>, <u>, and <qs>. However, the elements
+## below do not consider <l> as this would result in multiple Themes per sentence.
+## For more information, see chapter !!!!CH. NO!!!! of Pauls (forthcoming).
+
+
+# 4) FIRST ELEMENT IN SENTENCE
+
+## TEXTUAL THEMES
+### CONTINUATIVE THEMES
+ContTheme51 = <s> [word = RE($Cont)%cd & pos != "AT|P.*"];
+ContTheme54 = <qs> [word = RE($Cont)%cd & pos != "AT|P.*"];
+UhTheme51 = <s> [pos="UH" & word!="'a|'I|Ha"%cd] within s;
+UhTheme53 = <u> [pos="UH" & word!="'a|'I|Ha"%cd] within u;
+UhTheme54 = <qs> [pos="UH" & word!="'a|'I|Ha"%cd] within qs;
+/union[ContTheme, ContTheme51, ContTheme54, UhTheme51, UhTheme53, UhTheme54];
+ContTheme = diff ContTheme SalutGreet;
+
+
+### CONJUNCTION SO THEMES
+ConjSoTheme = <s> [word = "so"%c & pos = "R.*"][word = ".*" & pos != "DA2|VVN"];
+set ConjSoTheme matchend match;
+
+/union[TextualThemeDisc, ContTheme, ConjSoTheme];
+/feature[TextualThemeDisc, "textual_theme_disc"];
+
+
+### CONJUNCTION THEMES
+ConjTheme51 = <s> /qCont[]? [word = RE($ConjTh)%cd & pos != "R.*|J.*|I.*"];
+set ConjTheme51 matchend match;
+ConjTheme54 = <qs> /qCont[]? [word = RE($ConjTh)%cd & pos != "R.*|J.*|I.*"];
+set ConjTheme54 matchend match;
+/union[ConjTheme, ConjTheme51, ConjTheme54]
+
+
+### CONJUNCTIVE ADJUNCT THEMES
+ConjAdjTheme = <s> /qCont[]? /qConj[]? /qConjSo[]? ((/ConjAdj1[]) | (/ConjAdj2[]));
+set ConjAdjTheme matchend match;
+
+/union[TextualThemeConj, ConjTheme, ConjAdjTheme];
+/feature_count[TextualThemeConj, "textual_theme_conj"];
+
+/union[TextualTheme, TextualThemeDisc, TextualThemeConj];
+/feature_count[TextualTheme, "textual_theme"];
+
+
+## INTERPERSONAL THEMES
+InterpersonalTheme = <s> /qTextTh[] ((/ModAdj1[]) | (/ModAdj2[]));
+set InterpersonalTheme matchend match;
+/feature_count[InterpersonalTheme, "interpersonal_theme"];
+
+
+## CIRCUMSTANCE ADVERB AS FIRST ELEMENT
+AdvTheme51 = <s> [pos="R.*" & pos!="R.*Q.*" & word!="please" %cd] within s;
+AdvTheme54 = <qs> [pos="R.*" & pos!="R.*Q.*" & word!="please" %cd] within qs;
+/union[AdvTheme, AdvTheme51, AdvTheme54]
+
+AdvTheme = diff AdvTheme TextualTheme;
+AdvTheme = diff AdvTheme InterpersonalTheme;
+/feature[AdvTheme, "advtheme"];
+
+
+## NOMINAL ELEMENTS (POTENTIAL SUBJECTS)
+NPTheme51 = <s> /qTextTh[] /qIntTh[] [pos="A.*|J.*|N.*|P.*|D.*|EX" & pos!=".*Q.*"] within s;
+NPTheme54 = <qs> /qTextTh[] /qIntTh[] [pos="A.*|J.*|N.*|P.*|D.*|EX" & pos!=".*Q.*"] within qs;
+/union[NPTheme, NPTheme51, NPTheme54];
+
+NPTheme = diff NPTheme TextualTheme;
+NPTheme = diff NPTheme InterpersonalTheme;
+# Boundaries set after diff to keep multiple Themes in count but exclude textual and interpersonal Themes.
+set NPTheme match matchend;
+/feature[NPTheme, "nptheme"];
+
+
+## PREPOSITIONAL PHRASES
+PPTheme51 = <s> /qTextTh[] /qIntTh[] [pos="I.*" & word!="about|of"%cd] within s;
+PPTheme54 = <qs> /qTextTh[] /qIntTh[] [pos="I.*" & word!="about"%cd] within s;
+/union[PPTheme, PPTheme51, PPTheme54];
+
+PPTheme = diff PPTheme TextualTheme;
+PPTheme = diff PPTheme InterpersonalTheme;
+# Boundaries set after diff to keep multiple Themes in count but exclude textual and interpersonal Themes.
+set PPTheme match matchend; 
+/feature[PPTheme, "pptheme"];
+
+
+## WH-ELEMENTS
+WhTheme51 = <s> /qTextTh[] /qIntTh[] [pos=".*Q.*" & word != "however" %cd] within s;
+WhTheme54 = <qs> /qTextTh[] /qIntTh[] [pos=".*Q.*" & word != "however" %cd] within qs;
+/union[WhTheme, WhTheme51, WhTheme54]
+WhTheme = diff WhTheme TextualTheme;
+WhTheme = diff WhTheme InterpersonalTheme;
+# Boundaries set after diff to keep multiple Themes in count but exclude textual and interpersonal Themes.
+/feature[WhTheme, "whtheme"];
+
+
+## NONFINITIVE CLAUSE AS FIRST ELEMENT
+ToTheme = <s> /qTextTh[] /qIntTh[] [pos="TO.*|V.I.*|V.*G.*|V.*N.*"] within s;
+ToTheme = diff ToTheme TextualTheme;
+ToTheme = diff ToTheme InterpersonalTheme;
+# Boundaries set after diff to keep multiple Themes in count but exclude textual and interpersonal Themes.
+set ToTheme match matchend; 
+/feature[ToTheme, "infcltheme"];
+
+
+## SUBORDINATE CLAUSES AS FIRST ELEMENT (WOULD ALSO COUNT AS CIRCUMSTANCE ADJUNCT)
+CSTheme51 = <s> /qTextTh[] /qIntTh[] [pos="CS.*" & word!="that"%cd | word = "when"%cd & pos = "R.*"] within s;
+CSTheme54 = <qs> /qTextTh[] /qIntTh[] [pos="CS.*" & word!="that"%cd | word = "when"%cd & pos = "R.*"] within qs;
+/union[CSTheme, CSTheme51, CSTheme54];
+CSTheme = diff CSTheme TextualTheme;
+CSTheme = diff CSTheme InterpersonalTheme;
+set CSTheme match matchend; 
+/feature[CSTheme, "subcltheme"];
+
+
+## MERGE WITH INFINITIVE CLAUSES
+/union[SubordTheme, ToTheme, CSTheme];
+/feature[SubordTheme, "subordtheme"];
+
+
+## INTERROGATIVE THEMES
+InterroTheme51 = <s> /qTextTh[] /qIntTh[] @[pos="VM.*|VD.*|VB.*|VH.*"] [pos="XX"]? [pos="PP.*|N.*|AT.*|DD\d"] []* [word="\?"] within s;
+set InterroTheme51 matchend match;
+InterroTheme53 = <u> /qTextTh[] /qIntTh[] @[pos="VM.*|VD.*|VB.*|VH.*"] [pos="XX"]? [pos="PP.*|N.*|AT.*|DD\d"] []* [word="\?"] within u;
+set InterroTheme53 matchend match;
+InterroTheme54 = <qs> /qTextTh[] /qIntTh[] @[pos="VM.*|VD.*|VB.*|VH.*"] [pos="XX"]? [pos="PP.*|N.*|AT.*|DD\d"] []* [word="\?"] within qs;
+set InterroTheme54 matchend match;
+/union[InterroTheme, InterroTheme51, InterroTheme53, InterroTheme54]
+/feature[InterroTheme, "interrotheme"];
+
+
+## VERBAL THEMES (IMPERATIVES)
+VerbTheme51 = <s> /qTextTh[] /qIntTh[] @[pos="V.*" & pos!="V.*I.*|V.*D.*|V.*G.*|V.*N.*" & word!= RE($NonVerbTh)%cd & word != RE($NonImpSpell)%cd] within s;
+set VerbTheme51 matchend match;
+VerbTheme53 = <u> /qTextTh[] /qIntTh[] [pos="V.*" & pos!="V.*I.*|V.*D.*|V.*G.*|V.*N.*" & word!= RE($NonVerbTh)%cd & word != RE($NonImpSpell)%cd] within u;
+set VerbTheme53 matchend match;
+VerbTheme54 = <qs> /qTextTh[] /qIntTh[] [pos="V.*" & pos!="V.*I.*|V.*D.*|V.*G.*|V.*N.*" & word!= RE($NonVerbTh)%cd & word != RE($NonImpSpell)%cd] within qs;
+set VerbTheme54 matchend match;
+/union[VerbTheme, VerbTheme51, VerbTheme53, VerbTheme54];
+VerbTheme = diff VerbTheme InterroTheme; # excludes the hits already included in the previous feature.
+/feature[VerbTheme, "verbtheme"];
+
+exit;

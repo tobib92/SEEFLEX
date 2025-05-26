@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g07_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk1_1" type="title">Language learning in the<name type="geo">UK</name>: can't, won't, don't</ref>, written by <ref target="a12gk1_1" type="author">John Worne</ref> and published at <name type="misc">The Telegraph</name> on the <date>27th January in 2015</date> deals with the <choice><orig>authors</orig><reg>author's</reg></choice> opinion on speaking and learning foriegn languages and how important it this is for our society.</s>
+        <s>He takes up espacially on the situation in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>He starts by saying that people can't won't and don't learn new languages.</s>
+        <s>In Addition the number of <name type="geo">UK</name> students who study foreign languages went down.</s>
+        <s>The update of exams like <name type="misc">GCSE</name> and <name type="misc">A-Level</name> also stops.</s>
+        <s>Since the <date>1990s</date> the number of people, that take part of an exam also went down a lot.</s>
+        <s>Furthermore there is a process in some other area because more and more primary schools start teaching foreign languages.</s>
+        <s>Even though you might think, that everyone in the world of business might speak english, they don't Instead a lot of people use their phones to translate languages.</s>
+      </p>
+      <p>
+        <s>Moreover language learning is important for the <name type="geo">UK's</name> future.</s>
+        <s>For example it is <choice><orig>esential</orig><reg>essential</reg></choice> for their trade or cultural exports.</s>
+        <s>A survey has shown that two-thirds of <name type="geo">UK</name> businesses need foreign language, which might grow because more business want to grpw faster and become more international.</s>
+        <s>Some universitys already offer their students to study a language alongside another degree subject.</s>
+        <s>Nowdays is also better to have a combination of subjects, because it makes you more attractive for employers.</s>
+      </p>
+      <p>
+        <s>Another important thing is that particularly can develop their language skills, which makes it really important that parents give influence at home because just going to school is not enough to get this development.</s>
+      </p>
+      <p>
+        <s>To sum up <ref target="a12gk1_1" type="author"><choice><orig>John worne</orig><reg>John Worne</reg></choice></ref> says learning foreign languages is very important for the <name type="geo">UK's</name> future and global standing and also for the young generation.</s>
+        <s>Besides the use and learning of foreign languages should get more promotion.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

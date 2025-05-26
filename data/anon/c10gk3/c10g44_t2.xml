@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g44_t2</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <s><name type="person">Reece</name> knows what happened to his grandparents when they immigrate to <name type="geo"><choice><orig>britian</orig><reg>Britain</reg></choice></name>.</s>
+        <s>But he also knows the pressure that surrounds him.</s>
+        <s>This means that black people in <name type="geo"><choice><orig>britian</orig><reg>Britain</reg></choice></name> are not fully immigrated because sometimes they still excluded of the society or get discriminated.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <s>Some people are still thinking that black people are slaves or you can treat them like that because of the backgrounds.</s>
+        <s>You can't forget it.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <s>This quote means that slavery still <choice><orig>have</orig><reg>has</reg></choice> a major impact on black <choice><orig>british</orig><reg>British</reg></choice> people although it has been abolished a long time ago.</s>
+        <s>You have lots of prejudices of black <choice><orig>british</orig><reg>British</reg></choice> people.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <s>Many black <choice><orig>british</orig><reg>British</reg></choice> people, <choice><orig>espacially</orig><reg>especially</reg></choice> young people feel insecure and <choice><orig>missunderstood</orig><reg>misunderstood</reg></choice> because they got discriminated.</s>
+        <s>So the black leaders teach them to handle their problems and show their potential.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <s>First black people get teased, bullied and excluded from the society.</s>
+        <s>But now many kids <choice><orig>wants</orig><reg>want</reg></choice> to be black.</s>
+        <s>Things changed because now black people get a higher rank in the society.</s>
+        <s>They feel like normal people.</s>
+        <s>Black people have potential too, and you need to show it.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <s>The ancestors of the young generation of black people did something which is unbelievable for the time they lived.</s>
+        <s>They hope that it still will be good and of course getting better for black <choice><orig>british</orig><reg>British</reg></choice> peolpe so they can be part of the society.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

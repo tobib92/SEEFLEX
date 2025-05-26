@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g05_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The movie <ref target="b10gk1_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref>, was released in <date>2018</date>.</s>
+      </p>
+      <p>
+        <s>The given scene is about the relationship between <ref target="b10gk1_1" type="character">Starr</ref>, the black <choice><orig>maincharacter</orig><reg>main character</reg></choice>, and her white boyfriend <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> walks through the <choice><orig>schoolhallway</orig><reg>school hallway</reg></choice>.</s>
+        <s>He greets a few guys and is very happy.</s>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> sees him and look at his <name type="misc">Jordans</name> and says that she really likes them.</s>
+        <s><ref target="b10gk1_1" type="character">Chris</ref> sees her and walks towards her.</s>
+        <s>He shows her <choice><orig>is</orig><reg>his</reg></choice> new beat but she accuses him of <choice><orig>beeing</orig><reg>being</reg></choice> rash because he had a condom with him when they met.</s>
+        <s>He tells her why and asks why they can't get closer and why he can't visit her.</s>
+        <s>After <ref target="b10gk1_1" type="character">Starr</ref> said that his beat is <quote>alright</quote> he dances to it it test it out while she laughs.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

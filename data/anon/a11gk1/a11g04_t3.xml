@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g04_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Subject line: permission: <name type="misc">THUG</name> worldwide</p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Ms. Rump,</salute>
+      </p>
+      <p>
+        <s>I have heard, that the novel <name type="misc">The Hate U Give</name> is banned from school libraries.</s>
+        <s>I want to explain you, why I think the book should be made available to students worldwide.</s>
+      </p>
+      <p>
+        <s>At first, I can understand, that many people think that the book is not suitable for all schools, because of the variety of language, for example slang, but the issue racism is very <choice><orig>importent</orig><reg>important</reg></choice>.</s>
+      </p>
+      <p>
+        <s>We all know that this <choice><orig>issui</orig><reg>issue</reg></choice> is still topical.</s>
+        <s>In <name type="geo">America</name>, so many black people treated unfairly or were shot by the police.</s>
+      </p>
+      <p>
+        <s>Children should know that problems, because not only in the <name type="geo">USA</name> is the police violence.</s>
+        <s>This <choice><orig>concerned</orig><reg>concerns</reg></choice> the whole world.</s>
+      </p>
+      <p>
+        <s>The novel <name type="misc">The Hate U Give</name> tells a racism problem in this way, everybody can <choice><orig>understend</orig><reg>understand</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Should try to stop racism and this novel helps us to <gap reason="illegible" quantity="1" unit="word">commen</gap> this message.</s>
+      </p>
+      <p>
+        <s>I would as you for introduce this novel in schools.</s>
+        <s>That is such an important issue.</s>
+      </p>
+      <p>
+        <s>Maybe my words have <choice><orig>catched</orig><reg>caught</reg></choice> you, I hope so.</s>
+      </p>
+      <p>
+        <signed>Kind regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

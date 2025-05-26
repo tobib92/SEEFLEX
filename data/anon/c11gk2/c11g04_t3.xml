@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g04_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In a speech in <name type="geo">New York</name>, the <name type="misc">EU</name> commissioner <ref target="c11gk2_1" type="speaker">Barnier</ref> said <quote>Brexit is clearly a lose-lose situation for both</quote>, <choice><orig>wich</orig><reg>which</reg></choice> is a strong thesis but he has a point.</s>
+      </p>
+      <p>
+        <s>With the <name type="misc">Brexit</name>, the <name type="geo">UK</name> will have to leave the <name type="misc">Single European Market</name>.</s>
+        <s>This puts an end to how trading between <name type="geo">UK</name> and other states of the <name type="misc">EU</name> was in the last few <gap reason="illegible" quantity="1" unit="word">deckcius</gap>.</s>
+      </p>
+      <p>
+        <s>After the <name type="misc">Brexit</name> trading between <name type="geo">UK</name> and <name type="misc">EU</name> will be more difficult and with taxes, especially a problem for <name type="geo">Britain</name> because goods from the <name type="misc">EU</name> will be more expensive.</s>
+        <s>Another problem is many <name type="misc">EU</name> nationals returning to their home countries, leading to worker shortages.</s>
+      </p>
+      <p>
+        <s>Also, the <name type="geo">UK</name> will be weaker internationally without the <name type="misc">EU</name> arguing with it and supporting it.</s>
+      </p>
+      <p>
+        <s>All in all, the <name type="misc">Brexit</name> has many different bad effects for both parties, but mostly the <name type="geo">UK</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g50_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Lisa,</salute>
+      </p>
+      <p>
+        <s>after reading <name type="misc">The Hate U Give</name> twice, I have a very clear opinion / answer to your question: <choice><orig>Every</orig><reg>every</reg></choice> teenager - no matter if it comes from the <name type="geo">US</name> or not - should read this novel!</s>
+        <s>First of all it shows that police violence and <choice><orig>rasism</orig><reg>racism</reg></choice> is still a big problem in <name type="geo">America</name>, but - and I think this is even the better argument - it highlights a perspective from a girl who <choice><orig>do</orig><reg>does</reg></choice> not know where her place in the world is or who she even is and gets in a situation where a cop - who should protect the girl - kills her friend.</s>
+        <s>And I am sure that nearly every teenager knows this feeling of being self confused <add>and in a situation which can not get</add>.</s>
+        <s>I think it is very important to read this novel in school to udnerstand the kind of slang and to work on the right understanding, because yes, sometimes it is a bit vulgar or contains offensive language.</s>
+        <s>But I hvae to say: the novel would not have touched me that much if it weren't this kind of language.</s>
+        <s>It makes the novel authentic, realistic and it makes <name type="person">Starr</name> to a person to identify with, because every teenager has his own language.</s>
+        <s>The fact that your school board wants to hide the novel and then obviously the reality makes me very sad.</s>
+        <s>This novel is a great chance to understand eachother and to finally make all Americans equal.</s>
+        <s>I did not know anything about <choice><orig>rasism</orig><reg>racism</reg></choice> in <name type="geo">America</name>, I first came in touch with <name type="person">George Floyd</name>.</s>
+        <s><name type="misc">The Hate U Give</name> has helped me to understand what is going on in <name type="geo">America</name> and how the black people feel.</s>
+        <s>So please, <name type="person">Lisa</name> make sure that you read <name type="misc">The Hate U Give</name>.</s>
+      </p>
+      <p>Best wishes, Jane</p>
+    </body>
+  </text>
+</TEI>

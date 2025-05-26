@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g36_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The main purpose of the scene is to show the reactions of the police and the <ref target="b10gk3_1" type="character">King Lords</ref> to <ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> interview.</s>
+        <s>Another purpose is to show the injustice of the police and to show the cohesion of the people in the diner, who have all been through something like this.</s>
+      </p>
+      <p>
+        <s>At first there are used many <choice><orig>closeups</orig><reg>close ups</reg></choice> on the family members to show their happiness at the diner just to destroy this atmosphere moments later, when they see the <ref target="b10gk3_1" type="character">King Lords</ref>.</s>
+        <s><choice><orig>They</orig><reg>There</reg></choice> is often used a hand held camera to show how emotional the scene is or to show how angry <ref target="b10gk3_1" type="character">Maverick</ref> is when he rushes towards the <ref target="b10gk3_1" type="character">King Lords</ref> by shaking the camera.</s>
+        <s>All over the scene are used many <choice><orig>closeups</orig><reg>close ups</reg></choice> on the <ref target="b10gk3_1" type="character">Carter</ref> family, especially on <ref target="b10gk3_1" type="character">Maverick</ref> to <choice><orig>sho</orig><reg>show</reg></choice> their reactions to the action and to show how they react.</s>
+        <s>To underline the cohesion of the people in the diner, the director uses a long shot at the diner to show that all people from the diner are watching and filming the police officers.</s>
+        <s>There are only black people in the diner, to show that it's the black community, <choice><orig>thats</orig><reg>that</reg></choice> sticks together and helps each other.</s>
+        <s>The scene changes negatively when the <ref target="b10gk3_1" type="character">King Lords</ref> <choice><orig>apear</orig><reg>appear</reg></choice>, which is underlined when the camera switches to outside the diner and the lights change from warm and bright to dark.</s>
+        <s>So the main purpose of the scene is, to show how police and the <ref target="b10gk3_1" type="character">King Lords</ref> negatively react to <ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> interview.</s>
+        <s>In the scene are shown conflicts between the <ref target="b10gk3_1" type="character">Carter</ref> family and both of them.</s>
+        <s>During the scene the camera is always at the same.</s>
+      </p>
+      <p>
+        <s>The camera angle is always normal, even when <ref target="b10gk3_1" type="character">Maverick</ref> gets dragged to the ground the camera is on his <choice><orig>hight</orig><reg>height</reg></choice>.</s>
+        <s>During the scene there are no voice-overs as they are used often in the movie, to put the attention on the action of the scene.</s>
+      </p>
+      <p>
+        <s>To sum up you can say that in the given scene are used many camera devices to create an emotional atmosphere with many ups and downs.</s>
+        <s>The scene is very happy at the beginning but gets negative when <ref target="b10gk3_1" type="character">Maverick</ref> starts to fight with the <ref target="b10gk3_1" type="character">King Lords</ref>.</s>
+        <s>The atmosphere gets more positive when the police <choice><orig>arives</orig><reg>arrives</reg></choice> and the <ref target="b10gk3_1" type="character">King Lords</ref> drive away, but the police also treats him bad.</s>
+        <s>The scene ends positive, because the police officers let <ref target="b10gk3_1" type="character">Maverick</ref> go, because of the cohesion of the people in the diner.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

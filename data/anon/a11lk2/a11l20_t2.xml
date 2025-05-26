@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l20_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref>, <ref target="a11lk2_1" type="character">Amir</ref> is a 40-years old lawyer and also the <choice><orig>Protagonist</orig><reg>protagonist</reg></choice> of the <choice><orig>Play</orig><reg>play</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In scene 3, <ref target="a11lk2_1" type="character">Isaac</ref> who is a working partner of <ref target="a11lk2_1" type="character">Emily</ref> (<add><ref target="a11lk2_1" type="character">Amir's</ref> wife</add>) and <ref target="a11lk2_1" type="character">Jory</ref> (<add><ref target="a11lk2_1" type="character">Isaac's</ref> wife</add>), who is also a lawyer, comes to visit <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Emily</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Emily</ref> got caught by <ref target="a11lk2_1" type="character">Jory</ref> in an intimate moment.</s>
+        <s>The whole visit gets very chaotic.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> who is very emotional gets angry at <ref target="a11lk2_1" type="character">Jory</ref>, because he believes that she just want to ruin his marriage after she already stole his job <ref target="a11lk2_1" type="line">(p. 71, l. 18-19)</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> thinks that <choice><orig>its</orig><reg>it's</reg></choice> unfair because he works much harder than <ref target="a11lk2_1" type="character">Jory</ref>.</s>
+        <s>He also says that she was never at work before anyone else or last one to leave <ref target="a11lk2_1" type="line">(p. 72, l. 25-28)</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk2_1" type="character">Isaac</ref> tells <ref target="a11lk2_1" type="character">Jory</ref> to <quote>not listen any more out of this asshole</quote> <ref target="a11lk2_1" type="line">(p. 72, l. 30)</ref>, <ref target="a11lk2_1" type="character">Amir</ref> insults <ref target="a11lk2_1" type="character">Isaac</ref> back and they go face to face.</s>
+        <s>Full of anger, <ref target="a11lk2_1" type="character">Amir</ref> spits <ref target="a11lk2_1" type="character">Isaac</ref> in his face because a long time ago his mother spat him <add>(<ref target="a11lk2_1" type="character">Amir</ref>)</add> in his face when he was a young boy because he had a crush on <choice><orig>an</orig><reg>a</reg></choice> Jewish <choice><orig>Girl</orig><reg>girl</reg></choice>.</s>
+      </p>
+      <p>
+        <s>When <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Jory</ref> left, <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Emily</ref> are alone.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> asks <ref target="a11lk2_1" type="character">Emily</ref> with a strong but intense voice if she slept with <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> loves <ref target="a11lk2_1" type="character">Emily</ref> and therefore they don't get instantly in the next conflict <ref target="a11lk2_1" type="line">(p. 73, l. 27)</ref>.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> who also loves <ref target="a11lk2_1" type="character">Amir</ref>, doesn't want to lie again and tells him the truth.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> who was sure that <ref target="a11lk2_1" type="character">Jory</ref> just wanted to destroy their marriage, is overwhelmed by his emotions.</s>
+        <s>Without any thoughts he punches <ref target="a11lk2_1" type="character">Emily</ref> and just <choice><orig>realize</orig><reg>realizes</reg></choice> later what he <choice><orig>have</orig><reg>has</reg></choice> done.</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> totally regrets it but at this point it's <choice><orig>to</orig><reg>too</reg></choice> late.</s>
+        <s>Later in the <choice><orig>Play</orig><reg>play</reg></choice> <ref target="a11lk2_1" type="character">Amir</ref> lost his job and doesn't live anymore with <ref target="a11lk2_1" type="character">Emily</ref>.</s>
+        <s>In general one can say that <ref target="a11lk2_1" type="character">Amir</ref> is a very emotional person who is sometimes too much controlled, manipulates or overwhelmed by his emotions and therefore he regrets actions taken in the past.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g41_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence has an important function for the movie.</s>
+        <s>It is the inclouding of <ref target="b10gk4_1" type="character">Chris</ref>, <ref target="b10gk4_1" type="character">Starr's</ref> boyfriend.</s>
+      </p>
+      <p>
+        <s>The scene starts with <choice><orig>an</orig><reg>a</reg></choice> medium shot.</s>
+        <s>It shows <ref target="b10gk4_1" type="character">Starr</ref>, who is taking some books out of her locker.</s>
+        <s>She seems calm and annoyed.</s>
+        <s>When she looks away she sees <ref target="b10gk4_1" type="character">Chris</ref>, who walks along the hallway.</s>
+        <s>She looks <choice><orig>impresst</orig><reg>impressed</reg></choice> by him.</s>
+        <s>When <ref target="b10gk4_1" type="character">Starr</ref> <choice><orig>fist</orig><reg>first</reg></choice> <choice><orig>see</orig><reg>sees</reg></choice> <ref target="b10gk4_1" type="character">Chris</ref>, the director decided to film the only his legs.</s>
+        <s>By doing so he <choice><orig>let</orig><reg>lets</reg></choice> the <choice><orig>suspence</orig><reg>suspense</reg></choice> grow.</s>
+        <s>She now <choice><orig>look</orig><reg>looks</reg></choice> up.</s>
+        <s>The viewer can see how <ref target="b10gk4_1" type="character">Chris'</ref> whole body.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk4_1" type="character">Starr</ref> thinks about <ref target="b10gk4_1" type="character">Chris</ref>, the viewer can hear really lovely and calm music.</s>
+        <s>The music <choice><orig>emphesizes</orig><reg>emphasizes</reg></choice> <ref target="b10gk4_1" type="character">Starr's</ref> positive feelings for him.</s>
+      </p>
+      <p>
+        <s>The camera <choice><orig>switces</orig><reg>switches</reg></choice> <choice><orig>arount</orig><reg>around</reg></choice> <ref target="b10gk4_1" type="character">Chris'</ref> <choice><orig>Body</orig><reg>body</reg></choice> and shows him in a close up by the side.</s>
+        <s>This allows the viewer to see him in <choice><orig>diffrent</orig><reg>different</reg></choice> ways and present him perfectly.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk4_1" type="character">Chris</ref> sees <ref target="b10gk4_1" type="character">Starr</ref>, she quickly <choice><orig>look</orig><reg>looks</reg></choice> away.</s>
+        <s>The camera follows <ref target="b10gk4_1" type="character">Chris'</ref> look and switches to <ref target="b10gk4_1" type="character">Starr</ref>.</s>
+        <s>This makes it clear that he looks at her.</s>
+        <s>The fast switch also comes over as hectic and creates <choice><orig>an</orig><reg>a</reg></choice> contrast to the calm and hypnotic atmosphere.</s>
+      </p>
+      <p>
+        <s>The music gets louder and stops fast.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref><choice><orig>awake</orig><reg>awakes</reg></choice> from her <q><ref target="b10gk4_1" type="character">Chris</ref> dream</q> and <choice><orig>have</orig><reg>has</reg></choice> to seem angry to him.</s>
+        <s>Her thoughts are allowing the viewer the impression that she isn't really angry.</s>
+      </p>
+      <p>
+        <s><ref target="b10gk4_1" type="character">Chris</ref><choice><orig>decide</orig><reg>decides</reg></choice> because of <ref target="b10gk4_1" type="character">Starr's</ref> look to come to her and apology.</s>
+        <s>Their conversation is filmed by an over-the-shoulder shot.</s>
+        <s>This expresses that they look at each other while they talk.</s>
+        <s>The viewer can put himself into <ref target="b10gk4_1" type="character">Starr</ref> and <ref target="b10gk4_1" type="character">Chris</ref> and feel involved in their conversation.</s>
+        <s><ref target="b10gk4_1" type="character">Chris</ref><choice><orig>put</orig><reg>puts</reg></choice> his headphones on <ref target="b10gk4_1" type="character">Starr's</ref> head to show her his music.</s>
+        <s>The viewer hears <ref target="b10gk4_1" type="character">Chris'</ref> rap music.</s>
+        <s>This also makes the viewer feel involved and <choice><orig>allow</orig><reg>allows</reg></choice> him to connect the two songs to <ref target="b10gk4_1" type="character">Chris</ref> and <ref target="b10gk4_1" type="character">Starr</ref>.</s>
+        <s>At the one <choice><orig>Hand</orig><reg>hand</reg></choice> <ref target="b10gk4_1" type="character">Chris</ref> comes over as really cool and chilled.</s>
+        <s>At the other <choice><orig>Hand</orig><reg>hand</reg></choice> <ref target="b10gk4_1" type="character">Starr</ref> seems really calm and in love.</s>
+        <s>The over the shoulder shots are also filmed with <choice><orig>an</orig><reg>a</reg></choice> low angle when <ref target="b10gk4_1" type="character">Starr</ref> is on the picture and with <choice><orig>an</orig><reg>a</reg></choice> high angle when we see <ref target="b10gk4_1" type="character">Chris</ref>.</s>
+        <s>This expresses their looks at each other.</s>
+      </p>
+      <p>
+        <s>When they and their conversation, <ref target="b10gk4_1" type="character">Starr</ref> smiles to <ref target="b10gk4_1" type="character">Chris</ref>.</s>
+        <s>This highlights her <choice><orig>aceptance</orig><reg>acceptance</reg></choice> of the apology of <ref target="b10gk4_1" type="character">Chris</ref>.</s>
+        <s>As he walks away he <choice><orig>dance</orig><reg>dances</reg></choice> in <choice><orig>an</orig><reg>a</reg></choice> funny way in the middle of the hallway to make fun for <ref target="b10gk4_1" type="character">Starr</ref>.</s>
+        <s>She laughs and <choice><orig>seem</orig><reg>seems</reg></choice> happy.</s>
+        <s>It shows that <ref target="b10gk4_1" type="character">Chris</ref> can make her happy and that they have a good relationship.</s>
+        <s>The rap music makes him come over as cool again.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> seems <choice><orig>embarrast</orig><reg>embarrassed</reg></choice> in <choice><orig>an</orig><reg>a</reg></choice> fun way which also shows their good connection.</s>
+      </p>
+      <p>
+        <s>The director <choice><orig>decidet</orig><reg>decided</reg></choice> to film <ref target="b10gk4_1" type="character">Chris</ref> in <choice><orig>an</orig><reg>a</reg></choice> really presentive and charming way.</s>
+        <s>By doing so <ref target="b10gk4_1" type="character">Chris</ref> comes over as cool and nice.</s>
+        <s><ref target="b10gk4_1" type="character">Starr</ref> also looks proud and in love, which expresses their good relationship.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

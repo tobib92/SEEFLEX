@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>c10g38_t2</author>
+        <name>explain</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="explaining" genre_family="consequential explanation">explain</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>1.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 10-11)</ref>
+      </p>
+      <p>
+        <s>The sentence means that <name type="person">Reece</name> knows what awful his grandparents had to witness and that he knows that there are stll racist people out there who will discriminate him.</s>
+        <s>The sentence tells the reader that he is ready to deal with these things.</s>
+      </p>
+    </body>
+    <head>
+      <p>2.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 25-26)</ref>
+      </p>
+      <p>
+        <s>The sentence means that the things that happened to black people in the past, like slavery and racism, will make things hard for black people in the present day because it might make other people discriminate black people.</s>
+      </p>
+    </body>
+    <head>
+      <p>3.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 35)</ref>
+      </p>
+      <p>
+        <s>The sentence tells the reader that slavery hasn't happened in the past years but then memory to it is still there and it has to be explained to young black people because they need to understand that they will get discriminated at some point.</s>
+      </p>
+    </body>
+    <head>
+      <p>4.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 38-39)</ref>
+      </p>
+      <p>
+        <s>The sentence means that the famous black people are trying to help the young black community so they can follow their dreams like everyone can.</s>
+      </p>
+    </body>
+    <head>
+      <p>5.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 54-55)</ref>
+      </p>
+      <p>
+        <s>The sentence means that nowadays there are many <choice><orig>succesful</orig><reg>successful</reg></choice> black people and that the black community finally got chances to follow their dreams.</s>
+        <s>The sentence tells us aswell that some people finally show some respect to black people.</s>
+      </p>
+    </body>
+    <head>
+      <p>6.</p>
+    </head>
+    <body>
+      <p>
+        <ref target="c10gk3_1" type="line">(l. 63-64)</ref>
+      </p>
+      <p>
+        <s>The sentence means that black people are happy about what they accomplished over the years and that they are looking forward to accomplish even more.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

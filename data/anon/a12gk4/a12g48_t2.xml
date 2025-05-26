@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g48_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his article <ref target="a12gk4_1" type="title">Language learning in the UK: can't, won't, don't</ref>, <ref target="a12gk4_1" type="author">Worne</ref> starts his text with inclusive language.</s>
+        <s>He says 		<quote>our</quote> national view instead <quote>the</quote> national view because inclusive language makes the reader feel more included and the author has the reader's attention from the beginning because the readers feel like the author talks directly with them.</s>
+        <s>This is not the only time he uses inclusive language.</s>
+        <s>In the end he talks about <quote>we as parents</quote> and <quote>without us</quote>.</s>
+        <s>Here he includes the readers like in the beginning but he also talks about that he or the <name type="geo">UK</name> and the <choice><orig>readers</orig><reg>reader's</reg></choice> children <choice><orig>needs</orig><reg>need</reg></choice> them, he appeals to them.</s>
+      </p>
+      <p>
+        <s>In the parts <choice><orig>were</orig><reg>where</reg></choice> the author explains his opinion he makes use of exclusive language because he seems more <choice><orig>authentical</orig><reg>authentic</reg></choice>.</s>
+        <s>He supports his <choice><orig>oppinion</orig><reg>opinion</reg></choice> with a survey from the <name type="misc">CBI/ Pearson Education</name> and skills from <ref target="a12gk4_1" type="line">line 28 to 30</ref>.</s>
+        <s>This makes him more <choice><orig>beliveable</orig><reg>believable</reg></choice> and people tend to trust him and his view more.</s>
+        <s>The text is parted in 5 <choice><orig>Parts</orig><reg>parts</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the first part he introduces his readers to the topic of his text <ref target="a12gk4_1" type="line">(l. 1-l. 2)</ref>.</s>
+      </p>
+      <p>
+        <s>The second part is about the students and kids from school from the <name type="geo">UK</name> and how bad the education system is <ref target="a12gk4_1" type="line">(l. 3-l. 17)</ref>.</s>
+        <s>After that he talks about other <choice><orig>peoples</orig><reg>people's</reg></choice> thoughts about this topic and his own mixed <ref target="a12gk4_1" type="line">(l. 18-l. 23)</ref>.</s>
+      </p>
+      <p>
+        <s>The following part is about language and the job and the <name type="geo">UK</name>, why language is important for kids to learn for their future adult life not to look like his examples <ref target="a12gk4_1" type="line">(l. 41-l. 42)</ref>; <ref target="a12gk4_1" type="line">(l. 24-l. 45)</ref>.</s>
+      </p>
+      <p>
+        <s>In the end he talks directly with the readers and has an appeal for them to help their kids <ref target="a12gk4_1" type="line">(l. 46-l. 51)</ref>.</s>
+        <s>In the <choice><orig>Beginning</orig><reg>beginning</reg></choice> the reader is not introduced in his opinion.</s>
+        <s>His opinion on the topic is revealed later.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

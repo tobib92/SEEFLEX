@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l26_t1</author>
+        <name>sonnet_paraphrase</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">sonnet_paraphrase</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Just as the waves flow towards the shore,</l>
+            <l>So does life come to its end,</l>
+            <l>Making place for new people to live,</l>
+            <l>And it happens suddenly, without us realising.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>When a human is born, he <choice><orig>get</orig><reg>gets</reg></choice> all the attention,</l>
+            <l>His main goal being to grow up,</l>
+            <l>When grown up, life comes back at him,</l>
+            <l>And is surprised by what it created.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>With time, one's enthusiasm fades away</l>
+            <l>and one does not see anymore of life's beauty,</l>
+            <l>forgets his own uniqueness,</l>
+            <l>and waits for his inevitable death.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>And although life is cruel,</l>
+            <l>I hope you know my love and appreciation for you.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

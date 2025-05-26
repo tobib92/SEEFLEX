@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g30_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will comment on necessary as well as feasible measures to help solving the global pollution.</s>
+        <s>Every single human being knows that the <choice><orig>enviromental</orig><reg>environmental</reg></choice> pollution is increasing and it is becoming dangerous for human health, as well as for animals and plants.</s>
+        <s>The question is, what can we do to help?</s>
+      </p>
+      <p>
+        <s>Firstly, it can be said that everyone has to <choice><orig>seperate</orig><reg>separate</reg></choice> their trash.</s>
+        <s>Some people might say that it is not going to change anything but if everyone works together it is going to have a huge impact.</s>
+        <s>Secondly, we should start using sustainable and recycable products, for example clothes, and technical devices to prevent the pollution of the ocean and particular regions.</s>
+        <s>Lastly, people should start using electronical vehicles, <add>(even if they are more expensive)</add>, so that the pollution of the air decreases and human health is not in big danger anymore.</s>
+      </p>
+      <p>
+        <s>All in all it can be said, that if everyone on planet earth starts by doing the bare minimum for our <choice><orig>enviroment</orig><reg>environment</reg></choice>, the mass extinction of animals, plants and eventually humans can be stopped.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11g06_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The speaker presents a few points about the negative impact and the consequences of the <name type="misc">Brexit</name> in his speech.</s>
+        <s>In the following I will present the arguments against the <name type="misc">Brexit</name> and the characteristics at a close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name>.</s>
+      </p>
+      <p>
+        <s>The most <choice><orig>neccesary</orig><reg>necessary</reg></choice> negative impact of the <name type="misc">Brexit</name> for the <name type="geo">UK</name> are the high costs, because the <name type="misc">Brexit</name> could be the end for value chains, <choice><orig>wich</orig><reg>which</reg></choice> are just closely integrated across the national borders of European countries.</s>
+        <s>Also subsidiaries of <name type="geo">US</name> firms are in danger, because their logistical channels, their supply chains and existing contracts can be adapted and in the worst case it is a <quote>no deal</quote> for <name type="geo">US</name> firms.</s>
+        <s><choice><orig>Their</orig><reg>there</reg></choice> are given <choice><orig>difficultys</orig><reg>difficulties</reg></choice> after <name type="misc">Brexit</name> in trading with European countries and their partners more uncomfortable and can get trouble.</s>
+        <s>To sum up it is just a big disadvantage for the <name type="geo">UK</name> to <choice><orig>can not</orig><reg>cannot</reg></choice> longer take part in <quote>the most open market in the world</quote> that easy.</s>
+        <s>The given characteristics of a close relationship between the <name type="geo">UK</name> and the <name type="misc">EU</name> are the better connectivity because the possibility for businesses is given to spread in other European and third countries and <choice><orig>effect</orig><reg>affect</reg></choice> the economic system of the <name type="geo">UK</name> in a positive way.</s>
+        <s>An other characteristic of a relationship is the <name type="misc">EU</name> equivalence which gives third countries the chance to trade with the <name type="misc">EU</name>.</s>
+        <s>And it is an agreement of free trade with the <name type="geo">UK</name> with the <name type="misc">EU</name> rules.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

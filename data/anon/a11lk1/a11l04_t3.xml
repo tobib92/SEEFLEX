@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l04_t3</author>
+        <name>diary</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">diary</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey dear diary,</salute>
+      </p>
+      <p>
+        <s>today was a pretty bad day, <choice><orig>i</orig><reg>I</reg></choice> got in an argument with my uncle.</s>
+        <s>I just can't understand, how it's possible for him to <choice><orig>supress</orig><reg>suppress</reg></choice> his heritage and identity.</s>
+        <s>Doesn't he have any pride for his religion or culture?</s>
+        <s>He always <choice><orig>want's</orig><reg>wants</reg></choice> to take the easiest way and <choice><orig>don't</orig><reg>doesn't</reg></choice> <choice><orig>want's</orig><reg>wants</reg></choice> any trouble.</s>
+        <s>But sometimes you have to get in trouble, to show up the unfairness, that is existing in this country.</s>
+        <s>I mean even if he really does not want to be muslim anymore, he gotta get my point of view.</s>
+        <s>He gotta understand that not everyone <choice><orig>want's</orig><reg>wants</reg></choice> to handle his problems the way he does.</s>
+        <s>And especially as my uncle he should understand and support me more.</s>
+      </p>
+      <p>
+        <s>But no, the authorities make the rules and you have to do everything what they say, otherwise you'll get deported...</s>
+      </p>
+      <p>
+        <s>That's so stupid, does <ref target="a11lk1_1" type="character">Amir</ref> really think he has a better life here?</s>
+        <s>He got like zero of his true identity left.</s>
+        <s>Will he always do, what everyone says, to stay out of trouble?</s>
+        <s>He can't do that for his whole future.</s>
+        <s>And <choice><orig>i</orig><reg>I</reg></choice> will not do that and if that means <choice><orig>i</orig><reg>I</reg></choice> will get deported, then <choice><orig>i</orig><reg>I</reg></choice> know, that <choice><orig>i</orig><reg>I</reg></choice> will have a better future in <name type="geo">Pakistan</name>.</s>
+        <s>I just don't think, that this country has a good future for anyone of my religion...</s>
+      </p>
+      <p>
+        <s>Well, we will see.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g11_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Shawn,</salute>
+      </p>
+      <p>
+        <s>I'm happy that you contacted me.</s>
+        <s>How are you and your family?</s>
+      </p>
+      <p>
+        <s>recently you said that you can imagine to spend a year in <name type="geo">Germany</name>, specifically in <name type="geo">Berlin</name> after school.</s>
+        <s>I found an article by <ref target="a12gk1_2" type="author">Marina Kormbaki</ref> <ref target="a12gk1_2" type="title"><name type="geo">Berlin</name> spricht Englisch</ref> in the <name type="misc">Hannoversche Allgemeine Zeitung</name> from <date>2015</date>.</s>
+        <s>The title says <quote><name type="geo">Berlin</name> speaks <choice><orig>english</orig><reg>English</reg></choice></quote> and I wanted to tell you about it.</s>
+      </p>
+      <p>
+        <s>most people in <name type="geo">Berlin</name> speak <choice><orig>english</orig><reg>English</reg></choice> now.</s>
+        <s>The reason is that many people from <choice><orig>english</orig><reg>English</reg></choice> speaking countries travel there and many of them moved to <name type="geo">Berlin</name>.</s>
+        <s>In many parts of <name type="geo">Berlin</name> the most people don't speak German anymore but other languages and the most spoken one <choice><orig>ist</orig><reg>is</reg></choice> <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Also the most signs in restaurants and shops are in <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>Furthermore many <choice><orig>english</orig><reg>English</reg></choice> speaking people work there so you don't have to be afraid that you will not understand them.</s>
+        <s>Besides there is a little book shop named <quote>curious fox</quote> which sells second hand <choice><orig>english</orig><reg>English</reg></choice> books.</s>
+        <s>So you can read in <choice><orig>english</orig><reg>English</reg></choice> too.</s>
+        <s>Moreover it is pretty affordable to live in <name type="geo">Berlin</name>.</s>
+        <s>The costs are not that high like in other metropoles.</s>
+      </p>
+      <p>
+        <s>I hope that this article convinced you a little more to go to <name type="geo">Berlin</name> next year.</s>
+        <s>I would be happy to see you.</s>
+      </p>
+      <p>
+        <signed>Sincerly, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

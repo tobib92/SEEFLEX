@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>c12l13_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear William,</salute>
+      </p>
+      <p>
+        <s>I feel grateful and blessed to have received this wonderful piece of art from you.</s>
+        <s>I would say that you have outdone yourself but that wouldn't do justice to your previous sonnets that also evoked such deep and precious feelings inside me.</s>
+        <s>But I would like to point out what made me value this sonnet especially.</s>
+      </p>
+      <p>
+        <s>I noticed that you picked up a familiar topic for your sonnet: the passage of time.</s>
+        <s>It is such a dilemma that I assume you just cannot stop collecting thoughts about it which you then eventually decide to put into words.</s>
+        <s>Time really seems like our worst enemy, doesn't it?</s>
+        <s>No matter what we were trying to do we are simply inferior to it.</s>
+        <s>I especially was astonished and moved by your comparison of humankind to a flower.</s>
+        <s>We really are fragile like a flower and our fate is to fade one day.</s>
+        <s>Our young and beautiful days full of excitement, adventures and love will be in the past and the victim of time.</s>
+      </p>
+      <p>
+        <s>Our hearts won't skip a beat anymore when we experience certain things; Time will also take away our joy, interests and excitement.</s>
+        <s>We won't feel what it's like to be our present <choice><orig>selfs</orig><reg>selves</reg></choice> in a few decades, <name type="person">William</name>.</s>
+      </p>
+      <p>
+        <s>But as your last two lines state: art show live on forever.</s>
+        <s>Words and phrases will never die, that's not possible.</s>
+        <s>You engraved your feelings in several sonnets and I engraved mine in the letter.</s>
+        <s>Our words and youth show live on until eternity in the form of our verses.</s>
+      </p>
+      <p>
+        <s>I cannot and this letter without praising you once again.</s>
+        <s>Your choice of words and language are not comparable to anything I have ever read before and I doubt that they ever will be in the future.</s>
+        <s>There's just something about the way you write that fills me up with nostalgia.</s>
+        <s>The collusion of your language and your precious and valuable thoughts create such masterpieces that are to amaze many more generations to come.</s>
+        <s>Your extraordinary perception of the human mind will offer a great comfort to many more people in the future, I'm sure about that.</s>
+        <s>Reading your sonnets makes one feel understood and not alone in this cruel, cold world.</s>
+        <s>Your words radiate such comfort that people didn't know they were in need of.</s>
+        <s>And this talent you were gifted with my dear, as forever engraved in your verses, that cover a great variety of themes.</s>
+        <s>Love, unrequited love, jealousy, time, the meaning of life and many more to come, I'm convinced.</s>
+      </p>
+      <p>
+        <s>I am looking forward to receiving many more masterpieces from you.</s>
+        <s>But take your time with it.</s>
+        <s>I will be patient.</s>
+        <s>I wish you all but the best <name type="person">William</name>.</s>
+      </p>
+      <p>
+        <signed>Yours truly, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

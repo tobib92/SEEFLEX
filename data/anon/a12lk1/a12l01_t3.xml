@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>a12l01_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><name type="person">Shakespeare</name> wrote many different sonnets with many different topics.</s>
+        <s>But there is one thing that appears in most of them and that is <quote>love</quote>.</s>
+        <s>So in the following I am going to deal with his different ways of reflecting about this topic.</s>
+      </p>
+      <p>
+        <s>In his sonnets,<name type="person">Shakespeare</name> talks about different aspects which are important when you think of love.</s>
+        <s>He deals with topics like death, lies, trust and all that in a romantic way.</s>
+      </p>
+      <p>
+        <s>when you read<name type="person">Shakespeare</name> for the first time you will most likely not understand the context or the words he uses.</s>
+        <s>He writes in a way that he paraphrases words we know to <choice><orig>diffret</orig><reg>different</reg></choice> ones to give it a better meaning.</s>
+        <s>He chooses every word perfectly so it fits into what he wants to point out.</s>
+        <s>When he talks about love, his words always have a deeper meaning and when you read it 4-5 times you will always find another way to <choice><orig>interpretate</orig><reg>interpret</reg></choice> his texts.</s>
+        <s>Like when I first read <name type="misc">Sonnet 18</name> in my <choice><orig>english</orig><reg>English</reg></choice> class I didn't know it was about death and eternal love until I went through it a couple of times.</s>
+        <s>As a student I have to admit that reading his sonnets for the first time was a bit annoying, but when you start to work on them and read a bit more it gets better to understand them and the most important part because otherwise you can't really enjoy them.</s>
+        <s>His perspective of love is really interesting because he writes his feelings down without trying to hide anything.</s>
+        <s>That in my opinion makes them even better because you can relate to them on a more deeper level.</s>
+        <s>He shows good but also bad sides of loving someone and shows that in his sonnets.</s>
+      </p>
+      <p>
+        <s>If someone wants to read<name type="person">Shakespeare</name> for the first time I as a student would recommend learning more about his language because otherwise <choice><orig>its</orig><reg>it's</reg></choice> hard to understand.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l02_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Everyday racism - will it ever stop?</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>Racism always was and sadly still is one of the main issues in our society.</s>
+        <s><choice><orig>Wether</orig><reg>Whether</reg></choice> it is in <name type="geo">America</name>, in <name type="geo">Germany</name> or in any other country, people with colour still have to deal with racist assumptions and in the worst case even actions everyday.</s>
+        <s>How much injustice will they have to face and fight against until it finally stops?</s>
+        <s>A famous German football player has talked about his own experiences of being a black person in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Jerôme Boateng</name> is a well known man in <name type="geo">Germany</name>, especially as a football player.</s>
+        <s>Most of us know him because he played in the national team of <name type="geo">Germany</name> and also played when <name type="geo">Germany</name> won the world cup in <date>2014</date>.</s>
+        <s>You would think, that a skilled and well liked man like that would not have a difficult time in <name type="geo">Germany</name>, right?</s>
+        <s><name type="person">Boateng</name> tells us, that this is a myth.</s>
+        <s>Ever since he was a child, he got treated racist and unkind because of his skin colour.</s>
+      </p>
+      <p>
+        <s>People started yelling at him and calling him names, when at the time he didn't even understand why.</s>
+        <s>He says that in his family, his skin colour wasn't even a discussed topic and as a kid he never could have imagined, that his looks would one day be an issue for him.</s>
+        <s>The place where he gets attacked the most is <choice><orig>definetely</orig><reg>definitely</reg></choice> the football field.</s>
+        <s>He made his first racist experiences there and he still has to face racist actions at his job every single day.</s>
+        <s>People still are making ape noises or spitting at him from the tribune, while he is just doing his job: playing football for the national team.</s>
+        <s>And that is almost the most ironic thing: while he is playing for <name type="geo">Germany</name> and really fighting for their country to win, he still gets treated racist.</s>
+      </p>
+      <p>
+        <s>So what can you do about it and how can you help?</s>
+        <s>The first best thing to do is educate people about the topic and explain the issues.</s>
+        <s>The second thing that is really important: don't look away!</s>
+        <s>Speak up about injustice and try to <choice><orig>hellp</orig><reg>help</reg></choice> people who are affected.</s>
+      </p>
+      <p>
+        <s>Sadly most times, situations like these get overlooked and ignored because no one has the courage to step in, just because of the fear of getting yourself in danger and the lazyness.</s>
+        <s>But racism still is a very important and big issue.</s>
+        <s>We need to stand up for what is right and stick together to overcome racism all over the world!</s>
+      </p>
+    </body>
+  </text>
+</TEI>

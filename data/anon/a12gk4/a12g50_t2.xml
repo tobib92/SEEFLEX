@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g50_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>To convince the reader from his personal view and to bring his arguments closer <ref target="a12gk4_1" type="author">John Worne</ref> uses a variety of communicative strategies and a specific use of language 		which are going to be analysed in the following text.</s>
+      </p>
+      <p>
+        <s>To begin is to say that <ref target="a12gk4_1" type="author">Worne</ref> states the opinion that <name type="geo">UK</name> students have to improve their language skills due to many relevant facts, like the importance in our <choice><orig>increasing</orig><reg>increasingly</reg></choice> globalized world market, economy sector, business sector and more.</s>
+        <s>In this themes he claims to the significant role of language learning <quote>for the UK's future prosperity and global standing</quote> <ref target="a12gk4_1" type="line">(ll. 24-25)</ref>.</s>
+        <s>This represents his general view on the meaning of learning languages in the <name type="geo">UK</name> and which vital role it plays for him.</s>
+        <s>To convince his readership the author begins to write in an inclusive language style and talks about <quote>our national view</quote> <ref target="a12gk4_1" type="line">(ll. 1-2)</ref>.</s>
+        <s>In order to that he also uses more inclusive language, for example in <ref target="a12gk4_1" type="line">lines 25-27</ref> <quote>essential for our trade, prosperity ...</quote>.</s>
+        <s>With this type of language he makes the reader feel more involved in the theme and gives him the feeling of being a part of it.</s>
+      </p>
+      <p>
+        <s>Moreover this <ref target="a12gk4_1" type="author">John Worne</ref> refers to a few statistics and numbers as <quote>the latest national school exam results</quote> <ref target="a12gk4_1" type="line">(l. 10)</ref> which shows that the uptake of languages especially at <name type="misc">GCSE</name> and <name type="misc">A-level</name> stagnate or that <quote>GCSE entry figures again showing a drop in the number of Modern Foreign Language exams</quote> <ref target="a12gk4_1" type="line">(ll. 14-16)</ref> which also makes clear how much the foreign language learning <choice><orig>decreases</orig><reg>decreased</reg></choice> over the past years.</s>
+        <s>On the readership it has a shocking effect due to <choice><orig>these</orig><reg>this</reg></choice> extreme sinking of numbers of <name type="geo">UK</name> students what make them maybe feel <choice><orig>embarrased</orig><reg>embarrassed</reg></choice>.</s>
+        <s>Furthermore he makes use of an ironic or sarcastic style like <quote>intelligent people will tell you not to worry ... your iPhone will now translate road signs for you</quote> <ref target="a12gk4_1" type="line">(ll. 18-20)</ref> and informal language <quote>Cobblers</quote> <ref target="a12gk4_1" type="line">(l. 23)</ref>.</s>
+        <s>This both types of language using makes the reader feel closer to the reader and creates a kind of sympathy.</s>
+      </p>
+      <p>
+        <s>He also refers to a study from <name type="misc">CBI/ Pearson Education and Skills</name>, which <quote>showed almost two-thirds of UK-businesses need foreign language skills</quote> <ref target="a12gk4_1" type="line">(ll. 29-30)</ref> but sees also the problem in this quote.</s>
+        <s>He explains that <name type="geo">UK</name> businesses do not search for <quote>home-grown talents</quote> <ref target="a12gk4_1" type="line">(l. 34)</ref> anymore but they only will use translators.</s>
+        <s>This study emphasizes a little bit of laziness what let the readership encourages to think about the whole debate regarding globalization.</s>
+      </p>
+      <p>
+        <s>The comparison <quote>The tough reality ... is more demand than a pure lawyer or a pure linguist</quote> <ref target="a12gk4_1" type="line">(ll. 41-43)</ref> illustrates the significance of speaking more than one foreign language in our <choice><orig>todays</orig><reg>today's</reg></choice> world.</s>
+        <s>It brings the reader to the point to overthink the whole business market and to get another view on the changing work market due to the increasing globalization.</s>
+      </p>
+      <p>
+        <s>In the end the author appeals to parents <quote>what it is going to take</quote>, to bring ideas how they could help to change something, on the one hand regarding the motivation of younger people to learn and on the other hand on the school and education system.</s>
+        <s>With this appeal <ref target="a12gk4_1" type="author">Worne</ref> also includes the reader and <choice><orig>let</orig><reg>lets</reg></choice> him feel relevant for a development in system.</s>
+      </p>
+      <p>
+        <s>To conclude you can say that <ref target="a12gk4_1" type="author">John Worne</ref> presents his view that language learning in <name type="geo">UK</name> has to improve urgently by using many states and statistics what makes him more reliable.</s>
+        <s>With <choice><orig>an</orig><reg>a</reg></choice> special use of language he includes the reader in his thoughts and <choice><orig>let</orig><reg>lets</reg></choice>them know what he thinks about the issue of foreign language learning in the <name type="geo">UK</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

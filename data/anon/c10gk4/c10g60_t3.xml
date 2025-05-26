@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g60_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>We've <choice><orig>speaked</orig><reg>spoken</reg></choice> 1 week ago about the topic student exchanges, you remember?</s>
+        <s>Since then, some arguments you said just don't make really sense to me, you said that student exchanges are <choice><orig>an</orig><reg>a</reg></choice> waste of time.</s>
+        <s>So since then, we've speaked in my <choice><orig>english</orig><reg>English</reg></choice> class about that topic, so I've decided to write you an <choice><orig>email</orig><reg>e-mail</reg></choice>.</s>
+      </p>
+      <p>
+        <s>There are many pros about <choice><orig>an</orig><reg>a</reg></choice> student exchange, but also some contras.</s>
+        <s>So it's a little bit expensive, but it is worth it, because you can make impressions for your whole life.</s>
+        <s>At school exchanges you not just learn something about yourself, you also learn something about other cultures and people, this gives you <choice><orig>an</orig><reg>a</reg></choice> whole other impression of the world.</s>
+        <s>It also helps to cool down some really dangerous situations between two <choice><orig>countrys</orig><reg>countries</reg></choice>, because you're going to understand the people better, because you know the people better.</s>
+        <s>School exchanges also can inforce your language skills, so for example you're going abroad as <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>german</orig><reg>German</reg></choice> and make a year in <name type="geo">America</name>, it gives you a whole another feeling for language.</s>
+      </p>
+      <p>
+        <s>So, I think I said enough for the moment.</s>
+        <s>Hit me up whenever you've time.</s>
+      </p>
+      <p>
+        <s>See you,</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

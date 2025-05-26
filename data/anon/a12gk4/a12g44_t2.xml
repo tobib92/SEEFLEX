@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g44_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following is an analysis of how <ref target="a12gk4_1" type="author">John Worne</ref> presents his view on the learning of language in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>He starts his text right away with the words <quote>can't</quote>, <quote>won't</quote> and <quote>don't</quote>.</s>
+        <s>In doing so, he expresses people's lack of interest in learning new languages.</s>
+        <s>Shortly afterwards he mentions that the number of students <choice><orig>learing</orig><reg>learning</reg></choice>a foreign language at a university has been falling for the last seven years.</s>
+        <s>In doing so, he supports his previous statement with regard to the lack of interest in acquiring new languages.</s>
+        <s>By relying on factual arguments, the reader becomes aware that there is a problem and the author is speaking of facts.</s>
+        <s>This in turn leads to the reader developing trust in the author and accepting the mentioned aspects better.</s>
+        <s>In <ref target="a12gk4_1" type="line">line 13</ref>, <ref target="a12gk4_1" type="author">John Worne</ref> compares the year <date>2015</date> with <date>1990</date>.</s>
+        <s>He says that ten thousand fewer foreign language exams were absolved in <date>2015</date> than at the end of <date>1990</date>, which once again illustrates the negative development.</s>
+        <s>The sentence on <ref target="a12gk4_1" type="line">line 18</ref> <quote>Perfectly intelligent people will tell you not to worry</quote> sounds pretty <choice><orig>exagerated</orig><reg>exaggerated</reg></choice> and ironic.</s>
+        <s>In this way, the author arouses the reader's interest and wins their attention.</s>
+        <s>From <ref target="a12gk4_1" type="line">line 18</ref> he mentions the technology and invalidates each of the advantages that can arise from it with counter-statements.</s>
+        <s>He positions himself clearly on the side for learning a foreign language and against technology.</s>
+        <s>In addition he only mentions one positive thing in <ref target="a12gk4_1" type="line">line 36</ref>, which also ensures that his point of view on the topic is clear and that you can see that he has no understanding of the rejection.</s>
+        <s>This becomes clear when he says that even more people need to take the chance to learn foreign languages <ref target="a12gk4_1" type="line">(l. 39)</ref>.</s>
+      </p>
+      <p>
+        <s>At the end he speaks directly to the parents again and talks to them with the request to get your children to learn a foreign language to fix the system <ref target="a12gk4_1" type="line">(l. 46-50)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

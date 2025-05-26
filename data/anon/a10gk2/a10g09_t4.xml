@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g09_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>We all wear clothes.</s>
+        <s>But do you know where they come from?</s>
+        <s>Have you ever looked at the tag?</s>
+        <s>Wll, they probably come from <name type="geo">China</name> or <name type="geo">Bangladesh</name>.</s>
+        <s>But do you even know where that is?</s>
+        <s>I'm now going to show you the bad conditions workers work in in these countries.</s>
+      </p>
+      <p>
+        <s>You're probably gonna be very surprised about how bad the situation is.</s>
+      </p>
+      <p>
+        <s>For example in <name type="geo">Bangladesh</name> in the city <name type="geo">Dhaka</name>.</s>
+      </p>
+      <p>
+        <s>There are 3000 to 4000 textile <choice><orig>factorys</orig><reg>factories</reg></choice> in this city which is a suprisingly high number.</s>
+        <s>Due to these the river <name type="misc">Burigangen</name> is full of chemicals and people are living next to it, surrounded by trash.</s>
+        <s>In the <choice><orig>factorys</orig><reg>factories</reg></choice> are many workers working 10-12 hours a day with a maximum of one day of per week.</s>
+        <s>And their work is very monotone as they often just do one step of the production line.</s>
+      </p>
+      <p>
+        <s>In <name type="geo">China</name> workers are even proud of the fast pace they produce in and how little pause they have as they don't know what work can also be like in for example <name type="geo">Europe</name>.</s>
+      </p>
+      <p>
+        <s>So what can we do about it?</s>
+      </p>
+      <p>
+        <s>First of all just boycotting the goods from there isn't the right way as it would just take the <choice><orig>workers</orig><reg>workers'</reg></choice> jobs.</s>
+      </p>
+      <p>
+        <s>Instead we need to pressure brands and the politics to change.</s>
+        <s>I think can all agree that this shouldn't even be allowed.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

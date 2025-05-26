@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g18_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Our clothes are dirty work</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>In textile factories all over the world workers are suffering and working hard for us to get the newest clothes.</s>
+      </p>
+      <p>
+        <s>But how bad is it really and what can we do against it.</s>
+      </p>
+      <p>
+        <s>In the newspaper article <ref target="a10gk2_2" type="title">Fast fashion: Unser Kleiderkonsum ist Wahnsinn</ref> published in the <choice><orig>german</orig><reg>German</reg></choice> magazine <name type="misc">Der Spiegel</name> on <date>21 December 2017</date> the author <ref target="a10gk2_2" type="author">Jörg Oberwittler</ref> interviews a woman named <name type="person">Imke Müller-Hellmann</name>, who flew arund the world to learn about the working conditions of workers in textile factories.</s>
+      </p>
+      <p>
+        <s>She tells us about the around 3500 factories in and around <name type="geo">Dhaka</name> in <name type="geo">Bangladesh</name> and how they all throw their trash in one lake near the city.</s>
+        <s>The lake is black and <choice><orig>ther</orig><reg>there</reg></choice> are hills of trash towering at the sides.</s>
+      </p>
+      <p>
+        <s>But not only the nature but also the workers are suffering.</s>
+      </p>
+      <p>
+        <s>They work for 12 hours a day, 6-7 days a week and they only do one step of a manufacturing process.</s>
+        <s>This work is very monotonous and the workers rarely get a day off.</s>
+      </p>
+      <p>
+        <s>Mrs. <name type="person">Müller-Hellmann</name> also reports, that the workers are proud of <choice><orig>themselfes</orig><reg>themselves</reg></choice> if they get 300 <choice><orig>boxershorts</orig><reg>boxers</reg></choice> done in one hour and that they don't even take breaks even if they are allowed to.</s>
+        <s>With this behaviour you see that most of the workers are already used to working only.</s>
+        <s>But what can you do to help the workers?</s>
+        <s>First of all you should not boycott products from <name type="geo"><choice><orig>bangladesh</orig><reg>Bangladesh</reg></choice></name> since <choice><orig>its</orig><reg>it's</reg></choice> the major part of income the whole land gets.</s>
+        <s>You should instead pay intention to the labels that try to improve the working conditions.</s>
+        <s>And you should also criticise the standards that are manifested into our society.</s>
+      </p>
+      <p>
+        <s>In summary you should inform yourself more about the quality of workers life and try to help them as much as you can by informing others.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

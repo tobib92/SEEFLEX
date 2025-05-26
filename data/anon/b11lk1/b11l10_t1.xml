@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l10_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11lk1_1" type="title">The Tortilla Curtain</ref>, written by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and released around <date>1990</date>, deals with <name type="geo">America's</name> immigration problem and the xenophobia that comes with it.</s>
+      </p>
+      <p>
+        <s>The given excerpt, <choice><orig>Part Two, Chapter</orig><reg>part two, chapter</reg></choice> 6, is about <name type="person">Delaney</name>, a self-claimed environmental humanist, suspecting a <choice><orig>mexican</orig><reg>Mexican</reg></choice>, called <name type="person">José Navidad</name>, for wanting to rob the <name type="person">Cherrystones'</name> house.</s>
+        <s><name type="person">Delaney Mossbacher</name> is one of the <choice><orig>main-characters</orig><reg>main characters</reg></choice> in the novel, who is not a racist at first, but slowly develops hatred and fear against the illegal <choice><orig>mexican</orig><reg>Mexican</reg></choice> immigrants after both of his dogs got eaten by a coyote and his car <choice><orig>getting</orig><reg>got</reg></choice> stolen.</s>
+        <s><name type="person">José Navidad</name> is a <choice><orig>side-character</orig><reg>side character</reg></choice> who has had a few encounters with <name type="person">Delaney</name> already, none of those being positive encounters.</s>
+        <s>He has been spotted in <name type="geo">Topanga Canyon</name> before, and <name type="person">Delaney</name> suspected him for being the one who was littering in the canyon.</s>
+        <s>Aside from that, <name type="person">José</name> also holds a criminal record in which he has raped <name type="person">América</name>, the pregnant wife of <name type="person">Candido</name>, the other protagonist, and threatened <name type="person">Kyra</name>, <name type="person">Delaney's</name> wife, as well.</s>
+      </p>
+      <p>
+        <s>In this chapter, <name type="person">Delaney</name> sees <name type="person">José</name> near the <name type="person"><choice><orig>Cherrystone's</orig><reg>Cherrystones'</reg></choice></name> residence, a <choice><orig>wealty</orig><reg>wealthy</reg></choice> family who lives in the same residential area as <name type="person">Delaney</name>: <name type="person">Arroyo Blanco</name>, and due to his paranoid behaviour, he immediately comes to the conclusion that <name type="person">José</name> must be here to rob them, since the <name type="person">Cherrystones</name> are currently away.</s>
+        <s><name type="person">Delaney</name> confronts <name type="person">José</name> and asks him passive agressive what he is doing there, but <name type="person">José</name> did not give much of a reaction.</s>
+        <s>That is until <name type="person">Delaney</name> grabs his forearm.</s>
+        <s>He releases himself from his grip and spits between <name type="person">Delaney's</name> feet, to which <name type="person">Delaney</name> proceeded to threaten him by calling the police.</s>
+        <s>To his surprise, the man took out a few <choice><orig>fliers</orig><reg>flyers</reg></choice> and handed one to <name type="person">Delaney</name>.</s>
+        <s><name type="person">José</name> spits on him again and leaves.</s>
+        <s>The chapter ends with <name type="person">Delaney</name> reading what is on the <choice><orig>flier</orig><reg>flyer</reg></choice>, and it is a message from <name type="person">Jack Jardine</name>, the <name type="misc">Arroyo Blanco Estates Property Owners Association</name> boss, who is calling on a town hall meeting about building a gate around <name type="geo">Arroyo Blanco</name>, to protect themselves from the wild, but also the <choice><orig>mexicans</orig><reg>Mexicans</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

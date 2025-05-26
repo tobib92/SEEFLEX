@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g09_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey John,</salute>
+      </p>
+      <p>
+        <s>I hope <choice><orig>your</orig><reg>you're</reg></choice> doing fine these days with Covid-19 all around.</s>
+        <s>Anyways you asked me in your last e-mail about this article on my schools homepage <ref target="b12gk1_2" type="title">Mehr Bio nicht nur am Freitag</ref> and the project <name type="misc">School B goes green</name> behind it.</s>
+        <s>I'm going to give you a briefing with the most stuff.</s>
+        <s>In the past years many students ask themselves what they could do to live more ecological and environment friendly.</s>
+        <s>They formed a group which gathered information and got attention from the school.</s>
+        <s>One <name type="misc">Fridays for future</name> then became more and more popular they decided to plan a day where all students could do <choice><orig>diferent</orig><reg>different</reg></choice> workshops regarding the aspects that <choice><orig>peeked</orig><reg>peaked</reg></choice> the most interest in them.</s>
+        <s><choice><orig>Eventhough</orig><reg>Even though</reg></choice> this was the first time ever such a thing has been done it has great <choice><orig>succes</orig><reg>success</reg></choice>.</s>
+        <s>There were workshops dealing with food, water and other every day things we can work in addition a second-hand flea market was held and a fairtrade cafe followed the exological ideas.</s>
+        <s>An highlight was when two poetry-slammers and a man from theater came and practiced developing and holding speeches.</s>
+        <s>It was a huge boost to the confidence in the students.</s>
+      </p>
+      <p>
+        <s>If you still have further questions don't hesitate to ask them.</s>
+      </p>
+      <p>
+        <s>Best regards Jane</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

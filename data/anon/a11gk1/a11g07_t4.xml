@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g07_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p><s><foreign xml:lang="de">Betreff</foreign>: Racism in the <name type="geo">USA</name></s>
+		to: <email>alina.wolf@gmx</email></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hey Alina,</salute>
+      </p>
+      <p>
+        <s>we have not seen each other for a long time.</s>
+      </p>
+      <p>
+        <s>I hope you and your family rae well.</s>
+        <s>As you know, I'm very interested about the discrimination against African Americans in the <name type="geo">USA</name>, and I thought that you are the perfet person to talk about that topic.</s>
+        <s>Yesterday, I found a <choice><orig>german</orig><reg>German</reg></choice> article, which was written from <ref target="a11gk1_2" type="author">Alexandra Endres</ref> and published on <name type="misc">Zeit Online</name>, about the racial segregation in the <name type="geo">USA</name>.</s>
+        <s><ref target="a11gk1_2" type="author">Endres</ref><choice><orig>talkes</orig><reg>talks</reg></choice> in her article about all the disadvantages back people have there, against white people.</s>
+      </p>
+      <p>
+        <s>She <choice><orig>focussed</orig><reg>focused</reg></choice> mainly about the education chances which are for white people way better than for blacks.</s>
+        <s>Furthermore, she claims that poverty is a big problem, but mainly for the black population.</s>
+        <s>I'm very interested about your own experiences.</s>
+        <s>Do you feel deprived in school?</s>
+        <s>I didn't expect the things <ref target="a11gk1_2" type="author">Endres</ref> is telling in her article.</s>
+        <s>She says also that even 50 years after the sign of the civil rights from the president at that time, <name type="person">Lyndon B. Johnson</name>, the descrimination on the blacks on paper ends, but not in <choice><orig>reallife</orig><reg>real life</reg></choice>.</s>
+      </p>
+      <p>
+        <s>I hope for your answer soon.</s>
+      </p>
+      <p>
+        <signed>Love, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g04_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk1_1" type="title">Language learning in the UK: can't, won't, don't</ref>, written by <ref target="a12gk1_1" type="author">John Worne</ref>, was published <date>2015</date> in the newspaper <name type="misc">The Telegraph</name>.</s>
+        <s>The article deals with the topics of <choice><orig>Foreign</orig><reg>foreign</reg></choice> language learning in the <name type="geo">UK</name>.</s>
+        <s>The author sees the problem that <choice><orig>to</orig><reg>too</reg></choice> much student <choice><orig>can not</orig><reg>cannot</reg></choice> speak another language apart from English.</s>
+      </p>
+      <p>
+        <s>In the beginning <ref target="a12gk1_1" type="author">Worne</ref> sums up the current situation.</s>
+        <s>First, the fall of number of students, who learn a foreign language is mentioned.</s>
+        <s>Then the author describes the situations at primary schools.</s>
+        <s>There you have the opportunity to learn a <choice><orig>Foreign</orig><reg>foreign</reg></choice> language.</s>
+        <s>In contrast to that the results of school exams stagnate.</s>
+        <s>Although there are more <name type="misc">A-level</name> exams than in the <date>90s</date>, the number drops during the last years.</s>
+        <s>In the 5th paragraph <ref target="a12gk1_1" type="author">John Worne</ref> starts to present his own <choice><orig>oppinion</orig><reg>opinion</reg></choice>, by refuting counter-arguments.</s>
+        <s>In his <choice><orig>oppinion</orig><reg>opinion</reg></choice> it is important to learn foreign languages, because not everyone speaks English.</s>
+        <s>iPhone translation <choice><orig>can not</orig><reg>cannot</reg></choice> be the solution and intercultural telepathy is not invented.</s>
+      </p>
+      <p>
+        <s>That is why he thinks that learning foreign languages is important for the <choice><orig>british</orig><reg>British</reg></choice> industry, <choice><orig>cultur</orig><reg>culture</reg></choice> and <choice><orig>politic</orig><reg>politics</reg></choice>.</s>
+        <s>In the next <choice><orig>paragraphes</orig><reg>paragraphs</reg></choice> the author lists the result of globalisation.</s>
+        <s>More than the half of <name type="geo">UK</name> business needs knowledge of foreign language, because of exports all over the world.</s>
+        <s>Many <name type="geo">UK</name> companies hire abroad and not in <name type="geo">Britain</name>.</s>
+        <s>People, who speak more languages, are more attractive than people, who speak only one language and have the same job.</s>
+      </p>
+      <p>
+        <s>In the end the author appeals to parents of the <name type="geo">UK</name>.</s>
+        <s>They should book after that their children learn a second language.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g51_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John,</salute>
+      </p>
+      <p>
+        <s>I have been thinking a lot about your statement and opinion to student exchanges and from my point of view it is a little bit different.</s>
+      </p>
+      <p>
+        <s>The most obvious pro of making an exchange is to improve your skills of <choice><orig>an</orig><reg>a</reg></choice> foreign language is speaking and writing.</s>
+        <s>Even if it costs a lot of money, you travel a lot, see towns, nature and culture which you can't see on your own at your homeland.</s>
+        <s>You can make friends, live like the people there and learn much about the country and its education system.</s>
+      </p>
+      <p>
+        <s>These all pros have a much more weight than the con with the money, because the experience you make is priceless.</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g15_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a10gk2_2" type="title">Fast Fashion: Unser Kleiderkonsum ist Wahnsinn</ref>, is the headline from <choice><orig>an</orig><reg>a</reg></choice> German <choice><orig>articel</orig><reg>article</reg></choice>, <choice><orig>i'm</orig><reg>I'm</reg></choice> going to talk about now.</s>
+      </p>
+      <p>
+        <s>If you <choice><orig>wanna</orig><reg>want to</reg></choice> read the <choice><orig>articel</orig><reg>article</reg></choice> by <choice><orig>your self</orig><reg>yourself</reg></choice>, it's from <ref target="a10gk2_2" type="author">Jörg Oberwittler</ref>, you can find it in the <name type="misc">Spiegel</name> magazine from the <date>21st December 2017</date>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>articel</orig><reg>article</reg></choice> is about <choice><orig>an</orig><reg>a</reg></choice> German woman, who wanted to know, where her clothes are from, so she tooked a flight to one of the fabrics to see it by <choice><orig>her self</orig><reg>herself</reg></choice>, after she camed back, the <name type="misc">Spiegel</name> did an interview with her.</s>
+      </p>
+      <p>
+        <s>They asked her about the baddest conditions she saw there, the most shocking thing for her was the lake <name type="misc">Burigangad</name> <choice><orig>becouse</orig><reg>because</reg></choice> the fabrics around him.</s>
+      </p>
+      <p>
+        <s>She is telling the people form the <name type="misc">Spiegel</name>, that there are mountains from trash and that people are living in them.</s>
+      </p>
+      <p>
+        <s>Then she got asked about the working conditions in the fabric she went to: the <choice><orig>womans</orig><reg>women</reg></choice> who are working there, are working 11-12 hours a day and only getting one day <choice><orig>of</orig><reg>off</reg></choice>.</s>
+        <s>She said.</s>
+      </p>
+      <p>
+        <s>One of the saddest answers from her <choice><orig>were</orig><reg>was</reg></choice> the answer to the question: <quote>What is this doing to the people in the fabric</quote>.</s>
+        <s>She said the <surplus>the</surplus> people are proud about, how they make 300 shorts in one hour and that they aren't making a break, even when they allowed to.</s>
+      </p>
+      <p>
+        <s>One of the main and also the last question was <quote>What also needs to happen?</quote>.</s>
+      </p>
+      <p>
+        <s>She said really much to that question, and even if <choice><orig>i</orig><reg>I</reg></choice> could make it into a short part it would take much space but to say it in a short way, she said, that the <choice><orig>politic</orig><reg>politics</reg></choice> also needs to do something to help these people and to give them a <choice><orig>bette</orig><reg>better</reg></choice> work in life.</s>
+      </p>
+      <p>
+        <s>But if you want to read her whole answers, you can find the <choice><orig>Englisch</orig><reg>English</reg></choice> version of the interview under this <choice><orig>articel</orig><reg>article</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Thanks for reading.</s>
+      </p>
+      <p>
+        <signed>Your school <choice><orig>magazin</orig><reg>magazine</reg></choice></signed>
+      </p>
+    </body>
+  </text>
+</TEI>

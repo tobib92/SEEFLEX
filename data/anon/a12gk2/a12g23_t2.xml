@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g23_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his comment with the title <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> <ref target="a12gk2_1" type="author">John Worne</ref> mentions the need of foreign languages in many aspects.</s>
+        <s>To show how important it is, he uses argument and makes use of studies.</s>
+        <s>He also <choice><orig>addressees</orig><reg>adresses</reg></choice> the parent-being reader.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref>, the author, first explains the meaning of the title of his comment <ref target="a12gk2_1" type="line">(ll. 1f)</ref>, which is <ref target="a12gk2_1" type="title">Language learning in the UK: 'can't, won't, don't'</ref> and describes the situation of speaking foreign languages in the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>Furthermore, he just lists the fact that the studying of foreign languages in the <name type="geo">UK</name> is steady decline and there is no interest to do something for it <ref target="a12gk2_1" type="line">(ll. 3ff)</ref>.</s>
+        <s>That shows his opinion clearly and displays the problem, but it has no evidence so it is not very serious.</s>
+        <s>Something else what he uses all the text are we, us our-pronouns <ref target="a12gk2_1" type="line">(l. 1)</ref>.</s>
+      </p>
+      <p>
+        <s>Using of pronouns like this effects a sense of community and it seems like he is directly talking to the reader.</s>
+        <s>This is also a way to convince the reader with mentioning a study in his comment, <ref target="a12gk2_1" type="author">John Worne</ref> makes his text seem more serious <ref target="a12gk2_1" type="line">(ll. 9ff)</ref>.</s>
+        <s>He also mentions the exams of the schools to test their language.</s>
+        <s>This are the evidence of a good increasing language knowledge for the people from the <name type="geo">UK</name>.</s>
+      </p>
+      <p>
+        <s>After this the author lists some arguments which display the benefits of the language now.</s>
+        <s>But they get <choice><orig>refute</orig><reg>refuted</reg></choice> to show that there are some aspects, which were not thought of <ref target="a12gk2_1" type="line">(ll. 12-15)</ref>.</s>
+        <s>In the following, <ref target="a12gk2_1" type="author">Worne</ref> says why language learning is so important for the nation <ref target="a12gk2_1" type="line">(l. 16)</ref> and what it is essential for <ref target="a12gk2_1" type="line">(l. 17f)</ref>.</s>
+        <s>This has the effect that the reader can see what is maybe missing in the language knowledge of the nation and maybe it could even motivate and inform people.</s>
+      </p>
+      <p>
+        <s>After this, he mentions a survey about education and skills, which showed that almost 2/3 of the <choice><orig>buisnesses</orig><reg>businesses</reg></choice> in the <name type="geo">UK</name> have the need to use foreign language <ref target="a12gk2_1" type="line">(ll. 19f)</ref>.</s>
+        <s>So there would be a destabilization of the concerns if they would not stop the massive outsourcing because of the missing language skills.</s>
+        <s>Using this <choice><orig>servey</orig><reg>survey</reg></choice> makes him more serious and even more interesting.</s>
+        <s>In the end he appeals parent-being reader to develop the skils of language of the future workers.</s>
+        <s>The language he uses is very simple and easy to understand so everybody who is interested can read and understand it.</s>
+      </p>
+      <p>
+        <s>In conclusion the author talks mostly with the reader to wake interest and inform the reader about this topic.</s>
+        <s>Appealing the parent-being reader makes a group more interested.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

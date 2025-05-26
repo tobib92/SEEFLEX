@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g38_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his article <ref target="a12gk4_1" type="author">John Worne</ref> uses a lot of communicative strategies and a specific <choice><orig>typ</orig><reg>type</reg></choice> of language to convince the readers of his opinion.</s>
+        <s><choice><orig>This</orig><reg>These</reg></choice>communicative strategies and language are going to be analysed in the following.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> starts his article with the point, how the national view on speaking foreign languages is, to introduce the reader to the problem <ref target="a12gk4_1" type="line">(cf.ll. 1-2)</ref>.</s>
+        <s>In this first sentence he also uses an enumeration, which is also an exaggeration <quote>can't, won't, don't</quote> <ref target="a12gk4_1" type="line">(l. 1)</ref>, so the reader gets interested, what the article is about.</s>
+      </p>
+      <p>
+        <s>Furthermore <ref target="a12gk4_1" type="author">John Worne</ref> uses a lot of drastic words, with that he wants to make the urgency to change something clear <ref target="a12gk4_1" type="line">(cf. ll. 6-7)</ref>.</s>
+      </p>
+      <p>
+        <s>Besides this <ref target="a12gk4_1" type="author">Worne</ref> also uses a lot of colloquial language, to underline that he is on one level with the reader and to gain <choice><orig>symathi</orig><reg>sympathy</reg></choice>.</s>
+        <s>Furthermore he uses <choice><orig>alot</orig><reg>a lot</reg></choice> of metaphorical language, with what he wants to make the issue the <name type="geo">UK</name> is in clearer for the reader <ref target="a12gk4_1" type="line">(cf. ll. 8-9)</ref>.</s>
+        <s>For more <choice><orig>credibilty</orig><reg>credibility</reg></choice> and to underline his point of view <ref target="a12gk4_1" type="author">John Worne</ref> tells about a lot of studies and statistics, to view that there are less <choice><orig>Foreign</orig><reg>foreign</reg></choice> language exams every year <ref target="a12gk4_1" type="line">(cf. ll. 13-17)</ref>.</s>
+      </p>
+      <p>
+        <s>To convince the readers with his point of view he tells counterarguments and after he tells the argument, he says something against it <ref target="a12gk4_1" type="line">(cf. ll. 18-20)</ref>.</s>
+      </p>
+      <p>
+        <s>Moreover he uses irony and sarcastic language, to point out that the way of thinking that <quote>everyone speaks English in the world of business</quote> <ref target="a12gk4_1" type="line">(ll. 26-27)</ref>, to tell the reader that there are a lot of things we need languages for.</s>
+      </p>
+      <p>
+        <s><ref target="a12gk4_1" type="author">John Worne</ref> ends his article with an appeal, that make the readers think of what we can make against this issue <ref target="a12gk4_1" type="line">(cf. ll. 47-51)</ref>.</s>
+        <s>In this he also includes himself to gain sympathy and uses inclusive language, so everyone gets <choice><orig>include</orig><reg>included</reg></choice> in solving the problem <ref target="a12gk4_1" type="line">(cf. ll. 49)</ref>.</s>
+      </p>
+      <p>
+        <s>To sum it up you can say, that <ref target="a12gk4_1" type="author">John Worne</ref> uses a lot of different communicative strategies, but they often have the same effect on the reader to gain sympathy and to include them.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g41_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I am going to comment on the given <choice><orig>arthical</orig><reg>article</reg></choice>, by <choice><orig>refering</orig><reg>referring</reg></choice> to the text and work done in class.</s>
+      </p>
+      <p>
+        <s>In his article <ref target="a12gk4_1" type="author">John Worne</ref> <choice><orig>claimes</orig><reg>claims</reg></choice> that <quote> language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote> and I totally agree with that.</s>
+        <s>We are living in the <choice><orig>centuary</orig><reg>century</reg></choice> of globalisation <foreign xml:lang="de">und</foreign> communication around the world <choice><orig>get's</orig><reg>gets</reg></choice> more and more important.</s>
+        <s>Just like <ref target="a12gk4_1" type="author">John Worne</ref> <choice><orig>sayes</orig><reg>says</reg></choice> in his article languages are important for <quote><choice><orig>trad</orig><reg>trade</reg></choice>, prosperity, cultural exports, diplomacy and national security</quote> <ref target="a12gk4_1" type="line">(ll. 26)</ref> and overall just communication.</s>
+        <s>I agree with that because the future is depending on all of that and more developing around the world.</s>
+        <s>Yes, English is <choice><orig>an</orig><reg>a</reg></choice> world language but that doesn't say that the other ones are not as important or <choice><orig>usefull</orig><reg>usefull</reg></choice>.</s>
+        <s>In these <choice><orig>dayes</orig><reg>days</reg></choice> we are living in the highest <choice><orig>aria</orig><reg>area</reg></choice> of cultural export and trading and it is vital to knwow how to communicate.</s>
+        <s>We have the great opportunity to communicate with people all around the world <choice><orig>trough out</orig><reg>throughout</reg></choice> social media and it would be a big loss to not get the chance to get to know different <choice><orig>countrys</orig><reg>countries</reg></choice> just because of a lack of communication skills.</s>
+        <s>It is also important for the <choice><orig>futur</orig><reg>future</reg></choice> job of many students.</s>
+        <s>First of all it is more in demand <ref target="a12gk4_1" type="line">(cf. ll. 42)</ref>, on the other hand is outsourcing a big theme these days.</s>
+        <s>It is more and more <choice><orig>commun</orig><reg>common</reg></choice> that someone is getting <choice><orig>transfert</orig><reg>transferred</reg></choice> to another country to work there and then it is a huge <choice><orig>atwantes</orig><reg>advantage</reg></choice> to know the language or being <choice><orig>abele</orig><reg>able</reg></choice> to learn a new language.</s>
+      </p>
+      <p>
+        <s>In conclusion I agree with the author, because the language is a big and <choice><orig>valiuble</orig><reg>valuable</reg></choice> <choice><orig>communicatio</orig><reg>communication</reg></choice> skill that we all should develop.</s>
+        <s>On one hand to communicate and learn more <choice><orig>culturaly</orig><reg>culturally</reg></choice> but on the other hand also for our career and a better future and success.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

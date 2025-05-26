@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11g26_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the <choice><orig>Interview</orig><reg>interview</reg></choice> with Mr. <name type="misc">Akhtar</name> which has only recently been published in <name type="misc">Guernica <choice><orig>Magazin</orig><reg>Magazine</reg></choice></name>.</s>
+      </p>
+      <p>
+        <s><choice><orig>In</orig><reg>I</reg></choice> also read the book <name type="misc">Disgraced</name> by <name type="misc">Ayad Akhtar</name> and I wanted to give my opinion about this topic.</s>
+        <s>I think that faith or religion could easily be <choice><orig>a</orig><reg>an</reg></choice> identity marker but just if you really consider all factors from a human not just the religious one.</s>
+        <s>As <choice><orig>a</orig><reg>an</reg></choice> example for my argument I would like to talk about the character <name type="misc">Amir</name> from <name type="misc">Disgraced</name>.</s>
+        <s><name type="misc">Amir</name> is a <choice><orig>pakistani</orig><reg>Pakistani</reg></choice> immigrant who <choice><orig>trys</orig><reg>tries</reg></choice> to assimilate all his <choice><orig>culturall</orig><reg>cultural</reg></choice> identity with includes all of the <choice><orig>pakistani</orig><reg>Pakistani</reg></choice> culture but also the religion Islam itself.</s>
+        <s>He is still <choice><orig>asosiated</orig><reg>associated</reg></choice> with Islam <choice><orig>dispite</orig><reg>despite</reg></choice> he has done anything to try and hide his origin.</s>
+        <s>People will <choice><orig>allways</orig><reg>always</reg></choice> correct you with the religion from a country <choice><orig>dispite</orig><reg>despite</reg></choice> if you even believe in anything or not so the classification based on religion will <choice><orig>allways</orig><reg>always</reg></choice> be the case.</s>
+        <s>As in <name type="geo">Germany</name> for example many immigrants <choice><orig>life</orig><reg>live</reg></choice> here side by side <choice><orig>dispite</orig><reg>despite</reg></choice> <choice><orig>its</orig><reg>it's</reg></choice> not <choice><orig>peacefull</orig><reg>peaceful</reg></choice> everytime.</s>
+        <s>To see faith as <choice><orig>a</orig><reg>an</reg></choice> identity marker is really useless if you don't look at the country or generally speaking the culture.</s>
+        <s>A <choice><orig>muslim</orig><reg>Muslim</reg></choice> born in <name type="geo">North Africa</name> <add>(e.g. <name type="geo">Algeria</name>)</add> will not be the same as a <choice><orig>muslime</orig><reg>Muslim</reg></choice> from <name type="geo">India</name>.</s>
+        <s><choice><orig>Aldough</orig><reg>Although</reg></choice> they both believe in the same god <choice><orig>there</orig><reg>their</reg></choice> culture really <choice><orig>determins</orig><reg>determines</reg></choice> how they will <choice><orig>life</orig><reg>live</reg></choice>, often many people <choice><orig>life</orig><reg>live</reg></choice> through the same childhood experiences in the same country despite having <choice><orig>completly</orig><reg>completely</reg></choice> different religions.</s>
+      </p>
+      <p>
+        <s>Faith should never be a main identity marker more as a sidenote, the culture someone grew up is the foundation for a <choice><orig>culturall</orig><reg>cultural</reg></choice> identification of the person.</s>
+        <s>I will give another example if two kids one <choice><orig>jewish</orig><reg>Jewish</reg></choice> one <choice><orig>christian</orig><reg>Christian</reg></choice> grew up in a warzone will the religion have much of <choice><orig>a</orig><reg>an</reg></choice> impact?</s>
+        <s>Surely not because living conditions are also dramatic events in personality development will be the main factors.</s>
+        <s>In <name type="geo">Germany</name> this is really clear, if you look at all the various Islamic cultures and different faiths as Sunni or <choice><orig>Shitte</orig><reg>Shia</reg></choice> <choice><orig>muslims</orig><reg>Muslims</reg></choice> you will still see how the culture of the country will be the connecting part not faith.</s>
+        <s>The main problem is the word culture, culture is influenced by religion but never the same as religion.</s>
+        <s>Religion surely is a far more dominated in more <choice><orig>coutries</orig><reg>countries</reg></choice> that culture in end in <name type="geo">Germany</name> culture and <choice><orig>coutry</orig><reg>country</reg></choice> is far more important <choice><orig>that</orig><reg>than</reg></choice> religion.</s>
+        <s>I surely cannot speak for the <name type="geo">US</name> because I don't know how diverse Islam or any religion would be there.</s>
+      </p>
+      <p>
+        <s>I hope you could understand me and follow all my thought, if not it's up to you to ask me again.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

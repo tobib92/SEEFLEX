@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g47_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Selin,</salute>
+      </p>
+      <p>
+        <s>after you mailed me, what your schoolboard wants to do, I was in shock.</s>
+      </p>
+      <p>
+        <s><name type="misc">THUG</name> is a book that shows reality and wants to shake <choice><orig>peoples</orig><reg>people's</reg></choice> mind.</s>
+        <s>Naturally the book needs to have vulgarity, offensive language and the other bad sites in order to convey those messages.</s>
+      </p>
+      <p>
+        <s>Not only in <name type="geo">America</name> but <choice><orig>worlwide</orig><reg>world-wide</reg></choice> the problems which are shown in the book are problems which need to be clarified.</s>
+        <s>Your schoolboard <choice><orig>can not</orig><reg>cannot</reg></choice> deny that police brutality, use of drugs and racism are actual problems <choice><orig>worlwide</orig><reg>world-wide</reg></choice> that need to be taken care of.</s>
+      </p>
+      <p>
+        <s>After the first time we have read it in school there was so much that actually happened.</s>
+        <s>It reminded me of the case <name type="person">George Floyd</name> and pinpointed where the problems have <choice><orig>its</orig><reg>their</reg></choice> cause.</s>
+      </p>
+      <p>
+        <s>I not only think that it's a book to show those problems but moreover help identify the cause.</s>
+        <s>This is in my opinion even more important, because then we can talk how to deal with them.</s>
+      </p>
+      <p>
+        <s>I support your idea to talk with the schoolboard and hope that you will be able to make it.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

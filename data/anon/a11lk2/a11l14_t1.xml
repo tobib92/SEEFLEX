@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11l14_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="literary recount">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene 3 is an excerpt from the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref> which was written by <ref target="a11lk2_1" type="author">Ayad Akhtar</ref>.</s>
+        <s>Her work discusses modern-day <choice><orig>muslim</orig><reg>Muslim</reg></choice> identity and the struggle to fit into a prejudiced society.</s>
+      </p>
+      <p>
+        <s>The situation follows up a dinner, which was originally intended for the four involved friends to catch up and bond, but ended up with a rather tense atmosphere due to several conversations on sensitive topics such as religion, politics and work.</s>
+      </p>
+      <p>
+        <s>There are four (<add>five</add>) characters involved in this scene: <ref target="a11lk2_1" type="character">Amir</ref> (<add>the protagonist, <choice><orig>muslim</orig><reg>Muslim</reg></choice> and a lawyer</add>), <ref target="a11lk2_1" type="character">Emily</ref> (<add>his wife, Caucasian and an artist</add>), <ref target="a11lk2_1" type="character">Isaac</ref> (<add>a friend of theirs, guest, Jewish and married to <ref target="a11lk2_1" type="character">Jory</ref></add>), <ref target="a11lk2_1" type="character">Jory</ref> (<add>also a friend, guest, African-American and <ref target="a11lk2_1" type="character">Isaac's</ref> wife</add>).</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Jory</ref> goes to search her husband for them to leave after being left alone with <ref target="a11lk2_1" type="character">Amir</ref>, who she got into an argument with about something that happened in the lawfirm.</s>
+      </p>
+      <p>
+        <s>By the time <ref target="a11lk2_1" type="character">Amir</ref> is already shouting in anger, because of her walking away from him.</s>
+      </p>
+      <p>
+        <s>As <ref target="a11lk2_1" type="character">Jory</ref> enters the room, she catches <ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Isaac</ref> kissing.</s>
+        <s>After being confronted, <ref target="a11lk2_1" type="character">Isaac</ref> and <ref target="a11lk2_1" type="character">Emily</ref> deny the incident, stating that he tried to console her.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> takes <ref target="a11lk2_1" type="character">Emily's</ref> side, insults <ref target="a11lk2_1" type="character">Jory</ref> with a defensive comment and spits into <ref target="a11lk2_1" type="character">Isaac's</ref> face (<add>like he did with <ref target="a11lk2_1" type="character">Riukah</ref>, his first crush, a <choice><orig>jewish</orig><reg>Jewish</reg></choice> girl, in middle school</add>).</s>
+        <s>After the couple left (<add>and <ref target="a11lk2_1" type="character">Isaac</ref> called him out by connecting <ref target="a11lk2_1" type="character"><choice><orig>Amirs</orig><reg>Amir's</reg></choice></ref> behavior to his religion and referring to them as <quote>animals</quote> <ref target="a11lk2_1" type="line">(l. 14)</ref></add>).</s>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> calmly asks whether the accusations of an affair between the two of them were true.</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> admits to that and he beats her <choice><orig>antil</orig><reg>until</reg></choice> <choice><orig>shes</orig><reg>she's</reg></choice> bleeding.</s>
+      </p>
+      <p>
+        <s>This scene <choice><orig>highligts</orig><reg>highlights</reg></choice> the pressure on which each character is under, primarily because of dishonesty and unsaid, hidden bottles which reach the surface as the argument unfolds.</s>
+        <s>Regarding the <choice><orig>extend</orig><reg>extent</reg></choice> of their anger it becomes apparent to the reader, that all four of them had previous concerns about each other and sentiments they did not communicate, but rather kept to themselves.</s>
+        <s>The scene is shaped by these strong emotions who come to light and spark an enourmous argument that disrupts both their marriages.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

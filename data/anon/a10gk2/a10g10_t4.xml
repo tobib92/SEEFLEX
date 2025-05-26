@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g10_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>Fast Fashion</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>We are consuming a lot and for all our consume, we have one goal: Buy a piece as cheap as it gets.</s>
+      </p>
+      <p>
+        <s>In <name type="geo">Germany</name> the online-newspaper <name type="misc">Spiegel online</name> interviewed <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>german</orig><reg>German</reg></choice>, that wanted to know who the fashion pieces made and where the pieces come from, she says.</s>
+      </p>
+      <p>
+        <s>She was shocked, when first hearing about the amoung of industries in the city of <name type="geo">Dhaka</name> and linked to that the toxification of the river <name type="misc">Buriganga</name>.</s>
+      </p>
+      <p>
+        <s>The interview also leads to the question, which would be, how long employees have to work and under which conditions.</s>
+        <s><name type="person">Müller-Hellmann</name>, the interested German that has a lot of knowledge about the fashion industry, especially the fast fashion sector, says, that the workers have to work 10-12 hours on a daily basis and often on the same factory <choice><orig>slep</orig><reg>sleep</reg></choice> all day.</s>
+        <s>She also knows, that the employees often do not have a free day in a week.</s>
+      </p>
+      <p>
+        <s><name type="person">Müller-Hellmann</name> also says, that a boycott is not the optimal thing to do, because it wouldn't solve the main problem.</s>
+      </p>
+      <p>
+        <s>Furthermore she expresses that you would influence the lives of the employees in a negative way, by doing that.</s>
+        <s>The fault is coming from the brands, that produce there.</s>
+        <s>Also the politicians have to act right and standardize new standards, so the working conditions get better in these countries.</s>
+      </p>
+      <p>
+        <s>Finally you can say that a boycott would not solve the situation and the <choice><orig>politicans</orig><reg>politicians</reg></choice> and the governments have to move and make steps into the right direction so the benefit comes to employer and employee.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

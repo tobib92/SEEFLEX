@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g55_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film <ref target="b10gk5_1" type="title">The Hate U Give</ref>, pubslihed in <date>2018</date> and made by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> deals with allday racism and the violence in an <choice><orig>afro-american</orig><reg>Afro-American</reg></choice> neighbourhood.</s>
+        <s>The scene, I'll analyze, takes place in the mainly white <choice><orig>Higschool</orig><reg>highschool</reg></choice> of the protagonist <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>We get our first impression of <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> boyfriend <ref target="b10gk5_1" type="character">Chris</ref> and the dynamic between him and <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>The scene is one of the first scenes in the movie and comes right after the murder of <ref target="b10gk5_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> friend <ref target="b10gk5_1" type="character">Khalil</ref> by a police officer, while they drove away from and kissed each other, <choice><orig>althoug</orig><reg>although</reg></choice> <ref target="b10gk5_1" type="character">Starr</ref> has already <ref target="b10gk5_1" type="character">Chris</ref> as a boyfriend.</s>
+      </p>
+      <p>
+        <s>The scene starts with <ref target="b10gk5_1" type="character">Chris</ref>, going through the floor of the highschool, greeting different people in a funny way.</s>
+        <s>While we see this, <ref target="b10gk5_1" type="character">Starr</ref> describes <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> <name type="misc">Jordans</name>, which they wanted to match, his smell of old-spice and his lips.</s>
+        <s>After this he arrives <ref target="b10gk5_1" type="character">Starr</ref>, who stands at her locker and puts his earphones on her head.</s>
+        <s>We can hear a beat which is, as <ref target="b10gk5_1" type="character">Chris</ref> says, his own and <ref target="b10gk5_1" type="character">Starr</ref> tells in a funny way that <ref target="b10gk5_1" type="character">Chris</ref> thinks, he's <name type="person">DJ Khalid</name>.</s>
+        <s><choice><orig>Althoug</orig><reg>Although</reg></choice><ref target="b10gk5_1" type="character">Starr</ref> doesn't seem to be very angry that it wasn't okay what he did.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> answers that because <ref target="b10gk5_1" type="character">Starr</ref> doesn't want to do so much with him and doesn't want to introduce him to her family, he thought that sex could loose up their relation.</s>
+        <s>As a reaction, <ref target="b10gk5_1" type="character">Starr</ref> tells <ref target="b10gk5_1" type="character">Chris</ref> that he's dumb and that she isn't the one of those <quote>thirsty girls</quote>.</s>
+        <s>Then the atmosphere gets more funny again and they talk about <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> beat.</s>
+        <s>Because <ref target="b10gk5_1" type="character">Starr</ref>, as a joke, doesn't want to say that <ref target="b10gk5_1" type="character"><choice><orig>Chris</orig><reg>Chris'</reg></choice></ref> beat is <quote>fire</quote>, he dances to the beat on the highschool floor.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g38_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given scene is taken from the feature film <ref target="b10gk3_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk3_1" type="director">George Tillmann Jr.</ref>.</s>
+      </p>
+      <p>
+        <s>In this sequence <ref target="b10gk3_1" type="character">Starr</ref> and her family sit in a restaurant eating dinner.</s>
+        <s>Suddenly some gang members appear <add>(one of them is <ref target="b10gk3_1" type="character">King</ref>)</add>, when <ref target="b10gk3_1" type="character">Starr</ref> looks out the window.</s>
+        <s>When <ref target="b10gk3_1" type="character">Maverick</ref> <choice><orig>realize</orig><reg>realizes</reg></choice> them, he <choice><orig>pleasure</orig><reg>pleasures</reg></choice> his wife for waiting in the restaurant.</s>
+        <s>He goes <choice><orig>outsite</orig><reg>outside</reg></choice> and starts to argue with them until two <choice><orig>policeofficers</orig><reg>police officers</reg></choice> come.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk3_1" type="character">King</ref> and the other man see them they stop and leave <ref target="b10gk3_1" type="character">Maverick</ref> at the <choice><orig>policeofficers</orig><reg>police officers</reg></choice>, by arresting him.</s>
+        <s>His family <choice><orig>run</orig><reg>runs</reg></choice> <choice><orig>outsite</orig><reg>outside</reg></choice> trying to help him.</s>
+        <s>When they try to arrest his older brother too they stop when <ref target="b10gk3_1" type="character">Starr</ref> <choice><orig>film</orig><reg>films</reg></choice> the situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

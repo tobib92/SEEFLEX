@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l14_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Emily</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Maya</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> and <ref target="a11lk2_1" type="character">Maya</ref> sit down at the café table and take off their wintercoats</stage>
+      </p>
+      <u who="A"><s>Thank you for taking your time, <choice><orig>its</orig><reg>it's</reg></choice> so good to see you again...</s> (<stage>sighs</stage>)</u>
+      <u who="B"><s>Of course, no worries honey.</s><s>Your face looks like you'd apply for the role as the victim in a crime series.</s><s>What on earth happened?</s> (<kinesic><desc>raises voice</desc></kinesic>)</u>
+      <u who="A">
+        <kinesic>
+          <desc>Sshh</desc>
+        </kinesic>
+        <s>It's okay, honestly, we just got into a fight.</s>
+        <s>The four of us...</s>
+      </u>
+      <u who="B">
+        <s>Who did that to you?</s>
+        <s>I'm actually going to call the cops right here, if necessary!</s>
+        <s>Like this is insane...</s>
+      </u>
+      <u who="A">
+        <s>No, it was <ref target="a11lk2_1" type="character">Amir</ref>... After he found out cheated on him with <ref target="a11lk2_1" type="character">Isaac</ref>...</s>
+      </u>
+      <u who="B">
+        <s>Wait... what?</s>
+      </u>
+      <u who="A">
+        <s><ref target="a11lk2_1" type="character">Jory</ref>, his wife walked in on us kissing then all of us got into this massive fight... after they left, <ref target="a11lk2_1" type="character">Amir</ref> just lost it and... (<stage>she breathes in heavily, starts tearing up takes a short break and then proceeds by talking</stage>) the whole situation was just so fucked up...</s>
+      </u>
+      <u who="B">
+        <s>Listen <ref target="a11lk2_1" type="character">Em</ref>.</s>
+        <s>I don't care if he's a lawyer, I will drag his ass to court and get him locked away.</s>
+        <s>I sensed right from the start what an abusive piece of...</s>
+      </u>
+      <u who="A">(<stage>interrupts</stage>) <s>Hold on... I appreciate you being so aggrivated but I will handle it... I won't file charges against him or anything, just keep it to yourself.</s> <s>It's just... (<kinesic><desc>voice trembles</desc></kinesic>) I messed up... I mean I cheated and then he spat in <ref target="a11lk2_1" type="character"><choice><orig>Isaacs</orig><reg>Isaac's</reg></choice></ref> face.</s> <s>Now <ref target="a11lk2_1" type="character">Isaac</ref> is going to tell everyone at the lawfirm about his <choice><orig>agressive</orig><reg>aggressive</reg></choice> <q><choice><orig>muslim</orig><reg>Muslim</reg></choice></q> behaviour... I've never seen <ref target="a11lk2_1" type="character">Amir</ref> like this... I mean I cared for him and his religion I tried to make him the best version of himself that he could possibly be... I was a good wife... I...</s></u>
+      <u who="B">
+        <s>But honey... he's a grown man.</s>
+        <s>He needs to take responsibility for his actions.</s>
+        <s>And him finding the guts to stop being in denial is something that you can't take over.</s>
+        <s>He has got some growing to do, on his own.</s>
+        <s>And sometimes <choice><orig>its</orig><reg>it's</reg></choice> love but at the wrong time, then you part ways and you find another person and he finds another person and he finds himself.</s>
+        <s>Look... (<stage>takes her hand and hugs her</stage>) you two aren't ready for each other yet.</s>
+        <s>Maybe one day he sees your art displayed and is reminded how beautiful his religion is and what you saw when you looked at him.</s>
+        <s>You both hurt each other <choice><orig>phisically</orig><reg>physically</reg></choice> and emotionally, it's not just the other person it's baggage.</s>
+        <s>Then you know you need to draw the line...</s>
+      </u>
+      <u who="A">(<stage>cries</stage>) <s>Thank you... literally so much... <ref target="a11lk2_1" type="character">Maya</ref>, where would I be without a friend like you!</s></u>
+      <p>
+        <stage>waitor comes, scene ends</stage>
+      </p>
+    </body>
+  </text>
+</TEI>

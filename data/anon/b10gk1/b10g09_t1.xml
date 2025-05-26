@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g09_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The film sequence at hand is taken from the movie <ref target="b10gk1_1" type="title">The Hate U Give</ref>, which was directed by <ref target="b10gk1_1" type="director">George Tillmann Jr.</ref> and released in <date>2018</date>.</s>
+        <s>The scene introduces <ref target="b10gk1_1" type="character">Starr's</ref> boyfriend, <ref target="b10gk1_1" type="character">Chris</ref>.</s>
+        <s>The sequence is situated at <name type="misc">Williamson High</name>, the school both characters attend and is set more precisely in the hallway.</s>
+        <s>With the introduction of <ref target="b10gk1_1" type="character">Chris</ref>, the scene begins after that a dialogue between <ref target="b10gk1_1" type="character">Starr</ref> and <ref target="b10gk1_1" type="character">Chris</ref> starts dealing with a conflict in their relationship.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

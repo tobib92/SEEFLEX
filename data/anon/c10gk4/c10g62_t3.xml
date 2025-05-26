@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g62_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="challenge">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hey Jane,</salute>
+      </p>
+      <p>
+        <s>how are you?</s>
+        <s>I heard you are the <choice><orig>opionion</orig><reg>opinion</reg></choice> student exchanges are a waste of time, I accept your opinion <choice><orig>completly</orig><reg>completely</reg></choice> but I think there are a few arguments why <choice><orig>a</orig><reg>an</reg></choice> exchange can't be a waste of time.</s>
+      </p>
+      <p>
+        <s>I read a speech from <ref target="c10gk4_1" type="speaker">Barack Obama</ref> about the importance of intercultural understanding and student exchanges.</s>
+      </p>
+      <p>
+        <s>Based on this text <choice><orig>a</orig><reg>an</reg></choice> argument for <choice><orig>a</orig><reg>an</reg></choice> exchange is that it can break walls between two <choice><orig>differents</orig><reg>different</reg></choice> cultures, when people come together, speak to one another and share a common experience.</s>
+        <s>Furthermore, we should put aside longstanding divisions in pursuit of <choice><orig>leasting</orig><reg>lasting</reg></choice> peace and advance a prosperity that is shared by <surplus>by</surplus> all people and not just the wealthy few.</s>
+      </p>
+      <p>
+        <s>Some more argument is the point that the world is more connected that ever before we live in a digizited society.</s>
+        <s>The <choice><orig>digitiliation</orig><reg>digitalization</reg></choice> plays a big role in <choice><orig>todays</orig><reg>today's</reg></choice> workplaces often good grades aren't enough you need to have real experiences.</s>
+      </p>
+      <p>
+        <s>In a time abroad you learn a lot about a different culture and you become part of a different way of life, learn about a different school system and live by a family very different than your own.</s>
+      </p>
+      <p>
+        <s><choice><orig>You're</orig><reg>Your</reg></choice> speech skills become better.</s>
+        <s>Yourself grow a lot in a time aborad, sure it isn't always that easy but I think it's a great experience.</s>
+      </p>
+      <p>
+        <s>All in all, in my opinion student exchanges aren't a waste of time, maybe we can meet soon and talk personally about this theme.</s>
+      </p>
+      <p>Much love,</p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

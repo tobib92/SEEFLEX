@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g29_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>to: <email>hansguenther@gmail.com</email>
+		from: <email>josm1000@web.de</email>
+		<s>RE: Racism</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Hello Hans,</salute>
+      </p>
+      <p>
+        <s>I was wondering whether racism really is as big of a problem as it is portrayed in the media in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>.</s>
+        <s>I found this article that resembles the general picture that we have here in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> about racism in the <name type="geo">USA</name>.</s>
+      </p>
+      <p>
+        <s>The article was published online by <name type="misc">Zeit online</name> which is the online version of the newspaper of the popular <choice><orig>german</orig><reg>German</reg></choice> news agency <name type="misc">Zeit</name>.</s>
+        <s>The author is <ref target="a11gk3_2" type="author">Alexandra Endres</ref>.</s>
+        <s>The article <choice><orig>beginns</orig><reg>begins</reg></choice> with the statement that racism is still an important topic in <name type="geo"><choice><orig>america</orig><reg>America</reg></choice></name> which can be seen on the victim of police brutality <name type="person">Michael Brown</name> in <name type="geo">Ferguson</name>.</s>
+        <s>But the differences in the treatment are present everywhere.</s>
+        <s>Statistics say that black people are more likely to get arrested and additionally that the differences got even bigger in recent decades.</s>
+        <s>The police is controlling black people more often and thorough that they <choice><orig>controll</orig><reg>control</reg></choice> white people.</s>
+      </p>
+      <p>
+        <add>(<s>The term <q>stop-and-frisk</q> is mentioned.</s> <s>Is this term a term that is used or is it something <q>dead</q> that only some people use?</s>)</add>
+      </p>
+      <p>
+        <s>The <name type="misc">Civil Rights Act</name> that was signed 50 years ago <add>(the article is a bit older)</add> is also mentioned but the article says that this is mostly on paper and black people are socially and economically in a disadvantage compared to the white population which begins as early as the education.</s>
+        <s>It is said that black people graduate not only less often but also with lower degrees like High School or College degrees while white people get a bachelors degree more often.</s>
+        <s>It is also mentioned that black people are more often unemployed than white people.</s>
+      </p>
+      <p>
+        <s>In the end the article states that more than a quarter of the black population lives in poverty while in the white population it is less than 10 percent.</s>
+      </p>
+      <p>
+        <s>All in all the differences seem really big and I was wondering <choice><orig>wheather</orig><reg>wether</reg></choice> these <choice><orig>diffrences</orig><reg>differences</reg></choice> are as prominent as portrayed in this article.</s>
+      </p>
+      <p>
+        <s>I look forward to your answer</s>
+      </p>
+      <p>
+        <signed>Your John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

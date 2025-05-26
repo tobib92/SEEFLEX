@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g24_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk2_1" type="author">John Worne</ref> has the opinion that <quote>language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote>.</s>
+        <s>In my opinion, this is true.</s>
+        <s>In the following I will explain why.</s>
+      </p>
+      <p>
+        <s>There is actually no argument against the opinion that language learning is imprtant.</s>
+        <s>Independent from the globalisation it was already always good to share language skills.</s>
+        <s>For example you talk with people in other countries when you spend your holidays there.</s>
+        <s>Also for the process of <gap reason="illegible" quantity="1" unit="word">bhinkink</gap> it is beneficial to have <choice><orig>languge</orig><reg>language</reg></choice> skills.</s>
+        <s>In this way you are able to think in different <choice><orig>way</orig><reg>ways</reg></choice> <gap reason="illegible" quantity="1" unit="word">bo</gap> see for example a problem from different perspectives.</s>
+        <s>But with the globalisation <gap reason="illegible" quantity="1" unit="word">languge</gap> skills are essential.</s>
+        <s>Especially for those countries where the people do not speak English.</s>
+        <s>Globalisation in the business has the <gap reason="illegible" quantity="1" unit="word">rpult</gap> that more and more companies <choice><orig>outsources</orig><reg>outsource</reg></choice> jobs, especially global players.</s>
+        <s><name type="misc">SAP</name> has for example workplaces in <name type="geo"><choice><orig>Bangelore</orig><reg>Bangalore</reg></choice></name>.</s>
+        <s><choice><orig>Neverthlers</orig><reg>Nevertheless</reg></choice>, it is a <choice><orig>german</orig><reg>German</reg></choice> company.</s>
+        <s>Because of that everyone who works there speaks <foreign xml:lang="de">Englisch</foreign>.</s>
+        <s>Now many people will say that the <name type="geo">UK</name> is not affected because the people there <choice><orig>speaks</orig><reg>speak</reg></choice> already <foreign xml:lang="de">Englisch</foreign>.</s>
+        <s>But <quote>the most recent <name type="misc">CBI / Pearson Education and Skills Survey</name> showed almost two-thirds of <name type="geo">UK</name> businesses need foreign <choice><orig>languge</orig><reg>language</reg></choice> skills</quote><ref target="a12gk2_1" type="line">(l. 19)</ref>.</s>
+        <s>The more globlisation spreads, the more foreign languages <choice><orig>gets</orig><reg>get</reg></choice> important.</s>
+        <s>That <choice><orig>mean</orig><reg>means</reg></choice> that it is important in every country to have <choice><orig>languge</orig><reg>language</reg></choice> skills if you want to be <choice><orig>sucessfull</orig><reg>successful</reg></choice> when they can not really interact with other countries and cultures.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

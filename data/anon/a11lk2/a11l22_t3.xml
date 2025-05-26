@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3c</title>
+        <author>a11l22_t3</author>
+        <name>dialogue</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="personal recount">dialogue</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="A">
+            <persName>Emily</persName>
+          </person>
+          <person xml:id="B">
+            <persName>Maya</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="A">
+        <s><ref target="a11lk2_1" type="character">Maya</ref> hey!</s>
+        <s>How are you?</s>
+      </u>
+      <u who="B">
+        <s>I was about to ask you that question... You look as if a car has run over you!</s>
+        <s><ref target="a11lk2_1" type="character">Emily</ref> what happened?</s>
+      </u>
+      <u who="A">
+        <s>Oh it's nothing... It's just...</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> breaks down crying</stage>
+      </p>
+      <u who="A">
+        <s><ref target="a11lk2_1" type="character">Amir</ref>, he...</s>
+      </u>
+      <u who="B">
+        <s>Did he put his hands on you?</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> nods</stage>
+      </p>
+      <u who="B">
+        <s>Oh my god!</s>
+        <s>How?</s>
+        <s>What?</s>
+        <s>How did it even happen?</s>
+      </u>
+      <u who="A">
+        <s>Well you know that curator that I was so worried wouldn't put me on the show?</s>
+      </u>
+      <u who="B">
+        <s>Yes, <ref target="a11lk2_1" type="character">Isaac</ref>!</s>
+        <s>You told me about him.</s>
+        <s>What does he have to do with it?</s>
+      </u>
+      <u who="A">
+        <s>Well when we were in <name type="geo">London</name>... we slept together.</s>
+      </u>
+      <p>
+        <stage>pause</stage>
+      </p>
+      <u who="B">
+        <s>And <ref target="a11lk2_1" type="character">Amir</ref> found out.</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> nods</stage>
+      </p>
+      <u who="A">
+        <s>That whole evening was just a catastrophe.</s>
+        <s>First <ref target="a11lk2_1" type="character">Amir</ref> and <ref target="a11lk2_1" type="character">Jory</ref> <choice><orig>quarrell</orig><reg>quarrel</reg></choice> and then suddenly everything just escalates completely.</s>
+      </u>
+      <u who="B">
+        <s><ref target="a11lk2_1" type="character">Emily</ref>... How could <ref target="a11lk2_1" type="character">Amir</ref> do that... That son of a bitch.</s>
+      </u>
+      <u who="A">
+        <s>He was frustrated.</s>
+        <s>He didn't get the job he wanted and...</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Maya</ref> interrupts her</stage>
+      </p>
+      <u who="B">
+        <s><ref target="a11lk2_1" type="character">Emily</ref> you have to stop treating him like he's a saint.</s>
+        <s>You believe in justice don't you?</s>
+      </u>
+      <u who="A">
+        <s>I do but...</s>
+      </u>
+      <u who="B">
+        <s>Good then listen to me!</s>
+        <s>Go to the police... The guy is crazy.</s>
+      </u>
+      <u who="A">
+        <s>But...</s>
+      </u>
+      <u who="B">
+        <s>Look at yourself...</s>
+      </u>
+      <p>
+        <stage><ref target="a11lk2_1" type="character">Emily</ref> looks at herself in the mirror</stage>
+      </p>
+      <u who="A">
+        <s>Ok...</s>
+      </u>
+    </body>
+  </text>
+</TEI>

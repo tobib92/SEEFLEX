@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g49_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk6</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <choice><orig>Blog</orig><reg>blog</reg></choice> post <ref target="a10gk6_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref>, which was written by <ref target="a10gk6_1" type="author">Ankita Mitra</ref> and published in <date>February 2014</date>, is about the damage industrialization deals to planet <choice><orig>Earth</orig><reg>earth</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The <choice><orig>Blog</orig><reg>blog</reg></choice> post starts with <choice><orig>a</orig><reg>an</reg></choice> emotional tie to the text, by <choice><orig>refering</orig><reg>referring</reg></choice> to <choice><orig>Earth</orig><reg>earth</reg></choice> as the <quote>only</quote> <ref target="a10gk6_1" type="line">(l. 4)</ref> planet with conditions for life.</s>
+        <s>This has the effect of the reader being more likely, to listen to the call to action at the end.</s>
+      </p>
+      <p>
+        <s>With the metaphor <quote>man first began losing control and became victims of his own creation</quote> <ref target="a10gk6_1" type="line">(l. 12)</ref> she wants to strengthen the tie again by accusing the reader of being part of the problem.</s>
+        <s>This gives the impression of the reader being accountable for this situation, while also contributing to the chance of the reader following the call to action.</s>
+      </p>
+      <p>
+        <s>The exaggeration in line 24f <quote>The water we drink and the vegetables all are contaminated today</quote> gives the impression, that we are poisoning <choice><orig>ourselfes</orig><reg>ourselves</reg></choice> by drinking and eating, which while being true is very exaggerated.</s>
+        <s>This combined with the metaphor <quote>era of mass extinction</quote> <ref target="a10gk6_1" type="line">(l. 27)</ref> also adds up to the call to action at the end.</s>
+      </p>
+      <p>
+        <s>The mention of the <name type="geo">Bhopal</name> tragedy combined with the term <quote>Over 2000 people including women and children were killed</quote> <ref target="a10gk6_1" type="line">(l. 31)</ref> furthermore strengthens the emotional tie to the reader.</s>
+      </p>
+      <p>
+        <s>The call to action at the end <ref target="a10gk6_1" type="line">(l. 33-37)</ref> expresses the feeling, that the entire world, except for the reader already knows about the menace and has done their part, now it's the <choice><orig>readers</orig><reg>reader's</reg></choice> turn.</s>
+      </p>
+      <p>
+        <s>In conclusion you can say that it's a very successful <choice><orig>Blog</orig><reg>blog</reg></choice> post since it has a really good emotional tie, uses many stylistic devices to keep the reader interested and calls to action.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

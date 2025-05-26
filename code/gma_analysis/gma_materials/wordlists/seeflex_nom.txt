@@ -1,0 +1,8 @@
+.{3}it(y|ies)
+.{3}ness(es)?
+.{3}ism(s)?
+.{4}.*tion(s)?
+.{4}.*it(y|ies)
+.{4}.*ness(es)?
+.{4}.*ism(s)?
+.{4}.*ment(s)?

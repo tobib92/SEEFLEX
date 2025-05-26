@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l18_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><name type="person">Shakespeare</name> - a global treasure?</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s><choice><orig>Shakespearen</orig><reg>Shakespearean</reg></choice> literature has influenced literature all over the world.</s>
+        <s>Since I'm taking part in the international school project <name type="misc">Global Shakespeare</name>, I thought it would be interesting to research in which <gap reason="illegible" quantity="1" unit="word">warf</gap> <name type="person">Shakespeare</name> entered our German hearts.</s>
+        <s>While asking the world wide web the same question, I found an article called <ref target="a12lk1_2" type="title">Wie Shakespeares Denkmal in den Weimarer Ilmpark kam</ref>, written by <ref target="a12lk1_2" type="author">Wolfgang Hirsch</ref> and published in the <name type="misc">Thüringer Allgemeine</name> on <date>24th April 2016</date>.</s>
+      </p>
+      <p>
+        <s>According to <name type="person">Klaus Manger</name>, a professor of germanistic, <name type="person">Christoph Martin Wieland</name> was the first author to translate Shakespearean dramas into German.</s>
+        <s>Between <date>1762</date> until <date>1766</date> were published 22 of Shakespearean dramatic literature.</s>
+      </p>
+      <p>
+        <s>However, other German authors were influenced by Shakespearean work as well, like <name type="person">Lessing</name>, <name type="person">Goethe</name> or <name type="person">Herder</name> who were to become the so-called representation of the <name type="misc">German Shakespeare Renaissance</name> in <name type="geo">Weimar</name></s>
+      </p>
+      <p>
+        <s>For a long time there has been the belief in <name type="geo">Germany</name> that <name type="person">Wieland's</name> work has been influenced by other German authors as well, who were prejudiced for putting nonsense in their reader's minds.</s>
+      </p>
+      <p>
+        <s><name type="person">Manger</name> however finds <name type="person">Wieland's</name> work extraordinary <choice><orig>allthough</orig><reg>although</reg></choice> there are more modern versions on the market from authors like <name type="person">Fred</name>, <name type="person">Schaller</name>, or <name type="person">Stein</name>.</s>
+      </p>
+      <p>
+        <s>The first known Shakespearean performance in <name type="geo">Germany</name> was on the <date>8th April 1864</date>.</s>
+        <s>It took place in <name type="geo">Weimar</name> and was presented by the <name type="misc">Verein der Shakespeare-Freunde</name>.</s>
+        <s><name type="person">Franz von Dingelstedt</name> presented sequences of Shakespearean work and inspired the audience so much that on the same day the oldest German Shakespearean community has been founded.</s>
+      </p>
+      <p>
+        <s>In a park in <name type="geo">Weimar</name>, on the <date>23rd April 1904</date> was a statue of <name type="person">Shakespeare</name> built by <name type="person">Lessing</name>.</s>
+        <s>This statue won the <choice><abbr>UNESCO</abbr><expan>United Nations Educational, Scientific and Cultural Organization</expan></choice> prize as well.</s>
+      </p>
+      <p>
+        <s>So, although there are still performances of <name type="person">Shakespeare</name> in cities like <name type="geo">Bochum</name>, it all started in <name type="geo">Weimar</name>.</s>
+        <s>I hope you found this blog educational.</s>
+        <s>Please let me know in the comments down below whether you love <name type="person">Shakespeare</name> as much as I do and if you're taking part in the project <name type="misc">Global Shakespeare</name> as well.</s>
+        <s>Here is the link to my source:</s>
+      </p>
+    </body>
+  </text>
+</TEI>

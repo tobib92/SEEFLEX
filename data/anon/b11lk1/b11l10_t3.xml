@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Mexicans immigrating to the <name type="geo">United States</name> has been a huge problem for the <name type="geo">US</name> for decades now and is still up to this date.</s>
+        <s>Both the whites and <choice><orig>hispanics</orig><reg>Hispanics</reg></choice> are human, but fail to live with eachother peacefully.</s>
+        <s>In the following I am going to comment on why it is so hard for them to live with <choice><orig>eachother</orig><reg>each other</reg></choice> and come up with possible solutions for the problem.</s>
+      </p>
+      <p>
+        <s>Firstly, throughout history the whites have always been superior to everyone, and some people remain with that mindset, especially old people since they grew up learning stuff like, black people go in the back of a bus, only white people can enter and get served at a white people's restaurant, and so on.</s>
+        <s>Some people still cling to that mindset up to this day.</s>
+      </p>
+      <p>
+        <s>Secondly, <name type="geo">Mexico</name> is known to be a dangerous country and has many myths going around about the mafia, the white <choice><orig>americans</orig><reg>Americans</reg></choice> feel like they are ruining their peace and will bring all their crimes to the <name type="geo">United States</name>, perhaps lower their education level, steal all the jobs and so on.</s>
+        <s>It is these rumours that make white <choice><orig>americans</orig><reg>Americans</reg></choice> fear the <choice><orig>hispanics</orig><reg>Hispanics</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Another problem is also, that if the <choice><orig>hispanics</orig><reg>Hispanics</reg></choice> were just able to live and work there legally, they would have to pay work taxes as well, and nobody would really want to hire them anymore because the only reason people let them work for them is because they are incredibly cheap and there are no work taxes to pay.</s>
+      </p>
+      <p>
+        <s>Lastly, the <name type="geo">United States</name> is a very divided country and when the <choice><orig>hispanics</orig><reg>Hispanics</reg></choice> could easily come in peace with <name type="geo">America's</name> democratic side, it would be probably harder to convince the republican side of the country who is strictly agains thtem, thus it would take a long time until they all come to an agreement.</s>
+      </p>
+      <p>
+        <s>All in one, of course there are many factors against it, but society has come a long way compared to back then.</s>
+        <s>One possible solution would be for simply accepting the <choice><orig>mexicans</orig><reg>Mexicans</reg></choice>, they do for the cheap work for from and the <name type="geo">United States</name> even sell weapons to <name type="geo">Mexico</name> itself.</s>
+        <s>They are great business partners and the <name type="geo">States</name> economy profits a lot from.</s>
+        <s>I think mere acceptance from <name type="geo">America's</name> side would solve the issue.</s>
+        <s>After all, the <name type="misc">Tortilla Curtain</name> is a reference to the cold war era's <name type="misc">Iron Curtain</name>, which was <name type="geo">Europe</name> split into the democratic <name type="geo">Western Europe</name> and the communistic <name type="geo">Eastern Europe</name>, and they all are living in peace nowadays.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

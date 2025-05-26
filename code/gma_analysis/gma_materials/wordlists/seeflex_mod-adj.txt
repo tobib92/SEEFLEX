@@ -1,0 +1,144 @@
+(in)?correctly
+(un)?fortunately
+(un)?happily
+(un)?justly
+(un)?luckily
+(un)?reasonably
+(un)?wisely
+actually
+admittedly
+allegedly
+always
+amusingly
+annoyingly
+appropriately
+arguably
+artfully
+as expected
+assuredly
+astonishingly
+at first
+avowedly
+basically
+believe me
+broadly speaking
+by chance
+certainly
+clearly
+cleverly
+conceivably
+conveniently
+cunningly
+curiously
+decidedly
+definitely
+delightfully
+disappointingly
+disturbingly
+doubtless
+essentially
+ever
+evidently
+factually
+foolishly
+for the most part
+formally
+frankly
+fundamentally
+funnily enough?
+generally
+honestly
+hopefully
+hypothetically
+ideally
+in general
+in my opinion
+in principle
+incontestably
+incontrovertibly
+incredibly
+indeed
+indisputably
+indubitably
+inevitably
+ironically
+kindly
+looking back on it
+manifestly
+maybe
+mercifully
+mistakenly
+naturally
+never
+no doubt
+nominally
+not unnaturally
+obviously
+obviously
+occasionally
+oddly
+of course
+officially
+often
+on the whole
+only? apparently
+ostensibly
+outwardly
+patently
+perhaps
+personally
+plainly
+please
+pleasingly
+possibly
+predictably
+preferably
+presumably
+probably
+provisionally
+prudently
+purportedly
+really
+refreshingly
+regrettably
+regularly
+remarkably
+reportedly
+reputedly
+rightly
+sadly
+seemingly
+seldom
+sensibly
+seriously
+shrewdly
+significantly
+sometimes
+strangely
+strictly speaking
+superficially
+supposedly
+surely
+surprisingly
+suspiciously
+technically
+tentatively
+thankfully
+theoretically
+to be honest
+to my delight
+to my distress
+to my mind
+to my surprise
+to tell you the truth
+tragically
+unarguably
+understandably
+undiably
+undoubtedly
+unexpectedly
+unfortunately
+unquestionably
+usually
+very? most? quite? likely
+wrongly

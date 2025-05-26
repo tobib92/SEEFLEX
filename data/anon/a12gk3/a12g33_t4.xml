@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g33_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi John,</salute>
+      </p>
+      <p>
+        <s>I've found an article that exactly <choice><orig>adresses</orig><reg>addresses</reg></choice> the matter of native <choice><orig>english</orig><reg>English</reg></choice> speakers in <name type="geo">Germany</name>, especially in <name type="geo">Berlin</name>.</s>
+        <s>It is an article written by <ref target="a12gk3_2" type="author">Marina Kormbaki</ref> and published on the <date>15th of July 2016</date> in <name type="misc">Hannoversche Allgemeine Zeitung</name>.</s>
+      </p>
+      <p>
+        <s>It says that <name type="geo">Berlin</name> speaks English, and is growing <choice><orig>resemblence</orig><reg>resemblance</reg></choice> to English-speaking cities like <name type="geo">London</name>, <name type="geo">Brooklyn</name> and <name type="geo">Sydney</name>.</s>
+        <s>This is due to more and more native English-speaking people coming to <name type="geo">Berlin</name>, many visit as tourists or as students and also leave, but also many native <choice><orig>English-speakers</orig><reg>English speakers</reg></choice> stay.</s>
+        <s>English is here so widespread, that during a walk in specific parts of <name type="geo">Berlin</name> you won't hear a single German word, but also not only English either.</s>
+        <s>But especially in the shopping alleys the influence of English-speaking immigrants is noticeable.</s>
+        <s>Most of the restaurants feature the highlights of the day only in English, so <name type="geo">Berlin</name> is becoming a global city.</s>
+      </p>
+      <p>
+        <s>But this development has nothing to do with <name type="geo">Germany</name> as such, only <name type="geo">Berlin</name> is such a global city in <name type="geo">Germany</name>.</s>
+        <s>This is the opinion of a man named <name type="person">David Walker</name>, who is drinking a coffee in a coffeeshop that would fit perfectly in every other global city.</s>
+        <s>The difference the coffee here isn't as expensive.</s>
+        <s>He is a programmer from England, and his corporation has more than 21 nationalities, with English being the dominating language.</s>
+        <s>Across the coffeeshop is a shop for used English looks, even by an Irish woman, <name type="person">Orla Baumgarten</name>.</s>
+        <s>Having her own bookstore was always a fream, but a too expensive one in <name type="geo">Dublin</name>.</s>
+        <s>In <name type="geo">Berlin</name> was it possible.</s>
+        <s><name type="geo">Berlin</name> has culture, art and nightlife, that together with the relatively low living expenses in comprison to other cities is the reason for the popularity to other metropoles.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g33_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a12gk3_1" type="author">Worne</ref> presents his view <choice><orig>throgh</orig><reg>through</reg></choice> a combination of good structure, data and stylistic devices to persuade the reader and make the text more interesting and enjoyable to read.</s>
+      </p>
+      <p>
+        <s>The text is a column in a quality paper, since it does use sophisticated vocabulary (<quote>re-commissioning our collective brains, etc.</quote>) as well as data from trustworthy sources (<name type="misc">CBI</name>,<name type="misc">Pearson</name> etc.) throughout the text.</s>
+        <s>On the other hand, it also is often written in colloquial language (<quote>Cobblers, crash or choke, etc.</quote>) and uses start is to devices quite often.</s>
+        <s>Furthermore, it is not solely a news report without a subjective conclusion at the end, but already during the text the <choice><orig>authors</orig><reg>author's</reg></choice> opinion is clearly visible (<quote>Cobblers, only really good, etc.</quote>).</s>
+        <s>All those points correspond the traits of a column.</s>
+      </p>
+      <p>
+        <s>Regarding the content of the column, it is written subjectively, but the author also provides data for his arguments and looks them up, as well as also <choice><orig>adressing</orig><reg>addressing</reg></choice> arguments against his point of view.</s>
+        <s>The text as well structured and can be divided into different sections.</s>
+        <s>The first two lines of the text to serve as introduction to the topic <ref target="a12gk3_1" type="line">(l. 1, 2)</ref>.</s>
+        <s>After that from the lines 3-11, are you author uses data to <choice><orig>backup</orig><reg>back up</reg></choice> his first point: the steady decline of language learning in the <name type="geo">UK</name>.</s>
+        <s>After that he <choice><orig>adresses</orig><reg>addresses</reg></choice> the <choice><orig>oppositions</orig><reg>opposition's</reg></choice> arguments with sarcasm <ref target="a12gk3_1" type="line">(l. 12-15)</ref> ridiculizing them.</s>
+        <s>Thereafter, he states his first argument, followed by data.</s>
+        <s>Then he introduces his second arguments, his first being it is beneficial for the <name type="geo">UK</name>, the second that it is beneficial for the individual as well.</s>
+        <s>In the end, he concludes by <gap reason="illegible" quantity="1" unit="word">avivating</gap> the parents to teach their children the importance and value of foreign language learning.</s>
+      </p>
+      <p>
+        <s>His title for the text is very well chosen, since he conveys his view in just eight words, and sparks the <choice><orig>readers</orig><reg>reader's</reg></choice> interst as well.</s>
+        <s>Also the enumeration he uses makes it more memorable and intriguing to read.</s>
+      </p>
+      <p>
+        <s>The enumeration is a stylistic device uesd by the author throughout the text.</s>
+        <s>He uses it in the headline and his introduction <ref target="a12gk3_1" type="line">(l. 1)</ref> to grab the <choice><orig>readers</orig><reg>reader's</reg></choice> interest, and already clearly show his opinion on the topic.</s>
+        <s>Furthermore, he also uses it in lines 16-18, to emphasize the importance of language learning and therefore his point as well as enumerating all the positive things that thrive from it.</s>
+        <s>There is also an antagonism in his use of the enumeration <quote>can't, won't, don't</quote> on showing the current problem of no language learning and with thi worldfield insinuating something bad and negative in contrast to the positive worldfield of the enumerations used to show its benefits (prosperity, national security etc.).</s>
+        <s>Therefore he uses enumerations very well placed and more than one way.</s>
+      </p>
+      <p>
+        <s>Another stylistic device employed by the author is the parallelism.</s>
+        <s>In lines 16-18, he uses it outline the benefits and importance languages play for the quality of life in the UK, <gap reason="illegible" quantity="1" unit="word">en</gap> having that effect with the doubled use of the word <quote>prosperity</quote> <ref target="a12gk3_1" type="line">(l. 16, l. 17)</ref>.</s>
+        <s>It is also used in lines 26-27, to emphasize the toughness of the job market, and how knowing foreign languages/learning foreign languages is an advantage in that competition.</s>
+        <s>The author uses parallelisms to emphasize his point, and make the important lines of his text more memorable.</s>
+      </p>
+      <p>
+        <s>Further additional stylistic devices are his use of inclusive pronouns and his use of brackets to show his opinion.</s>
+      </p>
+      <p>
+        <s>The use of inclusive pronouns <ref target="a12gk3_1" type="line">(l. 1, l. 13, l. 27)</ref> is to create a kind of urgeness to his view point since it is relevant for everybody.</s>
+        <s>This is enhanced through also directly <choice><orig>adressing</orig><reg>addressing</reg></choice> the reader <ref target="a12gk3_1" type="line">(l. 12, l. 13, l. 32)</ref>, and even asking them for help to show that this is relevant for everybody.</s>
+        <s>He does not only use inclusive pronouns and directly <choice><orig>adressing</orig><reg>addressing</reg></choice> the reader to build up trust, but also colloquial language to loosen the stiff and formal atmosphere, and create a familiar and trusting surrounding for the reader.</s>
+      </p>
+      <p>
+        <s>His use of brackets is to always show the reader his train of thought and also shows his bias, which is not necessarily favorable here.</s>
+        <s>Especially in lines 12-15 it creates the impression, that he is afraid of the reader forming his own opinion, and he tries to prevent it directly by ridiculizing the arguments of the opposition <gap reason="illegible" quantity="1" unit="word">immecliutely</gap>.</s>
+      </p>
+      <p>
+        <s>To conclude, the author uses informal and sophisticated language throughout the text, to appear both, knowledgeable and familiar, an effect enhanced by his use of data and statistics, as well as using inclusive pronouns and many stylistic devices well placed.</s>
+        <s>His text is also logically and well structured, but his use of brackets to weaken the <choice><orig>oppositions</orig><reg>opposition's</reg></choice> arguments seems desperate and contradicts the impression of a well written text.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

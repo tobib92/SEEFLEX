@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a11g20_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="biographical recount">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given extract of <ref target="a11gk2_1" type="author"><choice><orig>Barack Obamas</orig><reg>Barack Obama's</reg></choice></ref> speech on the American Dream, delivered on <date>November, 7th 2007</date> in <name type="geo">Bettendorf, Iowa</name>, is held by the occasion that he <choice><orig>think</orig><reg>thinks</reg></choice> it is worth to fight for the American Dream.</s>
+        <s>The text is an extract from <ref target="a11gk2_1" type="author"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> speech on the American Dream during his first election campaign, so the audience <choice><orig>are</orig><reg>is</reg></choice> his followers in <name type="geo">Iowa</name> and the American population in general, because he claims his values to everyone not just to the people in front of him.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="author"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> main idea is that the people see that <choice><orig>wheter</orig><reg>whether</reg></choice> you are young, old, black, white or brown they all share a faith in simple dreams.</s>
+        <s>So he claims that they all have common hopes and all want to live in freedom and harmony.</s>
+        <s>In the last three paragraphs he wants to show that even the generations <choice><orig>befor</orig><reg>before</reg></choice> him <add>(his grandparents and his mother)</add> tried to live the American Dream.</s>
+        <s>Another reason why <ref target="a11gk2_1" type="author">Obama</ref> wants to fight for the American Dream is the <choice><orig>Education</orig><reg>education</reg></choice> and opportunity for the children.</s>
+        <s>Besides he also claims that it would be worth to fight for the American Dream because of the family and health from everyone.</s>
+        <s>So <ref target="a11gk2_1" type="author">Obama</ref> wants to fight for the American Dream because of the opportunities that would follow from it and the freedom and peace that would come between people.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

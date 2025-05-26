@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g40_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>There is no second planet.</s>
+      </p>
+      <p>
+        <s>As most of you know globalised environmental polluting is a current global issue caused by us humans.</s>
+        <s>In the following I am going to comment on this thesis.</s>
+      </p>
+      <p>
+        <s>First of all the environment gets worse every year.</s>
+        <s>There are many causes for this and the cause are our <choice><orig>humans</orig><reg>humans'</reg></choice> actions.</s>
+      </p>
+      <p>
+        <s>The biggest impact on this are the <choice><abbr>CO2</abbr><expan>carbon dioxide</expan></choice> emissions caused by our traffic and also our synthetic detergents, nitrogen fertilizers.</s>
+        <s>Giving an example on <date>December 3, 1984</date> at <name type="geo">Bhopal</name> as a result of toxic and poisonous leakage over 2000 people were killed and hundreds severely hurt.</s>
+      </p>
+      <p>
+        <s>We human beings losing control and become victims of our own creations.</s>
+        <s>The rapidly urbanization and rapidly increasing industrialization is in turn a product of our advancement in science and technology.</s>
+        <s>As you know it is the extinction of our flora and fauna.</s>
+        <s>There are many races that do not exist anymore.</s>
+      </p>
+      <p>
+        <s>To put it in a nutshell it is important that we humans should be aware of our actions and try to stop the polluting.</s>
+        <s>If not, there will no longer be a world for us to live.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

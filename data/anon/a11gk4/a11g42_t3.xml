@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g42_t3</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear penpal,</salute>
+      </p>
+      <p>
+        <s>I heard, that your school board thinks about banning <name type="misc">The Hate U Give</name> from the school libraries.</s>
+        <s>Because, it is too vulgar, contains offensive langauge and so on.</s>
+        <s>You asked me for support and my opinion.</s>
+        <s>My opinion is, that this novel shows how bad black people <choice><orig>lives</orig><reg>live</reg></choice> with racism and how<surplus> and how</surplus> a life of a 16-year-old girl can be destroyed because of racism.</s>
+        <s>I think, it gives a reason, why there are some negative aspects in this book, it just <choice><orig>want</orig><reg>wants</reg></choice> to show, how the people <choice><orig>lives</orig><reg>live</reg></choice> and <choice><orig>thinks</orig><reg>think</reg></choice>.</s>
+        <s>And the negative aspects your school board says, are just the reality, how black people have to live.</s>
+        <s>I think you should <choice><orig>speek</orig><reg>speak</reg></choice> again with your school board and show them, that nothing is a reason to banning this novel out of the school <choice><orig>libararies</orig><reg>libraries</reg></choice>.</s>
+        <s>It is just the real life of black people!</s>
+        <s>I know you get this!</s>
+      </p>
+      <p>
+        <signed>Your penpal</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

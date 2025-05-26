@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The industrial worls pins faster, than the actual one.</s>
+        <s>Consume from western states forces the industry to change and lower the prices every year, to make products more interesting of affordable.</s>
+      </p>
+      <p>
+        <s>The problem, is that employees are not getting <choice><orig>payed</orig><reg>paid</reg></choice> enough money, at least that is my opinion.</s>
+      </p>
+      <p>
+        <s>The low wages, especially in the fashion industry, make workers work slower, than they actually could.</s>
+        <s>But they are forced to work for a low wage and under bad working conditions, because they have to afford the essentials for their everyday life, like food or clear water, which is not easy to do in not industrial countries, like <name type="geo">Bangladesh</name>, for example.</s>
+        <s>But <ref target="a10gk2_1" type="author">Brian Pollard</ref> has a different opinion.</s>
+      </p>
+      <p>
+        <s>He thinks, that the situation has changed since the <date>twenty-first century</date> and that workers are not longer being exploited by employers, but employers are exploited by employees.</s>
+        <s>I have to state, that I think, that his opinion is not fully wrong but main parts of his opinion are.</s>
+      </p>
+      <p>
+        <s>In my opinion the workers do not get enough money, mostly even under the minimum wage, that industrial countries have.</s>
+        <s>The employees can't do anything against the problem.</s>
+        <s>They actually want the employers to manufacture in their countries, so they get at least some money from working there, because otherwise they maybe would not even find a full-time job to feed their families and themselves.</s>
+      </p>
+      <p>
+        <s>In general I think, that the workers are not the biggest part of the problem, but more the companies and employers that produce in poor countries and make the workers work under bad conditions.</s>
+        <s>They could at least pay them a higher wage, so the actual work they do and their income is balanced.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

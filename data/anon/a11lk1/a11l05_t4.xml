@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11l05_t4</author>
+        <name>blog</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211206</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="recounting" genre_family="biographical recount">blog</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s><quote>There are places, where I wouldn't let my daughters go to by any means</quote> - <name type="person">Jérôme Boateng</name></s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>If you consider going abroad and spending an exchange year in <name type="geo">Germany</name>, it is important to acknowledge that racism <choice><orig>againgst</orig><reg>against</reg></choice> people of colour is apparent.</s>
+        <s>Especially people with African heritage still get <choice><orig>discrimminated</orig><reg>discriminated</reg></choice> often and have to prepare themselves for the case of an attack.</s>
+      </p>
+      <p>
+        <s>As an international culture exchange organization it is our duty to inform and educate on that matter.</s>
+      </p>
+      <p>
+        <s>Being a German volunteer myself, this subject is really important to me and I tried to do my best on shaping a picture of the daily life as a black person in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>Thus, I researched online and came across an article about <name type="person">Jérôme Boateng</name>, a German soccer player who recently changed teams from first playing on the national German team, then the very <choice><orig>successfull</orig><reg>successful</reg></choice> Bavarian team <name type="misc">FC Bayern München</name> to now playing on the <name type="misc">Olympique Lyon</name> team in <name type="geo">France, Lyon</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Jérôme Boateng</name> grew up in <name type="geo">Germany</name>, he is German.</s>
+      </p>
+      <p>
+        <s>However, his skin colour is black and because of that, he recalls to have had many traumatizing experiences throughout his life.</s>
+        <s>The very least understandable in his childhood, of course.</s>
+      </p>
+      <p>
+        <s>Someone once shouted <quote>Hey, my little nigger</quote> at him at an age, where <name type="person">Boateng</name> did not even understand <choice><orig>excactly</orig><reg>exactly</reg></choice> how people could have a problem with skin colours in the first place.</s>
+        <s>These racist incidents often take place in a soccer-/sports surrounding, states <name type="person">Boateng</name> on an interview together with the famous German singer, <name type="misc">Herbert Grönemeyer</name>.</s>
+      </p>
+      <p>
+        <s>Sometimes, when he is warming himself up, <name type="person">Boateng</name> has to listen to people making monkey noises.</s>
+      </p>
+      <p>
+        <s>Still, even though he has achieved so much in soccer, in <name type="geo">Germany</name> in general.</s>
+        <s>The whole situation <choice><orig>apparentely</orig><reg>apparently</reg></choice> got worse after the migration crisis in <name type="geo">Europe</name>, which started around <date>2015</date>.</s>
+        <s>Since many people fled from their home countries in <name type="geo">Syria</name> or <name type="geo"><choice><orig>Afgahnistan</orig><reg>Afghanistan</reg></choice></name> <add>(due to the wars and horrible living conditions)</add>, people fear now that there is not enough space in <name type="geo">Germany</name> for all of them.</s>
+      </p>
+      <p>
+        <s>Even some, who grew up in <name type="geo">Germany</name>, but do not look typically German <add>(<q>blond, blue-eyed</q> - old stereotypes)</add> because of their parents being first generation immigrants or just beacuse they generally have a darker skin tone, get looked at more and more sceptically in daily life.</s>
+      </p>
+      <p>
+        <s>Still, <name type="person">Jérôme Boateng</name> thinks it is important to mention that this incidents are by far in the minority.</s>
+      </p>
+      <p>
+        <s><quote>Many people experience every day (...) what an achievement it is to live in such a colourful (diverse) country</quote>, states <name type="person">Jérôme</name>.</s>
+        <s><name type="person">Boateng</name>, having played in the soccer world <choice><orig>championchip</orig><reg>championship</reg></choice> in <date>2014</date> for <name type="geo">Germany</name> <add>(and that successfully)</add>, states that this would probably not have been possible without all the German players of different origin.</s>
+      </p>
+      <p>
+        <s>Even though he once did suffer so much from racist commentary, <name type="person">Boateng</name> nowadays is able to let these incidents not get to him that much.</s>
+      </p>
+      <p>
+        <s>We sincerely hope that this blog post will not stop you from following your dream as an exchange students in <name type="geo">Germany</name>.</s>
+        <s>Because our belief as an exchange organisation is that every society has its own struggles and the only way to overcome prejudices and <choice><orig>discrimmination</orig><reg>discrimination</reg></choice> <choice><orig>ist</orig><reg>is</reg></choice> to exchange cultures, ideas and life experiences.</s>
+      </p>
+      <p>
+        <s>We wish you all the best on your journey!</s>
+      </p>
+      <p>
+        <signed>Greetings from your exchange volunteer, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

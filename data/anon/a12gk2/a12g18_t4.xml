@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g18_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <name type="person">George</name>,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>I am fine!</s>
+        <s>You wanted to know if <name type="geo">Berlin</name> is the right place to spend a year abroad in <name type="geo">Germany</name>.</s>
+        <s>As I don't really know a lot about it, because I <choice><orig>life</orig><reg>live</reg></choice> in <name type="geo">Cologne</name>, I did some research and came across an interesting article.</s>
+        <s>The article <ref target="a12gk2_2" type="title">Berlin spricht Englisch</ref> is written by <ref target="a12gk2_2" type="author">Marina Kormbaki</ref> and published in the newspaper <name type="misc">Hannoversche Allgemeine</name> on <date>15 July 2016</date>.</s>
+        <s>In the article the author claims that <name type="geo">Berlin</name> is going to be the global city.</s>
+      </p>
+      <p>
+        <s>In her article <ref target="a12gk2_2" type="author"><choice><orig>Kormaki</orig><reg>Kormbaki</reg></choice></ref> points out that most of the people in <name type="geo">Berlin</name> speak English - which might be an advantage for you.</s>
+        <s>Moreover she says that <name type="geo">Berlin</name> has a lot of similarities with cities like <name type="geo">Berlin</name>, <name type="geo"><choice><orig>Brookly</orig><reg>Brooklyn</reg></choice></name> and <name type="geo">Sydney</name>.</s>
+        <s>A lot of people from <choice><orig>English Speaking</orig><reg>English-speaking</reg></choice> nations come to <name type="geo">Berlin</name> to visit it and study there and a lot of them keep staying there afterwards.</s>
+        <s>In <name type="geo">Berlin</name> are also a lot of trails of immigrants who were original <foreign xml:lang="de">angelsächsisch</foreign>.</s>
+        <s>Another point to consider are the cheap prices in <name type="geo">Berlin</name> comparing to other <choice><orig>metropols</orig><reg>metropolises</reg></choice>.</s>
+        <s><ref target="a12gk2_2" type="author">Kormbaki</ref> claims that in <name type="geo">Berlin</name> are cafés like in <name type="geo">Toronto</name>, <name type="geo">Los Angeles</name> or <name type="geo">Hongkong</name>.</s>
+        <s>The only <choice><orig>different</orig><reg>difference</reg></choice> are the cheap prices in <name type="geo">Berlin</name>.</s>
+        <s><ref target="a12gk2_2" type="author">Kormbaki</ref> also points out the lower rent.</s>
+        <s>To <choice><orig>proof</orig><reg>prove</reg></choice> her point she refers to an <choice><orig>app-producer</orig><reg>app producer</reg></choice> from <name type="geo">England</name> who confirms that <name type="geo">Berlin</name> is different then the rest of <name type="geo">Germany</name> and to an <choice><orig>irish</orig><reg>Irish</reg></choice> woman who could not afford a bookstore in <name type="geo">Dublin</name> but therefore in <name type="geo">Berlin</name>.</s>
+        <s>All in all <ref target="a12gk2_2" type="author">Kormbaki</ref> says that <name type="geo">Berlin</name> is <choice><orig>an</orig><reg>a</reg></choice> multicultural country where people who don't speak <choice><orig>english</orig><reg>English</reg></choice> are at a disadvantage.</s>
+      </p>
+      <p>
+        <s>I hope I could help you with this article!</s>
+        <s>Can I come visit you this Christmas in <name type="geo">Canada</name>?</s>
+        <s>See you.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b10g59_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The given sequence is a scene from the movie <ref target="b10gk5_1" type="title">The Hate U Give</ref>, <choice><orig>wich</orig><reg>which</reg></choice> was directed by <ref target="b10gk5_1" type="director">George Tillmann Jr.</ref> in <date>2018</date>.</s>
+        <s>The movie is mostly about <ref target="b10gk5_1" type="character">Starr</ref>, the main character, and her life as a black teenager.</s>
+        <s>This specific scene introduces <ref target="b10gk5_1" type="character">Starr</ref> and her boyfriend <ref target="b10gk5_1" type="character">Chris</ref> and how the relationship between them is.</s>
+      </p>
+      <p>
+        <s>The scene starts with <ref target="b10gk5_1" type="character">Chris</ref> walking through the hallway of the school and greeting some people on the way over to <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> is standing at her locker and observing him while he walks.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> walks up behind her and puts his headphones on her.</s>
+        <s>She listens to the sound before taking the headphones <choice><orig>of</orig><reg>off</reg></choice> to talk to him.</s>
+        <s>They have a conversation about a situation that had <choice><orig>happend</orig><reg>happened</reg></choice> a while back where <ref target="b10gk5_1" type="character">Chris</ref> tried to sleep with <ref target="b10gk5_1" type="character">Starr</ref> even though she <surplus>she</surplus> didn't want to.</s>
+        <s>He apologises and starts talking about the beat he had made for her and if she liked it.</s>
+        <s>When he hears her say it's only okay, he starts dancing with the beat on in the middle of the hallway.</s>
+        <s>They start laughing and <ref target="b10gk5_1" type="character">Starr</ref> pulls him by his arm to go somewhere else.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g40_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following the communicative strategies and the use of language will be analysed.</s>
+      </p>
+      <p>
+        <s>In the first <choice><orig>tow</orig><reg>two</reg></choice> lines <ref target="a12gk4_1" type="author">John Worne</ref> starts out by explaining the <choice><orig>titel</orig><reg>title</reg></choice> of the <choice><orig>articel</orig><reg>article</reg></choice>.</s>
+        <s>In doing so he <choice><orig>make</orig><reg>makes</reg></choice> the, in his <choice><orig>orpinion</orig><reg>opinion</reg></choice>, problem very clear to the reader; so after a confusing title everyone now knows <choice><orig>waht</orig><reg>what</reg></choice> he is going to talk about.</s>
+      </p>
+      <p>
+        <s>He then uses a very clear structure for his text what helps in making his arguments more <choice><orig>sencefulli</orig><reg>trustworthy</reg></choice>.</s>
+        <s>From the <choice><orig>liens</orig><reg>lines</reg></choice> three to 17 he explains the problem to the reader, thus <choice><orig>rasing</orig><reg>raising</reg></choice> the <choice><orig>awearnes</orig><reg>awareness</reg></choice> of the situation.</s>
+        <s>He then argues against <choice><orig>peopel</orig><reg>people</reg></choice> how disagree in the point that the situation should be different.</s>
+        <s>This <choice><orig>convinses</orig><reg>convinces</reg></choice> one even more of his position because it makes the contra arguments seem weaker <ref target="a12gk4_1" type="line">(cf. ll. 18-23)</ref>.</s>
+        <s>The next major topic of his article is why he is convinced of the importance of learning foreign languages <ref target="a12gk4_1" type="line">(cf. ll. 24-35)</ref>.</s>
+        <s>This also gives the reader a feel of <choice><orig>ergency</orig><reg>urgency</reg></choice> and thus making his point stronger.</s>
+        <s>From <ref target="a12gk4_1" type="line">line 36 to 39</ref> he names a possible solution but also <choice><orig>weankens</orig><reg>weakens</reg></choice> it by <choice><orig>saing</orig><reg>saying</reg></choice> that it is not <choice><orig>verry</orig><reg>very</reg></choice> common <ref target="a12gk4_1" type="line">(cf. l. 39)</ref>.</s>
+        <s>He then gives a short example to underline his arguments from before <ref target="a12gk4_1" type="line">(cf. ll. 44-45)</ref> he ends his text by <choice><orig>apeling</orig><reg>appealing</reg></choice> to the readers that have children <ref target="a12gk4_1" type="line">(cf. ll. 46-51)</ref> and tells them what to do.</s>
+      </p>
+      <p>
+        <s>With this structure he lies a very good ground to <choice><orig>pesuade</orig><reg>persuade</reg></choice> the reader.</s>
+        <s><ref target="a12gk4_1" type="author">Worne</ref> first raises the attention on the topic, then he <choice><orig>outliens</orig><reg>outlines</reg></choice> the problem and at last he demands one to act.</s>
+      </p>
+      <p>
+        <s>In the <choice><orig>articel</orig><reg>article</reg></choice> <ref target="a12gk4_1" type="author">Mr. Worne</ref> uses language to make his <choice><orig>orpinion</orig><reg>opinion</reg></choice> stronger by making use of rating words.</s>
+        <s>For <choice><orig>exampel</orig><reg>example</reg></choice> in <ref target="a12gk4_1" type="line">line five</ref> he calls the present situation sad <choice><orig>maiking</orig><reg>making</reg></choice> the reader less convinced that nothing needs to be changed.</s>
+        <s>When talking about more <choice><orig>opertuneties</orig><reg>opportunities</reg></choice> in the education system he uses words and phrases like <quote>some progress</quote> <ref target="a12gk4_1" type="line">(l. 8)</ref> or <quote>piece</quote> <ref target="a12gk4_1" type="line">(l. 36)</ref> <quote>A number of ...</quote> <ref target="a12gk4_1" type="line">(ll. 38-39)</ref> to show how <choice><orig>littel</orig><reg>little</reg></choice> the <choice><orig>progess</orig><reg>progress</reg></choice> is and to convince the reader that it is not enough.</s>
+        <s>On the other hand when he talks about foreign languages in the <name type="geo">UK</name> he uses very strong words that lie a big <choice><orig>wight</orig><reg>weight</reg></choice> on the topic.</s>
+        <s>For <choice><orig>exampel</orig><reg>example</reg></choice> <quote>vital</quote> <ref target="a12gk4_1" type="line">(l. 24)</ref> and <quote>essential</quote> <ref target="a12gk4_1" type="line">(l. 25)</ref>.</s>
+      </p>
+      <p>
+        <s>In the first part of the <choice><orig>articel</orig><reg>article</reg></choice> <ref target="a12gk4_1" type="author">Mr. Worne</ref> also names some facts and figures so one <choice><orig>trust</orig><reg>trusts</reg></choice> more on what he says.</s>
+        <s>From line 13 to 17 he names numbers and from line 28 onwards he <choice><orig>taks</orig><reg>takes</reg></choice> facts from the <name type="misc">CBI/ Pearson Education and Skills Survey</name> to underlie his arguments.</s>
+      </p>
+      <p>
+        <s>The part from <ref target="a12gk4_1" type="line">line 18-23</ref> is very <choice><orig>provocant</orig><reg>provocative</reg></choice> towards <choice><orig>kritics</orig><reg>critics</reg></choice> of language learning and <choice><orig>eaven</orig><reg>even</reg></choice> makes a joke of them.</s>
+        <s>He names <choice><orig>thir</orig><reg>their</reg></choice> arguments and always <choice><orig>interups</orig><reg>interrupts</reg></choice> them by giving a short but <choice><orig>effectiv</orig><reg>effective</reg></choice> comment what makes them seem weak and a <choice><orig>littel</orig><reg>little</reg></choice> <choice><orig>stupet</orig><reg>stupid</reg></choice> and him ahead of <choice><orig>knowlage</orig><reg>knowledge</reg></choice>.</s>
+        <s>He finishes with the word <quote>Cobblers</quote> to make the <choice><orig>kritings</orig><reg>critics</reg></choice> seem like they are not <choice><orig>one</orig><reg>on</reg></choice> his level.</s>
+        <s>Moreover he makes use of exclusive language in this part to make his <choice><orig>opponets</orig><reg>opponents</reg></choice> seem more like a <choice><orig>minoraty</orig><reg>minority</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In the last part <ref target="a12gk4_1" type="line">(cf. ll. 46-51)</ref> he <choice><orig>especaly</orig><reg>especially</reg></choice> includes himself <quote>(and I'm one)</quote> <ref target="a12gk4_1" type="line">(cf. l. 46)</ref> to make him and the readers feel on the same level what makes them <choice><orig>lisen</orig><reg>listen</reg></choice> more <choice><orig>closly</orig><reg>closely</reg></choice> and thus giving his <choice><orig>apeal</orig><reg>appeal</reg></choice> more power.</s>
+        <s>He also <choice><orig>throwes</orig><reg>throws</reg></choice> in a metaphor to make it sound more <choice><orig>artfuel</orig><reg>artful</reg></choice> but <choice><orig>especaly</orig><reg>especially</reg></choice> less <choice><orig>exausting</orig><reg>exhausting</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Overall <ref target="a12gk4_1" type="author">John Worne</ref> points out his <choice><orig>orpinion</orig><reg>opinion</reg></choice> in a structured way and makes use of <choice><orig>stradegies</orig><reg>strategies</reg></choice> such as use of words, provocation towards critics, and <choice><orig>inclusev</orig><reg>inclusive</reg></choice> as well as <choice><orig>exclusev</orig><reg>exclusive</reg></choice> language to <choice><orig>pesuade</orig><reg>persuade</reg></choice> his readers.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

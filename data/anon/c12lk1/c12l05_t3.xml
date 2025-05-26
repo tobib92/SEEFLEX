@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a2</title>
+        <author>c12l05_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211119</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>My dear William,</salute>
+      </p>
+      <p>
+        <s>thank you for this great sonnet.</s>
+        <s>I love the way you <choice><orig>wirte</orig><reg>write</reg></choice>!</s>
+        <s>It feels like you are painting pictures just with words and I can see and <choice><orig>feal</orig><reg>feel</reg></choice> this pictures.</s>
+        <s>I know nobody else, who does things <choice><orig>likes</orig><reg>like</reg></choice> this and is sending a <choice><orig>peace</orig><reg>piece</reg></choice> of art to the person they love, just to express <choice><orig>they're</orig><reg>their</reg></choice> feeling.</s>
+        <s>You are unique.</s>
+        <s>Also you are <choice><orig>realy</orig><reg>really</reg></choice> a <choice><orig>men</orig><reg>man</reg></choice> of taste, because you find <choice><orig>allways</orig><reg>always</reg></choice> a perfect fitting meter, which makes it sound good and emphasizes the highlight.</s>
+        <s>I'm <choice><orig>allso</orig><reg>also</reg></choice> really impressed, that you are able to find <choice><orig>allways</orig><reg>always</reg></choice> the perfect rhyme for the end of the verse.</s>
+        <s><choice><orig>Espechialy</orig><reg>Especially</reg></choice> the rhyme <quote>might</quote> <ref target="c12lk1_1" type="line">(v. 13)</ref> and <quote>bright</quote> <ref target="c12lk1_1" type="line">(v. 14)</ref> connects the meaning perfectly.</s>
+      </p>
+      <p>
+        <s>You are impressing me again and again with all your <choice><orig>stylisting</orig><reg>stylistic</reg></choice> devices.</s>
+        <s>The <quote>O</quote> in <choice><orig>vers</orig><reg>verse</reg></choice> <choice><orig>fife</orig><reg>five</reg></choice>, nine and <choice><orig>twelf</orig><reg>twelve</reg></choice> emphasizes perfect the beginning of the new chapter.</s>
+        <s>But the <choice><orig>stylisting</orig><reg>stylistic</reg></choice> devices, which fascinate me the most, are metaphors.</s>
+        <s>You wrote <quote>times best jewel</quote> in verse ten.</s>
+        <s>This written picture is plying with my imagination.</s>
+        <s><choice><orig>Personaly</orig><reg>Personally</reg></choice> I don't think that you are writing this because you just like art, I think you have to write these to express your love and feelings.</s>
+        <s>In the last verse, you say that your love may still shine bright in black ink and I really think so <choice><orig>to</orig><reg>too</reg></choice>.</s>
+        <s>Your love in black ink shines so bright, that I just can see the bright light of your shining love.</s>
+        <s>But I don't like just your sonnet, I also like your play <name type="misc">Romeo and Juliet</name>.</s>
+        <s>It shows a new kind of love.</s>
+        <s>I have never seen or heard <choice><orig>bevore</orig><reg>before</reg></choice>.</s>
+        <s>It is so <choice><orig>passionated</orig><reg>passionate</reg></choice>!</s>
+        <s>I think you are all in all a really <choice><orig>passionated</orig><reg>passionate</reg></choice> and creative person, which loves with his full heart and which can express his feeling.</s>
+        <s>That are things I really like about you.</s>
+      </p>
+      <p>
+        <s>I hope you will send me another one, I would be <choice><orig>verry</orig><reg>very</reg></choice> happy.</s>
+        <s>Also I hope, that we will see us again soon.</s>
+      </p>
+      <p>
+        <signed>In love Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

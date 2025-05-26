@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b12g28_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In his speech given at <name type="misc">COP26 World Leaders Summit Opening Ceremony</name> on <date>1 November 2021</date> in <name type="geo">Glasgow</name> <ref target="b12gk2_1" type="author">Boris Johnson</ref> talks to the whole world population and especially to the world leaders and media to convince them to act against the climate change.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="author">Johnson</ref>'s speech can be divided in parts.</s>
+        <s>In the first nine lines he gives an introduction of his speech.</s>
+        <s>He says welcome to his listeners and starts with an allusion.</s>
+        <s><ref target="b12gk2_1" type="author">Johnson</ref> refers to <name type="person">James Bond</name> <ref target="b12gk2_1" type="line">(l. 2)</ref> and after that to his lucrative movies and the doomsday device <ref target="b12gk2_1" type="line">(l. 3)</ref>.</s>
+        <s>He points out the similarity that an imaginary red digital clock ticks down remorselessly to a detonation that will end our lives <ref target="b12gk2_1" type="line">(ll. 4-5)</ref>.</s>
+        <s>He moves on with the antithesis that this is not a movie, it is the reality.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> this antithesis <ref target="b12gk2_1" type="author">Johnson</ref> makes clear taht the climate crisis is nothing ot make jokes about.</s>
+        <s>It is a real issue, which we have to stop.</s>
+      </p>
+      <p>
+        <s>After that he goes on with his personal experiences and tells the listeners that he was in <name type="geo">Copenhagen</name> and <name type="geo">Paris</name>, 11 and 6 years ago.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> telling something from his life he creates a personal tie to his listeners.</s>
+      </p>
+      <p>
+        <s>In the following lines <ref target="b12gk2_1" type="author">Boris Johnson</ref> uses a lot of stylistic devices to illustrate that we all have the possibility to change something.</s>
+        <s>He uses an elipsis to make the fact that we can do something clear <ref target="b12gk2_1" type="line">(l. 16)</ref>.</s>
+        <s>He uses an anaphora and starts three sentences with we can / we have.</s>
+        <s>This repetition makes his point of view to change something more memorable for the listener and <choice><orig>emphazizes</orig><reg>emphasizes</reg></choice> its importance.</s>
+        <s><choice><orig>Trough</orig><reg>Through</reg></choice> through the inclusive pronouns and language in these lines and the whole speech <ref target="b12gk2_1" type="line">(cf. ll. 16,22,30,31,39,41)</ref> he not just <choice><orig>creats</orig><reg>creates</reg></choice> a sense of community.</s>
+        <s>He also makes clear that it is time for all of us to act against the climate change and to take action now.</s>
+        <s>Especially in his lines <ref target="b12gk2_1" type="author">Boris Johnson</ref> is very <choice><orig>hopefull</orig><reg>hopeful</reg></choice> and <choice><orig>trough</orig><reg>through</reg></choice> this he tries to show that everybody can and must take action.</s>
+        <s>In lines 18 to 21 he goes back in history and appeals to help the world to move to green technology.</s>
+      </p>
+      <p>
+        <s>In the next paragraph <ref target="b12gk2_1" type="line">(l. 22-29)</ref> <ref target="b12gk2_1" type="author">Johnson</ref> tries to give the audience the message to work together.</s>
+        <s>He says that we cannot achieve success if just the governments are spending.</s>
+        <s>So he tries to say that we all have the responsibility.</s>
+      </p>
+      <p>
+        <s>Through the elipsis and climax in line 30 <ref target="b12gk2_1" type="author">Boris Johnson</ref> <choice><orig>encourage</orig><reg>encourages</reg></choice> the listeners on the one hand to take action and on the other hand he shows that it's possible to change something if we want that.</s>
+        <s>He indirectly asks this question and <choice><orig>make</orig><reg>makes</reg></choice> them to think about it.</s>
+        <s>Through the climax and the last <quote>step</quote> of it <quote>and we must</quote> <ref target="b12gk2_1" type="line">(l. 30)</ref> he makes clear that it is the last chance.</s>
+      </p>
+      <p>
+        <s>After all these appeals, hopeful sentences and problems, <ref target="b12gk2_1" type="author">Johnson</ref> mentioned he goes on with the dangers.</s>
+        <s>He thinks aobut the future and talks about the children.</s>
+        <s>This innocent people will come to this world with a totally man-made crisis and this moment it will be <choice><orig>to</orig><reg>too</reg></choice> late for them to change something.</s>
+      </p>
+      <p>
+        <s><ref target="b12gk2_1" type="author">Johnson</ref> shows our responsibility to <quote>turn the tide</quote> <ref target="b12gk2_1" type="line">(l. 50)</ref>.</s>
+        <s>Because if we won't do that the following generations will judge us and won't forgive us <ref target="b12gk2_1" type="line">(l. 39ff)</ref>.</s>
+        <s>In lines 44 to 46 he appeals again to think about it.</s>
+        <s>With the repetition of four sentences, that begin with <quote>we have</quote> <ref target="b12gk2_1" type="line">(ll. 45f)</ref> and this elipsis he shows again that we have the opportunity and the chances.</s>
+        <s>In the last paragraph <ref target="b12gk2_1" type="line">(l. 47-51)</ref> <ref target="b12gk2_1" type="author">Johnson</ref> concludes his message.</s>
+        <s>He uses again the elipsis and gives his message that he is hopeful, even if it will be hard <ref target="b12gk2_1" type="line">(l. 50f)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="b12gk2_1" type="author">Johnson</ref> uses a lot of stylistic devices to encourage the people to act and through the imagination of a bad future and the judgement from our children he shows how real and important the situation now is.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

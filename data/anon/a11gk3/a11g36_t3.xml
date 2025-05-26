@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g36_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Rump,</salute>
+      </p>
+      <p>
+        <s>I am writing to you because I have <choice><orig>heared</orig><reg>heard</reg></choice> that the novel <name type="misc">The Hate U Give</name> was banned from school libraries.</s>
+      </p>
+      <p>
+        <s>I think that every American student but also every student worldwide should have the chance to read this novel.</s>
+      </p>
+      <p>
+        <s>In the following I tell you why.</s>
+      </p>
+      <p>
+        <s>First of all I gave you right that the novel dealings with vulgar, contained offensive language and sexual references, depicted <choice><orig>drugs</orig><reg>drug</reg></choice> use and showed the police in a negative light.</s>
+        <s>However, one should ask <choice><orig>them self</orig><reg>oneself</reg></choice> why all this <choice><orig>aspekts</orig><reg>aspects</reg></choice> are in the book and then one remind that the <choice><orig>Book</orig><reg>book</reg></choice> is based on a <choice><orig>reallity</orig><reg>reality</reg></choice> situation.</s>
+        <s>This <choice><orig>leets</orig><reg>leads</reg></choice> to that that all this, is the true of the <choice><orig>amarican</orig><reg>American</reg></choice> <name type="geo">USA</name>.</s>
+        <s>This book <choice><orig>show</orig><reg>shows</reg></choice> the people what is really going on in the <name type="geo">USA</name> and that is why the book should be made available for everybody as long as <choice><orig>this</orig><reg>these</reg></choice> problems are the everyday life.</s>
+      </p>
+      <p>
+        <s>Feel free to contact me if you have any questions.</s>
+      </p>
+      <p>
+        <signed><choice><orig>Your</orig><reg>yours</reg></choice><choice><orig>sincerly</orig><reg>sincerely</reg></choice>, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

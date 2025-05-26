@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g16_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mr. Prime Minister,</salute>
+      </p>
+      <p>
+        <s>in this letter I want to discuss your great statement at <name type="misc">COP26</name> on <date>Nov, 1, 2021</date>.</s>
+        <s>Now we are in the year <date>2050</date>, the world expand in the climate change definiely change some parts of the world.</s>
+        <s>In your statement you said that you have the ideas and the technology to go against climate change.</s>
+        <s>In my opinion your words were the right words to describe the issue for the next generations in <date>2021</date> and for the future.</s>
+        <s>You <choice><orig>was</orig><reg>were</reg></choice> and you are on the right way to fight against climate change.</s>
+        <s>Nevertheless I would like to say thank you for your words at first.</s>
+        <s>Furthermore it's great that you reach the aim of the end of dependence on coal.</s>
+        <s>Without the fossil fuel coal the world is much better and you can see that your words were the right words because the technology and your ideas helped us to defuse this ticking climate bomb as much as we can.</s>
+        <s>Altogether I would like to congratulate you for your strong words.</s>
+        <s>Thank you Mr. Prime Minister.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, John Smith</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

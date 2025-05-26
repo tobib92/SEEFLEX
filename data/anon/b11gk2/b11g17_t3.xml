@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11g17_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the interview with <name type="misc">Ayad Akhtar</name> which has only recently been published in <name type="misc">Guernica Magazine</name>.</s>
+        <s><name type="misc">Ayad Akhtar</name> talks about the relationship between faith and identity.</s>
+        <s>We just have read <name type="misc">Ayad Akhtar's</name> drama <name type="misc">Disgraced</name> in school and now after reading the interview I can see many connections between the opinion of the author itsself and this drama especially the character <name type="misc">Amir</name>.</s>
+        <s>As far as I am concerned <name type="misc">Amir</name> represents <name type="misc">Akhtar's</name> opinion.</s>
+        <s><name type="misc">Amir</name> is just like the author tries to say not a <choice><orig>Muslim</orig><reg>muslim</reg></choice> anymore but always has to represent the <choice><orig>islam</orig><reg>Islam</reg></choice> and the <choice><orig>islam's</orig><reg>Islam's</reg></choice> psyche.</s>
+        <s>In addition to talks with his wife, his nephew and his friends he faces islamophobia <add>(especially at the job)</add> just as if he was muslim.</s>
+        <s>Furthermore, not only people who are not muslim label him as one but people of the Islamic community like <name type="misc">Abe</name> <add>(his nephew)</add> are also not likely to accept <name type="misc">Amir's</name> renouncement why <name type="misc">Amir</name> suffers from the effort to get rid <choice><orig>off</orig><reg>of</reg></choice> Islam.</s>
+      </p>
+      <p>
+        <s>Personally, I think generalizations and stigmatizations about people of one country or one geographic origin <choice><orig>exists</orig><reg>exist</reg></choice> as well.</s>
+        <s>There were and are many prejuges about for example about people about <name type="geo">Poland</name>.</s>
+        <s>Nevertheless, there exists more discrimination and generalizations of cultures such as religions.</s>
+        <s>It is important to define religion, which is more than just the belief but a complex culture as well to me.</s>
+        <s>Events in the past like the <name type="misc">Holocaust</name> showed us the crucial extent of hate against a religion and <choice><orig>it's</orig><reg>its</reg></choice> community.</s>
+        <s>The character <name type="misc">Amir</name> also shows that he becomes more identified as a <choice><orig>muslim</orig><reg>Muslim</reg></choice> than a Pakistani.</s>
+        <s>Furthermore, the incident at work about the questions about his origin within his boss wanted to find out which nationality his parents have, show clearly the stigmatization of <choice><orig>muslims</orig><reg>Muslims</reg></choice> in the <name type="geo">US</name>.</s>
+        <s>In my opinion, those circumstances are the result of the fear of terror in the time after <name type="misc">9/11</name>.</s>
+      </p>
+      <p>
+        <s>People of the <choice><orig>islamic</orig><reg>Islamic</reg></choice> community or with a South-Asian ethnicity were confronted extremely with discrimination, <choice><orig>wheter</orig><reg>whether</reg></choice> they really were <choice><orig>muslims</orig><reg>Muslims</reg></choice> or not.</s>
+      </p>
+      <p>
+        <s>I think, that is probably the reason why <name type="misc">Ayad Akhtar</name> faced <add>- with this discrimination -</add> thinks the orientation of faith is more important than the nationality.</s>
+      </p>
+      <p>
+        <s>In general, I completely agree with him even though it depends on the country and events of the past that might have intensified discrimination against a concrete community.</s>
+      </p>
+      <p>
+        <s>I hope it was interesting for you to get to know the point of view from a student.</s>
+        <s>Though, I have to mention that I am a white person and not affected of racism.</s>
+      </p>
+      <p>
+        <signed>Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

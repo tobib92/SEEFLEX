@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g04_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The following text is a comment on the film <ref target="b10gk1_1" type="title">The Hate U Give</ref> and the impact it had on me.</s>
+      </p>
+      <p>
+        <s>I <choice><orig>personly</orig><reg>personally</reg></choice> think that the film shows how racism and gangs <choice><orig>effect</orig><reg>affect</reg></choice> <choice><orig>espacially</orig><reg>especially</reg></choice> young people well.</s>
+        <s>I'm not a person that has been and most probably won't be confronted with racism towards.</s>
+        <s>So the film was a good way for me to see how it is to be confronted with it.</s>
+        <s><ref target="b10gk1_1" type="character">Starr</ref> as a main character helped me to understand the impact that racism has better because we don't have a big age gap and also have a <choice><orig>smilar</orig><reg>similar</reg></choice> teenage <choice><orig>problems</orig><reg>problem</reg></choice>.</s>
+        <s>I think it is <choice><orig>espacially</orig><reg>especially</reg></choice> touching to see the impact of <q>the hate</q> on <ref target="b10gk1_1" type="character">Sekani</ref>.</s>
+        <s>It is such a shame that it influences such young children badly.</s>
+      </p>
+      <p>
+        <s>The film did have an impact on me.</s>
+        <s>It made clear to me how big and how deap the problem of racism is.</s>
+        <s>It isn't only the people that are racist but society and <choice><orig>societys</orig><reg>society's</reg></choice> system.</s>
+        <s>You can be being racist even if you aren't intending to.</s>
+        <s>The <choice><orig>pencile</orig><reg>pencil</reg></choice> isn't skintoned it's beige.</s>
+        <s>It's scary how <q>normal</q> things can be racist because society <choice><orig>thaught</orig><reg>taught</reg></choice> us so without out us knowing.</s>
+        <s>The film made me look into <name type="misc">black lives matter</name> more and racism in general is now something I'm more alert about.</s>
+        <s>There were certain <choice><orig>scene</orig><reg>scenes</reg></choice> that weren't in the film but in the book that I thought of as important and relevant, which I thought was unfortunate.</s>
+      </p>
+      <p>
+        <s>In conclusion I would say the film <ref target="b10gk1_1" type="title">The Hate U Give</ref> is very good and eyeopening to people who aren't confronted with racism.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

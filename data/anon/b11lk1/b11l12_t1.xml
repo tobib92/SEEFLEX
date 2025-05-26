@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11l12_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The excerpt from <name type="misc">Part Two, Chapter 6</name> of the novel <ref target="b11lk1_1" type="title">The Tortilla Curtain </ref> by <ref target="b11lk1_1" type="author">T. C. Boyle</ref> and published in <date>1995</date>, deals with one of <ref target="b11lk1_1" type="character"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></ref> first visible and direct racist actions towards illegal Mexicans.</s>
+      </p>
+      <p>
+        <s>The protagonist <ref target="b11lk1_1" type="character">Delaney Mossbacher</ref> sees a Mexican at the lawn of his friends the <ref target="b11lk1_1" type="character">Cherrystones</ref>.</s>
+        <s>Since he knows that the inhabitants aren't home and because of the <choice><orig>mans</orig><reg>man's</reg></choice> ethnicity he walks up to him to confront him.</s>
+        <s><ref target="b11lk1_1" type="character">Delaney</ref> realises that he had seen him before already and recognises him as the person, who has camped in the canyon and threatened his wife <ref target="b11lk1_1" type="character">Kyra</ref>.</s>
+        <s>The Mexican tries to explain that he is working, but due to his poor <choice><orig>english</orig><reg>English</reg></choice> <ref target="b11lk1_1" type="character">Delaney</ref> doesn't understand him.</s>
+        <s>Because of all the prejudices the protagonist holds and the workers non obidient behaviour <ref target="b11lk1_1" type="character"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></ref> anger increases to the point where he becomes physically touchy.</s>
+        <s>The Mexican frees his wrist from the hold, hands <ref target="b11lk1_1" type="character">Delaney</ref> a flyer and leaves to continue his work.</s>
+        <s>The white <choice><orig>american</orig><reg>American</reg></choice> is shocked when he realises that he wrongfully judged the immigrant and sees that the flyer is about and <choice><orig>invetation</orig><reg>invitation</reg></choice> to a community meeting discussing their safety and security.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk1_1" type="character">Delaney</ref> lives together with his second wife, <ref target="b11lk1_1" type="character">Kyra</ref> and her son in the <name type="misc">Arroyo Blanco Estates</name> in <name type="geo">California</name> near the <name type="misc">Topanga Canyon</name>.</s>
+        <s>Even though the community there is predominantly racist and against illegal immigration the protagonist saw himself as a <q>liberal humanist</q> and a role model in terms of his moral <choice><orig>believes</orig><reg>beliefs</reg></choice>.</s>
+        <s>Influenced by several events like a car accident with a Mexican he is responsible for easily being manipulated and influenced by his openly racist friend <ref target="b11lk1_1" type="character">Jack Jardine</ref>, his wife feeling threatened by Mexicans and one of his <choice><orig>wifes</orig><reg>wife's</reg></choice> dogs being caught by a coyote makes him feel anxious, unsafe and <choice><orig>develope</orig><reg>develops</reg></choice> xenophobia especially towards Mexicans.</s>
+        <s>Even though he already showed signs of convert racism at the beginning of the plot and conscience and rationality usually <choice><orig>overweighted</orig><reg>overweighed</reg></choice> his fears he undergoes a big change strongly seen in his main trait of ambivalence.</s>
+        <s>Putting the excerpt in the context the <ref target="b11lk1_1" type="character">Mossbachers</ref> already have a fence around their yard because of a fear that the coyote might break in again and take their other dog too.</s>
+        <s>However the community is thinking of putting a wall around them.</s>
+        <s><ref target="b11lk1_1" type="character">Todd Sweet</ref>, another inhabitant <choice><orig>their</orig><reg>there</reg></choice> is against that campaign and reaches out to <ref target="b11lk1_1" type="character">Delaney</ref> because he is known for writing columns about the flora and fauna of the <name type="misc">Topanga Canyon</name> and asks him to help him write flyers to change the <choice><orig>communitys</orig><reg>community's</reg></choice> mind, but he never gets in touch with him.</s>
+        <s>Later on, after the excerpt the wall is built and they become a gated community, which <ref target="b11lk1_1" type="character">Delaney</ref> first dislikes but then approves.</s>
+      </p>
+      <p>
+        <s>This excerpt is one of <ref target="b11lk1_1" type="character"><choice><orig>Delaneys</orig><reg>Delaney's</reg></choice></ref> many stations of development he undergoes in the novel, but one that shows his racist thoughts and prejudices in clear action for the first time.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

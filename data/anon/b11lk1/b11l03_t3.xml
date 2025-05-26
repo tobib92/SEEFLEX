@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11l03_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>As this excerpt shows, it is very hard for white and <choice><orig>hispanic</orig><reg>Hispanic</reg></choice> people to live peacefully together in the <name type="geo">USA</name>.</s>
+        <s>This is because of racism but also because of different classes.</s>
+        <s>White people often think that Hispanic people who immigrated to <name type="geo">America</name> take their jobs away or that they have to pay higher taxes because of them.</s>
+        <s>Which is ironic because immigrants are important for their economy and many Americans were actually immigrants themselves because their ancestors also immigrated to <name type="geo">America</name> <add>e.g. Puritans</add>.</s>
+        <s>They probably also connect immigrants immediately with Hispanics which is a mistake because Hispanics are not automatically immigrants.</s>
+        <s>The rich people also exclude minorities or poor people by building gates or walls so that they do not even have the chance to live peacefully together because there is no <q>living together</q>.</s>
+        <s><choice><orig>Trumps</orig><reg>Trump's</reg></choice> idea with the wall also caused more hate against Hispanic people because the wall was supposed to keep out the <add>mainly</add> <choice><orig>hispanic</orig><reg>Hispanic</reg></choice> immigrants.</s>
+        <s><name type="geo">America</name> is in general divided by the two parties, the democrats and the republicans.</s>
+        <s>Some try to help immigrants and overcome their prejudice and the other ones are lead by fear and their prejudice and the other ones are led by fear and their prejudice like for example <name type="person">Jack</name>.</s>
+        <s>The cultural differences do not really help to solve the problem.</s>
+        <s>To create a peaceful living situation in <name type="geo">California</name> the government should not allow gates and also create <choice><orig>programms</orig><reg>programs</reg></choice> where Americans and Hispanics can get together and talk with each other, so that they can understand that their prejudice are not <choice><orig>neccesary</orig><reg>necessary</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

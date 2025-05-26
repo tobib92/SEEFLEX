@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a10g46_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following <choice><orig>analyse</orig><reg>analysis</reg></choice> I will analyse the <choice><orig>authors</orig><reg>author's</reg></choice> intention by focusing on the use of <choice><orig>stalistic</orig><reg>stylistic</reg></choice> devices.</s>
+        <s>In the first paragraph the author uses negative <choice><orig>conotated</orig><reg>connotated</reg></choice> words like <quote>harmful pollutants</quote>, <quote>contaminate</quote> and <quote>hazardous</quote> to make the reader aware of the situation and the effects of our acts.</s>
+        <s>She uses this as an introduction to underline the bad situation because this stays in the <choice><orig>readers</orig><reg>reader's</reg></choice> mind if <choice><orig>its</orig><reg>it's</reg></choice> said so directly.</s>
+      </p>
+      <p>
+        <s>In line five she wants express how simple our earth is made <quote>(air and water are two basic elements that sustain life)</quote>, so the reader understands the basic elements without there wouldn't be any people, animals or plants <ref target="a10gk5_1" type="line">(l. 6)</ref>.</s>
+        <s>With that paragraph the author wants to make the readers see the beauty in earth and how it <choice><orig>have</orig><reg>has</reg></choice> <quote>flourished</quote> <ref target="a10gk5_1" type="line">(l. 8)</ref> before she argues about the causes and effects of pollution.</s>
+      </p>
+      <p>
+        <s>In line twelve <quote>... that man first began losing control and became victim of his own creations</quote> she says, that all the <choice><orig>anchievements</orig><reg>achievements</reg></choice> of humans get back as problems.</s>
+        <s>By using the word <quote>victim</quote> she accuses human for the pollution.</s>
+        <s>She wants to make the reader think about the problem and try to find solutions.</s>
+        <s>This she confirms with <quote>at the cost of our health</quote> in line 15.</s>
+        <s>The author makes the readers feel accused by building an emotional <q>bond</q> to the reader.</s>
+        <s>In line 18 she uses a <choice><orig>methaphor</orig><reg>metaphor</reg></choice> <quote>the blind alleys of adversity</quote>.</s>
+        <s>She wants to make the reader aware of the problem and that there will be no other planet if we don't change something and find a solution.</s>
+      </p>
+      <p>
+        <s>With the example of the tragedy <ref target="a10gk5_1" type="line">(l. 28-32)</ref> and the <choice><orig>thougt</orig><reg>thought</reg></choice> of experts <ref target="a10gk5_1" type="line">(l. 33-36)</ref> she wants to make people think of solutions.</s>
+        <s>With the facts of the tragedy she wants to show how bad it can get.</s>
+        <s>By adding the <q>worried experts</q> she has a proof so the readers take the environmental pollution more serious and think about changing things.</s>
+      </p>
+      <p>
+        <s>All in all the author uses a lot of <choice><orig>negativ</orig><reg>negative</reg></choice> <choice><orig>conotative</orig><reg>connotative</reg></choice> words so that the reader takes everything more serious and understands the bad situation.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a11g35_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211208</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="investigation report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>to: <email>will@gmail.com</email>
+		from: <email>zoi@gmx.de</email>
+		<s>RE: problem of racism in the USA</s></p>
+    </head>
+    <body>
+      <p>
+        <salute>Dear Will,</salute>
+      </p>
+      <p>
+        <s>I've read an article on racism in the <name type="geo">US</name> here in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>The article is published by the well-known newspaper <name type="misc">Zeit</name> on <date>25th August 2014</date> and written by <ref target="a11gk3_2" type="author">Alexandra Endres</ref>.</s>
+      </p>
+      <p>
+        <s>After reading <choice><abbr>THUG</abbr><expan>The Hate U Give</expan></choice> in English class I was wondering <choice><orig>wether</orig><reg>whether</reg></choice> racism is really a topical problem in the <name type="geo">USA</name> or in what extent everyone is experiencing it in the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>The author begins with talking about <name type="person">Michael Brown</name> and that he was shot two <choice><orig>week</orig><reg>weeks</reg></choice> ago in <name type="geo">Ferguson</name> by a police officer.</s>
+      </p>
+      <p>
+        <s>She says that this is an example on segregation in the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s><name type="person">Endres</name> has the opinion, that the prejudice to <choice><orig>afro-americans</orig><reg>Afro-Americans</reg></choice> is happening, because black citizens are way often stopped and controlled by the police.</s>
+      </p>
+      <p>
+        <s>Today, she says, white people have it way better than <choice><orig>afro-americans</orig><reg>Afro-Americans</reg></choice> although discrimination is forbidden since the <name type="misc">Civil Rights Act</name> 50 years ago.</s>
+      </p>
+      <p>
+        <s>Another reason to this is, she tells, that in comparison to whites black people don't get a school diploma that often.</s>
+      </p>
+      <p>
+        <s>And even if they finish school and their education they continue to study or go to college lesser than white people.</s>
+      </p>
+      <p>
+        <s>Statistics show, called out by <name type="person">Endres</name>, in average <choice><orig>afro-americans</orig><reg>Afro-Americans</reg></choice> people won't get a better diploma than white people in the <name type="geo">US</name>.</s>
+      </p>
+      <p>
+        <s>And the last thing she mentions is that even if black people get a good diploma there is a lack of opportunities and they are often jobless.</s>
+      </p>
+      <p>
+        <s><name type="person">Endres</name> supports this by saying, that a quarter of black people in the <name type="geo">USA</name> are poor.</s>
+      </p>
+      <p>
+        <s>After giving you this information I wanted to ask you about your opinion on how the problem is perceived here in <choice><orig>europe</orig><reg>Europe</reg></choice>.</s>
+      </p>
+      <p>
+        <s>If you have any questions don't hesitate to call me.</s>
+      </p>
+      <p>
+        <signed>Best regards, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

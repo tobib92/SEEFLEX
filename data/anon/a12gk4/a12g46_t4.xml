@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g46_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear <name type="person">Michael</name>,</salute>
+      </p>
+      <p>
+        <s>How are you?</s>
+        <s>How is your family doing?</s>
+        <s>I did some research and came across an interesting article by the <name type="misc">Hannoversche Allgemeine Zeitung</name> which was published on <date>15 July 2016</date> written by the author <ref target="a12gk4_2" type="author">Marina Kormbaki</ref> and called <ref target="a12gk4_2" type="title">Berlin spricht Englisch</ref> and could be an interesting article for you to decide if you want to come to <name type="geo">Berlin</name>.</s>
+      </p>
+      <p>
+        <s><name type="geo">Berlin</name> gets more and more international as other global cities like <name type="geo">London</name>, because more people come from abroad.</s>
+        <s>Most of them are tourists, but there are students too.</s>
+        <s><name type="person">Berlin</name> is a <choice><orig>multiculturialized</orig><reg>multicultural</reg></choice> city so <choice><orig>its</orig><reg>it's</reg></choice> <choice><orig>definetly</orig><reg>definitely</reg></choice> possible, that in some regions of <name type="geo">Berlin</name> you don't hear any <choice><orig>german</orig><reg>German</reg></choice> for example in <name type="geo">Kreuzberg</name> or <name type="geo">Neukölln</name>.</s>
+        <s>When <choice><orig>your</orig><reg>you're</reg></choice> in <name type="geo">Berlin</name> like in the <name type="geo">Neuköllner Wasserstrupenkiez</name> you have to speak <choice><orig>english</orig><reg>English</reg></choice> because this <choice><orig>quartier</orig><reg>quarter</reg></choice> is so <choice><orig>multiculturialized</orig><reg>multicultural</reg></choice>, which would be optimal for you.</s>
+        <s>A guy named <name type="person">David</name> says that you can't compare <name type="geo">Germany</name> with <name type="geo">Berlin</name>, because they are totally different.</s>
+        <s>The café in which he sits could be all around the <choice><orig>World</orig><reg>world</reg></choice> and next to the <choice><orig>cafe</orig><reg>café</reg></choice> is also vintage English <choice><orig>Bookstore</orig><reg>bookstore</reg></choice>.</s>
+        <s>Because of <choice><orig>those</orig><reg>the</reg></choice> immense prices in <name type="geo">Dublin</name> she startet her <choice><orig>Shop</orig><reg>shop</reg></choice> in <name type="geo">Neukölln</name>, because it is <choice><orig>multiculturialized</orig><reg>multicultural</reg></choice> and perfect for you and young people.</s>
+        <s>Hope <choice><orig>i</orig><reg>I</reg></choice> hear from you soon.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c11g10_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211222</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><quote>Brexit is clearly a lose-lose situation for both</quote>, that is what <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> was saying in his speech at the <name type="misc">European American Chamber of Commerce</name>.</s>
+        <s>But, is he right?</s>
+      </p>
+      <p>
+        <s>In the following I will comment on this assumption.</s>
+      </p>
+      <p>
+        <s>In my point of view he is absolutely right!</s>
+      </p>
+      <p>
+        <s>The <name type="geo">UK</name> <choice><orig>officielly</orig><reg>officially</reg></choice> left the trading bloc - its nearest and biggest trading partner - on <date>31 January 2020</date>.</s>
+      </p>
+      <p>
+        <s>It was a complex and sometimes bitter negotiation but finally they agreed a deal on <date>24 December</date> for rules how the <name type="geo">UK</name> and the <name type="misc">EU</name> will live, work and trade together.</s>
+        <s>Nevertheless, the open market system is the best trading system in the world.</s>
+        <s>Subsequently, we can say the <name type="geo">UK</name> lost trading partners and lots of profit.</s>
+      </p>
+      <p>
+        <s>So, as <ref target="c11gk2_1" type="speaker">Michel Barnier</ref> said, there is definitely a lose.</s>
+      </p>
+      <p>
+        <s>Some parts of the <name type="geo">UK</name>, for example <name type="geo">Northern Ireland</name>, have to continue to follow many rules in order to avoid a hardening of its border with <name type="geo">Republic of Ireland</name>.</s>
+        <s>That is a lost too.</s>
+      </p>
+      <p>
+        <s>To sum up, they lost and will <choice><orig>loose</orig><reg>lose</reg></choice> profit in aim to be free.</s>
+      </p>
+      <p>
+        <s>In worst case they will end like <name type="geo">Northern Ireland</name>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

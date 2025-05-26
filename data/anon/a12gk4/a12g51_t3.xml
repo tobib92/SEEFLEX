@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g51_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a12gk4_1" type="title">Language learning in the UK: 'can't, won't, don't</ref> that was written by <ref target="a12gk4_1" type="author">John Worne</ref> and published on  <name type="misc">The Telegraph</name> on <date>27th of January 2015</date> <ref target="a12gk4_1" type="author">Worne</ref> stated <quote>Language learning is vital for the <name type="geo">UK's</name> future prosperity and global standing</quote> <ref target="a12gk4_1" type="line">(l. 16)</ref>.</s>
+        <s>In the following I will be explaining, based on reasons and arguments, why <ref target="a12gk4_1" type="author">Worne</ref> is correct with this statement.</s>
+      </p>
+      <p>
+        <s>Language learning is something that provides knowledge in form of a native or foreign language to whomever.</s>
+        <s>And this does not only help one person and person only, but the whole society.</s>
+        <s>As <ref target="a12gk4_1" type="author">Worne</ref> already mentioned in his article, someone with the knowledge over Chinese is far more interesting for an employee than someone without and this goes for every language.</s>
+        <s>With better employees comes better results, with that more money and with that more prosperity.</s>
+      </p>
+      <p>
+        <s>But language learning does not only help with jobs and the economy, but also with the global standing.</s>
+        <s>By having more educated teachers that teach <choice><orig>languges</orig><reg>languages</reg></choice>, the quality of universities improves.</s>
+        <s>Furthermore, the <choice><orig>generall</orig><reg>general</reg></choice> language understanding and diversity makes it a lot easier and more appealing for people overseas to travel and more to the <name type="geo">UK</name>.</s>
+        <s>The factor of appeal and comfort is also increased, when speaking foreign languages isn't considered as bad and weird anymore.</s>
+        <s>By improving language learning in the <name type="geo">UK</name> as <ref target="a12gk4_1" type="author">Worne</ref> mentioned universities and priamry schools do, this becomes less of an isuse and speaking other languages becomes normal.</s>
+        <s>With that the <name type="geo">UK</name> would have a better status what would result in an increase of cultural exchange, which would also lead to a better global standing.</s>
+        <s>The only difficulty would be changing the mindset of the people and the money, but these are things that can be dealt with over time and with small steps along the way.</s>
+      </p>
+      <p>
+        <s>All in all language learning would help the <name type="geo">UK</name> in many aspects, especially the future prosperity and global status and the only difficulties are the <choice><orig>peoples</orig><reg>people's</reg></choice> mindsets and views and the money, but compared to the positive aspects it's not a large deal.</s>
+        <s>So <ref target="a12gk4_1" type="author">Worne</ref> was right with his statement.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

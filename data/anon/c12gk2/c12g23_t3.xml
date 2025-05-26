@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g23_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The statement <quote><s><name type="person">Shakespeare</name> never grows old.</s><s>He continues to inspire each new generation</s></quote> written by <name type="misc">Norman J. Lund</name> can become encouragement or no encouragement.</s>
+      </p>
+      <p>
+        <s>Studying <name type="person">Shakespeare</name> in school is on the one hand positive because children learn about the language and history in the past and they <q>meet</q> a <q>hero</q> from the past like <name type="misc">Justin Bieber</name> is it today.</s>
+        <s>Maybe there are students who are really interested in the <date>16th century</date> and want to know how the author was thinking while writing for example <name type="misc">Macbeth</name> or <name type="misc">Romeo and Juliet</name>.</s>
+        <s>But on the other hand is <name type="person">Shakespeare</name> really old, the <choice><orig>languge</orig><reg>language</reg></choice> is difficult to understand and often his meanings behind his sentences are a lot harder to understand.</s>
+        <s><choice><orig>This</orig><reg>These</reg></choice> troubles could make it for a lot of children uninteresting because it takes some time and patience to understand <name type="person">Shakespeare</name> and his thoughts.</s>
+      </p>
+      <p>
+        <s>For the audience it could be interesting because of learning about the old times, the language and their feelings.</s>
+      </p>
+      <p>
+        <s>It could be interesting to spend time to understand <name type="person">Shakespeare</name> and see the difference to <choice><orig>todays</orig><reg>today's</reg></choice> dramas.</s>
+        <s>But otherwise the time changed and with that the books, the language and the interests from the audience too.</s>
+        <s>In the past <name type="person">Shakespeare</name> was modern and today other books and authors are modern.</s>
+        <s>There are different interests.</s>
+      </p>
+      <p>
+        <s>It is similar for me as a student.</s>
+        <s>I like to learn about the past and how human thought in these times how they stress out by writing their feelings and thoughts but is a text too difficult to understand I am losing interest faster.</s>
+      </p>
+      <p>
+        <s><name type="person">Shakespeare</name> will always be part our and <choice><orig>espacially</orig><reg>especially</reg></choice> <choice><orig>britains</orig><reg>Britain's</reg></choice> history.</s>
+      </p>
+      <p>
+        <s>I think it is part of general knowing that <name type="person">Shakespeare</name> was a <choice><orig>legenday</orig><reg>legendary</reg></choice> author until today but I think also that it is okay to have other interests today because time changed and new things came.</s>
+      </p>
+      <p>
+        <s>Maybe he is for some human in each generation an inspiration but maybe for some others not and that is pretty okay.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

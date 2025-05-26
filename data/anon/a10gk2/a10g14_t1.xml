@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g14_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref> is written by <ref target="a10gk2_1" type="author">Brian Pollard</ref>.</s>
+        <s>The article was published in <name type="misc">The Gulf News</name> on <date>24 November 2011</date> and presents <ref target="a10gk2_1" type="author"><choice><orig>Brians</orig><reg>Brian's</reg></choice></ref> opinion on the question if unions are still necessary or if they are even harmful.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk2_1" type="author">Brian</ref> begins the article with explaining why unions <choice><orig>has</orig><reg>have</reg></choice> been a good thing.</s>
+      </p>
+      <p>
+        <s>So he says that they had improved workind conditions of employees.</s>
+      </p>
+      <p>
+        <s>But <choice><orig>now days</orig><reg>nowadays</reg></choice> things like working conditions, work time and good wages are already regulated by laws.</s>
+        <s>He even says that products by union workers got so expensive that they cannot compete against cheaper products.</s>
+        <s>His last argument why unions are harmful, is that through the unions employees got more powerful than employers.</s>
+        <s>In his opinion is this bad for a working environment.</s>
+      </p>
+      <p>
+        <s>All in all it seems like <ref target="a10gk2_1" type="author">Brian</ref> is against unions because of the development in the past.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

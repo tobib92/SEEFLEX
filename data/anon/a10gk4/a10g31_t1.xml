@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g31_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The <name type="misc">Blog on Environment</name>, written by <ref target="a10gk4_1" type="author">Ankita Mitra</ref> and published on <date>February 5 2014</date>, demonstrates the danger of environmental pollution to our world.</s>
+      </p>
+      <p>
+        <s>The author underlines how <choice><orig>exordinary</orig><reg>extraordinary</reg></choice> and sensible our planet is and mentions the balance between <choice><orig>humans</orig><reg>humans'</reg></choice> life and the biosphere.</s>
+        <s>She then <choice><orig>discribes</orig><reg>describes</reg></choice> the growth of humanity, due to increasing industrialization and the loss of control.</s>
+        <s>The effects of environmental pollution, are underlined with examples and <ref target="a10gk4_1" type="author">Ankita Mitra</ref> questions if the technical progress is good.</s>
+        <s>She then mentions the protest against environmental pollution and underlines the <choice><orig>oppinion</orig><reg>opinion</reg></choice> of the protesters, with the argument, that there is a connection between environmental pollution and mass extinction.</s>
+      </p>
+      <p>
+        <s><ref target="a10gk4_1" type="author">Ankita Mitra</ref> then gives <choice><orig>a</orig><reg>an</reg></choice> example of <choice><orig>a</orig><reg>an</reg></choice> industrial environment tragedy occured in <name type="geo">India</name>.</s>
+        <s>In a final statement she shows what could happen to our world if the ecological balance is not restored.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g23_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hello friend!</salute>
+      </p>
+      <p>
+        <s>I would love you to visit <name type="geo">Berlin</name> as the city to stay, because here you can learn much about <choice><orig>german</orig><reg>German</reg></choice> culture and language.</s>
+        <s>You also have the feeling of being home, because the people here in <name type="geo">Berlin</name> are kind of <choice><orig>english</orig><reg>English</reg></choice> too.</s>
+      </p>
+      <p>
+        <s>The main reason is the migration of <choice><orig>english</orig><reg>English</reg></choice>, <choice><orig>american</orig><reg>American</reg></choice> and <choice><orig>australian</orig><reg>Australian</reg></choice> people in <name type="geo">Berlin</name>.</s>
+        <s>So your language is well integrated in our language and language knowledge.</s>
+        <s><choice><orig>it</orig><reg>It</reg></choice> is even possible that you do not even hear a <choice><orig>german</orig><reg>German</reg></choice> word in the streets.</s>
+        <s>Because of globalization your language is spread all over the world and reached <name type="geo">Berlin</name>, as the capital of <name type="geo">Germany</name>, the most.</s>
+        <s>It is not only the <choice><orig>english</orig><reg>English</reg></choice> language and culture that reached us.</s>
+        <s>Also other languages like <choice><orig>arabic</orig><reg>Arabic</reg></choice> or <choice><orig>turkish</orig><reg>Turkish</reg></choice> are spoken in <name type="geo">Berlin</name>.</s>
+        <s><name type="geo">Berlin</name> is a kind of a <quote>world city</quote>.</s>
+        <s>It is not only the language <name type="geo">Berlin</name> has here it is the lifestyle and culture of many countries and regions.</s>
+        <s>Food, clothes and looks are <choice><orig>indiviual</orig><reg>individual</reg></choice> and different.</s>
+        <s>nightlife, art and culture is shown as a beautiful colorful lifestyle.</s>
+        <s>You can visit clubs, cafés and restaurants and it will never be boring or one-sided.</s>
+      </p>
+      <p>
+        <s>I would be happy to see you here and please think about visiting me.</s>
+      </p>
+      <p>
+        <signed>Have a nice day!</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

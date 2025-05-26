@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g09_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In order to present his critical view on the issue of language learning in the <name type="geo">UK</name> the author makes use of both stylistic devices and persuasive techniques, as well as a clear structure and numerous examples.</s>
+      </p>
+      <p>
+        <s>The article was published in <name type="misc">The Telegraph</name>, which is a popular paper.</s>
+        <s>Popular papers tend to mix facts with the own opinion of the author.</s>
+        <s>They use a more colloquial or informal language and tend to have not such a complex syntax.</s>
+      </p>
+      <p>
+        <s>If you take a look at the headline, you can see the three words <quote>can't, won't, don't</quote> which are directly repeated and enumerated in <ref target="a12gk1_1">line 1</ref>.</s>
+        <s>These three words are giving the answer to the <name type="geo">UK's</name> <quote>national view on speakin foreign languages</quote> <ref target="a12gk1_1">(ll. 1)</ref> in a negative way.</s>
+        <s>By the use of the pronoun <quote>our</quote> in <ref target="a12gk1_1">ll. 1</ref> the author wants to make everyone in the <name type="geo">UK</name> feel involved and part of the current issue.</s>
+        <s>To tighten up on the fact that they are all involved he says in <ref target="a12gk1_1">ll. 5</ref> that they have to <quote>re-commissioning our collective brains</quote>.</s>
+        <s>In view of the issue he emphasites the fact that <quote>for the past seven years, the number of <name type="geo">UK</name> students choosing to study foreign language at university level has been in steady decline</quote> <ref target="a12gk1_1">(ll. 3)</ref> and even claims that <quote>more than 10.000 fewer language <name type="misc">A-Level</name> exams were taken last year than at the end of the <date>1990s</date>, ...</quote> <ref target="a12gk1_1">(ll. 9)</ref>.</s>
+        <s>With this claim he wants to rely on his credibility and wants to underline how real the issue has become.</s>
+        <s>He mentions the progressive things, such as the languages in more primary schools, but also stresses out that there is a <quote>long haul ahead</quote> <ref target="a12gk1_1">(l. 7)</ref> to fix this problem.</s>
+        <s>With his irony in <ref target="a12gk1_1">(l. 12, l. 15)</ref> <quote>Perfectly intelligent people... Cobblers</quote> <ref target="a12gk1_1" type="author">Worne</ref> exerts indirect criticism.</s>
+        <s>Because he thinks in contrast to the <quote>perfectly intelligent people</quote> that in a world of business not everyone can speak English.</s>
+        <s>He uses words like <quote>Cobblers</quote> <ref target="a12gk1_1">(l. 15)</ref>, and short forms like in <ref target="a12gk1_1">l. 1, l. 13, l. 35...</ref> to involve every reader.</s>
+        <s>It is informal, but more common, which brings a big readership.</s>
+        <s>By saying things like <quote>more should</quote> <ref target="a12gk1_1">(l. 26)</ref> or making use of adjectives with his opinion connected like <quote>sadly</quote> <ref target="a12gk1_1">(l. 4)</ref> he emphasizes his point of view on the issue and gives at the end the solution.</s>
+        <s>By appealing to the parents of the <name type="geo">UK</name> and underlining the fact that he is also one, he wants to fix the issue.</s>
+        <s>They should be the <quote>essential strings to our children's bows</quote> <ref target="a12gk1_1">(l. 34)</ref>.</s>
+        <s>the text is arranged as an pyramid, so that the solutions stays in mind from the reader and that they (hopefully) spread awareness to the issue at home.</s>
+      </p>
+      <p>
+        <s>All in all one can say that the author tries to spread awareness to the problem and tries to convince the reader that the issue is real.</s>
+        <s>With short forms and colloquial language, as well as direct <choice><orig>adress</orig><reg>address</reg></choice> he wants to create a community, so that everybody feels involved and everybody feels as a part of the problem and importantly as part of the solution.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

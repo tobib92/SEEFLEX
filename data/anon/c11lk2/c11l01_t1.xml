@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c11l01_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The extract from Act I of the play <ref target="c11lk2_1" type="title">Clybourne Park</ref>, written by <ref target="c11lk2_1" type="author">Bruce Norris</ref> and published in <date>2011</date>, is about a heated discussion between <ref target="c11lk2_1" type="character">Karl</ref> and <ref target="c11lk2_1" type="character">Russ</ref> about several reasons why the black family should move into the house of <ref target="c11lk2_1" type="character">Russ</ref> and <ref target="c11lk2_1" type="character">Bev</ref> and why not.</s>
+      </p>
+      <p>
+        <s><ref target="c11lk2_1" type="character">Russ's</ref> opinion about the <name type="misc">Clybourne Park</name> community seems to be divided.</s>
+        <s>He claims that every time he and his wife are going grocery shopping or for a haircut, they are watched suspiciously from other community members for no reason <ref target="c11lk2_1" type="line">(cf. ll. 101-111)</ref>.</s>
+        <s>Additionally the community did not even support or prevented his son from going to the Korean war <ref target="c11lk2_1" type="line">(cf. ll. 119-137)</ref>.</s>
+      </p>
+      <p>
+        <s>When <ref target="c11lk2_1" type="character">Karl</ref> exits through the open door again, he wants to go on with the discussion.</s>
+        <s>He seems to found a new argument he <choice><orig>persistents</orig><reg>persists</reg></choice> on <ref target="c11lk2_1" type="line">(cf. ll. 70-77)</ref>.</s>
+        <s>Furthermore he claims that he has the responsibility for the community and wants to defend their opinions <ref target="c11lk2_1" type="line">(cf. ll. 98-90)</ref>.</s>
+        <s>He probably wants to provoke <ref target="c11lk2_1" type="character">Russ</ref> as well and <choice><orig>consist</orig><reg>consists</reg></choice> on his arguments.</s>
+        <s><ref target="c11lk2_1" type="character">Russ</ref> however reacts aggressively, just wants <ref target="c11lk2_1" type="character">Karl</ref> to leave the house, because his opinion does not matter for <ref target="c11lk2_1" type="character">Russ</ref>.</s>
+        <s>He tries to calm down and ends up talking about the way the community treats his family <ref target="c11lk2_1" type="line">(cf. ll. 101ff.)</ref>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

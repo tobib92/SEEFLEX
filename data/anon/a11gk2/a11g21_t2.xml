@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11g21_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following it will be analysed how <ref target="a11gk2_1" type="speaker">Barack Obama</ref> tries to convince his audience that dreams are worth fighting for.</s>
+        <s>A <choice><orig>comparasion</orig><reg>comparison</reg></choice> is in line 2f. <quote>But the truth is, we share more than the banks of a great river</quote> and has the effect to write the people.</s>
+      </p>
+      <p>
+        <s>A contrast is in l. 9 <quote>big cities and small towns</quote> has the effect uniting <name type="geo">America</name> and his people by saying that <choice><orig>whit</orig><reg>with</reg></choice> all <choice><orig>this</orig><reg>these</reg></choice> <choice><orig>difference</orig><reg>differences</reg></choice> all people are <choice><orig>equall</orig><reg>equal</reg></choice>.</s>
+        <s>In line 9 are three more contrasts <quote>men and women</quote>, <quote>young and old</quote> and <quote>black, white and brown</quote> all of them having the same effect on unite the people.</s>
+        <s>An <choice><orig>Anaphor</orig><reg>anaphora</reg></choice> is in line 19f. <quote>... there are no barriers to success - no matter what color you are, no matter where you're from, no matter how much money you earn</quote> and the effect of the <choice><orig>Anaphor</orig><reg>anaphora</reg></choice> is <gap reason="illegible" quantity="1" unit="word">EDIT</gap> all people in <name type="geo">America</name> have the same opportunities to become rich or having a good <choice><orig>live</orig><reg>life</reg></choice> <choice><orig>whit</orig><reg>with</reg></choice> a good job.</s>
+        <s>A <choice><orig>Metaphor</orig><reg>metaphor</reg></choice> is in line 24f. <quote>In a forgotten corner of America, the American dream was slipping away</quote> and has the effect that everybody who <choice><orig>are</orig><reg>is</reg></choice> listing <choice><orig>have</orig><reg>has</reg></choice> to think about the future of <name type="geo">America</name> and their own because when the American <choice><orig>dream</orig><reg>Dream</reg></choice> doesn't exist they have no more the same opportunities.</s>
+      </p>
+      <p>
+        <s>All in all he convinces the audience <choice><orig>whit</orig><reg>with</reg></choice> clever chosen rhetorical <choice><orig>divices</orig><reg>devices</reg></choice> which would bring to fight for my dreams.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

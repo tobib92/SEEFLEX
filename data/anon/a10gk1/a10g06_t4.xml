@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g06_t4</author>
+        <name>magazine</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">magazine</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>My article is based on the <choice><orig>german</orig><reg>German</reg></choice> interview <ref target="a10gk1_2" type="title">Fast Fashion: Unser Kleiderkonsum ist Wahnsinn</ref> which is about buying clothes and the story behind the clothes that we buy.</s>
+      </p>
+      <p>
+        <s>In the interview it is mentioned that one of the worst situations that he ever came across to the textile sector was the water source <name type="misc">Buriganga</name> in <name type="geo">Bangladesh</name> which is completely black and full with plastic because there are a lot of fabrics in the area and all of the trash, plastic that comes out of the fabrics flow straight into the water.</s>
+        <s>It is also mentioned that the workers that work in the textile fabrics of <name type="geo">Bangladesh</name> work for 10-12 hours a day which is a lot.</s>
+      </p>
+      <p>
+        <s>The people in <name type="geo">China</name> for example are happy and proud when they are able to produce 300 <choice><orig>Boxershorts</orig><reg>boxers</reg></choice> per hour which is quite tragic because it means that they barely get any time to rest.</s>
+      </p>
+      <p>
+        <s>In the interview it is mentioned that protesting isn't a solution since that would make the people lose their jobs and income.</s>
+        <s>Instead we should try to help them by trying to make their work conditions better.</s>
+      </p>
+      <p>
+        <s>Lastly the politics have to change and start put more pressure on companies.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

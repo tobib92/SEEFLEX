@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g05_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The newspaper article <ref target="a12gk1_1" type="title">Language learning in the <name type="geo">UK</name>: can't, won't, don't</ref> was written by <ref target="a12gk1_1" type="author">John Worne</ref> and published in the <name type="misc">Telegraph</name> on the <date>27. January 2015</date></s>
+      </p>
+      <p>
+        <s><ref target="a12gk1_1" type="author">John Worne</ref> says that less students are willing to study foreign languages.</s>
+      </p>
+      <p>
+        <s>Furthermore less <name type="misc">A-level</name> exams were taken than in the <date>1990s</date>.</s>
+        <s>He mentions that the langauge learning is an <choice><orig>essantial</orig><reg>essential</reg></choice> for the future of the <name type="geo">UK</name> and their global standing.</s>
+      </p>
+      <p>
+        <s>Moreover <ref target="a12gk1_1" type="author">Worne</ref> says that two-thirds of the <name type="geo">UK</name> businesses need workers with foreign language skills.</s>
+        <s>And because more firms want to get into the fast growing markets he expects that they will need even more.</s>
+      </p>
+      <p>
+        <s>But a few forward-thinking universities are offering to study a language alongside another degree subject.</s>
+      </p>
+      <p>
+        <s>Besides a worker with foreign language skills is more in demand as a person without this skill.</s>
+      </p>
+      <p>
+        <s>At the end of the article he speaks out to the parents because in his opinion the education system can't fix this <choice><orig>allone</orig><reg>alone</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

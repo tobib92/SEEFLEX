@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12l25_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211004</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="comparative report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Phil,</salute>
+      </p>
+      <p>
+        <s>I heard that you are working on an essay about <name type="person">Shakespeare's</name> global appeal.</s>
+        <s>As I heard your question about whether <name type="person">Shakespeare</name> is still played in German theatres found an interesting and helpful article in the <name type="person"><choice><abbr>MAZ</abbr><expan>Märkische Allgemeine Zeitung</expan></choice></name>, about why the directors in <name type="geo">Brandenburg</name> still play <name type="person">Shakespeare</name> in their theatres.</s>
+      </p>
+      <p>
+        <s><name type="person">Mario Holetzecz</name> says that <name type="person">Shakespeare</name> is confronting the audience <choice><orig>everytime</orig><reg>every time</reg></choice> again with new surprises to confront the past with the present.</s>
+        <s><name type="person">Tobias Wellemeyer</name> shows the fact that <name type="person">Shakespeare</name> shapes the world of theatre and is because of that nowadays public as in the past.</s>
+        <s>By his descriptions of love <choice><orig>an</orig><reg>and</reg></choice> all the other emotions the audience <choice><orig>be</orig><reg>is</reg></choice> engrossed in the action that you cannot imagine.</s>
+        <s><name type="person">Reinhard Simon</name><choice><orig>tell</orig><reg>tells</reg></choice> us in his article that <name type="person">Shakespeare's</name> plays are not just written for a special age of people, <name type="person">Shakespeare</name> tries to <choice><orig>adress</orig><reg>address</reg></choice> every person who listens to his theatre.</s>
+      </p>
+      <p>
+        <s><name type="person">Igor Holland-Moritz</name> says that 38 plays and 154 sonnets are existing today from <name type="person">Shakespeare</name>.</s>
+        <s>His works are translated in more than 100 languages and he says that every time has <choice><orig>it's</orig><reg>its</reg></choice> own language.</s>
+        <s><name type="person">Shakespeare's</name> plays are exciting and disprove the youth from today.</s>
+      </p>
+      <p>
+        <s>I hope that I could help you with my searchings about <name type="person">Shakespeare's</name> theatres in <name type="geo">Germany</name>.</s>
+        <s>It would be nice if you could inform me when you get your essay back and tell me your note.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

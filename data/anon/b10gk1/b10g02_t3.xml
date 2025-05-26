@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g02_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>When asked, what impact the story of <ref target="b10gk1_1" type="title">The Hate U Give</ref> had on me and my life, I can tell that on my perspective the film has shown realistic parts of a teenage life and their <choice><orig>challanges</orig><reg>challenges</reg></choice>.</s>
+        <s>It has shown what feelings about the society and pressure from people around you means, also individually that not anyone has the same opportunities and chances in life.</s>
+        <s>Besides that, very important theme of the story was racism.</s>
+      </p>
+      <p>
+        <s>For me it really opened my eyes especially about <q>indirect</q> racism.</s>
+        <s>That people do not have to speak for example directly racist with a black person to be racist and that small details in reaction can cause big insecurities and society problems.</s>
+      </p>
+      <p>
+        <s>All in all, I really liked the story of <ref target="b10gk1_1" type="title">The Hate U Give</ref>, because I think it can open many <choice><orig>peoples</orig><reg>people's</reg></choice> eyes about serious tpoics in society and also is a very exciting story.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

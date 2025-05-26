@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a12g32_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk3_2" type="title">Berlin spricht Englisch</ref>, written by <ref target="a12gk3_2" type="author">Marina Kormbaki</ref> and published on <date>15.July 2016</date> in <name type="misc">Hannoversche Allgemeine Zeitung</name>, is about culture exchange and a part of globalisation in one of the biggest <choice><orig>citys</orig><reg>cities</reg></choice> in the world, <name type="geo">Berlin</name>.</s>
+        <s><choice><orig>Its</orig><reg>It's</reg></choice> about <name type="geo">Berlin</name> becomes more and more international and because of this <name type="geo">Berlin</name> becomes more <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>And this my friend is one of the important's reasons why <name type="geo">Berlin</name> is forinternational and English speaking people maybe the most intersting city in <name type="geo">Germany</name>.</s>
+        <s>There live many people with a international <choice><orig>backround</orig><reg>background</reg></choice> and many <choice><orig>culture's</orig><reg>cultures</reg></choice> together for a long time ago and they <choice><orig>comunicate</orig><reg>communicate</reg></choice> in English.</s>
+        <s>Moreover <name type="geo">Berlin</name> is a bubble in <name type="geo">Germany</name> it's not like the rest of the country, <choice><orig>its</orig><reg>it's</reg></choice> more multi-cultured, more international and very open minded.</s>
+        <s>But <name type="geo">Berlin</name> is also more alternative, there more drugs and <choice><orig>victimes</orig><reg>victims</reg></choice> than in other big German <choice><orig>city's</orig><reg>cities</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Berlin becomes more and more a international metropol than a <choice><orig>german</orig><reg>German</reg></choice> city.</s>
+        <s>But a argument for you to go to Berlin is that <choice><orig>its</orig><reg>it's</reg></choice> very expensive to <choice><orig>life</orig><reg>live</reg></choice> there but not in <choice><orig>comparasion</orig><reg>comparison</reg></choice> to <name type="geo">London</name>, <name type="geo">New York</name> or <name type="geo">Hongkong</name>.</s>
+        <s>That means you can <choice><orig>life</orig><reg>live</reg></choice> in a world city for less price than in others.</s>
+      </p>
+      <p>
+        <s>Besides Belrin has <choice><orig>mutch</orig><reg>much</reg></choice> art, culture and nightlife <choice><orig>which</orig><reg>witch</reg></choice> could be <choice><orig>interresting</orig><reg>interesting</reg></choice> for a young <choice><orig>Guy</orig><reg>guy</reg></choice> like you are.</s>
+      </p>
+      <p>
+        <s>So if you <choice><orig>wan't</orig><reg>want</reg></choice> a international metropole with <choice><orig>mutch</orig><reg>much</reg></choice> <choice><orig>Party</orig><reg>party</reg></choice>, <choice><orig>mutch</orig><reg>much</reg></choice> trouble every day, with many different people from different <choice><orig>country's</orig><reg>countries</reg></choice> an <choice><orig>culture's</orig><reg>cultures</reg></choice> for <choice><orig>a</orig><reg>an</reg></choice> acceptable price to <choice><orig>life</orig><reg>live</reg></choice>, Berlin couldn't be the right place for you my friend.</s>
+      </p>
+      <p>
+        <signed>Your Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

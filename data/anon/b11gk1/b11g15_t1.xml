@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b11g15_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211207</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The novel <ref target="b11gk1_1" type="title">Gun Love</ref>, written by <ref target="b11gk1_1" type="author">Jennifer Clement</ref> and published in <date>2019</date>, deals with <ref target="b11gk1_1" type="character">Pearl</ref>, a girl who lives together with her mother in a car.</s>
+        <s>Her mom gave birth to her when she was only seventeen and had to run away from her home because of her fear that her abusive father could harm her or her newborn child.</s>
+      </p>
+      <p>
+        <s>When <ref target="b11gk1_1" type="character">Pearl</ref> is 14, her mother gets <choice><orig>shoot</orig><reg>shot</reg></choice> and she comes in a foster home where she lives together with two other foster children: <ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Helen</ref>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> is a very small, eight year old girl.</s>
+        <s>She is a <choice><orig>typicall</orig><reg>typical</reg></choice> foster child: she had nearly 20 different homes, nobody really looks after her.</s>
+        <s>She has for example at least 17 phones from her past homes.</s>
+        <s>They said that she should stay in touch with them, but she cannot remember which phone belongs to which house.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk1_1" type="character">Helen</ref> does not know who she is and where she comes from.</s>
+        <s>That is why, she invents lots of families for herself and <q>best friends</q> she has to call.</s>
+      </p>
+      <p>
+        <s>In her current foster home, she has <ref target="b11gk1_1" type="character">Leo</ref> and <ref target="b11gk1_1" type="character">Pearl</ref>, who are nice to her.</s>
+      </p>
+      <p>
+        <s>Because of the lots of bad things she has gone through, she <choice><orig>talkes</orig><reg>talks</reg></choice> all the time, asks questions and talks from herself in the third person.</s>
+      </p>
+      <p>
+        <s>She dreams from good things and searches all the time for love.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

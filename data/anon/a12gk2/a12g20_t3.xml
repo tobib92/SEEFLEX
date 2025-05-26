@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a12g20_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The question is how it is important for the <name type="geo">UK's</name> future prosperity and global standing to learn languages.</s>
+        <s>I am the opinion that it is important to learn more languages and can join me to <ref target="a12gk2_1" type="author">John Worne's</ref> position.</s>
+      </p>
+      <p>
+        <s>If you learn new languages you get only positive things, advantages.</s>
+        <s>The only bad thing or disadvantage to learn languages is, that it is hard work and needs a lot of your time and effort.</s>
+        <s>But this is the only disadvantage.</s>
+        <s>But if we look at the advantages, we have lots of things to say.</s>
+        <s>People like employers have a better appearance of you and you can do more jobs.</s>
+        <s>Today we live in a multicultural world, in which in all countries are tourists or people who does not speak the same languages like us.</s>
+        <s>So first it has very much of importance for our communication with people in jobs, freetime or to help somebody for a way, they want to <gap reason="illegible" quantity="1" unit="word">couplete</gap>.</s>
+        <s><choice><orig>An other</orig><reg>Another</reg></choice> point is that you need foreign languages or better to say English almost in all jobs.</s>
+        <s>As employee in the hotel, hospital, police, taxi, airport and always in the market.</s>
+        <s>In our completely life we need a second language or more.</s>
+        <s>The communication won very much of importance and helps us almost in all things we do.</s>
+      </p>
+      <p>
+        <s>So the learning of languages gives you a better appearance and helps to do your work better and develop new things in cooperation for your country.</s>
+      </p>
+      <p>
+        <s>All in all it has no bad effects to learn foreign languages.</s>
+        <s>It brings you only positive things.</s>
+        <s>You reach much of success, which helps you in your life.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

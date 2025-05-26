@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c10g32_t1</author>
+        <name>speech</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="2"</note>
+        <note genre="recounting" genre_family="biographical recount">speech</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Hi,</salute>
+        <s>I'm <name type="person">Faraj al-Byarshan</name> and I'm 41.</s>
+        <s>I'm an engineer who immigrated to <name type="geo">New York</name> from <name type="geo">Iraq</name> in <date>2005</date>.</s>
+        <s>My wife and my two sons followed me in <date>2007</date>.</s>
+        <s>And now I tell you something about that.</s>
+        <s>The reasons why we wanted to immigrate was the war in our country.</s>
+        <s>My family and I <choice><orig>wasn't</orig><reg>weren't</reg></choice> safe there.</s>
+        <s>Furthermore we wanted to immigrated because of the better life conditions in <name type="geo">New York</name>.</s>
+        <s>I immigrated first, because I wanted to find first a job and made us a home so then my wife and my sons could come to me.</s>
+        <s>But it was really hard.</s>
+        <s>Lots of bias against me and it needed time to find a job.</s>
+        <s>Two months I waited and I lived on the street.</s>
+        <s>But then I found a job, a really good job.</s>
+        <s>So I worked hard for two years and I bought a house.</s>
+        <s>Then my wife and my two sons came to <name type="geo">New York</name>.</s>
+        <s>First it was not sure if they could stay here <choice><orig>to</orig><reg>too</reg></choice> but I did all that they can stay.</s>
+        <s>And finally it worked.</s>
+        <s>We lived here and my two sons go to school.</s>
+        <s>At first they got teased at school but then I went to the class and tell them our story and how hard it was for us.</s>
+        <s>Since this day the kids respect my sons and <choice><orig>the</orig><reg>they</reg></choice> finally find friends.</s>
+        <s>My wife gets a job too that is really good <choice><orig>tho</orig><reg>though</reg></choice>.</s>
+        <s>My hopes for the future were that the people don't judging you before they see you and what you experienced in your life.</s>
+        <s>I wish that my kids and maybe their kids have a good future without bias.</s>
+        <s>So that was my story and I hope you <choice><orig>thank</orig><reg>think</reg></choice> about what I say.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

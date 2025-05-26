@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g38_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The sequence <choice><orig>start</orig><reg>starts</reg></choice> at dinner, when the family <choice><orig>pray</orig><reg>prays</reg></choice>.</s>
+        <s>Here the director has the intention that the viewer has the feeling, it is a normal situation.</s>
+        <s>Everyone is very happy and thankful, as you can see when the camera has a medium shot.</s>
+        <s>Also it's dark outside because this <choice><orig>give</orig><reg>gives</reg></choice> a cozy atmosphere at first and the slow music in the background has the intention from a calm mood.</s>
+      </p>
+      <p>
+        <s>When <ref target="b10gk3_1" type="character">Starr</ref> looks outside you can see the calm and good mood switch in scare.</s>
+        <s>In the darkness the director hasn't the intention to give you a good atmosphere because now the viewer is intimidate.</s>
+        <s><ref target="b10gk3_1" type="character">King</ref> and the other man <choice><orig>gives</orig><reg>give</reg></choice> the impression that they are really strong.</s>
+      </p>
+      <p>
+        <s>Also the camera perspective is in a big close up to see their muscles and strong body.</s>
+        <s>At the argue the camera <choice><orig>spinns</orig><reg>spins</reg></choice> around <ref target="b10gk3_1" type="character">Maverick</ref> and <ref target="b10gk3_1" type="character">King</ref>, which is very exciting too.</s>
+        <s>The viewer is in a position where we ask ourselves what's happen next.</s>
+        <s>Also we can feel the way more how <ref target="b10gk3_1" type="character">Maverick</ref> feels and how scared he really is.</s>
+        <s>This part is also in a medium <choice><orig>closeup</orig><reg>close up</reg></choice> and the camera <choice><orig>switch</orig><reg>switches</reg></choice> about the shoulder of them to see the facial expression from <ref target="b10gk3_1" type="character">King</ref> as well.</s>
+        <s>But he just seems very angry and wants to fight with <ref target="b10gk3_1" type="character">Maverick</ref>.</s>
+        <s>After the fight when the police <choice><orig>come</orig><reg>comes</reg></choice>, <ref target="b10gk3_1" type="character">King</ref> and the other man go away.</s>
+        <s>This part is shown in a longshot to just see the police car and the blue/red lights.</s>
+        <s>The suspicious thing at this part is that one of the <choice><orig>policeofficers</orig><reg>police officers</reg></choice> who arrest <ref target="b10gk3_1" type="character">Maverick</ref> is black too.</s>
+        <s>Although he is black he treats <ref target="b10gk3_1" type="character">Maverick</ref> really bad instead asking what is happening.</s>
+        <s>When his family runs out the white officer wants to arrest her older brother when he <choice><orig>discuss</orig><reg>discusses</reg></choice> with the policeman that his father didn't anything wrong.</s>
+        <s>They are also really unpolite, that's why the viewer gets triggered and wants to rescue them out the situation.</s>
+        <s>Another really important aspect of this scene is that all people of the restaurant start to film this.</s>
+        <s>This shows the viewer that the people in the restaurant think that this is not correct and <choice><orig>wants</orig><reg>want</reg></choice> to help <ref target="b10gk3_1" type="character">Maverick</ref> on a way.</s>
+        <s>At the part when <ref target="b10gk3_1" type="character">Starr</ref> also starts to film the conversation it is shown in a <choice><orig>birds</orig><reg>bird's</reg></choice> eye view.</s>
+        <s>This view has the effect that <ref target="b10gk3_1" type="character">Starr</ref> stands over the police officer.</s>
+        <s>Also it gives the intention of power that <ref target="b10gk3_1" type="character">Starr</ref> has at this point.</s>
+        <s><ref target="b10gk3_1" type="character">Starr</ref> gives also the expression to the policeman, how her father needs to be feel, being arrested by a cop and that's the reason why he is intimidate.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> mother shows a really angry and powerful expression as well.</s>
+        <s>Because the police officer is really intimidate from both <choice><orig>sites</orig><reg>sides</reg></choice> <add>(<ref target="b10gk3_1" type="character">Starr</ref> and her mother)</add> they stop this action and leave the parking lot.</s>
+        <s><ref target="b10gk3_1" type="character"><choice><orig>Starrs</orig><reg>Starr's</reg></choice></ref> little brother cries really hard, which is touching for the viewer as well.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g27_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Irem,</salute>
+      </p>
+      <p>
+        <s>I saw your e-mail in which you wanted to know what <name type="misc">School B goes green</name> was about.</s>
+        <s>I want to inform you about this project.</s>
+        <s>Two years ago our school decided to do more than 40 workshops in one day which deal with environmental protection.</s>
+        <s>The students had a high political and social interest, as you could see at the demonstration <name type="misc">Fridays for Future</name>, where many of our students took part.</s>
+        <s>The topic environmental / climate protection played a huge role at the school <choice><orig>concil</orig><reg>council</reg></choice>.</s>
+        <s>With the topic <name type="misc">School B goes green</name> students, teachers and parents needed to give ideas for workshops.</s>
+        <s>In this way students won't lose interest in climate change, because they think they cannot do something against climate change.</s>
+        <s>Our ideas were <choice><orig>varried</orig><reg>varied</reg></choice> for example food sharing, less use of water, second-hand markets with used clothes and in general a sustainable daily lifestyle.</s>
+      </p>
+      <p>
+        <s>Our students also searched for ideas for our schoolkiosk which are biological and fairtrade.</s>
+        <s>In addition to this our students sold vegan waffels which <choice><orig>where</orig><reg>were</reg></choice> made with sustainable food.</s>
+        <s>We also had lessons for our pronunciation to discuss about climate topics more self-confident.</s>
+        <s>All in all the students were very motivated and liked it a lot.</s>
+        <s>In the future we will do another organization like this.</s>
+        <s>You can also come if you want to.</s>
+      </p>
+      <p>
+        <signed>Yours Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

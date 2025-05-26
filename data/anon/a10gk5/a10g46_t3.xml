@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a10g46_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="inquiring" genre_family="problem-solution report">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>
+        <s>How <choice><orig>industrie</orig><reg>industry</reg></choice> pollutes our environment</s>
+      </p>
+    </head>
+    <body>
+      <p>
+        <s>Have you ever <choice><orig>thougt</orig><reg>thought</reg></choice> about the effects the industrial achievements have?</s>
+      </p>
+      <p>
+        <s>So today I am going to talk about the article <ref target="a10gk5_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref> I recently <choice><orig>red</orig><reg>read</reg></choice>.</s>
+      </p>
+      <p>
+        <s>The effects <choice><orig>off</orig><reg>of</reg></choice> harmful <choice><orig>polutants</orig><reg>pollutants</reg></choice> are hazardous.</s>
+      </p>
+      <p>
+        <s><choice><orig>Whit</orig><reg>with</reg></choice> the growth of science knowledge the pollution increases.</s>
+        <s>And as a result our living conditions get worser.</s>
+        <s>I hope I could change your mind.</s>
+        <s>Share your thoughts in the comments <choice><orig>bellow</orig><reg>below</reg></choice>.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

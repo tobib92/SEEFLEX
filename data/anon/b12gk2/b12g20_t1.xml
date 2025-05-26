@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>b12g20_t1</author>
+        <name>point_out</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">point_out</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The climate crisis is a topic which got more and more importance in the last twenty yeras.</s>
+        <s>On <date>the first of November 2021</date> the prime minister of <name type="geo">Great Britain</name> <name type="person">Boris Johnson</name> <choice><orig>hold</orig><reg>held</reg></choice> a speech at <name type="misc">COP 26 World Summit Opening Ceremony</name> about that crisis.</s>
+      </p>
+      <p>
+        <s>In the speech <ref target="b12gk2_1" type="speaker">Johnson</ref> compares himself and the other <quote>World Leaders</quote> with <name type="person">James Bond</name>, a very famous agent of <choice><orig>british</orig><reg>British</reg></choice> action movies, and the climate crisis with a ticking bomb.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref>'s and the rest of the <choice><orig>politicans</orig><reg>politicians</reg></choice> task is to defuse this bomb.</s>
+        <s>He explains that climate change is real and a huge danger for the future of humanity.</s>
+        <s>It's the deciding moment to attack this danger.</s>
+        <s>The conferences of <name type="geo">Copenhagen</name> and <name type="geo">Paris</name> weren't <choice><orig>took</orig><reg>taken</reg></choice> serious, according to <ref target="b12gk2_1" type="speaker">Johnson</ref>.</s>
+        <s>Since the industrialization this problem gets ignored.</s>
+      </p>
+      <p>
+        <s>The <quote>know-how</quote> wouldn't be the question, it is <choice><orig>wether</orig><reg>whether</reg></choice> they have the will.</s>
+        <s>Without cooperation it wouldn't be possible to find a solution for climate change, only if everybody works together.</s>
+        <s><ref target="b12gk2_1" type="speaker">Johnson</ref> says together they would have the ideas, technology, money and cooperation to beign to defuse the bomb and the <name type="misc">COP26</name> is the deciding moment to do that.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

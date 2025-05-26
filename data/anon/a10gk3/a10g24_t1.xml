@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g24_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the blog post <ref target="a10gk3_1" type="title">Globalised Environmental Pollution - Causes and Effects</ref>, under the topic <name type="misc">Think globally, act locally</name>, was written by <ref target="a10gk3_1" type="author">Ankita Mitra</ref>, published at <date>February 5, 2014</date> and on the <name type="misc">Blog on Environment</name>.</s>
+        <s>It <choice><orig>list</orig><reg>lists</reg></choice> on all the causes and troubles that <choice><orig>Environment</orig><reg>environment</reg></choice> <choice><orig>Pollution</orig><reg>pollution</reg></choice> comes to us.</s>
+        <s>She describes <choice><orig>Environment</orig><reg>environment</reg></choice> <choice><orig>Pollution</orig><reg>pollution</reg></choice> as a damage to the world.</s>
+        <s>All the progress we have made, <choice><orig>have</orig><reg>has</reg></choice> caused so much trouble, which <choice><orig>effects</orig><reg>affects</reg></choice> on our health and of the animals in the sea and on the land.</s>
+        <s>Even that we have now many options to live, travel, etc., we never noticed what a damage we have caused, so that we could maybe live in the future on the earth anymore.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

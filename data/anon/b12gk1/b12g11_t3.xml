@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b12g11_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="critical response">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Mister Johnson,</salute>
+      </p>
+      <p>
+        <s>now we can see how many consequences the climate change has.</s>
+        <s>The sea levels rised a lot and because of that many coastal areas are not there anymore.</s>
+        <s>We have new <choice><orig>desserts</orig><reg>deserts</reg></choice> and often extreme weather events like hurricanes, droughts and wildfires.</s>
+        <s>Today I heard the speech which you delivered at the <name type="misc">COP26 World Leaders' Summit Opening Ceremony</name> on <date>1 November 2021</date>.</s>
+        <s>Now nearly 30 years later your thoughts from <date>2021</date> are reality.</s>
+        <s>You said that future generations will be angry if the politicians will not do something against climate change.</s>
+        <s>My children often <choice><orig>asks</orig><reg>ask</reg></choice> me why we have not done something against global warming in the earlier times.</s>
+        <s>And I cannot give them an answer.</s>
+        <s>I know that in <date>2021</date> it was clear that it is important to act and to change a lot.</s>
+        <s>Everybody has known that global warming has bad consequence and that it already <choice><orig>effects</orig><reg>affects</reg></choice> our lives.</s>
+        <s>Even though we all known it we did not do enough to decrease global warming.</s>
+        <s>Now my children have to suffer because the politicians failed.</s>
+        <s>The climate change restricts their life.</s>
+        <s>They cannot understand it.</s>
+        <s>It makes them angry.</s>
+        <s>They judge us for that.</s>
+        <s>It is a conflict between generations.</s>
+        <s>You were totally right.</s>
+        <s>We had the ideas, the technology, the bankers, the corporations and the NGOs but our will was not strong.</s>
+        <s>I know we changed something to fight again the climate crisis but it was not enough.</s>
+        <s>Scientists warned us and told us that it is not enough.</s>
+        <s>Nevertheless it was not real enough to have to will to change more.</s>
+        <s>Now the consequences are much worse and because of that our will is stronger.</s>
+        <s>But it will take us years till the climate will become better.</s>
+        <s>Although we somehow failed, I think <name type="misc">COP26</name> was important.</s>
+        <s>It changed something and was the beginning of acting against global warming.</s>
+        <s>I just was not enough.</s>
+        <s>I think your speech helped to convince and encourage people to take action against climate change.</s>
+        <s>In my opinion that is important.</s>
+        <s>Although we did not reach the 1.5 degree goal, I have still hope that one time the climate will be better.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

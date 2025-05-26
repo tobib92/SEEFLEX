@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11g29_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the interview with <name type="misc">Ayad Akhtar</name> which has only recently been published in <name type="misc">Guernica Magazine</name>.</s>
+      </p>
+      <p>
+        <s><ref target="b11gk2_1" type="character">Amir</ref> tries in the play to switch his complete identity.</s>
+        <s>His earlier identity doesn't fit in the white society, in which he tries to be accepted especially after <name type="misc">9/11</name>.</s>
+      </p>
+      <p>
+        <s>So moved by the hate of his experience with the Islam and the will to be accepted in the white society he is willed to switch his whole identity.</s>
+      </p>
+      <p>
+        <s>This actually works if he controls <choice><orig>hisself</orig><reg>himself</reg></choice> good enough.</s>
+      </p>
+      <p>
+        <s>But in extreme situations <name type="misc">Amir</name> becomes to the person he wanted not to be and who he hates.</s>
+        <s>This shows the reader that trying to switch your identity or hiding it like <name type="misc">Abe</name> doesn't work for ever.</s>
+      </p>
+      <p>
+        <s>In my <choice><orig>live</orig><reg>life</reg></choice> as a student in <name type="geo">Germany</name> I don't have those big problems.</s>
+        <s>I am white coloured so it is much easier for me being accepted in a white society like in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>I have friends who have also roots from other cultures and I think sometimes it is a bit harder for them to adapt <choice><orig>then</orig><reg>than</reg></choice> for me, because many of them are split in some ways in two cultures.</s>
+      </p>
+      <p>
+        <s>At home they must often speak their mother language and elsewhere they speak <choice><orig>german</orig><reg>German</reg></choice>.</s>
+        <s>I think living/raising up like this is much more complicated but I also would say that people who have this <q>split</q> too, can better adapt to others with the same situation.</s>
+      </p>
+      <p>
+        <s><name type="misc">Amir</name>, who doesn't want to adapt to people with the same history, has a, has it much harder.</s>
+      </p>
+      <p>
+        <s>He tries to adapt and often makes it but his thinking and his background is very <choice><orig>diferent</orig><reg>different</reg></choice> to those he <choice><orig>want</orig><reg>wants</reg></choice> to adapt, so he never will be that close to them as he would be to those who can understand his behaviour and the meaning of try to switch the identity.</s>
+      </p>
+      <p>
+        <s>I hope I could help you with expressing my point of view!</s>
+      </p>
+      <p>
+        <s>Bye bye</s>
+      </p>
+      <p>
+        <signed>John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

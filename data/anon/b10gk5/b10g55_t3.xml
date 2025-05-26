@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g55_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In my opinion, it's an honour for a film if it has an impact on the perspective of people.</s>
+        <s>A film like <ref target="b10gk5_1" type="character">Chris</ref> has the chance to do this but I don't think that it changed my perspective so much.</s>
+        <s>Although racism is a big theme in the film, it didn't changed my perspective because I had the same perspective because I had the same perspective as the film before watching it so there weren't much space to change a perspective or opinion.</s>
+        <s>Moreover it maybe changed my perspective about friendship although this isn't the main theme in the film.</s>
+        <s>After <ref target="b10gk5_1" type="character">Starr</ref> recognized that she always just followed <ref target="b10gk5_1" type="character">Hailey</ref>, she talks with her mom about it.</s>
+        <s>The opinion of ther mom is interesting and could be a good opinion for many tenagers, also me.</s>
+        <s>In life, <choice><orig>they're</orig><reg>there are</reg></choice> always people who want to be the leader and that's okay.</s>
+        <s>It's nothing bad at wanting to be a leader, maybe some people want to follow someone like this.</s>
+        <s>But the question is: do you want to be someone who just follows another person?</s>
+        <s>Maybe it isn't so easy to go your own way and maybe you <choice><orig>doesn't</orig><reg>don't</reg></choice> seem as cool as before, but being <choice><orig>indipendent</orig><reg>independent</reg></choice> is this absolutely worth <ref target="b10gk5_1" type="character">Starr</ref> recognized this too and although she has a few friends less and isn't anymore the cool friend of <ref target="b10gk5_1" type="character">Hailey</ref>, she's shown happy at the end of the film.</s>
+        <s>Now she has friends, where she doesn't have to be another version of herself.</s>
+        <s>This changed my perspective, because <ref target="b10gk5_1" type="character">Starr</ref> learned that you don't have to follow someone who <choice><orig>want</orig><reg>wants</reg></choice> to be a leader.</s>
+        <s>I learned that although <choice><orig>ther</orig><reg>there</reg></choice> may be some reductions, being <choice><orig>indipendent</orig><reg>independent</reg></choice> is it <choice><orig>absolutly</orig><reg>absolutely</reg></choice> worth.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

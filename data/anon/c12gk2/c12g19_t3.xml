@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c12g19_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211126</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Statements like <quote><s>Shakespeare never grows old.</s><s>He continues to inspire each new generation</s></quote> by <name type="person">Norman J. Lund</name> are often and widely discussed.</s>
+        <s><name type="person">Shakespeare</name> is often taught at schools, but is it really necessary?</s>
+      </p>
+      <p>
+        <s>One of the most important arguments for studying <name type="person">Shakespeare</name> in school is the themes he covers in his plays.</s>
+        <s>They're all relevant themes that everyone can somehow identify with and relate to them, like love, hate, greed, jealousy, ambition and power.</s>
+        <s>But on the other hand those themes and emotions are all conveyed through an outdated world view, since he lived over 400 years ago.</s>
+        <s>Similarly, one can argue that those themes can be found in a lot of other works by more modern authors which also cover relevant topics from today like climate change, gender roles, inequality and more.</s>
+        <s>But this historical relevance of <name type="person">Shakespeare's</name> works can also be a positive aspect since it gives an excellent insight into the minds of people from the <date>17th century</date>.</s>
+        <s>It has a historical value and his plays can help students better understand and to grasp the meaning of it.</s>
+        <s>Another positive effect of <name type="person"><choice><orig>Shakespeares</orig><reg>Shakespeare's</reg></choice></name> popularity are the high numbers of <choice><orig>adaptions</orig><reg>adaptations</reg></choice> like movies, plays or even books that exist today.</s>
+        <s><name type="person">Shakespeare</name> has been an inspiration to a lot of people worldwide and quotes of him can be found everywhere.</s>
+        <s>Similarly he invented lots of words we now use in our <choice><orig>english</orig><reg>English</reg></choice>, like <quote>assassination</quote> for example.</s>
+        <s>So it could be interesting to study how exactly <name type="person">Shakespeare</name> used those words in his plays.</s>
+        <s>But in contrast to that, a lot of critics are right to say that the plays were written to be shown on stage and watched by an audience, instead of read and analyzed line by line.</s>
+        <s>Perhaps the characters came to life when embodied through an actor on stage and interpreted by them.</s>
+        <s>So the wide variation of <choice><orig>adaptions</orig><reg>adaptations</reg></choice> today could be what is studied in school instead of <name type="person">Shakespeare's</name> vague and open to interpretation descriptions of characters.</s>
+        <s>That is another thing interesting about <name type="person">Shakespeare's</name> works.</s>
+        <s>His characters are vividly human and flawed.</s>
+        <s>And as such can be interpreted differently and still make every <choice><orig>adaption</orig><reg>adaptation</reg></choice> unique.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

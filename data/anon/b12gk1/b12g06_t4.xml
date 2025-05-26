@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>b12g06_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Louisa,</salute>
+      </p>
+      <p>
+        <s>thank you for your e-mail.</s>
+        <s>It's good to hear from you.</s>
+        <s>I hope you are doing well.</s>
+        <s>How amazing that you have read the newspaper article on <name type="misc">School B goes green</name> on our school homepage.</s>
+        <s>You have asked me what this project is about so I will tell you about it.</s>
+        <s><name type="misc">School B goes green</name> is a project organized by students and teachers of our school to include themes like climate change into our school routine.</s>
+        <s>Themes like how to minimized our carbon footprint, reduce water or eat vegan were talked abouton this project.</s>
+        <s>The students get to know their responsibility towards the climate crisis and how their habits <choice><orig>effect</orig><reg>affect</reg></choice> it.</s>
+        <s>The project is inspired by the <name type="misc">Fridays-for-future-Movement</name> and takes place at one day of the year.</s>
+        <s>Students can select a workshop which interested them the most.</s>
+        <s>This workshop are very different.</s>
+        <s>They take place at different locations and deal with other issues, for example foodsharing or second-hand clothes.</s>
+        <s>Even acting workshops are possible to <choice><orig>vistit</orig><reg>visit</reg></choice>.</s>
+        <s>As a student I can say that this project is a great opportunity to learn more about climate change, understand your role and discuss with others about it.</s>
+        <s>I hope I could give you a good insight into this project and maybe you could suggest something like this at your school.</s>
+      </p>
+      <p>
+        <signed>Love, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

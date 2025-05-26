@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b10g53_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the following I will analyze the given scene by including the cinemativ devices which were used to present the <choice><orig>protagonists'</orig><reg>protagonist's</reg></choice> boyfriend, <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>By mentioning the created effects, I will also be talking about how <ref target="b10gk5_1" type="character">Chris</ref> gets presented as the popular student in the school and how everyone looks up to him.</s>
+      </p>
+      <p>
+        <s>The first few clips which introduce <ref target="b10gk5_1" type="character">Chris</ref> as he is walking down the corridor are shown in variety of shots but mostly in a medium shot.</s>
+        <s>The camera is positioned on the same level as <ref target="b10gk5_1" type="character">Chris</ref>, walking towards the camera and greeting his friends.</s>
+        <s>This gives the effect that he is a well-known, popular student everyone has no problem with.</s>
+        <s><choice><orig>Theres</orig><reg>There's</reg></choice> a typical school atmosphere/setting and the many shot clips that try to catch him walking in every angle possible are also another argument for his popularity and status in school.</s>
+        <s>As the camera switches to <ref target="b10gk5_1" type="character">Starr</ref> in a medium close-up of her face, the audience gets to see her body language and her thoughts through the voice over.</s>
+        <s>The music plays an important role as it fits and gives a nice contrast to her admiring <ref target="b10gk5_1" type="character">Chris</ref> while he walks down the hallways perfectly.</s>
+        <s>When <ref target="b10gk5_1" type="character">Chris</ref> notices her, the camera does a 180 degree side-turn to underline and express the different perspectives of the two.</s>
+        <s><ref target="b10gk5_1" type="character">Starr</ref> proceeds to turn to her locker and <choice><orig>thats</orig><reg>that's</reg></choice> when we have a close-up of her face when <ref target="b10gk5_1" type="character">Chris</ref> walks up behind her.</s>
+        <s>The camera looks like it's in her locker which means that the audience has a perfect sight of her expression when <ref target="b10gk5_1" type="character">Chris</ref> puts the headphones on her.</s>
+        <s>We can see her hiding a smile and surpressing her emotions due to her still being mad at <ref target="b10gk5_1" type="character">Chris</ref>.</s>
+        <s>After <ref target="b10gk5_1" type="character">Starr</ref> confronts him, the audience gets to see an eagerness side of the overly-confident <ref target="b10gk5_1" type="character">Chris</ref> as he tries to tell his side of the story.</s>
+        <s>Due to the close-ups being constantly switched to the <choice><orig>others</orig><reg>other's</reg></choice> face, we can read off the exact facial expressions and interpret or put them into order resulting the emotions.</s>
+        <s>Afterwards we can see a switch to another conversation which is about the new beat <ref target="b10gk5_1" type="character">Chris</ref> made for <ref target="b10gk5_1" type="character">Starr</ref>.</s>
+        <s>It's clear that he wants to impress her but after not getting so much out of <ref target="b10gk5_1" type="character">Starr</ref>, he proceeds to turn on the music for everyone to hear and dances in front of everyone.</s>
+        <s>This is shown in a medium shot while putting his dance in slow-motion.</s>
+        <s>If one thinks more and tries to interpret this excerpt, you could say that this too shows his intensive popularity.</s>
+        <s>Even when doing such an <choice><orig>embarassing</orig><reg>embarrassing</reg></choice> move/dance and on top of that for everyone to see, shows and visualizes that <ref target="b10gk5_1" type="character">Chris</ref> would have been still supported and seen as funny.</s>
+        <s><ref target="b10gk5_1" type="character">Chris</ref> doesn't have to care about how he's seen in school because no matter what he does, he's still the <q>popular guy</q>.</s>
+        <s>This is an extreme contrast or antithesis to <ref target="b10gk5_1" type="character">Starr's</ref> status or picture in school which she always has to think and care about just so nobody sees her as <q>ghetto</q> or the typical stereotype of black people.</s>
+      </p>
+      <p>
+        <s>Considering all aspects and points one can say that the director <choice><orig>purposly</orig><reg>purposely</reg></choice> put in all the right cinematic devices and effects in their right plac to make/show a contrast between the two considering their pictures in school.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

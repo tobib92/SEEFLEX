@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>a11g18_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211006</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="discussion">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>There is a public <choice><orig>these</orig><reg>thesis</reg></choice> <quote>In <name type="geo">America</name> there are no barriers to success</quote> by <ref target="a11gk2_1" type="speaker">Barack Obama</ref>.</s>
+        <s>I think there are different point of views and perspectives on that.</s>
+      </p>
+      <p>
+        <s>In my opinion this is true if you just stick to the right values.</s>
+        <s>It <choice><orig>it</orig><reg>is</reg></choice> easy to say something like that if you are in a good life situation but it is not if you are poor and in bad life situation.</s>
+      </p>
+      <p>
+        <s>That is where the difference is because you got to <choice><orig>seperte</orig><reg>separate</reg></choice> between those who say it and never really worked hard to achieve their goals and those who did.</s>
+        <s><ref target="a11gk2_1" type="speaker">Obama</ref><choice><orig>definitly</orig><reg>definitely</reg></choice> did and <choice><orig>thats</orig><reg>that's</reg></choice> a good reason to believe this statement.</s>
+      </p>
+      <p>
+        <s>Otherwise it depends on how good humans and people around you act and if they are willing to help you or just want to damage you.</s>
+      </p>
+      <p>
+        <s><ref target="a11gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> grandparents for example had the GT Bill and the <name type="misc">GI Bill</name> and the government who helped them.</s>
+        <s>But of course <ref target="a11gk2_1" type="speaker"><choice><orig>Obamas</orig><reg>Obama's</reg></choice></ref> grandfather literally fought for <name type="geo">America</name> and his dreams.</s>
+      </p>
+      <p>
+        <s>So besides them there are surely many who fought for their dreams but didn't got supported.</s>
+        <s>It is important to also mention those.</s>
+      </p>
+      <p>
+        <s>To put it in a nutshell I think in most cases <quote>There are no barriers</quote> and that is why I believe in the statement.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

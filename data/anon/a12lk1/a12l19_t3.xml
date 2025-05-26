@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12l19_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Ladies and <choice><orig>Gentleman</orig><reg>Gentlemen</reg></choice>,</salute>
+      </p>
+      <p>
+        <s>Today I want to express, why I think, it would be a good idea to take <name type="person">Shakespeare's</name> sonnets out of the English School Curriculum.</s>
+      </p>
+      <p>
+        <s>First of all, it is important to say that his language is vey old and almost nobody can understand everything from his sonnets, because of some old and different meanings, which make it hard to understand, what<name type="person">Shakespeare</name> wants to explain us with his sonnets.</s>
+      </p>
+      <p>
+        <s>The second point is that his language is not common in <date>2021</date> and it would not be in the next years.</s>
+        <s>The people want a simple language and not one, where a word has like five different meanings.</s>
+      </p>
+      <p>
+        <s>Furthermore, his language is not easy to learn.</s>
+        <s>He utilizes words like <quote>thou</quote> or <quote>thee</quote>, whih are not part of the normal <choice><orig>english</orig><reg>English</reg></choice>.</s>
+        <s>It is a waste of time to learn this language.</s>
+      </p>
+      <p>
+        <s>The last print against Shakespearean sonnets in the curriculum, is that we have other topics with an import once, one should talk about.</s>
+        <s>For example the climate change or other current topics like the election in <name type="geo">Germany</name> or the corona pandemic.</s>
+      </p>
+      <p>
+        <s>A point for <name type="person">Shakespeare's</name> sonnets is that the sonnets are a part the world literature and<name type="person">Shakespeare</name> has also other important plays like <name type="misc">Hamlet</name> or <name type="misc">Romeo and Juliet</name>.</s>
+      </p>
+      <p>
+        <s>To sum up, I would say that it would be a good decision to take <name type="person">Shakespeare's</name> sonnets out of the curriculum.</s>
+      </p>
+      <p>
+        <signed>Yours faithfully, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

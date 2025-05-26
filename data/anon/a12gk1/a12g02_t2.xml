@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a12g02_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>After <choice><orig>summerising</orig><reg>summarising</reg></choice> the most important aspects of <ref target="a12gk1_1" type="author">John Worne's</ref> article, now the use of language will get more into focus.</s>
+      </p>
+      <p>
+        <s>Firstly the author uses including words as <quote>our</quote> or <quote>your</quote> <ref target="a12gk1_1">(l. 1, l. 5, l. 13, l. 17...)</ref> to address the author in a pretty direct way.</s>
+        <s>By using words <choice><orig>wich</orig><reg>which</reg></choice> have a direct address to the reader, the person who wants to know what is written in the artucle starts thinking about himself and the topic.</s>
+        <s>It is exact the effect <choice><orig>wich</orig><reg>which</reg></choice> the author wants people take time to make mre thoughts about use of foreign language.</s>
+      </p>
+      <p>
+        <s>Secondly the statistics and numbers <choice><orig>wich</orig><reg>which</reg></choice> the author brings up underlines his opinion.</s>
+        <s>It is easier for the reader to get an idea of how big the ussue really is, if the author wrote <quote>10.000 fewer</quote> <ref target="a12gk1_1">(l. 9)</ref> instead of just <choice><orig>writting</orig><reg>writing</reg></choice> <quote>fewer</quote>.</s>
+      </p>
+      <p>
+        <s>The result can be that the reader is scared or get a negative emotion and the effect of that could <choice><orig>maby</orig><reg>maybe</reg></choice> come to a changing of his thinking and doing.</s>
+      </p>
+      <p>
+        <s>In addition his colloquial [in parts informal]<choice><orig>stile</orig><reg>style</reg></choice> gives the reader a authentic feeling.</s>
+        <s>People understand the author better because they realise that the author is a human as they are too.</s>
+        <s>In consequence the reader <choice><orig>trys</orig><reg>tries</reg></choice> to relate the author's aspects in a more optimistic way.</s>
+        <s>To sum up, the reader is easier to convinced.</s>
+      </p>
+      <p>
+        <s>Furthermore it is important for articles that the show facts and arguments in different points of view.</s>
+        <s>The reader does that for example in lines 24 to 26.</s>
+        <s>He describes a <choice><orig>methode</orig><reg>method</reg></choice> in <choice><orig>wich</orig><reg>which</reg></choice> students can learn language while they are studying another <choice><orig>subjekt</orig><reg>subject</reg></choice>.</s>
+        <s>By pointing out that there are options for better language learning, the author shows also positive developments next to the problems.</s>
+        <s>The use of positive aspects and negative aspects give the article a brighter information length.</s>
+        <s>The article seems to be filled with a lot of information.</s>
+        <s>Moreover the 11 paragraphs a nice and relaxing to read.</s>
+        <s>You see <choice><orig>were</orig><reg>where</reg></choice> the author brings in a new thought and no people keep on reading until the end.</s>
+        <s>To keep the readers attention, the use of parahraphs is pretty helpful.</s>
+      </p>
+      <p>
+        <s>Lastly <ref target="a12gk1_1" type="author">John Worne</ref> writes words or short <choice><orig>formes</orig><reg>forms</reg></choice> as <name type="misc">GCSE</name> <ref target="a12gk1_1">(l. 8)</ref>.</s>
+        <s>A lot of people are not able to understand it.</s>
+        <s>Only the people who are the addressed persons know what is meant.</s>
+        <s>Like the use of first person plural pronouns [<quote>our</quote> etc.] also those words give an including feeling to the reader.</s>
+        <s>The reader gets positive emotions and is convinced faster.</s>
+        <s>All in all the author <ref target="a12gk1_1" type="author">John Worne</ref> takes use of specific language to give the reader nice feelings and a relaxing way to read the article.</s>
+        <s>This effects that the reader is convinced [to a higher <choice><orig>propability</orig><reg>probability</reg></choice>].</s>
+        <s>The most important communicative strategies are the use of numbers and facts and those <gap reason="illegible" quantity="1" unit="word">wish</gap> give the authentic and good feeling to the reader.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

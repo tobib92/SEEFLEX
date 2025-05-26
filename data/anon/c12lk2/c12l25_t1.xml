@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l25_t1</author>
+        <name>sonnet_paraphrase</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">sonnet_paraphrase</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>The same way the waves reaches the pebbled shore,</l>
+            <l>Our time speeds up to an end,</l>
+            <l>Every place that changes to before,</l>
+            <l>fights for it in tiring work.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>the birth of <name type="person">Jesus Christ</name> was in the centre of light,</l>
+            <l>Because he was mature as an infant for which he was praised.</l>
+          </s>
+          <s>
+            <l>He was <choice><orig>defeted</orig><reg>defeated</reg></choice> deceitfully in his glory fight,</l>
+            <l>And the tie he was gifted does confuse him now.</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>Time breaks through the flowering time of the youth</l>
+            <l>And <q>it</q> searches for the parallels in beauty's expression;</l>
+            <l>It feeds the rarities of the truth of nature,</l>
+            <l>but nothing is left but to scythe down.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>But still I hope my verses will maintain,</l>
+            <l>to praise your worth even though his cruel actions.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a10g18_t1</author>
+        <name>summarize</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">summarize</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>In the article <ref target="a10gk2_1" type="title">Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes</ref>, published in <name type="misc">The Gulf News</name> on <date>24 November 2011</date>, the author <ref target="a10gk2_1" type="author">Brian Pollard</ref> expresses his opinion on the current state of unions and their unexpected downsides.</s>
+      </p>
+      <p>
+        <s>He starts with explaining how unions helped in the first place and that they have greatly improved the life of many <choice><orig>diffrent</orig><reg>different</reg></choice> workers around the world.</s>
+      </p>
+      <p>
+        <s>Mr. <ref target="a10gk2_1" type="author">Pollard</ref> then goes on to writing about how his opinion changed and that unions are no longer required to ensure the workers' good working conditions because the <choice><orig>lagislation</orig><reg>legislation</reg></choice> and laws have taken that task.</s>
+      </p>
+      <p>
+        <s>Afterwards the author goes more into explaining, that companies that work under unions have no choice with their expensive products to compete against companies who sell <choice><orig>ther</orig><reg>their</reg></choice> products for less money.</s>
+      </p>
+      <p>
+        <s>Later he tells the readers that the roles have changed and workers are now exploiting employers because they are protected and <choice><orig>dont</orig><reg>don't</reg></choice> have to work at their best performance.</s>
+      </p>
+      <p>
+        <s>In the end he is <choice><orig>sayin</orig><reg>saying</reg></choice> directly to the government, that they have to look ar unions as a main problem to our economics.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

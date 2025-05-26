@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t4</title>
+        <author>a10g28_t4</author>
+        <name>informal_e-mail</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211209</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="personal response">informal_e-mail</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear John</salute>
+      </p>
+      <p>
+        <s>after I read your e-mail about plastic coffee cups and the article about coffee to go cups in <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>, I was very <choice><orig>shoked</orig><reg>shocked</reg></choice> how many plastic cups are thrown away everyday in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>For your presentation, I will give you some facts about plastic cups in <name type="geo">Germany</name>.</s>
+      </p>
+      <p>
+        <s>Plastic cups especially for coffee are very popular in <name type="geo">Germany</name>.</s>
+        <s>Nearly every 1/10 people are drinking coffee with <choice><orig>an</orig><reg>a</reg></choice> plastic cup everyday.</s>
+        <s>The plastic cup is very compfortable and a <choice><orig>symbole</orig><reg>symbol</reg></choice> that you have the money for an overprized coffee.</s>
+        <s>It also shows that you are very busy and <choice><orig>to</orig><reg>too</reg></choice> important to have time, drinking a coffee and <choice><orig>relaxe</orig><reg>relax</reg></choice> a bit.</s>
+      </p>
+      <p>
+        <s>The plastic cups aren't popular, then are also very bad for the <choice><orig>enviroment</orig><reg>environment</reg></choice>.</s>
+        <s>The <choice><orig>ammount</orig><reg>amount</reg></choice> of <choice><orig>ressources</orig><reg>resources</reg></choice> which are used to produce, those comfortable cups is huge.</s>
+      </p>
+      <p>
+        <s>These cups are produced with material you can't recycle.</s>
+        <s>Tons of plastic is getting burnt everyday, which is very bad for the air pollution and tons of plastic is thrown away on the streets, because of overloaded trashcans.</s>
+        <s>One of the problematic thing is, that you don't have a good <choice><orig>alternativ</orig><reg>alternative</reg></choice>.</s>
+        <s><ref target="a10gk4_2" type="author">Barbara Vorsame</ref> the author from the article quotes that if you don't have the time drinking a coffee from a normal cup you shouldn't drink coffe.</s>
+        <s>I personally think that there should be <choice><orig>an</orig><reg>a</reg></choice> new law that coffee to go cups must be able to recycle.</s>
+      </p>
+      <p>
+        <s>Good luck with your presentation, I hope I could help you.</s>
+      </p>
+      <p>
+        <signed>Your John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

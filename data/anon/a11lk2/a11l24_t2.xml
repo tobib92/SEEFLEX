@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>a11l24_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211122</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir <choice><orig>Karoot</orig><reg>Kapoor</reg></choice></ref> is the protagonist of the play <ref target="a11lk2_1" type="title">Disgraced, Scene 3</ref>.</s>
+        <s>He is a Pakistani American about 40 and works as a lawyer.</s>
+        <s>He lives in an apartment in the <name type="misc">Upper East Side</name> of <name type="geo">New York</name> with his wife <ref target="a11lk2_1" type="character">Emily</ref>, who is an artist, being fascinated by Islamic culture and traditions.</s>
+        <s>His biggest fear is <choice><orig>discrimmination</orig><reg>discrimination</reg></choice> and therefore changes his name and doesn't talk openly about his ethnicity.</s>
+        <s>He has been raised as a Muslim but isn't a fan of it.</s>
+        <s>He thinks that Islam espouses wife-beathing and <choice><orig>antisemitsm</orig><reg>antisemitism</reg></choice>.</s>
+      </p>
+      <p>
+        <s>In scene 3 <ref target="a11lk2_1" type="character">Amir</ref> gets confronted with a lot of not so pleasing <choice><orig>suprises</orig><reg>surprises</reg></choice>, which exposes the hidden part of his character.</s>
+      </p>
+      <p>
+        <s><ref target="a11lk2_1" type="character">Amir</ref> suffers of anger issues and tends ot handle his problems with violence <ref target="a11lk2_1" type="line">(p. 72, ll. 33, 29)</ref>.</s>
+        <s>He starts by being verbally aggressive, calling <ref target="a11lk2_1" type="character">Isaac</ref> an <quote>asshole</quote> <ref target="a11lk2_1" type="line">(ll. 33)</ref> and offending or even <choice><orig>discrimminating</orig><reg>discriminating</reg></choice> <ref target="a11lk2_1" type="character">Jory</ref> by saying the n-word <ref target="a11lk2_1" type="line">(ll. 29)</ref>.</s>
+        <s>But it doesn't stick to verbal <choice><orig>aggresiveness</orig><reg>aggressiveness</reg></choice>.</s>
+        <s>After having a huge discussion about Islam, finding out about <ref target="a11lk2_1" type="character">Jory</ref> taking his job and knowing his wife is cheating on him with <ref target="a11lk2_1" type="character">Isaac</ref>, <ref target="a11lk2_1" type="character">Amir</ref> loses his <choice><orig>controll</orig><reg>control</reg></choice> and starts being physically aggressive as well by beating <ref target="a11lk2_1" type="character">Emily</ref> multiple times until she starts bleeding <ref target="a11lk2_1" type="line">(p. 74, ll. 4, 6-9)</ref>.</s>
+        <s>He also spits <ref target="a11lk2_1" type="character">Isaac</ref> in the face after verbally offending him <ref target="a11lk2_1" type="line">(p. 72, ll. 40)</ref> and provokes him <ref target="a11lk2_1" type="line">(p. 72, ll. 35)</ref>.</s>
+        <s>This kind of behavior shows that he can't handle stress.</s>
+        <s>In addition with (the) overstimulation he loses his <choice><orig>controll</orig><reg>control</reg></choice> and freaks out.</s>
+        <s>It seems like he is paralyzed while beating <ref target="a11lk2_1" type="character">Emily</ref>, because he doesn't realize it in the moment and doesn't <choice><orig>stopp</orig><reg>stop</reg></choice> hurting her <ref target="a11lk2_1" type="line">(p. 74, ll. 15)</ref>.</s>
+      </p>
+      <p>
+        <s>Another reason for him feeling overstimulated is the fact that <ref target="a11lk2_1" type="character">Jory</ref> steals his job.</s>
+        <s>This action proves his thoughts about racism at work, even though <ref target="a11lk2_1" type="character">Jory</ref> is black.</s>
+        <s>All this time he was hiding his identity for his safety and well-being, but ending up destroying his life by that, because his boss thinks he's <quote>duplicitous</quote> <ref target="a11lk2_1" type="line">(p. 73, ll. 7)</ref> after finding out about his real name and ethnicity.</s>
+        <s>He questions his loyalty and therefore doesn't trust him with the job <ref target="a11lk2_1" type="line">(p. 73, ll. 7-9)</ref>.</s>
+        <s>Because of this explanation <add>(for not getting the job)</add> <ref target="a11lk2_1" type="character">Amir</ref> re-realizes that his identity is part of who he is and effects his opportunities of being <choice><orig>successfull</orig><reg>successful</reg></choice>, which <add>(perhaps, for sure)</add> makes him feel even more frustrated and ashamed of himself and his background.</s>
+      </p>
+      <p>
+        <s>Furthermore <ref target="a11lk2_1" type="character">Amir</ref> behaves <choice><orig>extremly</orig><reg>extremely</reg></choice> nervous and overwhelmed because he sways from side to side and withdraws himself for a moment <ref target="a11lk2_1" type="line">p. 73, ll. 16-17, 23</ref>.</s>
+        <s>A reason for this behavior could be that it's his real first time letting his emotions and feelings come to the surface.</s>
+        <s>He isn't used to that and because of that he loses his <choice><orig>controll</orig><reg>control</reg></choice> and gets aggressive in any kind of way.</s>
+        <s>But on the other side it can also mean that he can't believe what happened, especially the affair his wife has with <ref target="a11lk2_1" type="character">Isaac</ref>.</s>
+        <s>He can't imagine <ref target="a11lk2_1" type="character">Emily</ref>, <choice><orig>betraining</orig><reg>betraying</reg></choice> him, like that and needs his time to realize what just has happened <ref target="a11lk2_1" type="line">(p. 73, ll. 22-24, p. 71, ll. 31)</ref>.</s>
+      </p>
+      <p>
+        <s>All in all <ref target="a11lk2_1" type="character">Amir's</ref> character and behavior towards Islam, his friends, and own ethnicity show what deep effects racism has on affected people.</s>
+        <s>On the other hand it also shows the danger of denying one's identity and suppressing emotions and feelings.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

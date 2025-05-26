@@ -1,0 +1,188 @@
+---
+title: "SEEFLEX Cross Validation"
+author: "Tobias Pauls"
+date: "2025-04-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#### Set working directory to the SEEFLEX root folder ####
+
+```
+
+# Data preparation and packages
+
+```{r cars}
+
+library(MASS)
+library(caret)
+library(e1071)
+library(tidyverse)
+
+# Source utilities files
+source("code/gma_analysis/gma_utils.R")
+source("code/gma_analysis/seeflex_gma_utils.R")
+
+# Load data file
+load("data/gma/20250412_data.rda", verbose=TRUE)
+
+# Filter for texts of min 10 sentences and min 100 words
+res2 <- filter_text_length_and_adjust_meta(
+  seeflex_features_original, seeflex_meta, 100, 5)
+seeflex_features_original <- res2$feat_df
+seeflex_meta <- res2$meta_df
+
+# Deselect the word, sentence and token count and create GMA matrix
+seeflex <- convert_to_gma_matrix(seeflex_features_original)
+seeflex_z <- scale(seeflex)
+seeflex_zl <- signed.log(seeflex_z)
+
+# Perform LDA on data
+PCA <- GMA(seeflex_zl)
+LDA <- PCA$copy()
+LDA$add.discriminant(seeflex_meta$GENRE)
+seeflex_CV <- LDA$projection("both")
+
+# Convert dataset to df
+seeflex_CV_lda <- as.matrix(seeflex_CV[,1:4])
+seeflex_CV_df <- as.data.frame(seeflex_CV[, 1:4])
+
+# Define a response variable and convert object class to factor
+response <- seeflex_meta$GENRE
+if (!is.factor(response)) {
+  response <- as.factor(response)
+}
+
+# Define number of observations
+nrow_seeflex <- nrow(seeflex_CV)
+
+```
+
+# Support Vector Machine
+
+```{r pressure, echo=FALSE}
+
+res.type <- svm(
+  seeflex_CV_lda, 
+  response, 
+  kernel = "radial", 
+  cross = 10)
+
+svm.report <- function (res) {
+  acc <- mean(res$accuracies)
+  cat(sprintf("Mean accuracy: %.1f%%\n", acc))
+  cat("Cross-validation folds:\n")
+  print(round(res$accuracies, 1))
+}
+
+svm.report(res.type)
+
+```
+
+# Leave-one-out cross validation (LOOCV)
+
+NB: This step is included in the markdown as replication of the cross validation technique applied by Diwersy et al. (2014). This is problematic with the SEEFLEX data, however, since the data cannot be assumed to be independent due to various samples per participant and grouping into e.g. registers and genres, as well as schools and school years. Further below, a grouped cross-validation is performed to counteract the violation of the independence assumption (Winter & Grice, 2021)
+
+```{r}
+
+# Initialize a vector to store predictions and initialize a count to store the
+# correct assignment to classes
+predictions <- character(nrow_seeflex)
+count <- 0
+sflx <- as.data.frame(seeflex_zl)
+
+# Perform the LOOCV
+for (i in 1:nrow_seeflex) {
+  
+  # Exclude one observation (i) in each loop
+  train_data <- sflx[-i, ]
+  
+  # Fit the LDA model on training data using the correct response variable 
+  lda_model <- MASS::lda(response[-i] ~ ., data = train_data)
+  # svm_model <- svm(
+  #   x = train_data,
+  #   y = response[-i],
+  #   kernel = "radial",
+  #   cross = 10)
+  
+  # Predict on the left-out observation
+  pred <- predict(lda_model, newdata = sflx[i, , drop = FALSE])
+  # pred <- predict(svm_model, newdata = sflx[i, , drop = FALSE])
+  print(paste("pred", pred$class))
+  
+  # Store prediction
+  predictions[i] <- pred$class
+  # predictions[i] <- pred #svm
+  
+  # Print actual vs predicted for debugging purposes
+  print(paste("resp", response[i]))
+  if (response[i] == pred$class) {
+    count <- count + 1  # Increment the counter
+  }
+  cat("Observation", i, "- Actual:", response[i], "Predicted:", pred$class, "\n")
+}
+
+# Compare predictions with actual values and calculate accuracy
+accuracy <- count / nrow_seeflex * 100
+cat("Accuracy of LDA with Leave-One-Out Cross-Validation:", accuracy, "%\n")
+
+```
+
+# Grouped cross validation (GCV)
+
+For the grouped cross validation, the group is included in the data frame and the data is partitioned with knowledge of the grouping variable.
+
+```{r}
+
+seeflex_gcv <- as.data.frame(seeflex_zl)
+seeflex_gcv <- seeflex_gcv %>% 
+  mutate(group = response)
+
+set.seed(123)
+# folds <- groupKFold(seeflex_gcv$group, k = 5)  # You can change 'k' as needed
+folds <- createDataPartition(seeflex_gcv[,"group"],p=.75,list=FALSE)
+
+# Initialize results storage
+results <- list()
+
+# Perform cross-validation
+for (i in seq_along(folds)) {
+  train.index <- unlist(folds[-i])  # Get training indices for this fold
+  
+  if (length(unique(seeflex_gcv$group[train.index])) < length(levels(seeflex_gcv$group))) {
+    warning(paste("Fold", i, "is missing some group levels"))
+    next  # Skip this iteration if necessary
+  }
+  
+  seeflex_gcv.trn <- seeflex_gcv[train.index, ]
+  seeflex_gcv.tst <- seeflex_gcv[folds[[i]], ]  # Test set for this fold
+
+  ctrl <- trainControl(method = "none")  # No internal resampling needed here
+  
+  fit.cv <- train(group ~ ., data = seeflex_gcv.trn, method = "lda",
+                  trControl = ctrl) 
+
+  pred <- predict(fit.cv, seeflex_gcv.tst)
+  
+  cm <- confusionMatrix(table(seeflex_gcv.tst[,"group"], pred))
+  
+  results[[i]] <- cm$overall['Accuracy']  # Store accuracy or any other metric you're interested in
+}
+
+# Print results of each fold
+print(results)
+
+# If you want an overall accuracy across all folds:
+mean_accuracy <- mean(unlist(results))
+cat("Mean Accuracy across all folds:", mean_accuracy, "\n")
+
+```
+
+## References
+
+Diwersy, S., Evert, S., & Neumann, S. (2014). A weakly supervised multivariate approach to the study of language variation. In B. Szmrecsanyi & B. Wälchli (Hrsg.), Aggregating Dialectology, Typology, and Register Analysis (S. 174–204). DE GRUYTER. https://doi.org/10.1515/9783110317558.174.
+
+Winter, B., & Grice, M. (2021). Independence and generalizability in linguistics. Linguistics, 59(5), 1251–1277. https://doi.org/10.1515/ling-2019-0049.
+

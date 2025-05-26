@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>a12g42_t1</author>
+        <name>outline</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20211130</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+        <note genre="describing" genre_family="descriptive report">outline</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The article <ref target="a12gk4_1" type="title">language learning in the UK: can't, won't, don't</ref> written by <ref target="a12gk4_1" type="author">John Worn</ref> and published on <date>27 January 2015</date> deals with the question about learning foreign <choice><orig>language</orig><reg>languages</reg></choice> in the <name type="geo">UK</name>.</s>
+        <s>To describe this topic more detail the author uses the <choice><orig>Globalization</orig><reg>globalization</reg></choice> to illustrate the development of this conflict.</s>
+      </p>
+      <p>
+        <s>Firstly the author put the reader in the context and <choice><orig>critizieses</orig><reg>criticizes</reg></choice> the British view on learning languages.</s>
+        <s>Then he points out, that in the last seven years the number of students, who <choice><orig>chooses</orig><reg>choose</reg></choice> study foreign languages has <choice><orig>decline</orig><reg>declined</reg></choice> and employs the consequence for the <name type="geo">United Kingdom</name>.</s>
+        <s>Moreover <ref target="a12gk4_1" type="author">John Worne</ref> explains the lower results of the <name type="misc">A-level</name> exams connecting with the less motivation for languages.</s>
+        <s>He also <choice><orig>contradict</orig><reg>contradicts</reg></choice> the British people, who <choice><orig>thoughts</orig><reg>thought</reg></choice>, that <choice><orig>english</orig><reg>English</reg></choice> is the language for everywhere.</s>
+        <s>This irresponsible view, <ref target="a12gk4_1" type="author">Worne</ref> <choice><orig>critizieses</orig><reg>criticizes</reg></choice> most.</s>
+        <s>Therefore he employs how important languages are for the global standing and every aspect of the globalization.</s>
+        <s>Furthermore the author says, that the <name type="geo">UK</name> <choice><orig>buisnesses</orig><reg>businesses</reg></choice> actually <choice><orig>needs</orig><reg>need</reg></choice> to have a knowledge about foreign languages.</s>
+        <s>Besides <ref target="a12gk4_1" type="author">John Worne</ref> takes a positive aspect, the given possibility to study a language alongside another subject also animates for more.</s>
+        <s>After that he names advantages in the future, when you are able to speak more languages and animates renewed the young people.</s>
+        <s>To sum up his article <ref target="a12gk4_1" type="author">Worne</ref> speaks to the parents and <choice><orig>trys</orig><reg>tries</reg></choice> to animate the parents to consider about his aspects.</s>
+      </p>
+      <p>
+        <s>All in all one can say, that <ref target="a12gk4_1" type="author">John Worne</ref> <choice><orig>trys</orig><reg>tries</reg></choice> to animate and motivate the upcoming generations to <choice><orig>seperate</orig><reg>separate</reg></choice> with this topic.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

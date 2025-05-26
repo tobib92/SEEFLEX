@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a1</title>
+        <author>a12l07_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <date>20210927</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <address>
+        <addrLine>to: Ministry of Education</addrLine>
+      </address>
+    </head>
+    <body>
+      <p>
+        <salute>Hello,</salute>
+      </p>
+      <p>
+        <s>My name is John Smith and I heard you thought about taking <name type="person">Shakespeare's</name> sonnets off from the English school curriculum.</s>
+        <s>I wanted to tell you about my point of view as a student in English <gap reason="illegible" quantity="1" unit="word">aduec</gap> class.</s>
+        <s>My class talked about the same theme in the last weeks.</s>
+        <s>We <choice><orig>thougth</orig><reg>thought</reg></choice> of good arguments for<name type="person">Shakespeare</name> in school and against<name type="person">Shakespeare</name> in school.</s>
+        <s>So at first we <choice><orig>thougth</orig><reg>thought</reg></choice> about that <name type="person">Shakespeare's</name> <choice><orig>litrature</orig><reg>literature</reg></choice> may be <choice><orig>to</orig><reg>too</reg></choice> old and not fitting the time we live in.</s>
+        <s>So <choice><orig>thats</orig><reg>that's</reg></choice> why<name type="person">Shakespeare</name><choice><orig>shouldnt</orig><reg>shouldn't</reg></choice> be part of modern English classes.</s>
+        <s>But I think,<name type="person">Shakespeare</name> is <choice><orig>History</orig><reg>history</reg></choice>, not only his <choice><orig>Dramas</orig><reg>dramas</reg></choice>, but his sonnets everyone of the 154 tells a story and English class <choice><orig>cant</orig><reg>can't</reg></choice> only deal with modern <choice><orig>thems</orig><reg>themes</reg></choice> due to the long historical background.</s>
+        <s>On the one hand his language is way <choice><orig>to</orig><reg>too</reg></choice> difficult, so he shouldn't be part of the English classes, but on the other hand, what I find way more striking, is that we choose English-advanced class for a reason.</s>
+        <s>So we can focus on the English language.</s>
+        <s>I understand the point that <name type="person"><choice><orig>Shakespear's</orig><reg>Shakespeare's</reg></choice></name> English is very difficult but <choice><orig>its</orig><reg>it's</reg></choice> possible to understand everything.</s>
+        <s>Furthermore no one else as<name type="person">Shakespeare</name> dealt with <choice><orig>Drama's</orig><reg>dramas</reg></choice> and <choice><orig>Sonnet's</orig><reg>sonnets</reg></choice> that deep, so I think <choice><orig>its</orig><reg>it's</reg></choice> not the best way to take him <choice><orig>of</orig><reg>off</reg></choice> the curriculum.</s>
+        <s>All in all I <choice><orig>woud</orig><reg>would</reg></choice> say keep<name type="person">Shakespeare</name> in the curriculum, due to the presented arguments.</s>
+        <s>The only way to take him out is, when there is another historical person, that can replace him good.</s>
+        <s>I hope I could help you with the presented arguments and I am sure you wil do the <choice><orig>rigth</orig><reg>right</reg></choice> thing.</s>
+      </p>
+      <p>
+        <signed>Best <choice><orig>Greeting's</orig><reg>greetings</reg></choice>, Jane</signed>
+      </p>
+    </body>
+  </text>
+</TEI>

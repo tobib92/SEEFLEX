@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t1</title>
+        <author>c12l18_t1</author>
+        <name>sonnet_paraphrase</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211115</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="3"</note>
+        <note genre="recounting" genre_family="literary recount">sonnet_paraphrase</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <s>
+            <l>Like the waves flow towards the shore,</l>
+            <l>so do the minutes come to an end</l>
+          </s>
+          <s>
+            <l>Every place we have been changes,</l>
+            <l>When you are working hard for something progress comes within time.</l>
+          </s>
+        </lg>
+        <lg type="2nd quatrain">
+          <s>
+            <l>Life begins with Nativity</l>
+            <l>small steps lead to success,</l>
+            <l>time allows to make progress.</l>
+          </s>
+          <s>
+            <l>time has different aspects, life and progress</l>
+          </s>
+        </lg>
+        <lg type="3rd quatrain">
+          <s>
+            <l>Time is more <choice><orig>powerfull</orig><reg>powerful</reg></choice> than any beauty</l>
+          </s>
+          <s>
+            <l>It lets beauty fade when you are getting old</l>
+          </s>
+          <s>
+            <l>Death is part of the living <choice><orig>cyrcle</orig><reg>circle</reg></choice>,</l>
+            <l>And nothing is certain except for death.</l>
+          </s>
+        </lg>
+        <lg type="final couplet">
+          <s>
+            <l>And yet to later times I hope my poem still exists,</l>
+            <l><choice><orig>It's</orig><reg>It</reg></choice> does not change, despite the changes because of time.</l>
+          </s>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

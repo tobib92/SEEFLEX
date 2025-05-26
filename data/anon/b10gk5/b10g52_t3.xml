@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b10g52_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211221</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="personal response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>The life of a <choice><orig>Teenager</orig><reg>teenager</reg></choice> is very complicated.</s>
+        <s>It's your very first time, feeling different kind of emotions, like love or other things.</s>
+        <s>For many people being in this situation, reading a book about another teenager having the same <choice><orig>Problems</orig><reg>problems</reg></choice> is very good, because they can then empathize with them.</s>
+        <s>For me it's <choice><orig>kinda</orig><reg>kind of</reg></choice> the same, <ref target="b10gk5_1" type="title">The Hate U Give</ref>, had me understand many things I couldn't understand before.</s>
+      </p>
+      <p>
+        <s>For example the hard time of a black girl living multiple different <choice><orig>lifes</orig><reg>lives</reg></choice> and also how that feels.</s>
+        <s>I really love the story telling and characters in this novel or even film.</s>
+        <s>I can now understand how hard it is to be in the same situation as <ref target="b10gk5_1" type="character">Starr</ref> and now I will <choice><orig>apprechiate</orig><reg>appreciate</reg></choice> my good life without any hard conflicts even more.</s>
+        <s>I also love that even when <ref target="b10gk5_1" type="character">Starr</ref> is in a really bad situation she <choice><orig>show's</orig><reg>shows</reg></choice> love for other people and creates a happy atmosphere.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>c10g01_t3</author>
+        <name>comment</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="critical response">comment</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>I agree with the statement <quote>The limits of my language are the limits of my world</quote> from <name type="person">Ludwig Wittgenstein</name> <add>(German linguist philosopher, <date>1889</date>-<date>1951</date>)</add>, because with who you are able to communicate and what you are able to consume dictates your world and <choice><orig>it's</orig><reg>its</reg></choice> borders.</s>
+        <s>Not only <choice><orig>traveling</orig><reg>travelling</reg></choice>, but working in another country and living there is possible without learning the language spoken there but really living there, <choice><orig>expiriencing</orig><reg>experiencing</reg></choice> it like locals, communicating with other people is something that won't be possible.</s>
+        <s>And of course things like translators or interpretors exist but they're still a border between you and whoever you're trying to talk to.</s>
+        <s>Learning a new language also almost always involves learning about a new culture and <choice><orig>it's</orig><reg>its</reg></choice> traditions and beauty, something that will surely enrich your world.</s>
+        <s>The next thing is media like books or music etc.</s>
+        <s>Again, there of course are versions in other languages for several of them and translators exist, but things get lost in translation and this media was created in its original language.</s>
+      </p>
+      <p>
+        <s>In conclusion, the more languages you know, the more opportunities you have and with that, lesser limits in, for example your job or where you want to live or with who you communicate.</s>
+        <s>Speaking another language makes you able to understand more people, to consume more content and to get more knowledge, <choice><orig>wich</orig><reg>which</reg></choice> are all things that broaden your horizon and stretch the limits of your own world.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

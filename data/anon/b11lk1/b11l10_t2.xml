@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t2</title>
+        <author>b11l10_t2</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211211</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="3"</note>
+        <note genre="responding" genre_family="interpretation">analyze</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>Throughout the novel, <name type="person">Delaney</name> often shifts from his humanist tendencies to his paranoia slowly building up a hatred against illegal <choice><orig>mexican</orig><reg>Mexican</reg></choice> immigrants.</s>
+        <s>In this chapter, upon seeing a <choice><orig>mexican</orig><reg>Mexican</reg></choice>, he immediately suspects them of wanting to do something bad.</s>
+        <s>In the following I am going to analyse <name type="person">Delaney's</name> state of mind throughout this excerpt.</s>
+      </p>
+      <p>
+        <s>The novel is mostly written from the view of a <choice><orig>third-person-narrator</orig><reg>third-person narrator</reg></choice>.</s>
+        <s>At the beginning, <name type="person">Delaney</name> is <choice><orig>reminescing</orig><reg>reminscing</reg></choice> about his losses and realises that he has to accept that sad reality of his own <ref target="b11lk1_1" type="line">(l. 7)</ref> <quote>... the worlds spread out before him, glum, dogless, on his own.</quote> With <quote>dogless</quote> he is <choice><orig>refering</orig><reg>referring</reg></choice> to both of his dogs that got eaten by coyotes and with <quote>on his own</quote> he is referring to the people who are in favour of building a gate around <name type="geo">Arroyo Blanco</name> to which he is opposed to and <name type="geo">Los Angeles, California</name> as a whole which is known to be full of illegal <choice><orig>mexican</orig><reg>Mexican</reg></choice> immigrants he cannot trust.</s>
+        <s>At this moment his mind is filled with sadness and distrust.</s>
+        <s>His mindset soon switches though because when he sees a blank figure in the background <choice><orig>approching</orig><reg>approaching</reg></choice> the <name type="person">Cherrystones'</name> property, he comes closer, but does not immediately act.</s>
+      </p>
+      <p>
+        <ref target="b11lk1_1" type="line">(ll. 16-17)</ref>
+        <quote>
+          <s>... <name type="person">Delaney</name> came closer still, and noticed something else, something that struck him with the force of a blow: <choice><orig>The</orig><reg>the</reg></choice> man was Mexican.</s>
+        </quote>
+      </p>
+      <p>
+        <s>In this passage you can see that <name type="person">Delaney</name> only started acting upon finding out that the man is <choice><orig>mexican</orig><reg>Mexican</reg></choice>, and that is a form of micro-aggression.</s>
+        <s>WIth that his state of mind shifted from his sadness to immediate anger, as he does treat the man harshly.</s>
+      </p>
+      <p>
+        <s><ref target="b11lk1_1" type="line">(ll. 25-26)</ref><quote>... didn't <name type="person">Kyra</name> say that the man who'd threatened her at the <name type="geo">Da Ros</name> place was wearing a <name type="misc">Podres</name> cap turned backwards?</quote> Upon that realisation he does not even fact check if that really is the man whom has threatened his wife and his anger just gradually increases.</s>
+        <s>As you can see, <name type="person">Delaney's</name> questions towards <name type="person">José</name> get after each question even more aggressive until he straight up commands <name type="person">José</name> to say what he is doing there in line 37.</s>
+        <s><quote>I want to know what you think you're doing here</quote>.</s>
+      </p>
+      <p>
+        <s><name type="person">Delaney's</name> anger and aggressivenes get to the point where he tries to use brute force to get <name type="person">José</name> to speak by grabbing his forearm <ref target="b11lk1_1" type="line">(ll. 42-43)</ref> <quote>... he had hold of the man's forearm</quote>.</s>
+      </p>
+      <p>
+        <s>As a reader of this novel we know that <name type="person">José</name> is, in fact not trying to rob the <name type="person">Cherrystones</name>, and instead is handing out <choice><orig>fliers</orig><reg>flyers</reg></choice>, which he does say to <name type="person">Delaney</name> <ref target="b11lk1_1" type="line">(ll. 46-47)</ref> <quote>I got these flies</quote>.</s>
+        <s>In the heat of the moment <name type="person">Delaney</name> did not pay any attention to that and thus could not make out what the man meant with <quote>flies</quote>, as he was aggrevating the situation by focusing on the fact that <name type="person">José</name> spat between his feet.</s>
+        <s>His aanger, that has worsened, can be seen in line 48.</s>
+        <s><quote><name type="person">Delaney</name> was riding the crest of the moment, trembling, angry, ready for anything</quote>.</s>
+      </p>
+      <p>
+        <s>At this point, you can tell that he insanely mad and full of hatred, as he calls the man bad things such as a thief, and a liar, but also makes some racist remarks such as <quote>the stinking occupant of a stinking sleeping bag in the state forest, a trespasser, a polluter, a Mexican</quote> <ref target="b11lk1_1" type="line">(ll. 49-50)</ref>.</s>
+        <s>With all the things he said and listed with an enumeration, he basically just puts his definition of a <choice><orig>mexican</orig><reg>Mexican</reg></choice>.</s>
+        <s>And he is not only referring to the illegal <choice><orig>mexican</orig><reg>Mexican</reg></choice> immigrants, he said <quote>Mexican</quote>, just discriminated every existing <choice><orig>mexican</orig><reg>Mexican</reg></choice>.</s>
+      </p>
+      <p>
+        <s>Then when <name type="person">José</name> finally takes out the <choice><orig>flier</orig><reg>flyer</reg></choice> and repeats himself, <name type="person">Delaney</name> realises he was in the wrong, his anger turned into shame, so devastated he couldn't speak <ref target="b11lk1_1" type="line">(l. 60)</ref>.</s>
+        <s>He was wrong about something that he thought was right and is now fully ashamed, yet does not apologise to <name type="person">José</name> anyway.</s>
+        <s>Throughout this whole chapter, <name type="person">Delaney's</name> state of mind goes from sadness, to pure anger when he sees a <choice><orig>mexican</orig><reg>Mexican</reg></choice> and finally shame when he finds out that the <choice><orig>mexican</orig><reg>Mexican</reg></choice> was right and he was not.</s>
+      </p>
+    </body>
+  </text>
+</TEI>

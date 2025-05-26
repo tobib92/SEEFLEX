@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>t3a</title>
+        <author>b11g18_t3</author>
+        <name>formal_letter</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <date>20211216</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="3"</note>
+        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <salute>Dear Sir or Madam,</salute>
+      </p>
+      <p>
+        <s>I am writing to you in response to the interview with <name type="misc">Ayad Akhtar</name> which has only recently been published in <name type="misc">Guernica Magazine</name> and I wanted to tell you about my opinion about faith being one's main identity marker, as <name type="misc">Akhtar</name> <choice><orig>call</orig><reg>calls</reg></choice> it.</s>
+      </p>
+      <p>
+        <s>After I read the book of the play <name type="misc">Disgraced</name> I at first thought <name type="misc">Ayad Akhtar</name> was right that one's main identity is defined by faith.</s>
+        <s>Which is shown by <name type="misc">Akhtar</name> in his play at the example of <name type="misc">Amir</name>.</s>
+        <s><choice><orig>Who's</orig><reg>Whose</reg></choice> life is influenced by his Muslim <choice><orig>heiratage</orig><reg>heritage</reg></choice>.</s>
+        <s>For example in his job where he hides his background so that he won't get associated with Muslims who everyone think are terrorists.</s>
+        <s>But in my opinion, a student growing up in <name type="geo">Germany</name> faith isn't as important as in the play <name type="misc">Disgraced</name> described.</s>
+      </p>
+      <p>
+        <s>For example I don't choose my friends based on religion but based on what <choice><orig>interesses</orig><reg>interests</reg></choice> they have or what football-club they are fans of or if they play the same sports as me.</s>
+        <s>These are the points which <choice><orig>describes</orig><reg>describe</reg></choice> one's main identity in my point of view.</s>
+        <s>Maybe I sometimes meet new friends through church but they aren't my friends because we have the same religion but because we have some <choice><orig>interesses</orig><reg>interests</reg></choice> which are the same.</s>
+      </p>
+      <p>
+        <s>Maybe it is only the case in <name type="geo">Germany</name> because here are most people Christians or non believer and not like in the <name type="geo">USA</name> where a lot of different <choice><orig>believes</orig><reg>beliefs</reg></choice> come together at one place.</s>
+      </p>
+      <p>
+        <s>Then you have to find someone with whom you have the same <choice><orig>interesses</orig><reg>interests</reg></choice> which probably is most easily to find in someone who has the same religion as you.</s>
+        <s><choice><orig>Thats</orig><reg>That's</reg></choice> because it would mean you have one thing in common.</s>
+      </p>
+      <p>
+        <s>But now back to <name type="misc">Amir</name>.</s>
+        <s>In my opinion the <choice><orig>believe</orig><reg>belief</reg></choice> of <name type="misc">Ayad Akhtar</name> that faith being one's main identity marker is represented in his book, where everything has to do something with religion.</s>
+      </p>
+      <p>
+        <s>For example at the celebrations party for <name type="misc"><choice><orig>Emilys</orig><reg>Emily's</reg></choice></name> art gallery all they do is talk about religion instead of the art gallery.</s>
+      </p>
+      <p>
+        <s>Another argument for faith being one's main identity marker is also brought by <name type="misc">Amir</name> at the celebration party for <name type="misc"><choice><orig>Emilys</orig><reg>Emily's</reg></choice></name> art gallery when he tells everyone that in Muslim countries the Quran is like the constitution in the <name type="geo">USA</name>.</s>
+        <s>When I read this I asked myself how do you want to identify yourself else when even your country is identified <choice><orig>trough</orig><reg>through</reg></choice> faith.</s>
+      </p>
+      <p>
+        <s>But we can feel lucky that not in every country the country is identified through faith.</s>
+        <s>Since faith is something which has brought countless wars.</s>
+        <s>For example the <foreign xml:lang="de">Kreuzzüge</foreign> where millions of people died in the name of a holy war.</s>
+      </p>
+      <p>
+        <s>Another negative point is that if everyone would be identified <choice><orig>trough</orig><reg>through</reg></choice> faith we would have a lot more conflicts and discrimination today.</s>
+      </p>
+      <p>
+        <s>Since each religion would want to prove that they are right and everyone else wrong.</s>
+      </p>
+      <p>
+        <s>That is why I think faith is not one's main identity marker and that we should feel that this isn't the case.</s>
+      </p>
+      <p>
+        <signed>Yours sincerely, John</signed>
+      </p>
+    </body>
+  </text>
+</TEI>
