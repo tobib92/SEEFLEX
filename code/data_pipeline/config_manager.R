@@ -4,8 +4,8 @@ library(log4r)
 
 # logger <- create.logger()
 
-CONFIG_FILE <- "./config.yml"
-BUNDLES_FILE <- "./bundles.yml"
+CONFIG_FILE <- "code/data_pipeline/config.yml"
+BUNDLES_FILE <- "code/data_pipeline/bundles.yml"
 
 
 ConfigManager <- R6::R6Class(

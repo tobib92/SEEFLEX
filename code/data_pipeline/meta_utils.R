@@ -1,3 +1,5 @@
+#### Set working directory to the SEEFLEX root folder ####
+
 library(xml2)
 library(stringr)
 library(tidyverse)
@@ -62,7 +64,7 @@ calculate_lextale <- function(meta, words, nonwords, score) {
                       (meta[[nonwords]] / 20 * 100)) / 2
 
   lextale_vars <- c(words, nonwords)
-  
+
   meta <- meta %>%
     dplyr::relocate(matches(score), .after = nonwords) %>%
     dplyr::select(-all_of(lextale_vars))
@@ -285,18 +287,18 @@ group_operators <- function(meta) {
       .$OPERATOR %in% "dialogue" ~ "creative",
       .$OPERATOR %in% "diary" ~ "creative",
       .$OPERATOR %in% "discuss" ~ "argumentative",
-      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "a11gk4" &
+      (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "a11gk4" &
          .$TASK %in% "t3") ~ "argumentative",
-      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "a11gk4" &
+      (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "a11gk4" &
          .$TASK %in% "t4") ~ "mediation",
-      (.$OPERATOR %in% "e-mail_informal" & .$COURSE %in% "c10gk4") ~
+      (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "c10gk4") ~
         "argumentative",
-      .$OPERATOR %in% "e-mail_informal" ~ "mediation",
-      .$OPERATOR %in% "explain" ~ "int.reading",
-      .$OPERATOR %in% "letter_formal" ~ "argumentative",
-      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "c12lk1") ~
+      .$OPERATOR %in% "informal_e-mail" ~ "mediation",
+      .$OPERATOR %in% "explain" ~ "analysis",
+      .$OPERATOR %in% "formal_letter" ~ "argumentative",
+      (.$OPERATOR %in% "informal_letter" & .$COURSE %in% "c12lk1") ~
         "argumentative",
-      (.$OPERATOR %in% "letter_informal" & .$COURSE %in% "a10gk6") ~
+      (.$OPERATOR %in% "informal_letter" & .$COURSE %in% "a10gk6") ~
         "mediation",
       .$OPERATOR %in% "magazine" ~ "mediation",
       # .$OPERATOR %in% "monologue" ~ "mediation",
@@ -304,34 +306,34 @@ group_operators <- function(meta) {
       .$OPERATOR %in% "blog" ~ "creative",
       .$OPERATOR %in% "news" ~ "mediation",
       .$OPERATOR %in% "outline" ~ "int.reading",
-      .$OPERATOR %in% "paraphrase_sonnet" ~ "int.reading",
+      .$OPERATOR %in% "sonnet_paraphrase" ~ "int.reading",
       .$OPERATOR %in% "point_out" ~ "int.reading",
       .$OPERATOR %in% "present" ~ "int.reading",
       .$OPERATOR %in% "report" ~ "mediation",
       .$OPERATOR %in% "soliloquy" ~ "creative",
-      (.$OPERATOR %in% "speech" & .$COURSE %in% "c10gk3") ~ "creative",
+      (.$OPERATOR %in% "speech" & .$COURSE %in% "c10gk3") ~ "int.reading",
       .$OPERATOR %in% "speech" ~ "argumentative",
       .$OPERATOR %in% "story" ~ "creative",
       .$OPERATOR %in% "summarize" ~ "int.reading",
       .$OPERATOR %in% "sum_up" ~ "int.reading"
     )) %>%
-    dplyr::mutate(OPERATOR.14 = dplyr::recode(.$OPERATOR,
+    dplyr::mutate(OPERATOR.17 = dplyr::recode(.$OPERATOR,
                                        "outline" = 'summarize',
-                                       "point_out" = 'summarize',
+                                       # "point_out" = 'summarize',
                                        "present" = 'summarize',
                                        # "report" = 'summarize',
                                        "discuss" = 'comment',
                                        "assess" = 'comment',
                                        "explain" = 'analyze',
                                        "news" = 'magazine',
-                                       "letter_informal" = 'e-mail_informal',
+                                       "informal_letter" = 'informal_e-mail',
                                        "sum_up" = "summarize",
                                        # "blog" = 'diary',
                                        "soliloquy" = 'interior_monologue')) %>%
     dplyr::rename(OPERATOR.25 = OPERATOR) %>%
     dplyr::relocate(T.CURR, .after = TASK) %>%
-    dplyr::relocate(OPERATOR.14, .after = T.CURR) %>%
-    dplyr::relocate(OPERATOR.25, .after = OPERATOR.14)
+    dplyr::relocate(OPERATOR.17, .after = T.CURR) %>%
+    dplyr::relocate(OPERATOR.25, .after = OPERATOR.17)
     # dplyr::relocate(TASK.NO, .after = OPERATOR.25)
 
 }

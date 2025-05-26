@@ -1,8 +1,8 @@
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
-source("meta_utils.R")
-source("xml_utils.R")
+source("code/data_pipeline/meta_utils.R")
+source("code/data_pipeline/xml_utils.R")
+source("code/data_pipeline/meta_data.R")
 
 library(xlsx)
 
@@ -43,13 +43,13 @@ create_task_id <- function(df) {
 #' @param df A data frame containing the COURSE and TASK columns
 
 create_task_match <- function(df) {
-  
-  df_match <- df %>% 
-    dplyr::mutate(MATCH = str_c(COURSE, T.CURR, OPERATOR.25, sep = "_")) %>% 
+
+  df_match <- df %>%
+    dplyr::mutate(MATCH = str_c(COURSE, T.CURR, OPERATOR.25, sep = "_")) %>%
     dplyr::relocate(MATCH, .before = 1)
-  
+
   return(df_match)
-  
+
 }
 
 
@@ -79,7 +79,7 @@ differentiate_t3_in_df <- function(df) {
   df$count <- ave(1:nrow(df), df$TASK, df$T.CURR, df$COURSE, FUN = length)
 
   # Create a suffix only for combinations that occur more than once
-  df$suffix <- ifelse(df$count > 1, ave(1:nrow(df), df$TASK, df$COURSE, 
+  df$suffix <- ifelse(df$count > 1, ave(1:nrow(df), df$TASK, df$COURSE,
                                         FUN = seq_along), NA)
 
   # Add the suffix to values in column A where applicable
@@ -117,35 +117,35 @@ extend_task_df <- function(df) {
 
 
 #' This function creates a lookup and returns the matching values from data_key.
-#' 
+#'
 #' @param lookup_value Value to be returned based on lookup_key
 #' @param lookup_key Value to be matched based on data_key
 #' @param data_key List of values to return lookups for
 #' @param full_match If true will error if any non-matches are found
 #' @return A named list.
 
-perform_lookup <- function(lookup_value, lookup_key, data_key, 
+perform_lookup <- function(lookup_value, lookup_key, data_key,
                            full_match = TRUE) {
-  
+
   # Lookup value must be the same length as lookup_key
   stopifnot(length(lookup_value) == length(lookup_key))
-  
+
   my_lookup <- setNames(as.list(lookup_value), lookup_key)
-  
+
   matches <- sapply(data_key, function(key) my_lookup[[key]])
-  
+
   null_values <- sapply(matches, is.null)
-  
+
   has_nulls <- any(null_values)
-  
+
   if (has_nulls & full_match) {
     missing_keys <- names(matches)[null_values]
     print(unique(missing_keys))
     stop("There are non-matching values.")
   }
-  
+
   return(matches)
-  
+
 }
 
 
@@ -161,11 +161,11 @@ create_genre_nodes <- function(xml_file, namespaces, df) {
   # get the author node from xml file and extract the string
   author_node <- xml_find_first(xml_file, "//d1:titleStmt//d1:author", namespaces)
   author_text <- xml_text(author_node)
-  
+
   # match the ids from the file and the df
   matched_id <- df %>%
     dplyr::filter(ID == author_text)
-  
+
   # get the operator name from the xml file
   operator_node <- xml_find_first(xml_file, "//d1:titleStmt//d1:name", namespaces)
   operator_text <- xml_text(operator_node)
@@ -180,7 +180,7 @@ create_genre_nodes <- function(xml_file, namespaces, df) {
     # Add attributes from the data frame columns
     xml_set_attr(note_node, "genre", matched_id$GENRE[1])
     xml_set_attr(note_node, "genre_family", matched_id$GENRE_FAMILY[1])
-    
+
   } else {
     stop("Matched task ID not equal to 1!")
   }
@@ -208,13 +208,13 @@ update_task_nodes <- function(xml_file, namespaces, df) {
   # match the ids from the file and the df
   matched_id <- df %>%
     dplyr::filter(ID == author_text)
-  
+
   if (nrow(matched_id) == 1) {
-    xml_text(task_node) <- matched_id$TASK[1]    
+    xml_text(task_node) <- matched_id$TASK[1]
   } else {
     stop("Matched task ID not equal to 1!")
   }
-  
+
   return(xml_file)
 }
 
@@ -294,14 +294,14 @@ write_task_nodes <- function(input_directory, output_directory) {
 }
 
 
-######################## matching tasks and genres #############################
+##### Matching tasks and genres #####
 
 # Read the raw tasks table, clean it, add operators and write to .xlsx.
-TD <- read_delim("../../data/tasks.csv", delim = ";")
+TD <- read_delim("data/tasks.csv", delim = ";")
 TD <- group_operators(TD)
 TD <- differentiate_t3_in_df(TD)
 TD <- create_task_id(TD)
-GD <- read.csv("../../data/genres.csv", sep = ";")
+GD <- read.csv("data/genres.csv", sep = ";")
 
 # Join the data frames
 TD <- TD %>%
@@ -316,19 +316,23 @@ WD_match <- create_task_match(WD)
 # Lookup tasks, genres and genre families in TD and write to WD
 WD$TASK <- perform_lookup(TD_match$TASK, TD_match$MATCH, WD_match$MATCH)
 WD$GENRE <- perform_lookup(TD_match$GENRE, TD_match$MATCH, WD_match$MATCH)
-WD$GENRE_FAMILY <- perform_lookup(TD_match$GENRE_FAMILY, TD_match$MATCH, 
+WD$GENRE_FAMILY <- perform_lookup(TD_match$GENRE_FAMILY, TD_match$MATCH,
                                   WD_match$MATCH)
 
 # Write the task nodes to a directory of files
-write_task_nodes(input_directory = "../../data/anon/",
-                  output_directory = "../../data/anon/")
+write_task_nodes(input_directory = "data/anon/",
+                  output_directory = "data/anon/")
 
 # Write the genre nodes to a directory of files
-write_genre_nodes(input_directory = "../../data/anon/",
-                  output_directory = "../../data/anon/")
+write_genre_nodes(input_directory = "data/anon/",
+                  output_directory = "data/anon/")
 
+# write the combined data frame to a file
+current_date <- format(Sys.Date(), "%Y%m%d")
+output_filename <- paste0("data/", current_date, "_tasks_complete.csv")
+write.csv(x = TD, file = output_filename, row.names = FALSE)
 
-########################## manual genre matching ###############################
+##### Manual genre matching #####
 # Read the modified Excel file and match the genres to tasks
 # GD <- read.xlsx(file = "../../output/tasks.xlsx", sheetIndex = 1)
 # GD <- read.xlsx(file = "../../../../sciebo/IfAAR/Forschung/Dissertation/Data Analysis/seeflex/output/tasks.xlsx", sheetIndex = 1)
@@ -336,4 +340,3 @@ write_genre_nodes(input_directory = "../../data/anon/",
 # GD <- match_genres_to_tasks(GD)
 # GD <- GD %>%
 #   dplyr::select(TASK_ID, GENRE, GENRE_FAMILY)
-write.csv(x = TD, file = "../../data/tasks_complete.csv", row.names = FALSE)

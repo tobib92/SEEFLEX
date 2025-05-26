@@ -1,9 +1,9 @@
 # SEEFLEX
 The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
 
-Version 0.1.0
+Version 1.0.0
 
-**Author:** Tobias Pauls
+**Author:** Tobias Pauls<br>
 **Contact:** tobias.pauls@ifaar.rwth-aachen.de
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13906356.svg)](https://doi.org/10.5281/zenodo.13906356)
@@ -26,6 +26,7 @@ Over the decades, learner corpora have covered a variety of languages and profic
 The data folder contains the following files:
 - The `xml`-files containing the individual student texts. The corpus files each contain a TEI Header and mark-up that was deleveloped using the P5 Guidelines of the Text Encoding Initiative (TEI) (TEI Consortium, 2021).
 - The meta-data including all variables and test scores.
+- The source texts used in the exams, as well as per task information on prompts, registers and genres.
 - The output from the feature extraction described in Neumann and Evert (2021) using the features derived from register theory in Neumann (2014).
 - The data needed to run the Shiny applications (see below)
 
@@ -38,26 +39,35 @@ The data folder contains the following files:
 
 ## Code
 
-The code contained in this online supplement comes with three main features: 
-- A data pipeline for various analyses.
+The code contained in this online supplement comes with four main features: 
+- The data pipeline scripts.
 - Scripts to generate sample plots of the data.
-- A Shiny application containing both the scatterplot viewer and the feature weights viewer developed in Neumann & Evert (2021)
+- The SEEFLEX version materials necessary to perform the GMA analysis (Neumann & Evert, 2021)
+- The code to run the SEEFLEX Shiny applications (originally developed in Neumann & Evert, 2021) locally
 
 
 ## Output
 
-The output section contains exemplary figure output. Consecutive versions will include e.g. further analyses and output data.
-
+- Different versions of the corpus data (e.g. in the corrected version vs. the original version)
+- Output files (e.g. collapsed version of the corpus for CLAWS pos-tagging)
+- Sample plots generated from the [plot scripts](code/plots/)
 
 ## References
 
-- Evert, S. & The CWB Development Team. (2020). The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5) [Computer software]. http://cwb.sourceforge.net/files/CQP_Tutorial/
-- Neumann, S. (2014). Contrastive Register Variation: A Quantitative Approach to the Comparison of English and German. Trends in Linguistics. Studies and Monographs: Vol. 251. Mouton de Gruyter.
-- Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
-- The TEI Consortium. (2021). TEI P5: Guidelines for Electronic Text Encoding and Interchange (Version 4.3.0.). https://tei-c.org/Vault/P5/4.3.0/doc/tei-p5-doc/en/Guidelines.pdf
+- Evert, S. & The CWB Development Team. (2020). *The IMS Open Corpus Workbench (CWB) CQP Query Language Tutorial (CWB Version 3.5)*. http://cwb.sourceforge.net/files/CQP_Tutorial/
+- Neumann, S. (2014). *Contrastive Register Variation: A Quantitative Approach to the Comparison of English and German*. Trends in Linguistics. Studies and Monographs: Vol. 251. Mouton de Gruyter.
+- Neumann, S., & Evert, S. (2021). *A register variation perspective on varieties of English*. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
+- The TEI Consortium. (2021). *TEI P5: Guidelines for Electronic Text Encoding and Interchange (Version 4.3.0.)*. https://tei-c.org/Vault/P5/4.3.0/doc/tei-p5-doc/en/Guidelines.pdf
 
 
 ## License
+
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].

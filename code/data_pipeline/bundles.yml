@@ -2,11 +2,10 @@
 bundles:
   default: {}                          # Indicates that all defaults are used
   original:
-    remove_teiHeader: true
+    use_orig: true
   corrected:
     use_orig: false
     use_expan: true
-    remove_teiHeader: true
   lexical_sophistication: # use corrected versions for lexical sophistication analysis
     use_orig: false
     remove_quotes: true
@@ -22,7 +21,7 @@ bundles:
     remove_surplus: true
     remove_dates: true
     remove_links: true
-  clean_text:
+  raw_text:
     use_orig: false
     use_expan: true
     remove_quotes: true
@@ -44,4 +43,3 @@ bundles:
     remove_stage: true
     remove_kinesic: true
     remove_emph: true
-    remove_teiHeader: true

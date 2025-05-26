@@ -19,7 +19,11 @@
 ##  - ylim = display range on y-axis (NULL or two-element vector)
 ## returns a ggplot object that has to be printed to display the graph
 
-ggbox.features <- function(M, Meta, what = c("features", "weighted", "contribution"), weights = rep(1, ncol(M)), group = NULL, group.palette = NULL, subset = NULL, select = NULL, feature.names = NULL, id.var = "id", main = NULL, nrow = 2, bw = FALSE, base_size = 12, diamond.size = 2.5, group.labels = TRUE, ylim = NULL) { # Steph id.var = "filename"
+ggbox.features <- function(M, Meta, what = c("features", "weighted", "contribution"),
+                           weights = rep(1, ncol(M)), group = NULL, group.palette = NULL,
+                           subset = NULL, select = NULL, feature.names = NULL, id.var = "id",
+                           main = NULL, nrow = 2, bw = FALSE, base_size = 12,
+                           diamond.size = 2.5, group.labels = TRUE, ylim = NULL, group.var = NULL) {
   n <- nrow(M)
   k <- ncol(M)
   stopifnot(nrow(Meta) == n)
@@ -58,14 +62,58 @@ ggbox.features <- function(M, Meta, what = c("features", "weighted", "contributi
   table.wide <- cbind(table.wide, M)
   table.long <- reshape2::melt(table.wide, id = c("id", "group"))
 
+  #### output print statements ####
+  ## Check individual weights values by writing output to a file
+  write.csv(table.long, "output_file.csv", row.names = FALSE)
+  filtered_data <- as.data.frame(table.long)
+
+  # Filter out 'other'
+  filtered_data <- filtered_data %>%
+    dplyr::filter(group != "other")
+
+  # Create summary values
+  nrow_filtered <- paste("n_ids:", nrow(filtered_data))
+  ngroup_filtered <- paste("n_groups:", length(unique(filtered_data$group)))
+  nvar_filtered <- paste("n_var:", length(unique(filtered_data$variable)))
+  sum_filtered <- paste("sum:", sum(filtered_data$value))
+  mean_filtered <- paste("mean:", mean(filtered_data$value))
+  weights_filtered <- paste(
+      names(weights), round(weights, digits = 3), sep = " ", collapse = ", ")
+
+
+  # Create print df
+  print_data <- filtered_data %>%
+    dplyr::mutate(value = as.character(value)) %>%
+    tibble::add_row(
+      id = nrow_filtered,
+      group = ngroup_filtered,
+      variable = nvar_filtered,
+      value = sum_filtered,
+      .before = 1
+      ) %>%
+    tibble::add_row(
+      id = "SUMMARY:",
+      group = "_______",
+      variable = "_______",
+      value = mean_filtered,
+      .after = 1
+    )
+  options(max.print=10000)
+  print("SUMMARY DF OF SELECTIONS IN FEATURE WEIGHTS APP:")
+  print(paste("Current selected weights:", weights_filtered))
+  print(print_data)
+
   bp <- ggplot(table.long, aes(x = group, y = value, colour = group)) +
-    facet_wrap(~variable, nrow = nrow)
+    facet_wrap(~variable, nrow = nrow, scales = "free_x")
   bp <- bp +
     geom_boxplot(notch = FALSE, lwd = .6, outlier.shape = 18, outlier.colour = "#666666") +
     stat_summary(fun = "mean", geom = "point", shape = 23, fill = "white", size = diamond.size) +
     theme_bw(base_size = base_size) +
-    theme(strip.text.x = element_text(angle = 90, hjust = 0)) +
-    ggtitle(main) + xlab("") +
+    geom_hline(yintercept = 0, color = "#666666", linetype = "dashed") +
+    theme(strip.text.x = element_text(angle = 90, hjust = 0),
+          legend.key.width = unit(0.5, "cm"), legend.box =
+          ) +
+    ggtitle(main) + xlab("") + labs(color = ifelse(!is.null(group.var), group.var, "group")) +
     ylab(switch(what,
       features = "feature values",
       weighted = "weighted feature values",
@@ -98,14 +146,6 @@ ggbox.selected <- function(M, Meta, weights, cats, variable,
                            main = "", group.labels = FALSE, ...) {
   # Input Validation
   Meta[[variable]] <- factor(Meta[[variable]])
-  print("Cats:")
-  print(cats)
-
-  print("Names of Colours:")
-  print(names(colours))
-
-  print("Levels of Meta[[variable]]:")
-  print(levels(Meta[[variable]]))
   stopifnot(
     all(cats %in% names(colours)),
     all(cats %in% levels(Meta[[variable]]))

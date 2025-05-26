@@ -39,4 +39,4 @@ text_cleaning:
 
   remove_teiHeader: false                          # Remove the TEI Header in the documents
 
-use_bundle: default
+use_bundle: original

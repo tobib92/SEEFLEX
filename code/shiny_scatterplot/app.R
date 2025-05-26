@@ -7,15 +7,20 @@ library(scatterD3)
 library(htmlwidgets) # for saveWidget()
 library(magrittr)
 
-source("app_setup.R")
+if (file.exists(".Renviron")) {
+  readRenviron(".Renviron")
+}
+
+source("code/shiny_scatterplot/app_setup.R")
 
 ###################################### UI ######################################
 
-source("ui.R", local = TRUE)
+source("code/shiny_scatterplot/ui.R", local = TRUE)
 
 #################################### Server ####################################
 
-source("server.R", local = TRUE)
+source("code/shiny_scatterplot/server.R", local = TRUE)
+
 
 # Run the application
 shinyApp(

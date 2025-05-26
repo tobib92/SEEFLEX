@@ -1,181 +1,63 @@
-Presets <-
-  list(
-    W1 = list(
-      name = "Preset W1",
-      lda = "lda20", dim = "LD1",
-      y = "contribution",
-      granularity = "n20",
-      focus_variety = "all",
-      show_textcat20 = c("conversations/phonecalls", "news reports")
+Presets <- list(
+  preset_ = list(
+    name = "W1: All pronouns per word across operators", lda = "pca",
+    dim = "PC1", y = "contribution", granularity = "n17", focus_t.curr = c(
+      "analysis",
+      "argumentative", "creative", "int.reading", "mediation"
     ),
-    W2 = list(
-      name = "Preset W2",
-      lda = "lda20", dim = "LD1",
-      y = "contribution",
-      granularity = "n20",
-      focus_variety = "all",
-      show_textcat20 = c(
-        "conversations/phonecalls",
-        "academic writing",
-        "popular-scientific writing",
-        "news reports",
-        "press editorials"
-      )
+    focus_genre = c(
+      "describing", "entertaining", "explaining",
+      "inquiring", "persuading", "recounting", "responding"
+    ), focus_grade = c(
+      "10",
+      "11", "12"
+    ), feature_deselect = "selected_features", focus_feature = "pall_W",
+    focus_weight = 0L, plot_size = "M", use_legend = TRUE, use_ylim_box = FALSE,
+    use_ylim_disc = FALSE, show_OPERATOR.17 = c(
+      "analyze", "blog",
+      "characterize", "comment", "describe", "dialogue", "diary",
+      "formal_letter", "informal_e-mail", "interior_monologue",
+      "magazine", "point_out", "report", "sonnet_paraphrase", "speech",
+      "story", "summarize"
+    ), show_OPERATOR.25 = character(0)
+  ),
+  preset_2 = list(
+    name = "W2: Pronouns in dialogues and speeches", lda = "pca",
+    dim = "PC1", y = "contribution", granularity = "n17", focus_t.curr = c(
+      "analysis",
+      "argumentative", "creative", "int.reading", "mediation"
     ),
-    W2a = list(
-      name = "Preset W2a",
-      lda = "lda20",
-      dim = "LD1",
-      y = "contribution",
-      granularity = "n20",
-      focus_variety = "all",
-      show_textcat20 = c(
-        "parliamentary debates",
-        "scripted monologues",
-        "academic writing",
-        "popular-scientific writing",
-        "news reports",
-        "press editorials"
-      )
-    ),
-    W3 = list(
-      name = "Preset W3",
-      lda = "lda20",
-      dim = "LD2", y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c("unscripted monologues", "social letters")
-    ), W4 = list(
-      name = "Preset W4", lda = "lda20", dim = "LD2",
-      y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "conversations/phonecalls", "unscripted monologues",
-        "social letters", "creative writing"
-      )
-    ), W5 = list(
-      name = "Preset W5",
-      lda = "lda20", dim = "LD3", y = "contribution", granularity = "n20",
-      focus_variety = "all", show_textcat20 = c(
-        "news reports",
-        "administrative writing"
-      )
-    ), W6 = list(
-      name = "Preset W6",
-      lda = "lda20", dim = "LD3", y = "contribution", granularity = "n20",
-      focus_variety = "all", show_textcat20 = c(
-        "business letters",
-        "administrative writing", "skills and hobbies"
-      )
-    ), W7 = list(
-      name = "Preset W7", lda = "lda20", dim = "LD4", y = "contribution",
-      granularity = "n20", focus_variety = "all", show_textcat20 = c(
-        "unscripted monologues",
-        "business letters"
-      )
-    ), W8 = list(
-      name = "Preset W8", lda = "lda20",
-      dim = "LD4", y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "conversations/phonecalls", "legal cross-examinations",
-        "unscripted monologues", "business letters"
-      )
-    ), W9 = list(
-      name = "Preset W9", lda = "lda20", dim = "LD1", y = "contribution",
-      granularity = "n20", focus_variety = "NZ", show_textcat20 = c(
-        "conversations/phonecalls",
-        "news reports"
-      )
-    ), W10 = list(
-      name = "Preset W10", lda = "lda20",
-      dim = "LD1", y = "contribution", granularity = "n20", focus_variety = "JA",
-      show_textcat20 = c("conversations/phonecalls", "news reports")
-    ), W11 = list(
-      name = "Preset W11", lda = "lda20", dim = "LD1",
-      y = "contribution", granularity = "n20", focus_variety = "HK",
-      show_textcat20 = c("conversations/phonecalls", "news reports")
-    ), W12 = list(
-      name = "Preset W12", lda = "lda20", dim = "LD2",
-      y = "contribution", granularity = "n20", focus_variety = "NZ",
-      show_textcat20 = c("unscripted monologues", "social letters")
-    ), W13 = list(
-      name = "Preset W13", lda = "lda20", dim = "LD2",
-      y = "contribution", granularity = "n20", focus_variety = "JA",
-      show_textcat20 = c("unscripted monologues", "social letters")
-    ), W14 = list(
-      name = "Preset W14", lda = "lda20", dim = "LD2",
-      y = "contribution", granularity = "n20", focus_variety = "HK",
-      show_textcat20 = c("unscripted monologues", "social letters")
-    ), W15 = list(
-      name = "Preset W15", lda = "lda20", dim = "LD3",
-      y = "contribution", granularity = "n20", focus_variety = "NZ",
-      show_textcat20 = c("news reports", "administrative writing")
-    ), W17 = list(
-      name = "Preset W17", lda = "lda20", dim = "LD3",
-      y = "contribution", granularity = "n20", focus_variety = "HK",
-      show_textcat20 = c("news reports", "administrative writing")
-    ), W18 = list(
-      name = "Preset W18", lda = "lda20", dim = "LD4",
-      y = "contribution", granularity = "n20", focus_variety = "NZ",
-      show_textcat20 = c("unscripted monologues", "business letters")
-    ), W19 = list(
-      name = "Preset W19", lda = "lda20", dim = "LD4",
-      y = "contribution", granularity = "n20", focus_variety = "JA",
-      show_textcat20 = c("unscripted monologues", "business letters")
-    ), W20 = list(
-      name = "Preset W20", lda = "lda20", dim = "LD4",
-      y = "contribution", granularity = "n20", focus_variety = "HK",
-      show_textcat20 = c("unscripted monologues", "business letters")
-    ), W21 = list(
-      name = "Preset W21", lda = "lda20", dim = "LD1",
-      y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "student writing", "academic writing",
-        "popular-scientific writing", "news reports", "administrative writing",
-        "press editorials"
-      )
-    ), W22 = list(
-      name = "Preset W22", lda = "lda20",
-      dim = "LD2", y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "student writing", "academic writing",
-        "popular-scientific writing", "news reports", "administrative writing",
-        "press editorials"
-      )
-    ), W23 = list(
-      name = "Preset W23", lda = "lda20",
-      dim = "LD3", y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "conversations/phonecalls", "classroom lessons",
-        "broadcast interactions", "business transactions", "demonstrations"
-      )
-    ), W24 = list(
-      name = "Preset W24", lda = "lda20", dim = "LD3",
-      y = "contribution", granularity = "n20", focus_variety = "all",
-      show_textcat20 = c(
-        "conversations/phonecalls", "classroom lessons",
-        "broadcast interactions", "business transactions", "demonstrations",
-        "business letters", "administrative writing", "skills and hobbies"
-      )
-    ),
-    W25 = list(
-      name = "Preset W25",
-      lda = "lda20",
-      dim = "LD2",
-      y = "contribution",
-      granularity = "n20",
-      focus_variety = "all",
-      show_textcat20 = c(
-        "broadcast interactions",
-        "unscripted monologues"
-      )
-    ),
-    W26 = list(
-      name = "Preset W26",
-      lda = "lda20", dim = "LD4",
-      y = "contribution",
-      granularity = "n20",
-      focus_variety = "all",
-      show_textcat20 = c(
-        "unscripted monologues",
-        "skills and hobbies"
-      )
-    )
+    focus_genre = c(
+      "describing", "entertaining", "explaining",
+      "inquiring", "persuading", "recounting", "responding"
+    ), focus_grade = c(
+      "10",
+      "11", "12"
+    ), feature_deselect = "selected_features", focus_feature = c(
+      "pall_W",
+      "ppers1_P", "ppers2_P", "ppers3_P"
+    ), focus_weight = 0L, plot_size = "M",
+    use_legend = TRUE, use_ylim_box = FALSE, use_ylim_disc = FALSE,
+    show_OPERATOR.17 = c("dialogue", "speech"), show_OPERATOR.25 = character(0)
+  ),
+  preset_3 = list(
+    name = "W3: Pronouns in descriptions and informal e-mails",
+    lda = "pca", dim = "PC2", y = "contribution", granularity = "n17",
+    focus_t.curr = c(
+      "analysis", "argumentative", "creative",
+      "int.reading", "mediation"
+    ), focus_genre = c(
+      "describing",
+      "entertaining", "explaining", "inquiring", "persuading",
+      "recounting", "responding"
+    ), focus_grade = c(
+      "10", "11",
+      "12"
+    ), feature_deselect = "selected_features", focus_feature = c(
+      "pall_W",
+      "ppers1_P", "ppers2_P", "ppers3_P"
+    ), focus_weight = 0L, plot_size = "M",
+    use_legend = TRUE, use_ylim_box = FALSE, use_ylim_disc = FALSE,
+    show_OPERATOR.17 = c("describe", "informal_e-mail"), show_OPERATOR.25 = character(0)
   )
+)

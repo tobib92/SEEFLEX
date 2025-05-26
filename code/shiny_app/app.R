@@ -1,16 +1,19 @@
+#### Set working directory to the SEEFLEX root folder ####
+
 library(shiny)
 library(magrittr)
 
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+if (file.exists(".Renviron")) {
+  readRenviron(".Renviron")
+}
 
-source("../shiny_scatterplot/app_setup.R")
-source("../shiny_scatterplot/ui.R")
-source("../shiny_scatterplot/server.R")
+source("code/shiny_scatterplot/app_setup.R")
+source("code/shiny_scatterplot/ui.R")
+source("code/shiny_scatterplot/server.R")
 
-source("../shiny_weights/app_setup.R")
-source("../shiny_weights/ui.R")
-source("../shiny_weights/server.R")
+source("code/shiny_weights/app_setup.R")
+source("code/shiny_weights/ui.R")
+source("code/shiny_weights/server.R")
 
 ui <- fluidPage(
   tabsetPanel(
@@ -21,6 +24,11 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
+  output$isDevMode <- reactive({
+    Sys.getenv("APPLICATION_MODE") == "dev"
+  })
+  outputOptions(output, "isDevMode", suspendWhenHidden = FALSE)
+
   callModule(scatterplot_server, "scatter")
   callModule(weights_server, "weights")
 }

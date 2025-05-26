@@ -5,6 +5,7 @@ library(log4r)
 library(testthat)
 library(stringr)
 library(tidyverse)
+library(readr)
 
 
 #' This function extracts the text node from an XML document, creates an ID for
@@ -16,6 +17,7 @@ library(tidyverse)
 #' @return A character string representing the text node
 
 get_text <- function(xml_file, namespaces) {
+
   # find the first instance of the <text> node.
   text_node <- xml_find_first(xml_file, "//d1:text", namespaces)
 
@@ -159,6 +161,10 @@ create_output_path <- function(filepath, output_directory, create_dir = TRUE,
   }
 
   # Paste the output directory and the original folder name together.
+  if (str_sub(output_directory, -1) != "/") {
+    output_directory <- paste0(output_directory, "/")
+  }
+
   output_path <- paste0(output_directory, original_dirname)
 
   # Create this directory if it doesn't already exist.
@@ -397,4 +403,71 @@ count_nested_s_tags <- function(input_directory) {
 
   # Return our results
   return(my_vector)
+}
+
+
+#' This function searches for xml nodes within other xml nodes.
+#'
+#' @param xml_file The xml_file to be searched
+#' @return An xml2 node object
+
+check_nodes_without_s <- function(xml_file) {
+  # Read the XML file
+  xml_doc <- read_xml(xml_file)
+
+  # Find all nodes in the document
+  all_nodes <- xml_find_all(xml_doc, "//u")
+  # print(all_nodes)
+
+  # Initialize a list to store nodes without <s> children
+  nodes_without_s <- list()
+
+  # Iterate through each node
+  for (node in all_nodes) {
+    # Check if the node has children and if those children are not <s>
+    if (length(xml_find_all(node, ".//s")) == 0) {
+
+      node_text <- xml_text(node)
+      nodes_without_s <- append(nodes_without_s, node_text)
+    }
+  }
+
+  return(nodes_without_s)
+}
+
+
+#' This function creates a data frame from the information gained from two nodes
+#' in an .xml document.
+#'
+#' @param input_directory The directory containing the xml files
+#' @param node1 The xPath to the first node
+#' @param node2 The xPath to the second node
+
+write_info_from_xml_to_df <- function(input_directory,
+                                      node1 = "//d1:sourceStmt//d1:p",
+                                      node2 = "//d1:publicationStmt//d1:date") {
+
+  all_filenames <- gather_files(input_directory = input_directory)
+
+  df <- data.frame(Course = character(), Date = character())
+
+  for (file in all_filenames) {
+
+    # Read in the file as an XML object
+    parsed_file <- parse_file(directory = input_directory,
+                              filename = file)
+
+    xml_file <- parsed_file$xml_file
+    namespaces <- parsed_file$namespaces
+
+    course_node <- xml_find_first(xml_file, node1, namespaces)
+    course_text <- xml_text(course_node)
+    date_node <- xml_find_first(xml_file, node2, namespaces)
+    date_text <- xml_text(date_node)
+
+    new_row <- data.frame(Course = course_text, Date = date_text)
+    df <- rbind(df, new_row)
+
+  }
+  return(df)
 }

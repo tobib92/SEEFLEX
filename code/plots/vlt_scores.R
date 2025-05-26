@@ -1,7 +1,6 @@
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
-source("../data pipeline/meta_data.R")
+source("code/data_pipeline/meta_data.R")
 
 
 # Data preparation
@@ -16,7 +15,7 @@ long_vlt$GRADE <- as.factor(long_vlt$GRADE)
 
 # Plot
 
-plot <- ggplot(long_vlt, aes(x = Score_Type, y = Score_Value, fill = GRADE)) +
+vlt_plot <- ggplot(long_vlt, aes(x = Score_Type, y = Score_Value, fill = GRADE)) +
   geom_bar(position = "dodge", stat = "summary", fun = "mean") +
   geom_text(aes(label = round(after_stat(y), 2)),
             stat = "summary", fun = "mean",
@@ -36,4 +35,19 @@ plot <- ggplot(long_vlt, aes(x = Score_Type, y = Score_Value, fill = GRADE)) +
   theme_minimal()
 
 
-plot
+vlt_plot
+
+
+##### Save the plot to a .pdf file #####
+
+current_date <- format(Sys.Date(), "%Y%m%d")
+output_filename <- paste0("output/plots/", current_date,
+                          "_vlt_plot.pdf")
+
+ggsave(filename = output_filename,
+       plot = vlt_plot,
+       device = "pdf",
+       width = 297,
+       height = 150,
+       units = "mm",
+       dpi = 300)

@@ -6,17 +6,23 @@ library(shinyjs)
 library(ggplot2)
 library(reshape2)
 library(magrittr)
-source("utilities.R")
 
-source("app_setup.R")
+if (file.exists(".Renviron")) {
+  readRenviron(".Renviron")
+}
+
+source("code/shiny_weights/utilities.R")
+
+source("code/shiny_weights/app_setup.R")
 
 ###################################### UI ######################################
 
-source("ui.R", local = TRUE)
+source("code/shiny_weights/ui.R", local = TRUE)
 
 #################################### Server ####################################
 
-source("server.R", local = TRUE)
+source("code/shiny_weights/server.R", local = TRUE)
+
 
 # Run the application
 shinyApp(

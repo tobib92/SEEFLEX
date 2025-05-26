@@ -3,7 +3,10 @@ The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EF
 
 Use the toggle lists below to receive detailed instructions on the steps that need to be taken for each file. Contact [Tobias Pauls](mailto:tobias.pauls@ifaar.rwth-aachen.de) for additional information or assistance.
 
-### Data Pipeline
+## Data Pipeline
+
+### bundles.yml
+
 
 <details>
   <summary>Using bundles with bundles.yml</summary>
@@ -13,6 +16,8 @@ Use the toggle lists below to receive detailed instructions on the steps that ne
 3. Set the path to the directory of the **!!!INSERT!!!** in the config.yml file.
 
 </details>
+
+### config.yml
 
 <details>
   <summary>Using an individual setting in config.yml</summary>
@@ -34,6 +39,8 @@ The corpus texts can be exported as individual text files to be used with NLP so
 
 </details>
 
+### Encoding the corpus in CQP locally
+
 <details>
   <summary>Encoding the corpus in a local CQP instance</summary>
   
@@ -54,12 +61,13 @@ See [The IMS Open Corpus Workbench (CWB) Corpus Encoding and Management Manual](
 cwb-encode -d /path/to/directory -f corpus_filename.vrt -R reg/corpus_name -P pos -P lemma -S text:0+id -S body -S head -S s -S qs -S p -S l -S lg -S u:0+who -S sp -S speaker -S address -S addrLine -S quote -S q -S choice -S orig -S reg -S abbr -S expan -S ref:0+target+type -S name:0+type -S gap:0+reason+quantity -S foreign:0+xml:lang -S surplus -S add -S date -S link -S email -S salute -S signed -S stage -S kinesic -S desc -S emph;
 
 ## my code
-cwb-encode -d /home/tbecker/corpus -f 20240831_SEEFLEX.vrt -R reg/seeflex -P pos -P lemma -S text:0+id -S body -S head -S s -S qs -S p -S l -S lg:1+type -S u:0+who -S sp -S speaker -S address -S addrLine -S quote -S q -S choice -S orig -S reg -S abbr -S expan  -S surplus -S add -S date -S link -S email -S salute -S signed -S stage -S kinesic -S desc -S emph -S ref:0+target+type -S name:0+type -S gap:0+reason+quantity+unit -S foreign:0+xml_lang;
+cwb-encode -d /home/tbecker/corpus -f 20240831_SEEFLEX.vrt -R reg/seeflex -P pos -P lemma -S text:0+id -S body -S head -S s -S qs -S p -S l -S lg:1+type -S u:0+who -S sp -S speaker -S address -S addrLine -S quote -S q -S choice -S orig -S reg -S abbr -S expan  -S surplus -S add -S date -S link -S email -S salute -S signed -S stage -S kinesic -S desc -S emph -S ref:0+target+type -S name:0+type -S gap:0+reason+quantity+unit -S foreign:0+xml_lang;## my code
+cwb-encode -d /home/tbecker/seeflexorig -f 20250405_seeflex_orig.vrt -R reg/orig/seeflexorig -P pos -P lemma -S text:0+id -S body -S head -S s -S qs -S p -S l -S lg:1+type -S u:0+who -S sp -S speaker -S address -S addrLine -S quote -S q -S choice -S orig -S reg -S abbr -S expan  -S surplus -S add -S date -S link -S email -S salute -S signed -S stage -S kinesic -S desc -S emph -S ref:0+target+type -S name:0+type -S gap:0+reason+quantity+unit -S foreign:0+xml_lang;
 
 cwb-make -r reg CORPUS_NAME;
 
 ## my code
-cwb-make -r reg SEEFLEX;
+cwb-make -r reg SEEFLEXORIG;
 
 cqp -e -r reg
 
@@ -70,7 +78,7 @@ SEEFLEX;
 
 ## to run the cqp get_features.cqp script, exit cqp and run the following line
 
-cqp -c -r reg -D SEEFLEX -f get_features.cqp | perl featex.perl 20241127_SEEFLEX.tsv 
+cqp -c -r reg/orig -D SEEFLEXORIG -f get_features_seeflex.cqp | perl featex.perl 20250407_SEEFLEX.tsv 
 
 ```
 

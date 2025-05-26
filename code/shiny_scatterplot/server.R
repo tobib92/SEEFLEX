@@ -11,11 +11,18 @@ function(sel) {
 
 zoom.callback <- "
 function(xmin, xmax, ymin, ymax) {
-    Shiny.setInputValue('xmin', xmin);
-    Shiny.setInputValue('xmax', xmax);
-    Shiny.setInputValue('ymin', ymin);
-    Shiny.setInputValue('ymax', ymax);
+    Shiny.setInputValue('scatter-xmin', xmin);
+    Shiny.setInputValue('scatter-xmax', xmax);
+    Shiny.setInputValue('scatter-ymin', ymin);
+    Shiny.setInputValue('scatter-ymax', ymax);
 }"
+
+zoom.set.code <- "
+Shiny.setInputValue('scatter-xmin', %g);
+Shiny.setInputValue('scatter-xmax', %g);
+Shiny.setInputValue('scatter-ymin', %g);
+Shiny.setInputValue('scatter-ymax', %g);
+"
 
 #' Update an input element in a Shiny session
 #'
@@ -23,8 +30,8 @@ function(xmin, xmax, ymin, ymax) {
 #' @param name The name of the input element
 #' @param val The new value to set
 #' @param type The type of the input element
-#'
 #' @return NULL (invisibly)
+
 scatterplot_update_input <- function(
     session,
     name,
@@ -48,8 +55,8 @@ scatterplot_update_input <- function(
 #'
 #' @param input The Shiny input object
 #' @param session The Shiny session object
-#'
 #' @return NULL (invisibly)
+
 scatterplot_observe_preset <- function(input, session) {
   shiny::observe({
     preset <- scatterplot_presets[[input$preset]]
@@ -57,7 +64,8 @@ scatterplot_observe_preset <- function(input, session) {
       scatterplot_update_input(session, par, preset[[par]], "select")
     }
 
-    for (par in c("lda", "granularity", "focus_t.curr", "focus_grade")) {
+    for (par in c("lda", "granularity", "filter_col", "filter_sym",
+                  "focus_t.curr", "focus_grade", "focus_genre")) {
       scatterplot_update_input(session, par, preset[[par]], "radio")
     }
 
@@ -65,7 +73,7 @@ scatterplot_observe_preset <- function(input, session) {
       scatterplot_update_input(session, par, preset[[par]], "checkbox")
     }
 
-    for (par in c("show_OPERATOR.14", "show_OPERATOR.25")) {
+    for (par in c("show_OPERATOR.17", "show_OPERATOR.25")) {
       scatterplot_update_input(session, par, preset[[par]], "group")
     }
 
@@ -85,28 +93,31 @@ scatterplot_observe_preset <- function(input, session) {
 #'
 #' @param input The Shiny input object
 #' @param output The Shiny output object
-#'
 #' @return NULL (invisibly)
+
 scatterplot_save_preset_handler <- function(input, output) {
   output$save_preset <- downloadHandler(
     filename = "scatterplot_preset.R",
     content = function(filename) {
       preset <- list(
-        name = "",
+        name = shiny::isolate(input$name_preset),
         x = shiny::isolate(input$x),
         y = shiny::isolate(input$y),
         lda = isolate(input$lda),
         granularity = isolate(input$granularity),
-        focus_t.curr = isolate(input$focus_t.curr),
-        focus_grade = isolate(input$focus_grade),
+        filter_col = isolate(input$filter_col),
+        filter_sym = isolate(input$filter_sym),
         ellipses = isolate(input$ellipses),
+        focus_t.curr = isolate(input$focus_t.curr),
+        focus_genre = isolate(input$focus_genre),
+        focus_grade = isolate(input$focus_grade),
         transitions = isolate(input$transitions),
         pointsize = isolate(input$pointsize)
       )
       opts <- shiny::isolate(input$save_preset_options)
       all.cat <- ("allcat" %in% opts) # whether to save all category selections
-      if (all.cat || preset$granularity == "n14") {
-        preset$show_OPERATOR.14 <- shiny::isolate(input$show_OPERATOR.14)
+      if (all.cat || preset$granularity == "n17") {
+        preset$show_OPERATOR.17 <- shiny::isolate(input$show_OPERATOR.17)
       }
 
       if (all.cat || preset$granularity == "n25") {
@@ -115,8 +126,8 @@ scatterplot_save_preset_handler <- function(input, output) {
 
       if ("viewport" %in% opts) {
         preset$viewport <- list(
-          xmin = shiny::isolate(input$xmin), xmax = isolate(input$xmax),
-          ymin = isolate(input$ymin), ymax = isolate(input$ymax)
+          xmin=isolate(input$xmin), xmax=isolate(input$xmax),
+          ymin=isolate(input$ymin), ymax=isolate(input$ymax)
         )
       }
       dump("preset", file = filename)
@@ -128,97 +139,159 @@ scatterplot_save_preset_handler <- function(input, output) {
 #' Get the data for the scatterplot
 #'
 #' @param input The Shiny input object
-#'
 #' @return A reactive data frame containing the data to plot
+
 scatterplot_get_data <- function(input) {
   shiny::reactive({
-    data.df <- if (input$lda == "lda14") LDA4.df else if (input$lda == "lda25") PCA4.df
-
-    if (!all(label_grade %in% input$focus_grade)) {
-      data.df %<>% subset(GRADE == input$focus_grade)
+    data.df <- if (input$lda == "pca") {
+      PCA4.df
+    } else if (input$lda == "lda_genre") {
+      LDA4_genre.df
+    } else if (input$lda == "lda_t.curr") {
+      LDA4_t.curr.df
+    } else if (input$lda == "lda_operator17") {
+      LDA4_operator17.df
+    } else if (input$lda == "lda_operator25") {
+      LDA4_operator25.df
+    } else {
+      stop(paste("Unrecognized input in scatterplot_get_data:", input$lda))
     }
 
+    if (!all(label_grade %in% input$focus_grade)) {
+      data.df %<>% subset(GRADE %in% input$focus_grade)
+    }
+
+    if (!all(label_genre %in% input$focus_genre)) {
+      data.df %<>% subset(GENRE %in% input$focus_genre)
+    }
+
+    if (!all(label_grade %in% input$focus_grade)) {
+      data.df %<>% subset(GRADE %in% input$focus_grade)
+    }
+
+    if (!all(label_t.curr %in% input$focus_t.curr)) {
+      data.df %<>% subset(T.CURR %in% input$focus_t.curr) # no droplevels so we don't lose the legend
+    }
     data.df <- switch(input$granularity,
-      n14 = subset(data.df, OPERATOR.14 %in% input$show_OPERATOR.14),
+      n17 = subset(data.df, OPERATOR.17 %in% input$show_OPERATOR.17),
       n25 = subset(data.df, OPERATOR.25 %in% input$show_OPERATOR.25)
     )
 
     data.df %<>% droplevels()
 
-    if (!all(label_t.curr %in% input$focus_t.curr)) {
-      data.df %<>% subset(T.CURR == input$focus_t.curr) # no droplevels so we don't lose the legend
-    }
+    print(paste("no. of texts currently selected:", nrow(data.df)))
 
     data.df
   })
 }
 
-############################### Plot Generation ################################
+#### Plot Generation ####
 
 #' Generate a scatterplot using the scatterD3 package
 #'
 #' @param input The Shiny input object
 #' @param data The data to plot
-#'
 #' @return A scatterD3 object
+
 generate_scatterplot <- function(input, data) {
   input$reset_zoom # so redisplay is triggered after resetting zoom
-  col.vec <- switch(input$granularity,
-    n14 = data()$OPERATOR.14,
-    n25 = data()$OPERATOR.25
+
+  # Switch color focus variable
+  col_var <- switch(input$filter_col,
+    `Operator 17` = data()$OPERATOR.17,
+    `Operator 25` = data()$OPERATOR.25,
+    `Curricular task` = data()$T.CURR,
+    Genre = data()$GENRE
   )
-  col.values <- switch(input$granularity,
-    n14 = c14_corp.vec,
-    n25 = c25_corp.vec
+
+  # Create the switch for the color vectors
+  col_val <- switch(input$filter_col,
+    `Operator 17` = c17_corp.vec,
+    `Operator 25` = c25_corp.vec,
+    `Curricular task` = c5_corp.vec,
+    Genre = c7_corp.vec
   )
-  symbol_var <- switch(input$filter,
-    grade = data()$GRADE,
-    t.curr = data()$T.CURR
-  )
-  symbols <- if (input$filter == "grade") {
-    symbols <- symbols.vec.grade
-  } else if (input$filter == "t.curr") {
-    symbols <- symbols.vec.t.curr
-  }
-  symbol_lab <- if (input$filter == "grade") {
-    symbol_lab <- "Grade"
-  } else if (input$filter == "t.curr") {
-    symbol_lab <- "Curricular Task"
+
+  # Define legend labels depending on color focus variable
+  color_lab <- if (input$filter_col == "Operator 17") {
+    color_lab <- "Operator 17"
+  } else if (input$filter_col == "Operator 25") {
+    color_lab <- "Operator 25"
+  } else if (input$filter_col == "Curricular task") {
+    color_lab <- "Curricular task"
+  } else if (input$filter_col == "Genre") {
+    color_lab <- "Genre"
+  } else if (input$filter_col == "Grade") {
+    color_lab <- "Grade"
   }
 
-  tooltip_pca <- paste(
-    "ID:", data()$ID,
-    # "<br /> PC1:", data()$PC1, # needs input from granularity and dims
-    # "<br /> PC2:", data()$PC2,
-    "<br /> OPERATOR:", data()$OPERATOR.14,
-    "<br /> T.CURR:", data()$T.CURR,
-    "<br /> GRADE:", data()$GRADE
+  # Switch symbol focus variable
+  symbol_var <- switch(input$filter_sym,
+    Grade = data()$GRADE,
+    `Curricular task` = data()$T.CURR,
+    Genre = data()$GENRE
   )
-  tooltip_lda <- paste(
-    "ID:", data()$ID,
-    # "<br /> PC1:", data()$PC1, # needs input from granularity and dims
-    # "<br /> PC2:", data()$PC2,
-    "<br /> Operator:", data()$OPERATOR.14,
-    "<br /> T.Curr:", data()$T.CURR,
-    "<br /> Grade:", data()$GRADE
+
+  # Define symbol types depending on symbol focus variable
+  symbol_val <- if (input$filter_sym == "Grade") {
+    symbols <- symbols.vec.grade
+  } else if (input$filter_sym == "Curricular task") {
+    symbols <- symbols.vec.t.curr
+  } else if (input$filter_sym == "Genre") {
+    symbols <- symbols.vec.genre
+  } else {
+    stop(paste("No input found for", input$filter_sym))
+  }
+
+  # Define symbol labels depending on symbol focus variable
+  symbol_lab <- if (input$filter_sym == "Grade") {
+    symbol_lab <- "Grade"
+  } else if (input$filter_sym == "Curricular task") {
+    symbol_lab <- "Curricular Task"
+  } else if (input$filter_sym == "Genre") {
+    symbol_lab <- "Genre"
+  }
+
+  # Change labels for LDA and PCA
+  dim_label_lab <- if (input$lda == "pca") {
+    dim_label_lab <- dim_label_pca
+  } else {
+    dim_label_lab <- dim_label_lda
+  }
+
+  # Filter values to only show selected colors in legend
+  filtered_legend_color_values <- switch(input$filter_col,
+    `Operator 17` = unique(data()$OPERATOR.17),
+    `Operator 25` = unique(data()$OPERATOR.25),
+    `Curricular task` = unique(data()$T.CURR),
+    Genre = unique(data()$GENRE)
   )
+
+  # Filter values to only show selected symbols in legend
+  filtered_legend_symbol_values <- switch(input$filter_sym,
+    `Curricular task` = unique(data()$T.CURR),
+    Genre = unique(data()$GENRE),
+    Grade = unique(data()$GRADE)
+  )
+
+  # Create the plot
   scatterD3::scatterD3(
     y = data()[, input$y],
     x = data()[, input$x],
     fixed = TRUE,
-    xlab = dim_label[[input$x]],
-    ylab = dim_label[[input$y]],
+    xlab = dim_label_lab[[input$x]],
+    ylab = dim_label_lab[[input$y]],
     xlim = c(isolate(input$xmin), isolate(input$xmax)),
     ylim = c(isolate(input$ymin), isolate(input$ymax)),
-    col_var = col.vec,
-    col_lab = "Operator (Command word)",
-    colors = col.values,
+    col_var = col_var,
+    col_lab = color_lab,
+    colors = col_val[names(col_val) %in% filtered_legend_color_values],
     symbol_var = symbol_var,
     symbol_lab = symbol_lab,
-    symbols = symbols,
+    symbols = symbol_val[names(symbol_val) %in% filtered_legend_symbol_values],
     point_size = 2^input$pointsize,
     tooltips = TRUE,
-    tooltip_text = tooltip_pca,
+    tooltip_text = data()$tooltip,
     key_var = rownames(data()),
     ellipses = input$ellipses,
     transitions = input$transitions,
@@ -226,30 +299,29 @@ generate_scatterplot <- function(input, data) {
     lasso_callback = lasso.callback,
     zoom_callback = zoom.callback,
     axes_font_size = "160%",
-    legend_font_size = "140%",
+    legend_font_size = "130%",
     legend_width = 200,
     left_margin = 40,
     menu = FALSE
   )
 }
 
-##################### PDF Download Functions ###################################
+#### PDF Download Functions ####
 
 #' Generate the filename for the PDF download
 #'
 #' @param input The Shiny input object
-#'
 #' @return A character string with the filename
-#'
+
 scatterplot_generate_pdf_filename <- function(input) {
   # Determine the category list based on the granularity input
   cat.list <- switch(input$granularity,
-    n14 = {
-      all_selected <- setequal(input$show_OPERATOR.14, label_cat.operator.14)
+    n17 = {
+      all_selected <- setequal(input$show_OPERATOR.17, label_cat.operator.17)
       if (all_selected) {
         "all"
       } else {
-        cat_label.operator.14[input$show_OPERATOR.14]
+        cat_label.operator.17[input$show_OPERATOR.17]
       }
     },
     n25 = {
@@ -272,25 +344,25 @@ scatterplot_generate_pdf_filename <- function(input) {
   }
 
   sprintf(
-    "ICE-scatter_%s_%s_%s_%s-%s%s_cat%d=%s.html",
+    "seeflex-scatter_%s_%s_%s_%s-%s%s_cat%d=%s.html",
     input$lda,
     paste(input$focus_grade, collapse = "-"),
     paste(input$focus_t.curr, collapse = "-"),
     input$y, input$x,
     if (input$ellipses) "_conf" else "",
     switch(input$granularity,
-      n14 = 14,
+      n17 = 17,
       n25 = 25
     ),
     cat.list
   )
 }
 
-#' Define the download handler for the PDF downloa
+#' Define the download handler for the PDF download
 #'
 #' @param input The Shiny input object
-#'
 #' @return A downloadHandler object
+
 scatterplot_pdf_download_handler <- function(input) {
   shiny::downloadHandler(
     filename = scatterplot_generate_pdf_filename(input),
@@ -325,9 +397,38 @@ scatterplot_server <- function(input, output, session) {
 
   data <- scatterplot_get_data(input)
 
-  ## create the D3 scatterplot object, so it can either be displayed or saved to a file
+  # create the D3 scatterplot object, so it can either be displayed or saved to a file
   D3plot <- shiny::reactive(generate_scatterplot(input, data))
   output$scatterPlot <- scatterD3::renderScatterD3(D3plot())
+
+  # Observe the input for the multivariate analysis so that it changes the input
+  # for the dimensions automatically.
+  observeEvent(input$lda, {
+    if (input$lda != "pca") {
+      updateSelectInput(session, "x", selected = "LD2")
+      updateSelectInput(session, "y", selected = "LD1")
+    } else if (input$lda == "pca") {
+      updateSelectInput(session, "x", selected = "PC2")
+      updateSelectInput(session, "y", selected = "PC1")
+    }
+  })
+
+  # Observe both input$granularity and input$filter_col and mutually adjust
+  observeEvent(input$granularity, {
+    false_triggers <- c("Curricular task", "Genre", "Grade")
+    if (input$granularity == "n17" && !(input$filter_col %in% false_triggers)) {
+      updateRadioButtons(session, "filter_col", selected = "Operator 17")
+    } else if (input$granularity == "n25" && !(input$filter_col %in% false_triggers)) {
+      updateRadioButtons(session, "filter_col", selected = "Operator 25")
+    }
+  })
+  observeEvent(input$filter_col, {
+    if (input$filter_col == "Operator 17") {
+      updateRadioButtons(session, "granularity", selected = "n17")
+    } else if (input$filter_col == "Operator 25") {
+      updateRadioButtons(session, "granularity", selected = "n25")
+    }
+  })
 
   output$download_plot <- scatterplot_pdf_download_handler(input)
 

@@ -1,14 +1,11 @@
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
 source("xml_utils.R")
 
 
-################################################################################
-###### Run the lines below to count the nested <s> tags in the directory #######
-################################################################################
+##### Run the lines below to count the nested <s> tags in the directory #####
 
-output <- count_nested_s_tags(input_directory = "../../data/anon/")
+output <- count_nested_s_tags(input_directory = "data/anon/")
 
 # output[intersect(names(output1),
 #                   names(output2))] == output2[intersect(names(output1),
@@ -22,9 +19,7 @@ output <- count_nested_s_tags(input_directory = "../../data/anon/")
 # setdiff(names_long, names_short)
 
 
-################################################################################
-#### Run the lines below to rename xml elements in all files in a directory ####
-################################################################################
+##### Run the lines below to rename xml elements in all files in a directory #####
 
 rename_xml_files_in_directory <- function(input_directory, output_directory) {
 
@@ -57,9 +52,9 @@ rename_xml_files_in_directory <- function(input_directory, output_directory) {
     write_xml(xml_nodes, file = output_file)
 
   }
-  
+
   print("All nodes were renamed in the corpus files.")
-  
+
 }
 
 ### INSERT YOUR PARAMETERS HERE ###
@@ -67,9 +62,7 @@ rename_xml_files_in_directory(input_directory = "",
                               output_directory = "")
 
 
-################################################################################
-### Run the lines below to replace xml elements in all files in a directory ####
-################################################################################
+##### Run the lines below to replace xml nodes in all files in a directory #####
 
 replace_xml_files_in_directory <-  function(input_directory,
                                              output_directory) {

@@ -1,17 +1,9 @@
-library(yaml)
-library(R6)
-library(XML)
-library(xml2)
-library(log4r)
-library(tidyverse)
-
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
 logger <- create.logger(level = "DEBUG")
 
-source("config_manager.R")
-source("xml_utils.R")
+source("code/data_pipeline/config_manager.R")
+source("code/data_pipeline/xml_utils.R")
 config_manager <- ConfigManager$new()
 settings <- config_manager$final_config()
 
@@ -170,12 +162,14 @@ convert_all_files <- function(input_directory, output_directory, settings,
   print(paste("The corpus files have been exported to", output_directory))
 }
 
-################################################################################
-######### Run the lines below to save the texts as separate .txt files #########
-################################################################################
+##### Run the lines below to save the texts as separate .txt files #####
+
+corpus_version <- "orig" # Change this string if needed
+output_filepath <- paste0("output/", format(Sys.Date(), "%Y%m%d"),
+                          "_seeflex_", corpus_version, "/")
 
 convert_all_files(
-  input_directory = "../../data/anon/",
-  output_directory = "../../output/20241127_SEEFLEX_orig/",
+  input_directory = "data/anon/",
+  output_directory = output_filepath,
   settings = settings
 )

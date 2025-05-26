@@ -1,7 +1,6 @@
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
-source("../data pipeline/meta_data.R")
+source("code/data pipeline/meta_data.R")
 
 ## reading habits subset
 
@@ -76,7 +75,7 @@ ReadingData <- data.frame(var, value, label)
 
 cat <- rep(c("1: no time","2: less than one hour","3: 1-4 hours","4: 4-7 hours","5: 7-10 hours","6: more than 10 hours"), times = 6)
 
-Readplot <- ggplot(
+readplot <- ggplot(
   ReadingData, aes(x = var,
                    y = value,
                    fill = cat)) +
@@ -94,7 +93,7 @@ Readplot <- ggplot(
         # panel.grid = element_blank(),
         legend.position = "right") # we want our legend to be at the top
 
-Readplot
+readplot
 
 
 
@@ -139,7 +138,7 @@ cat2 <- rep(c("1 hour or less","7 hours or more"), times = 6)
 
 ## Create barplot
 
-Readplot2 <- ggplot(
+readplot2 <- ggplot(
   ReadingData2, aes(x = var2,
                     y = value2,
                     fill = cat2)) +
@@ -157,4 +156,29 @@ Readplot2 <- ggplot(
         plot.title = element_text(hjust = 0.5))
 
 
-Readplot2
+readplot2
+
+
+##### Save the plot to a .pdf file #####
+
+current_date <- format(Sys.Date(), "%Y%m%d")
+output_filename1 <- paste0("output/plots/", current_date,
+                          "_reading-habits1.pdf")
+output_filename2 <- paste0("output/plots/", current_date,
+                          "_reading-habits2.pdf")
+
+ggsave(filename = output_filename1,
+       plot = readplot,
+       device = "pdf",
+       width = 297,
+       height = 150,
+       units = "mm",
+       dpi = 300)
+
+ggsave(filename = output_filename2,
+       plot = readplot2,
+       device = "pdf",
+       width = 297,
+       height = 150,
+       units = "mm",
+       dpi = 300)

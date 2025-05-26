@@ -1,5 +1,6 @@
-vars <- load("../../data/20240905_shiny_data.rda")
-# vars <- load("../shiny weights/data.rda")
+#### Set working directory to the SEEFLEX root folder ####
+
+vars <- load("data/gma/20250519_shiny_data.rda")
 
 # mappings between codes/short names and long names
 mk.map <- function(x, y) structure(y, names = x)
@@ -13,11 +14,11 @@ if (persistent_cache) {
 }
 
 # define presets (which set all listed inputs to the specified values)
-source("../shiny_weights/presets.R", local = TRUE) # load user presets from external file
+source("code/shiny_weights/presets.R", local = TRUE) # load user presets from external file
 
 cats <- function(granularity) {
   switch(granularity,
-    n14 = unique(seeflex_meta$OPERATOR.14),
+    n17 = unique(seeflex_meta$OPERATOR.17),
     n25 = unique(seeflex_meta$OPERATOR.25),
     stop("invalid granularity=", granularity)
   )
@@ -26,31 +27,23 @@ cats <- function(granularity) {
 Builtin <- list(
   default = list(
     name = "default settings",
-    lda = "lda14",
+    lda = "lda17",
     dim = "Dimension 1",
     y = "contribution",
-    granularity = "n14",
+    granularity = "n17",
     focus_t.curr = unname(label_t.curr),
     focus_grade = unname(label_grade),
-    show_OPERATOR.14 = character(),
+    show_OPERATOR.17 = character(),
     show_OPERATOR.25 = character()
   ),
   allcat = list(
     name = "include all categories",
-    show_OPERATOR.14 = label_cat.operator.14,
+    show_OPERATOR.17 = label_cat.operator.17,
     show_OPERATOR.25 = label_cat.operator.25
   ),
-  # allwritten = list(name="include all written categories",
-  #                   show_OPERATOR.14=mode2cats("n12", "W"),
-  #                   show_OPERATOR.25=mode2cats("n20", "W"),
-  #                   show_textcat32=mode2cats("n32", "W")),
-  # allspoken = list(name="include all spoken categories",
-  #                  show_textcat12=mode2cats("n12", "S"),
-  #                  show_textcat20=mode2cats("n20", "S"),
-  #                  show_textcat32=mode2cats("n32", "S")),
   nocat = list(
     name = "hide all categories",
-    show_OPERATOR.14 = character(),
+    show_OPERATOR.17 = character(),
     show_OPERATOR.25 = character()
   )
 )

@@ -1,8 +1,6 @@
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
-source("../data_pipeline/meta_data.R")
-
+source("code/data_pipeline/meta_data.R")
 
 # Data preparation
 
@@ -35,3 +33,18 @@ plot <- ggplot(long_lextale, aes(x = Score_Type, y = Score_Value, fill = GRADE))
 
 
 plot
+
+
+##### Save the plot to a .pdf file #####
+
+current_date <- format(Sys.Date(), "%Y%m%d")
+output_filename <- paste0("output/plots/", current_date,
+                          "_text-count-per-tcurr.pdf")
+
+ggsave(filename = output_filename,
+       plot = plot,
+       device = "pdf",
+       width = 210,
+       height = 150,
+       units = "mm",
+       dpi = 300)

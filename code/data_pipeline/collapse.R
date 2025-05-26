@@ -1,9 +1,4 @@
-library(xml2)
-library(stringr)
-library(tidyverse)
-
-current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-setwd(current_working_dir)
+#### Set working directory to the SEEFLEX root folder ####
 
 source("xml_utils.R")
 
@@ -14,12 +9,49 @@ source("xml_utils.R")
 #' The following lines create a new directory "anon_cqp" in the "data" folder
 #' and rename all nested <s> tags to <qs> (quoted sentence) as nesting only
 #' occurs inside <quote> tags.
-#' 
-#' The function rename_xml_files_in_directory() in xml_manipulation.R needs to be 
-#' adjusted before running the lines below.
+#'
+#' The function rename_xml_files_in_directory() in xml_manipulation.R needs to
+#' be called and adjusted before running the lines below.
+#'
 
-rename_xml_files_in_directory(input_directory = "../../data/anon/",
-                              output_directory = "../../data/anon_cqp/")
+rename_xml_files_in_directory <- function(input_directory, output_directory) {
+
+# Get the files and create the output directory
+all_filenames <- gather_files(input_directory = input_directory,
+                              output_directory = output_directory)
+
+for (file in all_filenames) {
+
+  # parse the file
+  parsed_file <- parse_file(directory = input_directory, filename = file)
+  xml_nodes <- parsed_file$xml_file
+  namespaces <- parsed_file$namespaces
+
+
+  ### INSERT YOUR PARAMETERS HERE ###
+  rename_xml_content(xml_nodes = xml_nodes, namespaces = namespaces,
+                     node_old = "s//d1:s",
+                     node_new = "qs",
+                     type = "node",
+                     attr_old = NULL,
+                     attr_new = NULL
+  )
+
+  # create an output file
+  output_file <- create_output_path(filepath = file,
+                                    output_directory = output_directory)
+
+  # Write new file to output file path
+  write_xml(xml_nodes, file = output_file)
+
+}
+
+print("All nodes were renamed in the corpus files.")
+
+}
+
+rename_xml_files_in_directory(input_directory = "output/20250409_seeflex_orig/",
+                              output_directory = "output/20250409_seeflex_orig")
 
 
 #' Clean the strings from unnecessary spaces, tabs and linebreaks.
@@ -101,10 +133,12 @@ concatenate_all_files <- function(directory, pattern = "*.xml", output_file = NU
   print("The corpus file has been created.")
 }
 
-################################################################################
-######## Run the lines below to save the entire corpus as one .txt file ########
-################################################################################
+##### Run the lines below to save the entire corpus as one .txt file #####
+
+corpus_version <- "orig" # Change this string if needed
+output_filename <- paste0("output/collapse/", format(Sys.Date(), "%Y%m%d"),
+                          "_seeflex_", corpus_version, ".txt")
 
 concatenate_all_files(
-  directory = "../../data/anon_cqp/",
-  output_file = "../../output/collapse/20250117_SEEFLEX.txt")
+  directory = "output/20250409_seeflex_orig/",
+  output_file = output_filename)
