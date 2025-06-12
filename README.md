@@ -1,7 +1,7 @@
 # SEEFLEX
 The Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams
 
-Version 1.0.0
+Version 2.0.0
 
 **Author:** Tobias Pauls<br>
 **Contact:** tobias.pauls@ifaar.rwth-aachen.de
