@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>
@@ -50,7 +50,7 @@
         <s>There are a lot of immigrants in <name type="geo">Berlin</name> and a lot of cultures.</s>
         <s>Do you speak <choice><orig>englisch</orig><reg>English</reg></choice> you have very good cards, because a lot of meals in restaurants are written only in <choice><orig>englisch</orig><reg>English</reg></choice>.</s>
         <s><name type="geo">Berlin</name> is a world city or will be a world city.</s>
-        <s><quote><name type="geo">Berlin</name> is a bubble</quote> says an app-designer from <name type="geo">England</name> called <name type="person">David Walker</name>.</s>
+        <s><quote><name type="geo">Berlin</name> is a bubble</quote> says an app-designer from <name type="geo">England</name> called <name type="person">David Smith</name>.</s>
         <s>Coffee costs only €2.80 in <name type="geo">Berlin</name> and it is the same like Toronto or Hong Kong or LA.</s>
         <s>Only cheaper.</s>
         <s>In his company there are 24 nations and they all talk in <choice><orig>englisch</orig><reg>English</reg></choice>.</s>

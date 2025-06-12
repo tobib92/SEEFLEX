@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Attenborough, David</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>Speech</pubPlace>
+        <address>https://www.rev.com/blog/transcripts/david-attenborough-cop26-climate-summit-glasgow-speech-transcript</address>
+        <date>20211101</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>David Attenborough</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Speaker 2</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Speaker 3</persName>
+          </person>
+          <person xml:id="#D">
+            <persName>Speaker 4</persName>
+          </person>
+          <person xml:id="#E">
+            <persName>Speaker 6</persName>
+          </person>
+          <person xml:id="#F">
+            <persName>Speaker 7</persName>
+          </person>
+          <person xml:id="#G">
+            <persName>Speaker 8</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Sir David Attenborough: speech at <choice><abbr>COP 26</abbr><expan>26th UN Climate Change Conference</expan></choice> opening as people's advocate November 1 2021</p>
+    </head>
+    <body>
+      <u who="#A">Your excellencies, delegates, ladies and gentlemen, as you spend the next two weeks, debating, negotiating, persuading and compromising, as you surely must, it’s easy to forget that ultimately the emergency climate comes down to a single number, the concentration of carbon in our atmosphere. The measure that greatly determines global temperature and the changes in that one number is the clearest way to chart our own story, for it defines our relationship with our world. For much of humanity’s ancient history, that number bounced wildly between 180 and 300, and so too did global temperatures. It was a brutal and unpredictable world. At times, our ancestors existed only in tiny numbers, but just over 10,000 years ago, that number suddenly stabilized and with it, Earth’s climate. We found ourselves in an unusually benign period with predictable seasons and reliable weather. For the first time civilization was possible and we wasted no time in taking advantage of that. Everything we’ve achieved in the last 10,000 years was enabled by the stability during this time. The global temperature has not wavered over this period by more than plus or minus one degree Celsius, until now. Our burning of fossil fuels, our destruction of nature, our approach to industry, construction and learning, are releasing carbon into the atmosphere at an unprecedented pace and scale. We are already in trouble. The stability we all depend on is breaking. This story is one of inequality, as well as instability. Today, those who’ve done the least to cause this problem, are being the hardest hit. Ultimately, all of us will feel the impact, some of which are now unavoidable.</u>
+      <u who="#B">My world is melting.</u>
+      <u who="#C">You think you have control. We actually have no control.</u>
+      <u who="#D">I'm absolutely terrified to bring a child to this world.</u>
+      <u who="#A">Is this how our story is due to end? A tale of the smartest species doomed by that all too human characteristic of failing to see the bigger picture in pursuit of short term goals. Perhaps the fact that the people most affected by climate change are no longer some imagined future generation, but young people alive today, perhaps that will give us the impetus we need to rewrite our story, to turn this tragedy into a triumph. We are after all, the greatest problem solvers to have ever existed on Earth. We now understand this problem. We know how to stop the number rising and put it in reverse. We must recapture billions of tons of carbon from the air. We must fix our sights on keeping one and a half degrees within reach. A new industrial revolution, powered by millions of sustainable innovations, is essential, and is indeed already beginning. We will all share in the benefits. Affordable, clean energy, healthy air and enough food to sustain us all. Nature is a key ally. Whenever we restore the wild, it will recapture carbon and help us bring back balance to our planet. And as we work to build a better world, we must acknowledge, no nation has completed its development because no advanced nation is yet sustainable. All have a journey still to complete so that all nations have a good standard of living and a modest footprint. We’re going to have to learn together, how to achieve this, ensuring none are left behind. We must use this opportunity to create a more equal world and our motivation should not be fear, but hope.</u>
+      <u who="#E">Can we fix climate problem in one generation? My answer would be, yes, we have to.</u>
+      <u who="#F">We need to not just to talk about what we can do, but to do what we can.</u>
+      <u who="#G">This is a challenge that we should try to solve in a quick way, but with a long term vision.</u>
+      <u who="#A">It comes down to this. The people alive now, the generation to come, will look at this conference and consider one thing. Did that number stop rising and start to drop, as a result of commitments made here? There’s every reason to believe that the answer can be yes. If working apart, we are force powerful enough to destabilize our planet, surely, working together, we are powerful enough to save it. In my lifetime, I’ve witnessed a terrible decline. In yours, you could and should witness a wonderful recovery. That desperate hope, ladies and gentlemen, delegates, excellencies, is why the world is looking to you and why you are here. Thank you.</u>
+    </body>
+    <note>
+      <p/>
+    </note>
+  </text>
+</TEI>

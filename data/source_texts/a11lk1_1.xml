@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Akhtar, Ayad</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>20180313</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk1</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Abe</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Amir</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Emily</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Scene 4</p>
+    </head>
+    <body>
+		<p>
+		<u who="#A">They brought up my immigration status.</u>
+		<u who="#B">What about it?</u>
+		<u who="#C">It's up for renewal.</u>
+		<u who="#A">When they said that... <stage><emph rend="italics">(hesitating)</emph></stage> ...I laughed.</u>
+		<u who="#B">You laughed?</u>
+		<u who="#A">I didn't mean to. It just happened.</u>
+		<u who="#B">Were you trying to antagonize them?</u>
+		<u who="#A">No. I mean... <stage><emph rend="italics">(pause)</emph></stage> Look. I know what they're doing.</u>
+		<u who="#B">What are they doing?</u>
+		<u who="#A">They're going into our community and looking for people whose immigration status is vulnerable. Then they push us to start doing stuff for them.</u>
+		<u who="#B">Okay...</u>
+		<u who="#A">So what? You don't believe that either?</u>
+		<u who="#B">I didn't say that.</u>
+		</p>
+		<p>
+        <stage>
+			<emph rend="italics">Amir starts dialing on his phone</emph>
+        </stage>
+      </p>
+	  <p>
+      <u who="#A"><stage><emph rend="italics">(cont'd)</emph></stage> Who are you calling? You can't call Mom. She's gonna freak out.</u>
+      <u who="#B">I'm calling Ken.</u>
+      <u who="#A">Ken?</u>
+      <u who="#B">The lawyer on Imam Fareed's case... <stage><emph rend="italics">(Into the phone)</emph></stage> Hi Ken, it's Amir. Please call me back when you get this. It's urgent. Thanks. <stage><emph rend="italics">(Pause, then to Abe)</emph></stage> When you step out of your parents' house, you need to understand that it's not a neutral world out there. Not right now. Not for you. You have to be mindful about sending a different message.</u>
+      <u who="#A">Than what?</u>
+      <u who="#B">Than the one that landed you in an interrogation with the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice>.</u>
+	  </p>
+      <p>
+        <stage>
+          <emph rend="italics">Pause.</emph>
+        </stage>
+      </p>
+	  <p>
+      <u who="#A">So now what?</u>
+      <u who="#B">Let's hear what Ken has to say. I mean it's not good. But at least they let you go.</u>
+      <u who="#A">What would you do? If the <choice><abbr>FBI</abbr><expan>Federal Bureau of Investigation</expan></choice> asked you to work for them? Hmm?</u>
+      <u who="#B">We're not there yet.</u>
+      <u who="#A"><stage><emph rend="italics">(Cutting him off)</emph></stage> What would you do?</u>
+      <u who="#B"><stage><emph rend="italics">(Considering)</emph></stage>There are always ways ... to let the authorities know that ... you're on their side ...</u>
+      <u who="#A">But I'm not on their side.</u>
+      <u who="#B">You might want to rethink that. Because they make the rules.</u>
+      <u who="#A">I knew this was a mistake.</u>
+      <u who="#B">It's not a mistake. If you're not smarter about this, you are going to get deported.</u>
+	  </p>
+      <p>
+        <stage>
+          <emph rend="italics">Beat.</emph>
+        </stage>
+      </p>
+	  <p>
+      <u who="#A">Yeah, well, maybe that wouldn't be the worst thing.</u>
+      <u who="#B">To a country you haven't known since you were eight years old.</u>
+      <u who="#A">Maybe that's the problem. Maybe we never should've left. Maybe we never should have come to this one.</u>
+      <u who="#B">There's a reason your father came here. Same reason my father did. They wanted to make a better life for themselves and their families -</u>
+      <u who="#A"><stage><emph rend="italics">(Over)</emph></stage> A better life?!?</u>
+      <u who="#B"><stage><emph rend="italics">(Continuing)</emph></stage> - and to do it honestly. Which isn't an option in Pakistan.</u>
+      <u who="#A"><stage><emph rend="italics">(Exploding)</emph></stage> You don't have a better life!</u>
+      <u who="#B">What are you talking about?</u>
+      <u who="#A">I know you were fired!</u>
+      <u who="#B">I don't know what you think you know -</u>
+      <u who="#A"><stage><emph rend="italics">(Quiet, intense)</emph></stage> I know what you did to her. How could you?</u>
+	  </p>
+      <p>
+        <stage>
+          <emph rend="italics">Beat.</emph>
+        </stage>
+      </p>
+	  <p>
+      <u who="#B">I don't know.</u>
+	  </p>
+      <p>
+        <stage>
+          <emph rend="italics">Beat.</emph>
+        </stage>
+      </p>
+	  <p>
+      <u who="#A">You want something from these people you will never get.</u>
+      <u who="#B">I'm still your elder. You need to show me a little respect.</u>
+      <u who="#A">Just because I'm telling you the truth doesn't mean I'm not showing respect. <stage><emph rend="italics">(Beat)</emph></stage> You forgot who you are.</u>
+      <u who="#B"><stage><emph rend="italics">(Triggered)</emph></stage> Really? Abe Jensen?!</u>
+      <u who="#A">I changed it back!</u>
+      <u who="#B">So now you think running around with a kufi on your head, shooting your mouth off in Starbucks, or sitting in a mosque and bemoaning the plight of Muslims around the world is going to -</u>
+      <u who="#A"><stage><emph rend="italics">(Interrupting)</emph></stage> It's disgusting. The one thing I can be sure about with you? You'll always turn on your own people. You think it makes these people like you more when you do that? They don't. They just think you hate yourself. And they're right! You do! I looked up to you. You have no idea -</u>
+      <u who="#B">No, I know.</u>
+      <u who="#A">No! You have no idea what it did to me! <stage><emph rend="italics">(Beat)</emph></stage> I mean, if you can't make it with them? ... <stage><emph rend="italics">(Having a dawning thought)</emph></stage> The Prophet wouldn't be trying to be like one of them. He didn't conquer the world by copying other people. He made the world copy him.</u>
+      <u who="#B">Conquer the world?</u>
+      <u who="#A">That's what <emph rend="italics">they've</emph> done. They've conquered the world. We're gonna get it back. That's our destiny.</u>
+      <u who="#B">Hussein...</u>
+      <u who="#A">I'll handle it myself, Uncle.</u>
+	  </p>
+      <p>
+        <stage>
+          <emph rend="italics">Abe exits</emph>
+        </stage>
+      </p>
+    </body>
+    <note>
+      <p/>
+    </note>
+  </text>
+</TEI>

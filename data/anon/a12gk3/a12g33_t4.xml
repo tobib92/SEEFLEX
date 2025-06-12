@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk3</p>
@@ -42,7 +42,7 @@
       </p>
       <p>
         <s>But this development has nothing to do with <name type="geo">Germany</name> as such, only <name type="geo">Berlin</name> is such a global city in <name type="geo">Germany</name>.</s>
-        <s>This is the opinion of a man named <name type="person">David Walker</name>, who is drinking a coffee in a coffeeshop that would fit perfectly in every other global city.</s>
+        <s>This is the opinion of a man named <name type="person">David Smith</name>, who is drinking a coffee in a coffeeshop that would fit perfectly in every other global city.</s>
         <s>The difference the coffee here isn't as expensive.</s>
         <s>He is a programmer from England, and his corporation has more than 21 nationalities, with English being the dominating language.</s>
         <s>Across the coffeeshop is a shop for used English looks, even by an Irish woman, <name type="person">Orla Baumgarten</name>.</s>

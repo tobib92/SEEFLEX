@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>
@@ -44,7 +44,7 @@
         <s>Especially from English speaking <choice><orig>countrys</orig><reg>countries</reg></choice> like American, Britain, or Australian people are coming to <name type="geo">Berlin</name>.</s>
         <s>Because of this there are many areas in <name type="geo">Berlin</name> where people speak amost only or at least a lot of English.</s>
         <s>Besides this stores for example restaurants are often on English which makes it more easier for Englih speaking people.</s>
-        <s>For example the App-inventor <name type="person">David Walker</name> has a <choice><orig>buisness</orig><reg>business</reg></choice> with workers from 21 different nations and they all speak English together.</s>
+        <s>For example the App-inventor <name type="person">David Smith</name> has a <choice><orig>buisness</orig><reg>business</reg></choice> with workers from 21 different nations and they all speak English together.</s>
       </p>
       <p>
         <s>All in all you can simpl live in <name type="geo">Berlin</name> even if you only speak English.</s>

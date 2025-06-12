@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="225min"</note>
         <note>#tasks="4"</note>
-        <note genre="persuading" genre_family="analytical exposition">formal_letter</note>
+        <note genre="persuading" genre_family="analytical_exposition">formal_letter</note>
       </notesStmt>
       <sourceStmt>
         <p>a12lk1</p>
@@ -28,7 +28,7 @@
     <head>
       <address>
         <addrLine>Jane Smith</addrLine>
-        <addrLine>Neuenhöfer Allee 104</addrLine>
+        <addrLine>Elm Street 104</addrLine>
         <addrLine>50935 Cologne</addrLine>
       </address>
       <address>

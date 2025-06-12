@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="responding" genre_family="critical response">comment</note>
+        <note genre="responding" genre_family="critical_response">comment</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>

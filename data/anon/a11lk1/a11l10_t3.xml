@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="recounting" genre_family="personal recount">diary</note>
+        <note genre="recounting" genre_family="personal_recount">diary</note>
       </notesStmt>
       <sourceStmt>
         <p>a11lk1</p>

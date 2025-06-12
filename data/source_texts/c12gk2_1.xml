@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>1611</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Lady Macbeth</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Macbeth</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Lady Macbeth persuades her husband</p>
+    </head>
+    <body>
+      <p>Macbeth has learned from three witches that he is to be the future king of Scotland and told his wife about this prophesy in a letter. He then hurries home from the battlefield to prepare a banquet in honour of the present king, Duncan. Duncan is Macbeth's relative and has just granted him the title 'Thane of Cawdor' for his faithful service and great bravery in a battle.</p>
+      <u who="#A">He has almost supped: why have you left the chamber?</u>
+      <u who="#B">Hath he asked for me?</u>
+      <u who="#A">Know you not he has?</u>
+      <u who="#B">We will proceed no further in this business: He hath honoured me of late; and I have bought Golden opinions from all sorts of people, Which would be worn now in their newest gloss, Not cast aside so soon.</u>
+      <u who="#A">Was the hope drunk Wherein you dressed yourself? Hath it slept since? And wakes it now, to look so green and pale At what it did so freely? From this time Such I account thy love. Art thou afeard To be the same in thine own act and valour As thou art in desire? Wouldst thou have that Which thou esteem'st the ornament of life, And live a coward in thine own esteem, Letting 'I dare not' wait upon 'I would', Like the poor car i' the adage?</u>
+      <u who="#B">Prithee, peace: I dare do all that may become a man; Who dares do more is none.</u>
+      <u who="#A">What beast was't, then, That made you break this enterprise to me? When you durst do it, then you were a man; And, to be more than what you were, you would Be so much more the man. Nor time nor place Did then adhere, and yet you would make both: They have made themselves, and that their fitness now Does unmake you. I have given suck, and know How tender 'tis to love the babe that milks me: I would, while it was smiling in my face, Have plucked my nipple from his boneless gums, And dashed the brains out, had I so sworn as you Have done to this.</u>
+      <u who="#B">If we should fail?</u>
+      <u who="#A">We fail! But screw your courage to the sticking-place, And we'll not fail. When Duncan is asleep - Whereto the rather shall his day's hard journey Soundly invite him - his two chamberlains Will I with wine and wassail so convince That memory, the warder of the brain, Shall be a fume, and the receipt of reason A limbeck only: when in swinish sleep Their drenched natures lie as in a death, What cannot you and I perform upon the unguarded Duncan? What not put upon His spongy officers, who shall bear the guilt Of our great quell?</u>
+      <u who="#B">Bring forth men-children only; For thy undaunted mettle should compose Nothing but males. I am settled and bend up Each corporal agent to this terrible feat. Away, and mock the time with fairest show: False face must hide what the false heart doth know.</u>
+    </body>
+    <note>
+      <p>supped, honoured me of late, would be worn, cast aside, Such I account thy love, be the same ... as thou art in desire, esteem'st, esteem, dare, wait upon, adage, Prithee peace, durst, Nor time ... adhere, make both, have made themselves, fitness, guve suck, plucked, boneless gums, screw your courage to the sticking-place, Whereto ... invite him, chamberlain, wassail, warder, fume, receipt of reason, limbeck, drenched, spongy, bear, quell, undaunted mettle, each corporal agent, mock the time</p>
+    </note>
+  </text>
+</TEI>

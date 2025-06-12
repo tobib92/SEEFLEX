@@ -155,7 +155,7 @@ convert_all_files <- function(input_directory, output_directory, settings,
       output_directory = output_directory,
       filename = filename,
       ### CHANGE OUTPUT FORMAT IF DESIRED! ###
-      output_format = "xml",
+      output_format = "txt",
       settings = settings
     )
   }

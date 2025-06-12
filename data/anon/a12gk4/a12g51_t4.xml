@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk4</p>
@@ -49,7 +49,7 @@
         <s>Or that there are a lot of shops and cafés that are undistinguishable from ones in <name type="geo">Toronto</name>, <name type="geo">Hongkong</name> or <name type="geo">Los Angeles</name>.</s>
       </p>
       <p>
-        <s><name type="person">David Walker</name>, an <choice><orig>english</orig><reg>English</reg></choice> programmer says that <name type="geo">Berlin</name> is different from the other parts of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> and that people at his work talk <choice><orig>english</orig><reg>English</reg></choice> all the time.</s>
+        <s><name type="person">David Smith</name>, an <choice><orig>english</orig><reg>English</reg></choice> programmer says that <name type="geo">Berlin</name> is different from the other parts of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name> and that people at his work talk <choice><orig>english</orig><reg>English</reg></choice> all the time.</s>
         <s>There are bookstores dedicated to <choice><orig>english</orig><reg>English</reg></choice> books only and countless other shops that have daily <choice><orig>english</orig><reg>English</reg></choice> cutsomers.</s>
         <s>So you would have a good and easy time in <name type="geo">Berlin</name>, especially with the relatively low prizes for apartments but also every other imaginable things like café.</s>
       </p>

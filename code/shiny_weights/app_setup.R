@@ -1,6 +1,6 @@
 #### Set working directory to the SEEFLEX root folder ####
 
-vars <- load("data/gma/20250519_shiny_data.rda")
+vars <- load("data/gma/shiny_data.rda")
 
 # mappings between codes/short names and long names
 mk.map <- function(x, y) structure(y, names = x)

@@ -1,6 +1,6 @@
 #### Set working directory to the SEEFLEX root folder ####
 
-source("xml_utils.R")
+source("code/data_pipeline/xml_utils.R")
 
 
 #' !!! Only run the lines below once !!!
@@ -50,8 +50,8 @@ print("All nodes were renamed in the corpus files.")
 
 }
 
-rename_xml_files_in_directory(input_directory = "output/20250409_seeflex_orig/",
-                              output_directory = "output/20250409_seeflex_orig")
+rename_xml_files_in_directory(input_directory = "output/20250601_seeflex_orig/",
+                              output_directory = "output/20250601_seeflex_orig")
 
 
 #' Clean the strings from unnecessary spaces, tabs and linebreaks.
@@ -140,5 +140,5 @@ output_filename <- paste0("output/collapse/", format(Sys.Date(), "%Y%m%d"),
                           "_seeflex_", corpus_version, ".txt")
 
 concatenate_all_files(
-  directory = "output/20250409_seeflex_orig/",
+  directory = "output/20250601_seeflex_orig/",
   output_file = output_filename)

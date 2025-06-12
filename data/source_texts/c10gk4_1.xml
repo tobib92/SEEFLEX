@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Obama, Barack</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Speech</pubPlace>
+        <address>https://www.whitehouse.gov/the-press-office/remarks-oresident-barack-obama-student-roundtable-istanbul</address>
+        <date>20090407</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Remarks of President Obama at student roundtable</p>
+    </head>
+    <body>
+      <p>During a visit to Istanbul Barack Obama hosted a students' roundtable at the Culture and Arts Center of Mimar Sinan University in Tophane. Before the open discussion started, he had given a short speech on the importance of intercultural understanding and student exchanges.</p>
+      <p>And I came to Turkey because I'm deeply committed to rebuilding a relationship between the United States and the people of the Muslim world - one that's grounded in mutual interest and mutual respect.</p>
+      <p>In America, I'm proud to see a new spirit of activism and responsibility take root. I've seen it in the young Americans who are choosing to teach in our schools or volunteer abroad. I saw it in my own presidential campaign where young people provided the energy and the idealism that made effort possible. And I've seen it wherever I travel abroad and speak to groups like this. Everywhere I go I find young people who are passionate, engaged, and deeply informed about the world around them.</p>
+      <p>So as President, I'd like to find new ways to connect young Americans to young people all around the world, by supporting opportunities to learn new languages, and serve and study, welcoming students from other countries to our shores. That's always been a critical part of how America engages in the world.</p>
+      <p>Simple exchanges can break down walls between us, for when people come together and speak to one another and share a common experience, then their common humanity is revealed. We are reminded that we're joined together by our pursuit of a life that's productive and purposeful, and when that happens mistrust begins to fade and our smaller differences no longer overshadow the things that we share. And that's where progress begins.</p>
+      <p>So to all of you, I want you to know that the world will be what you make of it. You can choose to build new bridges instead of building new walls. You can choose to put aside longstanding divisions in pursuit of lasting peace. You can choose to advance a prosperity that is shared by all people and not just the wealthy few. And I want you to know that in these endeavors, you will find a partner and a supporter and a friend in the United States of America.</p>
+    </body>
+    <note>
+      <p>remark, round table, mutual, take root, pursuit, fade, prosperity, endeavor</p>
+    </note>
+  </text>
+</TEI>

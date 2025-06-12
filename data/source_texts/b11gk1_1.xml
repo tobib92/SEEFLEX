@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Clement, Jennifer</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>Novel</pubPlace>
+        <address>NA</address>
+        <date>20200306</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p/>
+    </head>
+    <body>
+      <p>
+        <emph rend="italics">After Margot's death, Pearl is brought to a foster home by <choice><abbr>CPS</abbr><expan>Child Protective Services</expan></choice> where she meets two other foster children, Leo and Helen.</emph>
+      </p>
+      <p>Helen was even smaller standing beside me than she'd seemed when I looked down at her from my window. I knew she was eight, but she looked about five.</p>
+      <p>Helen smiled. She smelled like burned marshmallows. I knew that smell so well. In the car, as we didn't have a stove or fireplace, we used to toast our marshmallows with a lighter.</p>
+      <p>Helen talked nonstop. It took me only a few minutes to realize that Helen had no idea who she was or where she came from. She said she had a white mommy and a black mommy. Then she said she had ten brothers and eleven sisters. She said she lived here and there near a beach and near a park. She was from Ethiopia and Finland. She was born in a house. She was born in a hospital. Helen had a twin brother and sister and she had two twin sisters. She had been in Catholic homes, Mormon homes, and Jehova's Witness homes.</p>
+      <p>Helen was the true-blue foster child - too many homes, too many people, too many changes. Nobody had taught her not to pick her scabs. Nobody had taught her how to pull her baby teeth out with strings.</p>
+      <p>Helen had stayed in homes where she was given only cereal to eat. She'd been to homes where she had to reuse dental floss and tea bags and was given one square of toilet paper a day. Helen had been to foster homes where she slept on the floor in a hallway.</p>
+      <p>Helen often spoke to herself in the third person. Nobody corrected her.</p>
+      <p>Helen said, Helen has no maple flavoring. Helen is always dreaming of a white Christmas in Florida and she doesn't drink enough water. Helen loves forehead kisses. She sometimes wants to sleep forever and would not mind being pregnant. Helen feels better after a shower and she knows if you have bugs in your clothes just put them in a microwave oven. That kills all bugs even bed bugs. Leo just accepted her chatter and I ended up doing the same. There was no way to follow her and attempt to make sense of her life.</p>
+      <p>Leo said, Show Pearl your collection of telephones.</p>
+      <p>Helen went to her room and came back in a minute with a plastic supermarket bag and dumped the contents out on the floor. She had at least seventeen phones and chargers in her bag. Every foster home she goes to, they give her a phone and tell her to keep in touch. Leo said, There're so many now, Helen has no idea if they work or what house they belong to. I promised her I'll try and sort out one day.</p>
+      <p>Yes, Helen said. These are the phones to all of Helen's houses.</p>
+      <p>What will you do with them? I asked.</p>
+      <p>Call on a phone to people in her family that's all and yes, of course, her friends Lulu, Gina, and Romey, Helen said. She wants to call her best friends to talk about things like, you know, do you like cats? Questions like that. A lot of people like cats. They're cute. Soft. Helen likes them a lot.</p>
+      <p>I'll figure it out for you, Leo said. First we're going to have to charge them all. Pearl will help us.</p>
+      <p>Then he went back to chewing his sleeve as he looked at the tangles of wires and multiple chargers.</p>
+      <p>Yes, of course I'll help, I said.</p>
+      <p>Helen crawled over to where I was sitting on the floor and sat very close to me. She rubbed her forehead against my upper arm. Hey, Helen said. You smell like bug-off.</p>
+      <p>I still smelled like the Mercury. The Raid was deep in my skin.</p>
+    </body>
+    <note>
+      <p>true-blue, scab, bugs, bed bugs, tangle, bug-off, The Raid</p>
+    </note>
+  </text>
+</TEI>

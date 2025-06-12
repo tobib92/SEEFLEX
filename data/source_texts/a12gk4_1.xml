@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Worne, John</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>The Telegraph</pubPlace>
+        <address>NA</address>
+        <date>20150127</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Language learning in the UK: "can't, won't, don't'"</p>
+    </head>
+    <body>
+      <p>Can't, won't, don't, three words which sum up our national view on speaking foreign languages.</p>
+      <p>For the past seven years, the number of UK students choosing to study foreign languages at university level has been in steady decline - and sadly, this latest news does very little to suggest any prospect of us re-commissioning our collective brains.</p>
+      <p>While there is some progress - languages are now on the menu in more primary schools - there's a long haul ahead. The latest national school exam results show that uptake of languages at both <choice><abbr>GCSE</abbr><expan>General Certificate of Secondary Education</expan></choice> and A-level has also stalled.</p>
+      <p>More than 10000 fewer language A-level exams were taken last year than at the end of the 1990s, with <choice><abbr>GCSE</abbr><expan>General Certificate of Secondary Education</expan></choice> entry figures again showing a drop in the number of Modern Foreign Language exams, following a couple of years of growth.</p>
+      <p>Perfectly intelligent people will tell you not to worry. Everyone speaks English in the world of business (they don't), your iPhone will now translate road signs for you (but you may crash or choke on the roaming data charges) and the next generation of wearable tech will enable intercultural telepathy anyway. Cobblers.</p>
+      <p>Language learning is vital for the UK's future prosperity and global standing. Languages are essential for our trade, prosperity, cultural exports, diplomacy and cooperation national security.</p>
+      <p>The most recent <choice><abbr>CBI</abbr><expan>Chartered Banker Institute</expan></choice>/Pearson Education and Skills Survey showed almost two-thirds of UK businesses need foreign language skills - and expect that to grow as more firms look to break into new fast-growing markets, with the UK's concerted export drive. The problem is many UK businesses have given up on home-grown talent and rely on translators or hire abroad.</p>
+      <p>The only really good piece of news is forward-thinking universities are offering students the chance to study a language alongside anotherdegree subject. A number of students are opting to do so - more should.</p>
+      <p>It's a particularly attractive combination for employers. The tough reality in a tough jobs market is a lawyer with Chinese language skills is more in demand than a pure lawyer or a pure linguist.</p>
+      <p>There is no doubt the UK needs more of our young people, not fewer, to develop antithesis their language skills.</p>
+      <p>So, parents of the UK (and I'm one), what it is going to take is a cultural shift in homes up and down the land. Unless we as parents start thinking more about languages, and international experiences, as essential strings to our children's bows, it's not going to happen; the school and education system can't fix it without us.</p>
+    </body>
+    <note>
+      <p>re-commissioning our collective brains, long haul, GCSE, A-level, stall, roaming data charges, cobblers, CBI/Pearson Education and Skills Survey</p>
+    </note>
+  </text>
+</TEI>

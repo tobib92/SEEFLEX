@@ -15,19 +15,20 @@ long_lextale$GRADE <- as.factor(long_lextale$GRADE)
 # Plot
 
 plot <- ggplot(long_lextale, aes(x = Score_Type, y = Score_Value, fill = GRADE)) +
-  geom_bar(position = "dodge", stat = "summary", fun = "mean") +
+  geom_bar(position = position_dodge(width = 0.92), stat = "summary", fun = "mean") +
   geom_text(aes(label = round(after_stat(y), 2)),
             stat = "summary", fun = "mean",
             position = position_dodge(0.91),
-            hjust = 'right',
-            # vjust = 0,
-            colour = "#FFFFFF",
-            angle = 90
+            hjust = 0.5,
+            vjust = 1.2,
+            colour = "#FFFFFF"
+            # size = 4.5
+            # angle = 90
             ) + # Adjust vertical position of text
   labs(title = "LexTALE results",
-       x = "Scores",
-       y = "Score Value", legend = element_text("test")) +
-  scale_fill_manual(values = c("#0099a1", "#00559f", "#006265")) +
+       x = "Test",
+       y = "Score", legend = element_text("test")) +
+  scale_fill_manual(values = c("#00B1B7", "#407FB7", "#2D7F83")) +
   scale_x_discrete(labels = c("LexTALE English", "LexTALE German")) +
   theme_minimal()
 
@@ -37,9 +38,8 @@ plot
 
 ##### Save the plot to a .pdf file #####
 
-current_date <- format(Sys.Date(), "%Y%m%d")
-output_filename <- paste0("output/plots/", current_date,
-                          "_text-count-per-tcurr.pdf")
+output_filename <- paste0("output/plots/", format(Sys.Date(), "%Y%m%d"),
+                          "_lextale_plot.pdf")
 
 ggsave(filename = output_filename,
        plot = plot,

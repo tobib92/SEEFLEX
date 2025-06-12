@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="90min"</note>
         <note>#tasks="3"</note>
-        <note genre="responding" genre_family="personal response">comment</note>
+        <note genre="responding" genre_family="personal_response">comment</note>
       </notesStmt>
       <sourceStmt>
         <p>b10gk1</p>

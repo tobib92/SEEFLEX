@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Fitzgerald, F. Scott</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>Novel</pubPlace>
+        <address>NA</address>
+        <date>19950601</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Excerpt from the novel <emph rend="italics">The Great Gatsby</emph> by F. Scott Fitzgerald, p. 84, l.1 - p. 87, l. 28</p>
+    </head>
+    <body>
+      <p>??</p>
+    </body>
+    <note>
+      <p>??</p>
+    </note>
+  </text>
+</TEI>

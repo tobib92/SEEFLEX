@@ -142,13 +142,13 @@ scatterplot_ui <- function(id) {
 
         #### Color variable ####
         radioButtons(ns("filter_col"), "Filter color variable",
-          choices = c("Operator 17", "Operator 25", "Curricular task", "Genre"),
+          choices = c("Operator 17", "Operator 25", "Curricular task", "Genre", "Monochrome"),
           selected = "Operator 17", inline = TRUE
         ),
 
         #### Symbol variable ####
         radioButtons(ns("filter_sym"), "Filter symbol variable",
-          choices = c("Grade", "Curricular task", "Genre"),
+          choices = c("Grade", "Curricular task", "Genre", "Monochrome"),
           selected = "Curricular task", inline = TRUE
         ),
 

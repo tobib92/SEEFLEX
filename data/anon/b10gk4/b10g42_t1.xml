@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="90min"</note>
         <note>#tasks="3"</note>
-        <note genre="recounting" genre_family="literary recount">summarize</note>
+        <note genre="recounting" genre_family="literary_recount">summarize</note>
       </notesStmt>
       <sourceStmt>
         <p>b10gk4</p>

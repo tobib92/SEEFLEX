@@ -253,6 +253,7 @@ write_genre_nodes <- function(input_directory, output_directory) {
     write_xml(genre_file, file = output_file)
 
   }
+  print("All genre nodes written into .xml files!")
 }
 
 
@@ -291,6 +292,8 @@ write_task_nodes <- function(input_directory, output_directory) {
     write_xml(task_file, file = output_file)
 
   }
+  print("All task nodes written into .xml files!")
+
 }
 
 

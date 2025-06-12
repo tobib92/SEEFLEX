@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="225min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12lk3</p>
@@ -49,7 +49,7 @@
       <p>
         <s>The author of the article also mentions <choice><orig>to</orig><reg>two</reg></choice> schools as examples.</s>
         <s>The first one is the <name type="misc">Theodor-Mommsen school</name> <choice><orig>were</orig><reg>where</reg></choice> students from year 8 and 9 were allowed to choose between different subjects - one of them being <quote>strategical thinking</quote> <choice><orig>were</orig><reg>where</reg></choice> they mainly focus on chess.</s>
-        <s>The class has 27 students, 18 boys and nine girls and is <choice><orig>teached</orig><reg>taught</reg></choice> by a mister <name type="person">Klemm</name>.</s>
+        <s>The class has 27 students, 18 boys and nine girls and is <choice><orig>teached</orig><reg>taught</reg></choice> by a mister <name type="person">Smith</name>.</s>
         <s>He says that chess has a lot of positive effects for example that the younger ones can also beat the older ones and weaker kids can beat stronger kids.</s>
       </p>
       <p>

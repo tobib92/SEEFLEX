@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>b12gk1</p>
@@ -71,7 +71,7 @@
       </p>
       <p>
         <s>At the end I visited the secondhand flea market, but all cool clothings already were <choice><orig>selled</orig><reg>sold</reg></choice>.</s>
-        <s>Maybe I will get some next time, because <name type="person">Mr. Clemm</name> told us that they plan to do the same project due next year again.</s>
+        <s>Maybe I will get some next time, because <name type="person">Mr. Smith</name> told us that they plan to do the same project due next year again.</s>
         <s>Then I will go earlier to the flea market.</s>
       </p>
       <p>

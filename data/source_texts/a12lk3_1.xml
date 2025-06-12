@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>1600</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a12lk3</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Sylock</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Tubal</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Shylock</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Excerpt from William Shakespeare's "The Merchant of Venice"</p>
+    </head>
+    <body>
+      <p>
+        <stage>A street in Venice. Shylock meets Tubal, one of his Jewish friends. Tubal has been looking for Shylock's daughter Jessica who ran away with a Christian man.</stage>
+      </p>
+      <u who="#A">How now, Tubal! What news from Genoa? Hast thou found my daughter?</u>
+      <u who="#B">I often came where I did hear of her, but cannot find her.</u>
+      <u who="#C">Why, there, there, there, there! A diamond gone, cost me two thousand ducats in Frankfort! The curse never fell upon our nation till now; I never felt it till now: two thousand ducats in that; and other precious, precious jewels. I would my daughter were dead at my foot, and the jewels in her ear! Would she were hearsed at my foot, and the ducats in her coffin! No news of them? Why, so: and I know not what's spent in the search: why, thou loss upon loss! The thief gone with so much, and so much to find the thief; and no satisfaction, no revenge: nor no in luck stirring but what lights on my shoulders; no sighs but of my breathing; no tears but of my shedding.</u>
+      <u who="#B">Yes, other men have ill luck too: Antonio, as I heard in Genoa,--</u>
+      <u who="#C">What, what, what? Ill luck, Ill luck?</u>
+      <u who="#B">Hath an argosy cast away, coming from Tripolis.</u>
+      <u who="#C">I thank God, I thank God. Is't true, is't true?</u>
+      <u who="#B">I spoke with some of the sailors that escaped the wreck.</u>
+      <u who="#C">I thank thee, good Tubal: good news, good news! Ha, ha! Where? In Genoa?</u>
+      <u who="#B">Your daughter spent in Genoa, as I heard, in one night fourscore ducats.</u>
+      <u who="#C">Thou stickest a dagger in me: I shall never see my gold again: fourscore ducats at a sitting! Fourscore ducats!</u>
+      <u who="#B">There came divers of Antonio's creditors in my company to Venice, that swear he cannot choose but break.</u>
+      <u who="#C">I am very glad of it: I'll plague him; I'll torture him: I am glad of it.</u>
+      <u who="#B">One of them showed me a ring that he had of your daughter for a monkey.</u>
+      <u who="#C">Out upon her! Thou torturest me, Tubal: it was my turquoise; I had it of Leah when I was a bachelor: I would not have given it for a wilderness of monkeys.</u>
+      <u who="#B">But Antonio is certainly undone.</u>
+      <u who="#C">Nay, that's true, that's very true. Go, Tubal, fee me an officer; bespeak him a fortnight before. I will have the heart of him, if he forfeit; for, were he out of Venice, I can make what merchandise I will. Go, go, Tubal, and meet met at our synagogue; go, good Tubal; at our synagogue, Tubal.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Exeunt (They both leave)</emph>
+        </stage>
+      </p>
+    </body>
+    <note>
+      <p>I often came, Would she were hearsed, nor no in luck stirring but what lights on my shoulders, what's spent in the search, satisfaction, no sighs but of my breathing, argosy, fourscore, at a sitting, he cannot choose but break, for, Leah, wilderness, undone, fee me an officer, hire him two weeks before the bond is due, I can make what merchandise I will</p>
+    </note>
+  </text>
+</TEI>

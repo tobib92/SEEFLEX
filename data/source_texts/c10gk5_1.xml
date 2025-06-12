@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Rahman, Zia Haider</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>The Sunday Times</pubPlace>
+        <address>NA</address>
+        <date>20161217</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk5</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Hope of escape lost in translation</p>
+    </head>
+    <body>
+      <p>It's a shocking figure: more than £ 100m was spent in the past years on translating and interpreting for British residents who don't speak English. The financial cost is bad enough, but there is a wider problem about the confused signals we are sending to the immigrant communities. We are telling them they don't have to learn English, let alone integrate.</p>
+      <p>The evidence is plain to anyone who visits Brick Lane in the East End of London. In the Bangladeshi community from which I come, English is a foreign language. Even the street signs are in Bengali. Every year Bangladeshis sit at the bottom of educational achievement. Their society persists in economic stagnation. Drug abuse and crime are on the rise in the East End. Illiterate young Bangladeshi males, with no hope of employment, can choose between extremists in the mosque or the gangs in the streets.</p>
+      <p>I didn't speak a word of English when I arrived in Britain, but I learned quickly. I was lucky. My parents were determined not to be absorbed into the East End, which represented a recreation of the country they had left. My parents wanted to learn English and wanted me to do so, too. My parents' aspirations were reinforced by my primary school head. It was the mid-1970s and I was a rarity as a Bangladeshi pupil, although my teachers made no acknowledgement of my racial difference. By contrast, schools today seem intent on celebrating difference. I'm not convinced it helps.</p>
+      <p>'Awareness-raising programmes' are all the rage - we have to celebrate our diversity. But you don't learn to stand on your own feet if someone is holding you up. Indulging differences can be harmful if it prevents communities from integrating. I believe we should curb the translation and interpreting services, and think about making English compulsory for all citizens. Public figures are understandably fearful of being labelled racist. But the greater danger lies in not speaking up. There is much to be gained in getting us all to speak English.</p>
+    </body>
+    <note>
+      <p>interpreting, let alone, Bengali, stagnation, reinforce, head, acknowledgement, intent on, all the rage, indulge sb/sth, curb, figure</p>
+    </note>
+  </text>
+</TEI>

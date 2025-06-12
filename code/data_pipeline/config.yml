@@ -1,8 +1,3 @@
-# Paths and patterns
-paths:
-  directory: "/path/to/different directory"        # Directory Path
-  file_patterns: "*.txt"                           # File Patterns
-
 # Default text cleaning options
 text_cleaning:
   use_orig: true                                   # Original vs. corrected version of words

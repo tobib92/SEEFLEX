@@ -22,7 +22,10 @@ tooltip_what <- HTML(
 )
 
 tooltip_dim <- HTML(
-  "Select the dimension of the Linear Discriminant Analysis (LDA)."
+  paste(
+    "Select the dimension of Principal Component Analysis (PCA) and",
+    "the Linear Discriminant Analysis (LDA)."
+  )
 )
 
 tooltip_lda_weights <- HTML(
@@ -31,7 +34,7 @@ tooltip_lda_weights <- HTML(
     "supervised Linear Discriminant Analysis (LDA). For the LDA, select the",
     "variable that was passed as class into the supervised LDA.<br><br>",
     "<b>NB:</b> If an error occurs (Index out of bounds), switch dimensions to reset",
-    "the selection."
+    "the selection. Check dimension if Preset selection results in change of analysis!"
   )
 )
 

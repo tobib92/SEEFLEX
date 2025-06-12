@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Kirton, Amanda</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>BBC News</pubPlace>
+        <address>http://news.bbc.co.uk/2/hi/uk_news/6453973.stm</address>
+        <date>20070320</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c10gk3</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>As a 14-year-old black British male, Reece Gittens is vulnerable.</p>
+    </head>
+    <body>
+      <p>School exclusions, gang culture, knife and gun crime, and mental illness all disproportionately affect black boys in their early to late teens.</p>
+      <p>Reece's grandparents came to England in the mid-1960s from the West Indies. In his family he is the second generation of black children born in the UK.</p>
+      <p>"It's different growing up in England for me than it was for my grandparents, we don't have it hard like they did, they paved the way for us," says Reece.</p>
+      <p>Although he realises the struggles his grandparents went through, Reece is well aware of pressures that surround him.</p>
+      <p>"We're going through different things now, you hear all this stuff about young black boys and you feel like you've got to fight harder just to get a chance out there because people are judging you before they even see you," he says.</p>
+      <p>"Then on the streets it's all about respect and who you are, you're building a name for yourself. Sometimes it's hard to do the right thing - you feel like you're always proving yourself.</p>
+      <p>"But then you do think about your family and what black people have gone through and that makes you want to do better - but it's not always easy to make that decision."</p>
+      <p>Lee Jasper, equality advisor to London mayor Ken Livingstone, describes what Reece is experiencing as the result of being born into a post-slavery society.</p>
+      <p>"The legacy of racism is strong and I think the legacy of slavery impacts negatively upon black communities", he says.</p>
+      <p>Looking at present day black descendents in Britain shows us how the generations that followed slavery rebuilt their communities.</p>
+      <p>This has been especially difficult when they live in the country that was heavily involved in the trading of their ancestors.</p>
+      <p>A recent BBC News survey suggested half of the British public believed Britain to be a racist society.</p>
+      <p>Where does this leave black Britain in their view of the only home that most of them have known?</p>
+      <p>"The institution has long been abolished but the legacy of it remains. It's imperative for young black British people to have an understanding of their history," says Lee Jasper.</p>
+      <p>"It is critical to young black people going forward and to where they are in the world."</p>
+      <p>Many black leaders and artists are now focusing on young black Britain to help eradicate the problems.</p>
+      <p>They are working with groups such as the From Boyhood to Manhood Foundation in South London. These movements work alongside the community dealing with the young person's self worth helping them to recognise their potential.</p>
+      <p>One person involved in this movement is Dynamite MC. A DJ with the radio station Kiss FM and a rapper, he recently released a track Young Gifted And Black, which implores the young black person to recognise their talents and reach for their goals.</p>
+      <p>"I was the only person of colour in school so I got teased, I got racist jibes and abuse," Dynamite says.</p>
+      <p>"I think some young black people can be quite down. They are dealing with certain situations, poverty, not the best surroundings, or the best things to start their lives with."</p>
+      <p>Dynamite says things are changing, though.</p>
+      <p>"When I grew up it wasn't cool to be black - you heard the word 'nigger' every day. Now black people are in the charts, sports, producers, a lot of white kids want to be black.</p>
+      <p>"The more you want to be like someone, the more you try and understand them.</p>
+      <p>"In that way, you're breaking down any barriers which separate you, then there's no reason why you should have these walls and this ignorance, which is racism."</p>
+      <p>Although the young black British person has not experienced the same journey as their ancestors, they have taken their own journey to find their place in today's British society.</p>
+      <p>Many black people remain positive about that journey and are hopeful about what the future holds too.</p>
+      <p>"The reality is we've only been here for a short period of time in comparison with African Americans who've had hundreds of years to secure their position," says Lee Jasper.</p>
+      <p>"So when we're looking at where we've come from and what we've achieved I think it's a case of quoting Martin Luther King.</p>
+      <p>"When asked, 'How long have we got, how far have we come?', his response was, 'We're not where we want to be - but, thank God, we're not where we used to be'."</p>
+    </body>
+    <note>
+      <p/>
+    </note>
+  </text>
+</TEI>

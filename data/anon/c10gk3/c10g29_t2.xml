@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="90min"</note>
         <note>#tasks="2"</note>
-        <note genre="explaining" genre_family="consequential explanation">explain</note>
+        <note genre="explaining" genre_family="consequential_explanation">explain</note>
       </notesStmt>
       <sourceStmt>
         <p>c10gk3</p>

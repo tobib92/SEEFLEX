@@ -13,9 +13,9 @@ load("data/gma/20250519_shiny_data.rda")
 
 # Adjust basis with different weight dfs
 pca_weights_plot <- gma.plot.weights(
-  basis = weights_PCA,
+  basis = weights_LDA_genre,
   feature.names = feature.names,
-  dim = 1)
+  dim = 1:4)
 
 pca_weights_plot
 
@@ -44,8 +44,8 @@ ggsave(
 
 # all_features <- feature.names (Uncommenting affects plot size! See l. 117)
 selected_features <- c(
-  "word_S",
-  "lexd",
+  # "word_S",
+  # "lexd",
   # "nn_W",
   # "np_W",
   # "nom_W",
@@ -53,25 +53,25 @@ selected_features <- c(
   # "pall_W",
   # "pposs_W",
   # "prefx_W",
-  # "ppers1_P",
+  "ppers1_P",
   # "ppers2_P",
-  # "ppers3_P",
+  "ppers3_P"
   # "pit_P",
   # "adj_W",
   # "atadj_W",
   # "prep_W",
   # "fin_S",
   # "past_F",
-  "will_F",
-  "inf_F",
+  # "will_F",
+  # "inf_F",
   # "pass_F",
   # "modal_V",
-  "verb_W"
+  # "verb_W",
   # "coord_F",
-  # "subord_F",
+  # "subord_F"
   # "interr_S",
   # "imper_S",
-  # "title_W",
+  # "title_W"
   # "salutgreet_S",
   # "adv_place_W",
   # "adv_time_W",
@@ -93,7 +93,7 @@ selected_features <- c(
 ################################################################################
 
 selected_operators <- c(
-  "analyze",
+  # "analyze",
   # "blog",
   # "characterize",
   # "comment",
@@ -101,7 +101,7 @@ selected_operators <- c(
   # "dialogue",
   # "diary",
   # "formal_letter",
-  # "informal_e-mail"
+  # "informal_e-mail",
   "interior_monologue"
   # "magazine",
   # "point_out",
@@ -137,12 +137,12 @@ feature_plot <- ggbox.selected(
   Meta = seeflex_meta,
   cats = selected_operators,
   feature.names = selected_features,
-  weights = weights_PCA[selected_features, 1], # Dimension
+  weights = weights_PCA[selected_features, 3], # Dimension
   variable = "OPERATOR.17", # metadata variable
   group.var = "Operator                  ", # legend label (10 spaces)
   colours = c17_corp.vec,
   nrow = plot_rows, # number of rows in the plot
-  what = "contribution" # "features", "weighted" or "contribution"
+  what = "features" # "features", "weighted" or "contribution"
   # main = "PCA Feature weights"
 )
 

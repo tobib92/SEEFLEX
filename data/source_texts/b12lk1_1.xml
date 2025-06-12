@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Daszak, Peter</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>The Guardian</pubPlace>
+        <address>https://www.theguardian.com/commentisfree/2020/jul/28/pandemic-era-rainforest-deforestation-exploitation-wildlife-disease</address>
+        <date>20200728</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>We are entering an era of pandemics - it will
+end only when we protect the rainforest. Reducing deforestation and the exploitation of wildlife are the first steps in breaking the chain of disease emergence</p>
+    </head>
+    <body>
+      <p>In late 2013, in the village of Meliandou in rural Guinea, a group of children playing near a hollow tree disturbed a small colony of bats hiding inside. Scientists think that Emile Ouamouno, who later became the first tragic <emph rend="quoted">index</emph> case in the west African Ebola outbreak, was likely exposed to bat faeces while playing near the tree.</p>
+      <p>Every pandemic starts like this. An innocuous human activity, such as eating wildlife, can spark an outbreak that leads to a pandemic. In the 1920s, when <choice><abbr>HIV</abbr><expan>Human Immunodeficiency Virus</expan></choice> is thought to have emerged in what is now the Democratic Republic of the Congo, scientists believe transmission to humans could have been caused by a bushmeat hunter cutting themselves while butchering a chimpanzee. In 2019, we can speculate that a person from south-west China entered a bat cave near their village to hunt wildlife for sale at the local wet market. Perhaps they later developed a nagging cough that represents the beginning of what we now know as Covid-19. Now, a growing human population, ever-encroaching development and a globalised network of travel and trade have accelerated the pace of pandemic emergence. We’re entering a new pandemic era.</p>
+      <p>Most pandemics begin in the emerging disease hotspots of the world; the edges of forests in regions such as west Africa, the Amazon basin and south-east Asia. Tropical rainforests are home to a rich diversity of wildlife, which in turn carry an array of viruses. We know far more about these animals than we do about the viruses they carry. An estimated 1.7m viruses exist in mammals and birds (the origins of most pandemics), but less than 0.1% have been described. They spread to millions of people each year; though they often don’t cause noticeable symptoms, the sheer volume means that plenty can.</p>
+      <p>Before humans became an agricultural species, our populations were sparser and less connected. A virus infecting a hunter-gatherer might only reach family members or perhaps a hunting group. But the Anthropocene, our new geological epoch, has changed everything. A great acceleration of human activity has dramatically altered our planet’s landscapes, oceans and atmosphere, transforming as much as half of the world’s tropical forest into agriculture and human settlements.</p>
+      <p>About one-third of emerging diseases are the product of these rapid changes in land use, as people are pushed into contact with wildlife they would once have rarely encountered. The viruses that emerge, such as Zika, Ebola and Nipah, include the latest of our foes, Covid-19, transported from the altered rural landscape of China to a city near you.</p>
+      <p>Human activity has created a continuous cycle of viral spillover and spread. Our current approach is to wait for outbreaks to start, and then design drugs or vaccines to control them. But as we’ve seen with Covid-19, this approach isn’t good enough: while we wait for a vaccine, hundreds of thousands of people have died, and millions have been infected. By the time the US produced sufficient doses to vaccinate against the <choice><abbr>H1N1</abbr><expan>swine flu</expan></choice> influenza pandemic in 2009, the virus had already infected about a quarter of the people on our planet.</p>
+      <p>If we are to prevent future pandemics, we will need to reassess our relationship with nature, blocking each step in the chain of disease emergence. This should begin with reducing the rampant consumption that drives deforestation and wildlife exploitation. We’ll also need to remove viral-risk species from wildlife markets, crack down on the illegal wildlife trade and work with communities to find alternatives. We should be putting more pressure on industries that harvest tropical timber and wildlife products, rewarding corporate sustainability and legislating against overconsumption. Consumer-led campaigns against palm oil, for example, have had a ripple effect on sustainability.</p>
+      <p>As we rebuild our economies after the coronavirus pandemic, rather than returning to the system of unchecked consumption that brought us Covid-19, we have an opportunity to green our economies. Centuries of environmental exploitation have put us in a fragile position on this planet. While some may balk at the costs of avoiding environmental breakdown, or fail to understand the value of preserving a species of butterfly, frog or fish, most of us recognise that Covid-19 has brought death and economic misery on a global scale. Once we accept that human activity is what led to this, we may finally be empowered to escape the pandemic era.</p>
+    </body>
+    <note>
+      <p>Anthropocene</p>
+    </note>
+  </text>
+</TEI>

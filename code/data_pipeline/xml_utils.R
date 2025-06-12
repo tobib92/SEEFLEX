@@ -16,17 +16,40 @@ library(readr)
 #' @param namespaces A named character vector of XML namespaces in the document.
 #' @return A character string representing the text node
 
-get_text <- function(xml_file, namespaces) {
+get_text <- function(xml_file, namespaces, full_meta = TRUE) {
 
   # find the first instance of the <text> node.
   text_node <- xml_find_first(xml_file, "//d1:text", namespaces)
 
-  # create an id using the create_id() function
-  id <- xml_text(xml_find_first(xml_file, "//d1:author", namespaces))
-  # id <- create_id(xml_file, namespaces)
+  if (full_meta) {
 
-  # set the attribute of the text_node to "id" and the individual text id
-  xml_set_attr(text_node, "id", id)
+    # create an id using the create_id() function
+    id <- xml_text(xml_find_first(xml_file, "//d1:author", namespaces))
+    course <- xml_text(xml_find_first(xml_file, "//d1:sourceStmt//d1:p", namespaces))
+    operator <- xml_text(xml_find_first(xml_file, "//d1:name", namespaces))
+    genre <- xml_attr(
+      xml_find_first(
+        xml_file, "//d1:notesStmt//d1:note[3]", namespaces), attr = "genre")
+    genrefamily <- xml_attr(
+      xml_find_first(
+        xml_file, "//d1:notesStmt//d1:note[3]", namespaces), attr = "genre_family")
+
+    # set the attribute of the text_node to "id" and the individual text id
+    xml_set_attrs(text_node, c(
+      "id" = id,
+      "course" = course,
+      "operator" = operator,
+      "genre" = genre,
+      "genrefamily" = genrefamily
+      )
+    )
+
+  } else {
+
+    id <- xml_text(xml_find_first(xml_file, "//d1:author", namespaces))
+    xml_set_attr(text_node, "id", id)
+
+  }
 
   # extract everything contained in the text_node as a string
   full_text <- as.character(text_node)

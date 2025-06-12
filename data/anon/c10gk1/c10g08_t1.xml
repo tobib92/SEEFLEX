@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="90min"</note>
         <note>#tasks="3"</note>
-        <note genre="describing" genre_family="descriptive report">summarize</note>
+        <note genre="describing" genre_family="descriptive_report">summarize</note>
       </notesStmt>
       <sourceStmt>
         <p>c10gk1</p>

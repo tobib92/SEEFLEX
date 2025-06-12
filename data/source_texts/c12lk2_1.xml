@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Sonnet 60</pubPlace>
+        <address>NA</address>
+        <date>1609</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Sonnet 60</p>
+    </head>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <l>Like as the waves make towards the pebbled shore,</l>
+          <l>So do our minutes hasten to their end,</l>
+          <l>Each changing place with that which goes before,</l>
+          <l>In sequent toil all forwards do contend.</l>
+        </lg>
+        <lg type="2nd quatrain">
+          <l>Nativity, once in the main of light,</l>
+          <l>Crawls to maturity, wherewith being crowned,</l>
+          <l>Crooked eclipses 'gainst his glory fight,</l>
+          <l>And time that gave doth now his gift confound.</l>
+        </lg>
+        <lg type="3rd quatrain">
+          <l>Time doth transfix the flourish set on youth</l>
+          <l>And delves the parallels in beauty's brow,</l>
+          <l>Feeds on the rarities of nature's truth,</l>
+          <l>And nothing stands but for his scythe to mow.</l>
+        </lg>
+        <lg type="final couplet">
+          <l>And yet to times in hope my verse shall stand,</l>
+          <l>Praising thy worth, despite his cruel hand.</l>
+        </lg>
+      </lg>
+    </body>
+    <note>
+      <p/>
+    </note>
+  </text>
+</TEI>

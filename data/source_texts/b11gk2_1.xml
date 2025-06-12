@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Akhtar, Ayad</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>20180313</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b11gk2</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Jory</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Isaac</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Amir</persName>
+          </person>
+          <person xml:id="#D">
+            <persName>Emily</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Excerpt from the play <emph rend="italics">Disgraced</emph> by Ayad Akhtar, p. 71, l. 12 - p. 74, l. 25</p>
+    </head>
+    <body>
+      <p>
+        <stage>
+          <s>Isaac leans in to kiss her.</s>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <s>Emily doesn't move.</s>
+          <s>In or out.</s>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <s>Just as the front foor opens-</s>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <s>Jory enters.</s>
+          <s>In a huff.</s>
+          <s>Returning for Isaac and her things.</s>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <s>Ready to leave for the evening-</s>
+        </stage>
+      </p>
+      <p>
+        <u who="#A">
+          <s>Isaac, we need to get out of here-</s>
+        </u>
+      </p>
+      <p>
+        <stage>
+          <s>- but stopped in place by the moment of intimacy between her husband and Emily.</s>
+        </stage>
+      </p>
+      <p>
+        <u who="#B">
+          <s>Honey?</s>
+        </u>
+      </p>
+      <p>
+        <u who="#A">
+          <s>What the fuck is going on here?</s>
+        </u>
+      </p>
+      <p>
+        <stage>
+          <s>Amir enters, inflamed.</s>
+        </stage>
+      </p>
+      <p>
+        <u who="#C">
+          <s>You wait a week to tell me this?</s>
+          <s>And the second I say something you don't like hearing, you walk away from me in mid-fucking-sentence?</s>
+          <s>Who <emph rend="italics">are</emph> you?</s>
+        </u>
+      </p>
+      <p>
+        <stage>
+          <s>Jory just stares at her husband...</s>
+        </stage>
+      </p>
+      <p>
+        <u who="#C">
+          <s>What?</s>
+        </u>
+        <stage>(Looking around)</stage>
+        <u who="#C">
+          <s>What?</s>
+        </u>
+        <u who="#A">
+          <stage>(To Emily)</stage>
+          <s>Are you having an affair with my husband?</s>
+        </u>
+        <u who="#C">
+          <s>Excuse me?</s>
+        </u>
+        <u who="#B">
+          <stage>(To Jory)</stage>
+          <s>Nobody's having an affair.</s>
+        </u>
+        <u who="#A">
+          <s>I walked in here and they were kissing.</s>
+        </u>
+        <u who="#D">
+          <s>That is not true!</s>
+          <s>Amir, it's not true.</s>
+        </u>
+        <u who="#A">
+          <s>They were kissing.</s>
+        </u>
+        <stage>(Pointing)</stage>
+        <u who="#A">
+          <s>There.</s>
+        </u>
+        <u who="#D">
+          <s>That's not what was happening.</s>
+        </u>
+      </p>
+    </body>
+    <note>
+      <p>in a huff, intimacy, inflamed, to console s.o., incredulous, vicious, evil, exploding, closet, cleaning supplies, 'cause, buddy, to knock s.o. on s.o.'s ass, to release, to face off with s.o., to retire, caseload, duplicitous, litigator, to lose, to withdraw, to pace, spiral, to sway, vulnerable, intense, blow, to unleash, torrent, to overtake s.o., in rapid succession, to convey, discharge, discreetly, to obscure s.th. from view, to unfold, to return to your senses</p>
+    </note>
+  </text>
+</TEI>

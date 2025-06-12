@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk3</p>
@@ -40,7 +40,7 @@
       </p>
       <p>
         <s>To illustrate <name type="geo">Berlin</name> 2 people are introduced in the article.</s>
-        <s>The <choice><orig>enterpreneur</orig><reg>entrepreneur</reg></choice> <name type="person">David Walker</name> enjoys his cheap latte in a café.</s>
+        <s>The <choice><orig>enterpreneur</orig><reg>entrepreneur</reg></choice> <name type="person">David Smith</name> enjoys his cheap latte in a café.</s>
         <s>He tells that he <quote>of course</quote> communicates with his multicultural colleagues in English.</s>
         <s><name type="person">Orla Baumgarten</name> sells books and profits from the vivid cultural life in the booming city and its relatively pricely living area.</s>
       </p>

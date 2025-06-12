@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk3</p>
@@ -38,7 +38,7 @@
         <s>Maybe it reminds you of <name type="geo">London</name>, <name type="geo">Brooklyn</name> or <name type="geo"><choice><orig>Sidney</orig><reg>Sydney</reg></choice></name>, we have many people from <choice><orig>english speaking</orig><reg>English-speaking</reg></choice> <choice><orig>countrys</orig><reg>countries</reg></choice> here.</s>
         <s>In some areas like <name type="geo">Neukölln</name> or <name type="geo">Kreuzberg</name> we have many peple from <name type="geo">Turkey</name> and Arab.</s>
         <s>Also here you have to speak <choice><orig>english</orig><reg>English</reg></choice>, many dishes are having <choice><orig>english</orig><reg>English</reg></choice> names.</s>
-        <s><name type="person">David Walker</name> is <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>british</orig><reg>British</reg></choice> app developer he says, that <name type="geo">Berlin</name> is different to rest of Germany.</s>
+        <s><name type="person">David Smith</name> is <choice><orig>an</orig><reg>a</reg></choice> <choice><orig>british</orig><reg>British</reg></choice> app developer he says, that <name type="geo">Berlin</name> is different to rest of Germany.</s>
         <s>He drinks <choice><orig>coffe</orig><reg>coffee</reg></choice> in a store which could also stay in <name type="geo">Toronto</name>, <name type="geo">Hongkong</name> or <name type="geo">Los Angeles</name>, but the price for a <choice><orig>coffe</orig><reg>coffee</reg></choice> in Germany is cheapter.</s>
         <s>The name of the store is <quote>Papiles</quote>.</s>
         <s>On the other side of the street is <choice><orig>irish</orig><reg>Irish</reg></choice> bookshop.</s>

@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>
@@ -34,7 +34,7 @@
         <s>Every year thousands of <choice><orig>english</orig><reg>English</reg></choice> speaking people come to <name type="geo">Berlin</name> as tourists or as <choice><orig>student's</orig><reg>students</reg></choice>.</s>
       </p>
       <p>
-        <s><name type="person">David Walker</name> says that <name type="geo">Berlin</name> is a bubble and has nothing to do with the rest of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>.</s>
+        <s><name type="person">David Smith</name> says that <name type="geo">Berlin</name> is a bubble and has nothing to do with the rest of <name type="geo"><choice><orig>germany</orig><reg>Germany</reg></choice></name>.</s>
         <s>Because of the to other <choice><orig>citys</orig><reg>cities</reg></choice> compared low rents many people come to <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name> to fulfill their dream like owning a <choice><orig>coffeshop</orig><reg>coffeeshop</reg></choice> <choice><orig>wich</orig><reg>which</reg></choice> wouldn't be possible in other <choice><orig>metropols</orig><reg>metropoles</reg></choice>.</s>
         <s>Furthermore many people from other nations come to <name type="geo"><choice><orig>berlin</orig><reg>Berlin</reg></choice></name> to work here.</s>
       </p>

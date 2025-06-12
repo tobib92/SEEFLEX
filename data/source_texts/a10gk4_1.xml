@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Mitra, Ankita</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>Blog</pubPlace>
+        <address>NA</address>
+        <date>20140205</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk4</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Globalised Environmental Pollution - Causes and Effects</p>
+    </head>
+    <body>
+      <p>Environmental pollution refers to the introduction of harmful pollutants into the environment. These pollutants contaminate the environment. It has a hazardous effect on the natural world and on the activities of living beings.</p>
+      <p>We all live on planet earth, which is the only planet known to have an environment, where air and water are two basic elements that sustain life. Without air and water the earth would be like the other planets - no man, no animals, no plants. The biosphere in which living beings have their sustenance has pxygen, nitrogen, carbon dioxide, argon and water vapor. It is for this balance that the human life and other forms of existence have flourished on earth for so many thousands of years.</p>
+      <p>With the dawn of the age of science and technology, there has been huge growth and development of human potentials. The surge in pollution is often attributed to the rapidly increasing urbanization and rapidly increasing industrialization, which is in turn a product of our advancement in science and technology. And, it is here that man first began losing control and became victim of his own creations.</p>
+      <p>Environmental Pollution can have devastating effects on sea life, on crops and on human health. It affects all plants, animal and human life in a destructive way. Almost all of our gains in the fields of industrial progress, science and technology had so far been realized at the cost of our health. Even our flora and fauna were found to be threatened with extinction.</p>
+      <p>All this really leaves us wondering if all our achievements and industrial civilization really help us climb the peaks of prosperity or simply take us down the blind alleys of adversity. The question is being raised whether all is well with our industrial growth and progress in the field of science and technology.</p>
+      <p>Many crusaders against environmental pollution are vehemently protesting against the indiscriminate violations committed daily in the name of development. The environmental pollution is not caused by the fall-out from nuclear tests or industries alone. The smoke left behind the automobiles and other vehicular traffic, the increasing use of synthetic detergents, nitrogen fertilizers and insecticides contaminate both air and water. The water we drink and the vegetables are all contaminated today. As a result of this contamination our world is afflicted with quite a number of incurable diseases. Besides, there are many endangered species of both plants and animals. Many scientists believe that we are living in an era of mass extinction, due to human made environmental pollution.</p>
+      <p>The worst industrial environment tragedy occurred at Bhopal on December 3, 1984 as a result of toxic and poisonous leakage of methyl isocyanate (MIC) gas from a multi-national Union Carbide pesticides manufacturing plant. Over 2000 people including woman and children were killed, and hundreds were severely hurt.</p>
+      <p>The worried experts fear that the disturbed balance in the biosphere has assumed such serious proportion that very soon our world would be uninhabitable like Hiroshima of 1945. But it is heartening to find the entire world aware of the menace. Some of the advanced countries have already taken some measures to meet it. If we fail to restore the ecological balance right now, it would be too late tomorrow.</p>
+    </body>
+    <note>
+      <p>hazardous, vapor, sustenance, surge, extinction, devastating, peaks, prosperity, blind alleys, adversity, crusaders, indiscriminate, fall-out, vehicular traffic, synthetic detergents, nitrogen fertilizers, Bophal, leakage, methyl isocyanate</p>
+    </note>
+  </text>
+</TEI>

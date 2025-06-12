@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="225min"</note>
         <note>#tasks="4"</note>
-        <note genre="recounting" genre_family="literary recount">describe</note>
+        <note genre="recounting" genre_family="literary_recount">describe</note>
       </notesStmt>
       <sourceStmt>
         <p>a12lk1</p>

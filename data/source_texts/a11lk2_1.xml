@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Akhtar, Ayad</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>20180313</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Jory</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Isaac</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Amir</persName>
+          </person>
+          <person xml:id="#D">
+            <persName>Emily</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Scene 3</p>
+    </head>
+    <body>
+      <p>
+        <stage>
+          <emph rend="italics">Jory enters. In a huff. Returning for Isaac and her things. Ready to leave for the evening -</emph>
+        </stage>
+      </p>
+      <u who="#A">Isaac, we need to get out of here -</u>
+      <p>
+        <stage>
+          <emph rend="italics">- but stopped in place by the moment of intimacy between her husband and Emily.</emph>
+        </stage>
+      </p>
+      <u who="#B">Honey?</u>
+      <u who="#A">What the fuck is going on here?</u>
+      <p>
+        <stage>
+          <emph rend="italics">Amir enters, inflamed.</emph>
+        </stage>
+      </p>
+      <u who="#C">You wait a week to tell me this? And the second I say something you don't like hearing, you walk away from me in mid-fucking sentence? Who <emph rend="italics">are</emph> you?!</u>
+      <p>
+        <stage>
+          <emph rend="italics">Jory just stares at her husband...</emph>
+        </stage>
+      </p>
+      <u who="#C"><stage><emph rend="italics">(cont'd)</emph></stage> What? <stage><emph rend="italics">(Looking around)</emph></stage> What?</u>
+      <u who="#A"><stage><emph rend="italics">(To Emily)</emph></stage> Are you having an affair with my husband?</u>
+      <u who="#C">Excuse me?</u>
+      <u who="#B"><stage><emph rend="italics">(To Jory)</emph></stage> Nobody's having an affair.</u>
+      <u who="#A">I walked in here and they were kissing.</u>
+      <u who="#D">That is not true! Amir, it's not true.</u>
+      <u who="#A">They were kissing.<stage><emph rend="italics">(Pointing)</emph></stage> There.</u>
+      <u who="#D">That's not what was happening.</u>
+      <u who="#A">I know what I saw.</u>
+      <u who="#D">Isaac told me about them making you partner. I know how much longer Amir has been there than you. I was upset. I was crying.</u>
+      <u who="#B">I was consoling her.</u>
+      <u who="#A">By kissing her?</u>
+      <u who="#D"><stage><emph rend="italics">(Incredulous)</emph></stage> We weren't kissing! Why do you keep saying that?!</u>
+      <u who="#A"><stage><emph rend="italics">(To Isaac)</emph></stage> Are you having an affair with her? Tell me the truth.</u>
+      <u who="#B">Honey. I already said. We're not having an affair.</u>
+      <u who="#A">So <emph rend="italics">what the fuck</emph> were you doing when I walked in here?</u>
+      <u who="#B"><stage><emph rend="italics">(Going to his wife)</emph></stage> I was hugging her because she was crying.</u>
+      <u who="#A">Get off me!</u>
+      <u who="#D">I was upset they made you partner. I know how much longer Amir has been there. I was crying.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Amir turns to Jory. Vicious.</emph>
+        </stage>
+      </p>
+      <u who="#C">First you steal my job and now you try to destroy my marriage? You're fucking evil. After everything I've done for you?</u>
+      <p>
+        <stage>
+          <emph rend="italics">Jory goes over to get her purse. As if to leave.</emph>
+        </stage>
+      </p>
+      <u who="#A">I know what I saw.</u>
+      <u who="#C"><stage><emph rend="italics">(Exploding)</emph></stage> You have any idea how much of myself I've poured into that place? That closet at the end of the hall? Where they keep the cleaning supplies? That was my first office! Yours had a view of the fucking park! Your first three years? Were you ever at work before anyone else in the morning? Were you ever the last one to leave? Cause if you were, I didn't see it. I <emph rend="italics">still</emph> leave the office after you do! You think you're the nigger here? I'm the nigger!! Me!!</u>
+      <u who="#B"><stage><emph rend="italics">(Going to his wife)</emph></stage> You don't need to listen to any more out of this asshole.</u>
+      <u who="#A"><stage><emph rend="italics">(To Isaac)</emph></stage> Don't touch me.</u>
+      <u who="#C"><stage><emph rend="italics">(To Isaac)</emph></stage> You're the asshole.</u>
+      <u who="#B">You better shut your mouth, buddy!</u>
+      <u who="#C"><stage><emph rend="italics">(To Isaac)</emph></stage> Or what?!</u>
+      <u who="#B">Or I'll knock you on your <emph rend="italics">fucking</emph> ass!</u>
+      <u who="#C">Try me!</u>
+      <u who="#A"><emph rend="italics">(To Isaac)</emph><emph rend="caps">Get off me</emph>!!</u>
+      <p>
+        <stage>
+          <emph rend="italics">Inflamed, Isaac finally releases his wife, facing off with Amir.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">When suddenly - Amir spits in Isaac's face. Beat. Isaac wipes the spit from his face.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Beat.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Isaac wipes the spit from his face.</emph>
+        </stage>
+      </p>
+      <u who="#B">There's a reason they call you people animals.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Isaac turns to his wife. Then turns to Emily. Then walks out.</emph>
+        </stage>
+      </p>
+      <u who="#C"><stage><emph rend="italics">(To Jory)</emph></stage> Get out.</u>
+      <u who="#A"><stage><emph rend="italics">(Collecting her things)</emph></stage> There's something you should know. Your dear friend Mort is retiring. And guess who's taking over his caseload? Not you. Me. I asked him, <emph rend="italics">Why not Amir?</emph> He said something about you being duplicitous. That it's why you're such a good litigator. But that it's impossible to trust you. <stage><emph rend="italics">(At the door)</emph></stage> You don't believe me? Call Mort. Ask him yourself. Let me guess. He hasn't been taking your calls?</u>
+      <p>
+        <stage>
+          <emph rend="italics">Jory walks out. Pause.</emph>
+        </stage>
+      </p>
+      <u who="#D">Have you lost your fucking mind?!</u>
+      <p>
+        <stage>
+          <emph rend="italics">Amir turns away, withdrawing into himself. Pacing. The inward spiral deepening.</emph>
+        </stage>
+      </p>
+      <u who="#D"><stage><emph rend="italics">(cont'd)</emph></stage> Amir!</u>
+      <u who="#C">She's right. He hasn't been taking my calls.</u>
+      <u who="#D">I'm gonna get you that coffee.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Emily heads for the kitchen...</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Leaving Amir onstage by himself for a moment. As he watches the swinging door sway. Back and forth.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Emily returns. A mug in hand.</emph>
+        </stage>
+      </p>
+      <u who="#C">Em.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Something in Amir's tone - vulnerable, intense - stops her in place.</emph>
+        </stage>
+      </p>
+      <u who="#C"><stage><emph rend="italics">(cont'd)</emph></stage> Are you sleeping with him?</u>
+      <p>
+        <stage>
+          <emph rend="italics">Pause.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Emily puts the mug down on the table.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">Beat. Finally shakes her head.</emph>
+        </stage>
+      </p>
+      <u who="#D">It was in London. When I was at Frieze. We were drinking. It's not an excuse... It's just... We'd been to the Victoria and Albert. He was talking about my work. And...</u>
+      <p>
+        <stage>
+          <emph rend="italics">Emily - seeing how her words are landing on her husband - makes her way to him.</emph>
+        </stage>
+      </p>
+      <u who="#D"><stage><emph rend="italics">(cont'd)</emph></stage><stage><emph rend="italics">(Approaching)</emph></stage> Amir, I'm so disgusted with myself. If I could take it back.</u>
+      <p>
+        <stage>
+          <emph rend="italics">All at once, Amir hits Emily in the face. A vicious blow.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">The first blow unleashes a torrent of rage, overtaking him. He hits her twice more. Maybe a third. In rapid succession. Uncontrolled violence of discreetly building resentment.</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">(In order for the stage violence to seem as real as possible, obscuring it from direct view of the audience might be necessary. For it to unfold with Emily hidden by a couch, for example.)</emph>
+        </stage>
+      </p>
+      <p>
+        <stage>
+          <emph rend="italics">After the last blow, Amir suddenly comes to his senses, realizing what he's done.</emph>
+        </stage>
+      </p>
+      <u who="#C">Oh, my God...</u>
+    </body>
+    <note>
+      <p>in a huff, intimacy, inflamed, console someone, incredulous, vicious, evil, exploding, closet, cleaning supplies, cause, buddy, knock someone on someone's ass, release, face off with someone, retire, caseload, duplicitious, litigator, lose, withdraw, pace, spiral, sway, vulnerable, intense, blow, unleash, torrent, overtake someone, in rapid succession, convey, discharge, discreetly, obscure something from view, unfold, return to your senses</p>
+    </note>
+  </text>
+</TEI>

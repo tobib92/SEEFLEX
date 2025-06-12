@@ -7,8 +7,8 @@ source("code/gma_analysis/seeflex_gma_utils.R")
 load(file = "data/gma/20250519_shiny_data.rda")
 
 # Set the desired principal components for the x and y axis.
-PC_x_axis <- "PC4" # Change this value as needed
-PC_y_axis <- "PC3" # Change this value as needed
+PC_x_axis <- "PC3" # Change this value as needed
+PC_y_axis <- "PC2" # Change this value as needed
 
 
 # Calculate centroids
@@ -56,23 +56,25 @@ centroid_plot <- ggplot(
   ) +
   # Replicate the scatterD3() axes labels within the coordinate system
   annotate("text",
-    x = -Inf, y = Inf, label = "Principal component 1",
+    x = -Inf, y = Inf, label = "Principal component 2",
     angle = 90, hjust = 1.05, vjust = 1.25
   ) +
   annotate("text",
-    x = Inf, y = -Inf, label = "Principal component 2",
+    x = Inf, y = -Inf, label = "Principal component 3",
     hjust = 1.05, vjust = -0.5
   ) +
   geom_hline(yintercept = 0, linetype = "dashed", size = .4) +
   geom_vline(xintercept = 0, linetype = "dashed", size = .4) +
   # Replicate the Preset 1 axes limits and the breaks
   scale_x_continuous(
-    limits = c(-4.55522655890357, 4.54193310913972),
-    breaks = seq(-4, 4), expand = expansion()
+    # limits = c(-4.55522655890357, 4.54193310913972),
+    limits = c(-3, 3.5),
+    breaks = seq(-2, 2), expand = expansion()
   ) +
   scale_y_continuous(
-    limits = c(-5.58794710793681, 3.50921256010647),
-    breaks = seq(-5, 3), expand = expansion()
+    # limits = c(-5.58794710793681, 3.50921256010647),
+    limits = c(-3.1, 3.5),
+    breaks = seq(-3, 3), expand = expansion()
   ) +
   geom_text(
     data = centroids, aes(

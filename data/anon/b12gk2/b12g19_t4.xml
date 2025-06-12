@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>b12gk2</p>
@@ -48,7 +48,7 @@
         <s>In the last years the teachers noticed that the students were interested in changing their lifestyle and becoming more sustainable, especially through <name type="misc">Fridays for Future</name>.</s>
       </p>
       <p>
-        <s>Then he quotes my teacher <name type="person">Mr Clemm</name> who says that many students took part in the movement.</s>
+        <s>Then he quotes my teacher <name type="person">Mr Smith</name> who says that many students took part in the movement.</s>
       </p>
       <p>
         <s>Also in our <choice><orig>schoolcouncil</orig><reg>school council</reg></choice>, from the students, was interested in environment and clima protection, that is why they invented this day.</s>

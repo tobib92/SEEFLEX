@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk3</p>
@@ -52,7 +52,7 @@
         <s>she describes that often for example in restaurants the special meals our only written down in <choice><orig>english</orig><reg>English</reg></choice> and one may have a hard time without speaking <choice><orig>english</orig><reg>English</reg></choice> properly.</s>
       </p>
       <p>
-        <s>She relates to <name type="person">David Walker</name> <choice><orig>wich</orig><reg>which</reg></choice> says as much as Berlin has nothing to do with the rest of <choice><orig>germany</orig><reg>Germany</reg></choice> anymore.</s>
+        <s>She relates to <name type="person">David Smith</name> <choice><orig>wich</orig><reg>which</reg></choice> says as much as Berlin has nothing to do with the rest of <choice><orig>germany</orig><reg>Germany</reg></choice> anymore.</s>
         <s>The article describes Berlin as the world-city in <choice><orig>wich</orig><reg>which</reg></choice> multiple nations come together.</s>
       </p>
       <p>

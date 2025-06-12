@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>1611</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk3</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Macbeth</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Lady Macbeth</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Macbeth Act 1, Scene 7</p>
+    </head>
+    <body>
+      <p>As you know from previous lessons, Macbeth has told his wife about prophecies he heard promising him he will become king of Scotland. When the present king, Duncan, honours them with a visit, they plan to murder him, so that Macbeth can become his successor. In a soliloquy immediately before the extract below, Macbeth's conscience has warned him not to go ahead with the plan. His wife interrupts his thoughts at this point.</p>
+      <u who="#A">We will proceed no further in this business. He hath honoured my of late, and I have bought Golden opinions from all sorts of people, Which would be worn now in their newest gloss. Not cast aside so soon.</u>
+      <u who="#B">Was the hope drunk Wherein you dressed yourself? Hath it slept since? And wakes it now, to look so green and pale At what it did so freely? From this time Such I account thy love. Art thou afeard To be the same in thine own act and valour As thou art in desire? Wouldst thou have that Which thou esteem'st the ornament of life, And live a coward in thine own esteem, Letting 'I dare not' wait upon 'I would', Like the poor car i' the adage?</u>
+      <u who="#A">Prithee, peace: I dare do all that may become a man; Who dares do more is none.</u>
+      <u who="#B">What beast was't, then, That made you break this enterprise to me? When you durst do it, then you were a man; And, to be more than what you were, you would Be so much more the man. Nor time nor place Did then adhere, and yet you would make both: They have made themselves, and that their fitness now Does unmake you. I have given suck, and know How tender 'tis to love the babe that milks me: I would, while it was smiling in my face, Have plucked my nipple from his boneless gums, And dashed the brains out, had I so sworn as you Have done to this.</u>
+      <u who="#A">If we should fail?</u>
+      <u who="#B">We fail! But screw your courage to the sticking-place, And we'll not fail. When Duncan is asleep - Whereto the rather shall his day's hard journey Soundly invite him - his two chamberlains Will I with wine and wassail so convince That memory, the warder of the brain, Shall be a fume, and the receipt of reason A limbeck only: when in swinish sleep Their drenched natures lie as in a death, What cannot you and I perform upon the unguarded Duncan? What not put upon His spongy officers, who shall bear the guilt Of our great quell?</u>
+      <u who="#A">Bring forth men-children only; For thy undaunted mettle should compose Nothing but males.</u>
+    </body>
+    <note>
+      <p>of late, bought golden opinions, would, newest gloss, Was the hope ... dressed yourself?, green and pale, account, be the same ... art in desire?, ornament of life, live a coward ... esteem, car i'th'adage, Pr'ythee, peace!, may become, is none, durst, Nor time ... make both, They have ... unmake you, given suck, had I sworn, this, screw ... sticking place, Whereto ... him, chamberlains, with wine ... so convince, receipt of reason, limbeck, spongy officers, quell, undaunted mettle</p>
+    </note>
+  </text>
+</TEI>

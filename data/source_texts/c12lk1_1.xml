@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Sonnet 65</pubPlace>
+        <address>NA</address>
+        <date>1609</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="225min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12lk1</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Sonnet 65</p>
+    </head>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <l>Since brass, nor stone, nor earth, nor boundless sea</l>
+          <l>But sad mortality o’er-sways their power,</l>
+          <l>How with this rage shall beauty hold a plea,</l>
+          <l>Whose action is no stronger than a flower?</l>
+        </lg>
+        <lg type="2nd quatrain">
+          <l>O, how shall summer’s honey breath hold out</l>
+          <l>Against the wrackful siege of batt’ring days,</l>
+          <l>When rocks impregnable are not so stout,</l>
+          <l>Nor gates of steel so strong, but time decays?</l>
+        </lg>
+        <lg type="3rd quatrain">
+          <l>O fearful meditation! where, alack,</l>
+          <l>Shall time’s best jewel from time’s chest lie hid?</l>
+          <l>Or what strong hand can hold his swift foot back?</l>
+          <l>Or who his spoil of beauty can forbid?</l>
+        </lg>
+        <lg type="final couplet">
+          <l>O, none, unless this miracle have might,</l>
+          <l>That in black ink my love may still shine bright.</l>
+        </lg>
+      </lg>
+    </body>
+    <note>
+      <p>brass, o'er-sways, hold a plea, siege, impregnable, stout, alack</p>
+    </note>
+  </text>
+</TEI>

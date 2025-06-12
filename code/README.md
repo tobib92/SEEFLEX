@@ -21,9 +21,9 @@ The data pipeline provides various options to (pre-)process the data for differe
 
 
 
-## Shiny App
+## Shiny Apps
 
-Within the [app.R](shiny_app/app.R) file, the application can be launched. In the top pane, users can switch between the scatterplot viewer and the feature weights viewer (based on Neumann and Evert, 2021). Alternatively, the applications can be viewed [here](https://seeflex.otc.coscine.dev).
+Within the [app.R](shiny_app/app.R) file, the application can be launched. In the top pane, users can switch between the *scatterplot viewer* and the *feature weights* viewer (based on Neumann and Evert, 2021), as well as the additional SEEFLEX *feature value* and *student text* viewer. Alternatively, the applications can be viewed [here](https://seeflex.otc.coscine.dev).
 
 <a href="https://seeflex.otc.coscine.dev" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #00559F; text-align: center; text-decoration: none; border-radius: 5px;">Shiny Apps</a>
 
@@ -48,11 +48,11 @@ The SEEFLEX was compiled to investigate register variation in EFL exams in Germa
 
 ## Plots
 
-> to be added...
-
 | Filename | Function      |
 |:--------| :-------------|
+| densities.R | This script creates density plot of selected linguistic features and operators. |
 | feature_heatmap.R | This plot creates a heatmap of the linguistic features used in the Shiny applications. |
+| feature_weights.R | This script creates boxplots of selected linguistic features and operators. |
 | lextale_scores.R | This plot creates an overview of the students' LexTALE scores across grades. |
 | operator_centroids.R | This file creates a scatterplot of the centroids (class means) of the different operators across the first and second component in the principal component analysis (PCA) or linear discriminant analysis (LDA). |
 | pca_weights.R | This plot locates the PCA loadings (weights) of the linguistic features for the first and second principal component on a coordinate system. |
@@ -65,4 +65,4 @@ The SEEFLEX was compiled to investigate register variation in EFL exams in Germa
 
 - Evert, S. & The CWB Development Team. (2022). *The IMS Open Corpus Workbench (CWB)—CQP Interface and Query Language Manual (CWB Version 3.5)*. https://cwb.sourceforge.io/files/CQP_Manual.pdf.
 - Neumann, S. (2014). *Contrastive Register Variation: A Quantitative Approach to the Comparison of English and German*. Trends in Linguistics. Studies and Monographs: Vol. 251. Mouton de Gruyter.
-- Neumann, S., & Evert, S. (2021). *A register variation perspective on varieties of English*. In E. Seoane & D. Biber (Eds.), Corpus-based approaches to register variation (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu
+- Neumann, S., & Evert, S. (2021). A register variation perspective on varieties of English. In E. Seoane & D. Biber (Eds.), *Corpus-based approaches to register variation* (pp. 143–178). Benjamins. https://doi.org/10.1075/scl.103.06neu

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Pollard, Brian</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>a</publisher>
+        <pubPlace>The Gulf News</pubPlace>
+        <address>NA</address>
+        <date>20211124</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>10</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="90min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>a10gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Is the usefulness of unions in the protection of workers rights coming to an end? The answer is yes.</p>
+    </head>
+    <body>
+      <p>The truth of the matter is that unions were the best thing that ever happened to the labour movement throughout the world because workers needed protection from being mistreated by employers and they also needed better working conditions, shorter working days and higher wages and unions were successful in bringing these essential changes.</p>
+      <p>I've long supported unions however my opinion has changed over the past few years mainly because unions are no longer about the protections of workers' rights but about power and greed. Unions are no longer required to ensure that workers have good working conditions, good wages, and safe working environment because these factors are regulated by legislation and laws and our moral values.</p>
+      <p>Today unions are obstructing companies' abilities to compete and prosper. Unions are anti-competitiveness; they have become victims of their own success because of high wages and benefits. The products or services that union workers produce have become so expensive that they cannot compete against cheaper foreign competitors and non-union producers.</p>
+      <p>Under unions there is a lack of initiative and a noted drop in productivity from its members because there is no incentive to work at your top performance because your job is protected by your union and its contract with the employer.</p>
+      <p>However now in the twenty-first century the situation has changed, workers are not being exploited by employers, now employers are being exploited by employees. Unions have become more powerful than their employers and that is an unhealthy business environment.</p>
+      <p>It is time for governments to take a hard look at the issue of labour relations between employers and employees. They will discover that unions, in general, are one of the major contributors to the economic mess that the world is in today.</p>
+    </body>
+    <note>
+      <p>union, greed, legislation, obstruct, prosper, incentive</p>
+    </note>
+  </text>
+</TEI>

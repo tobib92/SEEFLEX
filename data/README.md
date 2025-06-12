@@ -5,7 +5,10 @@ More detailed information about any of sections can be found in the respective c
 
 ## Written data
 
-The heart of the *SEEFLEX* are the ```xml```files containing the student writing. All writing samples in the corpus stem from curriculum-based examinations. Each file contains a TEI header (TEI Consortium, 2021) containing meta-data to place the file within the corpus:
+The heart of the *SEEFLEX* are the `xml` files containing the student writing. All writing samples in the corpus stem from curriculum-based examinations. Each file contains a TEI header (TEI Consortium, 2021) containing meta-data to place the file within the corpus:
+
+<details>
+  <summary>Example TEI Header</summary>
 
 ```{xml}
 <?xml version="1.0" encoding="UTF-8"?>
@@ -13,44 +16,53 @@ The heart of the *SEEFLEX* are the ```xml```files containing the student writing
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>t1</title>			# Task number
-        <author>a11g10_t1</author>		# Student ID
-        <name>summarize</name>			# Operator (command word)
+        <title>t4</title> 				# Task number
+        <author>a10g11_t4</author>		# Student ID
+        <name>magazine</name>			# Operator (register)
       </titleStmt>
       <publicationStmt>
         <publisher>a</publisher>		# School
-        <date>20211006</date>			# Date of exam
+        <date>20211209</date>			# Date of exam
       </publicationStmt>
       <seriesStmt>
-        <title>11</title>			# School year (grade level)
+        <title>10</title>				# Grade level
       </seriesStmt>
       <notesStmt>
-        <note>time="120min"</note>		# Exam time (for all tasks)
-        <note>#tasks="3"</note>			# Total number of tasks
+        <note>time="90min"</note>		# Exam time (for all tasks)
+        <note>#tasks="4"</note>			# Total number of tasks
+        <note genre="inquiring" genre_family="problem-solution_report">magazine</note>		# Genre and genre family, as well as the Operator
       </notesStmt>
       <sourceStmt>
-        <p>gk2</p>				# Course ID
+        <p>a10gk2</p>					# Course ID
       </sourceStmt>
     </fileDesc>
   </teiHeader>
-  <text>
-    <body>
+  <text>								# All text and header is included within the text node
+    <body>								
     </body>
   </text>
 </TEI>
 ```
 
-The body of the text may be preceded by a header if the task warrants it. The `xml`structure in the *SEEFLEX* is needed for various scripts to work. If the desired output are plain text files, the [export_files.R](../code/data_pipeline/export_files.R) script will export the entire corpus to an output directory. Information on the settings for the `xml`mark-up can be found [here](../code/data_pipeline/README.md).
+</details>
+
+
+The body of the text may be preceded by a header if the task warrants it. The `xml`structure in the *SEEFLEX* is needed for various scripts to work. If the desired output are plain text files, the [export_files.R](../code/data_pipeline/export_files.R) script will export the entire corpus to an output directory. Information on the settings for the `xml` mark-up as well as the export process can be found [here](../code/data_pipeline/README.md).
 
 
 ## Meta-data
 
-The meta-data in the *SEEFLEX* contain the information gained from the contact session with the participants. They include background information, language assessment, and learning habits. student responses in the language and learning habit assessments are in their raw format. To use the data in R and calculate the, the [meta-data](meta_data_anon.csv) file can be loaded with the [meta-data](../code/data_pipeline/meta_data.R) script. The data can be exported from there.
+The meta-data in the *SEEFLEX* contain the information gained from the contact session with the participants. They include background information, language assessment, and learning habits. student responses in the language and learning habit assessments are in their raw format. To use the data in R and calculate the, the [meta-data](meta_data_anon.csv) file can be loaded with the [meta-data](../code/data_pipeline/meta_data.R) script. The data can be used in R and exported from there.
+
+
+## Task data
+
+The [task data](tasks_complete.csv) contains the information on the prompts and source texts used to elicit the student texts.
 
 
 ## Shiny data
 
-The [Shiny applications](../README.md#L23) refer to data contained in two .rda files. Both of them are required for the applications to be run locally. The [data](20240903_data.rda) file contains basic information on the corpus, the meta-data needed to filter the output, and the required labels etc. The [shiny_data](20240905_shiny_data.rda) file contains the calculations done with the methodology introduced in Neumann and Evert (2021). The necessary information can be found [here](https://www.stephanie-evert.de/PUB/NeumannEvert2021/).
+The [Shiny applications](../README.md#L40) use the data contained in two .rda files. Both of them are required for the applications to be run locally. The [data](20240903_data.rda) file contains basic information on the corpus, the meta-data needed to filter the output, and the required labels etc. The [shiny_data](20240905_shiny_data.rda) file contains the results of the Principal Component Analysis (PCA) and the Linear Discriminant Analysis (LDA) introduced in Neumann and Evert (2021). All original files and further information can be found [here](https://www.stephanie-evert.de/PUB/NeumannEvert2021/).
 
 
 ## References

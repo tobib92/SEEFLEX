@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Johnson, Boris</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>b</publisher>
+        <pubPlace>Speech</pubPlace>
+        <address>World Leaders' Summit Opening Ceremony</address>
+        <date>20211101</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>b12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Boris Johnson, British Prime Minister address at <choice><abbr>COP26</abbr><expan>26th UN Climate Change Conference of the Parties</expan></choice> World Leaders' Summit Opening Ceremony</p>
+    </head>
+    <body>
+      <p>Good afternoon everybody. Welcome to <choice><abbr>COP</abbr><expan>UN Climate Change Conference of the Parties</expan></choice>. Welcome to Glasgow and to Scotland, whose most globally famous fictional son is almost certainly a man called James Bond, who generally comes to the climax of his highly lucrative films, strapped to a doomsday device, desperately trying to work out which colored wire to pull to turn it off, while a red digital clock ticks down remorselessly to a detonation that will end human life as we know it. And we are in roughly the same position, my fellow global leaders, as James Bond today. Except that the tragedy is this is not a movie, and the doomsday device is real [...] raising the temperature of the planet with a speed and an abruptness that is entirely man-made. And we know what the scientists tell us, and we have learned not to ignore them.</p>
+      <p>I was there with many of you in Copenhagen 11 years ago, when we acknowledged we had a problem. I was there in Paris six years ago when we agreed to net zero, and to try to restrain the rise in the temperature of the planet to 1.5 degrees. And all those promises will be nothing but <emph rend="quoted">blah blah blah</emph>, to coin a phrase, and the anger and impatience of the world will be uncontainable unless we make this <choice><abbr>COP26</abbr><expan>26th UN Climate Change Conference of the Parties</expan></choice> in Glasgow the moment when we get real about climate change.</p>
+      <p>And we can. We can get real on coal, cars, cash, and trees. We have the technology to deactivate that ticking doomsday device.</p>
+      <p>And even though for 200 years, the industrialized countries were in complete ignorance of the problem that they were creating, we now have a duty now to find those funds: a hundred billion a year that was promised in Paris by 2020, but which we won’t deliver until 2023, to help the rest of the world to move to green technology.</p>
+      <p>But we cannot and will not succeed by government spending alone. We in this room can deploy hundreds of billions. No question. But the market has hundreds of trillions. And the task now is to work together to help our friends to decarbonize, using our funds, the funds we have in development assistance, and working with the multilateral development banks so that, in the key countries that need to make progress, we can jointly identify the projects that we can help to de-risk, so that the private sector money can come in, in just the same way that it was the private sector that enabled the UK to end our dependence on coal, become the Saudi Arabia of wind.</p>
+      <p>We have the technology. We can find the finance, and we must, and the question for all of us today is whether we have the will. And my fellow leaders, as I look around this room, I don't want to put too fine a point on it, but we all talk about what we're going to do in 2050 or 2060. I don’t think it will escape the notice of the crowds of young people outside, the billions who are watching around the world, half of the population of the world under 30, that the average age of this conclave of world leaders, I'm afraid to say, is over 60. I fully intend to be alive in 2060. I will be a mere 94 years old, even if I’m not still in Downing Street. But you never know.</p>
+      <p>But the children, the children who will judge us, are children not yet born. And their children. And we are now coming center stage before a vast and uncountable audience of posterity, and we mustn't fluff our lines or miss our cue. Because if we fail, they will not forgive us. They will know that Glasgow was the historic turning point when history failed to turn. They will judge us with bitterness and with a resentment that eclipses any of the climate activists of today. And they will be right. <choice><abbr>COP26</abbr><expan>26th UN Climate Change Conference of the Parties</expan></choice> will not, and cannot, be the end of the story on climate change.</p>
+      <p>And let us think of the billions more of the unborn, whose anger will be all the greater if we fail. We cannot let them down. We have the ideas. We have the technology. We have the bankers. We have the corporations and the <choice><abbr>NGOs</abbr><expan>Nongovernmental Organizations</expan></choice>.</p>
+      <p>We may not feel much like James Bond. Not all of us necessarily look like James Bond. But we have the opportunity, and we have the duty, to make this summit the moment when humanity finally began, and I stress <emph rend="quoted">began</emph>, to defuse that bomb, and to make this the moment when we began irrefutably to turn the tide, and to begin the fight back against climate change. Yes, it’s going to be hard. But yes, we can do it.</p>
+    </body>
+    <note>
+      <p>doomsday device, wire, coin a phrase, conclave of world, posterity, fluff our lines or miss our cue, eclipse, turn the tide</p>
+    </note>
+  </text>
+</TEI>

@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>
@@ -43,11 +43,11 @@
         <s><name type="geo">Berlin</name> is for everybody in the world.</s>
       </p>
       <p>
-        <s><name type="person">David Walker</name> lives in <name type="geo">Berlin</name> and develops applications and thinks its like a bubble in <name type="geo">Germany</name>.</s>
+        <s><name type="person">David Smith</name> lives in <name type="geo">Berlin</name> and develops applications and thinks its like a bubble in <name type="geo">Germany</name>.</s>
         <s>Some shops could be located everywhere in the world but there it would be more expensive.</s>
         <s><name type="geo">Berlin</name> is next to the cheap food <choice><orig>pice</orig><reg>price</reg></choice> known for the cheap rents.</s>
         <s>But you should still have a good look before come because the <choice><orig>rent-price</orig><reg>rent price</reg></choice> is only in comparison to other big cities low.</s>
-        <s>Further to <name type="person">David Walker</name>: He has a company in that people work who come from 21 nations.</s>
+        <s>Further to <name type="person">David Smith</name>: He has a company in that people work who come from 21 nations.</s>
         <s>They're all talking <choice><orig>english</orig><reg>English</reg></choice> with each other.</s>
         <s>So you see: You can find a job also without learning <choice><orig>german</orig><reg>German</reg></choice></s>
       </p>

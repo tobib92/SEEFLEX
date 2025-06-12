@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Norris, Bruce</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>20110201</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11lk2</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Karl</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Russ</persName>
+          </person>
+          <person xml:id="#C">
+            <persName>Jim</persName>
+          </person>
+          <person xml:id="#D">
+            <persName>Betsy</persName>
+          </person>
+          <person xml:id="#E">
+            <persName>Francine</persName>
+          </person>
+          <person xml:id="#F">
+            <persName>Bev</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Clybourne Park, Extract from Act 1</p>
+    </head>
+    <body>
+      <u who="#A">And let's imagine if the tables were turned. <stage>(Re: Francine and Albert).</stage> Suppose a number of <emph rend="italics">white</emph> families started marching into <emph rend="italics">their</emph> commun - ? Well, actually, that might to be to their <emph rend="italics">advantage</emph>, but - <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#B">Karl.</u>
+      <u who="#A">- you do see my point.</u>
+      <u who="#B">Need you to stop now.</u>
+      <u who="#A">Sorry.<stage><emph rend="italics">(Beat.)</emph></stage> Maybe not handled with the - <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#B">It's all right.</u>
+      <u who="#A">- utmost delicacy.</u>
+      <u who="#B">But maybe time to let it drop.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Pause. In the near distance a church bell begins to ring.</emph>
+        </stage>
+      </p>
+      <u who="#C"><stage><emph rend="italics">(quietly looking at his watch.)</emph></stage> Is it four o'clock?</u>
+      <u who="#A">Well, Russ, if I might - </u>
+      <u who="#B">Nope. Nope.</u>
+      <u who="#A">If I could just say this:</u>
+      <u who="#B">No. Karl?</u>
+      <u who="#A">Well, if you'd let me -</u>
+      <u who="#B">No. No more.</u>
+      <u who="#A">Uhhh... <stage><emph rend="italics">(Chuckling.)</emph></stage> <emph rend="italics">Bev?</emph> I get the impression your husband is telling me I'm not permitted to <emph rend="italics">speak</emph>.</u>
+      <u who="#B">Don't think it's a good idea.</u>
+      <u who="#A">Well, Russ, I'm going to ask you at least to keep an open -?</u>
+      <u who="#B"><emph rend="italics">Karl!</emph> What'd I just ask you?</u>
+      <u who="#A">Well, I think you're being a tad unreasonable.</u>
+      <u who="#B">Well, <emph rend="italics">I</emph> think we've reached the end of this particular discussion.</u>
+      <u who="#A">Is that right?</u>
+      <u who="#B">Afraid it is.</u>
+      <u who="#A">Just like that.</u>
+      <u who="#B">Just like that.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Another pause.</emph>
+        </stage>
+      </p>
+      <u who="#A">Then what about this:</u>
+      <u who="#B">
+        <emph rend="italics">Karl!?</emph>
+      </u>
+      <u who="#A">Well, I believe the Constitution endows me with a <emph rend="italics">right</emph> to speak.</u>
+      <u who="#B">Well, then you can go and do that in your own home.</u>
+      <u who="#A">Bev...? <stage><emph rend="italics">(Laughs.)</emph></stage> He's not being serious, is he?</u>
+      <u who="#B">Karl?</u>
+      <u who="#A"><stage><emph rend="italics">(laughs.)</emph></stage> Am I being <emph rend="italics">silenced</emph>?</u>
+      <u who="#B">Not going to ask you again.</u>
+      <u who="#A">Well, this is a new experience for me.</u>
+      <u who="#B">So be it.</u>
+      <u who="#A"><stage><emph rend="italics">(shakes his head)</emph></stage> A real shame. For all concerned.</u>
+      <u who="#B">Well, that's the way things go sometimes.</u>
+      <u who="#A">Apparently so.</u>
+      <u who="#B">Anyway. Appreciate you stopping by.</u>
+      <u who="#A">I see.</u>
+      <u who="#B">Betsy, too.</u>
+      <u who="#A">Very well.</u>
+      <u who="#B">Kaaaaahhhh?</u>
+      <u who="#A">Okay then? Okay.</u>
+      <p>
+        <stage>
+          <emph rend="italics">Silence. Karl stands and moves toward Betsy. They slowly exit through the open door.</emph>
+        </stage>
+      </p>
+      <u who="#D"><stage><emph rend="italics">(quietly as they exit)</emph></stage> Kaahhh, whaah happaaahh?</u>
+      <p>
+        <stage>
+          <emph rend="italics">But Karl immediately returns, Betsy following.</emph>
+        </stage>
+      </p>
+      <u who="#A">However:</u>
+      <u who="#C"><stage><emph rend="italics">(quietly)</emph></stage> Karl, don't.</u>
+      <u who="#A"><stage><emph rend="italics">(very slowly, carefully)</emph></stage> I <emph rend="italics">don't</emph> imagine that... this particular family are <emph rend="italics">entirely</emph> aware of <emph rend="italics">why</emph> they've found such an agreeable price for the property. Don't suppose they know <emph rend="italics">that</emph> aspect of it, do they? And let's say someone was to inform them of those facts. Let's say <emph rend="italics">that</emph> was to happen.</u>
+      <u who="#B"><stage><emph rend="italics">(chuckles dangerously)</emph></stage> Really don't know when to quit, do ya?</u>
+      <u who="#A">Because I think that might be an interesting conversation to have.</u>
+      <u who="#E"><stage><emph rend="italics">(beat, then to Bev)</emph></stage> So I'll be seeing you on Mon-</u>
+      <u who="#B"><stage><emph rend="italics">(maintaining control)</emph></stage> Well, Karl? You go ahead and do what you think is right, but I'll tell you one thing: what you're going to do right <emph rend="italics">now</emph> is -  <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#A"><stage><emph rend="italics">(overlapping)</emph></stage> Well, I have a responsibility to the community as a whole. I can't afford to - <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#B">- you're going to take yourself right through that door and out of this house.</u>
+      <u who="#A"><stage><emph rend="italics">(overlapping)</emph></stage> - simply pursue my own selfish interests.</u>
+      <u who="#B"><stage><emph rend="italics">(maintaining calm)</emph></stage> Man, what a son of a bitch.</u>
+      <u who="#F">Russ, don't.</u>
+      <u who="#B"><stage><emph rend="italics">(to Karl)</emph></stage> If you honestly think I give a rat's ass about the goddamn - <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#C"><stage><emph rend="italics">(overlapping)</emph></stage> Okay. Okay.</u>
+      <u who="#B">- what, ya mean the <emph rend="italics">community</emph> where every time I go for a haircut, where they all sit and stare like the goddamn Grim Reaper walked in the barber-shop door? <emph rend="italics">That</emph> community? <stage><emph rend="italics">(Continues.)</emph></stage></u>
+      <u who="#A"><stage><emph rend="italics">(overlapping)</emph></stage> My wife is two weeks away from giving birth to a <emph rend="italics">child</emph>.</u>
+      <u who="#B">Where, Bev stops at Gelman's for a quart of milk and they look at her like she's got the goddamn plague? That the community I'm supposed to be looking out for?</u>
+      <u who="#A">A community with <emph rend="italics">soon-to-be-children</emph>.</u>
+      <u who="#C">The Apostle Matthew -</u>
+      <u who="#B"><stage><emph rend="italics">(to Jim)</emph></stage> Oh no no no. <emph rend="italics">I'm</emph> talking now.</u>
+      <u who="#F"><stage><emph rend="italics">(to Francine and Albert)</emph></stage> I am ashamed of every one of us.</u>
+      <u who="#D"><stage><emph rend="italics">(tugging at Karl's sleeve)</emph></stage> Kaaaaah?</u>
+      <u who="#A">Betsy, wait in the car.</u>
+      <u who="#B">Well, you go right ahead and you tell those folks whatever you want, Karl. And while you're at it why don't you tell 'em about everything <emph rend="italics">the community</emph> did for my son. I mean <emph rend="italics">Jesus Christ</emph>, Murray Gelman even goes and hires a goddamn <emph rend="italics">retarded</emph> kid, but <emph rend="italics">my boy</emph>? Sorry. No work for you, bub.</u>
+      <u who="#C">People were frightened, Russ.</u>
+      <u who="#B"><stage><emph rend="italics">(contemptuous)</emph></stage> Ahh, of <emph rend="italics">what</emph>? He was gonna <emph rend="italics">snap</emph>? Gonna go and kill another bunch of people? Send him off to defend the goddamn country, he does like he's <emph rend="italics">told</emph> only to find out the kinda sons of bitches he's defending?</u>
+      <u who="#F"><stage><emph rend="italics">(forthright)</emph></stage> He did not do the things they claimed he did. He would never -</u>
+      <u who="#B"><emph rend="italics">Ah, for Christ's sake. What do you think happens in a goddamn war? They told him to secure the territory, not go knocking on doors asking permission.</emph> And if he was man enough to admit what he did, maybe you oughta have the decency to do the same damn thing.</u>
+      <u who="#F"><stage><emph rend="italics">(turning to Francine for support)</emph></stage> You remember. Francine remembers what he was like.</u>
+      <p>
+        <emph rend="italics">Russ makes a sound of disgust and goes to the footlocker. Under the following, he unlocks and opens the lid.</emph>
+      </p>
+      <u who="#F">How he loved to read and think. That's just the kind of boy he was, wasn't it?</u>
+      <u who="#E">Yes, ma'am.</u>
+      <p>
+        <emph rend="italics">Russ has produced an evelope from the footlocker. He steps forward, removing the letter - on yellow legal paper.</emph>
+      </p>
+      <u who="#B">Here you go, Karl. Let's read all a little something, shall we?</u>
+      <u who="#F">What are you -?</u>
+      <u who="#B"><stage><emph rend="italics">(reading)</emph></stage> Dear Mom and Dad.</u>
+      <u who="#F"><stage><emph rend="italics">(realising)</emph></stage>Stop it!!!</u>
+      <u who="#B"><stage><emph rend="italics">(reading)</emph></stage> I know you'll probably blame yourselves -</u>
+      <u who="#F"><stage><emph rend="italics">(standing, losing it completely)</emph></stage> Russ, stop it stop it stop stop stop it!!!!</u>
+      <u who="#C">Russ. Don't.</u>
+      <u who="#A"><stage><emph rend="italics">(to Russ)</emph></stage> I think you're unstable, Russ. I really do.</u>
+      <u who="#F">
+        <stage>
+          <emph rend="italics">(turning back to Jim)</emph>
+        </stage>
+        <emph rend="italics">You see what this is like? You see?</emph>
+        <stage>
+          <emph rend="italics">(to Russ)</emph>
+        </stage>
+        <emph rend="italics">Well, I refuse to live this way any longer!!</emph>
+      </u>
+      <p>
+        <emph rend="italics">She goes into the bathroom and slams the door behind her.</emph>
+      </p>
+      <u who="#B"><stage><emph rend="italics">(starting over calmly)</emph></stage> Dear Mom and Dad.</u>
+      <u who="#C">Russ?</u>
+      <u who="#B">
+        <emph rend="italics">I know you'll probably blame yourselves for what I've done -</emph>
+      </u>
+      <u who="#C">Need you to calm down.</u>
+      <u who="#B">And <emph rend="italics">you</emph> can go fuck yourself.</u>
+      <u who="#A">Well, <emph rend="italics">that</emph> is over the line, mister. That is not langugae I will tolerate in front of my wife.</u>
+      <u who="#B">So here's what I'll do for you, Karl: make ya ten copies of this, you can hand 'em out at Rotary. Or better yet. Put it in the newsletter. Rotary News: Kid comes back from Korea, goes upstairs and wraps an extension cord around his neck. Talk that over at the lunch buffet next week.</u>
+      <u who="#D"><stage><emph rend="italics">(barely audible)</emph></stage> Kaahhh?</u>
+      <u who="#B">And Francine walking in at nine in the morning to find him there. You be my guest, Karl. You go ahead and tell those people what kind of house they're moving into and see if <emph rend="italics">that</emph> stops 'em, because I'll tell you what, I don't give a shit if a hundred Ubangi tribesman with a bone through the nose overrun this goddamn place, cuz I'm <emph rend="italics">through with all of you</emph>, ya motherfucking sons of bitches. Every one of you.</u>
+      <p>
+        <emph rend="italics">All stand in silence. We can hear Bev crying from behind the bathroom door. Russ slowly folds the letter.</emph>
+      </p>
+    </body>
+    <note>
+      <p>re, utmost delicacy, chuckle, This particular family, property, quit, overlapping, I give a rat's ass, Grim Reaper, Gelman's, retarded, snap, forthright, Rotary, Korea</p>
+    </note>
+  </text>
+</TEI>

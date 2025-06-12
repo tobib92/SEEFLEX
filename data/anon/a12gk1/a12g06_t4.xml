@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk1</p>
@@ -35,7 +35,7 @@
         <s>City is becoming more and more like <name type="geo">London</name>, <name type="geo">Brooklyn</name> or <name type="geo">Sydney</name>, because many English speakers come to <name type="geo">Berlin</name>, the most people go away after a year (like you would) but many stay.</s>
         <s>The streets of <name type="geo">Berlin</name> most times not a single German word is spoken, that could be because <choice><orig>turkish</orig><reg>Turkish</reg></choice> or <choice><orig>arabic</orig><reg>Arabic</reg></choice> culture is really established in <name type="geo">Berlin</name>, but there are also trails of <choice><orig>english</orig><reg>English</reg></choice> speakers.</s>
         <s>Many menus or shops are exclusive English, so nowadays English is required in <name type="geo">Berlin</name>.</s>
-        <s><quote><name type="geo">Berlin</name> isn't like the rest of <name type="geo">Germany</name>, it's a bubble</quote><choice><orig>sais</orig><reg>says</reg></choice><name type="person">David Walker</name> an <choice><orig>english</orig><reg>English</reg></choice> <gap reason="illegible" quantity="1" unit="word">apput</gap>, who moved to <name type="geo">Berlin</name>, in his office, English is the only language.</s>
+        <s><quote><name type="geo">Berlin</name> isn't like the rest of <name type="geo">Germany</name>, it's a bubble</quote><choice><orig>sais</orig><reg>says</reg></choice><name type="person">David Smith</name> an <choice><orig>english</orig><reg>English</reg></choice> <gap reason="illegible" quantity="1" unit="word">apput</gap>, who moved to <name type="geo">Berlin</name>, in his office, English is the only language.</s>
         <s>Many people also come to <name type="geo">Berlin</name> because of the rising, but still low costs for rent, in <name type="geo">Berlin</name> it's still affordable.</s>
       </p>
       <p>

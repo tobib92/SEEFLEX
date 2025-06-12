@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="225min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">blog</note>
+        <note genre="describing" genre_family="descriptive_report">blog</note>
       </notesStmt>
       <sourceStmt>
         <p>a12lk1</p>
@@ -68,11 +68,11 @@
       <p>
         <s>At the <name type="misc">Theodore-Mommsen school</name> in <name type="geo">Bad Oldesloe</name> <choice><orig>pubils</orig><reg>pupils</reg></choice> from the 8th and 9th <choice><orig>Grade</orig><reg>grade</reg></choice> had to choose their compulsory subject.</s>
         <s>18 boys and nine girls chose chess as their compulsory subject.</s>
-        <s><name type="person">Günther Klemm</name> the teacher of the subject said that his students learn, how to deal with losing, how to deal with consequences and how they keep in rules.</s>
+        <s><name type="person">John Smith</name> the teacher of the subject said that his students learn, how to deal with losing, how to deal with consequences and how they keep in rules.</s>
         <s>This are just a couple of positive things they learn.</s>
         <s>Some of the benefits are that winning hasn't to do anything with body <choice><orig>strenght</orig><reg>strength</reg></choice>, someone who is weak can win against someone who is strong.</s>
         <s>They learn how to deal with competing against weaker and stronger players.</s>
-        <s>It's also independent how old you are, <name type="person">Klemm's</name> lesson is filled with <choice><orig>pubils</orig><reg>pupils</reg></choice> different ages.</s>
+        <s>It's also independent how old you are, <name type="person">Smith's</name> lesson is filled with <choice><orig>pubils</orig><reg>pupils</reg></choice> different ages.</s>
       </p>
       <p>
         <s>Another example is a primary school in <name type="geo">Hamburg</name> named <name type="misc">Genslerstraße</name>.</s>

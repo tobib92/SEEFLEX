@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Hansberry, Lorraine</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Play</pubPlace>
+        <address>NA</address>
+        <date>1958</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk3</p>
+        <listPerson type="speaker">
+          <person xml:id="#A">
+            <persName>Walter</persName>
+          </person>
+          <person xml:id="#B">
+            <persName>Ruth</persName>
+          </person>
+        </listPerson>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p/>
+    </head>
+    <body>
+      <u who="#A">You want to know what I was thinking 'bout in the bathroom or not!</u>
+      <u who="#B">I know what you thinking 'bout.</u>
+      <u who="#A"><stage><emph rend="italics">ignoring her</emph></stage>'Bout what me and Willy Harris was talking about last night.</u>
+      <u who="#B">Willy Harris is a good-for-nothing loud mouth.</u>
+      <u who="#A">Anybody who talks to me has got to be a good-for-nothing loug mouth, ain't he? And what you know about who is just a good-for-nothing loud mouth? Charlie Atkins was just a good-for-nothing loud mouth too, wasn't he! When he wanted me to go in the dry-cleaning business with him. And now - he's grossing a hundred thousand a year. A hundred thousand dollar a year! You still call <emph rend="italics">him</emph> a loud mouth!</u>
+      <u who="#B"><stage><emph rend="italics">bitterly</emph></stage>Oh, Walter Lee...</u>
+      <u who="#A">You tired, ain't you? Tired of everything. Me, the boy, the way we live - this beat-up hole - everything. Ain't you? <stage><emph rend="italics">She doesn't look up, doesn't answer.</emph></stage>So tired - moaning and groaning all the time, but you wouldn't do nothing to help, would you? You couldn't be on my side that long for nothing, could you?</u>
+      <u who="#B">Walter, please leave me alone.</u>
+      <u who="#A">A man needs for a woman to back him up...</u>
+      <u who="#B">Walter -</u>
+      <u who="#A">Mama would listen to you. You know she listen to you more than she do to me and Bennie. She think more of you. All you have to do is just sit down with her hen you drinking your coffee one morning and talking 'bout things like you do and - <stage><emph rend="italics">he sits beside her and demonstrates graphically what he thinks her methods and tone should be.</emph></stage> - you just sip your coffee, see, and say easy like that you been thinking 'bout that deal Walter Lee is so interested in, 'bout the store and all, and sip some more coffee, like what you saying ain't really that important to you - And the next thing you know, she be listening good and asking you questions and when I come home - I can tell her the details. This ain't no fly-by-night proposition, baby. I mean we figured it out, me and Willy and Bobo.</u>
+      <u who="#B"><stage><emph rend="italics">with a frawn.</emph></stage>Bobo?</u>
+      <u who="#A">Yeah. You see, this little liquor store we got in mind cost seventy-five thousand and we figured the initial investment on the place be 'bout thirty thousand, see. That be ten thousand each. Course, there's a couple of hundred you got to pay so's you don't spend your life waiting for them clowns to let your license get approved -</u>
+      <u who="#B">You mean graft?</u>
+      <u who="#A">Don't call it that. See there, that just goes to show you what women understand about the world. Baby, don't nothing happen for you in this world 'less you pay somebody off!</u>
+      <u who="#B">Walter, leave me alone! Eat your eggs, they gonna be cold.</u>
+      <u who="#A">That's it. There you are. Man say to his woman: I got me a dream. His woman say: Eat your eggs and go to work. <stage><emph rend="italics">passionately now</emph></stage>Man say: I got to change my life, I'm choking to death, baby! And his woman say - <stage>in anguish as he brings his fists down on his thighs</stage> - Your eggs is getting cold!</u>
+      <u who="#B">Walter, that ain't none of your money.</u>
+      <u who="#A"><stage><emph rend="italics">Not listening at all or even looking at her</emph></stage>This morning, I was lookin' in the mirror and thinkin about it...I'm thirty-five years old; I been married eleven years and I got a boy who sleeps in the living room - <stage><emph rend="italics">Very, very quietly</emph></stage> - and all I got to give him is stories about how rich white people live...</u>
+    </body>
+    <note>
+      <p>ain't he?, grossing, beat-up, fly-by-night, initial, graft</p>
+    </note>
+  </text>
+</TEI>

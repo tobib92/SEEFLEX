@@ -201,7 +201,8 @@ generate_scatterplot <- function(input, data) {
     `Operator 17` = data()$OPERATOR.17,
     `Operator 25` = data()$OPERATOR.25,
     `Curricular task` = data()$T.CURR,
-    Genre = data()$GENRE
+    Genre = data()$GENRE,
+    Monochrome = "No color variable"
   )
 
   # Create the switch for the color vectors
@@ -209,7 +210,8 @@ generate_scatterplot <- function(input, data) {
     `Operator 17` = c17_corp.vec,
     `Operator 25` = c25_corp.vec,
     `Curricular task` = c5_corp.vec,
-    Genre = c7_corp.vec
+    Genre = c7_corp.vec,
+    Monochrome = c1_corp.vec
   )
 
   # Define legend labels depending on color focus variable
@@ -223,13 +225,16 @@ generate_scatterplot <- function(input, data) {
     color_lab <- "Genre"
   } else if (input$filter_col == "Grade") {
     color_lab <- "Grade"
+  } else if (input$filter_col == "Monochrome") {
+    color_lab <- "Monochrome"
   }
 
   # Switch symbol focus variable
   symbol_var <- switch(input$filter_sym,
     Grade = data()$GRADE,
     `Curricular task` = data()$T.CURR,
-    Genre = data()$GENRE
+    Genre = data()$GENRE,
+    Monochrome = "No symbol variable"
   )
 
   # Define symbol types depending on symbol focus variable
@@ -239,6 +244,8 @@ generate_scatterplot <- function(input, data) {
     symbols <- symbols.vec.t.curr
   } else if (input$filter_sym == "Genre") {
     symbols <- symbols.vec.genre
+  } else if (input$filter_sym == "Monochrome") {
+    symbols <- symbols.vec.monochrome
   } else {
     stop(paste("No input found for", input$filter_sym))
   }
@@ -250,6 +257,8 @@ generate_scatterplot <- function(input, data) {
     symbol_lab <- "Curricular Task"
   } else if (input$filter_sym == "Genre") {
     symbol_lab <- "Genre"
+  } else if (input$filter_sym == "Monochrome") {
+    symbol_lab <- "Monochrome"
   }
 
   # Change labels for LDA and PCA
@@ -264,14 +273,16 @@ generate_scatterplot <- function(input, data) {
     `Operator 17` = unique(data()$OPERATOR.17),
     `Operator 25` = unique(data()$OPERATOR.25),
     `Curricular task` = unique(data()$T.CURR),
-    Genre = unique(data()$GENRE)
+    Genre = unique(data()$GENRE),
+    Monochrome = "No color variable"
   )
 
   # Filter values to only show selected symbols in legend
   filtered_legend_symbol_values <- switch(input$filter_sym,
     `Curricular task` = unique(data()$T.CURR),
     Genre = unique(data()$GENRE),
-    Grade = unique(data()$GRADE)
+    Grade = unique(data()$GRADE),
+    Monochrome = "No symbol variable"
   )
 
   # Create the plot

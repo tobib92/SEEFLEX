@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk4</p>
@@ -50,7 +50,7 @@
         <s>If you want to eat <choice><orig>somethin</orig><reg>something</reg></choice> in <name type="geo">Neukölln</name> you mostly have to order in <choice><orig>english</orig><reg>English</reg></choice> and the food is also written in <choice><orig>english</orig><reg>English</reg></choice> on the card.</s>
       </p>
       <p>
-        <s><name type="person">David Walker</name> thinks that <name type="geo">Berlin</name> is a bubble with <choice><orig>cafes</orig><reg>cafés</reg></choice> and stores that make you feel like you are in an <choice><orig>american</orig><reg>American</reg></choice> state.</s>
+        <s><name type="person">David Smith</name> thinks that <name type="geo">Berlin</name> is a bubble with <choice><orig>cafes</orig><reg>cafés</reg></choice> and stores that make you feel like you are in an <choice><orig>american</orig><reg>American</reg></choice> state.</s>
         <s>He produces apps and in his <choice><orig>firma</orig><reg>firm</reg></choice> the communication is in <choice><orig>english</orig><reg>English</reg></choice> only.</s>
         <s>This is <choice><orig>completly</orig><reg>completely</reg></choice> normal and clear for him.</s>
       </p>

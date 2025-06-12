@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Shakespeare, William</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Sonnet 116</pubPlace>
+        <address>NA</address>
+        <date>1609</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>12</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="180min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c12gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Sonnet 116</p>
+    </head>
+    <body>
+      <lg type="sonnet">
+        <lg type="1st quatrain">
+          <l>Let me not to the marriage of true minds</l>
+          <l>Admit impediments. Love is not love</l>
+          <l>Which alters when it alteration finds,</l>
+          <l>Or bends with the remover to remove:</l>
+        </lg>
+        <lg type="2nd quatrain">
+          <l>O no! it is an ever-fixed mark</l>
+          <l>That looks on tempests and is never shaken;</l>
+          <l>It is the star to every wandering bark,</l>
+          <l>Whose worth's unknown, although his height be taken.</l>
+        </lg>
+        <lg type="3rd quatrain">
+          <l>Love's not Time's fool, though rosy lips and cheeks</l>
+          <l>Within his bending sickle's compass come:</l>
+          <l>Love alters not with his brief hours and weeks,</l>
+          <l>But bears it out even to the edge of doom.</l>
+        </lg>
+        <lg type="final couplet">
+          <l>If this be error and upon me proved,</l>
+          <l>I never writ, nor no man ever loved.</l>
+        </lg>
+      </lg>
+    </body>
+    <note>
+      <p>impediment, bend, mark, tempest, bark, worth, height to be taken, bending, sickle's compass, bear sth. out, doom, upon, writ</p>
+    </note>
+  </text>
+</TEI>

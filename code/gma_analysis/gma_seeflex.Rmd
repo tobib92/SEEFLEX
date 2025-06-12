@@ -237,7 +237,7 @@ The visualization suggests that PCA dimension 3 separates between English and Ge
 
 ```{r SEEFLEXDiscriminantHist}
 
-hist(Proj4[, 1], breaks=20, xlab="", main="PCA dimensions")
+hist(PCA4[, 1], breaks=20, xlab="", main="PCA dimensions")
 
 ```
 
@@ -245,7 +245,8 @@ Such a visualization is of little use without separating the German and English 
 
 ```{r SEEFLEXDiscriminantPlot}
 
-discriminant.plot(Proj4, axis.vector(4,2), 
+discriminant.plot(PCA4, 
+                  # axis.vector(4,2), 
                   categories = seeflex_meta$T.CURR,
                   rug = TRUE, 
                   xlab = "", 

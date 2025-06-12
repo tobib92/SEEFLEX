@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.3.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ST1</title>
+        <author>Barnier, Michel</author>
+        <name>analyze</name>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>c</publisher>
+        <pubPlace>Speech</pubPlace>
+        <address>https://ec.europa.eu/commission/presscomer/detail/en/SPEECH18_4552</address>
+        <date>20180710</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>11</title>
+      </seriesStmt>
+      <notesStmt>
+        <note>time="135min"</note>
+        <note>#tasks="4"</note>
+      </notesStmt>
+      <sourceStmt>
+        <p>c11gk2</p>
+      </sourceStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Speech by Michel Barnier at the European American Chamber of Commerce (excerpt)</p>
+    </head>
+    <body>
+      <p>
+        <emph rend="italics">Michel Barnier, EU commissioner for the withdrawal negotiations of the UK in the course of Brexit, holds the following speech after having greeted the audience and having thanked for the opportunity to speak about this topic.</emph>
+      </p>
+      <p>I deeply regret, as a politician and a citizen, the United Kingdom's decision to leave the European Union. It is my conviction that we are stronger together. Brexit will necessarily have a cost.</p>
+      <p>The United Kingdom has decided to leave the European Union's Single Market and the Customs Union. This means that Brexit will create friction to trade that does not exist today.For various economic sectors, this will have an impact on value chains, which are currently closely integrated across national borders of European countries. This will impact in particular manufacturing and logistics, as well as the agricultural and food sectors. The cost of Brexit will be substantially higher for the UK than for the EU. But Brexit is clearly a "lose- lose" situation for both.</p>
+      <p>On both sides of the Channel, businesses, including subsidiaries of US firms, should analyse their exposure to the other side and be ready, when necessary, to adapt their logistical channels, supply chains and existing contracts. They should also prepare for the worst case scenario of a "no deal", which would result in the return of tariffs, under WTO rules.</p>
+      <p>That being said, I think that we should have a close relationship with the UK, also in financial services. This is our common interest. I see a number of ways to achieve this. First, the EU Single Market is open to third countries, in general, to the US, and also to the UK. And it will remain so. In the EU, free movement of capital is open to third countries.</p>
+      <p>As regards market access to provide financial services, the European Council made clear that our future Free Trade Agreement with the UK should include the right of establishment, with EU rules applying. Secondly, the EU has a long history of relying on the regulation and supervision of third countries. This is what the G20 calls deference, what you call in the US substituted compliance, and what we call in the EU equivalence.</p>
+      <p>Today, to be very clear, we are in the EU the most open jurisdiction in the world for financial services. Why would this equivalence system, which works well, including for the US industry, not work for the UK? Why?</p>
+      <p>One thing is clear: we will not change who we are as the European Union because the UK is leaving. The EU is and will remain the most open market in the world. No other jurisdiction operates a framework that is more open, comprehensive and rules-based for foreign jurisdictions. US companies are well aware of this. Many of them have been able to take a leading role in EU markets. Open markets for financial services are an asset for the EU and will remain so in the future.</p>
+      <p>Thank you for your attention.</p>
+    </body>
+    <note>
+      <p>withdrawal, friction, subsidiary, jurisdiction, equivalence system</p>
+    </note>
+  </text>
+</TEI>

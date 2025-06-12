@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="180min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive report">informal_e-mail</note>
+        <note genre="describing" genre_family="descriptive_report">informal_e-mail</note>
       </notesStmt>
       <sourceStmt>
         <p>a12gk2</p>
@@ -45,7 +45,7 @@
         <s>So you can see that <name type="geo">Berlin</name> is a worldcity.</s>
         <s><name type="geo">Berlin</name> is not like the rest of <name type="geo">Germany</name>.</s>
         <s>It is more like a bubble.</s>
-        <s>This is the meaning of <name type="person">David Walker</name>, he is an <choice><orig>app-developer</orig><reg>pp developer</reg></choice> in <name type="geo">Berlin</name> and he has an international team with 21 different nations.</s>
+        <s>This is the meaning of <name type="person">David Smith</name>, he is an <choice><orig>app-developer</orig><reg>pp developer</reg></choice> in <name type="geo">Berlin</name> and he has an international team with 21 different nations.</s>
         <s>So there is also the main language English.</s>
         <s>There are also different shops with English things.</s>
         <s>For example the shop of <name type="person">Orla Baumgarten</name>.</s>

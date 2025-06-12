@@ -3,7 +3,7 @@
 library(styler)
 
 # Choose app (TRUE = scatter, FALSE = weights)
-app <- TRUE
+app <- FALSE
 
 append_and_write_presets <- function(presets_file, presets_folder,
                                      output_file = presets_file) {
