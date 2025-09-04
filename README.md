@@ -11,10 +11,10 @@ Version 1.0.0
 This repository contains the complete dataset, various scripts for data manipulation, as well as supplementary resources for the Corpus of **Se**condary School **E**nglish As A **F**oreign **L**anguage (EFL) **Ex**ams (SEEFLEX).
 
 Corpus report citation:
-
+Pauls, T. (2025). SEEFLEX - The Corpus of Secondary English as a Foreign Language (EFL) Exams. International Journal of Learner Corpus Research, 1–26. https://doi.org/10.1075/ijlcr.24027.pau
 
 Corpus citation:
-Pauls, T. (2024). SEEFLEX - The Corpus of Secondary English as a Foreign Language (EFL) Exams (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15650052
+Pauls, T. (2025). SEEFLEX - The Corpus of Secondary English as a Foreign Language (EFL) Exams (2.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16788492
 
 
 ## Decription
