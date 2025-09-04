@@ -33,7 +33,7 @@ ui <- fluidPage(
     tabPanel("Scatterplots of latent dimensions", scatterplot_ui("scatter")),
     tabPanel("Feature weights and contributions", weights_ui("weights")),
     tabPanel("Feature values and group means", table_ui("table")),
-    tabPanel("Text viewer", text_ui("text"))
+    tabPanel("Corpus text viewer", text_ui("text"))
   )
 )
 

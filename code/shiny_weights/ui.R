@@ -39,7 +39,7 @@ tooltip_lda_weights <- HTML(
 )
 
 tooltip_granularity_weights <- HTML(
-  "Choose between the Operator 17 and Operator 25 granularity."
+  "Choose between the Operator 17, Operator 25, Genre, and Curricular task granularity."
 )
 
 tooltip_deselect1_weights <- HTML(
@@ -90,40 +90,24 @@ weights_ui <- function(id) {
           choices = c(
             "PCA" = "pca",
             "LDA Genre" = "lda_genre",
-            "LDA Curricular task" = "lda_t.curr",
-            "LDA Operator 17" = "lda_operator17",
-            "LDA Operator 25" = "lda_operator25"
+            "LDA Curricular task" = "lda_t.curr"
+            # "LDA Operator 17" = "lda_operator17",
+            # "LDA Operator 25" = "lda_operator25"
           ),
           selected = "lda_genre", inline = TRUE
         ),
 
         #### Dimension input ####
         bsTooltip(ns("info_dim"), tooltip_dim, trigger = "hover", placement = "right"),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] == 'pca'"),
-          selectInput(
-            ns("dim"),
-            label = tagList("Dimension", actionButton(
-              ns("info_dim"),
-              label = tags$i(class = "fa fa-info-circle text-primary"),
-              style = "border: none; background: transparent; cursor: pointer;"
-            )),
-            choices = label_dim_pca,
-            selected = "PC2"
-          ),
-        ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] != 'pca'"),
-          selectInput(
-            ns("dim"),
-            label = tagList("Dimension", actionButton(
-              ns("info_dim"),
-              label = tags$i(class = "fa fa-info-circle text-primary"),
-              style = "border: none; background: transparent; cursor: pointer;"
-            )),
-            choices = label_dim_lda,
-            selected = "LD1"
-          ),
+        selectInput(
+          ns("dim"),
+          label = tagList("Dimension", actionButton(
+            ns("info_dim"),
+            label = tags$i(class = "fa fa-info-circle text-primary"),
+            style = "border: none; background: transparent; cursor: pointer;"
+          )),
+          choices = label_dim_pca,
+          selected = "Dim1"
         ),
 
         #### What input and tooltip
@@ -171,13 +155,13 @@ weights_ui <- function(id) {
         bsTooltip(ns("info_granularity"), tooltip_granularity_weights, trigger = "hover", placement = "right"),
         radioButtons(ns("granularity"),
           label = tagList(
-            "Operators granularity", actionButton(
+            "Granularity", actionButton(
               ns("info_granularity"),
               label = tags$i(class = "fa fa-info-circle text-primary"),
               style = "border: none; background: transparent; cursor: pointer;"
             )
           ),
-          choices = c("17" = "n17", "25" = "n25"),
+          choices = c("17" = "n17", "25" = "n25", "Curricular task" = "n5", "Genre" = "n7"),
           selected = "n17", inline = TRUE
         ),
         bsTooltip(ns("info_deselect1"), tooltip_deselect1_weights, trigger = "hover", placement = "right"),
@@ -193,7 +177,8 @@ weights_ui <- function(id) {
               )
             ),
             choices = label_cat.operator.17,
-            selected = label_cat.operator.17, inline = TRUE
+            selected = character(),
+            inline = TRUE
           )
         ),
         bsTooltip(ns("info_deselect2"), tooltip_deselect2_weights, trigger = "hover", placement = "right"),
@@ -209,7 +194,8 @@ weights_ui <- function(id) {
               )
             ),
             choices = label_cat.operator.25,
-            selected = label_cat.operator.25, inline = TRUE
+            selected = character(),
+            inline = TRUE
           )
         ),
 
@@ -268,14 +254,14 @@ weights_ui <- function(id) {
         ),
         conditionalPanel(
           condition = paste0("input['", ns("feature_deselect"), "'] == 'weights_limit_features'"),
-          numericInput(
-            inputId = ns("focus_weight"),
-            label = "Adjust minimum weight",
+          sliderInput(
+            ns("focus_weight"),
+            label =  "Adjust minimum weight",
             value = 0,
             min = 0,
             max = 1,
             step = .05
-          )
+          ),
         ),
         tags$hr(style = "height: 2px; background: #DDD;"), # horizontal line
 

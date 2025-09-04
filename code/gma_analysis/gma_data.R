@@ -210,32 +210,60 @@ bundle_label <- c(
 
 # all dimension labels
 dim_label_lda <- c(
-  "LD1" = "Linear discriminant 1",
-  "LD2" = "Linear discriminant 2",
-  "LD3" = "Linear discriminant 3",
-  "LD4" = "Linear discriminant 4"
+  "Dim1" = "Dimension 1",
+  "Dim2" = "Dimension 2",
+  "Dim3" = "Dimension 3",
+  "Dim4" = "Dimension 4"
   )
 
 dim_label_pca <- c(
-  "PC1" = "Principal component 1",
-  "PC2" = "Principal component 2",
-  "PC3" = "Principal component 3",
-  "PC4" = "Principal component 4"
+  "Dim1" = "Dimension 1",
+  "Dim2" = "Dimension 2",
+  "Dim3" = "Dimension 3",
+  "Dim4" = "Dimension 4"
   )
 
 dim_label_lda_short <- c(
-  "LD1" = "LD1", # short labels for plots
-  "LD2" = "LD2",
-  "LD3" = "LD3",
-  "LD4" = "LD4"
+  "Dim1" = "Dim1", # short labels for plots
+  "Dim2" = "Dim2",
+  "Dim3" = "Dim3",
+  "Dim4" = "Dim4"
   )
 
 dim_label_pca_short <- c(
-  "PC1" = "PC1", # short labels for plots
-  "PC2" = "PC2",
-  "PC3" = "PC3",
-  "PC4" = "PC4"
+  "Dim1" = "Dim1", # short labels for plots
+  "Dim2" = "Dim2",
+  "Dim3" = "Dim3",
+  "Dim4" = "Dim4"
   )
+# # all dimension labels
+# dim_label_lda <- c(
+#   "LD1" = "Linear discriminant 1",
+#   "LD2" = "Linear discriminant 2",
+#   "LD3" = "Linear discriminant 3",
+#   "LD4" = "Linear discriminant 4"
+#   )
+#
+# dim_label_pca <- c(
+#   "PC1" = "Principal component 1",
+#   "PC2" = "Principal component 2",
+#   "PC3" = "Principal component 3",
+#   "PC4" = "Principal component 4"
+#   )
+#
+# dim_label_lda_short <- c(
+#   "LD1" = "LD1", # short labels for plots
+#   "LD2" = "LD2",
+#   "LD3" = "LD3",
+#   "LD4" = "LD4"
+#   )
+#
+# dim_label_pca_short <- c(
+#   "PC1" = "PC1", # short labels for plots
+#   "PC2" = "PC2",
+#   "PC3" = "PC3",
+#   "PC4" = "PC4"
+#   )
 
 label_dim_lda <- inverse.map(dim_label_lda)
 label_dim_lda_short <- inverse.map(dim_label_lda_short) # shorter labels

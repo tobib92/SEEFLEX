@@ -54,7 +54,7 @@ library(data.table)
 
 ```{r DataFiltering}
 
-load("data/gma/20250519_data.rda", verbose=TRUE)
+load("data/gma/data.rda", verbose=TRUE)
 
 # # Filter categories that do not reach the minimum number of texts
 # res1 <- filter_meta_category_and_adjust_feat(
@@ -100,23 +100,23 @@ boxplot(seeflex_zl, las=2, main="Standardized & log-transformed features")
 
 ```{r FirstVis, include=FALSE, cache=FALSE}
 
-# coord <- cmdscale(dist(seeflex_zl)) # isoMDS is hardly different
-# 
-# # plot the first version of the data
-# gma.pairs(coord, Meta = seeflex_meta,
-#           col = OPERATOR.17,
-#           pch = GRADE,
-#           col.vals = c17_corp.vec,
-#           legend.cex = 0.55)
-# 
-# coord <- Rtsne(dist(seeflex_zl), perplexity = 10)$Y
-# 
-# gma.pairs(coord,
-#           Meta = seeflex_meta,
-#           col = T.CURR,
-#           pch = GRADE,
-#           col.vals = c5_corp,
-#           compact = TRUE)
+coord <- cmdscale(dist(seeflex_zl)) # isoMDS is hardly different
+
+# plot the first version of the data
+gma.pairs(coord, Meta = seeflex_meta,
+          col = OPERATOR.17,
+          pch = GRADE,
+          col.vals = c17_corp.vec,
+          legend.cex = 0.55)
+
+coord <- Rtsne(dist(seeflex_zl), perplexity = 10)$Y
+
+gma.pairs(coord,
+          Meta = seeflex_meta,
+          col = T.CURR,
+          pch = GRADE,
+          col.vals = c5_corp,
+          compact = TRUE)
 
 ```
 
@@ -168,8 +168,8 @@ gma.pairs(Proj4,
           iso = TRUE,
           col = OPERATOR.17,
           dims = 1:4,
-          pch = T.CURR,
-          pch.vals = 1:5,
+          # pch = T.CURR,
+          # pch.vals = 1:5,
           legend.cex = 0.8, conf.level = 0.95,
           col.vals = c17_corp.vec)
 
@@ -327,40 +327,11 @@ NB: space is defined either through "complement", the PCA dimensions, "space", t
 gma.pairs(LDA$projection("both", dim=1:4),
           Meta = seeflex_meta, compact = TRUE, iso = TRUE,
           col = OPERATOR.17, 
-          pch = T.CURR, 
+          # pch = GENRE, 
           cex = 1, 
           col.vals = c17_corp, 
-          pch.vals = 1:5, 
-          legend.cex = 0.4)
-
-```
-
-## !!!!!!!!!!!! ADJUST !!!!!!!!!!!! Data.rda & Transformation Shiny App Weights and Contributions
-
-```{r}
-## from analysis_proceedings.Rmd
-lda.typeG <- mvar.discriminant(seeflex_zl, seeflex_meta$GENRE)
-# ByType32 <- mvar.space(ZL, lda.type32[, 1:4], normalize=TRUE)
-# lda.type32.P <- mvar.basis(ByType32, "space") # original orthogonalised dims
-# ByType32 %<>% mvar.rotation("pca", dims=1:2) %>% mvar.rotation("match", basis=ByType4.P)
-# ByType32.M <- mvar.projection(ByType32, "both")
-# ByType32.P <- mvar.basis(ByType32, "space")
-# mvar.pairs(ByType32.M, 1:4, Meta=Meta,
-#            col=textcat32, pch=variety, pch.vals=c(1, 3, 4), col.vals=rainbow.32,
-#            cex=.6, legend.cex=.55, iso=TRUE, compact=TRUE)
-Dimensions_14 <- LDA$basis(space = "space")
-# Dimensions_25 <- LDA$basis()
-feature.names.tp <- colnames(seeflex_zl)
-weights_new <- LDA$basis(space = "both")
-# Dimensions <- cbind(ByType4.P, lda.type.P[, 1:2])
-# colnames(Dimensions)[5:6] <- c("Orig1", "Orig2")
-# Dimensions32 <- cbind(ByType32.P, lda.type32.P[, 1:2])
-# colnames(Dimensions32)[5:6] <- c("Orig1", "Orig2")
-# save(ZL, Meta, Dimensions, Dimensions32, idx.weights, feature.names,
-#      rainbow32.vec, rainbow20.vec, rainbow12.vec, dim2label, dim2label2,
-#      types.short32, types.short20, types.short12,
-#      types.textcat32, types.textcat20, types.textcat12,
-#      file="shiny/NeumannEvert2021_weights/data.rda")
+          # pch.vals = 1:7, 
+          legend.cex = 0.7)
 
 ```
 
@@ -392,11 +363,38 @@ tooltip_lda <- paste("ID:", Proj5.df$id,
                     "<br /> Grade:", Proj5.df$grade)
 
 # show the interactive plot
-scatterD3(data = Proj5.df, x = LD1, y = LD2, fixed = TRUE,
-          col_var = operator, colors = c17_corp, ellipses = TRUE,
-          symbol_var = genre, symbols = NULL,
+scatterD3(data = Proj5.df, x = LD2, y = LD1, fixed = TRUE,
+          col_var = operator, colors = c17_corp.vec, ellipses = TRUE,
+          symbol_var = t.curr, symbols = NULL, labels_size = 100,
           point_size = 50, lasso = TRUE, 
           tooltips = TRUE, tooltip_text = tooltip_lda)
+
+scat <- onRender(
+  scat,
+  "
+function(el, x) {
+  // Increase axis labels (x and y labels)
+  //d3.select(el).selectAll('.xlab, .ylab').style('font-size', '20px');
+
+  // Increase tick (scale) labels.
+  // If scatterD3 uses the d3-axis, tick labels are usually contained in groups with a common class.
+  // Here we try '.d3-axis text' which is a common structure.
+  //d3.select(el).selectAll('.d3-axis text').style('font-size', '16px');
+
+  // Increase legend labels
+  //d3.select(el).selectAll('.legend text').style('font-size', '20px');
+
+  // ---
+  // As an alternative: If you want every text element to be the same (e.g., if
+  // you really want all text to be larger), you could use:
+  d3.select(el).selectAll('text').style('font-size', '20px');
+  // ---
+}
+  "
+)
+
+saveWidget(scat, file = "plot.html", selfcontained = TRUE)
+
 
 # save the interactive plot to an .html file
 # saveWidgetD3(
@@ -427,7 +425,7 @@ view3d(theta = 0, phi = 0, zoom=.7) # resets to front view upon loading
 feature.names <- colnames(seeflex_zl)
 weights <- LDA$basis(space = "both")
 weights <- t(weights)
-gma.plot.weights(weights_PCA, feature.names = feature.names, dim = 1:4)
+gma.plot.weights(weights, feature.names = feature.names, dim = 1:4)
 gma.plot.features(seeflex_zl, 
                   seeflex_meta, 
                   what = "weighted", 

@@ -23,7 +23,7 @@ tooltip_dim <- HTML(
   )
 )
 
-tooltip_lda_weights <- HTML(
+tooltip_lda_text <- HTML(
   paste(
     "Choose between the unsupervised Principal Component Analysis (PCA) and the",
     "supervised Linear Discriminant Analysis (LDA). For the LDA, select the",
@@ -33,19 +33,19 @@ tooltip_lda_weights <- HTML(
   )
 )
 
-tooltip_granularity_weights <- HTML(
+tooltip_granularity_text <- HTML(
   "Choose between the Operator 17 and Operator 25 granularity."
 )
 
-tooltip_deselect1_weights <- HTML(
+tooltip_deselect1_text <- HTML(
   "Subset the data depending on different variables."
 )
 
-tooltip_deselect2_weights <- HTML(
+tooltip_deselect2_text <- HTML(
   "Subset the data depending on different variables."
 )
 
-tooltip_deselect3_weights <- HTML(
+tooltip_deselect3_text <- HTML(
   "Subset the feature set by selecting single features or setting a weights limit."
 )
 
@@ -61,7 +61,7 @@ text_ui <- function(id) {
     tags$head(tags$style(HTML(".tooltip-inner { text-align: left; }"))),
 
     #### UI Title ####
-    titlePanel("SEEFLEX: Student texts"),
+    titlePanel("SEEFLEX: Student corpus texts"),
     sidebarLayout(
       sidebarPanel(
 
@@ -121,7 +121,7 @@ text_ui <- function(id) {
 
           verbatimTextOutput(ns("debugOutput")),
 
-          h3("Text metadata"),
+          h3("Metadata"),
           tags$br(),
 
           uiOutput(ns("values_output")),
@@ -129,7 +129,7 @@ text_ui <- function(id) {
           tags$hr(style = "height: 2px; background: #DDD;"),
           tags$br(),
 
-          h3("Text content"),
+          h3("Content"),
           tags$br(),
 
           # "Raw XML" uses the Ace Editor which supports syntax highlighting and word wrap
@@ -149,9 +149,23 @@ text_ui <- function(id) {
           ),
 
           # "Text Content" shows the XML with all nodes removed in a verbatim text output
+          # conditionalPanel(
+          #   condition = paste0("input['", ns("viewMode"), "'] == 'txt'"),
+          #   verbatimTextOutput(ns("plainTextDisplay"))
+          # )
           conditionalPanel(
             condition = paste0("input['", ns("viewMode"), "'] == 'txt'"),
-            verbatimTextOutput(ns("plainTextDisplay"))
+            aceEditor(
+              outputId = ns("plainTextEditor"),
+              mode = "plain_text",   # no syntax highlighting, just plain text
+              theme = "textmate",
+              wordWrap = TRUE,
+              readOnly = TRUE,
+              height = "500px",
+              fontSize = 14,
+              highlightActiveLine = TRUE,
+              placeholder = "No text content..."
+            )
           )
         ),
         width = 9

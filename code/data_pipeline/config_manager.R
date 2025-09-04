@@ -14,14 +14,14 @@ ConfigManager <- R6::R6Class(
     config = NULL,
     bundles = NULL,
     initialize = function() {
-      info(logger, "Loading configuration files...")
+      # info(logger, "Loading configuration files...")
       self$config <- yaml::yaml.load_file(CONFIG_FILE)
       self$bundles <- yaml::yaml.load_file(BUNDLES_FILE)
     },
     final_config = function() {
       bundle_name <- self$config$use_bundle
       if (bundle_name != "default") {
-        info(logger, paste("Applying bundle:", bundle_name))
+        # info(logger, paste("Applying bundle:", bundle_name))
         bundle_config <- self$bundles$bundles[[bundle_name]]
         self$config$text_cleaning <- private$update_config(self$config$text_cleaning, bundle_config)
       } else {

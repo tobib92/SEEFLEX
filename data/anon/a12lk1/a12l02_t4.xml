@@ -17,7 +17,7 @@
       <notesStmt>
         <note>time="225min"</note>
         <note>#tasks="4"</note>
-        <note genre="describing" genre_family="descriptive_report">blog</note>
+        <note genre="describing" genre_family="historical_report">blog</note>
       </notesStmt>
       <sourceStmt>
         <p>a12lk1</p>
@@ -26,7 +26,7 @@
   </teiHeader>
   <text>
     <head>
-      <p>From: <email>smith@gmail.com</email>
+      <p>From: <email>wolfesphoenix@gmail.com</email>
 		To: <email>john.smith@t-online.de</email>
 		<s>Re: Unusual School Project</s></p>
     </head>

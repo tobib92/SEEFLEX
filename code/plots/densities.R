@@ -6,7 +6,7 @@
 
 source("code/gma_analysis/gma_utils.R")
 source("code/shiny_weights/utilities.R")
-load("data/gma/20250519_shiny_data.rda")
+load("data/gma/shiny_data.rda")
 
 
 # Plot the (weighted) feature values per text in faceted boxplots.
@@ -17,36 +17,36 @@ load("data/gma/20250519_shiny_data.rda")
 ############################### Feature selection ##############################
 ################################################################################
 
-all_features <- feature.names # (Uncommenting affects plot size! See l. 117)
-# selected_features <- c(
-#   "word_S",
-#   "lexd",
+selected_features <- feature.names # (Uncommenting affects plot size! See l. 117)
+selected_features <- c(
+  # "word_S",
+  # "lexd",
   # "nn_W",
   # "np_W",
   # "nom_W",
   # "neo_W",
   # "pall_W",
-  # "pposs_W",
+  "pposs_W",
   # "prefx_W",
-  # "ppers1_P",
+  "ppers1_P",
   # "ppers2_P",
   # "ppers3_P",
   # "pit_P",
   # "adj_W",
-  # "atadj_W",
+  "atadj_W",
   # "prep_W",
-  # "fin_S",
+  "fin_S",
   # "past_F",
   # "will_F",
   # "inf_F",
   # "pass_F",
   # "modal_V",
-  # "verb_W"
+  # "verb_W",
   # "coord_F",
   # "subord_F",
-  # "interr_S",
+  "interr_S",
   # "imper_S",
-  # "title_W",
+  "title_W"
   # "salutgreet_S",
   # "adv_place_W",
   # "adv_time_W",
@@ -61,12 +61,13 @@ all_features <- feature.names # (Uncommenting affects plot size! See l. 117)
   # "ttop_subcl_S",
   # "ttop_interr_S",
   # "ttop_verb_S"
-# )
+)
 
 ################################################################################
 ############################## Operator selection ##############################
 ################################################################################
 
+selected_operators <- unique(seeflex_meta$OPERATOR.17)
 selected_operators <- c(
   # "analyze",
   # "blog",
@@ -76,8 +77,8 @@ selected_operators <- c(
   # "dialogue",
   # "diary",
   # "formal_letter",
-  # "informal_e-mail"
-  # "interior_monologue"
+  # "informal_e-mail",
+  # "interior_monologue",
   # "magazine",
   "point_out",
   # "report",
@@ -104,12 +105,10 @@ selected_tcurr <- c(
 par(mar = c(2, 4, 0, 1))
 # ymax <- if (input$use_ylim_disc) 2.2 else NULL
 
-selected_seeflex_zl <- as.matrix(seeflex_zl[, all_features])
-colnames(selected_seeflex_zl) <- all_features
+selected_seeflex_zl <- as.matrix(seeflex_zl[, selected_features])
+colnames(selected_seeflex_zl) <- selected_features
 selected_weights <- as.matrix(weights_PCA[selected_features,])
 rownames(selected_weights) <- selected_features
-
-
 
 selected_seeflex_meta <- seeflex_meta$id[seeflex_meta$OPERATOR.17 %in% selected_operators]
 seeflex_meta_selected <- seeflex_meta %>%
@@ -121,17 +120,18 @@ selected_seeflex_zl <- selected_seeflex_zl[rownames(selected_seeflex_zl) %in% se
 
 densities_plot <- discriminant.plot(
   selected_seeflex_zl,
-  discriminant = weights_PCA[,2],
+  discriminant = selected_weights[,2],
   categories = seeflex_meta_selected$OPERATOR.17,
   # idx = selected_operators,
   col.vals = c17_corp.vec,
-  # rug = TRUE,
-  legend.cex = 0.5,
+  rug = TRUE,
+  legend.cex = 0.7,
+  xlab = "discriminant score"
   # legend.colsize = 10,
   # y.max = 1,
-  # xlim = c(-4, 4),
+  # xlim = c(-1.6, 2)
   # ylim = c(0, 5),
-  xaxs = "i"
+  # xaxs = "i"
 )
 
 densities_plot
@@ -139,52 +139,31 @@ densities_plot
 # Create the filename (NB: Always run to avoid overwriting plots in output dir!)
 output_filename <- paste0(
   "output/plots/", format(Sys.time(), "%Y%m%d_%H%M%S"),
-  "_densities_plot.pdf"
-)
-
-# Save the plot
-ggsave(
-  filename = output_filename,
-  plot = densities_plot,
-  device = "pdf",
-  width = 200,
-  height = 100,
-  units = "mm",
-  dpi = 300
+  "_densities_plot.svg"
 )
 
 
+# Specify width and length and convert to inchesmm
+width_dens  <- 400 / 25.4  # width in mm
+height_dens <- 180 / 25.4  # height in mm
 
 
+# Copy the current plot to an SVG file with the specified dimensions
+dev.copy(
+  svg,
+  file = output_filename,
+  width = width_dens,
+  height = height_dens)
 
+dev.off()
 
-
-
-
-
-
-
-
-
-
-# Adjust plot size settings to create equally sized plots
-plot_width <- 110 + (48 * n_feat)
-plot_rows <- ifelse(n_feat + 1 <= 5, 1, 2) # for a maximum of 10 features
-
-# Create the plot
-feature_plot <- ggbox.selected(
-  M = selected_seeflex_zl,
-  Meta = seeflex_meta,
-  cats = selected_operators,
-  feature.names = selected_features,
-  weights = weights_PCA[selected_features, 1], # Dimension
-  variable = "OPERATOR.17", # metadata variable
-  group.var = "Operator                  ", # legend label (10 spaces)
-  colours = c17_corp.vec,
-  nrow = plot_rows, # number of rows in the plot
-  what = "contribution" # "features", "weighted" or "contribution"
-  # main = "PCA Feature weights"
-)
-
-
-
+# # Save the plot
+# ggsave(
+#   filename = output_filename,
+#   plot = densities_plot,
+#   device = "pdf",
+#   width = 200,
+#   height = 100,
+#   units = "mm",
+#   dpi = 300
+# )

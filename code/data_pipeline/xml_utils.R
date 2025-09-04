@@ -494,3 +494,108 @@ write_info_from_xml_to_df <- function(input_directory,
   }
   return(df)
 }
+
+#' This function parses a directory of xml files and adds the id, the text,
+#' and the word count to a df
+#'
+#' @param input_directory The input directory of the files that are to be parsed
+#' @param choose_orig Choose the original student input (vs. corrected form)
+#' @param choose_abbr Choose the expanded form (vs. abbreviated form)
+#' @param text_output_format Choose between "xml" and "txt"
+#' @note See "code/data_pipeline/README.md" for info on the choices
+#' @return A data frame with three or four columns
+
+create_text_and_word_count_df <- function(
+    input_directory, add_course, choose_orig = TRUE, choose_abbr = FALSE,
+    text_output_format) {
+
+  # List all XML files in the directory
+  xml_files <- gather_files(input_directory = input_directory)
+
+  word_count_df <- data.frame(
+    id = character(),
+    text = character(),
+    word_count = numeric(),
+    stringsAsFactors = FALSE)
+
+  if (add_course) {
+    word_count_df$course <- character()
+  }
+
+  for (file in xml_files) {
+
+    # Parse xml file
+    parsed_file <- parse_file(directory = input_directory,
+                              filename = file)
+    xml_file <- parsed_file$xml_file
+    namespaces <- parsed_file$namespaces
+
+    # Handle choice elements
+    if (choose_orig) {
+      reg_nodes <- xml_find_all(xml_file, "//d1:reg", namespaces)
+      xml_remove(reg_nodes)
+    } else {
+      orig_nodes <- xml_find_all(xml_file, "//d1:orig", namespaces)
+      xml_remove(orig_nodes)
+    }
+    if (choose_abbr) {
+      expan_nodes <- xml_find_all(xml_file, "//d1:expan", namespaces)
+      xml_remove(expan_nodes)
+    } else {
+      abbr_nodes <- xml_find_all(xml_file, "//d1:abbr", namespaces)
+      xml_remove(abbr_nodes)
+    }
+
+    # Create id value from <author> node
+    id <- xml_text(xml_find_first(xml_file, "//d1:author", namespaces))
+
+    # Create the course id depending on function parameter
+    if (add_course) {
+      course <- xml_text(xml_find_first(
+        xml_file, "//d1:sourceStmt//d1:p", namespaces))
+    }
+
+    # Extract content from <text> node
+    if (text_output_format == "xml") {
+      text_content <- get_text(xml_file, namespaces, full_meta = FALSE)
+    } else if (text_output_format == "txt") {
+      xml_file <- add_spaces(xml_file)
+      text_content <- xml_text(xml_find_all(xml_file, "//d1:text"))
+    } else {
+      stop("Wrong text output format selected!")
+    }
+
+    # Convert text to a tibble
+    text_content_df <- tibble(text = text_content)
+
+    # Separate the text by words and convert to long format
+    unnested_tokens <- text_content_df %>%
+      tidytext::unnest_tokens(words, text, format = "xml")
+
+    # Create count value from number of rows
+    word_count <- nrow(unnested_tokens)
+
+    # Create new row for the data frame
+    new_row <- data.frame(
+      id = id,
+      text = text_content,
+      word_count = word_count,
+      stringsAsFactors = FALSE
+    )
+
+    if (add_course) {
+      new_row$course <- course
+    }
+
+    # Append the new row to the data frame
+    word_count_df <- rbind(word_count_df, new_row)
+
+  }
+
+  if (add_course) {
+    word_count_df <- word_count_df %>%
+      dplyr::relocate(course, .after = id)
+  }
+
+  return(word_count_df)
+}

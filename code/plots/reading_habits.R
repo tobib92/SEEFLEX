@@ -1,6 +1,6 @@
 #### Set working directory to the SEEFLEX root folder ####
 
-source("code/data pipeline/meta_data.R")
+source("code/data_pipeline/meta_data.R")
 
 ## reading habits subset
 
@@ -73,24 +73,32 @@ ReadingData <- data.frame(var, value, label)
 
 ## Create barplot
 
-cat <- rep(c("1: no time","2: less than one hour","3: 1-4 hours","4: 4-7 hours","5: 7-10 hours","6: more than 10 hours"), times = 6)
+cat <- rep(c("1:No time","2:Less than one hour","3:1-4 hours","4:4-7 hours","5:7-10 hours","6:More than 10 hours"), times = 6)
 
 readplot <- ggplot(
   ReadingData, aes(x = var,
                    y = value,
                    fill = cat)) +
   facet_grid(~ label, switch = "x", scales = "free", space = "free") +
-  scale_fill_manual(values = c("#612158","#a11035", "#cc071e", "#f6a800", "#bdcd00", "#57ab27")) +
+  scale_fill_manual(values = c("#a11035", "#cc071e", "#f6a800", "#FFED00", "#bdcd00", "#57ab27"),
+                    labels = c("No time","Less than one hour","1-4 hours","4-7 hours","7-10 hours","More than 10 hours")) +
   theme_minimal() +
   geom_col() +
-  geom_text(aes(label = round(value / 575, 2)), angle = 90, hjust = 'left') +
-            # hjust = 'right') +
-  ylab("# of participants") + # y-axis label
+  geom_text(
+    aes(
+      label = sprintf("%.2f", value / 575 * 100),
+      hjust = ifelse(value / 575 * 100 < 5, -0.1, 1.1)  # Left-align for negative values, right-align otherwise
+    ),
+    angle = 90,
+    fontface = "bold"
+    ) +
+  ylab("Number of students") + # y-axis label
   xlab("Media type") + # x-axis label
-  labs(fill = "Time spent reading",
-       title = "Reading Habits") + # legend label
+  labs(fill = "Time spent reading (%):"
+       # title = "Reading Habits"
+       ) + # legend label
   theme(axis.text.x = element_blank(), # within the theme() element, you can define all sorts of different things.
-        # panel.grid = element_blank(),
+        panel.grid = element_line(linewidth = 0.1),
         legend.position = "right") # we want our legend to be at the top
 
 readplot
@@ -151,7 +159,7 @@ readplot2 <- ggplot(
   xlab("Media type") + # x-axis label
   labs(fill = "Time spent reading") + # legend label
   theme(axis.text.x = element_blank(), # within the theme() element, you can define all sorts of different things.
-        # panel.grid = element_blank(),
+        panel.grid = element_line(linewidth = 0.1),
         legend.position = "right", # we want our legend to be at the top,
         plot.title = element_text(hjust = 0.5))
 

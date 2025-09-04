@@ -57,7 +57,6 @@ scatterplot_ui <- function(id) {
       function (event) {$('#reset_zoom').click();});"
     )),
 
-    #### UI Title ####
     titlePanel("SEEFLEX: Scatterplots of latent dimensions"),
     sidebarLayout(
       sidebarPanel(
@@ -80,39 +79,19 @@ scatterplot_ui <- function(id) {
           choices = c(
             "PCA" = "pca",
             "LDA Genre" = "lda_genre",
-            "LDA Curricular task" = "lda_t.curr",
-            "LDA Operator 17" = "lda_operator17",
-            "LDA Operator 25" = "lda_operator25"
+            "LDA Curricular task" = "lda_t.curr"
+            # "LDA Operator 17" = "lda_operator17",
+            # "LDA Operator 25" = "lda_operator25"
           ),
           selected = "lda_genre", inline = TRUE
         ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] == 'pca'"),
-          selectInput(ns("x"), "x-axis (horizontal)",
-            choices = label_dim_pca,
-            selected = "PC2"
-          ),
+        selectInput(ns("x"), "x-axis (horizontal)",
+          choices = label_dim_pca,
+          selected = "Dim2"
         ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] != 'pca'"),
-          selectInput(ns("x"), "x-axis (horizontal)",
-            choices = label_dim_lda,
-            selected = "LD2"
-          ),
-        ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] == 'pca'"),
-          selectInput(ns("y"), "y-axis (vertical)",
-            choices = label_dim_pca,
-            selected = "PC1"
-          ),
-        ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] != 'pca'"),
-          selectInput(ns("y"), "y-axis (vertical)",
-            choices = label_dim_lda,
-            selected = "LD1"
-          ),
+        selectInput(ns("y"), "y-axis (vertical)",
+          choices = label_dim_pca,
+          selected = "Dim1"
         ),
         tags$hr(style = "height: 2px; background: #DDD;"),
 
@@ -273,6 +252,7 @@ scatterplot_ui <- function(id) {
       ),
       mainPanel(
         verbatimTextOutput(ns("debugOutput")),
+        verbatimTextOutput(ns("current_selection_count")),
         scatterD3Output(ns("scatterPlot"), width = "100%", height = "1200px"),
         width = 9
       )

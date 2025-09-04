@@ -37,7 +37,7 @@ weights_update_input <- function(
     select = shiny::updateSelectInput(session, name, selected = val),
     checkbox = shiny::updateCheckboxInput(session, name, value = val),
     group = shiny::updateCheckboxGroupInput(session, name, selected = val),
-    numeric = shiny::updateNumericInput(session, name, value = val),
+    numeric = shiny::updateNumericInput(session, name, value = as.numeric(val), min = 0, max = 1, step = .05),
     slider = shiny::updateSliderInput(session, name, value = val)
   )
 }
@@ -141,25 +141,21 @@ weights_get_data <- function(input) {
 
     if (input$lda == "pca") {
       Dims <- weights_PCA
-      dim_label <- dim_label_pca
     } else if (input$lda == "lda_genre") {
       Dims <- weights_LDA_genre
-      dim_label <- dim_label_lda
     } else if (input$lda == "lda_t.curr") {
       Dims <- weights_LDA_t.curr
-      dim_label <- dim_label_lda
     } else if (input$lda == "lda_operator17") {
       Dims <- weights_LDA_operator17
-      dim_label <- dim_label_lda
     } else if (input$lda == "lda_operator25") {
       Dims <- weights_LDA_operator25
-      dim_label <- dim_label_lda
     } else {
       stop("No weights found in selection.")
     }
 
     # Create a boolean index for the meta dataframe
     idx <- rep(TRUE, nrow(seeflex_meta))
+    idx_meta_all <- rep(TRUE, nrow(seeflex_meta))
 
     # Subset index for t.curr
     tcurr_idx <- seeflex_meta$T.CURR %in% input$focus_t.curr
@@ -179,9 +175,9 @@ weights_get_data <- function(input) {
     } else if (input$feature_deselect == "selected_features") {
       feature_idx <- colnames(seeflex_zl) %in% input$focus_feature
     } else if (input$feature_deselect == "weights_limit_features") {
-      feature_idx <- abs(
-        Dims[, names(dim_label)[names(dim_label) == input$dim]]
-      ) > input$focus_weight
+      # function call from shiny_scatter/server.R
+      col_name <- get_column_name_from_ui(input$lda, input$dim)
+      feature_idx <- abs(Dims[, col_name]) > input$focus_weight
     } else {
       stop("No features found in selection for M.")
     }
@@ -192,22 +188,24 @@ weights_get_data <- function(input) {
     } else if (input$feature_deselect == "selected_features") {
       weights_idx <- rownames(Dims) %in% input$focus_feature
     } else if (input$feature_deselect == "weights_limit_features") {
-      weights_idx <- abs(
-        Dims[, names(dim_label)[names(dim_label) == input$dim]]
-      ) > input$focus_weight
+      # function call from shiny_scatter/server.R
+      col_name <- get_column_name_from_ui(input$lda, input$dim)
+      weights_idx <- abs(Dims[, col_name]) > input$focus_weight
     } else {
       stop("No features found in selection for Dims.")
     }
 
     M_subset <- seeflex_zl[idx, feature_idx, drop = FALSE]
+    M_all <- seeflex_zl[idx_meta_all, feature_idx, drop = FALSE]
     Meta_subset <- seeflex_meta[idx, , drop = FALSE]
+    Meta_all <- seeflex_meta[idx_meta_all, , drop = FALSE]
     Dims_subset <- Dims[weights_idx, , drop = FALSE]
 
     # print(paste("Meta", nrow(M_subset), head(rownames(M_subset)), ncol(M_subset), colnames(M_subset)))
     # print(paste("Meta", nrow(Meta_subset), head(rownames(Meta_subset)), ncol(Meta_subset), head(colnames(Meta_subset))))
     # print(paste("Meta", nrow(Dims_subset), rownames(Dims_subset), ncol(Dims_subset), colnames(Dims_subset)))
 
-    return(list(M = M_subset, Meta = Meta_subset, Dims = Dims_subset))
+    return(list(M = M_subset, MAll = M_all, Meta = Meta_subset, MetaAll = Meta_all, Dims = Dims_subset))
   })
 }
 
@@ -241,6 +239,7 @@ size_policy <- function(dims) {
 
 #### Plot Generation ####
 
+
 #' Generate a boxplot for the feature weights and contributions
 #'
 #' @param input The Shiny input object
@@ -255,27 +254,25 @@ size_policy <- function(dims) {
 generate_boxplot <- function(input, Data, feature.names, c17_corp.vec,
                              c25_corp.vec, plot_dimensions = PLOT_DIMENSIONS) {
 
-  if (input$lda == "pca") {
-    dim_label <- dim_label_pca
-  } else if (input$lda != "pca") {
-    dim_label <- dim_label_lda
-  } else {
-    stop("No labels found for boxplot function!")
-  }
-
-  selected_dimension <- dim_label[input$dim]
+  selected_dimension <- dim_label_pca[input$dim]
 
   cat.variable <- switch(input$granularity,
     n17 = "OPERATOR.17",
-    n25 = "OPERATOR.25"
+    n25 = "OPERATOR.25",
+    n5 = "T.CURR",
+    n7 = "GENRE"
   )
   cat.selected <- switch(input$granularity,
     n17 = input$show_OPERATOR.17,
-    n25 = input$show_OPERATOR.25
+    n25 = input$show_OPERATOR.25,
+    n5 = input$focus_t.curr,
+    n7 = input$focus_genre
   )
   cat.colours <- switch(input$granularity,
     n17 = c17_corp.vec,
-    n25 = c25_corp.vec
+    n25 = c25_corp.vec,
+    n5 = c5_corp.vec,
+    n7 = c7_corp.vec,
   )
 
   # This value can be passed in to ggbox.selected in order to subset the
@@ -307,15 +304,16 @@ generate_boxplot <- function(input, Data, feature.names, c17_corp.vec,
   # Use the inverse.map function to flip the keys and values in the dim_label_lda
   # object. Then use the value from the "dim" drop down input to grab the
   # corresponding value from the lookup in the other direction
-
   bplt <- ggbox.selected(
-    M = Data()$M, Meta = Data()$Meta,
-    variable = cat.variable,
+    M = Data()$MAll,
+    Meta = Data()$MetaAll,
     cats = cat.selected,
     colours = cat.colours,
-    weights = Data()$Dims[, names(selected_dimension)],
+    # function call from shiny_scatter/server.R
+    weights = Data()$Dims[, get_column_name_from_ui(input$lda, input$dim)],
     what = input$y,
     feature.names = cat.features,
+    variable = cat.variable,
     # select = idx.weights,
     main = main.txt,
     group.labels = !input$use_legend,
@@ -346,15 +344,21 @@ generate_densities_plot <- function(input, Data, c17_corp.vec, c25_corp.vec) {
 
   cat.vec <- switch(input$granularity,
     n17 = Data()$Meta$OPERATOR.17,
-    n25 = Data()$Meta$OPERATOR.25
+    n25 = Data()$Meta$OPERATOR.25,
+    n5 = Data()$Meta$T.CURR,
+    n7 = Data()$Meta$GENRE
   )
   cat.colours <- switch(input$granularity,
     n17 = c17_corp.vec,
-    n25 = c25_corp.vec
+    n25 = c25_corp.vec,
+    n5 = c5_corp.vec,
+    n7 = c7_corp.vec,
   )
   cat.selected <- switch(input$granularity,
     n17 = input$show_OPERATOR.17,
-    n25 = input$show_OPERATOR.25
+    n25 = input$show_OPERATOR.25,
+    n5 = input$focus_t.curr,
+    n7 = input$focus_genre
   )
   leg.cex <- switch(input$plot_size,
     S = 0.7,
@@ -363,22 +367,17 @@ generate_densities_plot <- function(input, Data, c17_corp.vec, c25_corp.vec) {
     XL = 1.4
   )
 
-  if (input$lda == "pca") {
-    dim_label <- dim_label_pca
-  } else if (input$lda != "pca") {
-    dim_label <- dim_label_lda
-  } else {
-    stop("No labels found for densities plot function!")
-  }
+  selected_dimension <- dim_label_pca[input$dim]
 
-  selected_dimension <- dim_label[input$dim]
-  dim.vec <- Data()$Dims[, names(selected_dimension)]
-
-  idx <- if (length(cat.selected) > 0 & input$granularity == "n17") {
+  idx <- if (length(cat.selected) > 0 & input$granularity %in% c("n17", "n25", "n5", "n7")) {
     cat.vec %in% cat.selected
-  } else if (length(cat.selected) > 0 & input$granularity == "n25") {
-    cat.vec %in% cat.selected
-  } else if (length(cat.selected) == 0 & input$granularity == "n17") {
+  # } else if (length(cat.selected) > 0 & input$granularity == "n25") {
+  #   cat.vec %in% cat.selected
+  # } else if (length(cat.selected) > 0 & input$granularity == "n5") {
+  #   cat.vec %in% cat.selected
+  # } else if (length(cat.selected) > 0 & input$granularity == "n7") {
+  #   cat.vec %in% cat.selected
+  } else if (length(cat.selected) == 0 & input$granularity %in% c("n17", "n5", "n7")) {
     NULL
   } else if (length(cat.selected) == 0 & input$granularity == "n25") {
     # exclude assess because there is only one data point.
@@ -391,7 +390,7 @@ generate_densities_plot <- function(input, Data, c17_corp.vec, c25_corp.vec) {
   ymax <- if (input$use_ylim_disc) 2.2 else NULL
 
   dplt <- discriminant.plot(Data()$M,
-    discriminant = dim.vec,
+    discriminant = Data()$Dims[, get_column_name_from_ui(input$lda, input$dim)], # function call from shiny_scatter/server.R
     categories = cat.vec,
     idx = idx,
     col.vals = cat.colours,
@@ -475,7 +474,9 @@ generate_pdf_content <- function(
     main.txt <- sprintf("%s (Grade: %s)", main.txt, input$focus_grade)
   }
   y.range <- if (input$y == "features") c(-1.5, 3) else c(-0.5, 1)
-  ggbox.selected(Data()$M, Data()$Meta,
+  ggbox.selected(
+    M = Data()$M,
+    Meta = Data()$Meta,
     cats = cat.selected,
     variable = cat.variable,
     colours = cat.colours,
@@ -531,14 +532,6 @@ weights_server <- function(input, output, session) {
 
   Data <- weights_get_data(input)
 
-  observeEvent(input$lda, {
-    if (input$lda != "pca") {
-      updateSelectInput(session, "dim", selected = "LD1")
-    } else if (input$lda == "pca") {
-      updateSelectInput(session, "dim", selected = "PC1")
-    }
-  })
-
   shiny::observe({
     plot_size <- input$plot_size
     update_plot_dimensions(
@@ -572,8 +565,8 @@ weights_server <- function(input, output, session) {
         genre = input$focus_genre,
         t.curr = input$focus_t.curr,
         feature_deselect = input$feature_deselect,
-        feature = input$focus_feature,
-        feature = input$focus_weight,
+        focus_feature = input$focus_feature,
+        focus_weight = input$focus_weight,
         lda = input$lda,
         dim = input$dim,
         what = input$y,
@@ -599,8 +592,8 @@ weights_server <- function(input, output, session) {
       if ("assess" %in% input$show_OPERATOR.25) {
         print("Found assessment")
 
-        updateCheckboxGroupInput(session, "show_OPERATOR.17",
-          selected = setdiff(input$show_OPERATOR.17, "assess")
+        updateCheckboxGroupInput(session, "show_OPERATOR.25",
+          selected = setdiff(input$show_OPERATOR.25, "assess")
         )
       }
       generate_densities_plot(
@@ -615,5 +608,5 @@ weights_server <- function(input, output, session) {
 
   output$downloadPDF <- weights_pdf_download_handler(input)
 
-  output$debugOutput <- renderText({ })
+  # output$debugOutput <- renderText({ })
 }

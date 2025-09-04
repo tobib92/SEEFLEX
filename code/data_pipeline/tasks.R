@@ -37,6 +37,21 @@ create_task_id <- function(df) {
 
 }
 
+
+#' This function creates the prompt ID from the prompt text and a counter.
+#'
+#' @param df A data frame containing the PROMPT column
+
+create_prompt_id <- function(df) {
+
+  df <- df %>%
+    mutate(PROMPT_ID = paste0("prompt_", as.integer(fct_inorder(PROMPT))))
+
+  return(df)
+
+}
+
+
 #' This function creates the match from COURSE, T.CURR and OPERATOR.25 for
 #' matching with the written data.
 #'
@@ -297,13 +312,15 @@ write_task_nodes <- function(input_directory, output_directory) {
 }
 
 
-##### Matching tasks and genres #####
+#### Matching tasks and genres ####
 
 # Read the raw tasks table, clean it, add operators and write to .xlsx.
 TD <- read_delim("data/tasks.csv", delim = ";")
 TD <- group_operators(TD)
 TD <- differentiate_t3_in_df(TD)
 TD <- create_task_id(TD)
+TD <- TD %>% dplyr::filter(TASK_ID != "c11lk2_t3a") # does not exist in data
+TD <- create_prompt_id(TD)
 GD <- read.csv("data/genres.csv", sep = ";")
 
 # Join the data frames
@@ -322,20 +339,21 @@ WD$GENRE <- perform_lookup(TD_match$GENRE, TD_match$MATCH, WD_match$MATCH)
 WD$GENRE_FAMILY <- perform_lookup(TD_match$GENRE_FAMILY, TD_match$MATCH,
                                   WD_match$MATCH)
 
-# Write the task nodes to a directory of files
-write_task_nodes(input_directory = "data/anon/",
-                  output_directory = "data/anon/")
+#### Write task information to files (keep commented out for dependencies) ####
+# # Write the task nodes to a directory of files
+# write_task_nodes(input_directory = "data/anon/",
+#                   output_directory = "data/anon/")
+#
+# # Write the genre nodes to a directory of files
+# write_genre_nodes(input_directory = "data/anon/",
+#                   output_directory = "data/anon/")
+#
+# # write the combined data frame to a file
+# current_date <- format(Sys.Date(), "%Y%m%d")
+# output_filename <- paste0("data/", current_date, "_tasks_complete.csv")
+# write.csv(x = TD, file = output_filename, row.names = FALSE)
 
-# Write the genre nodes to a directory of files
-write_genre_nodes(input_directory = "data/anon/",
-                  output_directory = "data/anon/")
-
-# write the combined data frame to a file
-current_date <- format(Sys.Date(), "%Y%m%d")
-output_filename <- paste0("data/", current_date, "_tasks_complete.csv")
-write.csv(x = TD, file = output_filename, row.names = FALSE)
-
-##### Manual genre matching #####
+#### Manual genre matching ####
 # Read the modified Excel file and match the genres to tasks
 # GD <- read.xlsx(file = "../../output/tasks.xlsx", sheetIndex = 1)
 # GD <- read.xlsx(file = "../../../../sciebo/IfAAR/Forschung/Dissertation/Data Analysis/seeflex/output/tasks.xlsx", sheetIndex = 1)

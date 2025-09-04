@@ -62,25 +62,25 @@ ggbox.features <- function(M, Meta, what = c("features", "weighted", "contributi
   table.wide <- cbind(table.wide, M)
   table.long <- reshape2::melt(table.wide, id = c("id", "group"))
 
-  #### output print statements ####
-  ## Check individual weights values by writing output to a file
-  write.csv(table.long, "output_file.csv", row.names = FALSE)
-  filtered_data <- as.data.frame(table.long)
-
-  # Filter out 'other'
-  filtered_data <- filtered_data %>%
-    dplyr::filter(group != "other")
-
-  # Create summary values
-  nrow_filtered <- paste("n_ids:", nrow(filtered_data))
-  ngroup_filtered <- paste("n_groups:", length(unique(filtered_data$group)))
-  nvar_filtered <- paste("n_var:", length(unique(filtered_data$variable)))
-  sum_filtered <- paste("sum:", sum(filtered_data$value))
-  mean_filtered <- paste("mean:", mean(filtered_data$value))
-  weights_filtered <- paste(
-      names(weights), round(weights, digits = 3), sep = " ", collapse = ", ")
-
-
+  # #### output print statements ####
+  # ## Check individual weights values by writing output to a file
+  # write.csv(table.long, "output_file.csv", row.names = FALSE)
+  # filtered_data <- as.data.frame(table.long)
+  #
+  # # Filter out 'other'
+  # filtered_data <- filtered_data %>%
+  #   dplyr::filter(group != "other")
+  #
+  # # Create summary values
+  # nrow_filtered <- paste("n_ids:", nrow(filtered_data))
+  # ngroup_filtered <- paste("n_groups:", length(unique(filtered_data$group)))
+  # nvar_filtered <- paste("n_var:", length(unique(filtered_data$variable)))
+  # sum_filtered <- paste("sum:", sum(filtered_data$value))
+  # mean_filtered <- paste("mean:", mean(filtered_data$value))
+  # weights_filtered <- paste(
+  #     names(weights), round(weights, digits = 3), sep = " ", collapse = ", ")
+  #
+  #
   # # Create print df
   # print_data <- filtered_data %>%
   #   dplyr::mutate(value = as.character(value)) %>%
@@ -160,7 +160,6 @@ ggbox.selected <- function(M, Meta, weights, cats, variable,
 
   # Create a vector of color values to use in the plot
   col.values <- c("#666666", colours[cats])
-
   ggbox.features(M, Meta,
     what = what,
     weights = weights, id.var = "id", # Steph id.var = "file"

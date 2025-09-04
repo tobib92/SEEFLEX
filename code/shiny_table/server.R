@@ -15,7 +15,7 @@ persistent_cache <- TRUE # set to FALSE for development
 #' @param type The type of the input element
 #' @return NULL (invisibly)
 
-weights_update_input <- function(
+table_update_input <- function(
     session,
     name,
     val,
@@ -41,23 +41,23 @@ weights_update_input <- function(
 #' @param session The Shiny session object
 #' @return NULL (invisibly)
 
-weights_observe_preset <- function(input, session) {
+table_observe_preset <- function(input, session) {
   shiny::observe({
     preset <- weights_presets[[input$preset]]
 
     for (par in c("dim", "y")) {
-      weights_update_input(session, par, preset[[par]], "select")
+      table_update_input(session, par, preset[[par]], "select")
     }
 
     for (par in c(
       "lda", "granularity", "focus_grade", "focus_t.curr",
       "focus_genre", "feature_deselect", "plot_size"
     )) {
-      weights_update_input(session, par, preset[[par]], "radio")
+      table_update_input(session, par, preset[[par]], "radio")
     }
 
     for (par in c("show_OPERATOR.17", "show_OPERATOR.25", "focus_feature")) {
-      weights_update_input(session, par, preset[[par]], "group")
+      table_update_input(session, par, preset[[par]], "group")
     }
 
   })
@@ -93,7 +93,7 @@ table_server <- function(input, output, session) {
 
   data <- table_get_data(seeflex_zl, seeflex_meta)
 
-  weights_observe_preset(input, session)
+  table_observe_preset(input, session)
 
   #### Table ####
 
@@ -159,9 +159,13 @@ table_server <- function(input, output, session) {
 
     }
 
+    # Create chosen column name in data frames from selected input
+    dim_colname <- get_column_name_from_ui(input$lda, input$dim)
+
     # Create weighted and contribution values
     if (input$y == "contribution") {
-      weight_multiplier <- weights[numeric_cols, input$dim, drop = FALSE]
+      # print(paste("intputdim", input$dim))
+      weight_multiplier <- weights[numeric_cols, dim_colname, drop = FALSE]
       tmp_table_data <- filtered_table_data_subset[, numeric_cols, drop = FALSE]
       tmp_table_matrix <- as.matrix(tmp_table_data)
       result_matrix <- round(sweep(tmp_table_matrix, 2, weight_multiplier, FUN = "*"), 3)
@@ -169,7 +173,7 @@ table_server <- function(input, output, session) {
       print("Using contribution values")
 
     } else if (input$y == "weighted") {
-      weight_multiplier <- abs(weights[numeric_cols, input$dim, drop = FALSE])
+      weight_multiplier <- abs(weights[numeric_cols, dim_colname, drop = FALSE])
       tmp_table_data <- filtered_table_data_subset[, numeric_cols, drop = FALSE]
       tmp_table_matrix <- as.matrix(tmp_table_data)
       result_matrix <- round(sweep(tmp_table_matrix, 2, weight_multiplier, FUN = "*"), 3)
@@ -205,7 +209,8 @@ table_server <- function(input, output, session) {
       dplyr::rename("Operator" = "get(OPERATOR)")
 
     # Include centroid if contribution and all features are selected
-    if (input$y == "contribution" & ncol(stats_df) == 43) {
+    if (input$y == "contribution") {
+    # if (input$y == "contribution" & ncol(stats_df) == 43) {
       stats_df <- stats_df %>%
         dplyr::mutate(`Axis score` = rowSums(across(where(is.numeric)), na.rm = TRUE), .after = Operator) %>%
         dplyr::mutate(`Axis score` = round(`Axis score`, 3))

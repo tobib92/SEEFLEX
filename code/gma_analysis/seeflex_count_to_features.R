@@ -56,7 +56,7 @@ Features <- with(SEEFLEX,
     title_W = title / n_word,
     # salute_S = salut / n_sent,              # 3 co-linear features, must select
     # greet_S = greet / n_sent,               # either individual or combined
-    salutgreet_S = salutgreet / n_sent,     # version in data preparation
+    salutgreet_S = salutgreet / n_sent,       # version in data preparation
     adv_place_W = rl / n_word,
     adv_time_W = rt / n_word,
     # ttex_cont_S = textual_theme_cont / n_sent, # 3 co-linear features, must select

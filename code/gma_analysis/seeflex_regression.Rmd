@@ -1,0 +1,456 @@
+---
+title: "PCR Analysis SEEFLEX"
+author: "Tobias Pauls"
+date: "2025-08-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sourcing necessary files from SEEFLEX root folder
+
+Set the working directory to the *SEEFLEX* root folder. Then run the entire
+chunk to load the necessary files and libraries.
+
+```{r cars}
+
+source("code/data_pipeline/meta_utils.R")
+source("code/data_pipeline/xml_utils.R")
+source("code/gma_analysis/gma_utils.R")
+source("code/gma_analysis/seeflex_gma_utils.R")
+source("code/data_pipeline/meta_data.R")
+source("code/data_pipeline/tasks.R")
+load("data/gma/shiny_data.rda")
+seeflex_feature_counts <- read.csv(
+  file = "data/gma/20250409_seeflex_orig.tsv", 
+  sep = "\t")
+
+library(xlsx)
+library(performance)
+library(lme4)
+library(lmerTest)
+library(emmeans)
+library(splines)
+library(influence.ME)
+library(DHARMa)
+library(lmtest)
+library(sandwich)
+library(merDeriv)
+library(clubSandwich)
+
+
+```
+
+# Merging the data frames for the regression analysis.
+
+The chunk below merges the metadata and the written data. Following, the task
+information is taken from the task data frame and joined with the entire data.
+
+```{r pressure, echo=FALSE}
+
+# Merge the metadata with the written data
+seeflex_pcr <- merge_meta_df(MD = MD, WD = WD)
+seeflex_feat <- as.data.frame(seeflex_zl)
+
+# Merge the PCA data with the new PCR df and the TD
+seeflex_pcr <- seeflex_pcr %>%
+  dplyr::mutate(tmp_TASK_ID = paste(COURSE, TASK, sep = "_")) %>%
+  dplyr::inner_join(
+    TD %>% dplyr::select(TASK_ID, PROMPT_ID), 
+    by = c("tmp_TASK_ID" = "TASK_ID"), unmatched = "error") %>%
+  dplyr::select(-tmp_TASK_ID) %>%
+  dplyr::relocate(PROMPT_ID, .after = TASK) %>%
+  dplyr::inner_join(
+    PCA4.df %>% dplyr::select(ID, 1:4),
+    by = "ID", unmatched = "drop") %>%
+  dplyr::relocate(starts_with("PC"), .after = 1) %>% 
+  dplyr::left_join(
+    seeflex_feat %>% 
+      rownames_to_column(var = "ID"),
+    by = "ID", unmatched = "error") %>% 
+  dplyr::mutate(STUDENT.ID = str_remove(ID, "_.*"), .after = "ID") %>% 
+  dplyr::left_join(seeflex_feature_counts, by = c("ID" = "id"))
+
+```
+
+# Recode proficiency variables
+
+```{r}
+
+# Recode the LexTALE, VLT, and reading score variables into fewer categories.
+seeflex_pcr <- seeflex_pcr %>%
+  # mutate(
+  #   CEFR_lex = case_when(
+  #     LexTALE.ENG < 60 ~ "B1 or lower",
+  #     LexTALE.ENG >= 60 & LexTALE.ENG < 70 ~ "B2.1",
+  #     LexTALE.ENG >= 70 & LexTALE.ENG < 80 ~ "B2.2",
+  #     LexTALE.ENG >= 80 ~ "C1")
+  #   ) %>% 
+  # mutate(
+  #   VLT_level_score = rowSums(
+  #     dplyr::select(., matches("(N)?VLT") & !matches("VLT_Overall")) >= 80,
+  #     na.rm = TRUE
+  #     )
+  #   ) %>% 
+  mutate(
+    Reading_score = rowSums(
+      dplyr::select(., matches("READ1")) / 6,
+      na.rm = TRUE
+      )
+    )
+
+```
+
+# Mixed-effects regression
+
+## Data cleaning for regression models
+
+```{r}
+
+seeflex_pcr <- seeflex_pcr %>% 
+  dplyr::filter(!ID %in% c(
+    "a10g27_t4", "a10g44_t1", "a10g52_t1", "a11g14_t1", "a12g30_t2", "a10g07_t4" 
+    # "a10g43_t3", "a10g51_t2", "a11g13_t2", "a12g30_t1", "a10g43_t2", "a10g51_t1", "a11g13_t1", "a12g29_t4", "c10g36_t3"
+    )     
+  )
+
+```
+
+## OPERATOR.17 model
+
+Change the PC variable in the first line of the following chunk to the desired
+principal component and run the entire chunk. The output will contain the model
+summary, the conditional and marginal R² values, as well as a direct comparison 
+of the operator categories.
+
+```{r}
+
+PC <- seeflex_pcr$PC1 # Change principal component to PC1, PC2, PC3, or PC4
+
+seeflex_mdl_op <- lmer( # lme4:: not specified because of lmerTest extension
+  formula = PC1 ~ OPERATOR.17 + LexTALE.ENG + VLT_Overall + NFC + Reading_score + MONTHS.COUNTRY +
+    (1 | PROMPT_ID) + (1 | STUDENT.ID), 
+  data = seeflex_pcr
+  )
+
+# Summarize the model and obtain R² values
+summary(seeflex_mdl_op)
+r2(seeflex_mdl_op)
+
+# Convert model output and compare individual operators with each other
+seeflex_mdl_op_comp <- as.data.frame(
+  pairs(lsmeans(seeflex_mdl_op, ~ OPERATOR.17)))
+
+# Filter those combinations that are significantly different
+seeflex_mdl_op_comp_sign <- seeflex_mdl_op_comp %>% dplyr::filter(
+  p.value <= 0.05)
+
+```
+
+## GENRE model
+
+Change the PC variable in the first line of the following chunk to the desired
+principal component and run the entire chunk. The output will contain the model
+summary, the conditional and marginal R² values, as well as a direct comparison 
+of the genre categories.
+
+```{r}
+
+PC <- seeflex_pcr$PC1 # Change principal component to PC1, PC2, PC3, or PC4
+
+seeflex_mdl_ge <- lmer( # lme4:: not specified because of lmerTest extension
+  formula = PC ~ GENRE + LexTALE.ENG + VLT_Overall + NFC + Reading_score + + MONTHS.COUNTRY +
+    (1 | PROMPT_ID) + (1 | STUDENT.ID), 
+  data = seeflex_pcr
+  )
+
+# Summarize the model and obtain R² values
+summary(seeflex_mdl_ge)
+r2(seeflex_mdl_ge)
+
+# Convert model output and compare individual operators with each other
+seeflex_mdl_ge_comp <- as.data.frame(
+  pairs(lsmeans(seeflex_mdl_op, ~ GENRE)))
+
+# Filter those combinations that are significantly different
+seeflex_mdl_ge_comp_sign <- seeflex_mdl_ge_comp %>% dplyr::filter(
+  p.value <= 0.05)
+
+```
+
+## T.CURR model
+
+Change the PC variable in the first line of the following chunk to the desired
+principal component and run the entire chunk. The output will contain the model
+summary, the conditional and marginal R² values, as well as a direct comparison 
+of the curricular task categories.
+
+```{r}
+
+PC <- seeflex_pcr$PC1 # Change principal component to PC1, PC2, PC3, or PC4
+
+seeflex_mdl_tc <- lmer( # lme4:: not specified because of lmerTest extension
+  formula = PC ~ T.CURR + LexTALE.ENG + VLT_Overall + NFC + Reading_score +
+    (1 | PROMPT_ID) + (1 | STUDENT.ID), 
+  data = seeflex_pcr, 
+  )
+
+# Summarize the model and obtain R² values
+summary(seeflex_mdl_tc)
+r2(seeflex_mdl_tc)
+
+# Convert model output and compare individual operators with each other
+seeflex_mdl_tc_comp <- as.data.frame(
+  pairs(lsmeans(seeflex_mdl_tc, ~ OPERATOR.17)))
+
+# Filter those combinations that are significantly different
+seeflex_mdl_tc_comp_sign <- seeflex_mdl_tc_comp %>% dplyr::filter(
+  p.value <= 0.05)
+
+```
+
+## Identifying outliers in the model residuals
+
+```{r}
+
+# Standardized residuals
+std_res <- rstudent(seeflex_mdl_op)
+
+# Flag outliers (|residual| > 3)
+outlier_idx <- which(abs(std_res) > 3)
+outliers <- seeflex_pcr[outlier_idx, ]
+
+cat("Number of outliers:", length(outlier_idx), "\n")
+head(outliers)
+
+# Plot residuals
+plot(std_res, pch = 20, main = "Standardized residuals")
+abline(h = c(-3, 3), col = "red", lty = 2)
+
+# Calculate influences of outliers
+
+# Calculate influence measures for each observation
+infl <- influence(seeflex_mdl_op, obs = TRUE)
+# Standardized (Pearson) residuals
+std_res <- residuals(infl, type = "pearson")
+# Cook’s distance per observation
+cd <- cooks.distance(infl)
+# Leverage (hat values)
+lev <- hatvalues(infl)
+# Identify "problematic" cases
+outliers_idx <- which(abs(std_res) > 3)
+influential_idx <- which(cd > (4/length(cd)))  # common Cook’s D cutoff
+cat("Number of residual outliers:", length(outliers_idx), "\n")
+cat("Number of influential points (Cook’s D):", length(influential_idx), "\n")
+
+# View the first few flagged observations
+seeflex_pcr[outliers_idx, ]
+seeflex_pcr[influential_idx, ]
+
+
+```
+
+# Plots
+
+```{r}
+
+# Extract standardized residuals
+res_raw <- residuals(seeflex_mdl_op)
+sig <- sigma(seeflex_mdl_op)   # same as sqrt(Residual Variance)
+res_std <- res_raw / sig   # or: residuals(m_base, type = "pearson")
+
+# Identify potential outliers
+outliers_idx <- which(abs(res_std) > 3)
+length(outliers_idx)       # how many?
+seeflex_pcr[outliers_idx,] 
+
+df_diag <- data.frame(
+  fitted = fitted(seeflex_mdl_op),
+  resid  = res_std
+)
+
+ggplot(df_diag, aes(fitted, resid)) +
+  geom_hline(yintercept = 0, colour = "grey50") +
+  geom_point(alpha = .5) +
+  geom_smooth(se = FALSE, colour = "red") +
+  labs(x = "Fitted values", y = "Standardised residuals") +
+  theme_classic() +
+  coord_cartesian(ylim = c(-4, 4))    # shows ±3 bands clearly
+
+sim_res <- simulateResiduals(fittedModel = seeflex_mdl_op, n = 1000)
+plot(sim_res)                # uniformity, dispersion, quantile plot
+testResiduals(sim_res)
+testUniformity(sim_res)
+plotResiduals(sim_res, seeflex_pcr$OPERATOR.17)
+plotResiduals(sim_res, seeflex_pcr$LexTALE.ENG)
+plotResiduals(sim_res, seeflex_pcr$VLT_Overall)
+plotResiduals(sim_res, seeflex_pcr$NFC)
+plotResiduals(sim_res, seeflex_pcr$Reading_score)
+plotResiduals(sim_res, seeflex_pcr$MONTHS.COUNTRY)
+ggplot(data.frame(fitted = predict(seeflex_mdl_op),
+                  res    = sim_res$scaledResiduals),
+       aes(fitted, res - 0.5)) +       # subtract 0.5 to center on 0
+  geom_point(alpha = 0.4) +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  labs(y = "DHARMa residual (centered)",
+       x = "Fitted values") +
+  theme_bw()
+plotResiduals(sim_res,
+              group = seeflex_pcr$PROMPT_ID,
+              quantreg = FALSE)
+```
+
+# Homo
+
+```{r}
+
+res <- resid(seeflex_mdl_op)
+fit <- fitted(seeflex_mdl_op)
+
+plot(fit, res, pch = 20,
+     xlab = "Fitted values", ylab = "Residuals",
+     main = "Residuals vs Fitted")
+abline(h = 0, col = "red")
+
+
+bp <- bptest(res ~ fit)
+bp
+
+
+# Data actually used in the model
+model_dat <- model.frame(seeflex_mdl_op)
+
+# Combine residuals with predictors
+res_df <- data.frame(
+  res = res,
+  fit = fit,
+  PROMPT_ID = model_dat$PROMPT_ID,
+  STUDENT.ID = model_dat$STUDENT.IDhttp://127.0.0.1:19277/graphics/plot_zoom_png?width=1702&height=1321
+)
+
+# Now plotting works
+boxplot(res ~ PROMPT_ID, data = res_df, main = "Residuals by PROMPT_ID")
+boxplot(res ~ STUDENT.ID, data = res_df, main = "Residuals by STUDENT.ID")
+
+
+residuals_op <- residuals(seeflex_mdl_op)
+resid_df <- data.frame(
+  residuals = residuals_op,
+  operator = seeflex_pcr$OPERATOR.17
+)
+leveneTest(res ~ PROMPT_ID, data = res_df)
+
+
+```
+
+# Spline?
+
+```{r}
+
+seeflex_mdl_op_spline <- lmer(
+  PC ~ OPERATOR.17 + ns(LexTALE.ENG, 3) + ns(VLT_Overall, 3) + ns(NFC, 3) +
+    ns(Reading_score, 3) + ns(MONTHS.COUNTRY, 3) +
+    (1 | PROMPT_ID) + (1 | STUDENT.ID),
+  data = seeflex_pcr
+)
+
+cont_preds <- c("MONTHS.COUNTRY", "LexTALE.ENG", "VLT_Overall", "NFC", "Reading_score")
+
+for (v in cont_preds) {
+  p <- ggplot(seeflex_pcr, aes_string(x = v, y = "PC")) +
+    geom_point(alpha = 0.4) +
+    geom_smooth(method = "lm", se = FALSE, color = "red") +
+    geom_smooth(se = FALSE, color = "blue") +
+    ggtitle(paste("PC vs", v)) +
+    theme_minimal()
+  print(p)
+}
+
+```
+
+# DHARMa
+
+```{r}
+
+# Simulate standardized residuals
+simulationOutput <- simulateResiduals(fittedModel = seeflex_mdl_ge)
+
+# Plot diagnostics including tests for heteroscedasticity
+plot(simulationOutput)
+
+# Test for heteroscedasticity formally
+testDispersion(simulationOutput)
+
+```
+
+
+## Linear tests
+
+```{r}
+
+ggplot(seeflex_pcr, aes(x = Reading_score, y = PC)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +  # linear fit
+  geom_smooth(se = FALSE, color = "blue") +                # loess smoother
+  theme_minimal()
+
+
+m_lin <- lmer(PC ~ Reading_score + (1|STUDENT.ID) + (1|PROMPT_ID), data = seeflex_pcr)
+m_quad <- lmer(PC ~ poly(Reading_score, 2) + (1|STUDENT.ID) + (1|PROMPT_ID), data = seeflex_pcr)
+
+anova(m_lin, m_quad) 
+
+m_lin <- lmer(PC ~ Reading_score + (1|STUDENT.ID) + (1|PROMPT_ID), data = seeflex_pcr)
+m_spline <- lmer(PC ~ ns(Reading_score, 3) + (1|STUDENT.ID) + (1|PROMPT_ID), data = seeflex_pcr)
+
+anova(m_lin, m_spline)
+
+library(car)
+crPlots(m_lin)
+
+
+cont_preds <- c("Reading_score", "LexTALE.ENG", "VLT_Overall", "NFC", "MONTHS.COUNTRY")
+
+# Empty list to store results
+results <- list()
+
+for (v in cont_preds) {
+  
+  # Build formulas
+  f_lin <- as.formula(paste(
+    "PC ~", v, "+ OPERATOR.17 + (1|PROMPT_ID) + (1|STUDENT.ID)"
+  ))
+  
+  f_spline <- as.formula(paste(
+    "PC ~ ns(", v, ", 3) + OPERATOR.17 + (1|PROMPT_ID) + (1|STUDENT.ID)"
+  ))
+  
+  # Fit models
+  m_lin <- lmer(f_lin, data = seeflex_pcr, REML = FALSE)
+  m_spline <- lmer(f_spline, data = seeflex_pcr, REML = FALSE)
+  
+  # Compare
+  cmp <- anova(m_lin, m_spline)
+  
+  # Save results
+  results[[v]] <- cmp
+  cat("\n============================\n")
+  cat("Predictor:", v, "\n")
+  print(cmp)
+}
+
+
+boot_se <- bootMer(
+  seeflex_mdl_op,
+  FUN = function(fit) fixef(fit),
+  nsim = 500,
+  type = "parametric",
+  seed = 123
+)
+apply(boot_se$t, 2, sd)  # bootstrap SEs for fixed effects
+
+
+```
+

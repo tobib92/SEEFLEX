@@ -60,6 +60,7 @@ scatterplot_update_input <- function(
 scatterplot_observe_preset <- function(input, session) {
   shiny::observe({
     preset <- scatterplot_presets[[input$preset]]
+
     for (par in c("x", "y")) {
       scatterplot_update_input(session, par, preset[[par]], "select")
     }
@@ -68,7 +69,6 @@ scatterplot_observe_preset <- function(input, session) {
                   "focus_t.curr", "focus_grade", "focus_genre")) {
       scatterplot_update_input(session, par, preset[[par]], "radio")
     }
-
     for (par in c("ellipses", "transitions")) {
       scatterplot_update_input(session, par, preset[[par]], "checkbox")
     }
@@ -179,13 +179,43 @@ scatterplot_get_data <- function(input) {
 
     data.df %<>% droplevels()
 
-    print(paste("no. of texts currently selected:", nrow(data.df)))
+    # print(paste("no. of texts currently selected:", nrow(data.df)))
+    # print(paste("no. of courses currently selected:", length(unique(data.df$COURSE))))
 
     data.df
   })
 }
 
+
 #### Plot Generation ####
+
+#' This function takes the information from the UI input on the selected
+#' multivariate analysis and the dimension number from the selected data frame
+#' column to create the necessary output string to display the plot correctly.
+#'
+#' @param selected_analysis_label Value of UI input on multivar. analysis
+#' @param selected_dimension Selected column of data frame
+
+get_column_name_from_ui <- function(selected_analysis_label, selected_dimension) {
+
+  column_name <- ""
+  analysis_label_prefix <- substr(selected_analysis_label, 1,3)
+  if (analysis_label_prefix == "pca") {
+    column_name <- paste0(column_name, "PC")
+  } else if (analysis_label_prefix == "lda") {
+    column_name <- paste0(column_name, "LD")
+  } else {
+    stop("Unknown analysis label!")
+  }
+
+  selected_dimension_number <- substr(
+    selected_dimension, nchar(selected_dimension), nchar(selected_dimension))
+
+  column_name <- paste0(column_name, selected_dimension_number)
+
+  return(column_name)
+}
+
 
 #' Generate a scatterplot using the scatterD3 package
 #'
@@ -287,8 +317,8 @@ generate_scatterplot <- function(input, data) {
 
   # Create the plot
   scatterD3::scatterD3(
-    y = data()[, input$y],
-    x = data()[, input$x],
+    y = data()[, get_column_name_from_ui(input$lda, input$y)],
+    x = data()[, get_column_name_from_ui(input$lda, input$x)],
     fixed = TRUE,
     xlab = dim_label_lab[[input$x]],
     ylab = dim_label_lab[[input$y]],
@@ -412,18 +442,6 @@ scatterplot_server <- function(input, output, session) {
   D3plot <- shiny::reactive(generate_scatterplot(input, data))
   output$scatterPlot <- scatterD3::renderScatterD3(D3plot())
 
-  # Observe the input for the multivariate analysis so that it changes the input
-  # for the dimensions automatically.
-  observeEvent(input$lda, {
-    if (input$lda != "pca") {
-      updateSelectInput(session, "x", selected = "LD2")
-      updateSelectInput(session, "y", selected = "LD1")
-    } else if (input$lda == "pca") {
-      updateSelectInput(session, "x", selected = "PC2")
-      updateSelectInput(session, "y", selected = "PC1")
-    }
-  })
-
   # Observe both input$granularity and input$filter_col and mutually adjust
   observeEvent(input$granularity, {
     false_triggers <- c("Curricular task", "Genre", "Grade")
@@ -439,6 +457,11 @@ scatterplot_server <- function(input, output, session) {
     } else if (input$filter_col == "Operator 25") {
       updateRadioButtons(session, "granularity", selected = "n25")
     }
+  })
+
+  output$current_selection_count <- renderPrint({
+    print(paste("no. of texts currently selected:", nrow(data())))
+    print(paste("no. of courses currently selected:", length(unique(data()$COURSE))))
   })
 
   output$download_plot <- scatterplot_pdf_download_handler(input)

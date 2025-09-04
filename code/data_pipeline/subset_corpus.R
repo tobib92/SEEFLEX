@@ -2,9 +2,9 @@
 
 library(fs)
 
-source("xml_utils.R")
-source("meta_utils.R")
-source("meta_data.R")
+source("code/data_pipeline/xml_utils.R")
+source("code/data_pipeline/meta_utils.R")
+source("code/data_pipeline/meta_data.R")
 
 
 # This script provides functions to subset SEEFLEX according to the WD data
@@ -19,13 +19,13 @@ source("meta_data.R")
 copy_corpus_files <- function(input_directory, output_directory) {
 
   # Check if the input directory exists
-  if (!dir_exists(input_directory)) {
+  if (!fs::dir_exists(input_directory)) {
     stop("The input directory does not exist.")
   }
 
   # Create output directory if it doesn't exist
-  if (!dir_exists(output_directory)) {
-    dir_create(output_directory)
+  if (!fs::dir_exists(output_directory)) {
+    fs::dir_create(output_directory)
   }
 
   # Copy all files and subdirectories from input to output directory
@@ -170,19 +170,19 @@ copy_corpus_files(input_directory = "data/anon/",
 ##### Filter data frame according to the columns and values specified. #####
 
 # Filter_values <- c("value1", "value1", "value1", "value1")
-filter_values <- c("summarize", "comment", "analyze", "e-mail_informal",
-                   "letter_formal", "blog", "magazine", "report")
-WD_filtered <- filter_df(filter_column_1 = "OPERATOR.14",
+filter_values <- c("summarize", "comment", "analyze", "informal_e-mail",
+                   "formal_letter", "blog", "magazine", "report")
+WD_filtered <- filter_df(filter_column_1 = "OPERATOR.17",
                          filter_values_1 = filter_values)
 
 # Recode variables
 seeflex_meta <- seeflex_meta %>%
-  dplyr::mutate(OPERATOR.14 = dplyr::recode(.$OPERATOR.14,
-                                          "blog" = 'magazine',
-                                          "report" = 'magazine'))
+  dplyr::mutate(OPERATOR.17 = dplyr::recode(.$OPERATOR.17,
+                                          "magazine" = 'blog',
+                                          "report" = 'blog'))
 
 
 ##### Delete all corpus files not contained in the filtered data frame. #####
 
-delete_unlisted_xml_files(data_directory = "output/filtered/",
+delete_unlisted_xml_files(data_directory = "output/20250703_filtered/",
                           df = WD_filtered, id_column_name = "ID")

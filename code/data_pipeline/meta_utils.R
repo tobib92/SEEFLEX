@@ -288,7 +288,7 @@ group_operators <- function(meta) {
       .$OPERATOR %in% "diary" ~ "creative",
       .$OPERATOR %in% "discuss" ~ "argumentative",
       (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "a11gk4" &
-         .$TASK %in% "t3") ~ "argumentative",
+         .$TASK %in% c("t3", "t3a")) ~ "argumentative",
       (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "a11gk4" &
          .$TASK %in% "t4") ~ "mediation",
       (.$OPERATOR %in% "informal_e-mail" & .$COURSE %in% "c10gk4") ~
@@ -367,4 +367,29 @@ anonymize_collapsed_id <- function(feature_data, id_column) {
     dplyr::select(-c(SCHOOL, GRADE, COURSE, TASK)) %>%
     dplyr::rename(id = ID)
 
+}
+
+
+#' This function merges the MD and WD data frames e.g. for regression modeling
+#'
+#' @param MD The metadata df
+#' @param WD The written data df
+#' @param MD_id An optional name for the merging variable in MD
+#' @param WD_id An optional name for the merging variable in WD
+#' @return The merged data frame
+
+merge_meta_df <- function(MD, WD, MD_id = "ID", WD_id = "ID") {
+
+  merged_df <- WD %>%
+    dplyr::mutate(match_id = str_sub(ID, start = 1L, end = 6L)) %>%
+    dplyr::left_join(MD, by = join_by(match_id == ID), relationship = "many-to-one", unmatched = "error") %>%
+    dplyr::rename(SCHOOL = SCHOOL.x) %>%
+    dplyr::rename(GRADE = GRADE.x) %>%
+    dplyr::rename(COURSE = COURSE.x) %>%
+    dplyr::select(-SCHOOL.y, -GRADE.y, -COURSE.y, -match_id)
+
+  # mismatches <- merged_df[[SCHOOL.x]] != merged_df[[SCHOOL.y]]
+  # print(mismatches)
+
+  return(merged_df)
 }

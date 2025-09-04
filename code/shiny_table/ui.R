@@ -24,7 +24,7 @@ tooltip_dim <- HTML(
   )
 )
 
-tooltip_lda_weights <- HTML(
+tooltip_lda_table <- HTML(
   paste(
     "Choose between the unsupervised Principal Component Analysis (PCA) and the",
     "supervised Linear Discriminant Analysis (LDA). For the LDA, select the",
@@ -34,19 +34,19 @@ tooltip_lda_weights <- HTML(
   )
 )
 
-tooltip_granularity_weights <- HTML(
+tooltip_granularity_table <- HTML(
   "Choose between the Operator 17 and Operator 25 granularity."
 )
 
-tooltip_deselect1_weights <- HTML(
+tooltip_deselect1_table <- HTML(
   "Subset the data depending on different variables."
 )
 
-tooltip_deselect2_weights <- HTML(
+tooltip_deselect2_table <- HTML(
   "Subset the data depending on different variables."
 )
 
-tooltip_deselect3_weights <- HTML(
+tooltip_deselect3_table <- HTML(
   "Subset the feature set by selecting single features or setting a weights limit."
 )
 
@@ -76,7 +76,7 @@ table_ui <- function(id) {
         tags$hr(style = "height: 2px; background: #DDD;"),
 
         #### LDA radio button and tooltip ####
-        bsTooltip(ns("info_lda"), tooltip_lda_weights, trigger = "hover", placement = "right"),
+        bsTooltip(ns("info_lda"), tooltip_lda_table, trigger = "hover", placement = "right"),
         radioButtons(
           ns("lda"),
           label = tagList("Multivariate analysis", actionButton(
@@ -87,40 +87,24 @@ table_ui <- function(id) {
           choices = c(
             "PCA" = "pca",
             "LDA Genre" = "lda_genre",
-            "LDA Curricular task" = "lda_t.curr",
-            "LDA Operator 17" = "lda_operator17",
-            "LDA Operator 25" = "lda_operator25"
+            "LDA Curricular task" = "lda_t.curr"
+            # "LDA Operator 17" = "lda_operator17",
+            # "LDA Operator 25" = "lda_operator25"
           ),
           selected = "lda_genre", inline = TRUE
         ),
 
         #### Dimension input ####
         bsTooltip(ns("info_dim"), tooltip_dim, trigger = "hover", placement = "right"),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] == 'pca'"),
-          selectInput(
-            ns("dim"),
-            label = tagList("Dimension", actionButton(
-              ns("info_dim"),
-              label = tags$i(class = "fa fa-info-circle text-primary"),
-              style = "border: none; background: transparent; cursor: pointer;"
-            )),
-            choices = label_dim_pca,
-            selected = "PC2"
-          ),
-        ),
-        conditionalPanel(
-          condition = paste0("input['", ns("lda"), "'] != 'pca'"),
-          selectInput(
-            ns("dim"),
-            label = tagList("Dimension", actionButton(
-              ns("info_dim"),
-              label = tags$i(class = "fa fa-info-circle text-primary"),
-              style = "border: none; background: transparent; cursor: pointer;"
-            )),
-            choices = label_dim_lda,
-            selected = "LD1"
-          ),
+        selectInput(
+          ns("dim"),
+          label = tagList("Dimension", actionButton(
+            ns("info_dim"),
+            label = tags$i(class = "fa fa-info-circle text-primary"),
+            style = "border: none; background: transparent; cursor: pointer;"
+          )),
+          choices = label_dim_pca,
+          selected = "Dim1"
         ),
 
         #### What input and tooltip
@@ -146,7 +130,7 @@ table_ui <- function(id) {
         tags$hr(style = "height: 2px; background: #DDD;"),
 
         #### Granularity and operator checkboxes ####
-        bsTooltip(ns("info_granularity"), tooltip_granularity_weights, trigger = "hover", placement = "right"),
+        bsTooltip(ns("info_granularity"), tooltip_granularity_table, trigger = "hover", placement = "right"),
         radioButtons(ns("granularity"),
           label = tagList(
             "Operators granularity", actionButton(
@@ -158,7 +142,7 @@ table_ui <- function(id) {
           choices = c("17" = "n17", "25" = "n25"),
           selected = "n17", inline = TRUE
         ),
-        bsTooltip(ns("info_deselect1"), tooltip_deselect1_weights, trigger = "hover", placement = "right"),
+        bsTooltip(ns("info_deselect1"), tooltip_deselect1_table, trigger = "hover", placement = "right"),
         conditionalPanel(
           condition = paste0("input['", ns("granularity"), "'] == 'n17'"),
           checkboxGroupInput(
@@ -174,7 +158,7 @@ table_ui <- function(id) {
             selected = label_cat.operator.17, inline = TRUE
           )
         ),
-        bsTooltip(ns("info_deselect2"), tooltip_deselect2_weights, trigger = "hover", placement = "right"),
+        bsTooltip(ns("info_deselect2"), tooltip_deselect2_table, trigger = "hover", placement = "right"),
         conditionalPanel(
           condition = paste0("input['", ns("granularity"), "'] == 'n25'"),
           checkboxGroupInput(
@@ -216,7 +200,7 @@ table_ui <- function(id) {
         tags$hr(style = "height: 2px; background: #DDD;"), # horizontal line
 
         #### Feature selection ####
-        bsTooltip(ns("info_deselect3"), tooltip_deselect3_weights, trigger = "hover", placement = "right"),
+        bsTooltip(ns("info_deselect3"), tooltip_deselect3_table, trigger = "hover", placement = "right"),
         radioButtons(
           ns("feature_deselect"),
           label = tagList(

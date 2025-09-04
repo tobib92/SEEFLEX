@@ -21,14 +21,18 @@ plot <- ggplot(long_lextale, aes(x = Score_Type, y = Score_Value, fill = GRADE))
             position = position_dodge(0.91),
             hjust = 0.5,
             vjust = 1.2,
-            colour = "#FFFFFF"
+            colour = "#FFFFFF",
+            fontface = "bold",
             # size = 4.5
             # angle = 90
             ) + # Adjust vertical position of text
-  labs(title = "LexTALE results",
-       x = "Test",
-       y = "Score", legend = element_text("test")) +
-  scale_fill_manual(values = c("#00B1B7", "#407FB7", "#2D7F83")) +
+  labs(
+    # title = "LexTALE results",
+    x = "Test",
+    y = "Score",
+    fill = "Grade"
+    ) +
+  scale_fill_manual(values = c("#a85b4a", "#8fb771", "#875da7")) +
   scale_x_discrete(labels = c("LexTALE English", "LexTALE German")) +
   theme_minimal()
 

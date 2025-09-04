@@ -93,46 +93,47 @@ text_server <- function(input, output, session) {
 
     formatted_output <- paste0(
       "<table style='border-collapse: separate; border-spacing: 20px 2px;' border='0'>",
+
+      # First row: ID and School
       "<tr>",
       "<td><strong>ID:</strong></td>",
       "<td>", meta_vec[["ID"]], "</td>",
-      "</tr>",
-      "<tr>",
-      "<td><strong>School:</strong></td>",
+      "<td style='padding-left:50px;'><strong>School:</strong></td>",
       "<td>", meta_vec[["SCHOOL"]], "</td>",
       "</tr>",
-      "<tr>",
-      "<td><strong>Grade:</strong></td>",
-      "<td>", meta_vec[["GRADE"]], "</td>",
-      "</tr>",
-      "<tr>",
-      "<td><strong>Course:</strong></td>",
-      "<td>", meta_vec[["COURSE"]], "</td>",
-      "</tr>",
+
+      # Second row: Task and Grade
       "<tr>",
       "<td><strong>Task:</strong></td>",
       "<td>", meta_vec[["TASK"]], "</td>",
+      "<td style='padding-left:50px;'><strong>Grade:</strong></td>",
+      "<td>", meta_vec[["GRADE"]], "</td>",
       "</tr>",
+
+      # Third row: Operator and Course
       "<tr>",
       "<td><strong>Operator:</strong></td>",
       "<td>", meta_vec[["OPERATOR"]], "</td>",
+      "<td style='padding-left:50px;'><strong>Course:</strong></td>",
+      "<td>", meta_vec[["COURSE"]], "</td>",
       "</tr>",
+
+      # Fourth row: Genre and No. of tasks
       "<tr>",
       "<td><strong>Genre:</strong></td>",
       "<td>", meta_vec[["GENRE"]], "</td>",
+      "<td style='padding-left:50px;'><strong>No. of tasks:</strong></td>",
+      "<td>", meta_vec[["TASK.NO"]], "</td>",
       "</tr>",
+
+      # Fifth row: Genre family and Time
       "<tr>",
       "<td><strong>Genre family:</strong></td>",
       "<td>", meta_vec[["GENRE_FAMILY"]], "</td>",
-      "</tr>",
-      "<tr>",
-      "<td><strong>Time:</strong></td>",
+      "<td style='padding-left:50px;'><strong>Time:</strong></td>",
       "<td>", meta_vec[["TIME"]], "</td>",
       "</tr>",
-      "<tr>",
-      "<td><strong>No. of tasks:</strong></td>",
-      "<td>", meta_vec[["TASK.NO"]], "</td>",
-      "</tr>",
+
       "</table>"
     )
     meta_string(formatted_output)
@@ -161,8 +162,18 @@ text_server <- function(input, output, session) {
     updateAceEditor(session, "xmlEditor", value = content)
 
     # Remove all XML nodes using a regular expression.
-    extractedText <- gsub("(?s)<.*?>", "", xml_file, perl = TRUE)
+    # 1. Remove all <reg> nodes and their content
+    xml_file %>% xml_find_all("//d1:reg") %>% xml_remove()
+
+    # 2. Extract the remaining XML as plain text (ignores tags, keeps text)
+    text_no_tags <- xml_text(xml_file)
+
+    # 3. Trim whitespace/newlines from beginning and end
+    clean_text <- trimws(text_no_tags)
+    extractedText <- gsub("\\.(?!\\s)", ". ", clean_text, perl = TRUE)
+    # extractedText <- gsub("(?s)<.*?>", "", xml_file, perl = TRUE)
     txt_content(extractedText)
+    updateAceEditor(session, "plainTextEditor", value = extractedText)
   })
 
   output$values_output <- renderUI({

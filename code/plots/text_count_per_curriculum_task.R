@@ -5,7 +5,7 @@ library(tidyverse)
 source("code/data_pipeline/meta_data.R")
 
 # Set operator granularity: TRUE = 17, FALSE = 25
-OPERATOR_MODE <- FALSE
+OPERATOR_MODE <- TRUE
 
 if (OPERATOR_MODE) {
   OPERATOR <- "OPERATOR.17"
@@ -19,7 +19,7 @@ WD_sum <- WD %>%
   arrange(desc(total_count)) %>%
   ungroup() %>%
   mutate(T.CURR = case_when(
-    T.CURR == "int.reading" ~ "t1\nIntegrated reading\ncomprehension",
+    T.CURR == "int.reading" ~ "t1\nIntegrated\nreading\ncomprehension",
     T.CURR == "analysis" ~ "t2\nAnalysis",
     T.CURR == "argumentative" ~ "t3a\nArgumentative",
     T.CURR == "creative" ~ "t3c\nCreative",
@@ -35,7 +35,7 @@ WD_sum_t.curr <- WD %>%
   group_by(T.CURR) %>%
   dplyr::summarise(total_count = n()) %>%
   mutate(T.CURR = case_when(
-    T.CURR == "int.reading" ~ "t1\nIntegrated reading\ncomprehension",
+    T.CURR == "int.reading" ~ "t1\nIntegrated\nreading\ncomprehension",
     T.CURR == "analysis" ~ "t2\nAnalysis",
     T.CURR == "argumentative" ~ "t3a\nArgumentative",
     T.CURR == "creative" ~ "t3c\nCreative",
@@ -44,7 +44,7 @@ WD_sum_t.curr <- WD %>%
   ))
 
 count_int.reading <- WD_sum_t.curr %>%
-  filter(T.CURR == "t1\nIntegrated reading\ncomprehension") %>%
+  filter(T.CURR == "t1\nIntegrated\nreading\ncomprehension") %>%
   pull(total_count)
 count_analysis <- WD_sum_t.curr %>%
   filter(T.CURR == "t2\nAnalysis") %>%
@@ -60,25 +60,25 @@ count_mediation <- WD_sum_t.curr %>%
   pull(total_count)
 
 if (OPERATOR_MODE) {
-  manual_order <- c(
-    "analyze",
-    "summarize",
-    "comment",
-    "e-mail_informal",
-    "letter_formal",
-    "point_out",
-    "describe",
-    "report",
-    "blog",
-    "magazine",
-    "dialogue",
-    "speech",
-    "interior_monologue",
-    "paraphrase_sonnet",
-    "characterize",
-    "diary",
-    "story"
-  )
+  # manual_order <- c(
+  #   "analyze",
+  #   "summarize",
+  #   "comment",
+  #   "e-mail_informal",
+  #   "letter_formal",
+  #   "point_out",
+  #   "describe",
+  #   "report",
+  #   "blog",
+  #   "magazine",
+  #   "dialogue",
+  #   "speech",
+  #   "interior_monologue",
+  #   "paraphrase_sonnet",
+  #   "characterize",
+  #   "diary",
+  #   "story"
+  # )
 
   manual_order_revision <- c(
     "analyze", "summarize", "comment (on)", "write an informal e-mail",
@@ -91,12 +91,19 @@ if (OPERATOR_MODE) {
 
   new_value_names <- c(
     "analyze", "summarize", "comment (on)", "write an informal e-mail",
-    "write a formal letter", "point out", "describe", "report",
-    "write a blog entry", "write a magazine text", "write a dialogue",
-    "write an interior monologue", "write an informal e-mail",
-    "paraphrase a sonnet", "write a speech", "characterize",
-    "write a diary entry", "write a speech", "write a story"
+    "write a formal letter", "point out", "describe", "write an informal e-mail",
+    "write a blog entry", "write a magazine text", "report", "write a dialogue",
+    "write an interior monologue", "write a speech", "characterize",
+    "write a diary entry", "paraphrase a sonnet", "write a speech", "write a story"
   )
+  # new_value_names <- c( # old values
+  #   "analyze", "summarize", "comment (on)", "write an informal e-mail",
+  #   "write a formal letter", "point out", "describe", "report",
+  #   "write a blog entry", "write a magazine text", "write a dialogue",
+  #   "write an interior monologue", "write an informal e-mail",
+  #   "paraphrase a sonnet", "write a speech", "characterize",
+  #   "write a diary entry", "write a speech", "write a story"
+  # )
   WD_sum$OPERATOR <- new_value_names
 
 } else {
@@ -194,21 +201,21 @@ output_filename <- paste0(
   "_operator-count-plot2.pdf"
 )
 
-ggsave(
-  filename = output_filename,
-  plot = tcurr_count_plot,
-  device = "pdf",
-  width = 297,
-  height = 140,
-  units = "mm",
-  dpi = 300
-)
+# ggsave(
+#   filename = output_filename,
+#   plot = plot,
+#   device = "pdf",
+#   width = 297,
+#   height = 140,
+#   units = "mm",
+#   dpi = 300
+# )
 
 
 #### Plot sorted by T.CURR and filled with OPERATOR ####
 
 T.CURR_order <- c(
-  "t1\nIntegrated reading\ncomprehension",
+  "t1\nIntegrated\nreading\ncomprehension",
   "t2\nAnalysis",
   "t3a\nArgumentative",
   "t3c\nCreative",
@@ -265,6 +272,10 @@ if (OPERATOR_MODE) {
   stop("Operator 25 has not been set up yet for tcurr plot")
 }
 
+# Add sizes to certain operators for better visibility
+
+WD_sum$text_sizes <- c(rep(5.0, 15), rep(4.1, 4))
+
 tcurr_count_plot <- ggplot(
   WD_sum,
   aes(
@@ -276,28 +287,31 @@ tcurr_count_plot <- ggplot(
     stat = "identity",
     # colour = T.CURR_colors,
     size = 0.5) +
-  geom_text(aes(label = total_count),
+  geom_text(aes(label = total_count, size = text_sizes),
     position = position_stack(vjust = 0),
-    hjust = 0,
+    hjust = -0.01,
+    # angle = 90,
+    # size = 5,
     colour = "#FFFFFF",
     fontface = "bold"
   ) +
+  scale_size_identity() +
   labs(
     y = "Curricular tasks",
-    x = "# of Texts"
+    x = "Number of Texts"
   ) +
   theme_minimal() +
   theme(
     panel.grid = element_blank(),
-    axis.text.x = element_text(size = 12),
-    axis.text.y = element_text(angle = 90, hjust = 0.5, size = 12),
-    axis.title.x = element_text(size = 12),
-    axis.title.y = element_text(size = 12),
-    legend.text = element_text(size = 12),
-    legend.title = element_text(size = 13)
+    axis.text.x = element_text(size = 15),
+    axis.text.y = element_text(hjust = 1, size = 15, margin = margin(r = -25, unit = "pt")),
+    axis.title.x = element_text(size = 16),
+    axis.title.y = element_text(size = 16),
+    legend.text = element_text(size = 15),
+    legend.title = element_text(size = 16)
   ) +
   guides(
-    fill = guide_legend(title = "Operators:")
+    fill = guide_legend(title = "Operators:", reverse = TRUE)
   ) +
   scale_fill_manual(
     values = T.CURR_colors
@@ -322,3 +336,4 @@ ggsave(
   units = "mm",
   dpi = 300
 )
+

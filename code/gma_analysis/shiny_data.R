@@ -5,7 +5,7 @@ library(tidytext)
 
 source("code/gma_analysis/gma_utils.R")
 source("code/gma_analysis/seeflex_gma_utils.R")
-load("data/gma/20250611_data.rda", verbose=TRUE)
+load("data/gma/20250821_data.rda", verbose=TRUE)
 
 # Data preparation
 # Filter for texts of min 10 sentences and min 100 words
@@ -42,6 +42,7 @@ PCA4.df <- data.frame(
   GENRE = seeflex_meta$GENRE,
   GENRE_FAMILY = seeflex_meta$GENRE_FAMILY,
   GRADE = seeflex_meta$GRADE,
+  COURSE = seeflex_meta$COURSE,
   ID = seeflex_meta$id
 )
 
@@ -53,7 +54,8 @@ PCA4.df <- PCA4.df %>%
                          "<br /> T.Curr:", PCA4.df$T.CURR,
                          "<br /> Genre:", PCA4.df$GENRE,
                          "<br /> Subgenre:", PCA4.df$GENRE_FAMILY,
-                         "<br /> Grade:", PCA4.df$GRADE))
+                         "<br /> Grade:", PCA4.df$GRADE,
+                         "<br /> Course:", PCA4.df$COURSE))
 
 # creating the LDA elements
 LDA_genre <- PCA$copy()
@@ -89,6 +91,7 @@ LDA4_genre.df <- data.frame(
   GENRE = seeflex_meta$GENRE,
   GENRE_FAMILY = seeflex_meta$GENRE_FAMILY,
   GRADE = seeflex_meta$GRADE,
+  COURSE = seeflex_meta$COURSE,
   ID = seeflex_meta$id)
 
 LDA4_genre.df <- LDA4_genre.df %>%
@@ -99,7 +102,8 @@ LDA4_genre.df <- LDA4_genre.df %>%
                   "<br /> T.Curr:", LDA4_genre.df$T.CURR,
                   "<br /> Genre:", LDA4_genre.df$GENRE,
                   "<br /> Subgenre:", LDA4_genre.df$GENRE_FAMILY,
-                  "<br /> Grade:", LDA4_genre.df$GRADE))
+                  "<br /> Grade:", LDA4_genre.df$GRADE,
+                  "<br /> Course:", LDA4_genre.df$COURSE))
 
 ## LDA t.curr df
 LDA4_t.curr.df <- data.frame(
@@ -111,6 +115,7 @@ LDA4_t.curr.df <- data.frame(
   GENRE = seeflex_meta$GENRE,
   GENRE_FAMILY = seeflex_meta$GENRE_FAMILY,
   GRADE = seeflex_meta$GRADE,
+  COURSE = seeflex_meta$COURSE,
   ID = seeflex_meta$id)
 
 LDA4_t.curr.df <- LDA4_t.curr.df %>%
@@ -121,7 +126,8 @@ LDA4_t.curr.df <- LDA4_t.curr.df %>%
                   "<br /> T.Curr:", LDA4_t.curr.df$T.CURR,
                   "<br /> Genre:", LDA4_t.curr.df$GENRE,
                   "<br /> Subgenre:", LDA4_t.curr.df$GENRE_FAMILY,
-                  "<br /> Grade:", LDA4_t.curr.df$GRADE))
+                  "<br /> Grade:", LDA4_t.curr.df$GRADE,
+                  "<br /> Course:", LDA4_t.curr.df$COURSE))
 
 ## LDA operator.17 df
 LDA4_operator17.df <- data.frame(
@@ -133,6 +139,7 @@ LDA4_operator17.df <- data.frame(
   GENRE = seeflex_meta$GENRE,
   GENRE_FAMILY = seeflex_meta$GENRE_FAMILY,
   GRADE = seeflex_meta$GRADE,
+  COURSE = seeflex_meta$COURSE,
   ID = seeflex_meta$id)
 
 LDA4_operator17.df <- LDA4_operator17.df %>%
@@ -143,7 +150,8 @@ LDA4_operator17.df <- LDA4_operator17.df %>%
                   "<br /> T.Curr:", LDA4_operator17.df$T.CURR,
                   "<br /> Genre:", LDA4_operator17.df$GENRE,
                   "<br /> Subgenre:", LDA4_operator17.df$GENRE_FAMILY,
-                  "<br /> Grade:", LDA4_operator17.df$GRADE))
+                  "<br /> Grade:", LDA4_operator17.df$GRADE,
+                  "<br /> Course:", LDA4_operator17.df$COURSE))
 
 ## LDA operator.25 df
 LDA4_operator25.df <- data.frame(
@@ -155,6 +163,7 @@ LDA4_operator25.df <- data.frame(
   GENRE = seeflex_meta$GENRE,
   GENRE_FAMILY = seeflex_meta$GENRE_FAMILY,
   GRADE = seeflex_meta$GRADE,
+  COURSE = seeflex_meta$COURSE,
   ID = seeflex_meta$id)
 
 LDA4_operator25.df <- LDA4_operator25.df %>%
@@ -165,7 +174,8 @@ LDA4_operator25.df <- LDA4_operator25.df %>%
                   "<br /> T.Curr:", LDA4_operator25.df$T.CURR,
                   "<br /> Genre:", LDA4_operator25.df$GENRE,
                   "<br /> Subgenre:", LDA4_operator25.df$GENRE_FAMILY,
-                  "<br /> Grade:", LDA4_operator25.df$GRADE))
+                  "<br /> Grade:", LDA4_operator25.df$GRADE,
+                  "<br /> Course:", LDA4_operator25.df$COURSE))
 
 
 feature.names <- colnames(seeflex_zl)
